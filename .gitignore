@@ -1,0 +1,7 @@
+.course-tools/
+analise_curso/__pycache__/
+.production-tools/
+.venv-gemini/
+.env
+.env.*
+automacao/__pycache__/

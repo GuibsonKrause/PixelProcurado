@@ -1,0 +1,152 @@
+[
+  {
+    "file": "01_Por Que Gameplay E a Porta de Entrada Perfeita do Dark.mp4",
+    "seconds": 604.352,
+    "duration": "00:10:04",
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  },
+  {
+    "file": "02_Os Jogos Que Sustentam o Nicho.mp4",
+    "seconds": 740.842667,
+    "duration": "00:12:20",
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  },
+  {
+    "file": "03_O Papel do Canal - Ninguem Se Inscreve Pelo Jogo.mp4",
+    "seconds": 551.552,
+    "duration": "00:09:11",
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  },
+  {
+    "file": "04_GTA VI - A Maior Janela de Oportunidade da Decada.mp4",
+    "seconds": 707.754667,
+    "duration": "00:11:47",
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  },
+  {
+    "file": "05_Setup e Captura de Gameplay.mp4",
+    "seconds": 788.266667,
+    "duration": "00:13:08",
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  },
+  {
+    "file": "06_Compilados Que Performam Sem Cair na Malha Fina.mp4",
+    "seconds": 876.010667,
+    "duration": "00:14:36",
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  },
+  {
+    "file": "07_Noticias Trailers e Conteudo de Hype.mp4",
+    "seconds": 802.965333,
+    "duration": "00:13:22",
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  },
+  {
+    "file": "08_Narracao e Identidade Sem Rosto.mp4",
+    "seconds": 600.981333,
+    "duration": "00:10:00",
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  },
+  {
+    "file": "09_Shorts vs Long Form no Gaming.mp4",
+    "seconds": 818.794667,
+    "duration": "00:13:38",
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  },
+  {
+    "file": "11_Banco de vídeos GTA.mp4",
+    "seconds": 129.962667,
+    "duration": "00:02:09",
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  }
+]

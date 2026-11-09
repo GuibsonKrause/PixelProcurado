@@ -1,0 +1,15 @@
+{
+  "request": {
+    "model": "supertonic3",
+    "voice": "M5",
+    "input": "Uma forma simples de conferir uma afirmação é trocar a frase genérica por uma pergunta específica. Em vez de perguntar se o mundo parece enorme, pergunte qual medida foi divulgada. Em vez de dizer que todos os prédios serão acessíveis, procure a demonstração ou o anúncio que sustenta essa ideia. Se não encontrar, trate a frase como hipótese, não como característica garantida.",
+    "language": "pt",
+    "response_format": "wav",
+    "speed": 1.0,
+    "seed": 42,
+    "execution": "Supertonic SDK 1.3.1, same engine as VoiceStudio; local CPU",
+    "steps": 10
+  },
+  "duration": 30.114421768707484,
+  "generation_seconds": 39.64099999994505
+}

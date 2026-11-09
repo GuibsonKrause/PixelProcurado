@@ -1,0 +1,7 @@
+1
+00:00:00,240 --> 00:00:09,240
+O nosso filtro tem três passos. Primeiro, quem publicou? Segundo, o que exatamente foi mostrado ou escrito?
+
+2
+00:00:09,240 --> 00:00:23,240
+Terceiro, a conclusão que estamos repetindo cabe nessa evidência. Se a frase responde mais do que a fonte permite, ela precisa ser corrigida ou identificada como interpretação.

@@ -1,0 +1,206 @@
+## Página 1
+
+YOUTUBE DARK GAMES
+A LINHA DO TEMPO
+DO COMPILADO
+Anatomia da edição que prende o espectador do primeiro ao último segundo
+Material de apoio    Guia visual de estrutura, ritmo, ganchos e áudio
+Inclui a nova regra dos 7 segundos de monetização do YouTube
+YOUTUBE DARK GAMES    MATERIAL DE APOIO
+CAPA
+
+
+## Página 2
+
+VISÃO GERAL
+A anatomia completa da timeline
+É assim que a linha do tempo de um compilado profissional se organiza no seu editor.
+0:00
+0:07
+1:00
+2:30
+4:00
+5:30
+7:00
+8:30
+10:00
+TRILHA DE VÍDEO
+7s
+limpos
+PICO 1
+top 3 do vídeo
+BLOCO
+momentos bons
+PICO 2
+BLOCO
+momentos bons
+PICO 3
+BLOCO
+momentos bons
+PICO FINAL
+fecha forte
+CARTELAS / GANCHOS INTERNOS (ciano)  —  
+"o próximo quase quebrou o jogo"
+A1 — ÁUDIO DO JOGO (trilha separada)
+A2 — NARRAÇÃO / COMENTÁRIOS
+A3 — MÚSICA (biblioteca segura)
+Regra de leitura: blocos ROXOS são os picos (melhores momentos), blocos AZUIS são os momentos bons que preenchem os intervalos, marcadores CIANO são cartelas e
+ganchos, e o bloco AMARELO da abertura são os 7 segundos limpos exigidos pela monetização. Três trilhas de áudio sempre separadas.
+YOUTUBE DARK GAMES    MATERIAL DE APOIO
+PÁGINA 2
+
+
+## Página 3
+
+BLOCO 1 DA TIMELINE
+Os 7 primeiros segundos: a regra que paga o vídeo
+O YouTube liberou a monetização de violência gráfica de gameplay — mas só a partir do 8º segundo.
+ 0s — 7s
+ABERTURA LIMPA
+sem violência gráfica
+8s em diante
+AÇÃO LIBERADA E MONETIZÁVEL
+violência de gameplay elegível para receita
+>
+O que colocar nos 7 segundos limpos:
++
+Logo animada ou vinheta rápida do canal
++
+Cartela de título: "OS 20 MOMENTOS MAIS ABSURDOS..."
++
+Cenário, paisagem ou plano aberto do jogo
++
+Teaser em texto do que vem pela frente
+O que NÃO colocar:
+x
+Tiro, sangue e violência gráfica logo de cara
+x
+A melhor cena do vídeo ANTES do 8º segundo
+x
+Cena pesada mesmo que "seja só gameplay"
+x
+Abrir direto no meio de uma ação violenta
+TRANSFORME EM TEMPLATE:
+crie um bloco fixo de abertura de 7 segundos e reutilize em todos os vídeos do canal. Um ajuste único que protege a receita de tudo que você publicar.
+YOUTUBE DARK GAMES    MATERIAL DE APOIO
+PÁGINA 3
+
+
+## Página 4
+
+ESTRUTURA
+A curva de picos: onde colocar os melhores momentos
+Compilado não é filme. Não existe clímax que recompensa a paciência — existe retenção.
+tempo do vídeo
+intensidade
+ERRADO
+guardar o melhor pro final
+EVITAR
+tempo do vídeo
+intensidade
+CERTO
+pico forte no início + picos distribuídos
+PADRÃO
+Por que o modelo da direita vence: os primeiros 30 segundos decidem se o espectador fica — então um dos
+três melhores momentos do vídeo inteiro abre o compilado. Depois, os outros picos são espalhados como
+estações de recarga de interesse: sempre que a atenção começa a cair, um momento forte renova o contrato.
+No modelo da esquerda, o espectador precisa "aguentar" até o final pra ver o melhor — e ele simplesmente
+não aguenta. Ele sai, a retenção desaba e o algoritmo enterra o vídeo antes do clímax ser visto por alguém.
+REGRA PRÁTICA
+Liste seus 3 melhores momentos. Um
+abre o vídeo. Os outros dois vão pro
+meio e pro fim, com os blocos
+medianos preenchendo os intervalos.
+YOUTUBE DARK GAMES    MATERIAL DE APOIO
+PÁGINA 4
+
+
+## Página 5
+
+RITMO & GANCHOS
+Corte seco e os 4 ganchos internos
+O que transforma uma pilha de clipes numa experiência com personalidade.
+O ritmo: terminou o momento, corta pro próximo
+VERDE = momento com reação (fica)
+VERMELHO = gordura: menu, loading, andança (corta)
+1
+CARTELAS DE TEXTO
+"O próximo quase quebrou o jogo."
+Anuncia o que vem e renova a
+curiosidade entre blocos.
+2
+RANKING REGRESSIVO
+Contagem do 20 até o 1. Cria
+compromisso: ninguém sai sem ver o
+primeiro lugar.
+3
+REPLAY + ZOOM
+Repete o detalhe absurdo em
+câmera lenta. O espectador sente
+que ganhou algo por ter ficado.
+4
+LEGENDAS COMENTANDO
+Uma frase sua reagindo à jogada. É
+a camada autoral que a malha fina
+do YouTube procura.
+REGRA DO ESTÍMULO:
+o cérebro do espectador deve estar sempre a poucos segundos da próxima recompensa. Se um trecho não provoca reação nenhuma, ele não pertence ao vídeo.
+YOUTUBE DARK GAMES    MATERIAL DE APOIO
+PÁGINA 5
+
+
+## Página 6
+
+ÁUDIO
+Três trilhas separadas — sempre
+A decisão de gravação que define se a sua edição é livre ou um inferno.
+A1 — ÁUDIO DO JOGO
+abaixa quando a narração entra (ducking)
+A2 — NARRAÇÃO
+entra nos momentos-chave, som do jogo cede espaço
+A3 — MÚSICA DE FUNDO
+biblioteca segura, nunca a rádio do jogo
+Por que separar: com trilhas independentes você abaixa o jogo na hora que fala, sobe na hora da ação, corta uma frase errada sem matar o som
+ambiente e troca a música sem refazer nada. Com tudo misturado numa trilha só, nenhum desses ajustes é possível.
+ATENÇÃO: A RÁDIO DO JOGO É UMA ARMADILHA
+As músicas da rádio do GTA são licenciadas de artistas reais e NÃO estão cobertas pela permissão de gameplay. Resultado: reivindicação de copyright no seu
+vídeo. Desligue a rádio ou zere a música do jogo ANTES de gravar — trilha se coloca na edição, vinda de biblioteca segura.
+YOUTUBE DARK GAMES    MATERIAL DE APOIO
+PÁGINA 6
+
+
+## Página 7
+
+ANTES DE EXPORTAR
+Checklist final do compilado
+Passe por cada item antes de publicar. É a diferença entre produto editorial e conteúdo descartável.
+ESTRUTURA
+Abertura com 7 segundos limpos (sem violência
+gráfica)
+Um dos 3 melhores momentos abre o vídeo
+Picos distribuídos ao longo da timeline, não
+acumulados no final
+Zero gordura: nenhum menu, loading ou trecho
+morno sobreviveu
+CAMADA AUTORAL
+Cartelas, legendas ou narração presentes
+(identidade no vídeo)
+Estrutura variou em relação aos vídeos anteriores
+do canal
+Curadoria própria: nada de clipes alheios colados
+sem transformação
+Identidade visual e sonora consistente com o
+canal
+ÁUDIO & DIREITOS
+Três trilhas separadas: jogo, narração e música
+Rádio do jogo desligada na gravação (sem
+música licenciada)
+Trilha vinda de biblioteca segura, sem risco de
+strike
+Sem conteúdo vazado, datamine ou tutorial de
+trapaça
+A PERGUNTA FINAL
+Existe valor neste vídeo que não existia no material original? Se a resposta for sim, você tem um produto editorial pronto pra publicar. Se for não, volte pra
+timeline — você ainda tem uma pilha de clipes.
+YOUTUBE DARK GAMES    MATERIAL DE APOIO
+PÁGINA 7

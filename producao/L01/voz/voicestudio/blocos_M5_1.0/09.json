@@ -1,0 +1,15 @@
+{
+  "request": {
+    "model": "supertonic3",
+    "voice": "M5",
+    "input": "As apresentações oficiais também dão contexto aos personagens. Jason tem uma passagem pelo Exército e ligação com atividades criminosas nas Keys. Lucia passou pela penitenciária de Leonida e quer mudar de vida. Esses antecedentes ajudam a entender o ponto de partida de cada um. Não revelam, sozinhos, como vamos controlar os personagens nem qual será o destino deles.",
+    "language": "pt",
+    "response_format": "wav",
+    "speed": 1.0,
+    "seed": 42,
+    "execution": "Supertonic SDK 1.3.1, same engine as VoiceStudio; local CPU",
+    "steps": 10
+  },
+  "duration": 29.278503401360545,
+  "generation_seconds": 45.65700000000652
+}

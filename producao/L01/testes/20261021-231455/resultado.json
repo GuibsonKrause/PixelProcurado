@@ -1,0 +1,41 @@
+{
+  "status": "pass",
+  "tests": [
+    "normalizacao duas passagens",
+    "montagem voz+imagem",
+    "vertical preserva quadro",
+    "duracoes verificadas",
+    "intervalo invalido rejeitado",
+    "overwrite rejeitado",
+    "midia sem revisao rejeitada",
+    "cobertura incorreta da voz rejeitada"
+  ],
+  "horizontal": {
+    "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L01\\testes\\20261021-231455\\teste_horizontal.mp4",
+    "duration": 3.0,
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  },
+  "vertical": {
+    "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L01\\testes\\20261021-231455\\teste_vertical.mp4",
+    "duration": 2.0,
+    "streams": [
+      {
+        "type": "video",
+        "codec": "h264"
+      },
+      {
+        "type": "audio",
+        "codec": "aac"
+      }
+    ]
+  }
+}

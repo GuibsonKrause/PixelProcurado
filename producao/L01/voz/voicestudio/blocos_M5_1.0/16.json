@@ -1,0 +1,15 @@
+{
+  "request": {
+    "model": "supertonic3",
+    "voice": "M5",
+    "input": "O nosso filtro tem três passos. Primeiro: quem publicou? Segundo: o que exatamente foi mostrado ou escrito? Terceiro: a conclusão que estamos repetindo cabe nessa evidência? Se a frase responde mais do que a fonte permite, ela precisa ser corrigida ou identificada como interpretação.",
+    "language": "pt",
+    "response_format": "wav",
+    "speed": 1.0,
+    "seed": 42,
+    "execution": "Supertonic SDK 1.3.1, same engine as VoiceStudio; local CPU",
+    "steps": 10
+  },
+  "duration": 23.196734693877552,
+  "generation_seconds": 27.438000000081956
+}

@@ -1,0 +1,23 @@
+{
+  "note": "Pré-montagem com o banco das aulas e cartelas editoriais. Os trechos oficiais de GTA VI serão substituídos quando o acesso aos arquivos for liberado.",
+  "voice": "../voz/gemini/narracao_guibson2_normalizada.wav",
+  "clips": [
+    {"file": "../arte/thumbnail_tipografica.png", "kind": "image", "duration": 12.0, "source": "Arte original do canal", "use_reviewed": true},
+    {"file": "../midia/originais/banco_gta_v_visao_geral.mp4", "kind": "video", "start": 10.0, "duration": 36.0, "label": "IMAGENS DE APOIO - GTA V", "source": "CURSO-BANCO-GTA-V-001", "use_reviewed": true},
+    {"file": "../arte/cartela_confirmado.png", "kind": "image", "duration": 6.0, "source": "Arte original do canal", "use_reviewed": true},
+    {"file": "../midia/originais/banco_gta_v_visao_geral.mp4", "kind": "video", "start": 50.0, "duration": 47.0, "label": "IMAGENS DE APOIO - GTA V", "source": "CURSO-BANCO-GTA-V-001", "use_reviewed": true},
+    {"file": "../arte/cartela_em_aberto.png", "kind": "image", "duration": 6.0, "source": "Arte original do canal", "use_reviewed": true},
+    {"file": "../midia/originais/banco_gta_v_visao_geral.mp4", "kind": "video", "start": 97.0, "duration": 54.0, "label": "IMAGENS DE APOIO - GTA V", "source": "CURSO-BANCO-GTA-V-001", "use_reviewed": true},
+    {"file": "../arte/cartela_confirmado.png", "kind": "image", "duration": 6.0, "source": "Arte original do canal", "use_reviewed": true},
+    {"file": "../midia/originais/banco_gta_v_visao_geral.mp4", "kind": "video", "start": 151.0, "duration": 42.0, "label": "IMAGENS DE APOIO - GTA V", "source": "CURSO-BANCO-GTA-V-001", "use_reviewed": true},
+    {"file": "../arte/cartela_analise.png", "kind": "image", "duration": 6.0, "source": "Arte original do canal", "use_reviewed": true},
+    {"file": "../midia/originais/banco_gta_v_visao_geral.mp4", "kind": "video", "start": 193.0, "duration": 49.0, "label": "IMAGENS DE APOIO - GTA V", "source": "CURSO-BANCO-GTA-V-001", "use_reviewed": true},
+    {"file": "../arte/cartela_em_aberto.png", "kind": "image", "duration": 6.0, "source": "Arte original do canal", "use_reviewed": true},
+    {"file": "../midia/originais/banco_gta_v_visao_geral.mp4", "kind": "video", "start": 30.0, "duration": 41.0, "label": "IMAGENS DE APOIO - GTA V", "source": "CURSO-BANCO-GTA-V-001", "use_reviewed": true},
+    {"file": "../arte/cartela_analise.png", "kind": "image", "duration": 6.0, "source": "Arte original do canal", "use_reviewed": true},
+    {"file": "../midia/originais/banco_gta_v_visao_geral.mp4", "kind": "video", "start": 85.0, "duration": 53.0, "label": "IMAGENS DE APOIO - GTA V", "source": "CURSO-BANCO-GTA-V-001", "use_reviewed": true},
+    {"file": "../arte/cartela_confirmado.png", "kind": "image", "duration": 6.0, "source": "Arte original do canal", "use_reviewed": true},
+    {"file": "../midia/originais/banco_gta_v_visao_geral.mp4", "kind": "video", "start": 137.0, "duration": 45.0, "label": "IMAGENS DE APOIO - GTA V", "source": "CURSO-BANCO-GTA-V-001", "use_reviewed": true},
+    {"file": "../arte/thumbnail_celular.png", "kind": "image", "duration": 6.04, "source": "Arte original do canal", "use_reviewed": true}
+  ]
+}

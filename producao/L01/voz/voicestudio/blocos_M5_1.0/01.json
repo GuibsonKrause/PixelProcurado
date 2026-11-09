@@ -1,0 +1,15 @@
+{
+  "request": {
+    "model": "supertonic3",
+    "voice": "M5",
+    "input": "GTA seis tem uma data anunciada, plataformas listadas e uma história apresentada pela Rockstar. Mas uma informação oficial e uma conclusão tirada de um trailer não são a mesma coisa. Hoje, vamos organizar o que dá para afirmar, o que é interpretação e onde ainda é melhor deixar um ponto de interrogação.",
+    "language": "pt",
+    "response_format": "wav",
+    "speed": 1.0,
+    "seed": 42,
+    "execution": "Supertonic SDK 1.3.1, same engine as VoiceStudio; local CPU",
+    "steps": 10
+  },
+  "duration": 25.86517006802721,
+  "generation_seconds": 44.15599999995902
+}

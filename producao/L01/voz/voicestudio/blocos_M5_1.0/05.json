@@ -1,0 +1,15 @@
+{
+  "request": {
+    "model": "supertonic3",
+    "voice": "M5",
+    "input": "Essa diferença parece pequena, mas muda completamente um vídeo. Dizer que uma plataforma aparece no anúncio é uma informação. Dizer que outra versão chega tantos meses depois exige uma segunda prova. A experiência com lançamentos anteriores pode ajudar a formular uma hipótese. Ela não vira uma promessa da produtora.",
+    "language": "pt",
+    "response_format": "wav",
+    "speed": 1.0,
+    "seed": 42,
+    "execution": "Supertonic SDK 1.3.1, same engine as VoiceStudio; local CPU",
+    "steps": 10
+  },
+  "duration": 25.51687074829932,
+  "generation_seconds": 41.81200000003446
+}

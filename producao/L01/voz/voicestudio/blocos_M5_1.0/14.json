@@ -1,0 +1,15 @@
+{
+  "request": {
+    "model": "supertonic3",
+    "voice": "M5",
+    "input": "Também precisamos olhar para a atualidade do material. Na consulta deste episódio, o site já apresenta o trailer de lançamento e um vídeo chamado An Extended Look, além dos trailers anteriores. Isso significa que uma análise feita somente com o primeiro trailer pode deixar de fora informações publicadas depois. A data da fonte faz parte da investigação.",
+    "language": "pt",
+    "response_format": "wav",
+    "speed": 1.0,
+    "seed": 42,
+    "execution": "Supertonic SDK 1.3.1, same engine as VoiceStudio; local CPU",
+    "steps": 10
+  },
+  "duration": 28.372925170068026,
+  "generation_seconds": 33.76600000006147
+}

@@ -1,0 +1,15 @@
+{
+  "request": {
+    "model": "supertonic3",
+    "voice": "M5",
+    "input": "Este é o Pixel Procurado. Aqui, a pista vem acompanhada da fonte. A conferência deste episódio foi feita em vinte e um de outubro de dois mil e vinte e seis. Se você estiver assistindo depois, confira também a atualização na descrição, porque anúncios podem mudar.",
+    "language": "pt",
+    "response_format": "wav",
+    "speed": 1.0,
+    "seed": 42,
+    "execution": "Supertonic SDK 1.3.1, same engine as VoiceStudio; local CPU",
+    "steps": 10
+  },
+  "duration": 20.340680272108845,
+  "generation_seconds": 33.17200000002049
+}

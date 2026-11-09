@@ -1,0 +1,170 @@
+[
+  {
+    "source": "01_Por Que Gameplay E a Porta de Entrada Perfeita do Dark.mp4",
+    "status": "transcribed",
+    "model": "base",
+    "duration": 604.35,
+    "segments": 28,
+    "first_start": 0.0,
+    "last_end": 604.35,
+    "tail_seconds": 0.0,
+    "vad_duration": 601.66,
+    "gaps_over_10s": [],
+    "low_confidence": [],
+    "suspicious_density": []
+  },
+  {
+    "source": "02_Os Jogos Que Sustentam o Nicho.mp4",
+    "status": "transcribed",
+    "model": "base",
+    "duration": 740.84,
+    "segments": 33,
+    "first_start": 0.0,
+    "last_end": 740.84,
+    "tail_seconds": 0.0,
+    "vad_duration": 738.51,
+    "gaps_over_10s": [],
+    "low_confidence": [],
+    "suspicious_density": []
+  },
+  {
+    "source": "03_O Papel do Canal - Ninguem Se Inscreve Pelo Jogo.mp4",
+    "status": "transcribed",
+    "model": "base",
+    "duration": 551.55,
+    "segments": 23,
+    "first_start": 0.02,
+    "last_end": 551.55,
+    "tail_seconds": 0.0,
+    "vad_duration": 549.65,
+    "gaps_over_10s": [],
+    "low_confidence": [],
+    "suspicious_density": [
+      {
+        "start": 197.46,
+        "end": 223.42,
+        "text": " Os papéis principais são meses que eu vou falar agora."
+      },
+      {
+        "start": 223.42,
+        "end": 253.09,
+        "text": " do Gameplay."
+      }
+    ]
+  },
+  {
+    "source": "04_GTA VI - A Maior Janela de Oportunidade da Decada.mp4",
+    "status": "transcribed",
+    "model": "base",
+    "duration": 707.75,
+    "segments": 32,
+    "first_start": 0.0,
+    "last_end": 707.73,
+    "tail_seconds": 0.02,
+    "vad_duration": 705.74,
+    "gaps_over_10s": [],
+    "low_confidence": [],
+    "suspicious_density": [
+      {
+        "start": 285.18,
+        "end": 308.83,
+        "text": " 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5,"
+      },
+      {
+        "start": 372.88,
+        "end": 388.32,
+        "text": " Isso aqui já é uma dica mestre pra você, pra ser já ter resultado."
+      }
+    ]
+  },
+  {
+    "source": "05_Setup e Captura de Gameplay.mp4",
+    "status": "transcribed",
+    "model": "base",
+    "duration": 788.27,
+    "segments": 36,
+    "first_start": 0.0,
+    "last_end": 788.27,
+    "tail_seconds": -0.0,
+    "vad_duration": 783.21,
+    "gaps_over_10s": [],
+    "low_confidence": [],
+    "suspicious_density": []
+  },
+  {
+    "source": "06_Compilados Que Performam Sem Cair na Malha Fina.mp4",
+    "status": "transcribed",
+    "model": "base",
+    "duration": 876.01,
+    "segments": 39,
+    "first_start": 0.0,
+    "last_end": 876.01,
+    "tail_seconds": 0.0,
+    "vad_duration": 874.03,
+    "gaps_over_10s": [],
+    "low_confidence": [
+      {
+        "start": 517.87,
+        "end": 518.67,
+        "text": " Vamos para o final!"
+      }
+    ],
+    "suspicious_density": []
+  },
+  {
+    "source": "07_Noticias Trailers e Conteudo de Hype.mp4",
+    "status": "transcribed",
+    "model": "base",
+    "duration": 802.97,
+    "segments": 31,
+    "first_start": 0.0,
+    "last_end": 802.97,
+    "tail_seconds": -0.0,
+    "vad_duration": 800.53,
+    "gaps_over_10s": [],
+    "low_confidence": [],
+    "suspicious_density": []
+  },
+  {
+    "source": "08_Narracao e Identidade Sem Rosto.mp4",
+    "status": "transcribed",
+    "model": "base",
+    "duration": 600.98,
+    "segments": 24,
+    "first_start": 0.0,
+    "last_end": 600.98,
+    "tail_seconds": 0.0,
+    "vad_duration": 597.08,
+    "gaps_over_10s": [],
+    "low_confidence": [],
+    "suspicious_density": []
+  },
+  {
+    "source": "09_Shorts vs Long Form no Gaming.mp4",
+    "status": "transcribed",
+    "model": "base",
+    "duration": 818.79,
+    "segments": 33,
+    "first_start": 0.0,
+    "last_end": 818.8,
+    "tail_seconds": -0.01,
+    "vad_duration": 816.52,
+    "gaps_over_10s": [],
+    "low_confidence": [],
+    "suspicious_density": []
+  },
+  {
+    "source": "11_Banco de vídeos GTA.mp4",
+    "status": "transcribed",
+    "model": "small",
+    "duration": 129.96,
+    "segments": 5,
+    "first_start": 0.0,
+    "last_end": 129.96,
+    "tail_seconds": 0.0,
+    "vad_duration": 129.9,
+    "gaps_over_10s": [],
+    "low_confidence": [],
+    "suspicious_density": []
+  }
+]

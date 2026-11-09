@@ -1,0 +1,15 @@
+{
+  "request": {
+    "model": "supertonic3",
+    "voice": "M5",
+    "input": "Qual dessas perguntas você quer ver investigada primeiro: a relação entre Jason e Lucia ou os lugares de Leonida? Deixe uma delas nos comentários. As fontes deste episódio estão na descrição. No próximo dossiê, vamos voltar aos personagens para separar o que suas apresentações revelam do que ainda depende da história completa.",
+    "language": "pt",
+    "response_format": "wav",
+    "speed": 1.0,
+    "seed": 42,
+    "execution": "Supertonic SDK 1.3.1, same engine as VoiceStudio; local CPU",
+    "steps": 10
+  },
+  "duration": 26.074149659863945,
+  "generation_seconds": 41.188000000081956
+}

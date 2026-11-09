@@ -1,0 +1,15 @@
+{
+  "request": {
+    "model": "supertonic3",
+    "voice": "M5",
+    "input": "O cuidado importante é com o tamanho da conclusão. Uma lista de plataformas sustenta o que está escrito nela. Ela não permite inventar uma data para outra versão. Se a sua dúvida for sobre computador, a pergunta certa é: existe um anúncio específico, atual e verificável? Sem essa evidência, transformar expectativa em calendário só espalha confusão.",
+    "language": "pt",
+    "response_format": "wav",
+    "speed": 1.0,
+    "seed": 42,
+    "execution": "Supertonic SDK 1.3.1, same engine as VoiceStudio; local CPU",
+    "steps": 10
+  },
+  "duration": 28.860544217687075,
+  "generation_seconds": 51.23399999993853
+}

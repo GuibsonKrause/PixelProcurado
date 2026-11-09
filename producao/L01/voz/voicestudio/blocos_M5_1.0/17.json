@@ -1,0 +1,15 @@
+{
+  "request": {
+    "model": "supertonic3",
+    "voice": "M5",
+    "input": "Então, o que levamos deste primeiro dossiê? Uma referência oficial para data e plataformas. Uma premissa para entender o conflito de Jason e Lucia. Lugares apresentados para começar a conhecer Leonida. E um método para não misturar esses fatos com previsões sobre tudo o que ainda queremos descobrir.",
+    "language": "pt",
+    "response_format": "wav",
+    "speed": 1.0,
+    "seed": 42,
+    "execution": "Supertonic SDK 1.3.1, same engine as VoiceStudio; local CPU",
+    "steps": 10
+  },
+  "duration": 22.709115646258503,
+  "generation_seconds": 26.030999999959022
+}

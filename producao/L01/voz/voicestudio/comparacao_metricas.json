@@ -1,0 +1,22 @@
+[
+  {
+    "voice": "M1",
+    "median_pitch_hz": 137.8,
+    "seconds": 18.53
+  },
+  {
+    "voice": "M3",
+    "median_pitch_hz": 99.1,
+    "seconds": 15.46
+  },
+  {
+    "voice": "M4",
+    "median_pitch_hz": 119.2,
+    "seconds": 17.55
+  },
+  {
+    "voice": "M5",
+    "median_pitch_hz": 90.9,
+    "seconds": 18.53
+  }
+]
