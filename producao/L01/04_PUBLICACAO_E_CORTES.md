@@ -43,23 +43,53 @@ Story de lançamento: tela 1, “GTA 6: confirmado ou interpretação?”; tela 
 
 ## Três cortes autônomos
 
-Roteiros abaixo são **versões reescritas para gravação**, não intervalos já localizados no MP4. Para extrair do longo sem regravar, escolher os trechos equivalentes depois da edição e conferir começo, conclusão e duração. A locução em torno de 145 palavras/minuto tende a produzir cortes de 30–45s; medir na gravação.
+Roteiros abaixo são **versões reescritas para gravação**, não intervalos já localizados no MP4. Para extrair do longo sem regravar, escolher os trechos equivalentes depois da edição e conferir começo, conclusão e duração. Revisão de retenção em 26/10/2026: narração de 203–220 palavras, estimativa de 1min19s–1min25s a 155 palavras/minuto; medir na gravação. C1 corresponde a C01; C2/C3 são L01-R02/L01-R03 na pasta cortes, sem alterar a numeração da grade principal.
 
 ### C1 — Data e plataformas
 
-“Uma data de GTA seis apareceu no seu feed. Como conferir? Comece pela página oficial. Na nossa consulta de vinte e um de outubro, ela informa dezenove de novembro de dois mil e vinte e seis e lista PlayStation cinco e Xbox Series X e S. Isso confirma o anúncio mostrado ali. Não permite inventar um calendário para outra versão. Para afirmar uma data de PC, procure um anúncio específico e atual. A pergunta é simples: essa data tem fonte ou só está sendo repetida?”
+Uma data verdadeira pode te enganar sobre GTA seis.
 
-Tela: data da consulta → recorte de data/plataformas → “OUTRA VERSÃO = OUTRA EVIDÊNCIA”. Fonte visível. Revalidar antes de publicar. Título: **GTA 6: confira a data na fonte**. Legenda social: “Data e plataformas precisam de anúncio, não de previsão. Dossiê completo no Pixel Procurado.”
+Basta ela aparecer ao lado da plataforma errada. Você vê um dia, reconhece o nome do jogo e entende que já pode marcar no calendário. Só que a informação pode ter perdido justamente a parte que interessa para você.
+
+Aqui está a primeira armadilha: anúncio de lançamento e anúncio de plataformas precisam ser lidos juntos. Se a página cita determinados consoles, aquela lista faz parte da notícia. Recortar só a data transforma uma informação específica numa promessa muito maior.
+
+Mas encontrar o logo do seu aparelho também exige contexto. Um trailer capturado em determinado console informa onde aquele vídeo foi produzido. Isso, sozinho, não define exclusividade nem calendário de todas as versões. São perguntas diferentes, que precisam de respostas diferentes.
+
+Agora vem o teste que resolve a confusão: procure a página oficial, leia a data com a lista de plataformas e confira quando o anúncio foi publicado. Para uma versão de PC, procure uma comunicação que trate especificamente dela, sem completar a lacuna por conta própria.
+
+O erro pode estar na associação, mesmo quando cada pedaço parece legítimo. Antes de compartilhar, confira se data, versão e fonte pertencem ao mesmo anúncio. É assim que...
+
+Tela: exemplo gráfico de data sem plataforma → anúncio completo → captura de trailer versus anúncio de versão → fonte com data de consulta. Não exibir data de lançamento antiga como atual; revalidar a fonte ao produzir. Título: **GTA 6: confira a data na fonte**. Legenda social: “Data e plataformas precisam de anúncio, não de previsão. Dossiê completo no Pixel Procurado.”
 
 ### C2 — A história não revela o final
 
-“A premissa de GTA seis já dá uma pista para analisar Jason e Lucia: um golpe dá errado, o problema cresce e eles precisam contar um com o outro. Isso faz da confiança uma pergunta interessante para a história. Mas repare na diferença: dizer que a relação merece atenção é uma análise. Afirmar quem vai trair quem ou como tudo termina exige uma evidência que essa premissa não entrega. Dá para criar teorias sem transformar imaginação em spoiler confirmado.”
+Um golpe errado não revela quem vai trair quem.
+
+Na premissa de GTA seis, Jason e Lucia enfrentam um problema que cresce e precisam contar um com o outro. Isso coloca confiança no centro da leitura. Mas existe uma distância enorme entre identificar essa tensão e anunciar o desfecho da relação.
+
+Aqui acontece o salto: você encontra uma história sobre dependência e imagina que ela só pode terminar em traição. É uma possibilidade de interpretação, não uma conclusão entregue pela premissa. O mesmo ponto de partida permite conflitos que ainda não conhecemos.
+
+Mas dá para investigar a dupla sem fingir que o final vazou. Troque a pergunta sobre quem trai por outra: o que cada um pode perder ao confiar? Agora você tem um critério para observar decisões, hesitações e consequências conforme houver evidência sobre elas.
+
+Só que o cuidado precisa continuar na montagem. Colocar uma expressão séria ao lado de uma frase sobre traição pode fazer a hipótese parecer uma revelação. O vídeo deve deixar claro quando descreve informação divulgada e quando propõe uma leitura possível para o espectador.
+
+A recompensa é conseguir discutir a história sem precisar fabricar um spoiler. A confiança já oferece conflito suficiente: depender de alguém torna cada decisão compartilhada mais importante. O que ela não oferece, sozinha, é o nome de um traidor. Porque...
 
 Tela: dupla identificada → etiqueta ANÁLISE → “PREMISSA ≠ FINAL”. Título: **Jason e Lucia: até onde a premissa permite ir?**. Legenda: “A parte interessante começa quando sabemos onde a evidência termina.”
 
 ### C3 — O mapa que a imagem não prova
 
-“Uma paisagem de GTA seis pode mostrar um lugar. Mas ela revela, sozinha, o tamanho do mapa? Não. Mostrar destinos diferentes não mede distâncias nem confirma que todos os prédios serão acessíveis. Para conferir uma afirmação, pergunte qual dado ou demonstração sustenta exatamente aquela frase. No Pixel Procurado, a lista de lugares apresentados continua sendo uma lista. Só vira mapa com fronteiras e medidas quando existe evidência para desenhar essas informações.”
+Uma paisagem enorme pode caber numa conclusão pequena demais.
+
+Você olha uma imagem de GTA seis, vê destinos diferentes e tenta calcular o tamanho do mapa. Parece intuitivo: quanto mais lugares, maior o mundo. Só que uma lista de cenários não informa automaticamente as distâncias que existem entre eles.
+
+Mas o problema começa ainda antes da medida. A imagem pode mostrar um lugar sem revelar suas fronteiras. O que ficou fora do quadro continua fora do quadro. Completar essa parte com imaginação pode servir para uma teoria, desde que não vire uma escala apresentada como fato.
+
+Agora acrescente os prédios: enxergar uma fachada também não confirma que o jogador poderá entrar. Presença visual e acesso são perguntas diferentes. A mesma cena pode sustentar a descrição de um edifício e deixar sem resposta tudo o que acontece atrás da porta.
+
+Só que existe uma maneira simples de melhorar a análise. Para cada afirmação, procure a evidência correspondente. Distância precisa de medida ou demonstração adequada. Acesso precisa de indicação ou demonstração de acesso. Uma imagem bonita não responde a todas essas perguntas ao mesmo tempo.
+
+O ganho é perceber exatamente o que foi revelado e onde começa a expectativa. Lugares variados já despertam curiosidade; não precisamos acrescentar quilômetros inventados. Quando a promessa cresce além da evidência, lembre que...
 
 Tela: imagem de local corretamente identificado → perguntas → lista de lugares, sem fronteiras inventadas. Título: **Uma imagem não confirma o tamanho de GTA 6**. Legenda: “Lugar mostrado e distância comprovada são informações diferentes.”
 

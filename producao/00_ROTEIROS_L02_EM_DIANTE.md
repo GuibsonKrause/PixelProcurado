@@ -34,7 +34,7 @@ L04 é intencionalmente mais enxuto: suas três respostas cabem nesse tempo. O p
 
 ## Cortes e continuidade
 
-[Abrir os onze roteiros C02–C12 e seu guia de direção](cortes/00_GUIA_CORTES.md). Cada TXT tem de 75 a 88 palavras, com gancho, resposta e pergunta final próprios; estimativa de aproximadamente 30–45 segundos conforme voz e pausas. C12 ganhou uma pauta sem “amanhã”, para não depender de calendário ainda futuro.
+[Abrir os roteiros dos Shorts e seu guia de direção](cortes/00_GUIA_CORTES.md). Revisão de retenção de 26/10/2026: C02–C12 têm 212–220 palavras, aproximadamente 1min22s–1min25s a 155 palavras/minuto, com viradas intermediárias e conclusão conectada ao início. A pasta também reúne C01 e duas reservas do L01, totalizando 14 roteiros reescritos. C12 ganhou uma pauta sem “amanhã”, para não depender de calendário ainda futuro.
 
 Os títulos do [plano editorial](../PLANO_PIXELPROCURADO_2026-10-21.md) foram alinhados a esta entrega. As datas antigas continuam como referência de planejamento, não como registro de vídeos publicados.
 

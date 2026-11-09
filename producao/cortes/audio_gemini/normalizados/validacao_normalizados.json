@@ -1,0 +1,150 @@
+{
+  "target": {
+    "integrated_lufs": -16,
+    "true_peak_dbtp": -1.5,
+    "channels": 1,
+    "sample_rate": 48000
+  },
+  "files": [
+    {
+      "file": "C01_narracao_normalizada.wav",
+      "duration_seconds": 79.92,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -17.0,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 3.3
+    },
+    {
+      "file": "C02_narracao_normalizada.wav",
+      "duration_seconds": 78.08,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.65,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 2.4
+    },
+    {
+      "file": "C03_narracao_normalizada.wav",
+      "duration_seconds": 80.64,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.85,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 3.0
+    },
+    {
+      "file": "C04_narracao_normalizada.wav",
+      "duration_seconds": 76.92,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.9,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 2.8
+    },
+    {
+      "file": "C05_narracao_normalizada.wav",
+      "duration_seconds": 83.96,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.74,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 3.4
+    },
+    {
+      "file": "C06_narracao_normalizada.wav",
+      "duration_seconds": 79.96,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.4,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 2.7
+    },
+    {
+      "file": "C07_narracao_normalizada.wav",
+      "duration_seconds": 80.44,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.81,
+      "true_peak_dbtp": -1.48,
+      "lra_lu": 2.4
+    },
+    {
+      "file": "C08_narracao_normalizada.wav",
+      "duration_seconds": 78.24,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.86,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 3.1
+    },
+    {
+      "file": "C09_narracao_normalizada.wav",
+      "duration_seconds": 79.64,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.72,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 3.0
+    },
+    {
+      "file": "C10_narracao_normalizada.wav",
+      "duration_seconds": 90.08,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.68,
+      "true_peak_dbtp": -1.46,
+      "lra_lu": 2.7
+    },
+    {
+      "file": "C11_narracao_normalizada.wav",
+      "duration_seconds": 83.76,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.85,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 2.7
+    },
+    {
+      "file": "C12_narracao_normalizada.wav",
+      "duration_seconds": 83.24,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.84,
+      "true_peak_dbtp": -1.45,
+      "lra_lu": 3.0
+    },
+    {
+      "file": "L01-R02_narracao_normalizada.wav",
+      "duration_seconds": 79.64,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.75,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 2.8
+    },
+    {
+      "file": "L01-R03_narracao_normalizada.wav",
+      "duration_seconds": 90.72,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "integrated_lufs": -16.95,
+      "true_peak_dbtp": -1.49,
+      "lra_lu": 2.9
+    }
+  ]
+}
