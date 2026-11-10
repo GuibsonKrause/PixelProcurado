@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Política de Privacidade do app privado de publicação do Pixel Procurado.">
+  <title>Política de Privacidade — Pixel Procurado</title>
+  <style>
+    :root { color-scheme:dark; --bg:#111; --text:#f5f5f5; --muted:#c6c6c6; --yellow:#ffd400; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--text); font:16px/1.7 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { width:min(760px,calc(100% - 40px)); margin:0 auto; padding:56px 0 80px; }
+    h1 { font-size:clamp(2rem,6vw,3.6rem); line-height:1.05; }
+    h2 { margin-top:2.2rem; font-size:1.2rem; }
+    p,li { color:var(--muted); }
+    a { color:var(--yellow); text-underline-offset:4px; }
+    .date { color:var(--yellow); font-weight:700; }
+  </style>
+</head>
+<body>
+  <main>
+    <p><a href="index.html">← Página inicial</a></p>
+    <h1>Política de Privacidade</h1>
+    <p class="date">Atualizada em 9 de novembro de 2026</p>
+
+    <p>Esta política descreve como o aplicativo <strong>Pixel Procurado — Agendador</strong> acessa e trata dados ao interagir com TikTok, YouTube/Google e Meta (Facebook/Instagram). O aplicativo é executado de forma privada e auto-hospedada (Postiz), sendo utilizado estritamente pelo responsável pelos canais do Pixel Procurado.</p>
+
+    <h2>Dados acessados</h2>
+    <p>Após consentimento explícito via OAuth nas respectivas plataformas:</p>
+    <ul>
+      <li><strong>TikTok:</strong> O aplicativo acessa apenas as permissões necessárias para login e publicação de conteúdo de vídeo (Scopes: <code>user.info.basic</code>, <code>video.upload</code>, <code>video.publish</code>). Armazena o identificador do criador e tokens de acesso para upload dos vídeos solicitados. Não acessa mensagens diretas ou dados de terceiros.</li>
+      <li><strong>Google / YouTube:</strong> Identifica o canal autorizado e processa o envio de vídeos, títulos, tags, miniaturas e status de publicação.</li>
+      <li><strong>Meta (Facebook / Instagram):</strong> Identifica as Páginas e Contas Profissionais vinculadas, processando o envio de Reels e posts em lote.</li>
+    </ul>
+
+    <h2>Finalidade</h2>
+    <p>Os dados e tokens são utilizados única e exclusivamente para preparar, carregar, agendar e monitorar publicações do próprio canal. Não há coleta para perfilamento, venda de dados, publicidade de terceiros ou treinamento de IA.</p>
+
+    <h2>Armazenamento e Segurança</h2>
+    <p>Todos os tokens OAuth, segredos de API e mídias residem no servidor local e banco de dados isolado da aplicação Postiz, protegidos por autenticação e firewall. Nenhuma credencial pessoal ou chave secreta é exposta publicamente.</p>
+
+    <h2>Compartilhamento</h2>
+    <p>Nenhuma informação é compartilhada com terceiros para além da transmissão direta e segura às APIs oficiais do TikTok, Google e Meta no ato da publicação.</p>
+
+    <h2>Revogação e Exclusão</h2>
+    <p>A qualquer momento, o administrador pode revogar a permissão do aplicativo diretamente no painel de segurança de sua conta TikTok (Gerenciar Apps), Google ou Meta. Para excluir qualquer registro local mantido na instalação, consulte as <a href="deletion.html">Instruções de Exclusão de Dados</a>.</p>
+  </main>
+</body>
+</html>
