@@ -1,0 +1,135 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-13T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "O botão L2 do Jason não troca de personagem. Então como o GTA 6 faz você jogar com dois protagonistas ao mesmo tempo? No Dia 5 do aquecimento (sexta-feira 13/11, faltando 6 dias para 19 de novembro), a gente olha o gameplay quadro a quadro.\n\nTrês cenas: Lucia no volante da fuga, o supino com L2 e R2 e a mensagem \"guys everywhere\" que avisa da sala segura. Tem comparação com a troca do GTA V e uma correção sobre o que eu disse ontem: não era rádio, era mensagem.\n\n00:00 O botão que não troca de personagem\n00:31 Como jogar com dois protagonistas?\n00:52 GTA V: a troca com satélite\n01:22 Perseguição: Lucia no volante\n02:29 Academia: supino com L2 e R2\n03:34 Correção: não é rádio, é mensagem\n04:36 Troca livre ou missão roteirizada?\n05:18 O que muda no seu dia 19\n05:47 Amanhã: o porta-malas\n\nO que ainda não dá pra afirmar: se a troca é livre ou decidida pela missão, e se o treino muda atributos. Isso só no lançamento.\n\nE você, começa pelo Jason ou pela Lucia? Conta nos comentários.\n\nAmanhã (sábado, 14/11): o porta-malas do gameplay e o que muda nos carros, rachas e oficinas.\n\nImagens de GTA VI e GTA V: Rockstar Games. Trechos de An Extended Look, Trailer 1, Trailer 2, Launch Trailer e capturas oficiais, usados em análise e comentário.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/09696d48438046b4b28101c6aabdfce6.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: Como Funciona Jogar com Jason e Lucia",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "GTA 6 Jason e Lucia",
+            "label": "GTA 6 Jason e Lucia"
+          },
+          {
+            "value": "Jason e Lucia",
+            "label": "Jason e Lucia"
+          },
+          {
+            "value": "Lucia GTA 6",
+            "label": "Lucia GTA 6"
+          },
+          {
+            "value": "Jason GTA 6",
+            "label": "Jason GTA 6"
+          },
+          {
+            "value": "GTA 6 cooperação",
+            "label": "GTA 6 cooperação"
+          },
+          {
+            "value": "GTA 6 troca de personagem",
+            "label": "GTA 6 troca de personagem"
+          },
+          {
+            "value": "GTA 6 L2",
+            "label": "GTA 6 L2"
+          },
+          {
+            "value": "GTA 6 trailer",
+            "label": "GTA 6 trailer"
+          },
+          {
+            "value": "An Extended Look",
+            "label": "An Extended Look"
+          },
+          {
+            "value": "GTA 6 19 de novembro",
+            "label": "GTA 6 19 de novembro"
+          },
+          {
+            "value": "GTA 6 lançamento",
+            "label": "GTA 6 lançamento"
+          },
+          {
+            "value": "GTA V vs GTA 6",
+            "label": "GTA V vs GTA 6"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          },
+          {
+            "value": "GTA 6 Brasil",
+            "label": "GTA 6 Brasil"
+          },
+          {
+            "value": "GTA 6 dia 5",
+            "label": "GTA 6 dia 5"
+          },
+          {
+            "value": "GTA 6 sexta-feira 13",
+            "label": "GTA 6 sexta-feira 13"
+          },
+          {
+            "value": "GTA 6 character switch",
+            "label": "GTA 6 character switch"
+          },
+          {
+            "value": "GTA 6 Jason and Lucia gameplay",
+            "label": "GTA 6 Jason and Lucia gameplay"
+          }
+        ],
+        "thumbnail": {
+          "id": "bc912991-1d2d-44f6-9e7e-ce26a55f9c70",
+          "name": "8a125abe10a9fe782b9610bc2bfc16f29c.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/12/8a125abe10a9fe782b9610bc2bfc16f29c.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

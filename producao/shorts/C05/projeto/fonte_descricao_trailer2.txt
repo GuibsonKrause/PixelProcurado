@@ -1,0 +1,9 @@
+Fonte: Trailer 2 no canal oficial Rockstar Games
+URL: https://www.youtube.com/watch?v=VQRLujxTm3c&hl=en
+Consulta: 27/10/2026
+Método: leitura do campo público shortDescription na resposta HTML do YouTube.
+
+Trecho técnico pertinente:
+This trailer was captured entirely in-game from a PlayStation 5, comprised of equal parts gameplay and cutscenes.
+
+O registro confirma a informação sobre captura e proporção usada na narração. Não classifica os planos individualmente nem apresenta uma taxa de quadros de gameplay.

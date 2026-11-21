@@ -1,0 +1,111 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-21T07:19:52.299418+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "GTA 6 saiu, e três apostas sobre as primeiras horas em Leonida passaram pela gameplay real. Um vestido de 50 mil, um carro de luxo soltando fumaça e uma fuga de salto alto contam como foi.\n\nNo especial pós-lançamento do Pixel Procurado, voltamos à pauta do Dia 11 para conferir o que as primeiras lives mostraram sobre dinheiro, carros e polícia. Também entramos no desempenho dos consoles, no que diferencia o Series S do PS5 Pro e no impacto que Vice City já teve na conversa sobre mundos abertos. Sem spoilers de história.\n\nVocê se impressionou ou esperava mais? Conta a cena que pesou no seu veredito e em qual console você jogou.\n\nCapítulos\n\n00:00 O Dia 11 encontra a gameplay\n00:45 As três apostas em Leonida\n02:41 Mitos, 30 FPS e o Series S\n04:05 A nova régua dos mundos abertos\n05:58 Valeu a espera?\n\nGameplay capturada na transmissão de 20/11/2026. Alanzoka — https://www.twitch.tv/alanzoka\n\nFontes consultadas em 21/11/2026. Lançamento oficial — https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available · Análise no Xbox Series X — https://www.windowscentral.com/gaming/xbox/grand-theft-auto-6-xbox-review · Desempenho por console — https://www.youtube.com/watch?v=F3lxGD8HX2k · Vendas de estreia — https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/aa82c78dc335443bacc7d9c11ec23929.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6 Depois do Hype: O Que Acertamos e Onde Quebramos a Cara",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "GTA 6 pós-lançamento",
+            "label": "GTA 6 pós-lançamento"
+          },
+          {
+            "value": "GTA 6 valeu a espera",
+            "label": "GTA 6 valeu a espera"
+          },
+          {
+            "value": "GTA 6 primeiras impressões",
+            "label": "GTA 6 primeiras impressões"
+          },
+          {
+            "value": "GTA 6 sem spoilers",
+            "label": "GTA 6 sem spoilers"
+          },
+          {
+            "value": "GTA 6 30 fps",
+            "label": "GTA 6 30 fps"
+          },
+          {
+            "value": "GTA 6 Series S",
+            "label": "GTA 6 Series S"
+          },
+          {
+            "value": "GTA 6 PS5 Pro",
+            "label": "GTA 6 PS5 Pro"
+          },
+          {
+            "value": "GTA 6 polícia",
+            "label": "GTA 6 polícia"
+          },
+          {
+            "value": "GTA 6 teorias",
+            "label": "GTA 6 teorias"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "Leonida",
+            "label": "Leonida"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "Alanzoka GTA 6",
+            "label": "Alanzoka GTA 6"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "92c1974c-829f-4151-98b6-b0816c898a67",
+          "name": "79102e434285258fd3aa68d6d108a375e5.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/21/79102e434285258fd3aa68d6d108a375e5.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "jobs": [
+    {
+      "id": "youtube_longo",
+      "integration_id": "cmvsctfgl0001jncj932ovibv",
+      "provider": "youtube",
+      "media": [
+        "postiz:a5ce1f01e263da77e556378fc8699df209253c0ee77f76caa8146761476a6854"
+      ],
+      "cover": "postiz:7f8085e4c337cae231d38a0b39cbe111ca8034f3a34f0d0b7d0c3b20b83ba2f9",
+      "content": "Esquece a bazuca na cueca. O gameplay oficial de GTA VI mostra interações no prédio, armas recolhidas no chão, combate em corredores e duas opções na porta do carro vermelho. Neste episódio do Pixel Procurado, analisamos o que essas imagens sugerem para quem vem de GTA V.\n\nAnálise das imagens do gameplay oficial: as conclusões editoriais sobre comportamento, dificuldade e consequências são interpretações do vídeo, sem teste jogável próprio.\n\nFontes oficiais:\nRockstar — An Extended Look: https://www.rockstargames.com/VI/an-extended-look\nRockstar Support — pré-load e lançamento: https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s?pubDate=20261107\nRockstar Support — requisitos de instalação, até 212 GB conforme aparelho: https://support.rockstargames.com/articles/M6h7B5fJZMwG1dnzQkt4Z/grand-theft-auto-vi-installation-requirements\n\nPré-load: 10 de novembro. Lançamento: 19 de novembro de 2026. A instalação pode ocupar até 212 GB, dependendo do aparelho; consulte as orientações da sua plataforma.\n\nInscreva-se para acompanhar a série de aquecimento do GTA 6.\n\n#GTA6 #GTAVI #PixelProcurado\n\nCapítulos:\n00:00 Esqueça os hábitos de GTA 5\n00:59 A primeira entrada no prédio\n01:57 Laboratório e malote\n02:24 Armas e inventário\n03:01 Fumaça, cobertura e ângulos\n03:32 Do corredor ao escuro\n03:57 Infiltração no escritório\n04:37 O HUD do carro vermelho\n05:44 Pré-load e próximo episódio\n\nCapa: montagem editorial criada com referência ao gameplay.",
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: esqueça o jeito de jogar GTA 5 | Análise do gameplay",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "label": "GTA 6",
+            "value": "GTA 6"
+          },
+          {
+            "label": "GTA VI",
+            "value": "GTA VI"
+          },
+          {
+            "label": "GTA 6 gameplay",
+            "value": "GTA 6 gameplay"
+          },
+          {
+            "label": "GTA 6 gameplay oficial",
+            "value": "GTA 6 gameplay oficial"
+          },
+          {
+            "label": "GTA 6 análise",
+            "value": "GTA 6 análise"
+          },
+          {
+            "label": "GTA VI português",
+            "value": "GTA VI português"
+          },
+          {
+            "label": "GTA 6 Jason Lucia",
+            "value": "GTA 6 Jason Lucia"
+          },
+          {
+            "label": "Leonida",
+            "value": "Leonida"
+          },
+          {
+            "label": "Rockstar Games",
+            "value": "Rockstar Games"
+          },
+          {
+            "label": "GTA 6 preload",
+            "value": "GTA 6 preload"
+          },
+          {
+            "label": "GTA 6 212 GB",
+            "value": "GTA 6 212 GB"
+          },
+          {
+            "label": "Pixel Procurado",
+            "value": "Pixel Procurado"
+          }
+        ]
+      },
+      "fingerprint": "bc980449dd8ae1e188e3afae24d2886980dcb3356107b5b8971128484146b5d6"
+    },
+    {
+      "id": "youtube_short",
+      "integration_id": "cmvsctfgl0001jncj932ovibv",
+      "provider": "youtube",
+      "media": [
+        "postiz:f15878cea2a65414a4b3e64861e89ce6549292b33ad5b5583b884be18b4fcefd"
+      ],
+      "cover": "postiz:cd2b74e4e36ad903cacb272f2730b117effca29a08a82c58c47eb00a3a60950d",
+      "content": "Duas opções reais na porta do carro: Smash Window e Slim Jim. Análise das imagens oficiais, sem teste jogável próprio. Episódio completo no canal Pixel Procurado. #GTA6 #GTAVI #PixelProcurado #Shorts",
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: círculo ou triângulo? Leia o HUD antes de fugir",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "label": "GTA 6",
+            "value": "GTA 6"
+          },
+          {
+            "label": "GTA VI",
+            "value": "GTA VI"
+          },
+          {
+            "label": "GTA 6 gameplay",
+            "value": "GTA 6 gameplay"
+          },
+          {
+            "label": "GTA 6 gameplay oficial",
+            "value": "GTA 6 gameplay oficial"
+          },
+          {
+            "label": "GTA 6 análise",
+            "value": "GTA 6 análise"
+          },
+          {
+            "label": "GTA VI português",
+            "value": "GTA VI português"
+          },
+          {
+            "label": "GTA 6 Jason Lucia",
+            "value": "GTA 6 Jason Lucia"
+          },
+          {
+            "label": "Leonida",
+            "value": "Leonida"
+          },
+          {
+            "label": "Rockstar Games",
+            "value": "Rockstar Games"
+          },
+          {
+            "label": "GTA 6 preload",
+            "value": "GTA 6 preload"
+          },
+          {
+            "label": "GTA 6 212 GB",
+            "value": "GTA 6 212 GB"
+          },
+          {
+            "label": "Pixel Procurado",
+            "value": "Pixel Procurado"
+          }
+        ]
+      },
+      "fingerprint": "9efa8d7539cfc73303be263c8376b4539038e07c5eb766a14d91b0b9000f7c3e"
+    },
+    {
+      "id": "facebook_integral",
+      "integration_id": "cmvzyur290001pddwolrt33em",
+      "provider": "facebook",
+      "media": [
+        "r2:a5ce1f01e263da77e556378fc8699df209253c0ee77f76caa8146761476a6854"
+      ],
+      "cover": null,
+      "content": "Esquece a bazuca na cueca. O gameplay oficial de GTA VI mostra interações no prédio, armas recolhidas no chão, combate em corredores e duas opções na porta do carro vermelho. Neste episódio do Pixel Procurado, analisamos o que essas imagens sugerem para quem vem de GTA V.\n\nAnálise das imagens do gameplay oficial: as conclusões editoriais sobre comportamento, dificuldade e consequências são interpretações do vídeo, sem teste jogável próprio.\n\n#GTA6 #GTAVI #PixelProcurado",
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: esqueça o jeito de jogar GTA 5 | Análise do gameplay"
+      },
+      "fingerprint": "f43296fe4769505adfa7b99c42b70d70138bc25b6a5296426c4e0cd044662410"
+    },
+    {
+      "id": "facebook_curto",
+      "integration_id": "cmvzyur290001pddwolrt33em",
+      "provider": "facebook",
+      "media": [
+        "r2:f15878cea2a65414a4b3e64861e89ce6549292b33ad5b5583b884be18b4fcefd"
+      ],
+      "cover": null,
+      "content": "Duas opções reais na porta do carro: Smash Window e Slim Jim. Análise das imagens oficiais, sem teste jogável próprio. Episódio completo no canal Pixel Procurado. #GTA6 #GTAVI #PixelProcurado",
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: círculo ou triângulo? Leia o HUD antes de fugir"
+      },
+      "fingerprint": "6491f1dacf3d1ad2716b4cf5cda83712ce464341b2a633d2c2ebe1537a8a0210"
+    },
+    {
+      "id": "facebook_story",
+      "integration_id": "cmvzyur290001pddwolrt33em",
+      "provider": "facebook",
+      "media": [
+        "r2:77eda69c2d755a50b98b1ed3a01439f2ba82f3eea6b9cf4d11de4bd321ccb7c3"
+      ],
+      "cover": null,
+      "content": "O detalhe está no HUD. Veja a análise completa no Pixel Procurado.",
+      "settings": {
+        "__type": "facebook",
+        "post_type": "story"
+      },
+      "fingerprint": "b929a8773d56d7844426238c58989f12b005d0df889fcc85329a146f347240cd"
+    },
+    {
+      "id": "facebook_multifoto",
+      "integration_id": "cmvzyur290001pddwolrt33em",
+      "provider": "facebook",
+      "media": [
+        "r2:f0b6f95fbf324b5650ccda0e91f161e2a0dc9be57089a52ef3efa1ea0d01bf12",
+        "r2:7d9f0daafcb0c901818905c4546ef975a0bbddbe2a2cc224bab0cd055abb2eac",
+        "r2:996d2bbe9ccdc5ff2ad1944d3d36480e1e794b00285ec774f2cece51a3109735",
+        "r2:8f797b64e1658568edd5dc47dddc5e2a46b6aa786e72d66c5084a7b87426e313"
+      ],
+      "cover": null,
+      "content": "Quatro quadros do gameplay oficial de GTA VI. No carro vermelho, você escolheria Smash Window ou Slim Jim? #GTA6 #GTAVI #PixelProcurado",
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post"
+      },
+      "fingerprint": "1636ecaaf14cdacb86f0dc1b65057643900bdd0afda20dfd811970beb9b59a78"
+    },
+    {
+      "id": "instagram_integral",
+      "integration_id": "cmvzyw7vj0003pddwkgtivv8i",
+      "provider": "instagram",
+      "media": [
+        "r2:6247a764e8adf70ece10325c6d074f23ec6b96cb6703c3c070cdb37885bb2a0e"
+      ],
+      "cover": "r2:cd2b74e4e36ad903cacb272f2730b117effca29a08a82c58c47eb00a3a60950d",
+      "content": "Episódio gravado para 10/11/2026, data em que começou o pré-load.\n\nEsquece a bazuca na cueca. O gameplay oficial de GTA VI mostra interações no prédio, armas recolhidas no chão, combate em corredores e duas opções na porta do carro vermelho. Neste episódio do Pixel Procurado, analisamos o que essas imagens sugerem para quem vem de GTA V.\n\nAnálise das imagens do gameplay oficial: as conclusões editoriais sobre comportamento, dificuldade e consequências são interpretações do vídeo, sem teste jogável próprio.\n\n#GTA6 #GTAVI #PixelProcurado",
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      },
+      "fingerprint": "67152d336bae3eebf7e6eff09cf7e7f0056bce34b91651ef8eadff464835b5bc"
+    },
+    {
+      "id": "instagram_reel",
+      "integration_id": "cmvzyw7vj0003pddwkgtivv8i",
+      "provider": "instagram",
+      "media": [
+        "r2:f15878cea2a65414a4b3e64861e89ce6549292b33ad5b5583b884be18b4fcefd"
+      ],
+      "cover": "r2:cd2b74e4e36ad903cacb272f2730b117effca29a08a82c58c47eb00a3a60950d",
+      "content": "Duas opções reais na porta do carro: Smash Window e Slim Jim. Análise das imagens oficiais, sem teste jogável próprio. Episódio completo no canal Pixel Procurado. #GTA6 #GTAVI #PixelProcurado",
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      },
+      "fingerprint": "1e19179fa4160afce4e729d035f8f7a88c85b3d89d8dc5cf3d674b8bf3f773b6"
+    },
+    {
+      "id": "instagram_story",
+      "integration_id": "cmvzyw7vj0003pddwkgtivv8i",
+      "provider": "instagram",
+      "media": [
+        "r2:77eda69c2d755a50b98b1ed3a01439f2ba82f3eea6b9cf4d11de4bd321ccb7c3"
+      ],
+      "cover": null,
+      "content": "O detalhe está no HUD. Veja a análise completa no Pixel Procurado.",
+      "settings": {
+        "__type": "instagram",
+        "post_type": "story"
+      },
+      "fingerprint": "52af7e520c25581ad91bea828735a24e9c8a4081ebe359af5f626653d3620dde"
+    },
+    {
+      "id": "instagram_carrossel",
+      "integration_id": "cmvzyw7vj0003pddwkgtivv8i",
+      "provider": "instagram",
+      "media": [
+        "r2:f0b6f95fbf324b5650ccda0e91f161e2a0dc9be57089a52ef3efa1ea0d01bf12",
+        "r2:7d9f0daafcb0c901818905c4546ef975a0bbddbe2a2cc224bab0cd055abb2eac",
+        "r2:996d2bbe9ccdc5ff2ad1944d3d36480e1e794b00285ec774f2cece51a3109735",
+        "r2:8f797b64e1658568edd5dc47dddc5e2a46b6aa786e72d66c5084a7b87426e313"
+      ],
+      "cover": null,
+      "content": "Quatro quadros do gameplay oficial de GTA VI. No carro vermelho, você escolheria Smash Window ou Slim Jim? #GTA6 #GTAVI #PixelProcurado",
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      },
+      "fingerprint": "1563e72cc5b517f35c3913a59b4301c84e87726d173435c83c6a58d20543a52e"
+    },
+    {
+      "id": "tiktok_reel",
+      "integration_id": "cmwa9e6ie0001pna8wkbk1x2e",
+      "provider": "tiktok",
+      "media": [
+        "r2:f15878cea2a65414a4b3e64861e89ce6549292b33ad5b5583b884be18b4fcefd"
+      ],
+      "cover": null,
+      "content": "Episódio gravado para 10/11/2026, data em que começou o pré-load.\n\nDuas opções reais na porta do carro: Smash Window e Slim Jim. Análise das imagens oficiais, sem teste jogável próprio. Episódio completo no canal Pixel Procurado. #GTA6 #GTAVI #PixelProcurado",
+      "settings": {
+        "__type": "tiktok",
+        "title": "GTA 6: círculo ou triângulo? Leia o HUD antes de fugir",
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "duet": false,
+        "stitch": false,
+        "comment": true,
+        "autoAddMusic": "no",
+        "brand_content_toggle": false,
+        "brand_organic_toggle": false,
+        "video_made_with_ai": true,
+        "content_posting_method": "DIRECT_POST"
+      },
+      "fingerprint": "0e261fe37966fa13328ef87658cb12030ea2b147286975e330bd99d9a5197a05"
+    },
+    {
+      "id": "tiktok_integral",
+      "integration_id": "cmwa9e6ie0001pna8wkbk1x2e",
+      "provider": "tiktok",
+      "media": [
+        "r2:f6667be0978d531679ddc87a5eb87a866d205622a764d0e21fbc62a7ecae26b0"
+      ],
+      "cover": null,
+      "content": "Episódio gravado para 10/11/2026, data em que começou o pré-load.\n\nEsquece a bazuca na cueca. O gameplay oficial de GTA VI mostra interações no prédio, armas recolhidas no chão, combate em corredores e duas opções na porta do carro vermelho. Neste episódio do Pixel Procurado, analisamos o que essas imagens sugerem para quem vem de GTA V.\n\nAnálise das imagens do gameplay oficial: as conclusões editoriais sobre comportamento, dificuldade e consequências são interpretações do vídeo, sem teste jogável próprio.\n\n#GTA6 #GTAVI #PixelProcurado",
+      "settings": {
+        "__type": "tiktok",
+        "title": "GTA 6: esqueça o jeito de jogar GTA 5 | Análise do gameplay",
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "duet": false,
+        "stitch": false,
+        "comment": true,
+        "autoAddMusic": "no",
+        "brand_content_toggle": false,
+        "brand_organic_toggle": false,
+        "video_made_with_ai": true,
+        "content_posting_method": "DIRECT_POST"
+      },
+      "fingerprint": "c6f771e3a3a6a8c642b806bde5ef1a02758c18de7399c5237099105a415ff395"
+    },
+    {
+      "id": "tiktok_carrossel",
+      "integration_id": "cmwa9e6ie0001pna8wkbk1x2e",
+      "provider": "tiktok",
+      "media": [
+        "r2:f0b6f95fbf324b5650ccda0e91f161e2a0dc9be57089a52ef3efa1ea0d01bf12",
+        "r2:7d9f0daafcb0c901818905c4546ef975a0bbddbe2a2cc224bab0cd055abb2eac",
+        "r2:996d2bbe9ccdc5ff2ad1944d3d36480e1e794b00285ec774f2cece51a3109735",
+        "r2:8f797b64e1658568edd5dc47dddc5e2a46b6aa786e72d66c5084a7b87426e313"
+      ],
+      "cover": null,
+      "content": "Episódio gravado para 10/11/2026, data em que começou o pré-load.\n\nQuatro quadros do gameplay oficial de GTA VI. No carro vermelho, você escolheria Smash Window ou Slim Jim? #GTA6 #GTAVI #PixelProcurado",
+      "settings": {
+        "__type": "tiktok",
+        "title": "GTA 6: quatro quadros do gameplay oficial",
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "duet": false,
+        "stitch": false,
+        "comment": true,
+        "autoAddMusic": "no",
+        "brand_content_toggle": false,
+        "brand_organic_toggle": false,
+        "content_posting_method": "DIRECT_POST"
+      },
+      "fingerprint": "c5f439f2b6021d5b2f385ece84c0290f89ad69510b1b84a523effb421f552936"
+    }
+  ],
+  "assets": {
+    "postiz:a5ce1f01e263da77e556378fc8699df209253c0ee77f76caa8146761476a6854": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\exportacoes\\DIA01_Master_4K.mp4",
+      "sha256": "a5ce1f01e263da77e556378fc8699df209253c0ee77f76caa8146761476a6854",
+      "bytes": 696165328,
+      "transport": "postiz",
+      "needed_by": [
+        "youtube_longo"
+      ]
+    },
+    "postiz:7f8085e4c337cae231d38a0b39cbe111ca8034f3a34f0d0b7d0c3b20b83ba2f9": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\thumbnail_A\\capa_youtube.jpg",
+      "sha256": "7f8085e4c337cae231d38a0b39cbe111ca8034f3a34f0d0b7d0c3b20b83ba2f9",
+      "bytes": 187200,
+      "transport": "postiz",
+      "needed_by": [
+        "youtube_longo"
+      ]
+    },
+    "postiz:f15878cea2a65414a4b3e64861e89ce6549292b33ad5b5583b884be18b4fcefd": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\exportacoes\\DIA01_Reel_HUD.mp4",
+      "sha256": "f15878cea2a65414a4b3e64861e89ce6549292b33ad5b5583b884be18b4fcefd",
+      "bytes": 106379276,
+      "transport": "postiz",
+      "needed_by": [
+        "youtube_short",
+        "tiktok_reel"
+      ]
+    },
+    "postiz:cd2b74e4e36ad903cacb272f2730b117effca29a08a82c58c47eb00a3a60950d": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\publicacao\\social_capa_vertical_hud_postiz.jpg",
+      "sha256": "cd2b74e4e36ad903cacb272f2730b117effca29a08a82c58c47eb00a3a60950d",
+      "bytes": 529885,
+      "transport": "postiz",
+      "needed_by": [
+        "youtube_short"
+      ]
+    },
+    "r2:a5ce1f01e263da77e556378fc8699df209253c0ee77f76caa8146761476a6854": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\exportacoes\\DIA01_Master_4K.mp4",
+      "sha256": "a5ce1f01e263da77e556378fc8699df209253c0ee77f76caa8146761476a6854",
+      "bytes": 696165328,
+      "transport": "r2",
+      "needed_by": [
+        "facebook_integral"
+      ]
+    },
+    "r2:f15878cea2a65414a4b3e64861e89ce6549292b33ad5b5583b884be18b4fcefd": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\exportacoes\\DIA01_Reel_HUD.mp4",
+      "sha256": "f15878cea2a65414a4b3e64861e89ce6549292b33ad5b5583b884be18b4fcefd",
+      "bytes": 106379276,
+      "transport": "r2",
+      "needed_by": [
+        "facebook_curto",
+        "instagram_reel",
+        "tiktok_reel"
+      ]
+    },
+    "r2:77eda69c2d755a50b98b1ed3a01439f2ba82f3eea6b9cf4d11de4bd321ccb7c3": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\exportacoes\\DIA01_Story_HUD.mp4",
+      "sha256": "77eda69c2d755a50b98b1ed3a01439f2ba82f3eea6b9cf4d11de4bd321ccb7c3",
+      "bytes": 31859040,
+      "transport": "r2",
+      "needed_by": [
+        "facebook_story",
+        "instagram_story"
+      ]
+    },
+    "r2:f0b6f95fbf324b5650ccda0e91f161e2a0dc9be57089a52ef3efa1ea0d01bf12": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\carrossel_01.jpg",
+      "sha256": "f0b6f95fbf324b5650ccda0e91f161e2a0dc9be57089a52ef3efa1ea0d01bf12",
+      "bytes": 307253,
+      "transport": "r2",
+      "needed_by": [
+        "facebook_multifoto",
+        "instagram_carrossel",
+        "tiktok_carrossel"
+      ]
+    },
+    "r2:7d9f0daafcb0c901818905c4546ef975a0bbddbe2a2cc224bab0cd055abb2eac": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\carrossel_02.jpg",
+      "sha256": "7d9f0daafcb0c901818905c4546ef975a0bbddbe2a2cc224bab0cd055abb2eac",
+      "bytes": 309977,
+      "transport": "r2",
+      "needed_by": [
+        "facebook_multifoto",
+        "instagram_carrossel",
+        "tiktok_carrossel"
+      ]
+    },
+    "r2:996d2bbe9ccdc5ff2ad1944d3d36480e1e794b00285ec774f2cece51a3109735": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\carrossel_03.jpg",
+      "sha256": "996d2bbe9ccdc5ff2ad1944d3d36480e1e794b00285ec774f2cece51a3109735",
+      "bytes": 302568,
+      "transport": "r2",
+      "needed_by": [
+        "facebook_multifoto",
+        "instagram_carrossel",
+        "tiktok_carrossel"
+      ]
+    },
+    "r2:8f797b64e1658568edd5dc47dddc5e2a46b6aa786e72d66c5084a7b87426e313": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\carrossel_04.jpg",
+      "sha256": "8f797b64e1658568edd5dc47dddc5e2a46b6aa786e72d66c5084a7b87426e313",
+      "bytes": 323609,
+      "transport": "r2",
+      "needed_by": [
+        "facebook_multifoto",
+        "instagram_carrossel",
+        "tiktok_carrossel"
+      ]
+    },
+    "r2:f6667be0978d531679ddc87a5eb87a866d205622a764d0e21fbc62a7ecae26b0": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\exportacoes\\DIA01_Instagram_Integral.mp4",
+      "sha256": "f6667be0978d531679ddc87a5eb87a866d205622a764d0e21fbc62a7ecae26b0",
+      "bytes": 647173974,
+      "transport": "r2",
+      "needed_by": [
+        "instagram_integral",
+        "tiktok_integral"
+      ]
+    },
+    "r2:cd2b74e4e36ad903cacb272f2730b117effca29a08a82c58c47eb00a3a60950d": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\publicacao\\social_capa_vertical_hud_postiz.jpg",
+      "sha256": "cd2b74e4e36ad903cacb272f2730b117effca29a08a82c58c47eb00a3a60950d",
+      "bytes": 529885,
+      "transport": "r2",
+      "needed_by": [
+        "instagram_integral",
+        "instagram_reel"
+      ]
+    },
+    "r2:6247a764e8adf70ece10325c6d074f23ec6b96cb6703c3c070cdb37885bb2a0e": {
+      "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\exportacoes\\DIA01_Instagram_Integral_Postiz300MB.mp4",
+      "sha256": "6247a764e8adf70ece10325c6d074f23ec6b96cb6703c3c070cdb37885bb2a0e",
+      "bytes": 290455719,
+      "transport": "r2",
+      "needed_by": [
+        "instagram_integral"
+      ]
+    }
+  },
+  "chapters": [
+    "00:00 Esqueça os hábitos de GTA 5",
+    "00:59 A primeira entrada no prédio",
+    "01:57 Laboratório e malote",
+    "02:24 Armas e inventário",
+    "03:01 Fumaça, cobertura e ângulos",
+    "03:32 Do corredor ao escuro",
+    "03:57 Infiltração no escritório",
+    "04:37 O HUD do carro vermelho",
+    "05:44 Pré-load e próximo episódio"
+  ],
+  "chapter_seconds": [
+    0,
+    59,
+    117,
+    144,
+    181,
+    212,
+    237,
+    277,
+    344
+  ],
+  "covers_supported": {
+    "youtube": "settings.thumbnail",
+    "instagram": "image[0].thumbnail"
+  },
+  "youtube_ab": "Studio no mesmo vídeo",
+  "dry_run": true
+}

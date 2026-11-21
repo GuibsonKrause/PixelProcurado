@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-08T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "O aluguel grátis de Jason tem preço. A apresentação oficial dos personagens de GTA 6 revela acordos de moradia, amizades com interesses duplos e assaltantes experientes assumindo riscos.\n\nQuando um favor vira obrigação, quem realmente paga a conta quando o plano dá errado? Analisamos os vínculos de Brian Heder, Cal Hampton, Raul Bautista e o núcleo musical de Leonida.\n\nAnálise editorial sobre material oficial de GTA VI.\nFonte: https://www.rockstargames.com/VI/only-in-leonida\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/702404d26548477292de88efc268e8af.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: quem deve a quem em Leonida?"
+      }
+    }
+  ]
+}

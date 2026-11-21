@@ -1,0 +1,100 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-18T02:47:18.016117+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Vice City pede documento na porta. A Rockstar descreve Boobie Ike como dono de imóveis, um clube de strip e um estúdio. No vídeo oficial: festa, elevador, tiroteio e uma pistola com silenciador no chão (25:37). Quem usou: não confirmado. Vídeo completo no canal. Faltam 2 dias para 19/11. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "937f6f6d-5b79-471d-ad1c-19e8f7072414",
+              "name": "a19d359b8d8e8333ab683038ca69f644.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/18/a19d359b8d8e8333ab683038ca69f644.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: Vice City Pede Documento #shorts",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "GTA 6 Vice City",
+            "label": "GTA 6 Vice City"
+          },
+          {
+            "value": "GTA 6 Boobie Ike",
+            "label": "GTA 6 Boobie Ike"
+          },
+          {
+            "value": "GTA 6 Jack of Hearts",
+            "label": "GTA 6 Jack of Hearts"
+          },
+          {
+            "value": "GTA 6 trailer",
+            "label": "GTA 6 trailer"
+          },
+          {
+            "value": "GTA 6 An Extended Look",
+            "label": "GTA 6 An Extended Look"
+          },
+          {
+            "value": "GTA 6 Rockstar",
+            "label": "GTA 6 Rockstar"
+          },
+          {
+            "value": "GTA 6 19 de novembro",
+            "label": "GTA 6 19 de novembro"
+          },
+          {
+            "value": "GTA 6 aquecimento",
+            "label": "GTA 6 aquecimento"
+          },
+          {
+            "value": "Real Dimez",
+            "label": "Real Dimez"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "2736733b-19d2-431e-ad5a-6b30834fb473",
+          "name": "2fb8ad4d42a309a78d80e571ee531a9d.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/18/2fb8ad4d42a309a78d80e571ee531a9d.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

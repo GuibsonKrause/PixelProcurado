@@ -1,0 +1,76 @@
+# =====================================================================
+# Git = codigo, configuracao, skills, textos editoriais e site (Pages).
+# Midia vive no Google Drive (automacao/armazenamento.py). Limite deste
+# repositorio: arquivos <= 5 MB e repo total <= 100 MB (hook .githooks/pre-commit).
+# Ao criar algo novo: se for midia, gerado, estado de execucao ou segredo -> ignore aqui.
+# =====================================================================
+
+# --- segredos e configuracao local
+.env
+.env.*
+*.pem
+*.key
+*.p12
+.claude/settings.local.json
+.production-tools/postiz-r2.json
+
+# --- ferramentas, ambientes e caches locais
+.course-tools/
+.production-tools/
+.venv*/
+node_modules/
+__pycache__/
+*.pyc
+graphify-out/
+_armazenamento/
+*.baixando
+
+# --- midia (Drive). Arquivos arquivados viram links simbolicos com estas extensoes
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.ts
+*.wav
+*.mp3
+*.m4a
+*.f32
+*.mbtree
+*.pdf
+*.zip
+*.7z
+
+# --- imagens: so as de identidade e do site entram no Git
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.psd
+!assets/identidade/**
+!oauth-site/*.png
+
+# --- acervo e execucao (gerados, pesados ou estado de maquina)
+videosGTAVI/*
+!videosGTAVI/_catalogo/
+_curso/
+producao/live/
+producao/**/overlays/
+producao/**/render/
+producao/**/render4k/
+producao/**/temp_render/
+producao/**/historico/
+producao/**/montagem/
+producao/**/amostra*/
+producao/**/qa*/
+remotion/public/
+remotion/out/
+*.log
+
+# --- estados de publicacao (IDs de conta, regenerados pelo Postiz)
+producao/shorts/POSTIZ_ESTADO.json
+producao/shorts/POSTIZ_META_ESTADO.json
+producao/POSTIZ_FACEBOOK_LONGOS_ESTADO.json
+
+# --- scripts avulsos com credenciais embutidas
+automacao/add_tiktok_business.py

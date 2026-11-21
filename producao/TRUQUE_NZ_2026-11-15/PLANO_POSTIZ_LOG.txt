@@ -1,0 +1,41 @@
+DRY-RUN: nada será enviado. Data: 2026-11-16T01:00:00Z
+- youtube_longo      youtube   post  via postiz upload pendente
+    mídia: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2.mp4 [791 MB]
+    capa : C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\publicacao\thumbnail_A\capa_youtube.jpg [OK]
+    título: GTA 6 às 8h da Manhã: o Truque da Nova Zelândia Funciona?
+    tags : 325/500 caracteres
+    texto (longo): 'GTA 6 abre na Nova Zelândia às 8h da manhã de quarta (18/11) no horário de Brasília, 16 ho'...
+- youtube_short      youtube   post  via postiz upload pendente
+    mídia: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\exportacoes\Pixel_Procurado_Truque_NZ_Short_V2.mp4 [43 MB]
+    capa : C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\publicacao\thumbnail_vertical\capa_youtube.jpg [OK]
+    título: GTA 6 às 8h da Manhã: o Truque da Nova Zelândia Funciona?
+    tags : 325/500 caracteres
+    texto (short): 'GTA 6 às 8h da manhã de quarta? 🕗 No Xbox são 3 cliques. No PS5 custa outro jogo. E ningué'...
+- facebook_integral  facebook  post  via R2 stage      pendente
+    mídia: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2.mp4 [791 MB]
+    título: GTA 6 às 8h da Manhã: o Truque da Nova Zelândia Funciona?
+    texto (longo): 'GTA 6 abre na Nova Zelândia às 8h da manhã de quarta (18/11) no horário de Brasília, 16 ho'...
+- facebook_curto     facebook  post  via R2 stage      pendente
+    mídia: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\exportacoes\Pixel_Procurado_Truque_NZ_Short_V2.mp4 [43 MB]
+    título: GTA 6 às 8h da Manhã: o Truque da Nova Zelândia Funciona?
+    texto (short): 'GTA 6 às 8h da manhã de quarta? 🕗 No Xbox são 3 cliques. No PS5 custa outro jogo. E ningué'...
+- facebook_story     facebook  story via R2 stage      pendente
+    mídia: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\_story\exportacoes\Pixel_Procurado_Truque_NZ_Story_V2.mp4 [42 MB]
+    texto (story): 'GTA 6 às 8h da manhã de quarta? Veja o episódio completo no Pixel Procurado.'...
+- instagram_integral instagram post  via R2 stage      pendente
+    mídia: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\_vertical\exportacoes\Pixel_Procurado_Truque_NZ_Vertical_V2.mp4 [190 MB]
+    capa : C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\publicacao\thumbnail_vertical\capa_youtube.jpg [OK]
+    texto (longo): 'GTA 6 abre na Nova Zelândia às 8h da manhã de quarta (18/11) no horário de Brasília, 16 ho'...
+- instagram_reel     instagram post  via R2 stage      pendente
+    mídia: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\exportacoes\Pixel_Procurado_Truque_NZ_Short_V2.mp4 [43 MB]
+    capa : C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\publicacao\thumbnail_vertical\capa_youtube.jpg [OK]
+    texto (short): 'GTA 6 às 8h da manhã de quarta? 🕗 No Xbox são 3 cliques. No PS5 custa outro jogo. E ningué'...
+- instagram_story    instagram story via R2 stage      pendente
+    mídia: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\_story\exportacoes\Pixel_Procurado_Truque_NZ_Story_V2.mp4 [42 MB]
+    texto (story): 'GTA 6 às 8h da manhã de quarta? Veja o episódio completo no Pixel Procurado.'...
+- tiktok_short       tiktok    video via R2 stage      pendente
+    mídia: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\exportacoes\Pixel_Procurado_Truque_NZ_Short_V2.mp4 [43 MB]
+    título: GTA 6 às 8h da Manhã: o Truque da Nova Zelândia Funciona?
+    texto (tiktok_short): 'GTA 6 às 8h da manhã de quarta? 🕗 No Xbox são 3 cliques. No PS5 custa outro jogo. E ningué'...
+
+Para enviar de fato: repita com --publicar (e --agora para publicar já)

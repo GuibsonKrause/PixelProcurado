@@ -1,0 +1,50 @@
+[
+  {
+    "paragraph": 13,
+    "original_score": 0.8378378378378378,
+    "retake_score": 0.9863013698630136,
+    "decision": "retomada",
+    "original": "Portugal ou vão usar outra combinação. O letredo do Stalic Motel chama a atenção. Mas em volta vemos construções mais baixas, postes e uma rua com menos brilho. No panorama, a cidade se espalha entre árvores e fios.",
+    "retake": "Port Gellhorn usa outra combinação. O letreiro do Starlet Motel chama a atenção, mas em volta vemos construções mais baixas, postes e uma rua com menos brilho. No panorama, a cidade se espalha entre árvores e fios.",
+    "original_bounds": [
+      173.0,
+      187.47
+    ]
+  },
+  {
+    "paragraph": 18,
+    "original_score": 0.9056603773584906,
+    "retake_score": 1.0,
+    "decision": "retomada",
+    "original": "A indústria, a estrada e a gente reunida ajuda a criar uma identidade. Minha leitura vem dessa combinação, sem concluir como cada grupo vai agir dentro do jogo.",
+    "retake": "Indústria, estrada e gente reunida ajudam a criar uma identidade. Minha leitura vem dessa combinação, sem concluir como cada grupo vai agir dentro do jogo.",
+    "original_bounds": [
+      234.92,
+      245.1
+    ]
+  },
+  {
+    "paragraph": 19,
+    "original_score": 0.8732394366197183,
+    "retake_score": 0.8888888888888888,
+    "decision": "retomada",
+    "original": "E então Mount Calabaga muda o ritmo. A estrada passa entre paredões, outras imagens mostram mata, rio e animais perto da margem. Depois de tanto prédio, porte aletreiro ou relevo volta a ocupar o centro.",
+    "retake": "E então, o Monte Kalagária muda o ritmo, a estrada passa entre paredões, outras imagens mostram mata, rio e animais perto da margem. Depois de tanto prédio, poste, eletreiro, o relevo volta a ocupar o centro.",
+    "original_bounds": [
+      245.1,
+      259.23
+    ]
+  },
+  {
+    "paragraph": 21,
+    "original_score": 0.723404255319149,
+    "retake_score": 0.9555555555555556,
+    "decision": "retomada",
+    "original": "As seis regiões não precisam parecer variações na mesma praia. Nas quis o horizonte se abre. Em Gras Reavers, a mato esconde. Vai se cite e quer ser vista. Pot de Elrond parece ter histórias acumuladas. Ambrose apesa com indústria e movimento. Calabaga deixa a natureza ocupar a conversa.",
+    "retake": "As três regiões não precisam parecer variações da mesma praia. Nas Keys, o horizonte se abre, em Grassrivers, a mata esconde, Vice City quer ser vista. Port Gellhorn parece ter histórias acumuladas, Ambrosia pesa com indústria em movimento. Kalaga deixa a natureza ocupar a conversa.",
+    "original_bounds": [
+      276.0,
+      294.82
+    ]
+  }
+]

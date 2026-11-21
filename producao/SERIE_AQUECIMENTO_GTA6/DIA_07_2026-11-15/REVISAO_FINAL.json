@@ -1,0 +1,436 @@
+{
+  "schema_versao": 1,
+  "episodio": "DIA_07_2026-11-15",
+  "revisor": {
+    "modelo": "claude-opus-5-5 (Claude Opus 5.5)",
+    "agent_id": "revisor-final-independente-D7-subagente"
+  },
+  "data": "2026-11-14",
+  "artefatos": [
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/exportacoes/Pixel_Procurado_DIA07_Longo_V2.mp4",
+      "sha256": "512fd3b1db8d18d5e592164bc07593eacbe4d5fc7a78415295d7ec8e1da7b0fe"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/exportacoes/Pixel_Procurado_DIA07_Longo_V2.srt",
+      "sha256": "dda9494c053fa305a75ed974281b6a0441940582437b1b6ba9417b8e8cec15ba"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/publicacao/capas/capa_longo_A.jpg",
+      "sha256": "e1fdf2ca51edd92fe6482f946fe4a4544275b5fb3067360003dde2eb70795624"
+    }
+  ],
+  "audio_trechos_ouvidos": [
+    {
+      "inicio": 0.0,
+      "fim": 10.0,
+      "observacao": "ASR [0.0-10.0s]: \"Mão dada é no R2, ontem eu prometi duas coisas, o botão de andar de mão dada e o que tá colado numa geladeira, pausei o gameplay quadro a quadro\". Gancho inteligível para o ASR: 'Mão dada é no R2' com confiança alta (nenhuma palavra < 0,5), igual ao roteiro ('Mão dada é no R dois.'). Fala começa em ~0,18 s (sem vinheta). Emenda em ~2,90 s medida por amostras: fala do gancho termina com fade até 1,83 s, silêncio digital absoluto 1,83-2,90 s (piso das outras pausas é ~-60 dBFS), entrada de 'Ontem' com rampa -107/-53/-14 dB em 2,85-2,95 s e salto máximo amostra-a-amostra 0,001 na emenda: sem indício de clique ou corte brusco; ~1,1 s de 'buraco' registrado como problema baixa. silencedetect (-45 dB, 0,15 s) só aponta 1,78-2,94 s e pausas normais (4,29-4,81; 7,78-8,63). NÃO OUVIDO POR HUMANO: checagem feita por transcrição ASR (faster-whisper small, int8, local) comparada a 01_NARRACAO.txt e por medição (QA: -16,9 LUFS integrado, pico -1,3 dBFS). Re-render 2026-11-14: trilha não alterada (QA novo -16,9 LUFS / -1,3 dBFS; mesmas amostras zeradas 1,83-2,90 s no MP4 novo)."
+    },
+    {
+      "inicio": 125.0,
+      "fim": 140.0,
+      "observacao": "ASR [125.0-140.0s]: \"beber ou largar, devolver pra geladeira não tá no menu, e no meio da sala tem uma barra de polidência, ninguém comenta, ninguém precisa, e a TV tá ligada, 7,24, de longe a tela mostra uma caixa de suco, 7\". Bate com o roteiro (beber ou largar; barra de pole dance; TV ligada, 07:24, caixa de suco). Erros só de reconhecimento ('polidência' = 'pole dance'). Sem cortes ou palavras faltando. NÃO OUVIDO POR HUMANO: checagem feita por transcrição ASR (faster-whisper small, int8, local) comparada a 01_NARRACAO.txt e por medição (QA: -16,9 LUFS integrado, pico -1,3 dBFS). Re-render 2026-11-14: trilha não alterada (QA novo -16,9 LUFS / -1,3 dBFS; mesmas amostras zeradas 1,83-2,90 s no MP4 novo)."
+    },
+    {
+      "inicio": 245.0,
+      "fim": 260.0,
+      "observacao": "ASR [245.0-260.0s]: \"é o outro, 5 segundos depois, noite, porta de clube, adesiva amorela, over 21 only, logo embaixo, e de cheque, e em letra miúda, que a lei estadual proíbe vender álcool para menor, lá\". Bate com o roteiro (porta de clube, OVER 21 ONLY, ID Check, lei estadual proíbe vender álcool pra menor). Divergências típicas de ASR ('adesiva amorela', 'e de cheque'), sem lacuna de fala. NÃO OUVIDO POR HUMANO: checagem feita por transcrição ASR (faster-whisper small, int8, local) comparada a 01_NARRACAO.txt e por medição (QA: -16,9 LUFS integrado, pico -1,3 dBFS). Re-render 2026-11-14: trilha não alterada (QA novo -16,9 LUFS / -1,3 dBFS; mesmas amostras zeradas 1,83-2,90 s no MP4 novo)."
+    },
+    {
+      "inicio": 316.0,
+      "fim": 346.0,
+      "observacao": "ASR [316.0-346.0s]: \"e o último é o mais seco, 25 e 26, uma luta corpo a corpo no chão, na minha lista tava tapete, é concreto e a tela não escreve nada, só dois ícones, um ovo redondo e um triângulo dentro de um círculo, sem palavra, sem legenda, dá a entender que a briga tem botão na hora certa, mas isso é importância, o foto é outro, quando a coisa aperta o GTA 6 para de explicar e só te mostra o botão, 11 detalhes e nenhum\". Bloco 25:26 bate com o roteiro (luta corpo a corpo no chão, concreto, dois ícones, alvo redondo e triângulo, sem palavra, sem legenda, hipótese, GTA 6 para de explicar). ASR erra 'ovo'/'alvo', 'importância'/'hipótese', 'foto'/'fato' com confiança < 0,4; conferido no SRT e nas cartelas que o texto certo é 'alvo', 'hipótese', 'fato'. NÃO OUVIDO POR HUMANO: checagem feita por transcrição ASR (faster-whisper small, int8, local) comparada a 01_NARRACAO.txt e por medição (QA: -16,9 LUFS integrado, pico -1,3 dBFS). Re-render 2026-11-14: trilha não alterada (QA novo -16,9 LUFS / -1,3 dBFS; mesmas amostras zeradas 1,83-2,90 s no MP4 novo)."
+    },
+    {
+      "inicio": 365.0,
+      "fim": 380.0,
+      "observacao": "ASR [365.0-380.0s]: \"óculos de realidade virtual. Amanhã, segunda, 16 de novembro, é PS5 normal contra o PS5 Pro, 30 ou 60 quadros por segundo, e o que dá pra afirmar de verdade sem torcida pra nenhum lado, porque console caro também\". Bate com o roteiro do fecho (Amanhã, segunda, 16 de novembro, PS5 normal contra PS5 Pro, 30 ou 60 quadros por segundo, sem torcida). Sem cortes. NÃO OUVIDO POR HUMANO: checagem feita por transcrição ASR (faster-whisper small, int8, local) comparada a 01_NARRACAO.txt e por medição (QA: -16,9 LUFS integrado, pico -1,3 dBFS). Re-render 2026-11-14: trilha não alterada (QA novo -16,9 LUFS / -1,3 dBFS; mesmas amostras zeradas 1,83-2,90 s no MP4 novo)."
+    },
+    {
+      "inicio": 373.8,
+      "fim": 383.8,
+      "observacao": "ASR [373.8-383.8s]: \"quadros por segundo, e o que dá pra afirmar de verdade sem torcida pra nenhum lado, porque console caro também precisa de prova, se inscreve no canal e até amanhã.\". Final: '...porque console caro também precisa de prova, se inscreve no canal e até amanhã.' termina antes do fim do vídeo (último cue até 383,67 s; vídeo 383,8 s, áudio 383,84 s), sem corte da última palavra. NÃO OUVIDO POR HUMANO: checagem feita por transcrição ASR (faster-whisper small, int8, local) comparada a 01_NARRACAO.txt e por medição (QA: -16,9 LUFS integrado, pico -1,3 dBFS). Re-render 2026-11-14: trilha não alterada (QA novo -16,9 LUFS / -1,3 dBFS; mesmas amostras zeradas 1,83-2,90 s no MP4 novo)."
+    }
+  ],
+  "frames_inspecionados": [
+    {
+      "timecode": 0.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t0.8.jpg",
+      "observacao": "Gancho, 1o segundo: casal de costas de mãos dadas no terraço com bar; destaque amarelo 'HOLD HANDS (R2)' no canto inferior direito legível; legenda 'Mão dada é no R dois.' centralizada, legível, sem card. Imagem confirma a fala. Sem preto/verde. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 2.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t2.5.jpg",
+      "observacao": "Mesmo plano CRholdcasal na pausa pós-gancho: sem legenda (fala acabou em 1,76 s), destaque HOLD HANDS R2 visível. Imagem estática coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 3.96,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t3.96.jpg",
+      "observacao": "Card 'PROMESSA DO DIA 6 / mão dada + geladeira' entrou à esquerda; homem de camisa preta entrando no terraço; HUD nativo 'HOLD HANDS R2' pequeno no canto. Legenda 'Ontem eu prometi duas coisas: o' logo abaixo do card, sem sobrepor (folga ~40 px). [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 13.16,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t13.16.jpg",
+      "observacao": "Card 'HOLD HANDS • R2 / 09:50 • casal no terraço'; casal caminhando de mãos dadas, HUD 'HOLD HANDS R2' no canto inferior direito legível. Legenda 'Minuto nove e cinquenta, num terraço' bate com a fala e o card. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 25.33,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t25.33.jpg",
+      "observacao": "Card 'R3 → R2 / 09:50 • minha anotação errou' sobre recorte ampliado dos bancos com destaque grande 'HOLD HANDS (R2)'. Legenda 'Na minha anotação tava R três.' encosta/invade a borda esquerda do destaque amarelo (o 's.' fica sobre a moldura). Legível, mas há sobreposição legenda x destaque (problema baixa). [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 39.06,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t39.06.jpg",
+      "observacao": "Card 'FRIDGE • △ / 07:16 • prompt no triângulo'; geladeira com ímãs (Lombank, Fleeca) e destaque amarelo '△ FRIDGE'. A borda direita do card toca a moldura do destaque e a legenda 'oferece FRIDGE, no triângulo.' cruza a borda inferior da moldura. Prompt continua legível (problema baixa de sobreposição). [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 44.02,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t44.02.jpg",
+      "observacao": "Card 'MENU DA GELADEIRA / 07:18 • Logger Beer, Lavazas Beer, Blitz Berry'; menu do jogo legível: LOGGER BEER, LAVAZAS BEER, BLITZ BERRY SMOOTHIE e um quarto item esmaecido. Legenda 'Abriu, virou cardápio: Logger Beer, Lavazas' bate com a fala e com a tela. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 48.4,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t48.4.jpg",
+      "observacao": "Card 'BLITZ GREEN: APAGADO / 07:19 • último item do menu, esmaecido'; recorte ampliado com moldura amarela no 'BLITZ GREEN SMOOTHIE' esmaecido. Legenda 'Blitz Green Smoothie apagadinho no fim' sem sobrepor card. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 61.74,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t61.74.jpg",
+      "observacao": "Card 'ECONOMIZAR É COISA DE TROUXA / tradução livre do panfleto'; geladeira aberta com panfleto verde 'Frugality is for Fools' legível no alto, Fleeca, Lombank, foto de cachorro. HUD 'BACK' no canto. Legenda 'Economizar é coisa de trouxa.' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 69.54,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t69.54.jpg",
+      "observacao": "MP4 NOVO: card de data encurtado 'DOM 15/11 / faltam 4 dias', título em UMA linha, detalhe com folga; quarto rosa. Legenda 'Hoje é domingo, quinze de novembro,' abaixo do card, sem sobreposição."
+    },
+    {
+      "timecode": 70.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t70.5.jpg",
+      "observacao": "MP4 NOVO: legenda 'faltam quatro dias pro lançamento, e' com 'pro' minúsculo (correção do problema 1); card 'DOM 15/11' em uma linha."
+    },
+    {
+      "timecode": 75.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t75.0.jpg",
+      "observacao": "Card '11 DETALHES / minuto e segundo • hipótese avisada'; homem andando no corredor do apartamento. Sem legenda neste quadro (pausa entre cues 74,98-75,36 s), coerente com o SRT. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 87.59,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t87.59.jpg",
+      "observacao": "Card 'DIA 2: TORNEIRA LIGADA / 06:50 • o que eu disse no ar'; mulher deitada na cama com celular. Legenda 'No dia dois eu disse que' bate com a fala. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 90.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t90.3.jpg",
+      "observacao": "MP4 NOVO: card 'DIA 2: TORNEIRA LIGADA'; legenda 'no minuto seis e cinquenta.' por extenso, como o roteiro."
+    },
+    {
+      "timecode": 92.68,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t92.68.jpg",
+      "observacao": "MP4 NOVO: card '06:50 • SEM BANHEIRA' sobre a mulher com dois vestidos em cabide; legenda 'Pausei. No seis e cinquenta nem' por extenso."
+    },
+    {
+      "timecode": 98.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t98.0.jpg",
+      "observacao": "MP4 NOVO: tênis na borda da banheira (EXT0643); legenda 'A banheira aparece antes, no seis' por extenso."
+    },
+    {
+      "timecode": 102.78,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t102.78.jpg",
+      "observacao": "Card '06:42 • TÊNIS NA BORDA / sola caramelo, mão no cadarço'; close de tênis branco de sola caramelo com a mão no cadarço na borda da banheira. Legenda 'branco de sola caramelo, apoiado na' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 107.56,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t107.56.jpg",
+      "observacao": "Card 'TORNEIRA: FECHADA / 06:42 • cromada, sem uma gota'; torneira cromada seca com moldura amarela; o card cobre o canto inferior esquerdo da moldura (sem esconder a torneira). Sem legenda (pausa 107,56-107,91 s no SRT). [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 110.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t110.8.jpg",
+      "observacao": "Card 'DIA 2: ERRADO / banheira seca, torneira fechada'; torneira ampliada sem água. Legenda 'Nenhuma gota. Quem vazou ali fui' coerente; sem sobreposição. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 123.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t123.0.jpg",
+      "observacao": "Card 'DRINK • R1 / DROP / 07:23 • beber ou largar'; cozinha desfocada e destaque amarelo nítido 'DRINK (R1) / DROP (bolinha)' à direita. Legenda 'e no canto aparece DRINK, no' coerente, sem sobrepor card nem destaque. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 136.4,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t136.4.jpg",
+      "observacao": "Card '07:24 • SUCO NA TV / de longe, caixa de suco'; TV na sala mostrando caixa 'Juice Loose' de laranja. Legenda 'Sete e vinte e quatro, de' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 144.88,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t144.88.jpg",
+      "observacao": "Card '07:25 • CÉREBRO NA TV / perninha, banco, dentes à mostra'; personagem cérebro de perninhas, dentes à mostra, sob chuva. Legenda 'de perninha, sentado num banco, dentes' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 152.21,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t152.21.jpg",
+      "observacao": "Card '07:32 • PÍLULA + JOINHA'; TV com mão azul em joinha e trajetória tracejada; neste quadro a pílula azul está parcialmente atrás do topo do card, mas em 154,0 s e 156,5 s (longo_t154.0.jpg, longo_t156.5.jpg) ela aparece inteira acima do card e após a saída. Legenda 'E no sete e trinta e' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 154.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t154.0.jpg",
+      "observacao": "Conferência do card da pílula: pílula azul visível acima do card, mão azul em joinha; legenda 'dois, uma pílula azul em pleno' bate com a imagem. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 156.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t156.5.jpg",
+      "observacao": "Card já saiu; pílula azul e joinha livres na TV. Legenda 'joinha. Cérebro ansioso, nuvem de chuva,' coerente. Saída do card completa. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 182.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t182.3.jpg",
+      "observacao": "Card 'EAT • R1 / DROP / 09:04 • comer ou largar'; homem de moletom azul sentado no meio-fio, destaque 'EAT (R1) / DROP' nítido à direita. Legenda 'No canto, EAT, no R um,' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 208.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t208.3.jpg",
+      "observacao": "Card 'SMOKE • R1 / 12:15 • não era R3, como na minha lista'; homem de camisa florida fumando na varanda, destaque 'SMOKE (R1)' no canto. Legenda 'Na tela: SMOKE, R um.' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 228.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t228.0.jpg",
+      "observacao": "Card '17:27 • BINÓCULO / zoom no direcional'; recorte quase todo escuro da lente do binóculo com destaque 'ZOOM + direcional' nítido à direita. Legenda 'visão de binóculo, e no canto,' coerente. Escuro é intencional (lente), não é preto de render. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 251.92,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t251.92.jpg",
+      "observacao": "Card 'OVER 21 ONLY / 17:34 • adesivo amarelo na porta'; adesivo 'OVER 21 ONLY' e selo 'ID Check' legíveis; o card cobre a parte de baixo do selo (letra miúda), que é mostrada inteira no plano seguinte (CRletra). Legenda 'clube. Adesivo amarelo: OVER twenty one' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 256.72,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t256.72.jpg",
+      "observacao": "Card 'LEI ESTADUAL / proíbe vender álcool a menor'; recorte do selo com 'STATE LAW PROHIBITS THE SALE OF ALCOHOL TO MINORS' legível. Legenda 'em letra miúda, que a lei' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 269.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t269.9.jpg",
+      "observacao": "Card '18:57 • PARAQUEDAS / descida, depois o HUD aparece'; paraquedas laranja sobre a cidade e canais, nítido. Legenda 'Dezoito e cinquenta e sete, descida' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 275.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t275.8.jpg",
+      "observacao": "Card '2 RETRATOS • ♥ • R1 / 18:57 • canto da tela'; HUD ampliado: ícone R1, dois retratos (homem e mulher) com coração e duas carinhas de bravo. Sem nome de personagem em lugar nenhum. Legenda 'lado a lado: um homem e' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 293.27,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t293.27.jpg",
+      "observacao": "Card 'FATO: 2 RETRATOS / 1 coração • 2 caras de bravo' sobre recorte grande dos retratos; a carinha de bravo da esquerda fica parcialmente sob o card e a legenda 'isso: dois retratos, um coração e' passa por cima das duas carinhas (legível, contorno preto). Sobreposição card/legenda x evidência: baixa. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 298.1,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t298.1.jpg",
+      "observacao": "Card 'HIPÓTESE • MENU DE TROCA / leitura minha, não confirmada' sobre o paraquedas desfocado; HUD de retratos pequeno no canto inferior direito. Legenda 'O que parece, e aqui é' coerente; hipótese sinalizada. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 306.88,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t306.88.jpg",
+      "observacao": "MP4 NOVO: card 'HIPÓTESE • LEMBRA O GTA V' sobre vista aérea; legenda 'A subida pro satélite lembra a' com 'pro' minúsculo (antes 'Pro')."
+    },
+    {
+      "timecode": 318.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t318.0.jpg",
+      "observacao": "MP4 NOVO: cartela 'DETALHE 11 / 25:26 • SÓ DOIS ÍCONES, SEM TEXTO' sem rodapé 'PIXEL PROCURADO': legenda 'mais seco. Vinte e cinco e' limpa, sem texto fantasma. Nenhuma imagem da luta."
+    },
+    {
+      "timecode": 320.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t320.0.jpg",
+      "observacao": "MP4 NOVO: card '25:26 • LUTA NO CHÃO' sobre quadro totalmente desfocado (sem contato/sangue identificáveis). Legenda 'vinte e seis, uma luta corpo' por extenso."
+    },
+    {
+      "timecode": 324.74,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t324.74.jpg",
+      "observacao": "Card 'CHÃO: CONCRETO / não é tapete • 25:26'; recorte só do piso de concreto com dois cabos/fios; nenhum corpo, contato ou sangue no quadro. Legenda 'É concreto. E a tela não' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 330.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t330.0.jpg",
+      "observacao": "MP4 NOVO: cartela 'TRIÂNGULO NUM CÍRCULO' sem rodapé; legenda 'alvo redondo e um triângulo dentro' limpa."
+    },
+    {
+      "timecode": 335.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t335.0.jpg",
+      "observacao": "MP4 NOVO: cartela 'SEM PALAVRA. SEM LEGENDA.' com ícones desenhados, sem rodapé; legenda 'Dá a entender que a briga' limpa."
+    },
+    {
+      "timecode": 339.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t339.0.jpg",
+      "observacao": "MP4 NOVO: cartela 'HIPÓTESE / BOTÃO NA HORA CERTA' sem rodapé; legenda limpa."
+    },
+    {
+      "timecode": 341.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t341.0.jpg",
+      "observacao": "MP4 NOVO: cartela 'O GTA 6 PARA DE EXPLICAR / E SÓ MOSTRA O BOTÃO'; legenda 'coisa aperta, o GTA seis para' (por extenso, como o roteiro); sem rodapé."
+    },
+    {
+      "timecode": 343.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t343.0.jpg",
+      "observacao": "MP4 NOVO: mesma cartela; recorte em resolução cheia v2/longo_crop_rodape_t343.jpg mostra só 'de explicar e só te mostra' sobre fundo liso: texto fantasma eliminado."
+    },
+    {
+      "timecode": 346.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t346.0.jpg",
+      "observacao": "MP4 NOVO: colagem '11 DETALHES • SÓ PAUSA' (célula 11 só ícones) sem rodapé; legenda limpa. Planos 316,68-348,68 s continuam todos 'fixo': nenhum quadro nítido de contato/sangue."
+    },
+    {
+      "timecode": 349.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t349.5.jpg",
+      "observacao": "MP4 NOVO: tênis do minuto 06:42 (EXT0643); legenda 'E o tênis do minuto seis' por extenso."
+    },
+    {
+      "timecode": 358.83,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t358.83.jpg",
+      "observacao": "MP4 NOVO: colagem dos 11 com card 'QUAL VOCÊ PROCURA?'; legenda 'qual desses onze você vai procurar' sem rodapé fantasma."
+    },
+    {
+      "timecode": 368.56,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t368.56.jpg",
+      "observacao": "Card de data 'AMANHÃ • 16/11 / PS5 × PS5 Pro • sem torcida'; perseguição policial com HUD de estrelas e munição legível no canto superior direito; card cobre metade do minimapa. Legenda 'virtual? Amanhã, segunda, dezesseis de novembro,' coerente. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 373.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t373.2.jpg",
+      "observacao": "Card '30 OU 60 FPS? / o que dá pra afirmar, sem torcida'; TV com galhos e pássaros. Legenda 'cinco Pro: trinta ou sessenta quadros' (aqui 'Pro' é correto: PS5 Pro). [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    },
+    {
+      "timecode": 382.79,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/v2/longo_t382.79.jpg",
+      "observacao": "Card final 'SE INSCREVE • ATÉ AMANHÃ' sobre cena de fauna (alce, javalis, coelhos, rio). Legenda 'prova. Se inscreve no canal e' coerente; sem preto no fim. [Re-render 2026-11-14: quadro re-extraído do MP4 novo (v2/) e idêntico pixel a pixel ao da revisão anterior (diferença média 0,0), observação mantida.]"
+    }
+  ],
+  "legendas": {
+    "srt": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/exportacoes/Pixel_Procurado_DIA07_Longo_V2.srt",
+    "amostras": [
+      {
+        "timecode": 0.8,
+        "texto": "Mão dada é no R dois.",
+        "sincronizado": true,
+        "observacao": "SRT 0,17-1,76 s; quadro longo_t0.8.jpg mostra exatamente este texto; ASR reconhece a mesma frase no mesmo intervalo. Conferido também no SRT novo (dda9494c…): cue inalterado."
+      },
+      {
+        "timecode": 13.16,
+        "texto": "Minuto nove e cinquenta, num terraço",
+        "sincronizado": true,
+        "observacao": "SRT 12,16-13,98 s; queimado no quadro longo_t13.16.jpg; ASR com o mesmo texto no intervalo. Conferido também no SRT novo (dda9494c…): cue inalterado."
+      },
+      {
+        "timecode": 61.74,
+        "texto": "Economizar é coisa de trouxa.",
+        "sincronizado": true,
+        "observacao": "Queimado em longo_t61.74.jpg junto com o card de mesmo texto; ASR no mesmo trecho. Conferido também no SRT novo (dda9494c…): cue inalterado."
+      },
+      {
+        "timecode": 70.5,
+        "texto": "faltam quatro dias pro lançamento, e",
+        "sincronizado": true,
+        "observacao": "SRT NOVO (sha dda9494c…) 70,18-72,76 s; queimado em v2/longo_t70.5.jpg com 'pro' minúsculo, igual à fala."
+      },
+      {
+        "timecode": 92.68,
+        "texto": "Pausei. No seis e cinquenta nem",
+        "sincronizado": true,
+        "observacao": "SRT NOVO 91,68-93,92 s; queimado em v2/longo_t92.68.jpg por extenso."
+      },
+      {
+        "timecode": 182.3,
+        "texto": "No canto, EAT, no R um,",
+        "sincronizado": true,
+        "observacao": "Queimado em longo_t182.3.jpg; bate com a fala no ASR e com o HUD EAT (R1) da imagem. Conferido também no SRT novo (dda9494c…): cue inalterado."
+      },
+      {
+        "timecode": 208.3,
+        "texto": "Na tela: SMOKE, R um.",
+        "sincronizado": true,
+        "observacao": "SRT 207,90-210,44 s; queimado em longo_t208.3.jpg com HUD SMOKE (R1) visível. Conferido também no SRT novo (dda9494c…): cue inalterado."
+      },
+      {
+        "timecode": 306.88,
+        "texto": "A subida pro satélite lembra a",
+        "sincronizado": true,
+        "observacao": "SRT NOVO 305,88-307,27 s; queimado em v2/longo_t306.88.jpg (Longo) e v2/vertical_t306.88.jpg (Vertical)."
+      },
+      {
+        "timecode": 320.0,
+        "texto": "vinte e seis, uma luta corpo",
+        "sincronizado": true,
+        "observacao": "SRT NOVO 319,82-321,42 s; queimado em v2/longo_t320.0.jpg e v2/vertical_t320.0.jpg."
+      },
+      {
+        "timecode": 324.74,
+        "texto": "É concreto. E a tela não",
+        "sincronizado": true,
+        "observacao": "SRT 324,18-326,10 s; queimado em longo_t324.74.jpg; ASR com o mesmo texto. Conferido também no SRT novo (dda9494c…): cue inalterado."
+      },
+      {
+        "timecode": 349.5,
+        "texto": "E o tênis do minuto seis",
+        "sincronizado": true,
+        "observacao": "SRT NOVO 348,68-350,34 s; queimado em v2/longo_t349.5.jpg."
+      },
+      {
+        "timecode": 382.79,
+        "texto": "prova. Se inscreve no canal e",
+        "sincronizado": true,
+        "observacao": "SRT 380,64-383,02 s, último cue 'até amanhã.' termina em 383,67 s (< 383,8 s de vídeo); queimado em longo_t382.79.jpg. Conferido também no SRT novo (dda9494c…): cue inalterado."
+      }
+    ]
+  },
+  "thumbnail": {
+    "arquivo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/publicacao/capas/capa_longo_A.jpg",
+    "preview_reduzido": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/revisao_final/preview_capa_longo_A_320.jpg",
+    "observacao": "Capa longo A (1280x720) aberta inteira e em prévia de 320 px gerada por mim (preview_capa_longo_A_320.jpg). 'PAUSA' branco e 'AQUI' amarelo, fonte condensada com contorno, legíveis a 320 px; foco no tênis branco com moldura amarela (quadro 06:42 do Extended Look), contraste bom sobre fundo escurecido; logo GTA VI inteira no canto superior direito. O selo 'PIXEL / PROCURADO' fica ilegível a 320 px (identidade discreta, não bloqueia). A capa B ('CASAL BRAVO?', retratos do HUD 18:57, preview_capa_longo_B_320.jpg) também está legível, com logo inteira e sem nomes de personagem. Ressalva editorial: o tênis é um ponto focal menos forte que o HUD do B; o PACOTE já prevê teste A/B."
+  },
+  "problemas": [
+    {
+      "severidade": "baixa",
+      "timecode": "70.18; 89.82; 91.68; 97.24; 305.88; 319.82; 348.68",
+      "descricao": "Legendas (SRT e ASS queimado) do Longo e do Vertical: o mapa global correcoes_legenda do episodio.json troca 'pro'->'Pro' e 'seis'->'6' em qualquer contexto. Resultado: 'faltam quatro dias Pro lançamento' (70,18 s), 'A subida Pro satélite' (305,88 s, visível em longo_t306.88.jpg), 'no minuto 6 e cinquenta' / 'No 6 e cinquenta' / 'no 6' (89,82-99,75 s), 'vinte e 6' (319,82 s), 'minuto 6' (348,68 s), enquanto os outros números estão por extenso. Sentido preservado, mas é erro visível. Reel e Story não têm o erro (Story 'PS5 Pro' está correto). CORRIGIDO no re-render de 2026-11-14: SRT novo (Longo = Vertical, sha dda9494c…) sem 'Pro'/'6' indevidos; prova: v2/longo_t70.5.jpg, v2/longo_t92.68.jpg, v2/longo_t306.88.jpg, v2/longo_t320.0.jpg, v2/longo_t349.5.jpg, v2/vertical_t70.5.jpg, v2/vertical_t306.88.jpg, v2/vertical_t320.0.jpg. 'PS cinco Pro' (373 s) mantém 'Pro' correto; 'GTA seis' segue o roteiro.",
+      "correcao": "No episodio.json (e no _vertical/episodio.json, se tiver mapa próprio) remover as entradas genéricas 'pro' e 'seis' de correcoes_legenda e tratar só os contextos 'PS5 Pro' e 'GTA 6' (correção por frase); regenerar .ass/.srt e re-renderizar Longo e Vertical (legenda é queimada). Revalidar só os cues citados.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "316.68-361.95",
+      "descricao": "Cartelas e colagem do bloco final (CARTELAULTIMO, CARTELAICONES/ALVO/TRIANGULO/SEMTEXTO/HIPOTESE/SOBOTAO, COLAGEM11, CARTELAQUINTA) têm rodapé cinza 'PIXEL PROCURADO' na mesma altura da legenda queimada: no Longo aparece texto fantasma atrás da legenda por ~40 s (quadros 318, 330, 335, 339, 343, 346, 358,83 s; recorte em resolução cheia longo_crop_rodape_t343.jpg). Legenda continua legível pelo contorno. No Vertical o rodapé fica dentro da janela do vídeo, acima da legenda (sem conflito). CORRIGIDO no re-render de 2026-11-14: cartelas sem rodapé; prova v2/longo_t318.0.jpg, v2/longo_t335.0.jpg, v2/longo_t343.0.jpg, v2/longo_crop_rodape_t343.jpg, v2/longo_t346.0.jpg, v2/longo_t358.83.jpg.",
+      "correcao": "Subir o rodapé 'PIXEL PROCURADO' dessas cartelas para fora da faixa de legenda (acima de ~80% da altura) ou removê-lo; re-renderizar apenas o Longo.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "25.33; 39.06; 107.56; 251.92; 293.27",
+      "descricao": "Sobreposições pontuais no Longo: 25,3 s legenda invade a moldura do destaque HOLD HANDS R2; 39,1 s card toca a moldura de '△ FRIDGE' e a legenda cruza a borda inferior dela; 107,6 s card cobre o canto da moldura da torneira; 251,9 s card cobre a letra miúda do selo ID Check (mostrada inteira no plano seguinte); 293,3 s card e legenda passam sobre as 'caras de bravo' citadas no próprio card. Nenhuma esconde a informação por inteiro.",
+      "correcao": "Opcional: reenquadrar os recortes CRholdprompt, CRfridgeprompt, CRtorneira e CRretratoscoracao para manter destaques fora do quadrante inferior esquerdo (card) e da faixa de legenda; re-render do Longo. Pode ser aceito como está.",
+      "status": "aberto"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "1.83-2.90",
+      "descricao": "Emenda do gancho (medida, NÃO ouvida): após 'Mão dada é no R dois.' (fala 0,18-1,76 s, fade de ~100 ms até 1,83 s) há ~1,07 s de silêncio digital absoluto (amostras = 0) até 2,90 s, enquanto as demais pausas da narração têm ruído de fundo em ~-60 dBFS. Sem clique: maior salto amostra-a-amostra 0,001 entre 2,85 e 2,95 s, entrada de 'Ontem' com rampa -107 -> -53 -> -14 dB. Mesmo padrão no Reel (mesmas amostras zeradas 1,83-2,90 s) e no Vertical (mesma trilha). Pode soar como 'buraco' em fone; a pausa de ~1,2 s logo após o gancho também é longa para retenção.",
+      "correcao": "Opcional: preencher 1,83-2,90 s com room tone da própria narração a ~-60 dBFS e/ou encurtar a pausa para ~0,5 s (exige deslocar alinhamento e cortes). Confirmar por escuta humana antes de mexer.",
+      "status": "aberto"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "68.54",
+      "descricao": "Card 'HOJE: 15 DE NOVEMBRO' quebra o título em duas linhas e empurra o detalhe 'domingo • faltam 4 dias para o lançamento' para a borda inferior do card (longo_t69.54.jpg); legível mas apertado. CORRIGIDO: card agora 'DOM 15/11 / faltam 4 dias' em uma linha (v2/longo_t69.54.jpg, v2/vertical_t70.5.jpg).",
+      "correcao": "Encurtar o título (ex.: 'HOJE: 15/11') no plano correspondente do episodio.json; re-render junto com as demais correções, se houver.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": null,
+      "descricao": "publicacao/PACOTE.md, linha 2, ainda diz que os MP4 'dependem do render 4K' e que caminhos serão copiados quando o outro agente liberar; os quatro MP4 já existem e passaram no QA. Texto desatualizado (não editado por mim). CORRIGIDO pelo diretor: linha 2 do PACOTE.md agora diz que os MP4 foram renderizados/validados e cita o re-render.",
+      "correcao": "Atualizar a linha 2 do PACOTE.md para o estado atual (MP4 renderizados, caminhos e QA).",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": null,
+      "descricao": "Capas verticais (1080x1920): logo GTA VI e selo ficam nos 283 px superiores; no recorte de grade do perfil do Instagram (3:4/4:5, centro) a logo e o selo seriam cortados. Na tela cheia e em 270 px o texto 'PAUSA AQUI'/'CASAL BRAVO?' é legível; o selo 'PIXEL / PROCURADO' é ilegível em miniatura.",
+      "correcao": "Se a capa vertical for usada também como capa de grade, gerar variante com logo/selo dentro da área central 1080x1350, via compose_thumbnail.py.",
+      "status": "aberto"
+    }
+  ],
+  "resultado": "aprovado_com_ressalvas"
+}

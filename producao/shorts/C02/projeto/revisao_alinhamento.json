@@ -1,0 +1,157 @@
+{
+  "corrections": [
+    {
+      "op": "replace",
+      "start": 6.02,
+      "end": 6.28,
+      "script": "seis:",
+      "asr": "6.",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 19.82,
+      "end": 20.34,
+      "script": "imagine",
+      "asr": "imagina",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 44.8,
+      "end": 44.92,
+      "script": "",
+      "asr": "o",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "insert",
+      "start": 48.7,
+      "end": 48.86,
+      "script": "",
+      "asr": "do",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 55.76,
+      "end": 56.36,
+      "script": "é",
+      "asr": "era",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 60.4,
+      "end": 60.64,
+      "script": "teme",
+      "asr": "tem em",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 64.14,
+      "end": 64.36,
+      "script": "uma",
+      "asr": "a",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 68.82,
+      "end": 69.32,
+      "script": "sem",
+      "asr": "sim a",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 70.94,
+      "end": 71.34,
+      "script": "A tensão",
+      "asr": "Atenção",
+      "decision": "short orthographic/contextual correction"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "O contraste está",
+      "script_index": 10,
+      "time": 3.8666666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Lucia tem um plano",
+      "script_index": 23,
+      "time": 8.666666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Parece uma combinação",
+      "script_index": 27,
+      "time": 10.333333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Mas imagine",
+      "script_index": 50,
+      "time": 19.433333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Quem procura sossego",
+      "script_index": 69,
+      "time": 26.5,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Só que a premissa",
+      "script_index": 92,
+      "time": 35.9,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "o problema cresce",
+      "script_index": 105,
+      "time": 40.266666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Nesse cenário",
+      "script_index": 117,
+      "time": 44.03333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Agora repare",
+      "script_index": 136,
+      "time": 50.333333333333336,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Essa é a minha leitura",
+      "script_index": 168,
+      "time": 61.833333333333336,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Gostar de alguém",
+      "script_index": 180,
+      "time": 66.46666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A tensão começa",
+      "script_index": 191,
+      "time": 70.93333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Por isso",
+      "script_index": 210,
+      "time": 77.16666666666667,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "at": 173.28,
+    "asr": "granite",
+    "caption": "Greenwich",
+    "type": "proper_name_orthography"
+  },
+  {
+    "at": 249.78,
+    "asr": "Grotch",
+    "caption": "Grotti",
+    "type": "proper_name_orthography"
+  },
+  {
+    "at": 253.48,
+    "asr": "Esqualo.",
+    "caption": "Squalo.",
+    "type": "proper_name_orthography"
+  },
+  {
+    "at": 277.4,
+    "asr": "Stunyer,",
+    "caption": "Stanier,",
+    "type": "proper_name_orthography"
+  }
+]

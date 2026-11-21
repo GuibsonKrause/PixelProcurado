@@ -1,0 +1,148 @@
+{
+  "schema_versao": 1,
+  "id": "DIA04",
+  "formato": "longo",
+  "roteiro_origem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/01_NARRACAO.txt",
+  "etapa_atual": "revisao_final",
+  "status": "em_andamento",
+  "data_criacao": "2026-11-11T18:52:29-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "validado",
+      "executor": {
+        "model_solicitado": "gpt-6.1-sol",
+        "reasoning_effort_solicitado": "low",
+        "agent_id": "/root/audio"
+      },
+      "atualizado_em": "2026-11-12T10:20:55-03:00",
+      "artefatos": {
+        "roteiro_publicacao": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/01_NARRACAO_PUBLICACAO_2026-11-12.txt",
+        "roteiro_gemini": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/03_NARRACAO_PUBLICACAO_2026-11-12_GEMINI.txt",
+        "log": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/audio/gemini_publicacao.log",
+        "bruto": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/audio/03_NARRACAO_PUBLICACAO_2026-11-12_narracao.wav",
+        "normalizado": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/audio/narracao_normalizada.wav"
+      },
+      "medicoes": {
+        "tentativas": 2,
+        "wavs_gerados": 0,
+        "diagnostico": "TLS CloseWait durante geracao de audio; sem retorno HTTP; models.list HTTP 200",
+        "retomada_teste_wav_segundos": 2.12,
+        "duracao_segundos": 315.46,
+        "lufs": -16.8,
+        "dbtp": -1.5,
+        "revisao_asr": "insercao extra removida em dois pontos de silencio",
+        "insercao_removida_segundos": 21.7
+      }
+    },
+    "alinhamento": {
+      "status": "validado",
+      "executor": {
+        "model_solicitado": "gpt-6.1-sol",
+        "reasoning_effort_solicitado": "low",
+        "agent_id": "/root/audio"
+      },
+      "atualizado_em": "2026-11-12T10:27:03-03:00",
+      "artefatos": {
+        "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/audio/palavras_alinhadas.json",
+        "ancoras": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/audio/ancoras_paragrafos.json",
+        "revisao_asr": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/audio/revisao_asr.json"
+      },
+      "medicoes": {
+        "marcas": 934
+      }
+    },
+    "montagem": {
+      "status": "validado",
+      "executor": {
+        "model_solicitado": "gpt-6.1-sol",
+        "reasoning_effort_solicitado": "medium",
+        "agent_id": "/root/acervo"
+      },
+      "atualizado_em": "2026-11-12T12:46:25-03:00",
+      "artefatos": {
+        "episodio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/episodio.json",
+        "prevoo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/prevoo"
+      },
+      "medicoes": {
+        "planos": 90,
+        "prevoo_codigo": 0
+      }
+    },
+    "render": {
+      "status": "validado",
+      "executor": {
+        "model_solicitado": "gpt-6.1-sol",
+        "reasoning_effort_solicitado": "low",
+        "agent_id": "/root/render"
+      },
+      "artefatos": {
+        "log_previa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_previa/RENDER_PREVIA_LOG.txt",
+        "revisao_previa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/REVISAO_PREVIA.md",
+        "log_master": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/RENDER_MASTER.log",
+        "master": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+        "youtube": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+        "instagram_integral": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+        "reel": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.mp4",
+        "story": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_story/exportacoes/Pixel_Procurado_DIA04_Story_V2.mp4"
+      },
+      "atualizado_em": "2026-11-12T18:11:13-03:00",
+      "medicoes": {
+        "revisao_previa": "liberado por /root/revisao",
+        "qa_codigo": 0,
+        "instagram_integral_bytes": 282307088
+      }
+    },
+    "thumbnail": {
+      "status": "validado",
+      "executor": {
+        "model_solicitado": "gpt-6.1-sol",
+        "reasoning_effort_solicitado": "medium",
+        "agent_id": "/root/capas"
+      },
+      "atualizado_em": "2026-11-12T22:31:41-03:00",
+      "artefatos": {
+        "capa_a": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/thumbnail_A/capa_youtube.jpg",
+        "capa_b": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/thumbnail_B/capa_youtube.jpg",
+        "capa_vertical": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/thumbnail_vertical/capa_youtube.jpg"
+      }
+    },
+    "publicacao_pacote": {
+      "status": "validado",
+      "artefatos": {
+        "pacote": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao",
+        "plano_postiz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/PLANO_POSTIZ.log"
+      },
+      "atualizado_em": "2026-11-12T22:31:46-03:00"
+    },
+    "distribuicao": {
+      "status": "validado",
+      "artefatos": {
+        "estado": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/POSTIZ_ESTADO.json",
+        "log": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/ENVIO_POSTIZ.log",
+        "log_status": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/STATUS_POSTIZ.log"
+      },
+      "executor": {
+        "agent_id": "/root/render",
+        "model_solicitado": "gpt-6.1-sol",
+        "reasoning_effort_solicitado": "low"
+      },
+      "medicoes": {
+        "autorizacao": "publicacao imediata com escuta humana pendente",
+        "publicadas": 10,
+        "escuta_humana": "pendente com publicacao autorizada"
+      },
+      "atualizado_em": "2026-11-12T23:44:05-03:00"
+    },
+    "revisao_final": {
+      "status": "bloqueado",
+      "artefatos": {
+        "relatorio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/REVISAO_FINAL.json"
+      },
+      "medicoes": {
+        "validacao": "escuta real pendente"
+      },
+      "atualizado_em": "2026-11-12T23:07:24-03:00"
+    }
+  },
+  "atualizado_em": "2026-11-12T23:44:05-03:00"
+}

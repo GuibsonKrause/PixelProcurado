@@ -1,0 +1,41 @@
+{
+  "video": {
+    "id": "63a7dd1d-e018-4274-b8a8-44e82ce22b1b",
+    "name": "bf151568e8f1db4abccd6ed5b775d1d3.mp4",
+    "originalName": null,
+    "path": "http://localhost:4007/uploads/2026/11/01/bf151568e8f1db4abccd6ed5b775d1d3.mp4",
+    "thumbnail": null,
+    "alt": null,
+    "status": "ready"
+  },
+  "thumbnail": {
+    "id": "4827d602-fdac-47d0-8efa-894bcbfa5cdd",
+    "name": "98ded8464768510d42110644f5eeb26ec2.jpg",
+    "originalName": null,
+    "path": "http://localhost:4007/uploads/2026/11/01/98ded8464768510d42110644f5eeb26ec2.jpg",
+    "thumbnail": null,
+    "alt": null,
+    "status": "ready"
+  },
+  "episode": "L04",
+  "scheduled_at": "2026-11-01T12:00:00-03:00",
+  "visibility": "public",
+  "sha256_mp4": "a2f40e2ece43fb1fe7679d959b9746f1e3709d24b5bcfa9a3dc158af4fe9fcef",
+  "creation_attempted_at": "2026-11-01T13:52:03.826067+00:00",
+  "creation_response": [
+    {
+      "postId": "cmvxw2ul70004nsdv0lt1qqy7",
+      "integration": "cmvsctfgl0001jncj932ovibv"
+    }
+  ],
+  "post_id": "cmvxw2ul70004nsdv0lt1qqy7",
+  "status": {
+    "id": "cmvxw2ul70004nsdv0lt1qqy7",
+    "state": "QUEUE",
+    "publishDate": "2026-11-01T15:00:00.000Z",
+    "releaseURL": null,
+    "releaseId": null,
+    "error": null,
+    "visibility": "public"
+  }
+}

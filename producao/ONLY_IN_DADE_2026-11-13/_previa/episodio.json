@@ -1,0 +1,863 @@
+{
+  "id": "ONLY_IN_DADE_2026-11-13_previa",
+  "titulo": "GTA 6 usou Miami pra disfarçar Vice City",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "JAN": "ONLY_IN_DADE_2026-11/DfnFSzaOLO_.mp4",
+    "ESQ": "ONLY_IN_DADE_2026-11/Dfppo43hwnB.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "Ggroup": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/jogo-group.jpg",
+    "G1": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/jogo-1.jpg",
+    "G2": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/jogo-2.jpg",
+    "G4": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/jogo-4.jpg",
+    "G5": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/jogo-5.jpg",
+    "G6": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/jogo-6.jpg",
+    "cheetah_2": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-cheetah-2.jpg",
+    "buccaneer_1": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-buccaneer-1.jpg",
+    "buccaneer_2": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-buccaneer-2.jpg",
+    "emerus_1": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-emerus-1.jpg",
+    "coquette_1": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-coquette-1.jpg",
+    "coquette_2": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-coquette-2.jpg",
+    "coquette_3": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-coquette-3.jpg",
+    "manana_2": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-manana-2.jpg",
+    "tempesta_1": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-tempesta-1.jpg",
+    "tempesta_2": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-tempesta-2.jpg"
+  },
+  "rotulos_obrigatorios": {
+    "Ggroup": "GTA VI • CAPTURA",
+    "G1": "GTA VI • CAPTURA",
+    "G2": "GTA VI • CAPTURA",
+    "G4": "GTA VI • CAPTURA",
+    "G5": "GTA VI • CAPTURA",
+    "G6": "GTA VI • CAPTURA",
+    "cheetah_2": "RÉPLICA REAL",
+    "buccaneer_1": "RÉPLICA REAL",
+    "buccaneer_2": "RÉPLICA REAL",
+    "emerus_1": "RÉPLICA REAL",
+    "coquette_1": "RÉPLICA REAL",
+    "coquette_2": "RÉPLICA REAL",
+    "coquette_3": "RÉPLICA REAL",
+    "manana_2": "RÉPLICA REAL",
+    "tempesta_1": "RÉPLICA REAL",
+    "tempesta_2": "RÉPLICA REAL"
+  },
+  "correcoes_legenda": {},
+  "formatos": {
+    "longo": {
+      "stem": "Pixel_Procurado_Only_In_Dade_Previa_V2",
+      "resolucao": [
+        960,
+        540
+      ],
+      "fps": 30,
+      "voz": "producao/ONLY_IN_DADE_2026-11-13/audio/narracao_normalizada_editada.wav",
+      "alinhamento": "producao/ONLY_IN_DADE_2026-11-13/audio/palavras_legendas.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            0,
+            5.87
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 2.7,
+          "tipo": "tag",
+          "corte": [
+            5.87,
+            9.33
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "ONLY IN DADE",
+          "detalhe": "Reel de 11/11",
+          "midia": "JAN",
+          "inicio": 6.3,
+          "tipo": "editorial",
+          "corte": [
+            9.33,
+            13.73
+          ],
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "VICE CITY",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 12.9,
+          "tipo": "tag",
+          "corte": [
+            13.73,
+            16.48
+          ],
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "Ggroup",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            16.48,
+            19.4
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "coquette_2",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            19.4,
+            22.45
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 0.62,
+          "tipo": "tag",
+          "corte": [
+            22.45,
+            25.8
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 4.05,
+          "tipo": "tag",
+          "corte": [
+            25.8,
+            29.2
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 7.45,
+          "tipo": "tag",
+          "corte": [
+            29.2,
+            32.35
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 13,
+          "tipo": "tag",
+          "corte": [
+            32.35,
+            35.95
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 15.9,
+          "tipo": "tag",
+          "corte": [
+            35.95,
+            39.77
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "Ggroup",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            39.77,
+            42.8
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "WEST COAST CUSTOMS",
+          "detalhe": "Carros de GTA VI construídos em escala real",
+          "midia": "buccaneer_2",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            42.8,
+            47.78
+          ],
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "SEIS CARROS",
+          "detalhe": "",
+          "midia": "Ggroup",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            47.78,
+            50.26
+          ],
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "emerus_1",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            50.26,
+            53.4
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "FOTOS DO HYPEDRIVE",
+          "detalhe": "",
+          "midia": "G4",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            53.4,
+            56.48
+          ],
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "tempesta_2",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            56.48,
+            59.5
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "ALBANY BUCCANEER",
+          "detalhe": "",
+          "midia": "buccaneer_1",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            59.5,
+            61.97
+          ],
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "G1",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            61.97,
+            63.56
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "COQUETTE",
+          "detalhe": "",
+          "midia": "coquette_1",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            63.56,
+            65.65
+          ],
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "G5",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            65.65,
+            66.73
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "TEMPESTA",
+          "detalhe": "",
+          "midia": "tempesta_1",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            66.73,
+            69.12
+          ],
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "G2",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            69.12,
+            71.02
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "cheetah_2",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            71.02,
+            73.35
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "G6",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            73.35,
+            75.25
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "manana_2",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            75.25,
+            77.88
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 14.5,
+          "tipo": "tag",
+          "corte": [
+            77.88,
+            82
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "A CÂMERA NA ESQUINA",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            82,
+            86.7
+          ],
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 19.5,
+          "tipo": "tag",
+          "corte": [
+            86.7,
+            90.98
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 1.05,
+          "tipo": "tag",
+          "corte": [
+            90.98,
+            93.64
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 5.8,
+          "tipo": "tag",
+          "corte": [
+            93.64,
+            96.6
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 9.5,
+          "tipo": "tag",
+          "corte": [
+            96.6,
+            98.52
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 12.1,
+          "tipo": "tag",
+          "corte": [
+            98.52,
+            101.02
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 0.4,
+          "tipo": "tag",
+          "corte": [
+            101.02,
+            104.08
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 2.45,
+          "tipo": "tag",
+          "corte": [
+            104.08,
+            107.17
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 6.25,
+          "tipo": "tag",
+          "corte": [
+            107.17,
+            109.95
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 11.3,
+          "tipo": "tag",
+          "corte": [
+            109.95,
+            112.42
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 16,
+          "tipo": "tag",
+          "corte": [
+            112.42,
+            117.08
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 21.4,
+          "tipo": "tag",
+          "corte": [
+            117.08,
+            120.58
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 14.4,
+          "tipo": "tag",
+          "corte": [
+            120.58,
+            123.6
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 18.8,
+          "tipo": "tag",
+          "corte": [
+            123.6,
+            125.9
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "TRAILER 1",
+          "detalhe": "Vídeos na rede social de Vice City",
+          "midia": "T1",
+          "inicio": 40.85,
+          "tipo": "editorial",
+          "corte": [
+            125.9,
+            130
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 45.38,
+          "tipo": "tag",
+          "corte": [
+            130,
+            134.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 49.7,
+          "tipo": "tag",
+          "corte": [
+            134.2,
+            138.32
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 0.96,
+          "tipo": "tag",
+          "corte": [
+            138.32,
+            141.6
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "#ONLYINVICECITY",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 4.3,
+          "tipo": "tag",
+          "corte": [
+            141.6,
+            145.16
+          ],
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "REPOST NOS STORIES",
+          "detalhe": "Informação publicada pela NBC 6 Miami",
+          "midia": "JAN",
+          "inicio": 8,
+          "tipo": "editorial",
+          "corte": [
+            145.16,
+            150.26
+          ],
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 55.4,
+          "tipo": "tag",
+          "corte": [
+            150.26,
+            155.05
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "COMO FOI CAPTURADO?",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1121.5,
+          "tipo": "tag",
+          "corte": [
+            155.05,
+            159.45
+          ]
+        },
+        {
+          "titulo": "AN EXTENDED LOOK",
+          "detalhe": "Câmera atrás do carro e HUD",
+          "midia": "EXT",
+          "inicio": 924,
+          "tipo": "editorial",
+          "corte": [
+            159.45,
+            162.95
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 927.5,
+          "tipo": "tag",
+          "corte": [
+            162.95,
+            166.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 2.7,
+          "tipo": "tag",
+          "corte": [
+            166.2,
+            169.25
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 11.92,
+          "tipo": "tag",
+          "corte": [
+            169.25,
+            172.65
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "FUNÇÃO A CONFIRMAR",
+          "detalhe": "Gravação pelo celular ainda em aberto",
+          "midia": "EXT",
+          "inicio": 418.2,
+          "tipo": "editorial",
+          "corte": [
+            172.65,
+            176.5
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            176.5,
+            178.42
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "coquette_3",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            178.42,
+            181.68
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 2.26,
+          "tipo": "tag",
+          "corte": [
+            181.68,
+            183.7
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 5,
+          "tipo": "tag",
+          "corte": [
+            183.7,
+            186.2
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "G5",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            186.2,
+            188.67
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 12.9,
+          "tipo": "tag",
+          "corte": [
+            188.67,
+            191.52
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            191.52,
+            194.68
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 12.15,
+          "tipo": "tag",
+          "corte": [
+            194.68,
+            196.98
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        }
+      ]
+    }
+  }
+}

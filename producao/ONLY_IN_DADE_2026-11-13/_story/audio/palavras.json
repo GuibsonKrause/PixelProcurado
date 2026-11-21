@@ -1,0 +1,266 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.3,
+    "word": "Essa",
+    "probability": 0.3686
+  },
+  {
+    "start": 0.3,
+    "end": 0.74,
+    "word": "filmagem",
+    "probability": 0.9909
+  },
+  {
+    "start": 0.74,
+    "end": 0.9,
+    "word": "de",
+    "probability": 0.926
+  },
+  {
+    "start": 0.9,
+    "end": 1.14,
+    "word": "rua",
+    "probability": 0.987
+  },
+  {
+    "start": 1.14,
+    "end": 1.58,
+    "word": "é",
+    "probability": 0.9368
+  },
+  {
+    "start": 1.58,
+    "end": 1.9,
+    "word": "GTA.",
+    "probability": 0.7654
+  },
+  {
+    "start": 2.64,
+    "end": 3.12,
+    "word": "O",
+    "probability": 0.9616
+  },
+  {
+    "start": 3.12,
+    "end": 3.3,
+    "word": "vídeo",
+    "probability": 0.9555
+  },
+  {
+    "start": 3.3,
+    "end": 3.6,
+    "word": "começa",
+    "probability": 0.9738
+  },
+  {
+    "start": 3.6,
+    "end": 3.86,
+    "word": "da",
+    "probability": 0.6385
+  },
+  {
+    "start": 3.86,
+    "end": 4.28,
+    "word": "janela",
+    "probability": 0.9939
+  },
+  {
+    "start": 4.28,
+    "end": 4.4,
+    "word": "de",
+    "probability": 0.9916
+  },
+  {
+    "start": 4.4,
+    "end": 4.5,
+    "word": "um",
+    "probability": 0.995
+  },
+  {
+    "start": 4.5,
+    "end": 4.7,
+    "word": "carro",
+    "probability": 0.9992
+  },
+  {
+    "start": 4.7,
+    "end": 5.12,
+    "word": "passando",
+    "probability": 0.9873
+  },
+  {
+    "start": 5.12,
+    "end": 5.26,
+    "word": "por",
+    "probability": 0.7648
+  },
+  {
+    "start": 5.26,
+    "end": 5.36,
+    "word": "um",
+    "probability": 0.9907
+  },
+  {
+    "start": 5.36,
+    "end": 5.8,
+    "word": "esportivo",
+    "probability": 0.9636
+  },
+  {
+    "start": 5.8,
+    "end": 6.2,
+    "word": "rosa,",
+    "probability": 0.9572
+  },
+  {
+    "start": 6.44,
+    "end": 7.04,
+    "word": "uma",
+    "probability": 0.9726
+  },
+  {
+    "start": 7.04,
+    "end": 7.48,
+    "word": "viatura",
+    "probability": 0.9701
+  },
+  {
+    "start": 7.48,
+    "end": 8.04,
+    "word": "e",
+    "probability": 0.911
+  },
+  {
+    "start": 8.04,
+    "end": 8.12,
+    "word": "um",
+    "probability": 0.9249
+  },
+  {
+    "start": 8.12,
+    "end": 8.52,
+    "word": "conversível",
+    "probability": 0.8192
+  },
+  {
+    "start": 8.52,
+    "end": 8.84,
+    "word": "verde.",
+    "probability": 0.9982
+  },
+  {
+    "start": 9.82,
+    "end": 10.16,
+    "word": "A",
+    "probability": 0.9381
+  },
+  {
+    "start": 10.16,
+    "end": 10.54,
+    "word": "Only",
+    "probability": 0.417
+  },
+  {
+    "start": 10.54,
+    "end": 10.72,
+    "word": "in",
+    "probability": 0.2426
+  },
+  {
+    "start": 10.72,
+    "end": 10.92,
+    "word": "Dade,",
+    "probability": 0.2519
+  },
+  {
+    "start": 11.16,
+    "end": 11.32,
+    "word": "uma",
+    "probability": 0.9715
+  },
+  {
+    "start": 11.32,
+    "end": 11.58,
+    "word": "página",
+    "probability": 0.717
+  },
+  {
+    "start": 11.58,
+    "end": 11.76,
+    "word": "de",
+    "probability": 0.986
+  },
+  {
+    "start": 11.76,
+    "end": 12.0,
+    "word": "Miami,",
+    "probability": 0.9841
+  },
+  {
+    "start": 12.58,
+    "end": 12.86,
+    "word": "postou",
+    "probability": 0.9882
+  },
+  {
+    "start": 12.86,
+    "end": 12.96,
+    "word": "a",
+    "probability": 0.9549
+  },
+  {
+    "start": 12.96,
+    "end": 13.16,
+    "word": "cena.",
+    "probability": 0.9956
+  },
+  {
+    "start": 13.74,
+    "end": 14.04,
+    "word": "Só",
+    "probability": 0.9542
+  },
+  {
+    "start": 14.04,
+    "end": 14.22,
+    "word": "que",
+    "probability": 0.9945
+  },
+  {
+    "start": 14.22,
+    "end": 14.5,
+    "word": "a",
+    "probability": 0.8513
+  },
+  {
+    "start": 14.5,
+    "end": 14.66,
+    "word": "rua",
+    "probability": 0.9864
+  },
+  {
+    "start": 14.66,
+    "end": 14.92,
+    "word": "aqui",
+    "probability": 0.9771
+  },
+  {
+    "start": 14.92,
+    "end": 15.56,
+    "word": "é",
+    "probability": 0.9665
+  },
+  {
+    "start": 15.56,
+    "end": 15.8,
+    "word": "Vice",
+    "probability": 0.4974
+  },
+  {
+    "start": 15.8,
+    "end": 16.1,
+    "word": "City.",
+    "probability": 0.9411
+  }
+]

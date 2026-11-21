@@ -1,0 +1,255 @@
+{
+  "id": "L03",
+  "formato": "longo_16_9_3840x2160_30fps",
+  "roteiro_origem": "producao/L03/01_NARRACAO.txt",
+  "etapa_atual": "roteiro",
+  "estado": "roteiro_revisado_pendente_de_nova_narracao",
+  "atualizado_em": "2026-10-29T19:22:30Z",
+  "artefatos": {
+    "direcao": "producao/L03/02_DIRECAO_E_FONTES.md",
+    "roteiro": "producao/L03/01_NARRACAO.txt",
+    "thumbnail": "producao/L03/publicacao/capa_youtube.jpg",
+    "audio": "producao/L03/voz/narracao_normalizada.wav",
+    "palavras": "producao/L03/voz/palavras_alinhadas.json",
+    "timeline": "producao/L03/projeto/edicao_l03.json",
+    "amostra": "producao/L03/projeto/amostras/L03_AMOSTRA_4K.mp4",
+    "srt": "producao/L03/exportacoes/Pixel_Procurado_L03_4K.srt",
+    "mp4": "producao/L03/exportacoes/Pixel_Procurado_L03_4K.mp4",
+    "guia_publicacao": "producao/L03/publicacao/00_GUIA_DE_PUBLICACAO.md",
+    "descricao": "producao/L03/publicacao/02_DESCRICAO.txt",
+    "creditos": "producao/L03/publicacao/07_CREDITOS_E_MIDIAS.md",
+    "qa_tecnica": "producao/L03/projeto/render4k/qa/validacao_final.json",
+    "qa_visual": "producao/L03/projeto/QA_FINAL_INDEPENDENTE.md"
+  },
+  "validacoes": {
+    "upload_realizado": true,
+    "video_final": {
+      "estado": "validado",
+      "duration": 330.7,
+      "audio_duration": 330.68,
+      "width": 3840,
+      "height": 2160,
+      "fps": 30,
+      "frames": 9921,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_rate": 48000,
+      "bytes": 207556151,
+      "shots": 61,
+      "captions": 146,
+      "full_decode_pass": true,
+      "audio_correlation_min": 0.9999674587597541,
+      "audio_lufs": -16.85,
+      "audio_true_peak_dbtp": -1.35,
+      "visual_verdict": "APROVADO por amostragem de45frames do MP4 final; nenhuma correcao material",
+      "full_subjective_listening": false,
+      "fontes_classicas": "640x448, proporcao preservada em composicao4K",
+      "metodo": "Imagens oficiais com movimento2D e graficos Remotion animados; composicao FFmpegQSV sequencial"
+    },
+    "amostra": {
+      "estado": "validado",
+      "duration": 49.366667,
+      "width": 3840,
+      "height": 2160,
+      "fps": 30,
+      "segmentos": 12,
+      "correlacao_audio_minima": 0.9999449364628282,
+      "full_decode_pass": true,
+      "relatorio": "producao/L03/projeto/render4k/qa/validacao_amostras.json",
+      "revisao_visual": "Executor e principal inspecionaram abertura, datas, radio e praia por quadros; nenhuma escuta integral alegada."
+    },
+    "roteiro_preservado": true,
+    "chamadas_pagas_realizadas": "1 imagem; 7 respostas WAV (B01-B04v1,B05v2,reparo1,reparo2); B05v1 possivelmente abortado; nenhuma nova geracao autorizada para frase apos2tentativas",
+    "audio_definitivo": {
+      "duration": 330.68,
+      "codec": "pcm_s16le",
+      "sample_rate": 48000,
+      "channels": 1,
+      "lufs": -16.84,
+      "true_peak": -1.48,
+      "clipped_samples": 0,
+      "sha256": "700311CC62811827581F30CFF51B4070A5960B4875B7B0478339757746CD2636",
+      "word_hash": "9607EEC8D27227B2ABE707E4F25B1A95DAC6562C8CC658EEB689B51D3FE8DC9E"
+    }
+  },
+  "tentativas": [
+    {
+      "estado": "validado",
+      "reasoning_effort_efetivo": "desconhecido",
+      "reasoning_effort_solicitado": "low",
+      "model_solicitado": "gpt-6.1-sol",
+      "etapa": "descoberta",
+      "erro": "You have hit your usage limit",
+      "agent_id": "/root/l03_coordenacao/descoberta",
+      "model_efetivo": "desconhecido",
+      "relatorio": "producao/L03/projeto/INVENTARIO_ENTRADAS.md",
+      "decisao_coordenador": "Aceito: roteiro 894 palavras/19 paragrafos, V1/V2 oficiais verificadas 640x448; preservar proporcao em composicao 4K. Ferramentas locais confirmadas; 24.3 GiB livres requerem controle de intermediarios."
+    },
+    {
+      "estado": "validado",
+      "reasoning_effort_efetivo": "desconhecido",
+      "reasoning_effort_solicitado": "high",
+      "model_solicitado": "gpt-6-astra",
+      "etapa": "direcao_narracao",
+      "erro": "You have hit your usage limit",
+      "agent_id": "/root/l03_coordenacao/direcao_voz",
+      "model_efetivo": "desconhecido",
+      "relatorio": "producao/L03/voz/DIRECAO_NARRACAO.md",
+      "decisao_coordenador": "Aceito: cinco blocos, palavras/ordem preservadas, 5 pausas curtas; executar somente blocos e nao integral."
+    },
+    {
+      "estado": "validado",
+      "reasoning_effort_efetivo": "desconhecido",
+      "reasoning_effort_solicitado": "high",
+      "model_solicitado": "gpt-6-astra",
+      "etapa": "thumbnail",
+      "erro": "You have hit your usage limit",
+      "agent_id": "/root/l03_coordenacao/thumbnail",
+      "model_efetivo": "desconhecido",
+      "relatorio": "producao/L03/publicacao/QA_THUMBNAIL.md",
+      "decisao_coordenador": "Aceito apos inspecao capa_youtube.jpg: frase correta, celular dominante, logo proporcional e identificacao editorial. Conferir aderencia final depois do MP4."
+    },
+    {
+      "etapa": "execucao_validacao_audio",
+      "model_solicitado": "gpt-6.1-sol",
+      "reasoning_effort_solicitado": "medium",
+      "agent_id": "/root/l03_coordenacao/audio_render",
+      "model_efetivo": "desconhecido",
+      "reasoning_effort_efetivo": "desconhecido",
+      "estado": "validado",
+      "bloqueio": "Resolvido por aprovacao auditiva humana explicita do reparo2",
+      "relatorio": "producao/L03/voz/QA_AUDIO.md",
+      "decisao_coordenador": "Aceito apos hashes conferidos, metadados/ASR, aprovação humana reparo2 e normalização única. Não há escuta subjetiva integral."
+    },
+    {
+      "etapa": "direcao_montagem",
+      "model_solicitado": "gpt-6-astra",
+      "reasoning_effort_solicitado": "xhigh",
+      "agent_id": "/root/l03_coordenacao/direcao_montagem",
+      "model_efetivo": "desconhecido",
+      "reasoning_effort_efetivo": "desconhecido",
+      "estado": "validado",
+      "decisao_coordenador": "Timeline salva antes da interrupcao, reaproveitada e validada na retomada economica;61planos146legendas com audio final."
+    },
+    {
+      "etapa": "implementacao_edicao",
+      "model_solicitado": "gpt-6.1-sol",
+      "reasoning_effort_solicitado": "high",
+      "agent_id": "/root/l03_coordenacao/implementacao",
+      "model_efetivo": "desconhecido",
+      "reasoning_effort_efetivo": "desconhecido",
+      "estado": "bloqueado",
+      "preparacao": "Execucao anterior interrompida por limite de uso; arquivos parciais reaproveitados pelo executor economico."
+    },
+    {
+      "etapa": "textos_publicacao",
+      "model_solicitado": "gpt-6-astra",
+      "reasoning_effort_solicitado": "high",
+      "agent_id": "/root/l03_coordenacao/thumbnail",
+      "model_efetivo": "desconhecido",
+      "reasoning_effort_efetivo": "desconhecido",
+      "estado": "validado",
+      "relatorio": "producao/L03/publicacao/00_GUIA_DE_PUBLICACAO.md",
+      "finalizado_por": "/root",
+      "decisao_coordenador": "Rascunhos aproveitados; principal finalizou descricao, seis capitulos por tempos reais do MP4, creditos e guia."
+    },
+    {
+      "etapa": "implementacao_e_amostra_economica",
+      "model_solicitado": "gpt-6.1-sol",
+      "reasoning_effort_solicitado": "medium",
+      "agent_id": "/root/l03_edicao_economica",
+      "model_efetivo": "desconhecido",
+      "reasoning_effort_efetivo": "desconhecido",
+      "estado": "validado",
+      "relatorio": "producao/L03/projeto/IMPLEMENTACAO_L03.md",
+      "decisao_coordenador": "Amostra49.367s/12segmentos aprovada; principal executou render integral e QA tecnica sem novas chamadas de geracao."
+    },
+    {
+      "etapa": "revisao_final_economica",
+      "model_solicitado": "gpt-6-astra",
+      "reasoning_effort_solicitado": "high",
+      "agent_id": "/root/l03_revisao_final_economica",
+      "model_efetivo": "desconhecido",
+      "reasoning_effort_efetivo": "desconhecido",
+      "estado": "validado",
+      "relatorio": "producao/L03/projeto/QA_FINAL_INDEPENDENTE.md",
+      "decisao_coordenador": "APROVADO em passagem independente delimitada;45quadros do MP4 real,capa e publicacao inspecionados; nenhuma correcao material."
+    }
+  ],
+  "proxima_acao": "L03 publicado pelo Postiz. Conferir uso de IA, categoria/idioma e comentario fixado no Studio, campos nao expostos pelo conector instalado.",
+  "publicacao_youtube": {
+    "estado": "PUBLISHED",
+    "ferramenta": "Postiz local",
+    "post_id": "cmvtwp2k90006jncj27z1e8dx",
+    "release_id": "tH56UHaRo54",
+    "url": "https://www.youtube.com/watch?v=tH56UHaRo54",
+    "canal": "Pixel Procurado",
+    "visibilidade_solicitada": "public",
+    "confirmado_em": "2026-10-29T19:22:30Z",
+    "verificacao_publica": "oEmbed anonimo retornou titulo correto e canal @pixelprocurado",
+    "metadados_enviados": [
+      "titulo",
+      "descricao_com_capitulos",
+      "tags",
+      "thumbnail",
+      "selfDeclaredMadeForKids=no"
+    ],
+    "campos_nao_expostos_pelo_conector": [
+      "uso_de_IA",
+      "categoria",
+      "idioma",
+      "SRT_selecionavel",
+      "comentario_fixado"
+    ],
+    "registro": "producao/L03/publicacao/POSTIZ_ESTADO.json",
+    "correcao_local": "Provedor YouTube resolve apenas uploads proprios em disco; protecaoSSRF preservada; overrides documentados no projeto Postiz."
+  },
+  "perfil_economico": {
+    "coordenador": "/root",
+    "executor": "/root/l03_edicao_economica",
+    "model_solicitado": "gpt-6.1-sol",
+    "reasoning_effort_solicitado": "medium",
+    "model_efetivo": "desconhecido",
+    "reasoning_effort_efetivo": "desconhecido",
+    "teto_revisao": "gpt-6-astra high",
+    "regra": "Preservar historico de perfis anteriores; novos perfis nao invalidam artefatos aprovados."
+  },
+  "retomada_2026_10_29": {
+    "asr_4_blocos": "concluido",
+    "processos_python_ffmpeg_ativos": false,
+    "causa_duracao": "B01 e B02 leem prefixo solicitado e continuam com cauda inventada; nao e lentidao nem header errado",
+    "novos_wav_necessarios": "B05, condicionado a validacao do estilo v2",
+    "arquivo_diagnostico": "producao/L03/voz/diagnostico_divergencias_v1.json",
+    "limite_anterior": "Usage limit reported by audio_render, direcao_voz and direcao_montagem; resumed same agents/profiles at user request.",
+    "audio_util_provisorio_segundos": 330.35,
+    "cortes_brutos": {
+      "B01": 45.9,
+      "B02": 74.85,
+      "originais_preservados": true
+    },
+    "reparo_frase": "Reparo1 preservado, small/base ainda reconhecem ensinar. Tentativa2 com ESTILO_REPARO_ENCENAR_v3.txt explicita en-ce-NAR no Style, fragmento exato23palavras.",
+    "escuta": "Nao realizada: ferramenta retornou audio content omitted because you do not support audio input. Validacao objetiva por medicoes e ASR, com limitacoes registradas.",
+    "clip_original_revisao": "producao/L03/voz/B03_FRASE_ORIGINAL_REVISAO.wav",
+    "clip_reparo2_revisao": "producao/L03/voz/gemini/reparo_v2/L03_B03_REPARO_ENCENAR_narracao.wav"
+  },
+  "aprovacao_humana": {
+    "arquivo": "producao/L03/voz/gemini/reparo_v2/L03_B03_REPARO_ENCENAR_narracao.wav",
+    "resposta": "Ouço encenar; aprove esse trecho.",
+    "alcance": "Somente reparo2; integrar frase completa, preservar roteiro e originais",
+    "registro": "Encaminhada pelo principal /root em 29/10/2026"
+  },
+  "estado_anterior_preservado": {
+    "estado": "validado",
+    "etapa_atual": "concluido",
+    "backup": "producao/historico/antes_humor_br_2026-10-29/producao/L03/producao.json"
+  },
+  "revisao_editorial": {
+    "data": "2026-10-29",
+    "perfil": "humor_br",
+    "audio_corresponde_ao_roteiro_atual": false,
+    "video_publicado_preservado": true,
+    "gemini": "producao/L03/03_NARRACAO_GEMINI.txt",
+    "style": "producao/L03/04_ESTILO_GEMINI.txt",
+    "direcao_atual": "producao/L03/05_DIRECAO_HUMOR_BR.md"
+  }
+}

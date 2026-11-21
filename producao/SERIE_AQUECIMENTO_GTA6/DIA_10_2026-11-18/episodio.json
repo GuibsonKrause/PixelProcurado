@@ -1,0 +1,1326 @@
+{
+  "id": "DIA_10_2026-11-18",
+  "titulo": "GTA 6: a meia-noite não chega junto",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": ".",
+  "gsap": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/hyperframes_long/gsap.min.js",
+  "midias": {
+    "LAUNCH": "videosGTAVI/GTAVI_Launch_Trailer.mp4",
+    "VC01": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg",
+    "VC03": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+    "VC08": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg",
+    "VC10": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
+    "VC11": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg",
+    "CHEETAH": "videosGTAVI/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_GROTTI_CHEETAH_01.jpg",
+    "CHEETAH_DETALHE": "videosGTAVI/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_GROTTI_CHEETAH_04.jpg",
+    "SQUALO": "videosGTAVI/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_SQUALO_02.jpg",
+    "STANIER": "videosGTAVI/GTAVI_Vintage_Vice_City_Pack/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_03.jpg",
+    "VINTAGE_ROUPAS": "videosGTAVI/GTAVI_Vintage_Vice_City_Pack/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01.jpg",
+    "VINTAGE_PADRAO": "videosGTAVI/GTAVI_Vintage_Vice_City_Pack/VINTAGE_VICE_CITY_WEAPON_PATTERN_01.jpg",
+    "C01_FUSOS": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C01_FUSOS_horizontal.jpg",
+    "C03_ESTREIA": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C03_ESTREIA_horizontal.jpg",
+    "C05_JANELA": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C05_JANELA_horizontal.jpg",
+    "C10_PRELOAD": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C10_PRELOAD_horizontal.jpg",
+    "C15_VINTAGE": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C15_VINTAGE_horizontal.jpg",
+    "C19_CHECKLIST": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C19_CHECKLIST_horizontal.jpg",
+    "T1": "videosGTAVI/GTAVI_Trailer_1.mp4",
+    "T2": "videosGTAVI/GTAVI_Trailer_2.mp4"
+  },
+  "rotulos_obrigatorios": {
+    "LAUNCH": "TRAILER OFICIAL · ILUSTRAÇÃO",
+    "VC01": "IMAGEM OFICIAL · ILUSTRATIVA",
+    "VC03": "IMAGEM OFICIAL · ILUSTRATIVA",
+    "VC08": "IMAGEM OFICIAL · ILUSTRATIVA",
+    "VC10": "IMAGEM OFICIAL · ILUSTRATIVA",
+    "VC11": "IMAGEM OFICIAL · ILUSTRATIVA",
+    "CHEETAH": "ULTIMATE · IMAGEM OFICIAL",
+    "CHEETAH_DETALHE": "ULTIMATE · IMAGEM OFICIAL",
+    "SQUALO": "ULTIMATE · IMAGEM OFICIAL",
+    "STANIER": "VINTAGE · IMAGEM OFICIAL",
+    "VINTAGE_ROUPAS": "VINTAGE · IMAGEM OFICIAL",
+    "VINTAGE_PADRAO": "VINTAGE · IMAGEM OFICIAL",
+    "T1": "TRAILER 1 · ILUSTRAÇÃO OFICIAL",
+    "T2": "TRAILER 2 · ILUSTRAÇÃO OFICIAL"
+  },
+  "correcoes_legenda": {
+    "gta": "GTA",
+    "rockstar": "Rockstar",
+    "auckland": "Auckland",
+    "youtube": "YouTube",
+    "xbox": "Xbox",
+    "playstation": "PlayStation",
+    "standard": "Standard",
+    "ultimate": "Ultimate",
+    "vintage": "Vintage",
+    "grotti": "Grotti",
+    "cheetah": "Cheetah",
+    "shitzu": "Shitzu",
+    "squalo": "Squalo",
+    "vice": "Vice",
+    "city": "City",
+    "stanier": "Stanier",
+    "greenwich": "Greenwich",
+    "granite": "Greenwich",
+    "grotch": "Grotti",
+    "esqualo": "Squalo",
+    "stunyer": "Stanier"
+  },
+  "formatos": {
+    "longo": {
+      "stem": "Pixel_Procurado_DIA10_Longo_V2",
+      "resolucao": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/narracao_master_aprovado.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/palavras_roteiro_alinhadas.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C01_FUSOS",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0.0,
+            9.0
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 1,
+          "movimento": "fixo",
+          "enquadramento": "conter",
+          "selo": false
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 6.2,
+          "tipo": "editorial",
+          "corte": [
+            9.0,
+            12.266666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 1
+        },
+        {
+          "titulo": "PROTOCOLO DA VÉSPERA",
+          "detalhe": "Horário · instalação · edição · redes",
+          "midia": "VC01",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            12.266666666666667,
+            17.266666666666666
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 2
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 9.5367,
+          "tipo": "editorial",
+          "corte": [
+            17.266666666666666,
+            22.266666666666666
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 2
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 14.6067,
+          "tipo": "editorial",
+          "corte": [
+            22.266666666666666,
+            27.233333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 2
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 19.6433,
+          "tipo": "editorial",
+          "corte": [
+            27.233333333333334,
+            32.233333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 2
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C03_ESTREIA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            32.233333333333334,
+            38.233333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 3,
+          "movimento": "fixo",
+          "enquadramento": "conter",
+          "selo": false
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "LAUNCH",
+          "inicio": 80,
+          "tipo": "editorial",
+          "corte": [
+            38.233333333333334,
+            42.233333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 3,
+          "legenda_alta": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "VC03",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            42.233333333333334,
+            47.6
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 3
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C01_FUSOS",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            47.6,
+            56.6
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 4,
+          "movimento": "fixo",
+          "enquadramento": "conter",
+          "selo": false
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 5.1,
+          "tipo": "editorial",
+          "corte": [
+            56.6,
+            61.266666666666666
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 4
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 18.1,
+          "tipo": "editorial",
+          "corte": [
+            61.266666666666666,
+            65.96666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 4
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C05_JANELA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            65.96666666666667,
+            74.96666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 5,
+          "movimento": "fixo",
+          "enquadramento": "conter",
+          "selo": false
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 22.87,
+          "tipo": "editorial",
+          "corte": [
+            74.96666666666667,
+            81.03333333333333
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 5
+        },
+        {
+          "titulo": "REDUZA A EXPOSIÇÃO",
+          "detalhe": "Silenciar termos · evitar buscas · sem proteção total",
+          "midia": "T1",
+          "inicio": 29.0067,
+          "tipo": "editorial",
+          "corte": [
+            81.03333333333333,
+            87.36666666666666
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 6
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 70.0,
+          "tipo": "editorial",
+          "corte": [
+            87.36666666666666,
+            93.7
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 6
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 24.7133,
+          "tipo": "editorial",
+          "corte": [
+            93.7,
+            100.03333333333333
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 6
+        },
+        {
+          "titulo": "X: SILENCIAR TERMOS",
+          "detalhe": "Palavras e hashtags · fonte: X Help",
+          "midia": "VC03",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            100.03333333333333,
+            104.73333333333333
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 7
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 35.41,
+          "tipo": "editorial",
+          "corte": [
+            104.73333333333333,
+            109.43333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 7
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 31.1167,
+          "tipo": "editorial",
+          "corte": [
+            109.43333333333334,
+            114.13333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 7
+        },
+        {
+          "titulo": "BUSCAS PODEM ESCAPAR",
+          "detalhe": "Limites nas notificações · fonte: X Help",
+          "midia": "T2",
+          "inicio": 35.8867,
+          "tipo": "editorial",
+          "corte": [
+            114.13333333333334,
+            119.3
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 7
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 41.1233,
+          "tipo": "editorial",
+          "corte": [
+            119.3,
+            124.46666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 7
+        },
+        {
+          "titulo": "YOUTUBE: RECOMENDAÇÕES",
+          "detalhe": "Não tenho interesse · Não recomendar canal",
+          "midia": "VC08",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            124.46666666666667,
+            128.26666666666668
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 8
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 9.8367,
+          "tipo": "editorial",
+          "corte": [
+            128.26666666666668,
+            132.06666666666666
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 8
+        },
+        {
+          "titulo": "SEM FILTRO UNIVERSAL",
+          "detalhe": "Reduza a exposição · fonte: YouTube Help",
+          "midia": "T2",
+          "inicio": 46.36,
+          "tipo": "editorial",
+          "corte": [
+            132.06666666666666,
+            136.66666666666666
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 8
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 51.03,
+          "tipo": "editorial",
+          "corte": [
+            136.66666666666666,
+            141.3
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 8
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 55.7333,
+          "tipo": "editorial",
+          "corte": [
+            141.3,
+            145.9
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 8
+        },
+        {
+          "titulo": "COMBINE ANTES DE ENVIAR",
+          "detalhe": "Recomendação do canal · sem conversa simulada",
+          "midia": "T2",
+          "inicio": 60.4033,
+          "tipo": "editorial",
+          "corte": [
+            145.9,
+            151.9
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 9
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 79.6,
+          "tipo": "editorial",
+          "corte": [
+            151.9,
+            157.93333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 9
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 81.3033,
+          "tipo": "editorial",
+          "corte": [
+            157.93333333333334,
+            163.93333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 9
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C10_PRELOAD",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            163.93333333333334,
+            172.93333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 10,
+          "movimento": "fixo",
+          "enquadramento": "conter",
+          "selo": false
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "VC01",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            172.93333333333334,
+            178.83333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 10
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 87.3733,
+          "tipo": "editorial",
+          "corte": [
+            178.83333333333334,
+            184.73333333333332
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 10
+        },
+        {
+          "titulo": "DOWNLOAD E ESPAÇO",
+          "detalhe": "Confira os avisos do seu console · recomendação do canal",
+          "midia": "T2",
+          "inicio": 93.3433,
+          "tipo": "editorial",
+          "corte": [
+            184.73333333333332,
+            189.93333333333334
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 11
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 98.6133,
+          "tipo": "editorial",
+          "corte": [
+            189.93333333333334,
+            195.13333333333333
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 11
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 103.8833,
+          "tipo": "editorial",
+          "corte": [
+            195.13333333333333,
+            200.3
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 11
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 109.12,
+          "tipo": "editorial",
+          "corte": [
+            200.3,
+            205.5
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 11
+        },
+        {
+          "titulo": "CONTA, CONTROLE E ÁUDIO",
+          "detalhe": "Teste o que você já tem · recomendação do canal",
+          "midia": "VC11",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            205.5,
+            210.46666666666667
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 12
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 114.39,
+          "tipo": "editorial",
+          "corte": [
+            210.46666666666667,
+            215.46666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 12
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 119.46,
+          "tipo": "editorial",
+          "corte": [
+            215.46666666666667,
+            220.46666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 12
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 124.53,
+          "tipo": "editorial",
+          "corte": [
+            220.46666666666667,
+            225.43333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 12
+        },
+        {
+          "titulo": "CONFIRA SUA EDIÇÃO",
+          "detalhe": "Standard · Ultimate · upgrade separado · Rockstar",
+          "midia": "VC03",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            225.43333333333334,
+            230.7
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 13
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 129.5667,
+          "tipo": "editorial",
+          "corte": [
+            230.7,
+            235.96666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 13
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 134.9033,
+          "tipo": "editorial",
+          "corte": [
+            235.96666666666667,
+            241.23333333333332
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 13
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 140.24,
+          "tipo": "editorial",
+          "corte": [
+            241.23333333333332,
+            246.5
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 13
+        },
+        {
+          "titulo": "ULTIMATE: EXEMPLOS",
+          "detalhe": "Grotti Cheetah 95 · fonte: Rockstar Support",
+          "midia": "CHEETAH",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            246.5,
+            253.46666666666667
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 14
+        },
+        {
+          "titulo": "SHITZU SQUALO",
+          "detalhe": "Extra Ultimate · fonte: Rockstar Support",
+          "midia": "SQUALO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            253.46666666666667,
+            259.3333333333333
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 14,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "AO LONGO DA HISTÓRIA",
+          "detalhe": "Itens por capítulos · fonte: Rockstar Support",
+          "midia": "CHEETAH_DETALHE",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            259.3333333333333,
+            266.1666666666667
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 14,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C15_VINTAGE",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            266.1666666666667,
+            275.1666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 15,
+          "movimento": "fixo",
+          "enquadramento": "conter",
+          "selo": false
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "STANIER",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            275.1666666666667,
+            278.23333333333335
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 15,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "VINTAGE_ROUPAS",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            278.23333333333335,
+            280.2
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 15,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "VINTAGE_PADRAO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            280.2,
+            287.3333333333333
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 15,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "CONDIÇÕES DA SUA VERSÃO",
+          "detalhe": "Arte promocional não prova desempenho ou quando aparece",
+          "midia": "CHEETAH_DETALHE",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            287.3333333333333,
+            292.8666666666667
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 16,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "STANIER",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            292.8666666666667,
+            298.4
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 16,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CHEETAH_DETALHE",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            298.4,
+            303.93333333333334
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 16,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "LEIA O AVISO",
+          "detalhe": "Procure a orientação oficial correspondente",
+          "midia": "VC08",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            303.93333333333334,
+            309.3333333333333
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 17
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 145.5767,
+          "tipo": "editorial",
+          "corte": [
+            309.3333333333333,
+            314.7
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 17
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "LAUNCH",
+          "inicio": 55.1,
+          "tipo": "editorial",
+          "corte": [
+            314.7,
+            320.06666666666666
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 17
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "LAUNCH",
+          "inicio": 60.5367,
+          "tipo": "editorial",
+          "corte": [
+            320.06666666666666,
+            325.46666666666664
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 17
+        },
+        {
+          "titulo": "AJUSTE AO SEU JEITO",
+          "detalhe": "Sugestão de começo · menus não testados",
+          "midia": "LAUNCH",
+          "inicio": 67.2,
+          "tipo": "editorial",
+          "corte": [
+            325.46666666666664,
+            331.43333333333334
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 18
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 35.1,
+          "tipo": "editorial",
+          "corte": [
+            331.43333333333334,
+            337.4
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 18
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 41.1367,
+          "tipo": "editorial",
+          "corte": [
+            337.4,
+            343.3666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 18
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C19_CHECKLIST",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            343.3666666666667,
+            350.3666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 19,
+          "movimento": "fixo",
+          "enquadramento": "conter",
+          "selo": false
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "VC03",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            350.3666666666667,
+            355.6666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 19
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 138.1,
+          "tipo": "editorial",
+          "corte": [
+            355.6666666666667,
+            360.96666666666664
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 19
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 143.47,
+          "tipo": "editorial",
+          "corte": [
+            360.96666666666664,
+            366.26666666666665
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 19
+        },
+        {
+          "titulo": "DIA 11: PRIMEIRO DIA",
+          "detalhe": "Sem spoilers · orientação baseada no que for verificado",
+          "midia": "VC11",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            366.26666666666665,
+            372.6666666666667
+          ],
+          "sem_card": false,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 20
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 18.2,
+          "tipo": "editorial",
+          "corte": [
+            372.6666666666667,
+            379.1
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 20
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 24.7033,
+          "tipo": "editorial",
+          "corte": [
+            379.1,
+            385.5
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            58,
+            180
+          ],
+          "paragrafo": 20
+        }
+      ],
+      "limite_mb": 900,
+      "fonte_legenda": "roteiro_alinhado"
+    }
+  },
+  "publicacao": {
+    "canais": {
+      "youtube": "cmvsctfgl0001jncj932ovibv",
+      "facebook": "cmvzyur290001pddwolrt33em",
+      "instagram": "cmvzyw7vj0003pddwkgtivv8i"
+    },
+    "data_padrao": "2026-11-18T23:30:00.000Z",
+    "estado": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/publicacao/POSTIZ_ESTADO.json",
+    "pasta_envio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/publicacao",
+    "tags_youtube": [
+      "GTA 6",
+      "GTA VI",
+      "Grand Theft Auto VI",
+      "GTA 6 lançamento",
+      "GTA 6 horários",
+      "GTA 6 pré-carregamento",
+      "GTA 6 sem spoilers",
+      "GTA 6 Ultimate",
+      "Vintage Vice City Pack",
+      "GTA 6 Nova Zelândia",
+      "Pixel Procurado",
+      "19 de novembro"
+    ],
+    "youtube_visibilidade": "public",
+    "textos": {
+      "longo": "GTA 6 é amanhã. No Dia 10, confira horários, pré-carregamento, bônus da sua edição e cuidados para reduzir a exposição a spoilers.\nA meia-noite local não chega ao mesmo tempo no planeta inteiro.\n\nNota: este episódio foi preparado para sair às 18h de 18/11 (São Paulo/Brasília) e foi publicado mais tarde, na noite de 18/11. Quando o vídeo fala em 18h e em \"faltam seis horas\", ele usa esse horário de referência; o horário atual já é mais próximo da meia-noite local.\n\nPela programação oficial, 19/11 às 00h em Auckland corresponde a 18/11 às 08h em São Paulo/Brasília: 16 horas de diferença. É uma conta do calendário, não comprovação de jogadores online ou de servidor funcionando. Não é tutorial de troca de região.\n\nTambém separamos o pré-carregamento da liberação e o Vintage Vice City Pack dos extras próprios da Ultimate. Os controles de recomendação e palavras silenciadas ajudam a reduzir a exposição; não garantem proteção completa. Sem relatos de gameplay que não verificamos e sem recomendação de compra.\n\nVocê pretende entrar na virada ou começar depois, com calma? Responda sem revelar nada do jogo.\n\nCapítulos:\n0:00 A meia-noite não chega junto\n0:32 Horário oficial de lançamento\n0:48 Auckland e a diferença de fuso\n1:06 O horário de referência do vídeo\n1:21 Proteja suas redes\n2:05 YouTube e recomendações\n2:44 Pré-carregamento e console\n3:46 Edição e comprovante\n4:07 Extras da Ultimate e Vintage Vice City Pack\n5:04 Se algo não abrir no horário\n5:25 Primeiras opções e checklist\n6:06 Amanhã: Dia 11\n\nFontes oficiais — consulta em 18/11/2026:\nRockstar, horários regionais: https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s\nRockstar, edições e versões: https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions\nGoverno NZ, horário de verão: https://www.govt.nz/browse/recreation-and-the-environment/daylight-saving/\nGoverno NZ, fusos: https://www.govt.nz/browse/recreation-and-the-environment/daylight-saving/governing-legislation/\nObservatório Nacional, Hora Legal Brasileira: https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/tempo-e-frequencia/brasil\nX, palavras silenciadas: https://help.x.com/en/using-x/advanced-x-mute-options\nYouTube, recomendações: https://support.google.com/youtube/answer/6342839?hl=pt-BR\n\nImagens e vídeos oficiais do jogo: Rockstar Games. Gráficos e montagem editorial: Pixel Procurado. A narração deste vídeo foi gerada por voz sintética. Créditos não representam garantia de licença ou ausência de reivindicações.\n\nAmanhã, Dia 11: guia do primeiro dia, sem spoilers e com orientação baseada no que for verificado.\n\n#GTA6 #GTAVI #PixelProcurado\n"
+    },
+    "pecas": [
+      {
+        "chave": "youtube_longo",
+        "rede": "youtube",
+        "tipo": "post",
+        "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/exportacoes/Pixel_Procurado_DIA10_Longo_V2.mp4",
+        "texto": "longo",
+        "titulo": "Tudo pronto para GTA 6? Confira antes da meia-noite",
+        "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/publicacao/capas/capa_longo_B.jpg"
+      }
+    ]
+  }
+}

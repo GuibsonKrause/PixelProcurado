@@ -1,0 +1,380 @@
+[
+  {
+    "kind": "replace",
+    "start": 3.3,
+    "end": 3.66,
+    "asr": "5",
+    "script": "cinco"
+  },
+  {
+    "kind": "replace",
+    "start": 4.62,
+    "end": 4.92,
+    "asr": "Selfie",
+    "script": "Self"
+  },
+  {
+    "kind": "replace",
+    "start": 15.52,
+    "end": 15.64,
+    "asr": "para",
+    "script": "com"
+  },
+  {
+    "kind": "replace",
+    "start": 17.9,
+    "end": 18.72,
+    "asr": "Esses detalhes ajudam",
+    "script": "Esse detalhe ajuda"
+  },
+  {
+    "kind": "replace",
+    "start": 20.52,
+    "end": 21.08,
+    "asr": "agro da tanta",
+    "script": "gruda tanto"
+  },
+  {
+    "kind": "replace",
+    "start": 29.44,
+    "end": 29.76,
+    "asr": "Selfie",
+    "script": "Self"
+  },
+  {
+    "kind": "replace",
+    "start": 47.18,
+    "end": 47.54,
+    "asr": "Como a",
+    "script": "Com uma"
+  },
+  {
+    "kind": "replace",
+    "start": 49.46,
+    "end": 49.62,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 50.82,
+    "end": 50.9,
+    "asr": "o",
+    "script": "um"
+  },
+  {
+    "kind": "replace",
+    "start": 60.88,
+    "end": 61.02,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 69.8,
+    "end": 70.12,
+    "asr": "para o vídeo",
+    "script": "pra ouvir de"
+  },
+  {
+    "kind": "replace",
+    "start": 79.86,
+    "end": 80.66,
+    "asr": "para mim é absurdo,",
+    "script": "promessa absurda"
+  },
+  {
+    "kind": "replace",
+    "start": 96.12,
+    "end": 96.8,
+    "asr": "a diál de estino.",
+    "script": "adiar o destino."
+  },
+  {
+    "kind": "replace",
+    "start": 106.2,
+    "end": 106.68,
+    "asr": "Basta",
+    "script": "Bastou"
+  },
+  {
+    "kind": "replace",
+    "start": 108.76,
+    "end": 108.94,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 111.5,
+    "end": 111.68,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 112.68,
+    "end": 112.76,
+    "asr": "sol",
+    "script": "som"
+  },
+  {
+    "kind": "replace",
+    "start": 116.18,
+    "end": 116.34,
+    "asr": "em",
+    "script": "e"
+  },
+  {
+    "kind": "replace",
+    "start": 119.84,
+    "end": 120.04,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 122.1,
+    "end": 122.5,
+    "asr": "vai -se de",
+    "script": "Vice City"
+  },
+  {
+    "kind": "replace",
+    "start": 126.0,
+    "end": 126.34,
+    "asr": "80.",
+    "script": "oitenta."
+  },
+  {
+    "kind": "replace",
+    "start": 127.3,
+    "end": 127.54,
+    "asr": "flecha",
+    "script": "Flash"
+  },
+  {
+    "kind": "insert",
+    "start": 133.72,
+    "end": 133.77,
+    "asr": "",
+    "script": "que estava"
+  },
+  {
+    "kind": "replace",
+    "start": 134.2,
+    "end": 134.42,
+    "asr": "passa",
+    "script": "passou"
+  },
+  {
+    "kind": "replace",
+    "start": 153.36,
+    "end": 154.06,
+    "asr": "ETA -5",
+    "script": "GTA cinco"
+  },
+  {
+    "kind": "replace",
+    "start": 165.08,
+    "end": 165.22,
+    "asr": "atenção",
+    "script": "tensão"
+  },
+  {
+    "kind": "replace",
+    "start": 169.1,
+    "end": 170.04,
+    "asr": "dos jogadores morona.",
+    "script": "do jogador desmorona."
+  },
+  {
+    "kind": "replace",
+    "start": 172.68,
+    "end": 172.94,
+    "asr": "para o",
+    "script": "pro"
+  },
+  {
+    "kind": "replace",
+    "start": 175.34,
+    "end": 175.46,
+    "asr": "um",
+    "script": "o"
+  },
+  {
+    "kind": "replace",
+    "start": 179.76,
+    "end": 180.22,
+    "asr": "tranquilos.",
+    "script": "tranquilas."
+  },
+  {
+    "kind": "replace",
+    "start": 184.28,
+    "end": 184.4,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "insert",
+    "start": 185.52,
+    "end": 185.57000000000002,
+    "asr": "",
+    "script": "É"
+  },
+  {
+    "kind": "replace",
+    "start": 186.94,
+    "end": 187.02,
+    "asr": "um",
+    "script": "o"
+  },
+  {
+    "kind": "replace",
+    "start": 189.12,
+    "end": 189.8,
+    "asr": "mais épreventado,",
+    "script": "um exemplo inventado,"
+  },
+  {
+    "kind": "replace",
+    "start": 194.14,
+    "end": 194.72,
+    "asr": "descordar",
+    "script": "discordar"
+  },
+  {
+    "kind": "replace",
+    "start": 198.76,
+    "end": 198.92,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 201.0,
+    "end": 201.12,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 203.78,
+    "end": 204.08,
+    "asr": "Na",
+    "script": "A"
+  },
+  {
+    "kind": "replace",
+    "start": 207.86,
+    "end": 208.32,
+    "asr": "preparam",
+    "script": "prepara"
+  },
+  {
+    "kind": "replace",
+    "start": 210.08,
+    "end": 210.7,
+    "asr": "Quanto da",
+    "script": "Quando tudo é"
+  },
+  {
+    "kind": "replace",
+    "start": 213.42,
+    "end": 213.92,
+    "asr": "aparecer",
+    "script": "parecer"
+  },
+  {
+    "kind": "replace",
+    "start": 216.52,
+    "end": 216.62,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 217.58,
+    "end": 218.0,
+    "asr": "VI.",
+    "script": "seis?"
+  },
+  {
+    "kind": "replace",
+    "start": 223.24,
+    "end": 223.9,
+    "asr": "Cocoteu,",
+    "script": "Cocoteo"
+  },
+  {
+    "kind": "replace",
+    "start": 228.66,
+    "end": 228.82,
+    "asr": "The",
+    "script": "Dirty"
+  },
+  {
+    "kind": "replace",
+    "start": 230.48,
+    "end": 230.94,
+    "asr": "Hip Hop",
+    "script": "e hip-hop"
+  },
+  {
+    "kind": "replace",
+    "start": 253.68,
+    "end": 254.3,
+    "asr": "identidade para",
+    "script": "identidades pra"
+  },
+  {
+    "kind": "replace",
+    "start": 272.4,
+    "end": 272.96,
+    "asr": "Tenha",
+    "script": "Tem"
+  },
+  {
+    "kind": "replace",
+    "start": 276.96,
+    "end": 277.16,
+    "asr": "entro",
+    "script": "entrou"
+  },
+  {
+    "kind": "replace",
+    "start": 277.56,
+    "end": 277.78,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 279.18,
+    "end": 279.56,
+    "asr": "mexe ao",
+    "script": "mexeu no"
+  },
+  {
+    "kind": "replace",
+    "start": 293.94,
+    "end": 294.18,
+    "asr": "corrida fugindo.",
+    "script": "gente dirigindo."
+  },
+  {
+    "kind": "insert",
+    "start": 295.88,
+    "end": 295.93,
+    "asr": "",
+    "script": "o"
+  },
+  {
+    "kind": "replace",
+    "start": 312.44,
+    "end": 312.82,
+    "asr": "radiado",
+    "script": "adiado"
+  }
+]

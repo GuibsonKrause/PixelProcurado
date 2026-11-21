@@ -1,0 +1,37 @@
+{
+  "voice_duration": 330.68,
+  "video_duration": 330.7,
+  "difference_seconds": 0.01999999999998181,
+  "shots": 61,
+  "captions": 146,
+  "captions_under_850ms": [],
+  "status_counts": {
+    "asr_exact": 841,
+    "asr_ambiguity_estimated": 31,
+    "numeric_expansion": 20,
+    "human_confirmed": 1
+  },
+  "inputHashes": {
+    "voice": "700311cc62811827581f30cff51b4070a5960b4875b7b0478339757746cd2636",
+    "alignment": "9607eec8d27227b2abe707e4f25b1a95dac6562c8cc658eeb689b51d3fe8dc9e"
+  },
+  "pending_review_words": [],
+  "human_confirmed_words": [
+    {
+      "word": "encenar",
+      "paragraph": 10,
+      "human_confirmed": true,
+      "start": 163.29,
+      "end": 163.75,
+      "status": "human_confirmed",
+      "asr_span": "ensinar",
+      "evidence": "Usuário: Ouço encenar; aprove esse trecho."
+    }
+  ],
+  "minimum_shot_frames": 27,
+  "max_animation_frames": 170,
+  "animation_frames_total": 743,
+  "unicode_replacement_chars": 0,
+  "caption_revision_note": "Bloco retorno: unido a pergunta anterior por sentido; nenhum texto narrado alterado. Validacao atualizada sobre timeline existente.",
+  "timeline_sha256": "e120a59031013897a31078579075156651c9657a1a70ef0380506f3f77efa4d3"
+}

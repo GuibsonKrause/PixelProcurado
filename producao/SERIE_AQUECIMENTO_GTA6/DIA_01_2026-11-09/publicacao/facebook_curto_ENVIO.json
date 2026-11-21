@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-11T03:07:09.963616+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: círculo ou triângulo? Leia o HUD antes de fugir"
+      },
+      "value": [
+        {
+          "content": "Duas opções reais na porta do carro: Smash Window e Slim Jim. Análise das imagens oficiais, sem teste jogável próprio. Episódio completo no canal Pixel Procurado. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/9cd71845b06b4ec383877f072941e225.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ]
+    }
+  ]
+}

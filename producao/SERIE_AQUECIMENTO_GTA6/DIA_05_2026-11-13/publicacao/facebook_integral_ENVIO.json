@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-13T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "O botão L2 não troca de personagem. Então como o GTA 6 faz você jogar com Jason e Lucia ao mesmo tempo? Carro, academia e uma mensagem na festa: o gameplay mostra três cenas. Sexta-feira 13, faltam 6 dias para 19/11. Você começa pelo Jason ou pela Lucia? Amanhã, sábado 14/11: o porta-malas. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/2c801c1a2233465286389cbbd87b1e75.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: Como Funciona Jogar com Jason e Lucia"
+      }
+    }
+  ]
+}

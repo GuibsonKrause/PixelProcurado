@@ -1,0 +1,106 @@
+{
+  "Real_Dimez_02": {
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+    "rects": {
+      "telefone_esquerdo": [
+        420,
+        940,
+        440,
+        700
+      ],
+      "tela_apresentacao": [
+        485,
+        1015,
+        320,
+        345
+      ],
+      "artistas": [
+        1090,
+        10,
+        1240,
+        1440
+      ],
+      "plateia_direita": [
+        2320,
+        370,
+        1340,
+        1630
+      ]
+    }
+  },
+  "Vice_City_02": {
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg",
+    "rects": {
+      "casal_varanda": [
+        2080,
+        340,
+        1720,
+        1780
+      ],
+      "piscina": [
+        80,
+        1190,
+        2370,
+        950
+      ],
+      "praia": [
+        0,
+        80,
+        2740,
+        475
+      ]
+    }
+  },
+  "Vice_City_05": {
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+    "rects": {
+      "casal_caminhando": [
+        1940,
+        235,
+        1270,
+        1660
+      ],
+      "detector_metais": [
+        660,
+        630,
+        640,
+        955
+      ],
+      "banho_sol": [
+        10,
+        1510,
+        2140,
+        640
+      ],
+      "outros_banhistas": [
+        3130,
+        770,
+        680,
+        930
+      ]
+    }
+  },
+  "Vice_City_06": {
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg",
+    "rects": {
+      "fachadas_neon": [
+        10,
+        10,
+        1445,
+        930
+      ],
+      "palmeiras": [
+        2080,
+        10,
+        1370,
+        790
+      ],
+      "vida_rua": [
+        120,
+        330,
+        3340,
+        1690
+      ]
+    }
+  }
+}

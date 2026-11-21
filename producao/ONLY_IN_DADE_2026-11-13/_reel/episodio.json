@@ -1,0 +1,290 @@
+{
+  "id": "ONLY_IN_DADE_2026-11-13_reel",
+  "titulo": "GTA 6 usou Miami pra disfarçar Vice City",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "JAN": "ONLY_IN_DADE_2026-11/DfnFSzaOLO_.mp4",
+    "ESQ": "ONLY_IN_DADE_2026-11/Dfppo43hwnB.mp4",
+    "Ggroup": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/jogo-group.jpg",
+    "coquette_2": "ONLY_IN_DADE_2026-11/comparacao-west-coast-customs/replica-coquette-2.jpg"
+  },
+  "rotulos_obrigatorios": {
+    "Ggroup": "GTA VI • CAPTURA",
+    "coquette_2": "RÉPLICA REAL"
+  },
+  "correcoes_legenda": {},
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_Only_In_Dade_Reel_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/ONLY_IN_DADE_2026-11-13/_reel/audio/narracao.wav",
+      "alinhamento": "producao/ONLY_IN_DADE_2026-11-13/_reel/audio/palavras.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            0,
+            5.87
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 2.7,
+          "tipo": "tag",
+          "corte": [
+            5.87,
+            9.33
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "ONLY IN DADE",
+          "detalhe": "Reel de 11/11",
+          "midia": "JAN",
+          "inicio": 6.3,
+          "tipo": "editorial",
+          "corte": [
+            9.33,
+            13.73
+          ],
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "VICE CITY",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 12.9,
+          "tipo": "tag",
+          "corte": [
+            13.73,
+            16.48
+          ],
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "Ggroup",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            16.48,
+            19.4
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "coquette_2",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            19.4,
+            22.45
+          ],
+          "sem_card": true,
+          "movimento": "fixo",
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "A CÂMERA NA ESQUINA",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            22.45,
+            27.15
+          ],
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 19.5,
+          "tipo": "tag",
+          "corte": [
+            27.15,
+            31.43
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 1.05,
+          "tipo": "tag",
+          "corte": [
+            31.43,
+            34.09
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 5.8,
+          "tipo": "tag",
+          "corte": [
+            34.09,
+            37.05
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 9.5,
+          "tipo": "tag",
+          "corte": [
+            37.05,
+            38.97
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 12.1,
+          "tipo": "tag",
+          "corte": [
+            38.97,
+            41.47
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 0.4,
+          "tipo": "tag",
+          "corte": [
+            41.47,
+            44.53
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 2.45,
+          "tipo": "tag",
+          "corte": [
+            44.53,
+            47.62
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 6.25,
+          "tipo": "tag",
+          "corte": [
+            47.62,
+            50.4
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 11.3,
+          "tipo": "tag",
+          "corte": [
+            50.4,
+            52.87
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 16,
+          "tipo": "tag",
+          "corte": [
+            52.87,
+            57.53
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 21.4,
+          "tipo": "tag",
+          "corte": [
+            57.53,
+            61.03
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 14.4,
+          "tipo": "tag",
+          "corte": [
+            61.03,
+            64.05
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "ESQ",
+          "inicio": 18.8,
+          "tipo": "tag",
+          "corte": [
+            64.05,
+            66.35
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        }
+      ]
+    }
+  }
+}

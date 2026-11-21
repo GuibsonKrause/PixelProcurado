@@ -1,0 +1,450 @@
+{
+  "schema_versao": 1,
+  "episodio": "DIA_09_2026-11-17",
+  "revisor": {
+    "modelo": "",
+    "agent_id": ""
+  },
+  "data": "",
+  "artefatos": [
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/exportacoes/Pixel_Procurado_DIA09_Longo_V2.mp4",
+      "sha256": "935dce5198307a03b7ce8e66db91c94a3a55ee9854bb436e45556869a8882f98"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/exportacoes/Pixel_Procurado_DIA09_Longo_V2.srt",
+      "sha256": "197ab122e23268adb6f36a4be45e043cfec766ddfd8742ca26ee1ddee6f21f0d"
+    }
+  ],
+  "audio_trechos_ouvidos": [
+    {
+      "inicio": 0,
+      "fim": 10,
+      "observacao": ""
+    },
+    {
+      "inicio": 125,
+      "fim": 140,
+      "observacao": ""
+    },
+    {
+      "inicio": 245,
+      "fim": 260,
+      "observacao": ""
+    },
+    {
+      "inicio": 365,
+      "fim": 380,
+      "observacao": ""
+    },
+    {
+      "inicio": 410.4,
+      "fim": 420.4,
+      "observacao": ""
+    }
+  ],
+  "frames_inspecionados": [
+    {
+      "timecode": 15,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 45,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 75,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 105,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 135,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 165,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 195,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 225,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 255,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 285,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 315,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 345,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 375,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 405,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 420,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 1.0,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 3.82,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 7.82,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 13.82,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 19.82,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 34.88,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 42.0,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 46.5,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 58.0,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 66.1,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 74.93,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 83.76,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 92.58,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 101.33,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 110.08,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 118.82,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 126.82,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 133.82,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 149.28,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 157.22,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 166.57,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 175.92,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 181.41,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 186.91,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 192.41,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 197.9,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 207.2,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 216.5,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 225.0,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 233.5,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 240.1,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 253.28,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 259.72,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 266.16,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 272.93,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 279.7,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 286.48,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 293.2,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 297.5,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 300.0,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 314.82,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 319.72,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 323.5,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 327.72,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 337.2,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 341.6,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 343.8,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 349.8,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 352.08,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 359.24,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 368.0,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 373.6,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 375.6,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 391.28,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 397.2,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 400.4,
+      "arquivo_imagem": "",
+      "observacao": ""
+    },
+    {
+      "timecode": 413.78,
+      "arquivo_imagem": "",
+      "observacao": ""
+    }
+  ],
+  "legendas": {
+    "srt": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/exportacoes/Pixel_Procurado_DIA09_Longo_V2.srt",
+    "amostras": [
+      {
+        "timecode": 21.0,
+        "texto": "",
+        "sincronizado": true,
+        "observacao": ""
+      },
+      {
+        "timecode": 126.1,
+        "texto": "",
+        "sincronizado": true,
+        "observacao": ""
+      },
+      {
+        "timecode": 210.2,
+        "texto": "",
+        "sincronizado": true,
+        "observacao": ""
+      },
+      {
+        "timecode": 294.3,
+        "texto": "",
+        "sincronizado": true,
+        "observacao": ""
+      },
+      {
+        "timecode": 399.4,
+        "texto": "",
+        "sincronizado": true,
+        "observacao": ""
+      }
+    ]
+  },
+  "thumbnail": {
+    "arquivo": "",
+    "preview_reduzido": "",
+    "observacao": ""
+  },
+  "problemas": [],
+  "resultado": "reprovado"
+}

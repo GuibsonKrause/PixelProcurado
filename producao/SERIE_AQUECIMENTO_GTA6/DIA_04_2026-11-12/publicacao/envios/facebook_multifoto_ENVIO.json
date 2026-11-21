@@ -1,0 +1,42 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-13T02:20:19.825836+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Do ringue improvisado ao elevador com Jason. Deslize pelas cenas que mostram como Leonida ganhou personalidade. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/dc34b8544a6e4f309a5832823e68d4a8.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/0668469ef31a47be901e85a6352b9ae3.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/479f2e866bd741f49afe742ef9e92b7f.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/46ee71e705ac44e89505746ccd9564fa.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post"
+      }
+    }
+  ]
+}

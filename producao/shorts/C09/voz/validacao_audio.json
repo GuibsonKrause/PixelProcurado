@@ -1,0 +1,40 @@
+{
+  "narracao_original.wav": {
+    "duration": 82.52,
+    "rate": 24000,
+    "channels": 1,
+    "sample_width": 2,
+    "loudness": {
+      "input_i": "-21.10",
+      "input_tp": "-1.55",
+      "input_lra": "3.40",
+      "input_thresh": "-32.30",
+      "output_i": "-17.28",
+      "output_tp": "-1.50",
+      "output_lra": "3.10",
+      "output_thresh": "-28.42",
+      "normalization_type": "dynamic",
+      "target_offset": "1.28"
+    },
+    "silences_over_1_5s": []
+  },
+  "narracao.wav": {
+    "duration": 82.52,
+    "rate": 48000,
+    "channels": 1,
+    "sample_width": 2,
+    "loudness": {
+      "input_i": "-16.78",
+      "input_tp": "-1.49",
+      "input_lra": "2.60",
+      "input_thresh": "-27.88",
+      "output_i": "-16.38",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-27.47",
+      "normalization_type": "dynamic",
+      "target_offset": "0.38"
+    },
+    "silences_over_1_5s": []
+  }
+}

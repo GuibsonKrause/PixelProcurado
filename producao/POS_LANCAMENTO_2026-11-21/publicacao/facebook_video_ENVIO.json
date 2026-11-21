@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-21T17:01:53.406441+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "O GTA 6 saiu em 19/11 e respondeu as apostas da nossa série de aquecimento. Neste vídeo: as teorias que se confirmaram no gameplay real (Leonida que reage, polícia que precisa de testemunha, rede social própria, Jason e Lucia dividindo a vida), o que quebrou a cara (30 fps em todos os consoles, bugs relatados, o mito da física realista) e o que isso faz com Ubisoft, EA e CD Projekt.\n\nVocê se impressionou ou esperava mais? Conta nos comentários qual teoria você jurava que estaria no jogo.\n\nCapítulos\n00:00 O jogo respondeu nossas apostas\n00:38 Crítica 99 × jogadores perto de 5\n01:03 Aposta 1: Leonida reage\n01:56 Aposta 2: a polícia que não nasce do chão\n02:38 Aposta 3: Jason e Lucia\n03:18 O que quebrou a cara: 30 fps\n03:44 Bugs relatados pelos jogadores\n04:20 O mito da física realista\n04:57 Review bomb\n05:12 O estrago na concorrência\n05:48 Leitura minha: densidade\n06:45 Veredito\n\nGameplay pós-lançamento: trechos das lives de alanzoka e Cellbit (áudio original removido; créditos aos criadores). Trechos rotulados PRÉ-LANÇAMENTO: gameplay oficial da Rockstar Games (An Extended Look). Sem spoilers de história.\n\nFontes: Al Jazeera (lançamento e Metacritic, 19/11/2026); iGame Mag e PC Games Hardware (30 fps e relatos de bugs); Insider Gaming e Yahoo (nota de usuários e review bomb); comunicado da Rockstar repercutido por Manila Times e Gamer Headlines (US$ 3,79 bi no 1º dia, estimativa da empresa); Bloomberg via TechRadar (editoras e datas). Relatos de bugs são de jogadores, não confirmados pela Rockstar até a publicação. A análise sobre a concorrência é opinião do canal.\n\nNarração com voz sintética (Gemini TTS) a partir de roteiro do Pixel Procurado.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/c7ab192ad62a44f1960201c3dda20c0f.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6 Lançou: As Teorias Que Acertamos (e as Que Quebraram a Cara)"
+      }
+    }
+  ]
+}

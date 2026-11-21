@@ -1,0 +1,1031 @@
+[
+ {
+  "kind": "replace",
+  "start": 4.28,
+  "end": 4.54,
+  "asr": "10",
+  "script": "dez"
+ },
+ {
+  "kind": "replace",
+  "start": 5.42,
+  "end": 5.7,
+  "asr": "8",
+  "script": "oito"
+ },
+ {
+  "kind": "replace",
+  "start": 5.98,
+  "end": 6.12,
+  "asr": "para",
+  "script": "pro"
+ },
+ {
+  "kind": "replace",
+  "start": 9.14,
+  "end": 9.5,
+  "asr": "6.",
+  "script": "seis."
+ },
+ {
+  "kind": "replace",
+  "start": 10.7,
+  "end": 12.0,
+  "asr": "212 GB",
+  "script": "duzentos e doze gigas"
+ },
+ {
+  "kind": "replace",
+  "start": 12.8,
+  "end": 13.26,
+  "asr": "AC com",
+  "script": "seco"
+ },
+ {
+  "kind": "replace",
+  "start": 16.3,
+  "end": 16.54,
+  "asr": "está",
+  "script": "tá"
+ },
+ {
+  "kind": "replace",
+  "start": 18.0,
+  "end": 18.34,
+  "asr": "3",
+  "script": "três"
+ },
+ {
+  "kind": "replace",
+  "start": 18.64,
+  "end": 18.82,
+  "asr": "para",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 21.02,
+  "end": 21.3,
+  "asr": "porque",
+  "script": "por que"
+ },
+ {
+  "kind": "replace",
+  "start": 27.58,
+  "end": 28.0,
+  "asr": "Exite",
+  "script": "Existe"
+ },
+ {
+  "kind": "replace",
+  "start": 28.7,
+  "end": 28.9,
+  "asr": "2",
+  "script": "dois"
+ },
+ {
+  "kind": "replace",
+  "start": 29.54,
+  "end": 29.76,
+  "asr": "20",
+  "script": "vinte"
+ },
+ {
+  "kind": "replace",
+  "start": 32.2,
+  "end": 32.38,
+  "asr": "6",
+  "script": "seis"
+ },
+ {
+  "kind": "replace",
+  "start": 32.52,
+  "end": 32.78,
+  "asr": "30",
+  "script": "trinta"
+ },
+ {
+  "kind": "insert",
+  "start": 32.96,
+  "end": 33.01,
+  "asr": "",
+  "script": "o"
+ },
+ {
+  "kind": "replace",
+  "start": 33.2,
+  "end": 33.44,
+  "asr": "só 8",
+  "script": "oito"
+ },
+ {
+  "kind": "replace",
+  "start": 33.48,
+  "end": 33.74,
+  "asr": "50,",
+  "script": "cinquenta,"
+ },
+ {
+  "kind": "replace",
+  "start": 36.38,
+  "end": 37.32,
+  "asr": "212 GB",
+  "script": "duzentos e doze gigas"
+ },
+ {
+  "kind": "replace",
+  "start": 41.14,
+  "end": 41.46,
+  "asr": "meia noite",
+  "script": "meia-noite"
+ },
+ {
+  "kind": "replace",
+  "start": 41.76,
+  "end": 42.2,
+  "asr": "19.",
+  "script": "dezenove."
+ },
+ {
+  "kind": "insert",
+  "start": 46.2,
+  "end": 46.25,
+  "asr": "",
+  "script": "o"
+ },
+ {
+  "kind": "replace",
+  "start": 46.42,
+  "end": 46.78,
+  "asr": "5",
+  "script": "cinco"
+ },
+ {
+  "kind": "replace",
+  "start": 47.86,
+  "end": 48.36,
+  "asr": "2013,",
+  "script": "dois mil e treze,"
+ },
+ {
+  "kind": "replace",
+  "start": 49.82,
+  "end": 51.6,
+  "asr": "18 GB. 18 GB.",
+  "script": "dezoito gigas. Dezoito."
+ },
+ {
+  "kind": "insert",
+  "start": 53.86,
+  "end": 53.91,
+  "asr": "",
+  "script": "de"
+ },
+ {
+  "kind": "replace",
+  "start": 56.22,
+  "end": 56.58,
+  "asr": "4",
+  "script": "quatro"
+ },
+ {
+  "kind": "replace",
+  "start": 57.3,
+  "end": 57.54,
+  "asr": "para a",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 58.96,
+  "end": 59.4,
+  "asr": "3",
+  "script": "três"
+ },
+ {
+  "kind": "replace",
+  "start": 63.4,
+  "end": 63.5,
+  "asr": "para",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 64.4,
+  "end": 64.8,
+  "asr": "Seria com",
+  "script": "Você liga"
+ },
+ {
+  "kind": "replace",
+  "start": 65.22,
+  "end": 65.42,
+  "asr": "para",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 65.9,
+  "end": 66.32,
+  "asr": "6",
+  "script": "seis"
+ },
+ {
+  "kind": "replace",
+  "start": 66.66,
+  "end": 66.74,
+  "asr": "dar",
+  "script": "dá"
+ },
+ {
+  "kind": "replace",
+  "start": 67.22,
+  "end": 68.12,
+  "asr": "212 GB.",
+  "script": "duzentos e doze gigas."
+ },
+ {
+  "kind": "replace",
+  "start": 80.58,
+  "end": 80.84,
+  "asr": "fio,",
+  "script": "filho"
+ },
+ {
+  "kind": "replace",
+  "start": 84.28,
+  "end": 84.72,
+  "asr": "reparar",
+  "script": "separar"
+ },
+ {
+  "kind": "replace",
+  "start": 87.5,
+  "end": 88.02,
+  "asr": "costumou",
+  "script": "acostumou"
+ },
+ {
+  "kind": "replace",
+  "start": 88.36,
+  "end": 89.78,
+  "asr": "abaixar 200 GB para",
+  "script": "a baixar duzentos gigas pra"
+ },
+ {
+  "kind": "replace",
+  "start": 90.18,
+  "end": 90.44,
+  "asr": "3",
+  "script": "três"
+ },
+ {
+  "kind": "replace",
+  "start": 98.18,
+  "end": 98.54,
+  "asr": "6,",
+  "script": "seis,"
+ },
+ {
+  "kind": "replace",
+  "start": 100.94,
+  "end": 101.08,
+  "asr": "está",
+  "script": "tá"
+ },
+ {
+  "kind": "replace",
+  "start": 101.34,
+  "end": 102.68,
+  "asr": "212 GB para",
+  "script": "duzentos e doze gigas pra"
+ },
+ {
+  "kind": "replace",
+  "start": 104.9,
+  "end": 105.06,
+  "asr": "está",
+  "script": "tá"
+ },
+ {
+  "kind": "replace",
+  "start": 105.32,
+  "end": 105.56,
+  "asr": "para",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 110.96,
+  "end": 111.88,
+  "asr": "99 %",
+  "script": "noventa e nove por cento"
+ },
+ {
+  "kind": "replace",
+  "start": 112.84,
+  "end": 113.3,
+  "asr": "a Pachada",
+  "script": "fachada"
+ },
+ {
+  "kind": "replace",
+  "start": 115.08,
+  "end": 115.22,
+  "asr": "no",
+  "script": "num"
+ },
+ {
+  "kind": "replace",
+  "start": 115.72,
+  "end": 115.96,
+  "asr": "30",
+  "script": "trinta"
+ },
+ {
+  "kind": "replace",
+  "start": 117.1,
+  "end": 117.88,
+  "asr": "cachote ouco",
+  "script": "caixote oco"
+ },
+ {
+  "kind": "replace",
+  "start": 121.44,
+  "end": 121.58,
+  "asr": "está",
+  "script": "tá"
+ },
+ {
+  "kind": "replace",
+  "start": 122.18,
+  "end": 123.3,
+  "asr": "212 GB",
+  "script": "duzentos e doze gigas"
+ },
+ {
+  "kind": "replace",
+  "start": 125.58,
+  "end": 125.9,
+  "asr": "6",
+  "script": "seis"
+ },
+ {
+  "kind": "replace",
+  "start": 126.04,
+  "end": 126.34,
+  "asr": "30,",
+  "script": "trinta,"
+ },
+ {
+  "kind": "replace",
+  "start": 131.46,
+  "end": 131.6,
+  "asr": "no",
+  "script": "num"
+ },
+ {
+  "kind": "replace",
+  "start": 136.74,
+  "end": 136.94,
+  "asr": "6",
+  "script": "seis"
+ },
+ {
+  "kind": "replace",
+  "start": 137.08,
+  "end": 137.34,
+  "asr": "50.",
+  "script": "cinquenta,"
+ },
+ {
+  "kind": "replace",
+  "start": 143.18,
+  "end": 143.32,
+  "asr": "para",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 143.9,
+  "end": 144.12,
+  "asr": "7",
+  "script": "sete"
+ },
+ {
+  "kind": "replace",
+  "start": 144.3,
+  "end": 144.48,
+  "asr": "20",
+  "script": "vinte,"
+ },
+ {
+  "kind": "replace",
+  "start": 152.3,
+  "end": 152.5,
+  "asr": "para o",
+  "script": "pro"
+ },
+ {
+  "kind": "replace",
+  "start": 152.76,
+  "end": 153.02,
+  "asr": "21",
+  "script": "vinte"
+ },
+ {
+  "kind": "replace",
+  "start": 153.22,
+  "end": 153.42,
+  "asr": "40.",
+  "script": "um e quarenta."
+ },
+ {
+  "kind": "replace",
+  "start": 155.34,
+  "end": 155.56,
+  "asr": "em um",
+  "script": "num"
+ },
+ {
+  "kind": "replace",
+  "start": 156.92,
+  "end": 157.06,
+  "asr": "no",
+  "script": "num"
+ },
+ {
+  "kind": "replace",
+  "start": 158.2,
+  "end": 158.44,
+  "asr": "ló na",
+  "script": "lona"
+ },
+ {
+  "kind": "replace",
+  "start": 161.38,
+  "end": 161.62,
+  "asr": "como",
+  "script": "com"
+ },
+ {
+  "kind": "replace",
+  "start": 166.52,
+  "end": 166.76,
+  "asr": "22",
+  "script": "vinte"
+ },
+ {
+  "kind": "replace",
+  "start": 167.1,
+  "end": 167.36,
+  "asr": "30.",
+  "script": "dois e trinta:"
+ },
+ {
+  "kind": "replace",
+  "start": 173.96,
+  "end": 174.22,
+  "asr": "carpet,",
+  "script": "carpete,"
+ },
+ {
+  "kind": "replace",
+  "start": 179.2,
+  "end": 179.44,
+  "asr": "GB.",
+  "script": "gigabytes."
+ },
+ {
+  "kind": "replace",
+  "start": 181.48,
+  "end": 181.72,
+  "asr": "para",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 183.92,
+  "end": 184.08,
+  "asr": "está",
+  "script": "tá"
+ },
+ {
+  "kind": "replace",
+  "start": 185.96,
+  "end": 186.04,
+  "asr": "está",
+  "script": "tá"
+ },
+ {
+  "kind": "delete",
+  "start": 186.4,
+  "end": 186.6,
+  "asr": "os",
+  "script": ""
+ },
+ {
+  "kind": "insert",
+  "start": 188.72,
+  "end": 188.77,
+  "asr": "",
+  "script": "o"
+ },
+ {
+  "kind": "replace",
+  "start": 190.18,
+  "end": 190.56,
+  "asr": "V,",
+  "script": "cinco,"
+ },
+ {
+  "kind": "replace",
+  "start": 195.82,
+  "end": 196.28,
+  "asr": "Tava para",
+  "script": "Dava pra"
+ },
+ {
+  "kind": "replace",
+  "start": 198.24,
+  "end": 198.68,
+  "asr": "10 km.",
+  "script": "dez quilômetros."
+ },
+ {
+  "kind": "replace",
+  "start": 204.42,
+  "end": 204.88,
+  "asr": "Vaisir",
+  "script": "Vice City"
+ },
+ {
+  "kind": "replace",
+  "start": 205.68,
+  "end": 206.14,
+  "asr": "para as pontos",
+  "script": "pras pontes"
+ },
+ {
+  "kind": "replace",
+  "start": 206.36,
+  "end": 207.16,
+  "asr": "Leonidaquis,",
+  "script": "Leonida Keys,"
+ },
+ {
+  "kind": "replace",
+  "start": 209.32,
+  "end": 209.92,
+  "asr": "de baixo d 'água.",
+  "script": "debaixo d'água."
+ },
+ {
+  "kind": "replace",
+  "start": 211.12,
+  "end": 211.62,
+  "asr": "ingresso rivers",
+  "script": "Grassrivers"
+ },
+ {
+  "kind": "replace",
+  "start": 213.14,
+  "end": 214.8,
+  "asr": "a panta no aralagado, veditação",
+  "script": "pântano alagado, vegetação"
+ },
+ {
+  "kind": "replace",
+  "start": 216.1,
+  "end": 216.4,
+  "asr": "barcos",
+  "script": "barco"
+ },
+ {
+  "kind": "replace",
+  "start": 218.06,
+  "end": 219.08,
+  "asr": "para a porte Gaelron",
+  "script": "pra Port Gellhorn"
+ },
+ {
+  "kind": "delete",
+  "start": 220.46,
+  "end": 220.56,
+  "asr": "a",
+  "script": ""
+ },
+ {
+  "kind": "replace",
+  "start": 222.54,
+  "end": 222.82,
+  "asr": "usino",
+  "script": "usina"
+ },
+ {
+  "kind": "replace",
+  "start": 225.66,
+  "end": 225.84,
+  "asr": "para o",
+  "script": "pro"
+ },
+ {
+  "kind": "replace",
+  "start": 226.54,
+  "end": 227.2,
+  "asr": "Maldicalaga,",
+  "script": "Mount Kalaga"
+ },
+ {
+  "kind": "replace",
+  "start": 233.7,
+  "end": 233.84,
+  "asr": "do",
+  "script": "no"
+ },
+ {
+  "kind": "replace",
+  "start": 234.08,
+  "end": 234.82,
+  "asr": "18 ,50",
+  "script": "dezoito e cinquenta"
+ },
+ {
+  "kind": "replace",
+  "start": 236.64,
+  "end": 237.12,
+  "asr": "luz se apula",
+  "script": "Lucia pula"
+ },
+ {
+  "kind": "replace",
+  "start": 239.48,
+  "end": 239.68,
+  "asr": "Bahia",
+  "script": "baía"
+ },
+ {
+  "kind": "replace",
+  "start": 240.8,
+  "end": 241.12,
+  "asr": "pontos,",
+  "script": "pontes,"
+ },
+ {
+  "kind": "replace",
+  "start": 246.26,
+  "end": 246.64,
+  "asr": "nebina",
+  "script": "neblina"
+ },
+ {
+  "kind": "replace",
+  "start": 247.1,
+  "end": 247.28,
+  "asr": "para",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 250.54,
+  "end": 251.28,
+  "asr": "212",
+  "script": "duzentos e doze"
+ },
+ {
+  "kind": "delete",
+  "start": 255.08,
+  "end": 255.28,
+  "asr": "A",
+  "script": ""
+ },
+ {
+  "kind": "replace",
+  "start": 256.5,
+  "end": 256.92,
+  "asr": "péssima",
+  "script": "pesa uma"
+ },
+ {
+  "kind": "replace",
+  "start": 261.1,
+  "end": 261.34,
+  "asr": "diante,",
+  "script": "Justice,"
+ },
+ {
+  "kind": "replace",
+  "start": 270.1,
+  "end": 270.44,
+  "asr": "10",
+  "script": "dez"
+ },
+ {
+  "kind": "replace",
+  "start": 273.06,
+  "end": 273.68,
+  "asr": "18 ,30.",
+  "script": "dezoito e trinta."
+ },
+ {
+  "kind": "insert",
+  "start": 276.84,
+  "end": 276.89,
+  "asr": "",
+  "script": "trigêmeos"
+ },
+ {
+  "kind": "delete",
+  "start": 282.24,
+  "end": 282.36,
+  "asr": "um",
+  "script": ""
+ },
+ {
+  "kind": "replace",
+  "start": 289.6,
+  "end": 289.82,
+  "asr": "para",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 290.6,
+  "end": 291.2,
+  "asr": "milisegundos.",
+  "script": "milissegundos."
+ },
+ {
+  "kind": "replace",
+  "start": 294.32,
+  "end": 295.12,
+  "asr": "6 ,30",
+  "script": "seis e trinta"
+ },
+ {
+  "kind": "replace",
+  "start": 295.54,
+  "end": 296.28,
+  "asr": "8 ,50",
+  "script": "oito e cinquenta"
+ },
+ {
+  "kind": "replace",
+  "start": 300.1,
+  "end": 300.86,
+  "asr": "6 ,30",
+  "script": "seis e trinta"
+ },
+ {
+  "kind": "replace",
+  "start": 301.48,
+  "end": 302.26,
+  "asr": "8 ,50",
+  "script": "oito e cinquenta"
+ },
+ {
+  "kind": "replace",
+  "start": 304.04,
+  "end": 304.32,
+  "asr": "está",
+  "script": "tá"
+ },
+ {
+  "kind": "replace",
+  "start": 308.68,
+  "end": 308.98,
+  "asr": "para o parte",
+  "script": "pro pátio"
+ },
+ {
+  "kind": "replace",
+  "start": 310.36,
+  "end": 310.82,
+  "asr": "convencível",
+  "script": "conversível"
+ },
+ {
+  "kind": "replace",
+  "start": 316.18,
+  "end": 316.46,
+  "asr": "Para",
+  "script": "Pra"
+ },
+ {
+  "kind": "replace",
+  "start": 317.0,
+  "end": 317.22,
+  "asr": "do",
+  "script": "de um"
+ },
+ {
+  "kind": "replace",
+  "start": 320.02,
+  "end": 320.28,
+  "asr": "60",
+  "script": "sessenta"
+ },
+ {
+  "kind": "replace",
+  "start": 325.24,
+  "end": 325.98,
+  "asr": "100 %",
+  "script": "cem por cento"
+ },
+ {
+  "kind": "replace",
+  "start": 329.86,
+  "end": 330.96,
+  "asr": "212gb",
+  "script": "duzentos e doze gigas"
+ },
+ {
+  "kind": "replace",
+  "start": 331.38,
+  "end": 331.8,
+  "asr": "gasgar.",
+  "script": "engasgar."
+ },
+ {
+  "kind": "replace",
+  "start": 333.62,
+  "end": 333.78,
+  "asr": "vozes",
+  "script": "duas"
+ },
+ {
+  "kind": "replace",
+  "start": 336.9,
+  "end": 337.22,
+  "asr": "19.",
+  "script": "dezenove:"
+ },
+ {
+  "kind": "replace",
+  "start": 340.8,
+  "end": 342.42,
+  "asr": "212gb no",
+  "script": "duzentos e doze gigas num"
+ },
+ {
+  "kind": "replace",
+  "start": 343.5,
+  "end": 344.28,
+  "asr": "para",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 345.16,
+  "end": 346.6,
+  "asr": "Na PS5",
+  "script": "No PlayStation cinco"
+ },
+ {
+  "kind": "replace",
+  "start": 348.2,
+  "end": 348.46,
+  "asr": "o SSD",
+  "script": "disco USB"
+ },
+ {
+  "kind": "replace",
+  "start": 350.36,
+  "end": 350.9,
+  "asr": "para o",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 353.32,
+  "end": 353.66,
+  "asr": "vai chalar",
+  "script": "baixar lá"
+ },
+ {
+  "kind": "replace",
+  "start": 354.62,
+  "end": 354.98,
+  "asr": "meia -noite",
+  "script": "meia-noite"
+ },
+ {
+  "kind": "replace",
+  "start": 355.24,
+  "end": 355.54,
+  "asr": "19,",
+  "script": "dezenove"
+ },
+ {
+  "kind": "replace",
+  "start": 360.34,
+  "end": 361.36,
+  "asr": "212gb",
+  "script": "duzentos e doze gigas"
+ },
+ {
+  "kind": "replace",
+  "start": 362.02,
+  "end": 362.32,
+  "asr": "para o",
+  "script": "pro"
+ },
+ {
+  "kind": "replace",
+  "start": 364.24,
+  "end": 364.34,
+  "asr": "está",
+  "script": "tá"
+ },
+ {
+  "kind": "replace",
+  "start": 368.94,
+  "end": 369.84,
+  "asr": "212gb",
+  "script": "duzentos e doze gigas"
+ },
+ {
+  "kind": "replace",
+  "start": 373.76,
+  "end": 374.44,
+  "asr": "jogou de estravar",
+  "script": "o jogo destravar"
+ },
+ {
+  "kind": "replace",
+  "start": 374.7,
+  "end": 375.04,
+  "asr": "19,",
+  "script": "dezenove,"
+ },
+ {
+  "kind": "replace",
+  "start": 377.18,
+  "end": 377.38,
+  "asr": "para",
+  "script": "pra"
+ },
+ {
+  "kind": "replace",
+  "start": 380.0,
+  "end": 380.38,
+  "asr": "pacosco",
+  "script": "pacote"
+ },
+ {
+  "kind": "replace",
+  "start": 383.52,
+  "end": 384.08,
+  "asr": "25",
+  "script": "vinte e cinco"
+ },
+ {
+  "kind": "replace",
+  "start": 384.36,
+  "end": 384.96,
+  "asr": "30gb",
+  "script": "trinta gigas"
+ },
+ {
+  "kind": "replace",
+  "start": 385.66,
+  "end": 386.08,
+  "asr": "preloj,",
+  "script": "pré-load"
+ },
+ {
+  "kind": "replace",
+  "start": 388.62,
+  "end": 391.43,
+  "asr": "meia -noite. Arroma",
+  "script": "meia-noite. Arruma"
+ },
+ {
+  "kind": "replace",
+  "start": 402.91,
+  "end": 403.91,
+  "asr": "1150",
+  "script": "onze e cinquenta"
+ },
+ {
+  "kind": "replace",
+  "start": 407.09,
+  "end": 407.31,
+  "asr": "6",
+  "script": "seis"
+ },
+ {
+  "kind": "replace",
+  "start": 408.97,
+  "end": 409.31,
+  "asr": "outro que",
+  "script": "o truque"
+ },
+ {
+  "kind": "replace",
+  "start": 411.47,
+  "end": 411.73,
+  "asr": "para a",
+  "script": "pra"
+ }
+]

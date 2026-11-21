@@ -1,0 +1,893 @@
+{
+ "id": "DIA_03_2026-11-11",
+ "titulo": "6 Estrelas Voltaram: A Polícia do GTA 6 Não Esquece",
+ "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+ "pasta_fontes": "videosGTAVI",
+ "midias": {
+  "EXT": "GTAVI_An_Extended_Look.mp4",
+  "T1": "GTAVI_Trailer_1.mp4",
+  "T2": "GTAVI_Trailer_2.mp4",
+  "LT": "GTAVI_Launch_Trailer.mp4",
+  "COVER": "GTAVI_Videos/GTAVI_Official_Cover_Art_Landscape.mp4",
+  "GTAV": "GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4"
+ },
+ "rotulos_obrigatorios": {
+  "GTAV": "GTA V"
+ },
+ "correcoes_legenda": {},
+ "formatos": {
+  "longo": {
+   "stem": "DIA03_Master_4K",
+   "resolucao": [
+    3840,
+    2160
+   ],
+   "fps": 30,
+   "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/audio/narracao_normalizada.wav",
+   "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/audio/palavras_alinhadas.json",
+   "planos": [
+    {
+     "midia": "EXT",
+     "inicio": 706.0,
+     "corte": [
+      0.0,
+      2.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 708.3,
+     "corte": [
+      2.3,
+      6.2
+     ],
+     "tipo": "data",
+     "titulo": "6 ESTRELAS",
+     "detalhe": "Medidor no topo direito • 11:50"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1088.5,
+     "corte": [
+      6.2,
+      11.5
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 189.0,
+     "corte": [
+      11.5,
+      19.3
+     ],
+     "tipo": "editorial",
+     "titulo": "GTA V • 5 ESTRELAS",
+     "detalhe": "O teto desde 2013"
+    },
+    {
+     "midia": "COVER",
+     "inicio": 24.0,
+     "corte": [
+      19.3,
+      23.4
+     ],
+     "tipo": "data",
+     "titulo": "8 DIAS",
+     "detalhe": "Lançamento: 19 de novembro"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1037.0,
+     "corte": [
+      23.4,
+      28.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 906.0,
+     "corte": [
+      28.3,
+      36.7
+     ],
+     "tipo": "tag",
+     "titulo": "16:00 ESTACIONAMENTO",
+     "detalhe": ""
+    },
+    {
+     "midia": "GTAVI_Screenshots/People/Jason Duval/Jason_Duval_07.jpg",
+     "inicio": 0,
+     "corte": [
+      36.7,
+      43.6
+     ],
+     "tipo": "data",
+     "titulo": "20 SEGUNDOS",
+     "detalhe": "A manobra do minuto 16"
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 154.9,
+     "corte": [
+      43.6,
+      48.6
+     ],
+     "tipo": "editorial",
+     "titulo": "GTA V • 2013",
+     "detalhe": "Dois problemas mentais"
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 145.0,
+     "corte": [
+      48.6,
+      58.4
+     ],
+     "tipo": "editorial",
+     "titulo": "GTA V • POLÍCIA VIDENTE",
+     "detalhe": "Viatura brota do nada"
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 266.3,
+     "corte": [
+      58.4,
+      60.9
+     ],
+     "tipo": "editorial",
+     "titulo": "GTA V • AMNÉSIA",
+     "detalhe": "Esperar um minuto e fim"
+    },
+    {
+     "midia": "T2",
+     "inicio": 119.4,
+     "corte": [
+      60.9,
+      68.7
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 80.0,
+     "corte": [
+      68.7,
+      73.2
+     ],
+     "tipo": "tag",
+     "titulo": "GTA VI",
+     "detalhe": "A Rockstar consertou"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 694.8,
+     "corte": [
+      73.2,
+      78.0
+     ],
+     "tipo": "tag",
+     "titulo": "LOJA DE CONVENIÊNCIA",
+     "detalhe": "Assalto do gameplay oficial"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 690.0,
+     "corte": [
+      78.0,
+      82.0
+     ],
+     "tipo": "tag",
+     "titulo": "MINUTO 11:30",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 717.6,
+     "corte": [
+      82.0,
+      85.7
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 721.3,
+     "corte": [
+      85.7,
+      90.5
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 47.0,
+     "corte": [
+      90.5,
+      96.2
+     ],
+     "tipo": "tag",
+     "titulo": "ALARME SILENCIOSO",
+     "detalhe": "Uma estrela"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 726.1,
+     "corte": [
+      96.2,
+      103.5
+     ],
+     "tipo": "tag",
+     "titulo": "MINUTO 12:00",
+     "detalhe": "Limpar o caixa"
+    },
+    {
+     "midia": "T2",
+     "inicio": 105.0,
+     "corte": [
+      103.5,
+      107.2
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T2",
+     "inicio": 108.7,
+     "corte": [
+      107.2,
+      111.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 840.0,
+     "corte": [
+      111.3,
+      117.4
+     ],
+     "tipo": "tag",
+     "titulo": "MINUTO 14:00",
+     "detalhe": "Perseguição e tiroteio"
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 197.0,
+     "corte": [
+      117.4,
+      122.4
+     ],
+     "tipo": "editorial",
+     "titulo": "GTA V • 2013",
+     "detalhe": "Perseguição à moda antiga"
+    },
+    {
+     "midia": "T2",
+     "inicio": 146.9,
+     "corte": [
+      122.4,
+      128.1
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 846.1,
+     "corte": [
+      128.1,
+      131.4
+     ],
+     "tipo": "tag",
+     "titulo": "MINUTO 14:10",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 849.5,
+     "corte": [
+      131.4,
+      139.9
+     ],
+     "tipo": "editorial",
+     "titulo": "INDICADORES VERMELHOS",
+     "detalhe": "Piscando sob o medidor"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 858.0,
+     "corte": [
+      139.9,
+      148.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 866.4,
+     "corte": [
+      148.3,
+      154.8
+     ],
+     "tipo": "tag",
+     "titulo": "MINUTO 15:30",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 887.7,
+     "corte": [
+      154.8,
+      161.0
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 943.6,
+     "corte": [
+      161.0,
+      166.4
+     ],
+     "tipo": "editorial",
+     "titulo": "CRUZAMENTO TRANCADO",
+     "detalhe": "Patrulhas + helicóptero • 15:50"
+    },
+    {
+     "midia": "T1",
+     "inicio": 61.2,
+     "corte": [
+      166.4,
+      172.2
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1114.5,
+     "corte": [
+      172.2,
+      181.9
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1124.2,
+     "corte": [
+      181.9,
+      184.4
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "GTAVI_Screenshots/Places/Grassrivers/Grassrivers_04.jpg",
+     "inicio": 0,
+     "corte": [
+      184.4,
+      190.0
+     ],
+     "tipo": "tag",
+     "titulo": "GRASSRIVERS",
+     "detalhe": "Captura oficial da polícia"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1030.0,
+     "corte": [
+      190.0,
+      197.0
+     ],
+     "tipo": "editorial",
+     "titulo": "PÂNTANO NÃO É ESCAPE",
+     "detalhe": "A viatura entra na lama"
+    },
+    {
+     "midia": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_09.jpg",
+     "inicio": 0,
+     "corte": [
+      197.0,
+      205.8
+     ],
+     "tipo": "tag",
+     "titulo": "QUADRICICLO",
+     "detalhe": "Helicóptero na altura das árvores"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1126.7,
+     "corte": [
+      205.8,
+      211.0
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 872.9,
+     "corte": [
+      211.0,
+      216.5
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 67.0,
+     "corte": [
+      216.5,
+      223.9
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T2",
+     "inicio": 112.8,
+     "corte": [
+      223.9,
+      230.5
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 930.7,
+     "corte": [
+      230.5,
+      241.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 918.0,
+     "corte": [
+      241.3,
+      247.2
+     ],
+     "tipo": "tag",
+     "titulo": "RÁDIO DA POLÍCIA",
+     "detalhe": "Modelo, cor e direção"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1076.0,
+     "corte": [
+      247.2,
+      254.7
+     ],
+     "tipo": "editorial",
+     "titulo": "OFICINA NÃO RESOLVE",
+     "detalhe": "Com viatura na cola"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 992.0,
+     "corte": [
+      254.7,
+      258.7
+     ],
+     "tipo": "tag",
+     "titulo": "VISÃO AÉREA",
+     "detalhe": "Quebre o 1º ponto"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1002.6,
+     "corte": [
+      258.7,
+      265.3
+     ],
+     "tipo": "tag",
+     "titulo": "FICHA DO VEÍCULO",
+     "detalhe": "Quebre o 2º ponto"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1009.2,
+     "corte": [
+      265.3,
+      272.4
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 878.4,
+     "corte": [
+      272.4,
+      276.4
+     ],
+     "tipo": "tag",
+     "titulo": "15:50 SEDÃ BALEADO",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 882.4,
+     "corte": [
+      276.4,
+      281.7
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 924.0,
+     "corte": [
+      281.7,
+      288.4
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 951.0,
+     "corte": [
+      288.4,
+      291.9
+     ],
+     "tipo": "tag",
+     "titulo": "16:00 GARAGEM",
+     "detalhe": "Teto de concreto"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 954.5,
+     "corte": [
+      291.9,
+      297.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 959.9,
+     "corte": [
+      297.3,
+      312.1
+     ],
+     "tipo": "tag",
+     "titulo": "16:10 TROCA DE CARRO",
+     "detalhe": "Van limpa"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 974.7,
+     "corte": [
+      312.1,
+      319.5
+     ],
+     "tipo": "tag",
+     "titulo": "16:30 VAN LIMPA",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 982.1,
+     "corte": [
+      319.5,
+      326.4
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1602.5,
+     "corte": [
+      326.4,
+      331.7
+     ],
+     "tipo": "data",
+     "titulo": "19 DE NOV",
+     "detalhe": "Guarde essa regra"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1016.5,
+     "corte": [
+      331.7,
+      336.2
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 540.0,
+     "corte": [
+      336.2,
+      340.9
+     ],
+     "tipo": "editorial",
+     "titulo": "SEM CÉU, SEM CAÇA",
+     "detalhe": "Garagem, estacionamento, viaduto"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1021.0,
+     "corte": [
+      340.9,
+      345.8
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 52.7,
+     "corte": [
+      345.8,
+      349.5
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 56.4,
+     "corte": [
+      349.5,
+      354.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 545.0,
+     "corte": [
+      354.3,
+      360.8
+     ],
+     "tipo": "tag",
+     "titulo": "AMANHÃ • 12/11",
+     "detalhe": "A IA doentia dos civis"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 553.0,
+     "corte": [
+      360.8,
+      364.0
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 562.0,
+     "corte": [
+      364.0,
+      368.8
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "GTAVI_Screenshots/Places/Grassrivers/Grassrivers_06.jpg",
+     "inicio": 0,
+     "corte": [
+      368.8,
+      373.08
+     ],
+     "tipo": "tag",
+     "titulo": "INSCREVA-SE",
+     "detalhe": "Episódio 4 amanhã"
+    }
+   ]
+  }
+ },
+ "publicacao": {
+  "canais": {
+   "youtube": "cmvsctfgl0001jncj932ovibv",
+   "facebook": "cmvzyur290001pddwolrt33em",
+   "instagram": "cmvzyw7vj0003pddwkgtivv8i"
+  },
+  "data_padrao": "2026-11-11T22:30:00.000Z",
+  "estado": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/publicacao/POSTIZ_ESTADO.json",
+  "pasta_envio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/publicacao",
+  "tags_youtube": [
+   "GTA 6",
+   "GTA VI",
+   "GTA 6 polícia",
+   "GTA 6 6 estrelas",
+   "GTA 6 nível de procurado",
+   "GTA 6 wanted level",
+   "GTA 6 como fugir da polícia",
+   "GTA 6 perseguição",
+   "GTA 6 gameplay",
+   "GTA 6 Leonida",
+   "GTA 6 Lucia Jason",
+   "GTA 6 helicóptero",
+   "GTA 6 garagem",
+   "Rockstar Games",
+   "GTA 6 lançamento 19 de novembro",
+   "GTA 6 análise",
+   "Pixel Procurado"
+  ],
+  "youtube_visibilidade": "public",
+  "textos": {
+   "longo": "O nível 6 de procurado voltou no GTA 6? Neste episódio do Pixel Procurado, analisamos o gameplay oficial (An Extended Look) minuto a minuto: o medidor de 6 estrelas no minuto 11:50, o assalto à loja de conveniência, a perseguição em pinça com 3 estrelas e a manobra do minuto 16, em que o grupo corta a visão do helicóptero numa garagem coberta e troca de carro. No fim, a regra para guardar para o dia 19 de novembro.\n\nAnálise das imagens do gameplay oficial: o que aparece no vídeo é fato oficial; a leitura de como o sistema de busca funciona é interpretação editorial, sem teste jogável próprio. Trechos de GTA V (2013) aparecem identificados para comparação.\n\nFontes oficiais:\nRockstar — An Extended Look: https://www.rockstargames.com/VI/an-extended-look\nRockstar — GTA VI: https://www.rockstargames.com/VI\n\nLançamento: 19 de novembro de 2026 (PS5 e Xbox Series).\n\nPróximo vídeo da série de aquecimento: a inteligência artificial dos civis de Leonida. Inscreva-se para não perder.\n\n#GTA6 #GTAVI #PixelProcurado\n\nCapítulos:\n00:00 6 estrelas no topo da tela\n00:44 A polícia vidente e amnésica do GTA V\n01:13 Assalto à conveniência: a primeira estrela\n01:51 Perseguição de 3 estrelas em pinça\n02:52 Fugir pro pântano? Esqueça\n03:44 O erro que derruba quase todo mundo\n04:25 A aula de fuga do minuto 16\n05:46 Próximo episódio\n\nCapa A: montagem editorial com arte gerada por IA; não é captura do jogo.",
+   "meta_longo": "O nível 6 de procurado voltou no GTA 6? Neste episódio do Pixel Procurado, analisamos o gameplay oficial (An Extended Look) minuto a minuto: o medidor de 6 estrelas no minuto 11:50, o assalto à loja de conveniência, a perseguição em pinça com 3 estrelas e a manobra do minuto 16, em que o grupo corta a visão do helicóptero numa garagem coberta e troca de carro. No fim, a regra para guardar para o dia 19 de novembro.\n\nAnálise das imagens do gameplay oficial: o que aparece no vídeo é fato oficial; a leitura de como o sistema de busca funciona é interpretação editorial, sem teste jogável próprio. Trechos de GTA V (2013) aparecem identificados para comparação.\n\n#GTA6 #GTAVI #PixelProcurado",
+   "short": "6 estrelas de procurado no GTA 6 e a manobra da garagem coberta que corta a visão do helicóptero. Análise do gameplay oficial. Lançamento: 19/11/2026. #GTA6 #GTAVI #PixelProcurado",
+   "story": "GTA 6: as 6 estrelas voltaram e a polícia não esquece. Vídeo completo no canal. #GTA6 #GTAVI #PixelProcurado",
+   "carrossel": "As 6 estrelas de procurado do GTA 6: assalto, perseguição em pinça, helicóptero e a garagem coberta. Análise do gameplay oficial (vídeo completo no canal). #GTA6 #GTAVI #PixelProcurado"
+  },
+  "pecas": [
+   {
+    "chave": "youtube_longo",
+    "rede": "youtube",
+    "tipo": "post",
+    "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/exportacoes/DIA03_Master_4K_YT.mp4",
+    "texto": "longo",
+    "titulo": "6 Estrelas Voltaram: A Polícia do GTA 6 Não Esquece",
+    "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/thumbnail_A/capa_youtube.jpg"
+   },
+   {
+    "chave": "youtube_short",
+    "rede": "youtube",
+    "tipo": "post",
+    "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/_reel/exportacoes/DIA03_Reel_Short_final.mp4",
+    "texto": "short",
+    "titulo": "GTA 6: 6 estrelas e a manobra da garagem #shorts",
+    "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/thumbnail_vertical/capa_youtube.jpg"
+   },
+   {
+    "chave": "facebook_integral",
+    "rede": "facebook",
+    "tipo": "post",
+    "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/exportacoes/DIA03_Master_4K_YT.mp4",
+    "texto": "meta_longo",
+    "titulo": "6 Estrelas Voltaram: A Polícia do GTA 6 Não Esquece"
+   },
+   {
+    "chave": "facebook_curto",
+    "rede": "facebook",
+    "tipo": "post",
+    "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/_reel/exportacoes/DIA03_Reel_Short_final.mp4",
+    "texto": "short",
+    "titulo": "GTA 6: 6 estrelas e a manobra da garagem #shorts"
+   },
+   {
+    "chave": "facebook_story",
+    "rede": "facebook",
+    "tipo": "story",
+    "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/_story/exportacoes/DIA03_Story_final.mp4",
+    "texto": "story"
+   },
+   {
+    "chave": "facebook_multifoto",
+    "rede": "facebook",
+    "tipo": "post",
+    "midia": [
+     "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/social/carrossel_01.jpg",
+     "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/social/carrossel_02.jpg",
+     "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/social/carrossel_03.jpg",
+     "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/social/carrossel_04.jpg"
+    ],
+    "texto": "carrossel"
+   },
+   {
+    "chave": "instagram_integral",
+    "rede": "instagram",
+    "tipo": "post",
+    "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/_vertical/exportacoes/DIA03_Instagram_Integral_ig300.mp4",
+    "texto": "meta_longo",
+    "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/thumbnail_vertical/capa_youtube.jpg"
+   },
+   {
+    "chave": "instagram_reel",
+    "rede": "instagram",
+    "tipo": "post",
+    "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/_reel/exportacoes/DIA03_Reel_Short_final.mp4",
+    "texto": "short",
+    "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/thumbnail_vertical/capa_youtube.jpg"
+   },
+   {
+    "chave": "instagram_story",
+    "rede": "instagram",
+    "tipo": "story",
+    "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/_story/exportacoes/DIA03_Story_final.mp4",
+    "texto": "story"
+   },
+   {
+    "chave": "instagram_carrossel",
+    "rede": "instagram",
+    "tipo": "post",
+    "midia": [
+     "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/social/carrossel_01.jpg",
+     "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/social/carrossel_02.jpg",
+     "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/social/carrossel_03.jpg",
+     "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/social/carrossel_04.jpg"
+    ],
+    "texto": "carrossel"
+   }
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-08T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "O aluguel grátis de Jason tem preço. Confira a análise completa no canal Pixel Procurado! #GTA6",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/93e683bbc62e40b28a3cb511e8a1a71c.png"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "story"
+      }
+    }
+  ]
+}

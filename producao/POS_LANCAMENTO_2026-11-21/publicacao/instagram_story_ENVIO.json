@@ -1,0 +1,30 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-21T16:59:23.698736+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "GTA 6: teoria × realidade. Vídeo novo no ar 🔥",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/a58f94bddaf844b1930a8dc4ea83b583.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "story"
+      }
+    }
+  ]
+}

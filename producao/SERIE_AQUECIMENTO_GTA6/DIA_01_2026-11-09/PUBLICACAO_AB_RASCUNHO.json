@@ -1,0 +1,40 @@
+{
+  "status": "rascunho_para_QA",
+  "data_publicacao": "2026-11-10",
+  "titulos_ab": [
+    {
+      "variante": "A",
+      "titulo": "GTA 6: esqueça o jeito de jogar GTA 5 — o gameplay mudou tudo",
+      "thumbnail": "ESQUECE O GTA 5",
+      "hipotese": "Contraste entre hábitos de GTA V e interações observadas no gameplay."
+    },
+    {
+      "variante": "B",
+      "titulo": "GTA 6: esse botão muda sua fuga | Análise do gameplay oficial",
+      "thumbnail": "QUAL BOTÃO?",
+      "hipotese": "Curiosidade sobre a escolha exibida no HUD do carro vermelho."
+    }
+  ],
+  "descricao": "Esquece a bazuca na cueca. O gameplay oficial de GTA VI mostra interações no prédio, armas recolhidas no chão, combate em corredores e duas opções na porta do carro vermelho. Neste episódio do Pixel Procurado, analisamos o que essas imagens sugerem para quem vem de GTA V.\n\nAnálise das imagens do gameplay oficial: as conclusões editoriais sobre comportamento, dificuldade e consequências são interpretações do vídeo, sem teste jogável próprio.\n\nFontes oficiais:\nRockstar — An Extended Look: https://www.rockstargames.com/VI/an-extended-look\nRockstar Support — pré-load e lançamento: https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s?pubDate=20261107\n\nPré-load: 10 de novembro. Lançamento: 19 de novembro de 2026. Os 212 GB e as condições de instalação seguem as informações oficiais consultadas na produção; consulte as orientações da sua plataforma.\n\nInscreva-se para acompanhar a série de aquecimento do GTA 6.\n\n#GTA6 #GTAVI #PixelProcurado",
+  "tags": [
+    "GTA 6",
+    "GTA VI",
+    "GTA 6 gameplay",
+    "GTA 6 gameplay oficial",
+    "GTA 6 análise",
+    "GTA VI português",
+    "GTA 6 Jason Lucia",
+    "Leonida",
+    "Rockstar Games",
+    "GTA 6 preload",
+    "GTA 6 212 GB",
+    "Pixel Procurado"
+  ],
+  "comentario_fixado": "Na porta do carro vermelho: você iria de Smash Window ou Slim Jim? Aqui é análise das imagens oficiais — comenta qual detalhe do gameplay mais mudou sua expectativa.",
+  "capitulos": "GERAR_APOS_ALINHAMENTO",
+  "observacoes": [
+    "Um único upload por peça: variante B não é segundo vídeo. Teste A/B de título/capa depende das capacidades verificadas da plataforma.",
+    "Publicação bloqueada até revisão independente final aprovada.",
+    "Não inventar capítulos antes do áudio/alinhamento final."
+  ]
+}

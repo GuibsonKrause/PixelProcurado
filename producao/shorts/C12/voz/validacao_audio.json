@@ -1,0 +1,50 @@
+{
+  "narracao_original.wav": {
+    "duration": 84.16,
+    "rate": 24000,
+    "channels": 1,
+    "sample_width": 2,
+    "loudness": {
+      "input_i": "-20.32",
+      "input_tp": "-1.07",
+      "input_lra": "4.00",
+      "input_thresh": "-31.56",
+      "output_i": "-17.28",
+      "output_tp": "-1.50",
+      "output_lra": "3.50",
+      "output_thresh": "-28.50",
+      "normalization_type": "dynamic",
+      "target_offset": "1.28"
+    },
+    "silences_over_1_5s": [
+      "[silencedetect @ 00000175e2e91540] silence_start: 15.159",
+      "[silencedetect @ 00000175e2e91540] silence_end: 16.764333 | silence_duration: 1.605333",
+      "[silencedetect @ 00000175e2e91540] silence_start: 42.268417",
+      "[silencedetect @ 00000175e2e91540] silence_end: 43.801708 | silence_duration: 1.533292"
+    ]
+  },
+  "narracao.wav": {
+    "duration": 84.16,
+    "rate": 48000,
+    "channels": 1,
+    "sample_width": 2,
+    "loudness": {
+      "input_i": "-16.82",
+      "input_tp": "-1.49",
+      "input_lra": "3.50",
+      "input_thresh": "-28.01",
+      "output_i": "-16.36",
+      "output_tp": "-1.50",
+      "output_lra": "3.60",
+      "output_thresh": "-27.54",
+      "normalization_type": "dynamic",
+      "target_offset": "0.36"
+    },
+    "silences_over_1_5s": [
+      "[silencedetect @ 000002b7cdd4ff80] silence_start: 15.184208",
+      "[silencedetect @ 000002b7cdd4ff80] silence_end: 16.763312 | silence_duration: 1.579104",
+      "[silencedetect @ 000002b7cdd4ff80] silence_start: 42.287229",
+      "[silencedetect @ 000002b7cdd4ff80] silence_end: 43.8015 | silence_duration: 1.514271"
+    ]
+  }
+}

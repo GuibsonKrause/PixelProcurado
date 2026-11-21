@@ -1,0 +1,797 @@
+[
+  {
+    "kind": "replace",
+    "start": 3.82,
+    "end": 4.14,
+    "asr": "6",
+    "script": "seis,",
+    "asr_indices": [
+      10,
+      11
+    ],
+    "script_indices": [
+      10,
+      11
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 15.12,
+    "end": 15.4,
+    "asr": "6",
+    "script": "seis",
+    "asr_indices": [
+      41,
+      42
+    ],
+    "script_indices": [
+      41,
+      42
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 16.52,
+    "end": 16.74,
+    "asr": "3",
+    "script": "três",
+    "asr_indices": [
+      45,
+      46
+    ],
+    "script_indices": [
+      45,
+      46
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 26.92,
+    "end": 27.3,
+    "asr": "5.",
+    "script": "cinco.",
+    "asr_indices": [
+      70,
+      71
+    ],
+    "script_indices": [
+      70,
+      71
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 29.16,
+    "end": 30.44,
+    "asr": "Transporte",
+    "script": "Transport,",
+    "asr_indices": [
+      76,
+      77
+    ],
+    "script_indices": [
+      76,
+      77
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 30.68,
+    "end": 31.08,
+    "asr": "2012.",
+    "script": "dois mil e doze.",
+    "asr_indices": [
+      78,
+      79
+    ],
+    "script_indices": [
+      78,
+      82
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 35.0,
+    "end": 35.36,
+    "asr": "Pia",
+    "script": "píer",
+    "asr_indices": [
+      87,
+      88
+    ],
+    "script_indices": [
+      90,
+      91
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 35.72,
+    "end": 36.32,
+    "asr": "roda gigante",
+    "script": "roda-gigante",
+    "asr_indices": [
+      90,
+      92
+    ],
+    "script_indices": [
+      93,
+      94
+    ]
+  },
+  {
+    "kind": "insert",
+    "start": 40.36,
+    "end": 40.74,
+    "asr": "",
+    "script": "a",
+    "asr_indices": [
+      105,
+      105
+    ],
+    "script_indices": [
+      107,
+      108
+    ]
+  },
+  {
+    "kind": "insert",
+    "start": 44.84,
+    "end": 45.22,
+    "asr": "",
+    "script": "a",
+    "asr_indices": [
+      116,
+      116
+    ],
+    "script_indices": [
+      119,
+      120
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 46.4,
+    "end": 46.68,
+    "asr": "Pia",
+    "script": "píer",
+    "asr_indices": [
+      118,
+      119
+    ],
+    "script_indices": [
+      122,
+      123
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 48.62,
+    "end": 48.74,
+    "asr": "a",
+    "script": "",
+    "asr_indices": [
+      125,
+      126
+    ],
+    "script_indices": [
+      129,
+      129
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 59.26,
+    "end": 59.66,
+    "asr": "senso",
+    "script": "censo",
+    "asr_indices": [
+      154,
+      155
+    ],
+    "script_indices": [
+      157,
+      158
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 59.84,
+    "end": 60.42,
+    "asr": "aérea",
+    "script": "areia",
+    "asr_indices": [
+      156,
+      157
+    ],
+    "script_indices": [
+      159,
+      160
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 62.92,
+    "end": 63.26,
+    "asr": "para a",
+    "script": "pra",
+    "asr_indices": [
+      166,
+      168
+    ],
+    "script_indices": [
+      169,
+      170
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 66.0,
+    "end": 66.18,
+    "asr": "o",
+    "script": "",
+    "asr_indices": [
+      176,
+      177
+    ],
+    "script_indices": [
+      178,
+      178
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 71.44,
+    "end": 71.56,
+    "asr": "um",
+    "script": "o",
+    "asr_indices": [
+      189,
+      190
+    ],
+    "script_indices": [
+      190,
+      191
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 71.98,
+    "end": 72.1,
+    "asr": "o",
+    "script": "",
+    "asr_indices": [
+      192,
+      193
+    ],
+    "script_indices": [
+      193,
+      193
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 73.54,
+    "end": 75.22,
+    "asr": "salva vidas. Se",
+    "script": "salva-vidas. Seu",
+    "asr_indices": [
+      198,
+      201
+    ],
+    "script_indices": [
+      198,
+      200
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 114.3,
+    "end": 114.58,
+    "asr": "6",
+    "script": "seis",
+    "asr_indices": [
+      297,
+      298
+    ],
+    "script_indices": [
+      296,
+      297
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 118.52,
+    "end": 118.84,
+    "asr": "5",
+    "script": "cinco",
+    "asr_indices": [
+      310,
+      311
+    ],
+    "script_indices": [
+      309,
+      310
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 121.56,
+    "end": 121.78,
+    "asr": "para a",
+    "script": "pra",
+    "asr_indices": [
+      317,
+      319
+    ],
+    "script_indices": [
+      316,
+      317
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 129.22,
+    "end": 129.68,
+    "asr": "Tita",
+    "script": "Cheetah",
+    "asr_indices": [
+      335,
+      336
+    ],
+    "script_indices": [
+      333,
+      334
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 130.3,
+    "end": 130.68,
+    "asr": "5",
+    "script": "cinco",
+    "asr_indices": [
+      338,
+      339
+    ],
+    "script_indices": [
+      336,
+      337
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 132.9,
+    "end": 133.4,
+    "asr": "aeroafólio",
+    "script": "aerofólio",
+    "asr_indices": [
+      345,
+      346
+    ],
+    "script_indices": [
+      343,
+      344
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 138.98,
+    "end": 139.08,
+    "asr": "ao",
+    "script": "o",
+    "asr_indices": [
+      361,
+      362
+    ],
+    "script_indices": [
+      359,
+      360
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 141.84,
+    "end": 142.28,
+    "asr": "3",
+    "script": "três",
+    "asr_indices": [
+      371,
+      372
+    ],
+    "script_indices": [
+      369,
+      370
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 151.28,
+    "end": 151.36,
+    "asr": "o",
+    "script": "",
+    "asr_indices": [
+      400,
+      401
+    ],
+    "script_indices": [
+      398,
+      398
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 153.36,
+    "end": 153.58,
+    "asr": "falta",
+    "script": "foto",
+    "asr_indices": [
+      405,
+      406
+    ],
+    "script_indices": [
+      402,
+      403
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 153.96,
+    "end": 154.28,
+    "asr": "6,",
+    "script": "seis,",
+    "asr_indices": [
+      408,
+      409
+    ],
+    "script_indices": [
+      405,
+      406
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 155.92,
+    "end": 156.08,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      414,
+      415
+    ],
+    "script_indices": [
+      411,
+      412
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 161.1,
+    "end": 161.66,
+    "asr": "pinano,",
+    "script": "empinando,",
+    "asr_indices": [
+      426,
+      427
+    ],
+    "script_indices": [
+      423,
+      424
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 162.18,
+    "end": 162.76,
+    "asr": "bírculos,",
+    "script": "veículos,",
+    "asr_indices": [
+      428,
+      429
+    ],
+    "script_indices": [
+      425,
+      426
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 167.98,
+    "end": 168.16,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      440,
+      441
+    ],
+    "script_indices": [
+      437,
+      438
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 171.52,
+    "end": 171.82,
+    "asr": "morais",
+    "script": "murais",
+    "asr_indices": [
+      448,
+      449
+    ],
+    "script_indices": [
+      445,
+      446
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 193.58,
+    "end": 193.74,
+    "asr": "falta",
+    "script": "foto",
+    "asr_indices": [
+      507,
+      508
+    ],
+    "script_indices": [
+      504,
+      505
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 195.72,
+    "end": 195.98,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      515,
+      516
+    ],
+    "script_indices": [
+      512,
+      513
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 204.78,
+    "end": 206.12,
+    "asr": "tita. Era estar",
+    "script": "Cheetah. Ela está",
+    "asr_indices": [
+      540,
+      543
+    ],
+    "script_indices": [
+      537,
+      540
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 217.54,
+    "end": 217.88,
+    "asr": "V,",
+    "script": "cinco,",
+    "asr_indices": [
+      572,
+      573
+    ],
+    "script_indices": [
+      569,
+      570
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 230.72,
+    "end": 231.26,
+    "asr": "ETA6,",
+    "script": "GTA seis,",
+    "asr_indices": [
+      609,
+      610
+    ],
+    "script_indices": [
+      606,
+      608
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 234.58,
+    "end": 234.78,
+    "asr": "A",
+    "script": "Há",
+    "asr_indices": [
+      617,
+      618
+    ],
+    "script_indices": [
+      615,
+      616
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 236.72,
+    "end": 237.94,
+    "asr": "compre de ocupar no",
+    "script": "com um prédio ocupando a",
+    "asr_indices": [
+      622,
+      626
+    ],
+    "script_indices": [
+      620,
+      625
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 244.88,
+    "end": 245.5,
+    "asr": "Pensando em uma",
+    "script": "Pensa numa",
+    "asr_indices": [
+      645,
+      648
+    ],
+    "script_indices": [
+      644,
+      646
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 253.18,
+    "end": 253.36,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      671,
+      672
+    ],
+    "script_indices": [
+      669,
+      670
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 263.28,
+    "end": 263.5,
+    "asr": "para os",
+    "script": "pros",
+    "asr_indices": [
+      699,
+      701
+    ],
+    "script_indices": [
+      697,
+      698
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 267.76,
+    "end": 268.12,
+    "asr": "existe",
+    "script": "existem",
+    "asr_indices": [
+      711,
+      712
+    ],
+    "script_indices": [
+      708,
+      709
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 282.9,
+    "end": 283.22,
+    "asr": "5",
+    "script": "cinco",
+    "asr_indices": [
+      753,
+      754
+    ],
+    "script_indices": [
+      750,
+      751
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 283.42,
+    "end": 283.46,
+    "asr": "a",
+    "script": "",
+    "asr_indices": [
+      755,
+      756
+    ],
+    "script_indices": [
+      752,
+      752
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 283.98,
+    "end": 284.44,
+    "asr": "2012.",
+    "script": "dois mil e doze.",
+    "asr_indices": [
+      758,
+      759
+    ],
+    "script_indices": [
+      754,
+      758
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 289.4,
+    "end": 289.54,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      769,
+      770
+    ],
+    "script_indices": [
+      768,
+      769
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 300.1,
+    "end": 300.28,
+    "asr": "na",
+    "script": "da",
+    "asr_indices": [
+      802,
+      803
+    ],
+    "script_indices": [
+      801,
+      802
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 307.2,
+    "end": 307.46,
+    "asr": "6",
+    "script": "seis",
+    "asr_indices": [
+      820,
+      821
+    ],
+    "script_indices": [
+      819,
+      820
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 317.94,
+    "end": 317.98,
+    "asr": "à",
+    "script": "",
+    "asr_indices": [
+      849,
+      850
+    ],
+    "script_indices": [
+      848,
+      848
+    ]
+  }
+]

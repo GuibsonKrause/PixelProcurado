@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-12T01:15:57.409241+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "O nível 6 de procurado voltou no GTA 6? Neste episódio do Pixel Procurado, analisamos o gameplay oficial (An Extended Look) minuto a minuto: o medidor de 6 estrelas no minuto 11:50, o assalto à loja de conveniência, a perseguição em pinça com 3 estrelas e a manobra do minuto 16, em que o grupo corta a visão do helicóptero numa garagem coberta e troca de carro. No fim, a regra para guardar para o dia 19 de novembro.\n\nAnálise das imagens do gameplay oficial: o que aparece no vídeo é fato oficial; a leitura de como o sistema de busca funciona é interpretação editorial, sem teste jogável próprio. Trechos de GTA V (2013) aparecem identificados para comparação.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/be00305125574472913cd776f12970c0.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "6 Estrelas Voltaram: A Polícia do GTA 6 Não Esquece"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-10-29T18:58:47.273976+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Vice City conserva o neon, as palmeiras e a vontade de conquistar a cidade. Mas, em GTA VI, até a plateia segura uma câmera.\nO que continua familiar — e o que muda quando a nostalgia dos anos 1980 encontra a cultura do celular?\n\nNeste episódio do Pixel Procurado, comparamos imagens promocionais do clássico e materiais oficiais de GTA VI para olhar além dos gráficos: atmosfera, ambição e as diferentes maneiras de viver a cidade.\n\nDo rádio do clássico à plateia de Real Dimez, da varanda confortável ao cotidiano da praia, investigamos como o excesso ganha outra forma de aparecer. A relação entre essas cenas é uma leitura editorial; a comparação não pressupõe o mesmo endereço ou a reconstrução do mapa antigo.\n\nQual lembrança sua precisaria sobreviver nesse retorno: o rádio, a atmosfera das ruas ou a sensação de conquistar a cidade? Conte uma cena que representa essa lembrança.\n\nCAPÍTULOS\n00:00 O celular na nova Vice City\n00:46 A memória do clássico\n02:01 Quem segura a câmera?\n02:49 Rádio, ambição e aparência\n03:29 Da varanda à praia\n04:50 A mesma Vice City?\n\nFONTES OFICIAIS\nGrand Theft Auto: Vice City — apresentação e imagens promocionais do clássico:\nhttps://www.rockstargames.com/games/vicecity\n\nRockstar / Take-Two — anúncio do décimo aniversário, com o lançamento original em outubro de 2002:\nhttps://ir.take2games.com/static-files/fbf04d7a-8b78-4537-beca-2ea45ddb590d\n\nRockstar — arquivo de comerciais fictícios de rádio, com a seção Vice City, 1986:\nhttps://www.rockstargames.com/newswire/article/51974aa3858ak3/advertising-council-site-updated-with-classic-radio-ads-from-pet.html\n\nGTA VI: Only in Leonida — perfil oficial de Real Dimez:\nhttps://www.rockstargames.com/VI/only-in-leonida\n\nGTA VI — biblioteca oficial de vídeos e imagens:\nhttps://www.rockstargames.com/VI/media\n\nAnálise baseada nas imagens selecionadas para o episódio em 25/10/2026. Referências históricas e perfil de Real Dimez reconferidos em 29/10/2026. O vídeo não pretende catalogar todos os materiais divulgados.\n\nImagens promocionais e materiais dos jogos: Rockstar Games. Análise independente do Pixel Procurado. Narração sintética produzida com Gemini; thumbnail ilustrada com assistência de IA e composição editorial. A arte da capa não é uma captura oficial nem retrata uma nova cena confirmada do jogo.\n\nPixel Procurado — a pista vem acompanhada da fonte.\n\n#ViceCity #GTA6 #PixelProcurado",
+          "image": [
+            {
+              "id": "c8332489-bbbc-44eb-9f82-4ff0ce1dc01c",
+              "path": "http://localhost:4007/uploads/2026/10/29/3d210733ae6e4e7a1d0cb461473422faa.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "Vice City clássica e GTA VI: o que mudou além dos gráficos",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "GTA Vice City",
+            "label": "GTA Vice City"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "ViceCity",
+            "label": "ViceCity"
+          },
+          {
+            "value": "GTA Vice Sity",
+            "label": "GTA Vice Sity"
+          },
+          {
+            "value": "Tommy Vercetti",
+            "label": "Tommy Vercetti"
+          },
+          {
+            "value": "Real Dimez",
+            "label": "Real Dimez"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "nostalgia GTA",
+            "label": "nostalgia GTA"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "435189be-30e0-4cb4-a225-b68353df45f0",
+          "path": "http://localhost:4007/uploads/2026/10/29/8762dbf61e10b6b3010eece67956477b19.jpg"
+        }
+      }
+    }
+  ]
+}

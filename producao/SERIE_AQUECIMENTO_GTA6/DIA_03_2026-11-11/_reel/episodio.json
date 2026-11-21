@@ -1,0 +1,171 @@
+{
+ "id": "DIA_03_2026-11-11__reel",
+ "titulo": "6 Estrelas Voltaram: A Polícia do GTA 6 Não Esquece",
+ "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+ "pasta_fontes": "videosGTAVI",
+ "midias": {
+  "EXT": "GTAVI_An_Extended_Look.mp4",
+  "T1": "GTAVI_Trailer_1.mp4",
+  "T2": "GTAVI_Trailer_2.mp4",
+  "LT": "GTAVI_Launch_Trailer.mp4",
+  "COVER": "GTAVI_Videos/GTAVI_Official_Cover_Art_Landscape.mp4",
+  "GTAV": "GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4"
+ },
+ "rotulos_obrigatorios": {
+  "GTAV": "GTA V"
+ },
+ "correcoes_legenda": {},
+ "formatos": {
+  "short": {
+   "stem": "DIA03_Reel_Short",
+   "resolucao": [
+    1080,
+    1920
+   ],
+   "fps": 30,
+   "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/_reel/audio/narracao.wav",
+   "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/_reel/audio/palavras.json",
+   "planos": [
+    {
+     "midia": "EXT",
+     "inicio": 706.0,
+     "corte": [
+      0.0,
+      2.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 708.3,
+     "corte": [
+      2.3,
+      6.2
+     ],
+     "tipo": "data",
+     "titulo": "6 ESTRELAS",
+     "detalhe": "Medidor no topo direito • 11:50"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1088.5,
+     "corte": [
+      6.2,
+      10.9
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1009.2,
+     "corte": [
+      10.9,
+      18.0
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 878.4,
+     "corte": [
+      18.0,
+      22.0
+     ],
+     "tipo": "tag",
+     "titulo": "15:50 SEDÃ BALEADO",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 882.4,
+     "corte": [
+      22.0,
+      27.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 924.0,
+     "corte": [
+      27.3,
+      34.0
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 951.0,
+     "corte": [
+      34.0,
+      37.5
+     ],
+     "tipo": "tag",
+     "titulo": "16:00 GARAGEM",
+     "detalhe": "Teto de concreto"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 954.5,
+     "corte": [
+      37.5,
+      42.9
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 959.9,
+     "corte": [
+      42.9,
+      57.7
+     ],
+     "tipo": "tag",
+     "titulo": "16:10 TROCA DE CARRO",
+     "detalhe": "Van limpa"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 974.7,
+     "corte": [
+      57.7,
+      65.1
+     ],
+     "tipo": "tag",
+     "titulo": "16:30 VAN LIMPA",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 982.1,
+     "corte": [
+      65.1,
+      72.1
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    }
+   ]
+  }
+ }
+}

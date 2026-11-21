@@ -1,0 +1,57 @@
+[
+  {
+    "start": 3.667,
+    "end": 6.7,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 22.833,
+    "end": 27.4,
+    "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 32.967,
+    "end": 36.467,
+    "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+    "source": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+    "source_start": 31.0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 60.433,
+    "end": 64.433,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 64.433,
+    "end": 68.467,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  }
+]

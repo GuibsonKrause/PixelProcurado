@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T23:51:53.707570+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Um esportivo rosa, dois ângulos. A câmera passa pela janela num vídeo e fica parada na esquina no outro. Em qual você teria jurado que era Miami? #GTA6 #GTAVI #ViceCity",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/918cf13c30fc486fb5351efe4faea856.mp4",
+              "thumbnail": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/93af42ce8d9441769d416a6b5dba9aa8.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

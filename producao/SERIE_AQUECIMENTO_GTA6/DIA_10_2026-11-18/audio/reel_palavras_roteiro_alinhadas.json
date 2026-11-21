@@ -1,0 +1,1379 @@
+[
+  {
+    "word": "A",
+    "paragraph": 4,
+    "start": 0.18,
+    "end": 0.36,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Nova",
+    "paragraph": 4,
+    "start": 0.36,
+    "end": 0.5,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Zelândia",
+    "paragraph": 4,
+    "start": 0.5,
+    "end": 0.96,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "pode",
+    "paragraph": 4,
+    "start": 0.96,
+    "end": 1.22,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "começar",
+    "paragraph": 4,
+    "start": 1.22,
+    "end": 1.56,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "antes.",
+    "paragraph": 4,
+    "start": 1.56,
+    "end": 2.14,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Em",
+    "paragraph": 4,
+    "start": 2.62,
+    "end": 2.86,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Auckland,",
+    "paragraph": 4,
+    "start": 2.86,
+    "end": 3.26,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "na",
+    "paragraph": 4,
+    "start": 3.66,
+    "end": 3.76,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Nova",
+    "paragraph": 4,
+    "start": 3.76,
+    "end": 3.96,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Zelândia,",
+    "paragraph": 4,
+    "start": 3.96,
+    "end": 4.52,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "a",
+    "paragraph": 4,
+    "start": 4.64,
+    "end": 4.74,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "meia-noite",
+    "paragraph": 4,
+    "start": 4.74,
+    "end": 5.22,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 4,
+    "start": 5.34,
+    "end": 5.34,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "dezenove",
+    "paragraph": 4,
+    "start": 5.34,
+    "end": 5.68,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 4,
+    "start": 5.68,
+    "end": 5.94,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "novembro",
+    "paragraph": 4,
+    "start": 5.94,
+    "end": 6.28,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "corresponde",
+    "paragraph": 4,
+    "start": 6.28,
+    "end": 6.84,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "às",
+    "paragraph": 4,
+    "start": 6.84,
+    "end": 7.1,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "oito",
+    "paragraph": 4,
+    "start": 7.1,
+    "end": 7.34,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "da",
+    "paragraph": 4,
+    "start": 7.34,
+    "end": 7.56,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "manhã",
+    "paragraph": 4,
+    "start": 7.56,
+    "end": 7.86,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 4,
+    "start": 7.86,
+    "end": 8.14,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "dezoito",
+    "paragraph": 4,
+    "start": 8.14,
+    "end": 8.42,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 4,
+    "start": 8.42,
+    "end": 8.62,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "novembro",
+    "paragraph": 4,
+    "start": 8.62,
+    "end": 8.94,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "em",
+    "paragraph": 4,
+    "start": 8.94,
+    "end": 9.02,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "São",
+    "paragraph": 4,
+    "start": 9.02,
+    "end": 9.26,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Paulo",
+    "paragraph": 4,
+    "start": 9.26,
+    "end": 9.4,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "e",
+    "paragraph": 4,
+    "start": 9.4,
+    "end": 9.52,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Brasília.",
+    "paragraph": 4,
+    "start": 9.52,
+    "end": 10.46,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "São",
+    "paragraph": 4,
+    "start": 10.7,
+    "end": 10.8,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "dezesseis",
+    "paragraph": 4,
+    "start": 10.8,
+    "end": 11.16,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "horas",
+    "paragraph": 4,
+    "start": 11.16,
+    "end": 11.34,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 4,
+    "start": 11.34,
+    "end": 11.58,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "diferença,",
+    "paragraph": 4,
+    "start": 11.58,
+    "end": 12.14,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "considerando",
+    "paragraph": 4,
+    "start": 12.46,
+    "end": 12.98,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "o",
+    "paragraph": 4,
+    "start": 12.98,
+    "end": 13.12,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "horário",
+    "paragraph": 4,
+    "start": 13.12,
+    "end": 13.28,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 4,
+    "start": 13.28,
+    "end": 13.48,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "verão",
+    "paragraph": 4,
+    "start": 13.48,
+    "end": 13.66,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 4,
+    "start": 13.66,
+    "end": 13.8,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "lá.",
+    "paragraph": 4,
+    "start": 13.8,
+    "end": 14.02,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Pela",
+    "paragraph": 4,
+    "start": 14.1,
+    "end": 14.34,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "programação",
+    "paragraph": 4,
+    "start": 14.34,
+    "end": 14.8,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "oficial,",
+    "paragraph": 4,
+    "start": 14.8,
+    "end": 15.3,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "o",
+    "paragraph": 4,
+    "start": 15.54,
+    "end": 15.72,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "acesso",
+    "paragraph": 4,
+    "start": 15.72,
+    "end": 15.9,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "pode",
+    "paragraph": 4,
+    "start": 15.9,
+    "end": 16.14,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "começar",
+    "paragraph": 4,
+    "start": 16.14,
+    "end": 16.52,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "lá",
+    "paragraph": 4,
+    "start": 16.52,
+    "end": 16.8,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "antes",
+    "paragraph": 4,
+    "start": 16.8,
+    "end": 17.22,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 4,
+    "start": 17.22,
+    "end": 17.46,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "começar",
+    "paragraph": 4,
+    "start": 17.46,
+    "end": 17.7,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "aqui.",
+    "paragraph": 4,
+    "start": 17.7,
+    "end": 18.0,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Às",
+    "paragraph": 5,
+    "start": 18.38,
+    "end": 18.62,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "dezoito",
+    "paragraph": 5,
+    "start": 18.62,
+    "end": 18.86,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "horas",
+    "paragraph": 5,
+    "start": 18.86,
+    "end": 19.18,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 5,
+    "start": 19.18,
+    "end": 19.52,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "dezoito",
+    "paragraph": 5,
+    "start": 19.52,
+    "end": 19.76,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 5,
+    "start": 19.76,
+    "end": 19.94,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "novembro,",
+    "paragraph": 5,
+    "start": 19.94,
+    "end": 20.56,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "horário",
+    "paragraph": 5,
+    "start": 20.62,
+    "end": 20.82,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 5,
+    "start": 20.82,
+    "end": 21.0,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "São",
+    "paragraph": 5,
+    "start": 21.0,
+    "end": 21.24,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Paulo",
+    "paragraph": 5,
+    "start": 21.24,
+    "end": 21.42,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "previsto",
+    "paragraph": 5,
+    "start": 21.42,
+    "end": 21.74,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "para",
+    "paragraph": 5,
+    "start": 21.74,
+    "end": 21.96,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_anchored_interpolation",
+    "estimated": true
+  },
+  {
+    "word": "este",
+    "paragraph": 5,
+    "start": 21.96,
+    "end": 22.1,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "vídeo,",
+    "paragraph": 5,
+    "start": 22.1,
+    "end": 22.42,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "a",
+    "paragraph": 5,
+    "start": 23.06,
+    "end": 23.14,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "janela",
+    "paragraph": 5,
+    "start": 23.14,
+    "end": 23.36,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "oficial",
+    "paragraph": 5,
+    "start": 23.36,
+    "end": 23.74,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 5,
+    "start": 23.74,
+    "end": 23.96,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Auckland",
+    "paragraph": 5,
+    "start": 23.96,
+    "end": 24.28,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "já",
+    "paragraph": 5,
+    "start": 24.28,
+    "end": 24.66,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "abriu",
+    "paragraph": 5,
+    "start": 24.66,
+    "end": 24.94,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "há",
+    "paragraph": 5,
+    "start": 24.94,
+    "end": 25.1,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "dez",
+    "paragraph": 5,
+    "start": 25.1,
+    "end": 25.24,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "horas.",
+    "paragraph": 5,
+    "start": 25.24,
+    "end": 25.64,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Aqui,",
+    "paragraph": 5,
+    "start": 25.94,
+    "end": 26.42,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "faltam",
+    "paragraph": 5,
+    "start": 26.42,
+    "end": 26.8,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "seis",
+    "paragraph": 5,
+    "start": 26.8,
+    "end": 27.02,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "horas",
+    "paragraph": 5,
+    "start": 27.02,
+    "end": 27.24,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "para",
+    "paragraph": 5,
+    "start": 27.24,
+    "end": 27.44,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "a",
+    "paragraph": 5,
+    "start": 27.44,
+    "end": 27.52,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "meia-noite.",
+    "paragraph": 5,
+    "start": 27.52,
+    "end": 27.86,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Isso",
+    "paragraph": 5,
+    "start": 28.0,
+    "end": 28.2,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "descreve",
+    "paragraph": 5,
+    "start": 28.2,
+    "end": 28.52,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "o",
+    "paragraph": 5,
+    "start": 28.52,
+    "end": 28.66,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "calendário",
+    "paragraph": 5,
+    "start": 28.66,
+    "end": 28.98,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 5,
+    "start": 28.98,
+    "end": 29.16,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "liberação;",
+    "paragraph": 5,
+    "start": 29.16,
+    "end": 29.7,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "não",
+    "paragraph": 5,
+    "start": 29.9,
+    "end": 30.14,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "comprova",
+    "paragraph": 5,
+    "start": 30.14,
+    "end": 30.62,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "quantas",
+    "paragraph": 5,
+    "start": 30.62,
+    "end": 31.04,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "pessoas",
+    "paragraph": 5,
+    "start": 31.04,
+    "end": 31.3,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "conseguiram",
+    "paragraph": 5,
+    "start": 31.3,
+    "end": 31.7,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "entrar",
+    "paragraph": 5,
+    "start": 31.7,
+    "end": 32.1,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "ou",
+    "paragraph": 5,
+    "start": 32.1,
+    "end": 32.34,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "o",
+    "paragraph": 5,
+    "start": 32.34,
+    "end": 32.345,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_anchored_interpolation",
+    "estimated": true
+  },
+  {
+    "word": "que",
+    "paragraph": 5,
+    "start": 32.345,
+    "end": 32.52,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "estão",
+    "paragraph": 5,
+    "start": 32.52,
+    "end": 32.68,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "jogando.",
+    "paragraph": 5,
+    "start": 32.68,
+    "end": 33.26,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Quem",
+    "paragraph": 6,
+    "start": 33.26,
+    "end": 33.56,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "tiver",
+    "paragraph": 6,
+    "start": 33.56,
+    "end": 33.86,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "acesso",
+    "paragraph": 6,
+    "start": 33.86,
+    "end": 34.16,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "antes",
+    "paragraph": 6,
+    "start": 34.16,
+    "end": 34.7,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "pode",
+    "paragraph": 6,
+    "start": 34.94,
+    "end": 35.06,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "publicar",
+    "paragraph": 6,
+    "start": 35.06,
+    "end": 35.58,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "antes.",
+    "paragraph": 6,
+    "start": 35.58,
+    "end": 36.14,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Por",
+    "paragraph": 6,
+    "start": 36.36,
+    "end": 36.42,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "isso,",
+    "paragraph": 6,
+    "start": 36.42,
+    "end": 36.9,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "proteja",
+    "paragraph": 6,
+    "start": 37.16,
+    "end": 37.34,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "suas",
+    "paragraph": 6,
+    "start": 37.34,
+    "end": 37.58,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "redes",
+    "paragraph": 6,
+    "start": 37.58,
+    "end": 37.78,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "agora:",
+    "paragraph": 6,
+    "start": 37.78,
+    "end": 38.32,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "silencie",
+    "paragraph": 6,
+    "start": 38.7,
+    "end": 39.04,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "termos",
+    "paragraph": 6,
+    "start": 39.16,
+    "end": 39.4,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "do",
+    "paragraph": 6,
+    "start": 39.4,
+    "end": 39.58,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "jogo",
+    "paragraph": 6,
+    "start": 39.58,
+    "end": 39.9,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "onde",
+    "paragraph": 6,
+    "start": 39.9,
+    "end": 40.08,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "houver",
+    "paragraph": 6,
+    "start": 40.08,
+    "end": 40.248,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_anchored_interpolation",
+    "estimated": true
+  },
+  {
+    "word": "essa",
+    "paragraph": 6,
+    "start": 40.248,
+    "end": 40.36,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_anchored_interpolation",
+    "estimated": true
+  },
+  {
+    "word": "opção",
+    "paragraph": 6,
+    "start": 40.36,
+    "end": 41.02,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "e",
+    "paragraph": 6,
+    "start": 41.02,
+    "end": 41.32,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "evite",
+    "paragraph": 6,
+    "start": 41.32,
+    "end": 41.56,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "buscas,",
+    "paragraph": 6,
+    "start": 41.56,
+    "end": 42.12,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "comentários",
+    "paragraph": 6,
+    "start": 42.48,
+    "end": 42.72,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "e",
+    "paragraph": 6,
+    "start": 42.72,
+    "end": 42.92,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "vídeos",
+    "paragraph": 6,
+    "start": 42.92,
+    "end": 43.26,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "sobre",
+    "paragraph": 6,
+    "start": 43.26,
+    "end": 43.52,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "a",
+    "paragraph": 6,
+    "start": 43.52,
+    "end": 43.76,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "estreia.",
+    "paragraph": 6,
+    "start": 43.76,
+    "end": 44.48,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Essas",
+    "paragraph": 6,
+    "start": 44.8,
+    "end": 45.0,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "medidas",
+    "paragraph": 6,
+    "start": 45.0,
+    "end": 45.32,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "reduzem",
+    "paragraph": 6,
+    "start": 45.32,
+    "end": 45.76,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "a",
+    "paragraph": 6,
+    "start": 45.76,
+    "end": 45.84,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "exposição,",
+    "paragraph": 6,
+    "start": 45.84,
+    "end": 46.42,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "mas",
+    "paragraph": 6,
+    "start": 46.74,
+    "end": 46.84,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "não",
+    "paragraph": 6,
+    "start": 46.84,
+    "end": 47.08,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "garantem",
+    "paragraph": 6,
+    "start": 47.08,
+    "end": 47.46,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "proteção",
+    "paragraph": 6,
+    "start": 47.46,
+    "end": 47.9,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "completa.",
+    "paragraph": 6,
+    "start": 47.9,
+    "end": 48.28,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Sua",
+    "paragraph": 6,
+    "start": 48.94,
+    "end": 49.12,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "primeira",
+    "paragraph": 6,
+    "start": 49.12,
+    "end": 49.38,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "descoberta",
+    "paragraph": 6,
+    "start": 49.38,
+    "end": 49.96,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "pode",
+    "paragraph": 6,
+    "start": 49.96,
+    "end": 50.14,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "esperar",
+    "paragraph": 6,
+    "start": 50.14,
+    "end": 50.58,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "pela",
+    "paragraph": 6,
+    "start": 50.58,
+    "end": 50.9,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "sua",
+    "paragraph": 6,
+    "start": 50.9,
+    "end": 51.14,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "primeira",
+    "paragraph": 6,
+    "start": 51.14,
+    "end": 51.44,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "partida.",
+    "paragraph": 6,
+    "start": 51.44,
+    "end": 52.02,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  }
+]

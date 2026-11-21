@@ -1,0 +1,30 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-03T12:00:00-03:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "O carro distrai. Olha a rua. | Pixel Procurado — L05",
+          "image": [
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/caa262ad5440dd12a229cfbfd13155bb.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "story"
+      }
+    }
+  ]
+}

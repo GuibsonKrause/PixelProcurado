@@ -1,0 +1,202 @@
+{
+  "etapa": "primeira revisão independente estática; pré-voo de timeline ainda pendente",
+  "status": "BLOQUEADO_DIRECAO_R01_AGUARDANDO_CORRECAO",
+  "data": "2026-11-18T18:49:46.430Z",
+  "revisor": {
+    "agent_id": "/root/revisor_dia10",
+    "model_solicitado": "gpt-6-astra",
+    "reasoning_effort_solicitado": "high",
+    "modelo_efetivo": "não confirmado pela ferramenta"
+  },
+  "escopo_inspecionado": {
+    "capas": [
+      "longo A",
+      "longo B",
+      "vertical A",
+      "vertical B"
+    ],
+    "carrossel": [
+      "01",
+      "02",
+      "03",
+      "04"
+    ],
+    "cartelas": [
+      "C01_FUSOS horizontal/vertical",
+      "C03_ESTREIA horizontal/vertical",
+      "C05_JANELA horizontal/vertical",
+      "C10_PRELOAD horizontal/vertical",
+      "C15_VINTAGE horizontal/vertical",
+      "C19_CHECKLIST horizontal/vertical"
+    ],
+    "documentos": [
+      "00_ROTEIRO_COMPLETO.md",
+      "01_NARRACAO.txt",
+      "montagem/referencias/FONTES.md",
+      "montagem/referencias/RELATORIO_VISUAL.md",
+      "audio/QA_AUDIO.json",
+      "montagem/RELATORIO_DIRECAO.md"
+    ]
+  },
+  "evidencias": [
+    {
+      "arquivo": "publicacao/capas/folha_capas.jpg",
+      "sha256": "d007dd420503a77ae3b0423cf3e3a13ab8dba073115ac4476acb863e43982403",
+      "inspecao": "imagem real aberta via view_image; não inferida do nome"
+    },
+    {
+      "arquivo": "publicacao/carrossel/folha_carrossel.jpg",
+      "sha256": "f6394d5c1444dfddb930016c3aad20695cbc16b3e848431789a416cbf88d337a",
+      "inspecao": "imagem real aberta via view_image; não inferida do nome"
+    },
+    {
+      "arquivo": "montagem/cards/folha_cards.jpg",
+      "sha256": "4a3ac9a35941a6d8bb7c8389247e6148092a603d0bc2b465800fb2c0b8fb70f7",
+      "inspecao": "imagem real aberta via view_image; não inferida do nome"
+    }
+  ],
+  "achados_bloqueantes": [
+    {
+      "id": "D01",
+      "prioridade": "alta",
+      "escopo": "apoios visuais genéricos do longo e derivados",
+      "evidencia": "69 planos; apenas plano08 usa vídeo (4s). Reuso recorrente de VC01/03/08/10/11, inclusive adjacentes17–18,24–25,59–60.",
+      "timecodes": [
+        "93,700–104,733s VC03",
+        "128,267–136,667s VC11",
+        "320,067–331,433s VC10"
+      ],
+      "regra": "Vídeo pertinente primeiro; evitar imagens genéricas repetidas como preenchimento.",
+      "correcao": "Diretor aceitou substituir apoios por janelas oficiais contextualizadas, preservando cartelas/bônus e timebase; revalidar apenas planos afetados e derivados.",
+      "status": "aceito pelo executor; correção pendente de inspeção"
+    }
+  ],
+  "resultados": [
+    "Texto de capas legível em folha reduzida; frases A/B curtas, rostos livres, logo visível; sem cronômetro enganoso.",
+    "Cartelas e carrossel: 19/11 00h local PS5/Xbox; Auckland UTC+13 e SP UTC−3; correspondência 19/11 00h = 18/11 08h; instante editorial 18h SP implica 10h desde janela Auckland e 6h até SP.",
+    "Pré-carregamento identificado como calendário de download: PS5 10/11 00h local e Xbox 10/11 00h GMT.",
+    "Vintage rotulado bônus de compra digital anterior a 20/11, Standard + Ultimate; sem exclusividade Ultimate ou inferência sobre físico.",
+    "Ressalvas presentes: calendário não comprova jogadores online; instalação não é desbloqueio; filtros não protegem de tudo.",
+    "Fundos sólidos, contraste branco/amarelo/grafite, texto dentro do quadro e rodapé de fonte visível nas peças estáticas."
+  ],
+  "audio": {
+    "escuta": "NÃO OUVIDO POR HUMANO; este revisor não ouviu áudio por instrução do usuário",
+    "evidencia_automatica": "QA_AUDIO: 385,48s,48kHz PCM16 mono,18503040 samples,-16,3 LUFS,-1,6 dBTP, ASR small+medium; incertezas fonéticas/transcrição permanecem documentadas",
+    "nao_concluir": "ASR e medidas não provam pronúncia perfeita nem ausência de erro subjetivo."
+  },
+  "pendencias": [
+    "Inspecionar correção D01 nas folhas alteradas antes de liberar amostras.",
+    "Revisar formatos vertical/Reel/Story e versões IG nas folhas próprias; 12 cartelas isoladas já aprovadas não substituem composição.",
+    "Amostras reais devem mostrar TODOS os tipos de card com entrada/leitura/saída, fontes/legendas/rótulos e planos08,46–55 para colisões; esta rodada não aprovou composição.",
+    "Decisão documentada sobre ASR textual com perda de negação no plano54 antes da aprovação final da legenda."
+  ],
+  "liberacao_render_integral": false,
+  "validar_revisao_modelo_executado": false,
+  "observacoes": [
+    "Referência histórica producao/ESPECIAL_PRE_LANCAMENTO_2026-11-06/REVISAO_V2.md ausente; skill vídeo e referências projeto-local/renderização lidas.",
+    "Fontes externas consideradas conforme registro canônico consultado pela pesquisa; esta rodada não refez a pesquisa web.",
+    "Nota QA_AUDIO.next_action antiga comunicada ao coordenador, que assumiu correção documental."
+  ],
+  "rodadas": [
+    {
+      "id": "R01",
+      "formato": "longo",
+      "planos_vistos": "01–69",
+      "evidencias": [
+        {
+          "arquivo": "montagem/revisao_prevoo/r01/Pixel_Procurado_DIA10_Longo_V2_01.jpg",
+          "sha256": "a84a0af859261ad041e8e5c7e2af823c5b76c4e4b228de14bda9a9372cae2ee7",
+          "planos": [
+            1,
+            10
+          ],
+          "inspecao": "view_image; folha com fala; imagem real da fonte sem composição final de overlay/legenda"
+        },
+        {
+          "arquivo": "montagem/revisao_prevoo/r01/Pixel_Procurado_DIA10_Longo_V2_02.jpg",
+          "sha256": "aa070804bbf5c202c9f33869dca96e819d36a170fd62ba532aae2471acd678c2",
+          "planos": [
+            11,
+            20
+          ],
+          "inspecao": "view_image; folha com fala; imagem real da fonte sem composição final de overlay/legenda"
+        },
+        {
+          "arquivo": "montagem/revisao_prevoo/r01/Pixel_Procurado_DIA10_Longo_V2_03.jpg",
+          "sha256": "fe78bc7ef4c44a7c7a1f1f923020bc6832d78108a37e8ae44ed3851bb0aa4ee6",
+          "planos": [
+            21,
+            30
+          ],
+          "inspecao": "view_image; folha com fala; imagem real da fonte sem composição final de overlay/legenda"
+        },
+        {
+          "arquivo": "montagem/revisao_prevoo/r01/Pixel_Procurado_DIA10_Longo_V2_04.jpg",
+          "sha256": "ffd3d49cc8b71e617ece9dfb3e528ac47b822365de90329e645c3acd444a275b",
+          "planos": [
+            31,
+            40
+          ],
+          "inspecao": "view_image; folha com fala; imagem real da fonte sem composição final de overlay/legenda"
+        },
+        {
+          "arquivo": "montagem/revisao_prevoo/r01/Pixel_Procurado_DIA10_Longo_V2_05.jpg",
+          "sha256": "983eca57d8b7400226641166d0071771d2cf52ddc99fb355ea3eb161383261ac",
+          "planos": [
+            41,
+            50
+          ],
+          "inspecao": "view_image; folha com fala; imagem real da fonte sem composição final de overlay/legenda"
+        },
+        {
+          "arquivo": "montagem/revisao_prevoo/r01/Pixel_Procurado_DIA10_Longo_V2_06.jpg",
+          "sha256": "343de01ebdfda4e9581891792e8d22b50376f718b0d7f9d862a9a6e339040445",
+          "planos": [
+            51,
+            60
+          ],
+          "inspecao": "view_image; folha com fala; imagem real da fonte sem composição final de overlay/legenda"
+        },
+        {
+          "arquivo": "montagem/revisao_prevoo/r01/Pixel_Procurado_DIA10_Longo_V2_07.jpg",
+          "sha256": "54aa0e6807eaad4e0a34f7d2d4f1cab5c63d5da54c4cc145c5ea08332f1e752b",
+          "planos": [
+            61,
+            69
+          ],
+          "inspecao": "view_image; folha com fala; imagem real da fonte sem composição final de overlay/legenda"
+        }
+      ],
+      "aprovados_condicionais": [
+        "Cartelas factuais01,07,10,13,31,49,63 coerentes com fala e números.",
+        "Plano08 38,233–42,233s: fonte Launch81–85s tem cidade/data/plataformas; três quadros vistos, sem fade1:26.",
+        "Planos46–55 246,5–303,933s: Cheetah branco/faixa vermelha, lancha Squalo legível, interior Cheetah, Stanier escrito, roupas/penteados, arma com padrão azul coerentes; sem identificação de pessoas por aparência.",
+        "Config declara rótulos oficiais/ilustrativos por alias; presença na composição ainda não vista."
+      ],
+      "limitacao": "Folhas exibem fonte e texto de card ao lado; não exibem card/legenda/selo compostos. Não valida posição real, duração de animação, emendas ou leitura junto às legendas."
+    }
+  ],
+  "alertas_legenda": [
+    {
+      "plano": 54,
+      "timecode": "292,867–298,400",
+      "observado": "ASR: Ter um carro num action demonstra quando ele aparece...",
+      "risco": "Ausência da negação do roteiro inverte a afirmação se for queimada na legenda.",
+      "limite": "Não prova erro na voz; não houve escuta. Conferir tratamento conforme instrução de não corrigir palavras comuns apenas pelo roteiro."
+    },
+    {
+      "planos": [
+        45,
+        59,
+        62
+      ],
+      "timecodes": [
+        "241,233–246,500",
+        "320,067–325,467",
+        "337,400–343,367"
+      ],
+      "observado": "margens/recumeração; sociedade de diagnóstico; senta-se para formar cada escolha",
+      "limite": "Incertezas ASR; não transformar em correção textual silenciosa ou alegação de erro ouvido."
+    }
+  ]
+}

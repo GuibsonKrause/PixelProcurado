@@ -1,0 +1,30 @@
+{
+  "status": "preparado_sem_upload",
+  "revisao_independente": "obrigatoria_antes_envio",
+  "ab": "um_upload_youtube_com_teste_nativo_pelo_coordenador",
+  "channels": {
+    "youtube": "cmvsctfgl0001jncj932ovibv",
+    "facebook": "cmvzyur290001pddwolrt33em",
+    "instagram": "cmvzyw7vj0003pddwkgtivv8i"
+  },
+  "transport": {
+    "youtube": "Postiz upload local sem --adjust",
+    "meta": "R2 HTTPS com chave por post; remover somente apos PUBLISHED e releaseURL"
+  },
+  "jobs": [
+    {"id":"youtube_longo","file":"exportacoes/DIA01_Master_4K.mp4","thumbnail":"thumbnail_A/capa_youtube.jpg"},
+    {"id":"youtube_short","file":"exportacoes/DIA01_Reel_HUD.mp4","thumbnail":"social/capa_vertical_hud.png"},
+    {"id":"facebook_integral","file":"exportacoes/DIA01_Master_4K.mp4","thumbnail":"thumbnail_A/capa_youtube.jpg","post_type":"post"},
+    {"id":"facebook_curto","file":"exportacoes/DIA01_Reel_HUD.mp4","thumbnail":"social/capa_vertical_hud.png","post_type":"post","note":"integracao atual nao possui endpoint Reel explicito"},
+    {"id":"facebook_story","file":"exportacoes/DIA01_Story_HUD.mp4","post_type":"story"},
+    {"id":"facebook_multifoto","files":["social/carrossel_01.jpg","social/carrossel_02.jpg","social/carrossel_03.jpg","social/carrossel_04.jpg"],"post_type":"post"},
+    {"id":"instagram_integral","file":"exportacoes/DIA01_Instagram_Integral.mp4","thumbnail":"social/capa_vertical_hud.png","post_type":"post"},
+    {"id":"instagram_reel","file":"exportacoes/DIA01_Reel_HUD.mp4","thumbnail":"social/capa_vertical_hud.png","post_type":"post"},
+    {"id":"instagram_story","file":"exportacoes/DIA01_Story_HUD.mp4","post_type":"story"},
+    {"id":"instagram_carrossel","files":["social/carrossel_01.jpg","social/carrossel_02.jpg","social/carrossel_03.jpg","social/carrossel_04.jpg"],"post_type":"post"}
+  ],
+  "delivery_state": {"capas_preparadas":true,"capas_anexadas":false,"capas_confirmadas_publicamente":false,"uploads":false},
+  "metadata": "publicacao/PACOTE_PUBLICACAO.json",
+  "social_metadata": "social/CORTES_SOCIAIS.json",
+  "state_file_after_authorized_send": "POSTIZ_ESTADO.json"
+}

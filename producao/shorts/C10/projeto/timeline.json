@@ -1,0 +1,552 @@
+{
+  "id": "C10",
+  "title": "GTA V: sua playlist pode ter anúncios e locutor",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 81.72,
+  "frames": 2452,
+  "voice": "producao/shorts/C10/voz/narracao.wav",
+  "shots": [
+    {
+      "anchor": null,
+      "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+      "title": "PROPAGANDA\nNA SUA PLAYLIST.",
+      "label": "GTA V • SELF RADIO NO PC",
+      "mode": "panel",
+      "offset": 148.0,
+      "hook": true,
+      "motion": 5.0,
+      "from": 0,
+      "frames": 42,
+      "part": 0,
+      "index": 0,
+      "start": 0.0,
+      "end": 1.4,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "GANCHO • SEGUNDA BATIDA",
+      "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+      "title": "PROPAGANDA\nNA SUA PLAYLIST.",
+      "label": "GTA V • SELF RADIO NO PC",
+      "mode": "panel",
+      "offset": 148.0,
+      "hook": true,
+      "motion": 5.0,
+      "from": 42,
+      "frames": 55,
+      "part": 0,
+      "punch": true,
+      "index": 1,
+      "start": 1.4,
+      "end": 3.2333333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "No GTA cinco",
+      "file": "",
+      "title": "MODO RADIO • PC",
+      "label": "SELF RADIO • RECURSO DOCUMENTADO",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "SUA MÚSICA",
+        "LOCUÇÃO + INTERVALOS"
+      ],
+      "radio": true,
+      "from": 97,
+      "frames": 114,
+      "part": 0,
+      "index": 2,
+      "start": 3.2333333333333334,
+      "end": 7.033333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "No GTA cinco [continuação 2]",
+      "file": "",
+      "title": "MODO RADIO • PC",
+      "label": "SELF RADIO • RECURSO DOCUMENTADO",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "SUA MÚSICA",
+        "LOCUÇÃO + INTERVALOS"
+      ],
+      "radio": true,
+      "from": 211,
+      "frames": 114,
+      "hook": false,
+      "part": 1,
+      "index": 3,
+      "start": 7.033333333333333,
+      "end": 10.833333333333334,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Sua seleção começa",
+      "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+      "title": "UMA ESTAÇÃO DAQUELE MUNDO.",
+      "label": "GTA V • CONTEXTO DE DIREÇÃO",
+      "mode": "panel",
+      "offset": 154.0,
+      "motion": 5.0,
+      "from": 325,
+      "frames": 123,
+      "part": 0,
+      "index": 4,
+      "start": 10.833333333333334,
+      "end": 14.933333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Isso muda",
+      "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+      "title": "UMA LISTA PESSOAL.",
+      "label": "GTA V • CONTEXTO DE DIREÇÃO",
+      "mode": "panel",
+      "offset": 151.0,
+      "motion": 5.0,
+      "from": 448,
+      "frames": 165,
+      "part": 0,
+      "index": 5,
+      "start": 14.933333333333334,
+      "end": 20.433333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Quando entra um locutor",
+      "file": "",
+      "title": "MAIS GENTE OUVINDO",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "SUA SELEÇÃO",
+        "UM PÚBLICO IMAGINADO"
+      ],
+      "radio": true,
+      "from": 613,
+      "frames": 203,
+      "part": 0,
+      "index": 6,
+      "start": 20.433333333333334,
+      "end": 27.2,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "É engraçado",
+      "file": "",
+      "title": "FORA DO JOGO",
+      "label": "COMPARAÇÃO EDITORIAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "PAGAR PARA FUGIR DO ANÚNCIO"
+      ],
+      "radio": true,
+      "from": 816,
+      "frames": 131,
+      "part": 0,
+      "index": 7,
+      "start": 27.2,
+      "end": 31.566666666666666,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Dentro de GTA",
+      "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+      "title": "O ANÚNCIO AJUDA A CIDADE.",
+      "label": "GTA V • CONTEXTO DE DIREÇÃO",
+      "mode": "panel",
+      "offset": 154.0,
+      "motion": 3.0,
+      "from": 947,
+      "frames": 165,
+      "part": 0,
+      "index": 8,
+      "start": 31.566666666666666,
+      "end": 37.06666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A paz durou",
+      "file": "",
+      "title": "O INTERVALO ENCONTROU VOCÊ.",
+      "label": "HUMOR EDITORIAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "OUTRO CAMINHO PARA A PROPAGANDA"
+      ],
+      "radio": true,
+      "from": 1112,
+      "frames": 137,
+      "part": 0,
+      "index": 9,
+      "start": 37.06666666666667,
+      "end": 41.63333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "E um anúncio fictício",
+      "file": "",
+      "title": "O QUE ESSA CIDADE VALORIZA?",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O QUE VENDE?",
+        "PARA QUEM?"
+      ],
+      "radio": true,
+      "from": 1249,
+      "frames": 110,
+      "part": 0,
+      "index": 10,
+      "start": 41.63333333333333,
+      "end": 45.3,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "E um anúncio fictício [continuação 2]",
+      "file": "",
+      "title": "O QUE ESSA CIDADE VALORIZA?",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O QUE VENDE?",
+        "PARA QUEM?"
+      ],
+      "radio": true,
+      "from": 1359,
+      "frames": 110,
+      "hook": false,
+      "part": 1,
+      "index": 11,
+      "start": 45.3,
+      "end": 48.96666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "A rua fica",
+      "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+      "title": "A RUA NA IMAGEM. A CIDADE NO SOM.",
+      "label": "GTA V • CONTEXTO DE DIREÇÃO",
+      "mode": "panel",
+      "offset": 154.0,
+      "motion": 5.0,
+      "from": 1469,
+      "frames": 179,
+      "part": 0,
+      "index": 12,
+      "start": 48.96666666666667,
+      "end": 54.93333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Estou falando",
+      "file": "",
+      "title": "GTA V • PC",
+      "label": "ESCOPO DO RECURSO",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "SELF RADIO",
+        "MODO RADIO"
+      ],
+      "radio": true,
+      "from": 1648,
+      "frames": 171,
+      "part": 0,
+      "index": 13,
+      "start": 54.93333333333333,
+      "end": 60.63333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Isso não confirma",
+      "file": "",
+      "title": "NÃO É CONFIRMAÇÃO DE GTA VI",
+      "label": "LIMITES DA EVIDÊNCIA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "NEM DESCRIÇÃO DE TODOS OS MODOS"
+      ],
+      "radio": true,
+      "from": 1819,
+      "frames": 190,
+      "part": 0,
+      "index": 14,
+      "start": 60.63333333333333,
+      "end": 66.96666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "O detalhe interessante",
+      "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+      "title": "MÚSICAS PESSOAIS. EMISSORA DO JOGO.",
+      "label": "GTA V • CONTEXTO DE DIREÇÃO",
+      "mode": "panel",
+      "offset": 148.0,
+      "motion": 5.0,
+      "from": 2009,
+      "frames": 125,
+      "part": 0,
+      "index": 15,
+      "start": 66.96666666666667,
+      "end": 71.13333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O detalhe interessante [continuação 2]",
+      "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+      "title": "MÚSICAS PESSOAIS. EMISSORA DO JOGO.",
+      "label": "GTA V • CONTEXTO DE DIREÇÃO",
+      "mode": "panel",
+      "offset": 152.16666666666666,
+      "motion": 0.833333333333333,
+      "from": 2134,
+      "frames": 125,
+      "hook": false,
+      "part": 1,
+      "index": 16,
+      "start": 71.13333333333334,
+      "end": 75.3,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Não é só",
+      "file": "",
+      "title": "TEM UMA CIDADE NOS INTERVALOS.",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "SUA FAIXA",
+        "A APRESENTAÇÃO DO MUNDO"
+      ],
+      "radio": true,
+      "from": 2259,
+      "frames": 157,
+      "part": 0,
+      "index": 17,
+      "start": 75.3,
+      "end": 80.53333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Afinal",
+      "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+      "title": "PROPAGANDA\nNA SUA PLAYLIST.",
+      "label": "GTA V • SELF RADIO NO PC",
+      "mode": "panel",
+      "offset": 148.0,
+      "hook": true,
+      "motion": 5.0,
+      "from": 2416,
+      "frames": 36,
+      "part": 0,
+      "index": 18,
+      "start": 80.53333333333333,
+      "end": 81.73333333333333,
+      "animationFrames": 18
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 2.43,
+      "text": "GTA colocou propaganda na sua playlist."
+    },
+    {
+      "start": 3.22,
+      "end": 4.59,
+      "text": "No GTA cinco de PC,"
+    },
+    {
+      "start": 4.9,
+      "end": 7.34,
+      "text": "o modo self Radio mistura as faixas"
+    },
+    {
+      "start": 7.34,
+      "end": 10.21,
+      "text": "escolhidas por você com locução e intervalos."
+    },
+    {
+      "start": 10.84,
+      "end": 12.96,
+      "text": "Sua seleção começa a parecer uma estação"
+    },
+    {
+      "start": 12.96,
+      "end": 13.81,
+      "text": "daquele mundo."
+    },
+    {
+      "start": 14.94,
+      "end": 16.81,
+      "text": "Isso muda a sensação de estar ouvindo."
+    },
+    {
+      "start": 17.42,
+      "end": 19.62,
+      "text": "Uma lista pessoal parece preparada só pra"
+    },
+    {
+      "start": 19.62,
+      "end": 20.44,
+      "text": "você."
+    },
+    {
+      "start": 20.44,
+      "end": 21.53,
+      "text": "Quando entra um locutor,"
+    },
+    {
+      "start": 21.98,
+      "end": 23.81,
+      "text": "dá impressão de existir um público maior,"
+    },
+    {
+      "start": 24.18,
+      "end": 26.49,
+      "text": "com outras pessoas acompanhando aquela transmissão."
+    },
+    {
+      "start": 27.2,
+      "end": 28.11,
+      "text": "É engraçado:"
+    },
+    {
+      "start": 28.48,
+      "end": 30.12,
+      "text": "fora do jogo, a gente paga pra"
+    },
+    {
+      "start": 30.12,
+      "end": 31.15,
+      "text": "fugir de anúncio."
+    },
+    {
+      "start": 31.58,
+      "end": 34.12,
+      "text": "Dentro de GTA, fica feliz porque a"
+    },
+    {
+      "start": 34.12,
+      "end": 36.29,
+      "text": "propaganda deixou a cidade mais convincente."
+    },
+    {
+      "start": 37.08,
+      "end": 38.25,
+      "text": "A paz durou pouco."
+    },
+    {
+      "start": 38.62,
+      "end": 40.61,
+      "text": "O intervalo comercial encontrou outro caminho."
+    },
+    {
+      "start": 41.62,
+      "end": 44.08,
+      "text": "E um anúncio fictício pode contar o"
+    },
+    {
+      "start": 44.08,
+      "end": 46.62,
+      "text": "que aquele lugar valoriza ou o que"
+    },
+    {
+      "start": 46.62,
+      "end": 47.95,
+      "text": "alguém está tentando vender."
+    },
+    {
+      "start": 48.98,
+      "end": 51.34,
+      "text": "A rua fica na imagem, enquanto uma"
+    },
+    {
+      "start": 51.34,
+      "end": 53.64,
+      "text": "parte da personalidade da cidade chega pelo"
+    },
+    {
+      "start": 53.64,
+      "end": 54.49,
+      "text": "som."
+    },
+    {
+      "start": 54.92,
+      "end": 57.52,
+      "text": "Estou falando da Self Radio de GTA"
+    },
+    {
+      "start": 57.52,
+      "end": 58.39,
+      "text": "cinco no PC,"
+    },
+    {
+      "start": 59.02,
+      "end": 60.19,
+      "text": "nesse modo específico."
+    },
+    {
+      "start": 60.64,
+      "end": 62.6,
+      "text": "Isso não confirma a mesma função em"
+    },
+    {
+      "start": 62.6,
+      "end": 65.08,
+      "text": "GTA seis nem descreve todos os modos"
+    },
+    {
+      "start": 65.08,
+      "end": 66.29,
+      "text": "de reprodução disponíveis."
+    },
+    {
+      "start": 66.98,
+      "end": 69.25,
+      "text": "O detalhe interessante é a transformação:"
+    },
+    {
+      "start": 70.08,
+      "end": 72.82,
+      "text": "você entrega músicas pessoais e recebe algo"
+    },
+    {
+      "start": 72.82,
+      "end": 74.61,
+      "text": "que parece existir dentro do jogo."
+    },
+    {
+      "start": 75.3,
+      "end": 76.84,
+      "text": "Não é só a faixa entre uma"
+    },
+    {
+      "start": 76.84,
+      "end": 77.69,
+      "text": "curva e outra."
+    },
+    {
+      "start": 78.04,
+      "end": 80.15,
+      "text": "Tem uma cidade falando nos intervalos."
+    },
+    {
+      "start": 80.52,
+      "end": 81.37,
+      "text": "Afinal..."
+    }
+  ]
+}

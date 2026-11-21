@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Tem um streamer no porta-malas do GTA 6. Sem malote, sem fuzil: o gameplay mostra um influenciador deitado no carro em movimento, com live de 51 mil. O que o carro virou está num ícone pequeno embaixo das estrelas, em dois tipos de corrida e numa oficina que só existe em foto. Sábado 14/11, faltam 5 dias para 19/11. No dia 19, você larga o carro marcado ou foge com ele? Amanhã, domingo 15/11: 11 detalhes doentios. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/688ae48aaa1a41b89b3bcd422c728e1e.mp4",
+              "thumbnail": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/85c5a20c912f42629db894e5d061868a.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

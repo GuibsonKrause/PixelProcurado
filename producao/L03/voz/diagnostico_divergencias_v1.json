@@ -1,0 +1,480 @@
+[
+  {
+    "block": "L03_B01_P01-P03",
+    "script_words": 121,
+    "asr_words": 415,
+    "diffs": [
+      {
+        "kind": "insert",
+        "start": 6.22,
+        "end": 6.54,
+        "asr": "",
+        "script": "a",
+        "asr_indices": [
+          21,
+          21
+        ],
+        "script_indices": [
+          21,
+          22
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 10.7,
+        "end": 11.0,
+        "asr": "80.",
+        "script": "oitenta. E",
+        "asr_indices": [
+          32,
+          33
+        ],
+        "script_indices": [
+          33,
+          35
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 20.72,
+        "end": 21.1,
+        "asr": "VIII.",
+        "script": "Vercetti.",
+        "asr_indices": [
+          57,
+          58
+        ],
+        "script_indices": [
+          59,
+          60
+        ]
+      },
+      {
+        "kind": "delete",
+        "start": 46.12,
+        "end": 142.9,
+        "asr": "É o hotel em que a gente salva o progresso depois de uma missão com o lenço. Ele é o cartão postal de uma era, né? Essa faixada meio arte -decor, de tons pastéis, é a cara da série. Mas a Rockstar tem o costumo de colocar um espere no passado. No trailer de GTA VI aparece esse mesmo hotel, só que com outro dono e outra plaga, Real Diamonds. Mas o que chama a atenção mesmo é o movimento. A plateia agora é uma parte ativa do cenário, produzindo a sua própria versão de cada momento. Minha leitura desse detalhe é que a Rockstar está fazendo de novo o que ela faz de melhor, mostrando como o passado continua ali, só que com uma nova camada de caos e significado. É como se o hotel ainda aguardasse a essência, mas agora ele está cercado por uma realidade bem mais elétrica e conectada. E aí nesse mesmo hotel dá até para imaginar o preço do Figuoba. Imaginar porque essa Rockstar não mostrou. Mas enfim, aí sim você está de frente para a praia de Vice City. E o mar continua sendo o grande cenário principal da vida nessa cidade, né? Tem gente que está ali correndo, pescando, só aproveitando o dia mesmo. E é aquele ponto. O sonho de alguém é o dia comum de outra pessoa. Então, sobre o que a gente viu, a plateia registrando o show mostrou quanto a tecnologia mudou a interação. As semelhanças como o mapa clássico reforçam a identidade do jogo. E os novos detalhes mostram o contraste entre o sonho e o dia a dia nessa cidade. E você acha que essa nova versão vai conseguir resgatar a mesma sensação do passado? Ou excesso de tecnologia vai mudar tudo?",
+        "script": "",
+        "asr_indices": [
+          119,
+          415
+        ],
+        "script_indices": [
+          121,
+          121
+        ]
+      }
+    ]
+  },
+  {
+    "block": "L03_B02_P04-P07",
+    "script_words": 210,
+    "asr_words": 451,
+    "diffs": [
+      {
+        "kind": "replace",
+        "start": 19.56,
+        "end": 19.98,
+        "asr": "2002,",
+        "script": "dois mil e dois,",
+        "asr_indices": [
+          57,
+          58
+        ],
+        "script_indices": [
+          57,
+          61
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 21.98,
+        "end": 22.78,
+        "asr": "1986.",
+        "script": "mil novecentos e oitenta e seis.",
+        "asr_indices": [
+          64,
+          65
+        ],
+        "script_indices": [
+          67,
+          73
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 27.22,
+        "end": 27.52,
+        "asr": "6",
+        "script": "seis",
+        "asr_indices": [
+          75,
+          76
+        ],
+        "script_indices": [
+          83,
+          84
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 31.86,
+        "end": 32.26,
+        "asr": "80",
+        "script": "oitenta",
+        "asr_indices": [
+          86,
+          87
+        ],
+        "script_indices": [
+          94,
+          95
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 51.66,
+        "end": 52.08,
+        "asr": "faixada.",
+        "script": "fachada.",
+        "asr_indices": [
+          140,
+          141
+        ],
+        "script_indices": [
+          148,
+          149
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 57.2,
+        "end": 57.62,
+        "asr": "6,",
+        "script": "seis,",
+        "asr_indices": [
+          155,
+          156
+        ],
+        "script_indices": [
+          163,
+          164
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 62.24,
+        "end": 62.34,
+        "asr": "a",
+        "script": "uma",
+        "asr_indices": [
+          169,
+          170
+        ],
+        "script_indices": [
+          177,
+          178
+        ]
+      },
+      {
+        "kind": "delete",
+        "start": 75.18,
+        "end": 151.38,
+        "asr": "Uma imagem com real dimes e algumas Palmeiras mostra bem o uso da cidade. É a plateia produzindo sua própria versão do momento. Quando esse pessoal erga os celulares para o alto, a gente precisa olhar para o outro lado e perguntar o que acontece quando a gente olha para além da câmera. Minha leitura é que essa nova cidade está tão interessada nas atividades paralelas quanto no crime. Dá até para imaginar o preço do frigo ao bar em Vassili. Imaginar porque esse é a rockstar no mostró. Na praia a gente vê yates com helicópteros, pessoas em jet skis e um dirigível lá no fundo do céu. A paisagem é linda, mas o que realmente vai contar para a sua viagem é qual atividade você vai escolher para fazer. E essa escolha reforça que um sonho de alguém é o dia comum de outra pessoa. Isso resume tudo. Vassili tem o que você quer fazer. E a gente vai descobrir se tem também o tempo necessário para você fazer tudo o que quer. Então é assim que a rockstar planeja nos receber mais uma vez. Para terminar nossa conversa, a primeira parte é entender que a cidade é o próprio personagem. A segunda parte é que o visual da rua constrói uma linguagem totalmente familiar. E a terceira parte é que as atividades vão dar o peso para o sonho ou para a rotina. E você, qual é a sua versão ideal de uma tarde em Vassili?",
+        "script": "",
+        "asr_indices": [
+          202,
+          451
+        ],
+        "script_indices": [
+          210,
+          210
+        ]
+      }
+    ]
+  },
+  {
+    "block": "L03_B03_P08-P12",
+    "script_words": 224,
+    "asr_words": 221,
+    "diffs": [
+      {
+        "kind": "replace",
+        "start": 7.74,
+        "end": 8.78,
+        "asr": "Dimes, dois",
+        "script": "Dimez, duas",
+        "asr_indices": [
+          22,
+          24
+        ],
+        "script_indices": [
+          22,
+          24
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 10.72,
+        "end": 11.04,
+        "asr": "cercada",
+        "script": "cercadas",
+        "asr_indices": [
+          31,
+          32
+        ],
+        "script_indices": [
+          31,
+          32
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 24.04,
+        "end": 24.38,
+        "asr": "aversão",
+        "script": "versão",
+        "asr_indices": [
+          67,
+          68
+        ],
+        "script_indices": [
+          67,
+          68
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 42.94,
+        "end": 43.26,
+        "asr": "ensinar",
+        "script": "encenar",
+        "asr_indices": [
+          115,
+          116
+        ],
+        "script_indices": [
+          115,
+          116
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 52.84,
+        "end": 53.18,
+        "asr": "promessa",
+        "script": "promessas",
+        "asr_indices": [
+          137,
+          138
+        ],
+        "script_indices": [
+          137,
+          138
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 56.12,
+        "end": 56.74,
+        "asr": "comerciales",
+        "script": "comerciais",
+        "asr_indices": [
+          146,
+          147
+        ],
+        "script_indices": [
+          146,
+          147
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 59.44,
+        "end": 60.1,
+        "asr": "1986.",
+        "script": "mil novecentos e oitenta e seis.",
+        "asr_indices": [
+          153,
+          154
+        ],
+        "script_indices": [
+          153,
+          159
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 65.84,
+        "end": 66.32,
+        "asr": "colocá -lo",
+        "script": "colocá-lo",
+        "asr_indices": [
+          167,
+          169
+        ],
+        "script_indices": [
+          172,
+          173
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 71.64,
+        "end": 71.8,
+        "asr": "num",
+        "script": "no",
+        "asr_indices": [
+          182,
+          183
+        ],
+        "script_indices": [
+          186,
+          187
+        ]
+      },
+      {
+        "kind": "delete",
+        "start": 79.14,
+        "end": 79.3,
+        "asr": "os",
+        "script": "",
+        "asr_indices": [
+          199,
+          200
+        ],
+        "script_indices": [
+          203,
+          203
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 85.52,
+        "end": 86.08,
+        "asr": "algum segundo",
+        "script": "alguns segundos",
+        "asr_indices": [
+          217,
+          219
+        ],
+        "script_indices": [
+          220,
+          222
+        ]
+      }
+    ]
+  },
+  {
+    "block": "L03_B04_P13-P16",
+    "script_words": 182,
+    "asr_words": 179,
+    "diffs": [
+      {
+        "kind": "replace",
+        "start": 0.94,
+        "end": 1.28,
+        "asr": "afester",
+        "script": "a festa é a",
+        "asr_indices": [
+          2,
+          3
+        ],
+        "script_indices": [
+          2,
+          6
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 7.44,
+        "end": 7.88,
+        "asr": "baranda,",
+        "script": "varanda,",
+        "asr_indices": [
+          22,
+          23
+        ],
+        "script_indices": [
+          25,
+          26
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 11.56,
+        "end": 11.86,
+        "asr": "câmara",
+        "script": "câmera",
+        "asr_indices": [
+          35,
+          36
+        ],
+        "script_indices": [
+          38,
+          39
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 16.18,
+        "end": 16.64,
+        "asr": "vai se sítio",
+        "script": "Vice City",
+        "asr_indices": [
+          51,
+          54
+        ],
+        "script_indices": [
+          54,
+          56
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 21.8,
+        "end": 22.24,
+        "asr": "Imagina",
+        "script": "Imaginar,",
+        "asr_indices": [
+          68,
+          69
+        ],
+        "script_indices": [
+          70,
+          71
+        ]
+      },
+      {
+        "kind": "insert",
+        "start": 23.0,
+        "end": 23.54,
+        "asr": "",
+        "script": "a",
+        "asr_indices": [
+          71,
+          71
+        ],
+        "script_indices": [
+          73,
+          74
+        ]
+      },
+      {
+        "kind": "replace",
+        "start": 31.62,
+        "end": 32.0,
+        "asr": "detentor",
+        "script": "detector",
+        "asr_indices": [
+          94,
+          95
+        ],
+        "script_indices": [
+          97,
+          98
+        ]
+      }
+    ]
+  }
+]

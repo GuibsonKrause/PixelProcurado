@@ -1,0 +1,128 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.3,
+    "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 2.3,
+    "end": 5.4,
+    "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 5.4,
+    "end": 10.833,
+    "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0.25,
+      0.15,
+      0.42,
+      0.55
+    ],
+    "highlight": null
+  },
+  {
+    "start": 15.3,
+    "end": 20.133,
+    "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 20.133,
+    "end": 24.867,
+    "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 28.3,
+    "end": 32.833,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 32.833,
+    "end": 35.767,
+    "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 51.6,
+    "end": 54.333,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 54.333,
+    "end": 59.367,
+    "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+    "source": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+    "source_start": 35.1,
+    "motion_seconds": 2.7,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 63.467,
+    "end": 69.8,
+    "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 73.233,
+    "end": 74.333,
+    "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  }
+]

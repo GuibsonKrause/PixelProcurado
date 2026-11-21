@@ -1,0 +1,42 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-12T01:19:26.533020+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "As 6 estrelas de procurado do GTA 6: assalto, perseguição em pinça, helicóptero e a garagem coberta. Análise do gameplay oficial (vídeo completo no canal). #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/861585f7d912401caa6ee18eeed7525d.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/c2102053e83c47ef99e3703ad64c8471.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/1d932ceeceae4fe08f43ed46aea79952.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d04c1711f1d44b0fbcaef16382c37d39.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

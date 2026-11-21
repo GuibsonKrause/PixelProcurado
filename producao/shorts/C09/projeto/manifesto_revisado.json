@@ -1,0 +1,62 @@
+{
+  "id": "C09",
+  "date": "2026-10-31",
+  "inputs": [
+    {
+      "path": "producao\\shorts\\C09\\voz\\NARRACAO.txt",
+      "sha256": "96c2713c9d69d550e7b4366e43f4119bcb466ab85d7baddbaed87e6ea9d7abc3",
+      "bytes": 1236
+    },
+    {
+      "path": "producao\\shorts\\C09\\voz\\GEMINI.txt",
+      "sha256": "d8a762daae561f484c7c6cacadbf7b4e1dda39946d06ed77e85952e26d56635d",
+      "bytes": 1259
+    },
+    {
+      "path": "producao\\shorts\\C09\\voz\\narracao_original.wav",
+      "sha256": "e96695fd40272c7af6c845bcfd80b57c56574fb2d90d968b35936c568fe12f8d",
+      "bytes": 3967076
+    },
+    {
+      "path": "producao\\shorts\\C09\\voz\\narracao.wav",
+      "sha256": "b7f9db5ee06f31d3a7b769b3732bd761e4442ec9a37d4d2274530d2d45515376",
+      "bytes": 7921998
+    },
+    {
+      "path": "producao\\shorts\\C09\\exportacoes\\Pixel_Procurado_C09_Short_1080x1920.mp4",
+      "sha256": "c4147a8e0bb11b8a4fb6ea08e30a81445740dbb631b022e0f7c46f6535e1d982",
+      "bytes": 18031829
+    },
+    {
+      "path": "producao\\shorts\\C09\\exportacoes\\C09_legendas.srt",
+      "sha256": "7d5422d232c3723070696afd402344dea15b8553966616beb0ae8316993d62cb",
+      "bytes": 2811
+    },
+    {
+      "path": "producao\\shorts\\C09\\publicacao\\capa_master.png",
+      "sha256": "51302f350efb2cb555bdd25f60345a732953b0e55b8fbba418dbc80ee5b49219",
+      "bytes": 2826486
+    },
+    {
+      "path": "producao\\shorts\\C09\\publicacao\\capa_youtube.jpg",
+      "sha256": "f322c37abb0b6b1b340021d76e2ed92f2f179a15cb96efe21b380b34ffc7c0b3",
+      "bytes": 665117
+    }
+  ],
+  "shots": 21,
+  "video_shot_seconds": 15.7,
+  "source_motion_seconds": 4.7,
+  "duration": 82.52,
+  "tts": {
+    "model": "gemini-3.8-flash-tts",
+    "voice": "voice_iagtq1gnk2br",
+    "language": "pt-BR"
+  },
+  "limits": [
+    "Revisão visual por amostras, não escuta humana integral.",
+    "Fontes horizontais preservadas em painel vertical; GTA V de apoio é 720p.",
+    "C09 analisa fotografias específicas; C12 perfil e hipóteses sem missão anunciada.",
+    "Trechos muito curtos sustentam o último quadro após o movimento; tempo real em source_motion_seconds.",
+    "Sem upload, agendamento ou Postiz."
+  ]
+}

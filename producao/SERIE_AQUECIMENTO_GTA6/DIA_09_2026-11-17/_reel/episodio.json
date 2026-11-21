@@ -1,0 +1,173 @@
+{
+ "id": "DIA_09_2026-11-17",
+ "titulo": "GTA 6: Vice City Pede Documento na Porta (Boates, Boobie Ike e a Noite de Luxo)",
+ "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+ "pasta_fontes": "videosGTAVI",
+ "gsap": "producao/L08/montagem/hyperframes_long/gsap.min.js",
+ "midias": {
+  "EXT": "GTAVI_An_Extended_Look.mp4",
+  "B01": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_01.jpg",
+  "B02": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_02.jpg",
+  "B03": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_03.jpg",
+  "B04": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_04.jpg",
+  "D01": "GTAVI_Screenshots/People/DreQuan Priest/DreQuan_Priest_01.jpg",
+  "D02": "GTAVI_Screenshots/People/DreQuan Priest/DreQuan_Priest_02.jpg",
+  "D03": "GTAVI_Screenshots/People/DreQuan Priest/DreQuan_Priest_03.jpg",
+  "D04": "GTAVI_Screenshots/People/DreQuan Priest/DreQuan_Priest_04.jpg",
+  "VC07": "GTAVI_Screenshots/Places/Vice City/Vice_City_07.jpg",
+  "Q2537": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/Q2537_PISTOLA.jpg",
+  "QPORTA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/QPORTA_ID.jpg",
+  "C03_REGRAS": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C03_REGRAS.jpg",
+  "C04_JOH": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C04_JOH.jpg",
+  "C08_CITACAO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C08_CITACAO.jpg",
+  "C17_CORRECAO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C17_CORRECAO.jpg",
+  "C21_NAOCONF": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C21_NAOCONF.jpg",
+  "C22_DIA10": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C22_DIA10.jpg"
+ },
+ "correcoes_legenda": {
+  "rockstar": "Rockstar",
+  "gta": "GTA",
+  "boobie": "Boobie",
+  "ike": "Ike",
+  "dimez": "Dimez"
+ },
+ "formatos": {
+  "short": {
+   "stem": "Pixel_Procurado_DIA09_Reel_V2",
+   "resolucao": [
+    1080,
+    1920
+   ],
+   "fps": 30,
+   "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_reel/audio/narracao.wav",
+   "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_reel/audio/palavras.json",
+   "planos": [
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 17:33",
+     "midia": "EXT",
+     "inicio": 1053,
+     "tipo": "editorial",
+     "corte": [
+      0.0,
+      2.82
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 17:35",
+     "midia": "EXT",
+     "inicio": 1055.4,
+     "tipo": "editorial",
+     "corte": [
+      2.82,
+      6.82
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 21:38",
+     "midia": "EXT",
+     "inicio": 1298,
+     "tipo": "editorial",
+     "corte": [
+      6.82,
+      12.82
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 21:00",
+     "midia": "EXT",
+     "inicio": 1260,
+     "tipo": "editorial",
+     "corte": [
+      12.82,
+      18.82
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 24:55",
+     "midia": "EXT",
+     "inicio": 1495.5,
+     "tipo": "editorial",
+     "corte": [
+      18.82,
+      24.88
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "C03_REGRAS",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      24.88,
+      33.88
+     ],
+     "sem_card": true,
+     "movimento": "fixo"
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B03",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      33.88,
+      41.0
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 17:33",
+     "midia": "EXT",
+     "inicio": 1053.2,
+     "tipo": "editorial",
+     "corte": [
+      41.0,
+      45.5
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B04",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      45.5,
+      49.0
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "C04_JOH",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      49.0,
+      57.0
+     ],
+     "sem_card": true,
+     "movimento": "fixo"
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B02",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      57.0,
+      64.27
+     ]
+    }
+   ]
+  }
+ }
+}

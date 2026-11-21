@@ -1,0 +1,226 @@
+{
+  "version": 1,
+  "items": {
+    "youtube_long": {
+      "r2_key_0": "publicacoes/7c86d4766f204704a0b6b01b7120c504.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/7c86d4766f204704a0b6b01b7120c504.mp4"
+        }
+      ],
+      "capa_obj": {
+        "id": "0cabf5ba-4cf6-45b6-88d1-7465443b3fcb",
+        "name": "e2c85af6cae363e3109704fed102b30b4b.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/16/e2c85af6cae363e3109704fed102b30b4b.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-16T20:04:56.531675+00:00",
+      "post_id": "cmwjp050s0000pn9zht9zc0b8",
+      "enviado_em": "2026-11-16T20:04:56.531675+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "ERROR",
+        "releaseURL": null,
+        "releaseId": null,
+        "publishDate": "2026-11-16T20:04:00.000Z",
+        "error": null
+      }
+    },
+    "youtube_short": {
+      "medias": [
+        {
+          "id": "2652658e-cba7-48d2-9d1a-7bd43a892f54",
+          "name": "b105e259f14d780712bf107ac6cc2610627.mp4",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/16/b105e259f14d780712bf107ac6cc2610627.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "capa_obj": {
+        "id": "12ab497c-b4f1-4413-a492-d19dd207cce0",
+        "name": "0bbebc7f0828822a7724610a5b871f93b.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/16/0bbebc7f0828822a7724610a5b871f93b.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-16T20:05:17.058867+00:00",
+      "post_id": "cmwjp0kmr0001pn9zy2ux6gpo",
+      "enviado_em": "2026-11-16T20:05:17.058867+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=uNTh7ctI07E",
+        "releaseId": "uNTh7ctI07E",
+        "publishDate": "2026-11-16T20:05:00.000Z",
+        "error": null
+      }
+    },
+    "instagram_reel": {
+      "r2_key_0": "publicacoes/a04875c1aec447d28f6b7459862b97c7.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/a04875c1aec447d28f6b7459862b97c7.mp4"
+        }
+      ],
+      "r2_key_capa": "publicacoes/0f1bd8f2c4f140d5a9ca4b1b565f47f4.jpg",
+      "capa_obj": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/0f1bd8f2c4f140d5a9ca4b1b565f47f4.jpg"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-16T20:05:39.585611+00:00",
+      "post_id": "cmwjp123n0002pn9z7pu4yw9n",
+      "enviado_em": "2026-11-16T20:05:39.585611+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/Df0LPo8z_ZR/",
+        "releaseId": "17981739704914906",
+        "publishDate": "2026-11-16T20:05:00.000Z",
+        "error": null
+      }
+    },
+    "instagram_longo_reel": {
+      "r2_key_0": "publicacoes/7a15086ee0754059a345c3955a28b244.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/7a15086ee0754059a345c3955a28b244.mp4"
+        }
+      ],
+      "r2_key_capa": "publicacoes/dd5fef4cb8434a9d8c7379e21310b2a7.jpg",
+      "capa_obj": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/dd5fef4cb8434a9d8c7379e21310b2a7.jpg"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-16T20:06:26.146473+00:00",
+      "post_id": "cmwjp21qk0003pn9z3ehb39sv",
+      "enviado_em": "2026-11-16T20:06:26.146473+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/Df0Lc4Pzu72/",
+        "releaseId": "18571666183077769",
+        "publishDate": "2026-11-16T20:06:00.000Z",
+        "error": null
+      }
+    },
+    "instagram_story": {
+      "r2_key_0": "publicacoes/1ca0552c884543be8148e1835b3aa5fa.png",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/1ca0552c884543be8148e1835b3aa5fa.png"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-16T20:06:32.585647+00:00",
+      "post_id": "cmwjp26o30004pn9z7qixdu8q",
+      "enviado_em": "2026-11-16T20:06:32.585647+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/stories/pixelprocurado/4031897412117269271",
+        "releaseId": "17929795788435385",
+        "publishDate": "2026-11-16T20:06:00.000Z",
+        "error": null
+      }
+    },
+    "facebook_video": {
+      "r2_key_0": "publicacoes/1fdc33046a744cedaa22b019d9e63564.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/1fdc33046a744cedaa22b019d9e63564.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-16T20:10:56.995139+00:00",
+      "post_id": "cmwjp7usv0005pn9z4dopk1bz",
+      "enviado_em": "2026-11-16T20:10:56.995139+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/reel/1921978958962734",
+        "releaseId": "1921978958962734",
+        "publishDate": "2026-11-16T20:10:00.000Z",
+        "error": null
+      }
+    },
+    "facebook_reel": {
+      "r2_key_0": "publicacoes/d0aab4d54c014b0ea21c04f895d052e7.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d0aab4d54c014b0ea21c04f895d052e7.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-16T20:11:12.710716+00:00",
+      "post_id": "cmwjp86xk0006pn9zp99hbd6r",
+      "enviado_em": "2026-11-16T20:11:12.710716+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/reel/1671142561119532",
+        "releaseId": "1671142561119532",
+        "publishDate": "2026-11-16T20:11:00.000Z",
+        "error": null
+      }
+    },
+    "facebook_story": {
+      "r2_key_0": "publicacoes/ff417845a63946338e3a9670ee445d92.png",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/ff417845a63946338e3a9670ee445d92.png"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-16T20:11:18.196245+00:00",
+      "post_id": "cmwjp8bdy0007pn9z7nlj8p3y",
+      "enviado_em": "2026-11-16T20:11:18.196245+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/stories/4642871416001798",
+        "releaseId": "4642871416001798",
+        "publishDate": "2026-11-16T20:11:00.000Z",
+        "error": null
+      }
+    },
+    "tiktok_short": {
+      "r2_key_0": "publicacoes/00150411b2194885ac85d1c4b5d0ea51.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/00150411b2194885ac85d1c4b5d0ea51.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-16T20:11:34.302428+00:00",
+      "post_id": "cmwjp8o6p0008pn9z6nzwlxlw",
+      "enviado_em": "2026-11-16T20:11:34.302428+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.tiktok.com/messages?lang=en#v_inbox_file~v2.7708864412717123605",
+        "releaseId": "missing",
+        "publishDate": "2026-11-16T20:11:00.000Z",
+        "error": null
+      }
+    }
+  }
+}

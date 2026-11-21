@@ -1,0 +1,503 @@
+{
+  "id": "C06",
+  "title": "GTA 6: o erro de dar zoom na imagem errada",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 74.32,
+  "frames": 2230,
+  "voice": "producao/shorts/C06/voz/narracao.wav",
+  "shots": [
+    {
+      "anchor": null,
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "title": "GRÁFICOS\nNO PÔSTER?",
+      "label": "GTA VI • ARTWORK OFICIAL",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "from": 0,
+      "frames": 69,
+      "part": 0,
+      "index": 0,
+      "start": 0.0,
+      "end": 2.3,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Uma imagem oficial",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "title": "OFICIAL PODE SER DESENHO.",
+      "label": "GTA VI • ARTWORK",
+      "mode": "panel",
+      "offset": 0,
+      "from": 69,
+      "frames": 93,
+      "part": 0,
+      "index": 1,
+      "start": 2.3,
+      "end": 5.4,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Parece óbvio",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "title": "ZOOM NO ARQUIVO ERRADO.",
+      "label": "RECORTE DA ILUSTRAÇÃO",
+      "mode": "panel",
+      "offset": 0,
+      "crop": [
+        0.25,
+        0.15,
+        0.42,
+        0.55
+      ],
+      "from": 162,
+      "frames": 163,
+      "part": 0,
+      "index": 2,
+      "start": 5.4,
+      "end": 10.833333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Daqui a pouco",
+      "file": "",
+      "title": "DESEMPENHO PELA MOLDURA?",
+      "label": "COMPARAÇÃO BEM-HUMORADA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O MATERIAL NÃO RESPONDE A ISSO"
+      ],
+      "from": 325,
+      "frames": 134,
+      "part": 0,
+      "index": 3,
+      "start": 10.833333333333334,
+      "end": 15.3,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Olha a arte",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "title": "JASON + LUCIA. CÉU ROSA.",
+      "label": "ARTWORK • NÃO É CAPTURA",
+      "mode": "panel",
+      "offset": 0,
+      "from": 459,
+      "frames": 145,
+      "part": 0,
+      "index": 4,
+      "start": 15.3,
+      "end": 20.133333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Ela tem traço",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "title": "TRAÇO. CORES. COMPOSIÇÃO.",
+      "label": "ESCOLHAS DA ILUSTRAÇÃO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 604,
+      "frames": 142,
+      "part": 0,
+      "index": 5,
+      "start": 20.133333333333333,
+      "end": 24.866666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A própria biblioteca",
+      "file": "",
+      "title": "DUAS CATEGORIAS",
+      "label": "BIBLIOTECA OFICIAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "ARTWORK & WALLPAPERS",
+        "SCREENSHOTS"
+      ],
+      "from": 746,
+      "frames": 103,
+      "part": 0,
+      "index": 6,
+      "start": 24.866666666666667,
+      "end": 28.3,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Uma captura permite",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+      "title": "UM QUADRO DO JOGO.",
+      "label": "SCREENSHOT • CATEGORIA OFICIAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 849,
+      "frames": 136,
+      "part": 0,
+      "index": 7,
+      "start": 28.3,
+      "end": 32.833333333333336,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A ilustração mostra",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "title": "ESCOLHAS DO ARTISTA.",
+      "label": "ARTWORK • CATEGORIA OFICIAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 985,
+      "frames": 88,
+      "part": 0,
+      "index": 8,
+      "start": 32.833333333333336,
+      "end": 35.766666666666666,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "As duas são oficiais",
+      "file": "",
+      "title": "OFICIAIS. PERGUNTAS DIFERENTES.",
+      "label": "CRITÉRIO DE ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "ARTE → REPRESENTAÇÃO",
+        "CAPTURA → QUADRO DIVULGADO"
+      ],
+      "from": 1073,
+      "frames": 135,
+      "part": 0,
+      "index": 9,
+      "start": 35.766666666666666,
+      "end": 40.266666666666666,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Usar o desenho",
+      "file": "",
+      "title": "PLANTA ≠ VENTILAÇÃO",
+      "label": "COMPARAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "SETA AZUL NO DESENHO",
+        "VENTO REAL?"
+      ],
+      "from": 1208,
+      "frames": 195,
+      "part": 0,
+      "index": 10,
+      "start": 40.266666666666666,
+      "end": 46.766666666666666,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Tem uma seta",
+      "file": "",
+      "title": "DEVE ENTRAR UM VENTO…",
+      "label": "COMPARAÇÃO BEM-HUMORADA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "A SETA NÃO É UMA MEDIÇÃO"
+      ],
+      "from": 1403,
+      "frames": 145,
+      "part": 0,
+      "index": 11,
+      "start": 46.766666666666666,
+      "end": 51.6,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "E uma captura",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+      "title": "UMA CAPTURA É UM INSTANTE.",
+      "label": "SCREENSHOT • LIMITE DA EVIDÊNCIA",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1548,
+      "frames": 82,
+      "part": 0,
+      "index": 12,
+      "start": 51.6,
+      "end": 54.333333333333336,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Sozinha, ela",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "MOVIMENTO PEDE OUTRO MATERIAL.",
+      "label": "GTA VI • VÍDEO, NÃO TESTE DE CONTROLE",
+      "mode": "panel",
+      "offset": 35.1,
+      "motion": 2.7,
+      "from": 1630,
+      "frames": 151,
+      "part": 0,
+      "index": 13,
+      "start": 54.333333333333336,
+      "end": 59.36666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Pra essas perguntas",
+      "file": "",
+      "title": "A PROVA PRECISA CORRESPONDER",
+      "label": "CRITÉRIO DE ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "MOVIMENTO",
+        "RESPOSTA AO CONTROLE"
+      ],
+      "from": 1781,
+      "frames": 123,
+      "part": 0,
+      "index": 14,
+      "start": 59.36666666666667,
+      "end": 63.46666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Antes de discutir",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "title": "PRIMEIRO: ORIGEM E CATEGORIA.",
+      "label": "ARTWORK • CONFIRA A BIBLIOTECA",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1904,
+      "frames": 190,
+      "part": 0,
+      "index": 15,
+      "start": 63.46666666666667,
+      "end": 69.8,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Esse passo",
+      "file": "",
+      "title": "EVITE A DISCUSSÃO ERRADA",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "CONFIRA O TIPO DE ARQUIVO"
+      ],
+      "from": 2094,
+      "frames": 103,
+      "part": 0,
+      "index": 16,
+      "start": 69.8,
+      "end": 73.23333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Afinal",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "title": "GRÁFICOS\nNO PÔSTER?",
+      "label": "GTA VI • ARTWORK OFICIAL",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "from": 2197,
+      "frames": 33,
+      "part": 0,
+      "index": 17,
+      "start": 73.23333333333333,
+      "end": 74.33333333333333,
+      "animationFrames": 18
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.73,
+      "text": "Estão avaliando gráficos no pôster."
+    },
+    {
+      "start": 2.3,
+      "end": 4.14,
+      "text": "Uma imagem oficial de GTA seis pode"
+    },
+    {
+      "start": 4.14,
+      "end": 5.4,
+      "text": "ser um desenho."
+    },
+    {
+      "start": 5.4,
+      "end": 7.88,
+      "text": "Parece óbvio até alguém ampliar o rosto"
+    },
+    {
+      "start": 7.88,
+      "end": 9.68,
+      "text": "no pôster pra avaliar os gráficos do"
+    },
+    {
+      "start": 9.68,
+      "end": 10.53,
+      "text": "jogo."
+    },
+    {
+      "start": 10.82,
+      "end": 12.18,
+      "text": "Daqui a pouco eu está medindo o"
+    },
+    {
+      "start": 12.18,
+      "end": 14.27,
+      "text": "desempenho do console pela qualidade da moldura."
+    },
+    {
+      "start": 15.3,
+      "end": 17.07,
+      "text": "Olha a arte de Jason e Lucia"
+    },
+    {
+      "start": 17.14,
+      "end": 18.96,
+      "text": "junto do carro, com céu rosa e"
+    },
+    {
+      "start": 18.96,
+      "end": 19.81,
+      "text": "palmeiras."
+    },
+    {
+      "start": 20.14,
+      "end": 22.46,
+      "text": "Ela tem traço, cores e uma composição"
+    },
+    {
+      "start": 22.46,
+      "end": 24.31,
+      "text": "pensada pra representar os personagens."
+    },
+    {
+      "start": 24.88,
+      "end": 26.72,
+      "text": "A própria biblioteca separa esse material"
+    },
+    {
+      "start": 26.72,
+      "end": 27.75,
+      "text": "das capturas de tela."
+    },
+    {
+      "start": 28.3,
+      "end": 30.64,
+      "text": "Uma captura permite observar como aquele"
+    },
+    {
+      "start": 30.64,
+      "end": 32.51,
+      "text": "quadro do jogo foi apresentado."
+    },
+    {
+      "start": 32.82,
+      "end": 35.11,
+      "text": "A ilustração mostra escolhas do artista."
+    },
+    {
+      "start": 35.78,
+      "end": 37.9,
+      "text": "As duas são oficiais, mas ajudam a"
+    },
+    {
+      "start": 37.9,
+      "end": 39.15,
+      "text": "responder perguntas diferentes."
+    },
+    {
+      "start": 40.26,
+      "end": 42.36,
+      "text": "Usar o desenho pra avaliar os gráficos"
+    },
+    {
+      "start": 42.36,
+      "end": 43.64,
+      "text": "é como olhar a planta de um"
+    },
+    {
+      "start": 43.64,
+      "end": 46.13,
+      "text": "apartamento e elogiar a ventilação."
+    },
+    {
+      "start": 46.76,
+      "end": 48.47,
+      "text": "Tem uma seta azul atravessando a sala."
+    },
+    {
+      "start": 49.02,
+      "end": 50.71,
+      "text": "Deve entrar um vento maravilhoso."
+    },
+    {
+      "start": 51.6,
+      "end": 53.21,
+      "text": "E uma captura também tem limite:"
+    },
+    {
+      "start": 53.5,
+      "end": 54.32,
+      "text": "mostra um instante."
+    },
+    {
+      "start": 54.32,
+      "end": 56.74,
+      "text": "Sozinha, ela não demonstra como o jogo"
+    },
+    {
+      "start": 56.74,
+      "end": 58.71,
+      "text": "roda em movimento ou responde ao controle."
+    },
+    {
+      "start": 59.38,
+      "end": 61.08,
+      "text": "Pra essas perguntas, precisamos de material"
+    },
+    {
+      "start": 61.08,
+      "end": 62.67,
+      "text": "que mostre justamente isso."
+    },
+    {
+      "start": 63.48,
+      "end": 65.73,
+      "text": "Antes de discutir cada poro do personagem,"
+    },
+    {
+      "start": 66.06,
+      "end": 67.54,
+      "text": "confere de onde veio a imagem e"
+    },
+    {
+      "start": 67.54,
+      "end": 68.99,
+      "text": "em qual categoria foi publicada."
+    },
+    {
+      "start": 69.8,
+      "end": 71.46,
+      "text": "Esse passo economiza uma discussão inteira"
+    },
+    {
+      "start": 71.46,
+      "end": 72.75,
+      "text": "baseada no arquivo errado."
+    },
+    {
+      "start": 73.24,
+      "end": 74.09,
+      "text": "Afinal..."
+    }
+  ]
+}

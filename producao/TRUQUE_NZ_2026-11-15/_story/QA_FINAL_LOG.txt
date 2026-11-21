@@ -1,0 +1,15 @@
+Validando short: Pixel_Procurado_Truque_NZ_Story_V2.mp4...
+{
+  "arquivo": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\_story\\exportacoes\\Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+  "dimensoes": "1080x1920",
+  "fps": 30.0,
+  "quadros": 672,
+  "quadros_esperados": 672,
+  "video_s": 22.4,
+  "audio_s": 22.4,
+  "lufs": -16.7,
+  "peak_dbfs": -1.4,
+  "intervalos_pretos": 0,
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\_story\\montagem\\short_v2_qa.jpg"
+}
+Validação concluída com sucesso.

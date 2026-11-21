@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-03T01:13:21.108928+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "O casal está no centro. A polícia também está na história. 🔎\n\nO recorte destaca o abraço de Jason e Lucia. A arte inteira deixa o perigo entrar na leitura: barcos da polícia e um helicóptero aparecem ao redor.\n\nQual detalhe do fundo você percebeu primeiro?\n\nAnálise visual de arte promocional de GTA 6, sem confirmação de missão ou traição. Fonte: biblioteca oficial de GTA VI, Rockstar Games.\n\nImagens: Rockstar Games. Análise e edição: Pixel Procurado. Narração sintética: Gemini TTS.\nCapa ilustrativa com IA; não é captura oficial.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/01/9b7b9fa543182b656425361a57f3466d.mp4",
+              "thumbnail": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/cad56b12a252fcd3c75d771981e9b66b.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

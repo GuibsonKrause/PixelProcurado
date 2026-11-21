@@ -1,0 +1,34 @@
+{
+  "file": "producao\\L03\\voz\\gemini\\reparo_v2\\L03_B03_REPARO_ENCENAR_narracao.wav",
+  "duration": 9.68,
+  "sample_rate": 24000,
+  "channels": 1,
+  "sample_width": 2,
+  "frames": 232320,
+  "sample_peak_dbfs": -3.2962865340152714,
+  "clipped_samples": 0,
+  "loudnorm": {
+    "input_i": "-22.21",
+    "input_tp": "-3.29",
+    "input_lra": "4.90",
+    "input_thresh": "-32.85",
+    "output_i": "-17.82",
+    "output_tp": "-1.50",
+    "output_lra": "3.50",
+    "output_thresh": "-28.35",
+    "normalization_type": "dynamic",
+    "target_offset": "1.82"
+  },
+  "silences_40db_500ms": [
+    {
+      "start": 6.039167,
+      "end": 6.764375,
+      "duration": 0.7252080000000003
+    },
+    {
+      "start": 8.304792,
+      "end": 8.842958,
+      "duration": 0.5381659999999986
+    }
+  ]
+}

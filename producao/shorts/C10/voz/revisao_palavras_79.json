@@ -1,0 +1,32 @@
+[
+  {
+    "start": 79.0,
+    "end": 79.2,
+    "word": "Falando",
+    "probability": 0.4981737369671464
+  },
+  {
+    "start": 79.2,
+    "end": 79.4,
+    "word": "nos",
+    "probability": 0.9403912425041199
+  },
+  {
+    "start": 79.4,
+    "end": 80.08,
+    "word": "intervalos.",
+    "probability": 0.9903614819049835
+  },
+  {
+    "start": 80.52,
+    "end": 81.02,
+    "word": "Na",
+    "probability": 0.9138993620872498
+  },
+  {
+    "start": 81.02,
+    "end": 81.22,
+    "word": "final.",
+    "probability": 0.9936275482177734
+  }
+]

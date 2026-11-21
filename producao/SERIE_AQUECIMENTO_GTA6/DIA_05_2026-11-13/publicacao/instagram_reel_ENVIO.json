@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-13T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Quem dirige a fuga é a Lucia. E a mensagem dela no minuto 23:50 do gameplay avisa de mais de dez caras na sala segura. Isso é cooperação de verdade no GTA 6. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/30550b84f31142c9810b0a0cf7899ed9.mp4",
+              "thumbnail": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/ebe9719b48bd4b619ef204dc8dbd9e7e.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

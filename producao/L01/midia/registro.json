@@ -1,0 +1,48 @@
+{
+  "note": "Registro editorial de origem e uso. Não substitui licença ou análise jurídica.",
+  "assets": [
+    {
+      "file": "originais/banco_gta_v_visao_geral.mp4",
+      "url": "https://darkgamesgta.pages.dev",
+      "download_url": "https://drive.google.com/uc?id=19fzSHfPZYZdjeMh3EoVt_hV9YK1eyku4&export=download",
+      "retrieved_at": "2026-10-23",
+      "purpose": "Imagem de apoio genérica sobre GTA e fundo visual para trechos editoriais",
+      "source_id": "CURSO-BANCO-GTA-V-001",
+      "use_conditions": "Disponibilizado no banco de vídeos das aulas para uso pelos alunos. Remover totalmente o áudio original. Identificar na tela como GTA V e não usar como prova visual de afirmações sobre GTA VI.",
+      "use_reviewed": true,
+      "credit": "Banco de vídeos das aulas — GTA V — visão geral",
+      "duration_seconds": 290.133333,
+      "sha256": "D8BF6497D74FBA5AD5C32A867831D02649063F234EBE79EBE0BAA03BBDD81EF3"
+    },
+    {
+      "file": "originais/rockstar_gta_vi_trailer_lancamento.mp4",
+      "url": "https://www.rockstargames.com/VI/media",
+      "retrieved_at": null,
+      "purpose": "Evidência visual oficial: premissa, personagens, Leonida e material mais recente",
+      "source_id": "ROCKSTAR-GTAVI-MEDIA-LAUNCH",
+      "use_conditions": "PENDENTE: baixar da fonte oficial, registrar arquivo e selecionar excertos curtos ligados à narração. Áudio original removido na montagem.",
+      "use_reviewed": false,
+      "credit": "Rockstar Games"
+    },
+    {
+      "file": "originais/rockstar_gta_vi_extended_look.mp4",
+      "url": "https://www.rockstargames.com/VI/media",
+      "retrieved_at": null,
+      "purpose": "Evidência visual oficial para contexto de cenas e demonstrações",
+      "source_id": "ROCKSTAR-GTAVI-MEDIA-EXTENDED",
+      "use_conditions": "PENDENTE: baixar da fonte oficial, registrar arquivo e selecionar excertos curtos ligados à narração. Áudio original removido na montagem.",
+      "use_reviewed": false,
+      "credit": "Rockstar Games"
+    },
+    {
+      "file": "originais/rockstar_gta_vi_imagens_oficiais",
+      "url": "https://www.rockstargames.com/VI",
+      "retrieved_at": null,
+      "purpose": "Retratos de Jason e Lucia, lugares de Leonida, cartelas de data e plataformas",
+      "source_id": "ROCKSTAR-GTAVI-OFFICIAL-IMAGES",
+      "use_conditions": "PENDENTE: baixar da fonte oficial e registrar cada imagem usada.",
+      "use_reviewed": false,
+      "credit": "Rockstar Games"
+    }
+  ]
+}

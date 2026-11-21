@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "producao.json do Pixel Procurado",
+  "type": "object",
+  "required": ["schema_versao", "id", "formato", "roteiro_origem", "etapa_atual", "etapas"],
+  "properties": {
+    "schema_versao": {"const": 1},
+    "id": {"type": "string", "minLength": 1},
+    "titulo": {"type": "string"},
+    "formato": {"enum": ["longo", "short", "longo_e_short"]},
+    "roteiro_origem": {
+      "description": "Caminho relativo a raiz do projeto, ou {longo, short} quando formato = longo_e_short.",
+      "oneOf": [{"type": "string", "minLength": 1}, {"type": "object", "additionalProperties": {"type": "string"}}]
+    },
+    "etapa_atual": {"enum": ["narracao", "alinhamento", "montagem", "render", "thumbnail", "publicacao_pacote", "distribuicao", "revisao_final", "concluido"]},
+    "status": {"$ref": "#/$defs/estado"},
+    "data_criacao": {"type": "string"},
+    "atualizado_em": {"type": "string"},
+    "agendamento_alvo": {"type": "string"},
+    "etapas": {
+      "type": "object",
+      "description": "Ordem do pipeline: narracao, alinhamento, montagem, render, thumbnail, publicacao_pacote, distribuicao, revisao_final.",
+      "required": ["narracao", "alinhamento", "montagem", "render", "thumbnail", "publicacao_pacote", "distribuicao", "revisao_final"],
+      "properties": {
+        "narracao": {"$ref": "#/$defs/etapa"},
+        "alinhamento": {"$ref": "#/$defs/etapa"},
+        "montagem": {"$ref": "#/$defs/etapa"},
+        "render": {"$ref": "#/$defs/etapa"},
+        "thumbnail": {"$ref": "#/$defs/etapa"},
+        "publicacao_pacote": {"$ref": "#/$defs/etapa"},
+        "distribuicao": {"$ref": "#/$defs/etapa"},
+        "revisao_final": {"$ref": "#/$defs/etapa"}
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "estado": {"enum": ["pendente", "em_andamento", "validado", "bloqueado"]},
+    "executor": {
+      "type": "object",
+      "description": "Etapa delegada. Valores efetivos so quando confirmados pelo ambiente; senao 'desconhecido'.",
+      "properties": {
+        "model_solicitado": {"type": "string"},
+        "reasoning_effort_solicitado": {"type": "string"},
+        "agent_id": {"type": "string"},
+        "model_efetivo": {"type": "string"},
+        "reasoning_effort_efetivo": {"type": "string"}
+      }
+    },
+    "etapa": {
+      "type": "object",
+      "required": ["status"],
+      "properties": {
+        "status": {"$ref": "#/$defs/estado"},
+        "tentativas": {"type": "integer", "minimum": 0},
+        "executor": {"$ref": "#/$defs/executor"},
+        "artefatos": {"type": "object", "description": "Caminhos relativos a raiz (string, lista ou objeto aninhado). Conferidos em etapas validadas."},
+        "medicoes": {"type": "object", "description": "duracao_s, lufs, true_peak_dbtp, quadros, fps, intervalos_pretos..."},
+        "relatorio": {"type": "string"},
+        "notas": {"type": "string"},
+        "atualizado_em": {"type": "string"},
+        "longo": {"$ref": "#/$defs/etapa"},
+        "short": {"$ref": "#/$defs/etapa"}
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Validando longo: Pixel_Procurado_Only_In_Dade_Longo_V2.mp4...
+{
+  "arquivo": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\ONLY_IN_DADE_2026-11-13\\exportacoes\\Pixel_Procurado_Only_In_Dade_Longo_V2.mp4",
+  "dimensoes": "3840x2160",
+  "fps": 30.000005071852083,
+  "quadros": 5915,
+  "quadros_esperados": 5915,
+  "video_s": 197.166633,
+  "audio_s": 196.98,
+  "lufs": -16.9,
+  "peak_dbfs": -1.3,
+  "intervalos_pretos": 0,
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\ONLY_IN_DADE_2026-11-13\\montagem\\long_v2_qa.jpg"
+}
+Validação concluída com sucesso.
+QA_EXIT=0

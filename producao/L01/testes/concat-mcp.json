@@ -1,0 +1,95 @@
+{
+  "initialize": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "capabilities": {
+        "tools": {
+          "listChanged": false
+        }
+      },
+      "instructions": "Concat is a video editor; these tools edit its projects. A project is a folder: open one (project_open) or make one (project_create), then pass its folder as `path` to every other tool. Read timeline_read for the ids of lanes (tracks), clips and media. Times and durations are seconds on the timeline; positions within a clip (keyframes) are fractions from 0 to 1; sizes and offsets of titles and pictures are fractions of the frame. Every edit is one undoable step (edit_undo); edit_apply with a batch command makes several into one. Edits live in memory until project_save. To render, export_start then export_wait. preview_frame shows the frame at a time. A refused edit says why in the window's words and changes nothing.",
+      "protocolVersion": "2025-03-26",
+      "serverInfo": {
+        "name": "concat",
+        "title": "Concat",
+        "version": "0.2.8"
+      }
+    }
+  },
+  "tool_names": [
+    "concat_version",
+    "project_list",
+    "project_create",
+    "project_open",
+    "project_save",
+    "project_close",
+    "timeline_read",
+    "project_get",
+    "project_set_video",
+    "media_probe",
+    "media_import",
+    "edit_apply",
+    "edit_undo",
+    "edit_redo",
+    "clip_add",
+    "clips_add_sequence",
+    "clip_trim",
+    "clips_split",
+    "clips_move",
+    "clips_remove",
+    "clip_update",
+    "clip_mask",
+    "clip_stabilize",
+    "clip_frame",
+    "timeline_background",
+    "clip_transform",
+    "clip_speed",
+    "title_add",
+    "captions_add",
+    "keyframe_set",
+    "keyframe_clear",
+    "effect_layer_add",
+    "effect_key_set",
+    "track_add",
+    "effects_list",
+    "template_list",
+    "template_instantiate",
+    "export_start",
+    "export_status",
+    "export_wait",
+    "export_cancel",
+    "preview_frame"
+  ],
+  "version": {
+    "id": 3,
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apiVersion\": \"0.2\",\n  \"capabilities\": [\n    \"events\",\n    \"mcp\"\n  ],\n  \"concat\": \"0.2.8\",\n  \"dirs\": {\n    \"config\": \"C:\\\\Users\\\\guibson.krause\\\\AppData\\\\Roaming\\\\app.concat.editor\",\n    \"data\": \"C:\\\\Users\\\\guibson.krause\\\\AppData\\\\Local\\\\app.concat.editor\"\n  },\n  \"mcp\": {\n    \"mode\": \"headless\",\n    \"writesUnder\": [\n      \"\\\\\\\\?\\\\C:\\\\Users\\\\guibson.krause\"\n    ]\n  }\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false,
+      "structuredContent": {
+        "apiVersion": "0.2",
+        "capabilities": [
+          "events",
+          "mcp"
+        ],
+        "concat": "0.2.8",
+        "dirs": {
+          "config": "C:\\Users\\guibson.krause\\AppData\\Roaming\\app.concat.editor",
+          "data": "C:\\Users\\guibson.krause\\AppData\\Local\\app.concat.editor"
+        },
+        "mcp": {
+          "mode": "headless",
+          "writesUnder": [
+            "\\\\?\\C:\\Users\\guibson.krause"
+          ]
+        }
+      }
+    }
+  }
+}

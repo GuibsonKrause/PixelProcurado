@@ -1,0 +1,104 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-07T12:00:00-03:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Por Que o Rádio de GTA Não Sai da Sua Cabeça?\n\nNo GTA 5 de PC, a Self Radio mistura suas próprias músicas com comerciais falsos e locutores da cidade. Por que a gente paga para tirar anúncio na vida real, mas comemora quando uma rádio fictícia interrompe o jogo?\n\nNeste episódio investigativo do Pixel Procurado, analisamos a psicologia sonora da franquia GTA: desde o clássico Vice City com a icônica Flash FM até o retorno das emissoras confirmadas de GTA 6 (como Cocoteo, Back Country e Dirty South Classics). Entenda como o som e as rádios transformam um passeio comum de carro em puro cinema e humor ácido.\n\nCapítulos:\n00:00 GTA faz você gostar de anúncio\n00:48 O efeito psicológico da rádio\n01:31 Como a música altera o cenário\n02:14 Vice City clássico e a Flash FM\n02:59 Trilha de ação vs. Rádio da cidade\n03:52 O humor nos momentos de desespero\n04:25 As rádios confirmadas de GTA 6\n04:58 A música que adia o seu destino\n\nFontes oficiais e referências:\n• Rockstar Games - GTA VI Music & Radio Stations\n• Rockstar Games - Grand Theft Auto V Self Radio & Dynamic Score\n• GTA Vice City Original Soundtrack & Flash FM Lore\n\nAcompanhe as investigações detalhadas de GTA 6 no Pixel Procurado: a pista vem acompanhada da fonte.\n\n#GTA6 #GTAVI #PixelProcurado #ViceCity #GTA5 #Games #RockstarGames",
+          "image": [
+            {
+              "id": "d8286c9f-f2df-4bae-b5b4-fb1d90d058f0",
+              "name": "a9a700681f6e7236faaa107cb023f232d.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/07/a9a700681f6e7236faaa107cb023f232d.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "Por Que o Rádio de GTA Não Sai da Sua Cabeça?",
+        "type": "public",
+        "privacyStatus": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "radios gta",
+            "label": "radios gta"
+          },
+          {
+            "value": "gta radio",
+            "label": "gta radio"
+          },
+          {
+            "value": "self radio gta v",
+            "label": "self radio gta v"
+          },
+          {
+            "value": "flash fm vice city",
+            "label": "flash fm vice city"
+          },
+          {
+            "value": "gta vice city musicas",
+            "label": "gta vice city musicas"
+          },
+          {
+            "value": "gta 6 radios",
+            "label": "gta 6 radios"
+          },
+          {
+            "value": "cocoteo gta 6",
+            "label": "cocoteo gta 6"
+          },
+          {
+            "value": "dirty south classics",
+            "label": "dirty south classics"
+          },
+          {
+            "value": "trilha sonora gta",
+            "label": "trilha sonora gta"
+          },
+          {
+            "value": "rockstar games",
+            "label": "rockstar games"
+          },
+          {
+            "value": "pixel procurado",
+            "label": "pixel procurado"
+          },
+          {
+            "value": "curiosidades gta",
+            "label": "curiosidades gta"
+          },
+          {
+            "value": "gta 6 gameplay",
+            "label": "gta 6 gameplay"
+          }
+        ],
+        "thumbnail": {
+          "id": "122914a1-22f7-4e84-80e2-919f52c44ddf",
+          "path": "http://localhost:4007/uploads/2026/11/07/8f8039ce25071a8103319e98e248bfc23.jpg"
+        }
+      }
+    }
+  ]
+}

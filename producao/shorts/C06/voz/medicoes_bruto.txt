@@ -1,0 +1,26 @@
+[aist#0:0/pcm_s16le @ 0000021d65cabf00] Guessed Channel Layout: mono
+Input #0, wav, from 'C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\shorts\C06\voz\bruto\C06_narracao.wav':
+  Duration: 00:01:14.32, bitrate: 384 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+[Parsed_volumedetect_1 @ 0000021d65cc9dc0] n_samples: 0
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> pcm_s16le (native))
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Audio: pcm_s16le, 24000 Hz, mono, s16, 384 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 pcm_s16le
+[silencedetect @ 0000021d65cedfc0] silence_start: 50.635417
+[silencedetect @ 0000021d65cedfc0] silence_end: 51.635875 | silence_duration: 1.000458
+[silencedetect @ 0000021d65cedfc0] silence_start: 58.720792
+[silencedetect @ 0000021d65cedfc0] silence_end: 59.523 | silence_duration: 0.802208
+[Parsed_volumedetect_1 @ 0000021d65ced940] n_samples: 1783680
+[Parsed_volumedetect_1 @ 0000021d65ced940] mean_volume: -20.9 dB
+[Parsed_volumedetect_1 @ 0000021d65ced940] max_volume: -1.6 dB
+[Parsed_volumedetect_1 @ 0000021d65ced940] histogram_1db: 75
+[Parsed_volumedetect_1 @ 0000021d65ced940] histogram_2db: 217
+[Parsed_volumedetect_1 @ 0000021d65ced940] histogram_3db: 642
+[Parsed_volumedetect_1 @ 0000021d65ced940] histogram_4db: 1587
+[out#0/null @ 0000021d65cc1480] video:0KiB audio:3484KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:01:14.32 bitrate=N/A speed=82.8x    

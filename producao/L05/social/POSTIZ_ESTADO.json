@@ -1,0 +1,145 @@
+{
+  "episode": "L05",
+  "scheduled_at": "2026-11-03T12:00:00-03:00",
+  "items": {
+    "youtube_feed": {
+      "signature": "aafb376015e4b35c001e109c6317ddbb8575e669a211b230701f8d543ad10783",
+      "media": {
+        "id": "84c7f324-ea2f-4acd-be69-fb2715c6bdd3",
+        "name": "88f4a678ce235fbe1f4fe9d47039aff0.mp4",
+        "originalName": null,
+        "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/88f4a678ce235fbe1f4fe9d47039aff0.mp4",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "thumbnail": {
+        "id": "1edbc048-2aae-462f-a0be-f312bf72c547",
+        "name": "9f1c5510c52bd710d86ed81d9c29c104e3.jpg",
+        "originalName": null,
+        "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/9f1c5510c52bd710d86ed81d9c29c104e3.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "creation_attempted_at": "2026-11-03T07:29:20.35066-03:00",
+      "response": [
+        {
+          "postId": "cmw0jptr00001mm8p68n38ppa",
+          "integration": "cmvsctfgl0001jncj932ovibv"
+        }
+      ],
+      "post_id": "cmw0jptr00001mm8p68n38ppa",
+      "status": {
+        "publishDate": "2026-11-03T15:00:00.000Z",
+        "state": "QUEUE",
+        "verified": "2026-11-03",
+        "error": null
+      }
+    },
+    "facebook_feed": {
+      "signature": "343ac8799fb8b9ae483a6e5622956259cdcc780812cf3b5e4aeecc147a2996f0",
+      "media": {
+        "id": "46509bb1-c680-4fa4-b3b3-38b494e1d478",
+        "name": "8d5fc2a17a61eb1fcdda5bdf96ba34ca.mp4",
+        "originalName": null,
+        "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/8d5fc2a17a61eb1fcdda5bdf96ba34ca.mp4",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "creation_attempted_at": "2026-11-03T07:29:27.381241-03:00",
+      "response": [
+        {
+          "postId": "cmw0jpzil0002mm8pi0jxq6el",
+          "integration": "cmvzyur290001pddwolrt33em"
+        }
+      ],
+      "post_id": "cmw0jpzil0002mm8pi0jxq6el",
+      "status": {
+        "publishDate": "2026-11-03T15:00:00.000Z",
+        "state": "QUEUE",
+        "verified": "2026-11-03",
+        "error": null
+      }
+    },
+    "instagram_feed": {
+      "signature": "78cd924c413d0ab1ff6a01f5b0728e65cde01ba2fa804966357dab41ab83819c",
+      "media": {
+        "id": "8a3608e2-ade1-4b41-9fab-bdd4d13f43e9",
+        "name": "ec7a2df51087413b92009bc10e80921642.mp4",
+        "originalName": null,
+        "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/ec7a2df51087413b92009bc10e80921642.mp4",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "creation_attempted_at": "2026-11-03T07:29:32.889257-03:00",
+      "response": [
+        {
+          "postId": "cmw0jq3yi0003mm8py1rur78n",
+          "integration": "cmvzyw7vj0003pddwkgtivv8i"
+        }
+      ],
+      "post_id": "cmw0jq3yi0003mm8py1rur78n",
+      "status": {
+        "publishDate": "2026-11-03T15:00:00.000Z",
+        "state": "QUEUE",
+        "verified": "2026-11-03",
+        "error": null
+      }
+    },
+    "facebook_story": {
+      "signature": "eb3a4d338e31b15c80a56060d768ed6cad50fb1cb35025c6bed78ad0a949e512",
+      "media": {
+        "id": "6736ce14-92b2-4c6a-88d8-007d3e76c4b4",
+        "name": "fff64856fa9c832c7f7c1a97101041e099.mp4",
+        "originalName": null,
+        "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/fff64856fa9c832c7f7c1a97101041e099.mp4",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "creation_attempted_at": "2026-11-03T07:29:38.926104-03:00",
+      "response": [
+        {
+          "postId": "cmw0jq8800004mm8p0w57bjwt",
+          "integration": "cmvzyur290001pddwolrt33em"
+        }
+      ],
+      "post_id": "cmw0jq8800004mm8p0w57bjwt",
+      "status": {
+        "publishDate": "2026-11-03T15:00:00.000Z",
+        "state": "QUEUE",
+        "verified": "2026-11-03",
+        "error": null
+      }
+    },
+    "instagram_story": {
+      "signature": "6ffceff3e2c5c2d62af4d8f45ccf4fbbded9ecf362f684a9a8555c76bac4df93",
+      "media": {
+        "id": "9ddd7944-b311-44a2-baf6-23982948ab76",
+        "name": "caa262ad5440dd12a229cfbfd13155bb.mp4",
+        "originalName": null,
+        "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/caa262ad5440dd12a229cfbfd13155bb.mp4",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "creation_attempted_at": "2026-11-03T07:29:43.995035-03:00",
+      "response": [
+        {
+          "postId": "cmw0jqc5d0005mm8pnhwru12i",
+          "integration": "cmvzyw7vj0003pddwkgtivv8i"
+        }
+      ],
+      "post_id": "cmw0jqc5d0005mm8pnhwru12i",
+      "status": {
+        "publishDate": "2026-11-03T15:00:00.000Z",
+        "state": "QUEUE",
+        "verified": "2026-11-03",
+        "error": null
+      }
+    }
+  }
+}

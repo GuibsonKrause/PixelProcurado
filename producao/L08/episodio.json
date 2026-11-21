@@ -1,0 +1,107 @@
+{
+  "id": "L08",
+  "titulo": "GTA 6: quem deve a quem em Leonida?",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "LAUNCH": "GTAVI_Launch_Trailer.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "T2": "GTAVI_Trailer_2.mp4",
+    "BRIAN": "GTAVI_Screenshots/People/Brian Heder/Brian_Heder_04.jpg",
+    "CAL": "GTAVI_Screenshots/People/Cal Hampton/Cal_Hampton_04.jpg",
+    "RAUL": "GTAVI_Screenshots/People/Raul Bautista/Raul_Bautista_02.jpg",
+    "BOOBIE": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_02.jpg",
+    "DREQUAN": "GTAVI_Screenshots/People/DreQuan Priest/DreQuan_Priest_04.jpg"
+  },
+  "correcoes_legenda": {
+    "leonardo": "Leonida",
+    "leonida": "Leonida",
+    "gratis": "grátis",
+    "pragar": "pagar",
+    "dracone": "Dre'Quan",
+    "drequan": "Dre'Quan",
+    "bobbiq": "Boobie Ike",
+    "bobbi": "Boobie"
+  },
+  "formatos": {
+    "longo": {
+      "stem": "Pixel_Procurado_L08_Longo_V2",
+      "resolucao": [1920, 1080],
+      "fps": 60,
+      "voz": "producao/L08/voz/narracao_normalizada.wav",
+      "alinhamento": "producao/L08/voz/alinhamento_palavras.json",
+      "planos": [
+        {"titulo": "O ALUGUEL GRÁTIS", "detalhe": "Jason mora sem pagar aluguel na propriedade de Brian", "midia": "BRIAN", "inicio": 0, "tipo": "tag", "corte": [0.0, 14.5]},
+        {"titulo": "APRESENTAÇÃO OFICIAL", "detalhe": "O que cada um oferece e espera receber no elenco", "midia": "LAUNCH", "inicio": 47, "tipo": "editorial", "corte": [14.5, 27.5]},
+        {"titulo": "O VALOR DA MORADIA", "detalhe": "A ajuda que resolve o problema imediato de Jason", "midia": "EXT", "inicio": 31, "tipo": "tag", "corte": [27.5, 40.0]},
+        {"titulo": "A CAMINHONETE", "detalhe": "Brian Heder e Jason juntos na apresentação", "midia": "BRIAN", "inicio": 0, "tipo": "editorial", "corte": [40.0, 52.0]},
+        {"titulo": "GENTILEZA OU DÍVIDA?", "detalhe": "Onde termina o favor e começa a cobrança", "midia": "T2", "inicio": 15, "tipo": "editorial", "corte": [52.0, 64.0]},
+        {"titulo": "A CHAVE DA CASA", "detalhe": "Como recusar o pedido de quem resolve sua moradia?", "midia": "EXT", "inicio": 406, "tipo": "tag", "corte": [64.0, 75.0]},
+        {"titulo": "A FATURA DO FAVOR", "detalhe": "O aluguel grátis chega em outro formato", "midia": "T1", "inicio": 45, "tipo": "editorial", "corte": [75.0, 87.5]},
+        {"titulo": "CAL HAMPTON", "detalhe": "Amigo de Jason e associado a Brian", "midia": "CAL", "inicio": 0, "tipo": "tag", "corte": [87.5, 101.0]},
+        {"titulo": "AMIZADE E NEGÓCIO", "detalhe": "Confiança que torna pedidos difíceis de recusar", "midia": "EXT", "inicio": 542, "tipo": "editorial", "corte": [101.0, 114.0]},
+        {"titulo": "CONVITE PRA CERVEJA", "detalhe": "O ambiente em que favores se acumulam", "midia": "T2", "inicio": 35, "tipo": "tag", "corte": [114.0, 126.0]},
+        {"titulo": "EXAMINE O PEDIDO", "detalhe": "Em GTA, misturar dinheiro e amizade custa caro", "midia": "T1", "inicio": 50, "tipo": "editorial", "corte": [126.0, 139.0]},
+        {"titulo": "RAUL BAUTISTA", "detalhe": "Assaltante experiente com disposição para o risco", "midia": "RAUL", "inicio": 0, "tipo": "tag", "corte": [139.0, 153.0]},
+        {"titulo": "EXPERIÊNCIA X PRUDÊNCIA", "detalhe": "Confiança demais após várias tentativas certas", "midia": "EXT", "inicio": 245, "tipo": "data", "corte": [153.0, 166.0]},
+        {"titulo": "O PLANO PERIGOSO", "detalhe": "A calma de quem escolhe onde almoçar", "midia": "EXT", "inicio": 691, "tipo": "editorial", "corte": [166.0, 179.0]},
+        {"titulo": "DINHEIRO E ARMA", "detalhe": "O universo de risco sem missões inventadas", "midia": "RAUL", "inicio": 0, "tipo": "editorial", "corte": [179.0, 190.0]},
+        {"titulo": "QUEM PAGA PELO ERRO?", "detalhe": "A assimetria entre propor e sofrer o plano", "midia": "EXT", "inicio": 857, "tipo": "data", "corte": [190.0, 204.0]},
+        {"titulo": "ONLY RAW RECORDS", "detalhe": "Boobie Ike e Dre'Quan Priest no comando", "midia": "BOOBIE", "inicio": 0, "tipo": "tag", "corte": [204.0, 218.0]},
+        {"titulo": "JACK OF HEARTS", "detalhe": "Parceria na gravadora e contratação da Real Dimez", "midia": "DREQUAN", "inicio": 0, "tipo": "editorial", "corte": [218.0, 230.0]},
+        {"titulo": "ENCONTRO DE AMBIÇÕES", "detalhe": "O próximo passo versus proteger o patrimônio", "midia": "EXT", "inicio": 1040, "tipo": "editorial", "corte": [230.0, 243.0]},
+        {"titulo": "O QUE ARRISCAR?", "detalhe": "Negócios que rendem mais que dinheiro rodando", "midia": "T2", "inicio": 42, "tipo": "tag", "corte": [243.0, 256.0]},
+        {"titulo": "DIVIDIR O PREJUÍZO", "detalhe": "Na hora da perda, a cadeira afasta da mesa", "midia": "T1", "inicio": 62, "tipo": "data", "corte": [256.0, 270.0]},
+        {"titulo": "SEM CONSPIRAÇÃO FÁCIL", "detalhe": "Conhecer algumas relações não entrega o desfecho", "midia": "EXT", "inicio": 775, "tipo": "editorial", "corte": [270.0, 285.0]},
+        {"titulo": "JASON E LUCIA", "detalhe": "A premissa do casal diante da pressão externa", "midia": "LAUNCH", "inicio": 12, "tipo": "tag", "corte": [285.0, 300.0]},
+        {"titulo": "AS TRÊS PERGUNTAS", "detalhe": "O que oferece, o que pede e quem paga o risco", "midia": "EXT", "inicio": 1569, "tipo": "data", "corte": [300.0, 315.0]},
+        {"titulo": "LEIA O COMBINADO", "detalhe": "Pixel Procurado • A pista com a fonte oficial", "midia": "BRIAN", "inicio": 0, "tipo": "editorial", "corte": [315.0, 335.8]}
+      ]
+    },
+    "short": {
+      "stem": "Pixel_Procurado_L08_Short_V2",
+      "resolucao": [1080, 1920],
+      "fps": 60,
+      "voz": "producao/shorts/L08/voz/narracao_normalizada.wav",
+      "alinhamento": "producao/shorts/L08/voz/alinhamento_palavras.json",
+      "planos": [
+        {"titulo": "O ALUGUEL GRÁTIS", "detalhe": "Jason mora sem pagar aluguel com Brian", "midia": "BRIAN", "inicio": 0, "tipo": "tag", "corte": [0.0, 15.0]},
+        {"titulo": "DESCRIÇÃO OFICIAL", "detalhe": "Apresentação dos personagens de GTA VI", "midia": "EXT", "inicio": 406, "tipo": "editorial", "corte": [15.0, 30.0]},
+        {"titulo": "FAVOR OU PRENDEDOR?", "detalhe": "Um favor desses aproxima ou prende?", "midia": "T1", "inicio": 45, "tipo": "data", "corte": [30.0, 46.3]}
+      ]
+    }
+  },
+  "publicacao": {
+    "canais": {
+      "youtube": "cmvsctfgl0001jncj932ovibv",
+      "facebook": "cmvzyur290001pddwolrt33em",
+      "instagram": "cmvzyw7vj0003pddwkgtivv8i"
+    },
+    "data_padrao": "2026-11-08T21:00:00.000Z",
+    "estado": "producao/L08/social/POSTIZ_ESTADO.json",
+    "pasta_envio": "producao/L08/social",
+    "tags_youtube": [
+      "GTA 6",
+      "GTA VI",
+      "Pixel Procurado",
+      "Brian Heder",
+      "Jason"
+    ],
+    "youtube_visibilidade": "public",
+    "textos": {
+      "longo": "O aluguel grátis de Jason tem preço. A apresentação oficial dos personagens de GTA 6 revela acordos de moradia, amizades com interesses duplos e assaltantes experientes assumindo riscos.\n\nQuando um favor vira obrigação, quem realmente paga a conta quando o plano dá errado? Analisamos os vínculos de Brian Heder, Cal Hampton, Raul Bautista e o núcleo musical de Leonida.\n\nAnálise editorial sobre material oficial de GTA VI.\nFonte: https://www.rockstargames.com/VI/only-in-leonida\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+      "short": "Jason mora sem pagar aluguel na propriedade de Brian, mas a fatura chegou em outro formato. Em GTA 6, um favor desses aproxima ou prende?\n\nFichas oficiais dos personagens de GTA VI: https://www.rockstargames.com/VI/only-in-leonida\nAnálise do material oficial. Imagens: Rockstar Games.\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #Shorts #PixelProcurado",
+      "story": "O aluguel grátis de Jason tem preço. Confira a análise completa no canal Pixel Procurado! #GTA6"
+    },
+    "pecas": [
+      {"chave": "youtube_long", "rede": "youtube", "tipo": "post", "midia": "producao/L08/exportacoes/Pixel_Procurado_L08_Longo_V2.mp4", "texto": "longo", "titulo": "GTA 6: quem deve a quem em Leonida?", "capa": "producao/L08/publicacao/capa_youtube.jpg"},
+      {"chave": "youtube_short", "rede": "youtube", "tipo": "post", "midia": "producao/L08/exportacoes/Pixel_Procurado_L08_Short_V2.mp4", "texto": "short", "titulo": "O aluguel grátis veio cobrar Jason em GTA 6 #Shorts", "capa": "producao/shorts/L08/publicacao/capa_youtube.jpg"},
+      {"chave": "instagram_reel", "rede": "instagram", "tipo": "post", "midia": "producao/L08/exportacoes/Pixel_Procurado_L08_Short_V2.mp4", "texto": "short"},
+      {"chave": "instagram_story", "rede": "instagram", "tipo": "story", "midia": "producao/shorts/L08/publicacao/capa_master.png", "texto": "story"},
+      {"chave": "facebook_video", "rede": "facebook", "tipo": "post", "midia": "producao/L08/exportacoes/Pixel_Procurado_L08_Longo_V2.mp4", "texto": "longo", "titulo": "GTA 6: quem deve a quem em Leonida?"},
+      {"chave": "facebook_reel", "rede": "facebook", "tipo": "post", "midia": "producao/L08/exportacoes/Pixel_Procurado_L08_Short_V2.mp4", "texto": "short", "titulo": "GTA 6: quem deve a quem em Leonida?"},
+      {"chave": "facebook_story", "rede": "facebook", "tipo": "story", "midia": "producao/shorts/L08/publicacao/capa_master.png", "texto": "story"}
+    ]
+  }
+}

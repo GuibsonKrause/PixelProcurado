@@ -1,0 +1,415 @@
+[
+  {
+    "file": "producao\\L04\\voz\\gemini\\bruto_v1\\L04_B01_narracao.wav",
+    "duration": 73.92,
+    "sample_rate": 24000,
+    "channels": 1,
+    "sample_width": 2,
+    "frames": 1774080,
+    "sample_peak_dbfs": -1.3658380723499741,
+    "clipped_samples": 0,
+    "loudnorm": {
+      "input_i": "-21.45",
+      "input_tp": "-1.37",
+      "input_lra": "4.10",
+      "input_thresh": "-32.68",
+      "output_i": "-17.45",
+      "output_tp": "-1.50",
+      "output_lra": "3.00",
+      "output_thresh": "-28.58",
+      "normalization_type": "dynamic",
+      "target_offset": "1.45"
+    },
+    "silences_40db_500ms": [
+      {
+        "start": 2.210708,
+        "end": 3.079,
+        "duration": 0.8682920000000003
+      },
+      {
+        "start": 8.081958,
+        "end": 8.665417,
+        "duration": 0.5834589999999995
+      },
+      {
+        "start": 11.24075,
+        "end": 11.785125,
+        "duration": 0.5443750000000005
+      },
+      {
+        "start": 17.477417,
+        "end": 18.388833,
+        "duration": 0.9114160000000027
+      },
+      {
+        "start": 19.335958,
+        "end": 20.340083,
+        "duration": 1.0041249999999984
+      },
+      {
+        "start": 24.476417,
+        "end": 25.016833,
+        "duration": 0.5404159999999969
+      },
+      {
+        "start": 28.449875,
+        "end": 29.278667,
+        "duration": 0.828792
+      },
+      {
+        "start": 31.558583,
+        "end": 32.219875,
+        "duration": 0.6612920000000031
+      },
+      {
+        "start": 34.87425,
+        "end": 35.974708,
+        "duration": 1.1004579999999962
+      },
+      {
+        "start": 39.98975,
+        "end": 41.362708,
+        "duration": 1.372957999999997
+      },
+      {
+        "start": 43.291792,
+        "end": 43.986792,
+        "duration": 0.6950000000000003
+      },
+      {
+        "start": 47.192667,
+        "end": 47.748417,
+        "duration": 0.5557500000000033
+      },
+      {
+        "start": 50.815083,
+        "end": 51.439208,
+        "duration": 0.6241249999999994
+      },
+      {
+        "start": 52.368208,
+        "end": 53.048458,
+        "duration": 0.6802499999999938
+      },
+      {
+        "start": 55.811333,
+        "end": 57.116292,
+        "duration": 1.3049590000000038
+      },
+      {
+        "start": 59.101042,
+        "end": 59.729958,
+        "duration": 0.6289160000000038
+      },
+      {
+        "start": 64.894583,
+        "end": 65.404333,
+        "duration": 0.5097499999999968
+      },
+      {
+        "start": 68.512208,
+        "end": 69.39925,
+        "duration": 0.8870419999999939
+      },
+      {
+        "start": 71.018,
+        "end": 71.650125,
+        "duration": 0.632125000000002
+      },
+      {
+        "start": 73.320875,
+        "end": 73.92,
+        "duration": 0.5991250000000008
+      }
+    ],
+    "offset": 0,
+    "script_words": 204,
+    "words_per_minute": 165.58441558441558
+  },
+  {
+    "file": "producao\\L04\\voz\\gemini\\bruto_v1\\L04_B02_narracao.wav",
+    "duration": 62.28,
+    "sample_rate": 24000,
+    "channels": 1,
+    "sample_width": 2,
+    "frames": 1494720,
+    "sample_peak_dbfs": -1.2686673799433998,
+    "clipped_samples": 0,
+    "loudnorm": {
+      "input_i": "-21.03",
+      "input_tp": "-1.27",
+      "input_lra": "4.20",
+      "input_thresh": "-32.09",
+      "output_i": "-17.61",
+      "output_tp": "-1.50",
+      "output_lra": "2.70",
+      "output_thresh": "-28.62",
+      "normalization_type": "dynamic",
+      "target_offset": "1.61"
+    },
+    "silences_40db_500ms": [
+      {
+        "start": 2.056333,
+        "end": 2.907042,
+        "duration": 0.8507090000000002
+      },
+      {
+        "start": 6.196,
+        "end": 7.109458,
+        "duration": 0.9134580000000003
+      },
+      {
+        "start": 13.804208,
+        "end": 15.027417,
+        "duration": 1.2232090000000007
+      },
+      {
+        "start": 18.082,
+        "end": 18.666208,
+        "duration": 0.5842080000000003
+      },
+      {
+        "start": 23.58,
+        "end": 24.7395,
+        "duration": 1.1595000000000013
+      },
+      {
+        "start": 27.534542,
+        "end": 28.388708,
+        "duration": 0.8541660000000029
+      },
+      {
+        "start": 30.908708,
+        "end": 31.615292,
+        "duration": 0.7065839999999994
+      },
+      {
+        "start": 33.422583,
+        "end": 34.355625,
+        "duration": 0.9330420000000004
+      },
+      {
+        "start": 37.949125,
+        "end": 39.241417,
+        "duration": 1.2922919999999962
+      },
+      {
+        "start": 40.674542,
+        "end": 41.386625,
+        "duration": 0.7120829999999998
+      },
+      {
+        "start": 43.251125,
+        "end": 43.789875,
+        "duration": 0.5387500000000003
+      },
+      {
+        "start": 44.545542,
+        "end": 45.672292,
+        "duration": 1.1267500000000013
+      },
+      {
+        "start": 48.2285,
+        "end": 48.970333,
+        "duration": 0.7418329999999997
+      },
+      {
+        "start": 49.135833,
+        "end": 49.714333,
+        "duration": 0.5785000000000053
+      },
+      {
+        "start": 53.061542,
+        "end": 54.278167,
+        "duration": 1.2166250000000005
+      },
+      {
+        "start": 56.541292,
+        "end": 57.145458,
+        "duration": 0.6041659999999993
+      },
+      {
+        "start": 60.124167,
+        "end": 60.850083,
+        "duration": 0.725915999999998
+      }
+    ],
+    "offset": 73.92,
+    "script_words": 171,
+    "words_per_minute": 164.7398843930636
+  },
+  {
+    "file": "producao\\L04\\voz\\gemini\\bruto_v1\\L04_B03_narracao.wav",
+    "duration": 54.56,
+    "sample_rate": 24000,
+    "channels": 1,
+    "sample_width": 2,
+    "frames": 1309440,
+    "sample_peak_dbfs": -1.709756471287078,
+    "clipped_samples": 0,
+    "loudnorm": {
+      "input_i": "-20.01",
+      "input_tp": "-1.68",
+      "input_lra": "3.40",
+      "input_thresh": "-30.99",
+      "output_i": "-17.07",
+      "output_tp": "-1.50",
+      "output_lra": "2.50",
+      "output_thresh": "-28.00",
+      "normalization_type": "dynamic",
+      "target_offset": "1.07"
+    },
+    "silences_40db_500ms": [
+      {
+        "start": 9.140167,
+        "end": 9.995,
+        "duration": 0.8548329999999993
+      },
+      {
+        "start": 15.436833,
+        "end": 16.108083,
+        "duration": 0.6712500000000006
+      },
+      {
+        "start": 18.264625,
+        "end": 19.074333,
+        "duration": 0.8097080000000005
+      },
+      {
+        "start": 23.292208,
+        "end": 24.114833,
+        "duration": 0.8226250000000022
+      },
+      {
+        "start": 27.843667,
+        "end": 28.385583,
+        "duration": 0.5419160000000005
+      },
+      {
+        "start": 30.463958,
+        "end": 31.323917,
+        "duration": 0.8599589999999999
+      },
+      {
+        "start": 35.322375,
+        "end": 35.927333,
+        "duration": 0.6049579999999963
+      },
+      {
+        "start": 39.635583,
+        "end": 40.249208,
+        "duration": 0.6136250000000061
+      },
+      {
+        "start": 42.607917,
+        "end": 43.19075,
+        "duration": 0.5828330000000008
+      },
+      {
+        "start": 49.75075,
+        "end": 50.56525,
+        "duration": 0.8145000000000024
+      },
+      {
+        "start": 51.694792,
+        "end": 52.216,
+        "duration": 0.5212080000000014
+      }
+    ],
+    "offset": 136.2,
+    "script_words": 158,
+    "words_per_minute": 173.75366568914956
+  },
+  {
+    "file": "producao\\L04\\voz\\gemini\\bruto_v1\\L04_B04_narracao.wav",
+    "duration": 69.6,
+    "sample_rate": 24000,
+    "channels": 1,
+    "sample_width": 2,
+    "frames": 1670400,
+    "sample_peak_dbfs": -1.1731785283562661,
+    "clipped_samples": 0,
+    "loudnorm": {
+      "input_i": "-20.84",
+      "input_tp": "-1.17",
+      "input_lra": "3.70",
+      "input_thresh": "-31.64",
+      "output_i": "-17.52",
+      "output_tp": "-1.50",
+      "output_lra": "3.00",
+      "output_thresh": "-28.32",
+      "normalization_type": "dynamic",
+      "target_offset": "1.52"
+    },
+    "silences_40db_500ms": [
+      {
+        "start": 5.13575,
+        "end": 5.715667,
+        "duration": 0.579917
+      },
+      {
+        "start": 8.483,
+        "end": 9.079125,
+        "duration": 0.5961249999999989
+      },
+      {
+        "start": 15.565417,
+        "end": 16.180875,
+        "duration": 0.6154580000000003
+      },
+      {
+        "start": 19.286292,
+        "end": 20.355708,
+        "duration": 1.0694160000000004
+      },
+      {
+        "start": 24.195042,
+        "end": 24.706417,
+        "duration": 0.5113749999999975
+      },
+      {
+        "start": 28.885875,
+        "end": 29.5375,
+        "duration": 0.6516250000000028
+      },
+      {
+        "start": 33.545917,
+        "end": 34.206083,
+        "duration": 0.6601659999999967
+      },
+      {
+        "start": 39.497458,
+        "end": 40.403375,
+        "duration": 0.9059169999999952
+      },
+      {
+        "start": 44.725083,
+        "end": 45.356708,
+        "duration": 0.6316249999999997
+      },
+      {
+        "start": 49.7325,
+        "end": 50.787708,
+        "duration": 1.0552080000000004
+      },
+      {
+        "start": 53.782125,
+        "end": 54.553458,
+        "duration": 0.7713329999999985
+      },
+      {
+        "start": 57.290083,
+        "end": 58.376583,
+        "duration": 1.0864999999999938
+      },
+      {
+        "start": 61.707375,
+        "end": 62.360083,
+        "duration": 0.6527080000000041
+      }
+    ],
+    "offset": 190.76,
+    "script_words": 197,
+    "words_per_minute": 169.82758620689657
+  }
+]

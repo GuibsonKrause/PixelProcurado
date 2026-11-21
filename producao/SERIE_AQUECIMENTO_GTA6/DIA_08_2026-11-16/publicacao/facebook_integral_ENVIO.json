@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-16T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "A meta oficial do GTA 6 nos consoles é 30 quadros por segundo, segundo a própria Rockstar (10/11). O texto cita PSSR e sombras com ray tracing só no PS5 Pro e não fala em 60 fps, modo desempenho nem resolução. Xbox Series X e S: nenhum número oficial. O que não está confirmado fica como não confirmado. Segunda 16/11, faltam 3 dias para 19/11. Sombra com ray tracing ou imagem mais nítida? #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/a66e106ee4f74e75ac4f9d68648f1682.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6 no PS5 vs PS5 Pro: a Meta Oficial é 30 FPS (e o Resto?)"
+      }
+    }
+  ]
+}

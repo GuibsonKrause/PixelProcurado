@@ -1,0 +1,212 @@
+{
+  "corte_original_s": [
+    128.8,
+    134.78
+  ],
+  "divergencias": [
+    {
+      "tipo": "replace",
+      "roteiro": "conversível",
+      "asr": "convencível",
+      "start": 8.12
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Dade,",
+      "asr": "Date,",
+      "start": 10.72
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 45.26
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Hypedrive",
+      "asr": "Hypebeast",
+      "start": 53.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Buccaneer, um conversível",
+      "asr": "Bucaneer, o convencível",
+      "start": 60.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Coquette,",
+      "asr": "Coquete,",
+      "start": 63.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "o",
+      "asr": "um",
+      "start": 67.02
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "a encomenda pro",
+      "asr": "em comenda para o",
+      "start": 71.46
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "reels,",
+      "asr": "rios,",
+      "start": 78.62
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "fachada",
+      "asr": "faixa da",
+      "start": 85.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "curva",
+      "asr": "pova",
+      "start": 90.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "entra um",
+      "asr": "entram o",
+      "start": 94.1
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 102.62
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "o",
+      "asr": "",
+      "start": 107.76
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 124.22
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "ler",
+      "asr": "ele",
+      "start": 125.14
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nomes",
+      "asr": "o nome",
+      "start": 133.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Only in Vice City",
+      "asr": "OnlyInViceCity",
+      "start": 141.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dedo já",
+      "asr": "Deus, o dia",
+      "start": 150.46
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "adiante",
+      "asr": "diante",
+      "start": 151.36
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tava",
+      "asr": "estava",
+      "start": 152.74
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "o",
+      "asr": "",
+      "start": 157.44
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "na",
+      "asr": "la",
+      "start": 157.72
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "o que?",
+      "start": 159.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "minimapa",
+      "asr": "mini mapa",
+      "start": 163.44
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "estrelas",
+      "asr": "estrela",
+      "start": 164.46
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Only in Dade,",
+      "asr": "online date,",
+      "start": 167.22
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 169.52
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "para o",
+      "start": 177.06
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "é",
+      "start": 179.84
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 180.48
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "vende o",
+      "asr": "vem de um",
+      "start": 182.16
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "disfarce",
+      "asr": "desface",
+      "start": 187.4
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "espalhafatoso",
+      "asr": "espalha fatos",
+      "start": 188.94
+    }
+  ]
+}

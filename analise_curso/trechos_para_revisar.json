@@ -1,0 +1,10 @@
+[
+  {"lesson":"03","start":190,"end":270,"reason":"Base model omitted most of the five editorial roles."},
+  {"lesson":"02","start":50,"end":100,"reason":"Check numerical examples and whether hours refer to game or YouTube."},
+  {"lesson":"04","start":260,"end":325,"reason":"Repeated tokens replaced the first step of the research method."},
+  {"lesson":"05","start":205,"end":245,"reason":"Confirm capture resolution and frame rate."},
+  {"lesson":"04","start":355,"end":405,"reason":"Check sparse transcript around the on-screen search demonstration."},
+  {"lesson":"06","start":500,"end":545,"reason":"Review low-confidence phrase within authorship discussion."},
+  {"lesson":"09","start":465,"end":510,"reason":"Confirm scope of claims about changed view counting."},
+  {"lesson":"09","start":615,"end":675,"reason":"Confirm monetization thresholds and announced changes."}
+]

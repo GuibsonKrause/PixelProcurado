@@ -1,0 +1,527 @@
+1
+00:00:00,000 --> 00:00:01,100
+O carro distrai.
+
+2
+00:00:01,420 --> 00:00:02,270
+Olha a rua.
+
+3
+00:00:02,860 --> 00:00:05,460
+Na foto de GTA seis, tem moto empinando
+
+4
+00:00:05,460 --> 00:00:07,520
+e pilares pintados atrás do carro azul.
+
+5
+00:00:08,160 --> 00:00:09,640
+A graça também está no bairro.
+
+6
+00:00:10,240 --> 00:00:12,320
+Olhar só a lataria é deixar metade da
+
+7
+00:00:12,320 --> 00:00:13,560
+conversa fora do quadro.
+
+8
+00:00:14,280 --> 00:00:17,260
+Vamos comparar seis fotos oficiais, em três pares:
+
+9
+00:00:17,660 --> 00:00:19,940
+praia, carros e vista aérea.
+
+10
+00:00:20,540 --> 00:00:22,740
+Dá pra perceber bastante coisa sem transformar um
+
+11
+00:00:22,740 --> 00:00:24,300
+print numa disputa de console.
+
+12
+00:00:25,320 --> 00:00:27,400
+Começa pelo ciclista de GTA cinco.
+
+13
+00:00:27,900 --> 00:00:30,780
+A imagem saiu na galeria Transport, em dois
+
+14
+00:00:30,780 --> 00:00:31,630
+mil e doze.
+
+15
+00:00:31,920 --> 00:00:34,460
+A câmera fica baixa, perto da roda.
+
+16
+00:00:34,760 --> 00:00:37,300
+O píer e a roda-gigante aparecem ao fundo,
+
+17
+00:00:37,300 --> 00:00:38,360
+com uma luz quente.
+
+18
+00:00:39,020 --> 00:00:40,840
+Você bate o olho e entende a ação:
+
+19
+00:00:41,220 --> 00:00:42,740
+alguém pedalando por aquela praia.
+
+20
+00:00:43,480 --> 00:00:45,320
+O lugar ajuda a contar a cena.
+
+21
+00:00:46,020 --> 00:00:48,720
+O píer dá uma referência, o ângulo passa
+
+22
+00:00:48,740 --> 00:00:50,860
+movimento e a bicicleta segura o olhar.
+
+23
+00:00:51,460 --> 00:00:54,600
+A fotografia escolheu um assunto principal e deixou
+
+24
+00:00:54,600 --> 00:00:55,680
+o resto trabalhar junto.
+
+25
+00:00:56,460 --> 00:00:57,780
+É uma imagem direta.
+
+26
+00:00:58,320 --> 00:01:00,420
+Você não precisa fazer um censo da areia
+
+27
+00:01:00,420 --> 00:01:01,640
+pra entender o que ela quer mostrar.
+
+28
+00:01:02,000 --> 00:01:04,340
+Agora muda pra praia de Vice City.
+
+29
+00:01:04,720 --> 00:01:06,920
+Tem uma pessoa tomando sol mais perto da
+
+30
+00:01:06,920 --> 00:01:10,760
+câmera, um casal andando, outras pessoas espalhadas
+
+31
+00:01:10,760 --> 00:01:13,520
+e o homem com detector perto do posto
+
+32
+00:01:13,520 --> 00:01:17,300
+de salva-vidas. Seu olhar consegue fazer várias paradas.
+
+33
+00:01:18,020 --> 00:01:19,960
+O detector é um detalhe ótimo.
+
+34
+00:01:20,460 --> 00:01:22,580
+Ele sugere uma atividade diferente no meio do
+
+35
+00:01:22,580 --> 00:01:25,300
+passeio. A gente olha e já imagina o
+
+36
+00:01:25,300 --> 00:01:28,140
+sujeito esperando encontrar uma joia, enquanto a
+
+37
+00:01:28,140 --> 00:01:30,160
+praia oferece a décima tampinha do dia.
+
+38
+00:01:30,760 --> 00:01:33,760
+Essa história é nossa imaginação trabalhando em cima
+
+39
+00:01:33,760 --> 00:01:35,800
+do objeto, não uma missão anunciada.
+
+40
+00:01:36,520 --> 00:01:38,080
+O que está visível é suficiente:
+
+41
+00:01:38,880 --> 00:01:41,760
+pessoas com poses e ocupações diferentes dentro do
+
+42
+00:01:41,760 --> 00:01:45,480
+mesmo quadro. Na foto do ciclista, acompanhamos uma
+
+43
+00:01:45,480 --> 00:01:50,120
+ação. Nessa praia, exploramos várias pequenas situações.
+
+44
+00:01:50,760 --> 00:01:52,700
+Essa é a diferença que estamos comparando.
+
+45
+00:01:53,280 --> 00:01:55,400
+Ela não prova que GTA seis inteiro tem
+
+46
+00:01:55,400 --> 00:01:58,120
+determinada quantidade de pessoas ou que a praia
+
+47
+00:01:58,120 --> 00:01:59,900
+de GTA cinco sempre fica vazia.
+
+48
+00:02:00,060 --> 00:02:02,480
+São fotos escolhidas pra divulgação.
+
+49
+00:02:03,120 --> 00:02:06,120
+Elas mostram o que cada enquadramento decidiu destacar.
+
+50
+00:02:06,820 --> 00:02:08,080
+E com os carros?
+
+51
+00:02:08,680 --> 00:02:10,960
+A imagem do Cheetah em GTA cinco chega
+
+52
+00:02:10,960 --> 00:02:12,200
+bem perto da traseira.
+
+53
+00:02:12,680 --> 00:02:15,440
+O aerofólio chama atenção, tem fumaça junto dos
+
+54
+00:02:15,440 --> 00:02:17,400
+pneus, e a rua fica atrás.
+
+55
+00:02:18,060 --> 00:02:19,500
+A máquina domina o quadro.
+
+56
+00:02:20,000 --> 00:02:21,840
+Tem cara de anúncio de carro que mostra
+
+57
+00:02:21,840 --> 00:02:24,440
+três minutos de escapamento e esquece de mencionar
+
+58
+00:02:24,440 --> 00:02:25,290
+o valor do seguro.
+
+59
+00:02:25,900 --> 00:02:27,760
+A função ali é fazer você querer dirigir.
+
+60
+00:02:27,760 --> 00:02:31,000
+E a imagem consegue passar essa vontade mesmo
+
+61
+00:02:31,000 --> 00:02:31,900
+sem som de motor.
+
+62
+00:02:32,860 --> 00:02:35,400
+Na foto de GTA seis, o carro azul
+
+63
+00:02:35,400 --> 00:02:36,500
+também vem pra frente.
+
+64
+00:02:36,740 --> 00:02:38,900
+Só que o entorno insiste em participar:
+
+65
+00:02:39,760 --> 00:02:43,820
+tem moto, gente empinando, outros veículos, fios
+
+66
+00:02:43,820 --> 00:02:46,120
+e um viaduto com pilares pintados.
+
+67
+00:02:46,680 --> 00:02:48,800
+A rua dá trabalho pra quem tenta olhar
+
+68
+00:02:48,800 --> 00:02:49,960
+só a lataria.
+
+69
+00:02:50,960 --> 00:02:53,660
+Os murais ocupam bastante espaço e ajudam a
+
+70
+00:02:53,660 --> 00:02:55,060
+dar personalidade ao lugar.
+
+71
+00:02:56,020 --> 00:02:57,960
+As pessoas e as motos também sugerem um
+
+72
+00:02:57,960 --> 00:03:00,980
+encontro, uma vida em volta dos veículos.
+
+73
+00:03:01,840 --> 00:03:04,660
+Minha leitura é que a imagem vende tanto
+
+74
+00:03:04,660 --> 00:03:06,960
+a vontade de conhecer aquela rua quanto a
+
+75
+00:03:06,960 --> 00:03:08,020
+de entrar naquele carro.
+
+76
+00:03:09,100 --> 00:03:11,520
+Se você recorta só o automóvel, perde essa
+
+77
+00:03:11,520 --> 00:03:14,000
+conversa. É como mostrar a foto de um
+
+78
+00:03:14,000 --> 00:03:16,480
+churrasco e cortar todo mundo pra analisar a
+
+79
+00:03:16,480 --> 00:03:19,460
+churrasqueira. O equipamento pode ser ótimo.
+
+80
+00:03:20,120 --> 00:03:21,920
+Mas você acabou de remover o motivo de
+
+81
+00:03:21,920 --> 00:03:24,780
+estar ali. Isso não diminui a imagem do
+
+82
+00:03:24,780 --> 00:03:26,980
+Cheetah. Ela está fazendo outra coisa.
+
+83
+00:03:27,660 --> 00:03:29,240
+Uma coloca a máquina no centro;
+
+84
+00:03:29,660 --> 00:03:31,720
+a outra dá mais espaço à relação entre
+
+85
+00:03:31,720 --> 00:03:33,480
+carro, gente e bairro.
+
+86
+00:03:34,140 --> 00:03:35,120
+Agora vamos subir.
+
+87
+00:03:35,900 --> 00:03:38,880
+Na terceira foto de GTA cinco, um jato
+
+88
+00:03:38,880 --> 00:03:41,020
+ocupa boa parte do quadro sobre as luzes
+
+89
+00:03:41,020 --> 00:03:43,860
+da cidade. O avião fica próximo, e o
+
+90
+00:03:43,860 --> 00:03:45,220
+cenário passa embaixo dele.
+
+91
+00:03:45,860 --> 00:03:48,440
+Mesmo com muita coisa ao fundo, o veículo
+
+92
+00:03:48,440 --> 00:03:49,400
+conduz nosso olhar.
+
+93
+00:03:50,000 --> 00:03:52,380
+Na imagem de GTA seis, o helicóptero aparece
+
+94
+00:03:52,380 --> 00:03:54,020
+menor perto dos edifícios.
+
+95
+00:03:54,580 --> 00:03:57,452
+Há água, barcos e luzes, com um prédio
+
+96
+00:03:57,452 --> 00:03:58,360
+ocupando a lateral.
+
+97
+00:03:59,100 --> 00:04:01,340
+A cidade ganha mais espaço, e a aeronave
+
+98
+00:04:01,340 --> 00:04:03,340
+ajuda a gente a perceber a relação entre
+
+99
+00:04:03,340 --> 00:04:06,260
+as partes. Pensa numa foto de viagem:
+
+100
+00:04:06,860 --> 00:04:09,020
+em uma, você ocupa quase tudo e sobra
+
+101
+00:04:09,020 --> 00:04:10,900
+um monumento atrás da sua orelha.
+
+102
+00:04:11,620 --> 00:04:13,620
+Na outra, alguém dá dois passos pra trás
+
+103
+00:04:13,620 --> 00:04:15,560
+e finalmente mostra onde você está.
+
+104
+00:04:16,100 --> 00:04:18,280
+Nenhuma das fotos mede o tamanho da cidade.
+
+105
+00:04:18,660 --> 00:04:20,640
+O fotógrafo só mudou a prioridade.
+
+106
+00:04:21,420 --> 00:04:23,920
+É esse cuidado que também vale pros mapas.
+
+107
+00:04:24,560 --> 00:04:27,380
+Um helicóptero pequeno na foto não demonstra quantos
+
+108
+00:04:27,380 --> 00:04:28,680
+quilômetros existem no jogo.
+
+109
+00:04:29,240 --> 00:04:31,480
+Assim como um jato enorme na imagem não
+
+110
+00:04:31,480 --> 00:04:33,740
+significa que o resto do mundo acabou logo
+
+111
+00:04:33,740 --> 00:04:34,620
+depois da asa.
+
+112
+00:04:35,340 --> 00:04:37,160
+E comparar os gráficos?
+
+113
+00:04:37,800 --> 00:04:39,820
+Essas fotos não formam um teste justo de
+
+114
+00:04:39,820 --> 00:04:41,440
+desempenho ou qualidade final.
+
+115
+00:04:41,440 --> 00:04:43,980
+O material de GTA cinco é divulgação de
+
+116
+00:04:43,980 --> 00:04:44,830
+dois mil e doze.
+
+117
+00:04:45,280 --> 00:04:47,940
+Os enquadramentos, a luz e as situações são
+
+118
+00:04:47,940 --> 00:04:50,980
+diferentes. Dá pra analisar as imagens sem fingir
+
+119
+00:04:50,980 --> 00:04:52,940
+que colocamos os dois jogos numa bancada.
+
+120
+00:04:53,780 --> 00:04:56,040
+O que os três pares mostram bem é
+
+121
+00:04:56,040 --> 00:04:57,560
+uma mudança no caminho do olhar.
+
+122
+00:04:58,300 --> 00:05:00,740
+O ciclista e as pequenas situações da praia.
+
+123
+00:05:01,500 --> 00:05:03,100
+O carro e a rua ao redor.
+
+124
+00:05:04,120 --> 00:05:05,440
+A aeronave e a cidade.
+
+125
+00:05:06,040 --> 00:05:08,400
+Nas imagens de GTA seis que escolhemos, o
+
+126
+00:05:08,400 --> 00:05:10,400
+cenário participa bastante da conversa.
+
+127
+00:05:11,420 --> 00:05:13,560
+Qual desses lugares faria você esquecer a missão
+
+128
+00:05:14,150 --> 00:05:15,000
+por alguns minutos:
+
+129
+00:05:15,500 --> 00:05:17,720
+a praia, o encontro de carros ou a
+
+130
+00:05:17,720 --> 00:05:18,570
+orla vista do alto?
+
+131
+00:05:19,660 --> 00:05:21,280
+Eu começaria olhando as bordas da foto.
+
+132
+00:05:21,940 --> 00:05:24,540
+O carro já conseguiu toda a atenção que precisava.

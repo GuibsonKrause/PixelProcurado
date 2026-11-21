@@ -1,0 +1,42 @@
+{
+  "duration": 310.83,
+  "width": 1080,
+  "height": 1920,
+  "h264": true,
+  "aac": true,
+  "bytes": 114584964,
+  "signature": {
+    "master_sha256": "5dd1b491627948635b5f6b2702b4bdd20a14ef9b37340400209c9f58b6fe497b",
+    "srt_sha256": "6b520b9082bcba177220c2f0df6596a6c5792a38f261fe4ff3b4dee2f6abc183",
+    "timeline_sha256": "8c80bd0c5ff24e983a374c7af96f9d47cf7c4391dce9af849c7a44f2da803413",
+    "subtitles_sha256": "6a95c1a1479091c70d61fb88182de6eb930c329377b9a3591e2e22eadca27c8a",
+    "filters": [
+      "scale_qsv=w=1080:h=608:format=nv12",
+      "hwdownload",
+      "format=nv12",
+      "crop=1080:522:0:0",
+      "pad=1080:1920:0:580:color=0x111318",
+      "setsar=1",
+      "ass=L06_ig_integral.ass",
+      "drawtext=fontfile='C\\:/Windows/Fonts/arialbd.ttf':textfile=L06_ig_integral_titulo1.txt:fontcolor=0xFFD33D:fontsize=79:x=(w-tw)/2:y=284",
+      "drawtext=fontfile='C\\:/Windows/Fonts/arialbd.ttf':textfile=L06_ig_integral_titulo2.txt:fontcolor=0xFFD33D:fontsize=79:x=(w-tw)/2:y=386",
+      "drawtext=fontfile='C\\:/Windows/Fonts/arialbd.ttf':text='PIXEL PROCURADO  /  EPISÓDIO COMPLETO':fontcolor=0xC0C3C6:fontsize=34:x=(w-tw)/2:y=1510"
+    ]
+  },
+  "sha256": "7f901fb877656e27466d8e19d10fa73cfa92d3855d77bff787f6b3274dbffe7e",
+  "full_decode_pass": true,
+  "visual_frames_seconds": [
+    2,
+    65,
+    144.3,
+    209,
+    245,
+    308
+  ],
+  "audio_correlation_vs_master": {
+    "0": 0.998359,
+    "143": 0.999463,
+    "306": 0.999397
+  },
+  "reviewed_at": "2026-11-04T19:35:30.390Z"
+}

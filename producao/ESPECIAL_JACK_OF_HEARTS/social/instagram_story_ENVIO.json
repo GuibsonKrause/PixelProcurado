@@ -1,0 +1,30 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-16T20:06:32.585647+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Esposa no sofá, primeira missão. Vídeo completo no canal Pixel Procurado! #GTA6",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/1ca0552c884543be8148e1835b3aa5fa.png"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "story"
+      }
+    }
+  ]
+}

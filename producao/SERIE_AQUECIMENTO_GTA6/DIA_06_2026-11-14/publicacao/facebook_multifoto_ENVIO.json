@@ -1,0 +1,42 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Tem um streamer no porta-malas do GTA 6. O ícone do carro some embaixo das estrelas, as corridas têm dois formatos e a oficina só existe em foto. Deslize. Amanhã, domingo 15/11: 11 detalhes doentios. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/024b06c222604eebb21ec540e4f31052.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/55136844e4df4596ad2164e1240f2d62.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/8fdad1c364604abab1afa4c85a3aef3f.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/4112819366e04074a1c52fa7998271a8.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post"
+      }
+    }
+  ]
+}

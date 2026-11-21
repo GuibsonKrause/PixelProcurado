@@ -1,0 +1,82 @@
+{
+  "id": "C03",
+  "formato": "short_vertical_1080x1920_30fps",
+  "roteiro_origem": "producao/cortes/C03_NARRACAO.txt",
+  "etapa_atual": "concluido_aguardando_horario_programado",
+  "estado": "validado_e_agendado",
+  "revisao": "humor_br_2026-10-29",
+  "agendamento_planejado": {
+    "ferramenta": "Postiz local",
+    "data": "2026-11-02T19:00:00-03:00",
+    "estado_anterior": "rascunho_com_midia_antiga",
+    "destino": "YouTube"
+  },
+  "artefatos": {
+    "narracao_limpa": "producao/cortes/C03_NARRACAO.txt",
+    "narracao_gemini": "producao/cortes/C03_GEMINI.txt",
+    "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+    "audio_bruto_novo": "producao/shorts/C03/voz/bruto/C03_narracao.wav",
+    "audio_normalizado_novo": "producao/shorts/C03/voz/narracao.wav",
+    "historico_edicao_anterior": "producao/shorts/C03/historico/v1_anterior_2026-10-29"
+  },
+  "etapas": {
+    "producao_c03": {
+      "model_solicitado": "gpt-6.1-sol",
+      "reasoning_effort_solicitado": "medium",
+      "agent_id": "/root/produzir_c03",
+      "modelo_efetivo": "desconhecido",
+      "esforco_efetivo": "desconhecido",
+      "estado": "validado",
+      "medicoes_parciais": {
+        "duracao_audio_segundos": 75.76,
+        "bruto": "PCM 16-bit, 24000 Hz, mono",
+        "normalizado": "PCM 16-bit, 48000 Hz, mono",
+        "loudness_lufs": -16.87,
+        "true_peak_dbtp": -1.49,
+        "asr": "sem omissão material e sem tag falada",
+        "gancho_completo_segundos": 1.66,
+        "planos": 21,
+        "legendas": 40
+      }
+    },
+    "revisao_final": {
+      "model_solicitado": "gpt-6-astra",
+      "reasoning_effort_solicitado": "high",
+      "agent_id": "/root/revisao_final_c03",
+      "modelo_efetivo": "desconhecido",
+      "esforco_efetivo": "desconhecido",
+      "estado": "validado",
+      "resultado": "PASS",
+      "correcoes_obrigatorias": 0,
+      "amostragem": "28 frames diretos do MP4 e pranchas dos 21 planos"
+    },
+    "postiz": {
+      "estado": "QUEUE",
+      "post_id": "cmvue9rit0000mpa8e51tgkez",
+      "scheduled_at": "2026-11-02T19:00:00-03:00",
+      "visibility": "public",
+      "channel": "Pixel Procurado",
+      "profile": "@pixelprocurado",
+      "error": null,
+      "old_draft_removed": "cmvskl7jw0004jncj079jdicu",
+      "verified_at": "2026-10-30"
+    }
+  },
+  "validacao_final": {
+    "mp4": "producao/shorts/C03/exportacoes/Pixel_Procurado_C03_Short_1080x1920.mp4",
+    "srt": "producao/shorts/C03/exportacoes/C03_legendas.srt",
+    "thumbnail": "producao/shorts/C03/publicacao/capa_youtube.jpg",
+    "timeline": "producao/shorts/C03/projeto/timeline.json",
+    "qa": "producao/shorts/C03/projeto/qa/validacao_final.json",
+    "relatorio": "producao/shorts/C03/RELATORIO_PRODUCAO_REVISADA.md",
+    "duracao_segundos": 75.766667,
+    "frames": 2273,
+    "sha256_mp4": "d4a3c4399bed81dc7c654ca4449f30e0e2aa75abe022458bd32dac64487fc3d9",
+    "revisao_independente": "PASS"
+  },
+  "observacoes": [
+    "A edição antiga pertence ao roteiro anterior e não pode ser agendada.",
+    "O rascunho existente no Postiz aponta para a mídia antiga e precisa ser substituído antes de promover o agendamento.",
+    "O pedido do usuário autoriza produzir e publicar pelo agendador."
+  ]
+}

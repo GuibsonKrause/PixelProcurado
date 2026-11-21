@@ -1,0 +1,174 @@
+{
+  "id": "DIA_08_2026-11-16",
+  "titulo": "GTA 6 no PS5 vs PS5 Pro: a Meta Oficial é 30 FPS (e o Resto?)",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "gsap": "producao/L08/montagem/hyperframes_long/gsap.min.js",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "VC08": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/VC_08_orig.jpg",
+    "VC10": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/VC_10_orig.jpg",
+    "VC11": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/VC_11_orig.jpg",
+    "S763": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_763_4k.jpg",
+    "S770": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_770_4k.jpg",
+    "S780": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_780_4k.jpg",
+    "S788": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_788_4k.jpg",
+    "S1203": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_1203_4k.jpg",
+    "S1210": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_1210_4k.jpg",
+    "S1213": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_1213_4k.jpg",
+    "C01_META": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C01_META.jpg",
+    "C02_SEM60": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C02_SEM60.jpg",
+    "C03_TRAD": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C03_TRAD.jpg",
+    "C04_PRO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C04_PRO.jpg",
+    "C05_BLOG": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C05_BLOG.jpg",
+    "C06_PSSR": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C06_PSSR.jpg",
+    "C07_CHECK": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C07_CHECK.jpg",
+    "C08_FONTE": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C08_FONTE.jpg",
+    "C08B_PRIMO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C08B_PRIMO.jpg",
+    "C09_LOJA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C09_LOJA.jpg",
+    "C10_ARQUIVO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C10_ARQUIVO.jpg",
+    "C11_RISCADO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C11_RISCADO.jpg",
+    "C12_PS5GERAL": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C12_PS5GERAL.jpg",
+    "C12B_JOGAMELHOR": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C12B_JOGAMELHOR.jpg",
+    "C13_QSSR": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C13_QSSR.jpg",
+    "C13B_QSSR_GTA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C13B_QSSR_GTA.jpg",
+    "C14_XBOX": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C14_XBOX.jpg",
+    "C15_NUVEM": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C15_NUVEM.jpg",
+    "C16_REMOTE": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C16_REMOTE.jpg",
+    "C17_NAOCONF_0": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_0.jpg",
+    "C17_NAOCONF_1": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_1.jpg",
+    "C17_NAOCONF_2": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_2.jpg",
+    "C17_NAOCONF_3": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_3.jpg",
+    "C17_NAOCONF_4": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_4.jpg",
+    "C17_NAOCONF_5": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_5.jpg",
+    "C17_NAOCONF_6": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_6.jpg",
+    "C18_TABELA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C18_TABELA.jpg",
+    "C18B_QUATRO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C18B_QUATRO.jpg",
+    "C19_PASSOS_0": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C19_PASSOS_0.jpg",
+    "C19_PASSOS_1": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C19_PASSOS_1.jpg",
+    "C19_PASSOS_2": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C19_PASSOS_2.jpg",
+    "C19_PASSOS_3": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C19_PASSOS_3.jpg",
+    "C21_AMANHA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C21_AMANHA.jpg",
+    "C22_QUINTA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C22_QUINTA.jpg"
+  },
+  "correcoes_legenda": {
+    "rockstar": "Rockstar",
+    "gta": "GTA",
+    "ps": "PS",
+    "pssr": "PSSR",
+    "qssr": "QSSR",
+    "xbox": "Xbox"
+  },
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_DIA08_Reel_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/audio/narracao.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/audio/palavras.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C01_META",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0.0,
+            3.08
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "VC10",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            3.08,
+            9.64
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C01_META",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            9.64,
+            18.66
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C02_SEM60",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            18.66,
+            21.68
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C03_TRAD",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            21.68,
+            34.9
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "VC11",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            34.9,
+            39.18
+          ]
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "EXT",
+          "inicio": 772.0,
+          "tipo": "editorial",
+          "corte": [
+            39.18,
+            46.12
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C04_PRO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            46.12,
+            62.3
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "id": "JH01",
+  "titulo": "Jack of Hearts no GTA 6: o que é fato, o que é boato e o risco em casa",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "gsap": "producao/L08/montagem/hyperframes_long/gsap.min.js",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "LAUNCH": "GTAVI_Launch_Trailer.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "T2": "GTAVI_Trailer_2.mp4",
+    "COVER": "GTAVI_Videos/GTAVI_Official_Cover_Art_Landscape.mp4",
+    "BOOBIE01": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_01.jpg",
+    "BOOBIE02": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_02.jpg",
+    "JL01": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+    "JL03": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_03.jpg",
+    "JL06": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_06.jpg",
+    "JL11": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_11.jpg",
+    "LUCIA03": "GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_03.jpg",
+    "JASON01": "GTAVI_Screenshots/People/Jason Duval/Jason_Duval_01.jpg",
+    "VC03": "GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+    "VC08": "GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg",
+    "VC10": "GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
+    "VC11": "GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg"
+  },
+  "correcoes_legenda": {},
+  "formatos": {
+    "longo": {
+      "stem": "Pixel_Procurado_JH01_Longo_V2",
+      "resolucao": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "voz": "producao/ESPECIAL_JACK_OF_HEARTS/voz/narracao_normalizada.wav",
+      "alinhamento": "producao/ESPECIAL_JACK_OF_HEARTS/voz/alinhamento_palavras.json",
+      "planos": [
+        {
+          "titulo": "JACK OF HEARTS",
+          "detalhe": "O letreiro aparece em imagem oficial do Boobie Ike",
+          "midia": "BOOBIE02",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            0.0,
+            8.4
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "A PRIMEIRA PARADA",
+          "detalhe": "Vice City inteira esperando e o carro já escolheu o destino",
+          "midia": "EXT",
+          "inicio": 490,
+          "tipo": "editorial",
+          "corte": [
+            8.4,
+            16.6
+          ]
+        },
+        {
+          "titulo": "ENTRETENIMENTO NOTURNO",
+          "detalhe": "Extended Look: neon, festa e Vice City à noite",
+          "midia": "EXT",
+          "inicio": 1238,
+          "tipo": "editorial",
+          "corte": [
+            16.6,
+            29.8
+          ]
+        },
+        {
+          "titulo": "O PLANO DO VÍDEO",
+          "detalhe": "O que é fato, o que é boato e o casal da tela e da sala",
+          "midia": "LAUNCH",
+          "inicio": 38,
+          "tipo": "tag",
+          "corte": [
+            29.8,
+            42.8
+          ]
+        },
+        {
+          "titulo": "A TRADIÇÃO",
+          "detalhe": "Malibu Club (2002), Vanilla Unicorn (2013), agora Vice City",
+          "midia": "VC03",
+          "inicio": 0,
+          "tipo": "data",
+          "corte": [
+            42.8,
+            61.8
+          ]
+        },
+        {
+          "titulo": "TESTE GRÁFICO DO PS5",
+          "detalhe": "A desculpa já está pronta antes da acusação",
+          "midia": "EXT",
+          "inicio": 520,
+          "tipo": "editorial",
+          "corte": [
+            61.8,
+            78.0
+          ]
+        },
+        {
+          "titulo": "ESTUDO DE ILUMINAÇÃO",
+          "detalhe": "Neon, trilha sonora e consumação mínima",
+          "midia": "EXT",
+          "inicio": 1225,
+          "tipo": "tag",
+          "corte": [
+            78.0,
+            90.7
+          ]
+        },
+        {
+          "titulo": "IMAGINA A CENA",
+          "detalhe": "Dia 19, meia-noite, fone num ouvido só (cena imaginada)",
+          "midia": "EXT",
+          "inicio": 405,
+          "tipo": "editorial",
+          "corte": [
+            90.7,
+            101.7
+          ]
+        },
+        {
+          "titulo": "ALT+TAB NO CONSOLE",
+          "detalhe": "Menu, mapa e cara de quem planeja uma rota de entrega",
+          "midia": "EXT",
+          "inicio": 1130,
+          "tipo": "tag",
+          "corte": [
+            101.7,
+            113.4
+          ]
+        },
+        {
+          "titulo": "BOOBIE IKE",
+          "detalhe": "Empresário da música ligado ao Jack of Hearts, segundo a ficha oficial",
+          "midia": "BOOBIE01",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            113.4,
+            128.6
+          ]
+        },
+        {
+          "titulo": "O QUE NÃO FOI DIVULGADO",
+          "detalhe": "Local, atividades e mecânicas do clube seguem sem detalhes",
+          "midia": "EXT",
+          "inicio": 1252,
+          "tipo": "data",
+          "corte": [
+            128.6,
+            146.8
+          ]
+        },
+        {
+          "titulo": "CLASSIFICAÇÃO ETÁRIA",
+          "detalhe": "ESRB Mature 17+ e PEGI 18, segundo a imprensa",
+          "midia": "VC10",
+          "inicio": 0,
+          "tipo": "data",
+          "corte": [
+            146.8,
+            160.5
+          ]
+        },
+        {
+          "titulo": "O SELO ACIMA DO MATURE",
+          "detalhe": "Adults Only: o selo que Sony e Microsoft evitam nos consoles",
+          "midia": "VC08",
+          "inicio": 0,
+          "tipo": "data",
+          "corte": [
+            160.5,
+            181.3
+          ]
+        },
+        {
+          "titulo": "HOT COFFEE, 2005",
+          "detalhe": "San Andreas foi reclassificado, tirado das lojas e relançado",
+          "midia": "VC11",
+          "inicio": 0,
+          "tipo": "data",
+          "corte": [
+            181.3,
+            196.2
+          ]
+        },
+        {
+          "titulo": "TEORIA NÃO É CONFIRMAÇÃO",
+          "detalhe": "Nudez na campanha ou cena íntima: nada foi confirmado",
+          "midia": "T2",
+          "inicio": 92,
+          "tipo": "editorial",
+          "corte": [
+            196.2,
+            216.4
+          ]
+        },
+        {
+          "titulo": "FÍSICA E SUOR SOB NEON",
+          "detalhe": "Expectativa vinda de vazamentos e lista de desejos",
+          "midia": "T2",
+          "inicio": 129.45,
+          "tipo": "tag",
+          "corte": [
+            216.4,
+            231.9
+          ]
+        },
+        {
+          "titulo": "FESTA NA COBERTURA",
+          "detalhe": "O que o primeiro trailer mostrou de verdade",
+          "midia": "T1",
+          "inicio": 31,
+          "tipo": "editorial",
+          "corte": [
+            231.9,
+            242.0
+          ]
+        },
+        {
+          "titulo": "UM CASAL NA CAMPANHA",
+          "detalhe": "Jason e Lucia, a dupla central",
+          "midia": "JL01",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            242.0,
+            255.0
+          ]
+        },
+        {
+          "titulo": "TRAIÇÃO CONFIRMADA?",
+          "detalhe": "Romance opcional; nenhuma mecânica de traição anunciada",
+          "midia": "JL03",
+          "inicio": 0,
+          "tipo": "data",
+          "corte": [
+            255.0,
+            266.5
+          ]
+        },
+        {
+          "titulo": "HIPÓTESE",
+          "detalhe": "Sistema de honra à la RDR2? Pura imaginação",
+          "midia": "JL06",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            266.5,
+            281.8
+          ]
+        },
+        {
+          "titulo": "LUCIA NO ASSALTO",
+          "detalhe": "Ela aparece mascarada no Extended Look",
+          "midia": "EXT",
+          "inicio": 960,
+          "tipo": "tag",
+          "corte": [
+            281.8,
+            295.0
+          ]
+        },
+        {
+          "titulo": "E SE FOR A LUCIA?",
+          "detalhe": "Pergunta sem resposta oficial",
+          "midia": "LUCIA03",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            295.0,
+            307.4
+          ]
+        },
+        {
+          "titulo": "ÁLIBI DE MISSÃO SECUNDÁRIA",
+          "detalhe": "Piada: não existe essa missão no jogo",
+          "midia": "JASON01",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            307.4,
+            324.7
+          ]
+        },
+        {
+          "titulo": "O COMBINADO DO DIA 19",
+          "detalhe": "Primeira missão, clube e álibi",
+          "midia": "JL11",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            324.7,
+            335.7
+          ]
+        },
+        {
+          "titulo": "QUAL É O SEU ÁLIBI?",
+          "detalhe": "Conta nos comentários",
+          "midia": "COVER",
+          "inicio": 12,
+          "tipo": "tag",
+          "corte": [
+            335.7,
+            348.24
+          ],
+          "legenda_alta": true
+        }
+      ]
+    },
+    "short": {
+      "stem": "Pixel_Procurado_JH01_Short_V2",
+      "resolucao": [
+        2160,
+        3840
+      ],
+      "fps": 30,
+      "voz": "producao/ESPECIAL_JACK_OF_HEARTS/short/voz/narracao_normalizada.wav",
+      "alinhamento": "producao/ESPECIAL_JACK_OF_HEARTS/short/voz/alinhamento_palavras.json",
+      "planos": [
+        {
+          "titulo": "ESPOSA NO SOFÁ",
+          "detalhe": "Primeira missão do GTA 6, dia 19",
+          "midia": "JL01",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            0.0,
+            10.96
+          ]
+        },
+        {
+          "titulo": "MISSÃO OBRIGATÓRIA",
+          "detalhe": "Limite de velocidade respeitado, braço cruzado ao lado",
+          "midia": "EXT",
+          "inicio": 520,
+          "tipo": "editorial",
+          "corte": [
+            10.96,
+            19.4
+          ]
+        },
+        {
+          "titulo": "10 MINUTOS DE SANTIDADE",
+          "detalhe": "Quando ela sai, o carro roubado já escolheu o destino",
+          "midia": "EXT",
+          "inicio": 1225,
+          "tipo": "tag",
+          "corte": [
+            19.4,
+            31.2
+          ]
+        },
+        {
+          "titulo": "JACK OF HEARTS",
+          "detalhe": "O clube existe; o que tem lá dentro ninguém sabe ao certo",
+          "midia": "BOOBIE02",
+          "inicio": 0,
+          "tipo": "data",
+          "corte": [
+            31.2,
+            40.7
+          ]
+        },
+        {
+          "titulo": "E A LUCIA?",
+          "detalhe": "Pela primeira vez, a gente controla um casal",
+          "midia": "JL06",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            40.7,
+            51.9
+          ]
+        },
+        {
+          "titulo": "ESPOSA NO SOFÁ",
+          "detalhe": "Primeira missão",
+          "midia": "JL11",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            51.9,
+            60.72
+          ]
+        }
+      ]
+    }
+  },
+  "publicacao": {
+    "canais": {
+      "youtube": "cmvsctfgl0001jncj932ovibv",
+      "facebook": "cmvzyur290001pddwolrt33em",
+      "instagram": "cmvzyw7vj0003pddwkgtivv8i",
+      "tiktok": "cmwa9e6ie0001pna8wkbk1x2e"
+    },
+    "data_padrao": "2026-11-16T22:00:00.000Z",
+    "estado": "producao/ESPECIAL_JACK_OF_HEARTS/social/POSTIZ_ESTADO.json",
+    "pasta_envio": "producao/ESPECIAL_JACK_OF_HEARTS/social",
+    "tags_youtube": [
+      "GTA 6",
+      "GTA VI",
+      "Jack of Hearts",
+      "Vice City",
+      "Boobie Ike",
+      "Jason e Lucia",
+      "Pixel Procurado"
+    ],
+    "youtube_visibilidade": "public",
+    "textos": {
+      "longo": "O GTA 6 sai em 19/11 e todo mundo já sabe qual vai ser a primeira parada em Vice City: o Jack of Hearts. Aqui está o que a Rockstar realmente mostrou do clube, o que ainda é boato e o que isso pode significar para Jason e Lucia (e para o casal do sofá).\n\nNeste vídeo: o letreiro oficial do Jack of Hearts e a ficha do Boobie Ike, a classificação etária (ESRB Mature 17+ e PEGI 18, segundo a imprensa), o que separa o selo M do Adults Only, o caso Hot Coffee de 2005, o que ainda é só expectativa sobre física e nudez, e o romance opcional entre Jason e Lucia.\n\nQual vai ser o seu álibi oficial no dia 19? Conta nos comentários.\n\n0:00 Todo mundo vai pro mesmo lugar\n0:43 A tradição do jogador de GTA\n1:53 O que a Rockstar confirmou do Jack of Hearts\n2:27 Classificação etária e o limite do selo\n3:01 Hot Coffee e o que o selo M aguenta\n3:36 Física, suor e rumores\n4:02 Jason, Lucia e o pesadelo conjugal\n5:07 Na vida real é pior\n5:36 O álibi perfeito\n\nConteúdo de humor, adulto (18+). Análise e comentário sobre material oficial. Imagens e trailers: Rockstar Games. Fichas oficiais: https://www.rockstargames.com/VI/only-in-leonida\nO que não foi confirmado pela Rockstar está marcado no vídeo como hipótese ou \"segundo a imprensa\". Classificação etária conforme reportado em novembro de 2026; confira a ficha oficial da ESRB.\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #JackOfHearts #ViceCity",
+      "short": "Esposa no sofá, primeira missão do GTA 6. O Jack of Hearts existe, o que tem lá dentro ninguém sabe ao certo, e a Lucia nunca avisou o que faz com o Jason.\n\nHumor adulto (18+). Análise do material oficial. Imagens: Rockstar Games.\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #JackOfHearts #Shorts",
+      "story": "Esposa no sofá, primeira missão. Vídeo completo no canal Pixel Procurado! #GTA6",
+      "tiktok_short": "Esposa no sofá, primeira missão do GTA 6 😅 #GTA6 #GTAVI #JackOfHearts #ViceCity"
+    },
+    "pecas": [
+      {
+        "chave": "youtube_long",
+        "rede": "youtube",
+        "tipo": "post",
+        "midia": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+        "texto": "longo",
+        "titulo": "Jack of Hearts no GTA 6: o que é fato, o que é boato e o risco em casa",
+        "capa": "producao/ESPECIAL_JACK_OF_HEARTS/publicacao/capa_youtube.jpg"
+      },
+      {
+        "chave": "youtube_short",
+        "rede": "youtube",
+        "tipo": "post",
+        "midia": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+        "texto": "short",
+        "titulo": "Esposa no sofá vs. clube do GTA 6 #Shorts",
+        "capa": "producao/ESPECIAL_JACK_OF_HEARTS/short/publicacao/capa_youtube.jpg"
+      },
+      {
+        "chave": "instagram_reel",
+        "rede": "instagram",
+        "tipo": "post",
+        "midia": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_1080.mp4",
+        "texto": "short",
+        "capa": "producao/ESPECIAL_JACK_OF_HEARTS/short/publicacao/capa_youtube.jpg"
+      },
+      {
+        "chave": "instagram_longo_reel",
+        "rede": "instagram",
+        "tipo": "post",
+        "midia": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_Vertical_IG.mp4",
+        "texto": "longo",
+        "capa": "producao/ESPECIAL_JACK_OF_HEARTS/short/publicacao/capa_youtube.jpg"
+      },
+      {
+        "chave": "instagram_story",
+        "rede": "instagram",
+        "tipo": "story",
+        "midia": "producao/ESPECIAL_JACK_OF_HEARTS/short/publicacao/capa_master.png",
+        "texto": "story"
+      },
+      {
+        "chave": "facebook_video",
+        "rede": "facebook",
+        "tipo": "post",
+        "midia": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+        "texto": "longo",
+        "titulo": "Jack of Hearts no GTA 6: o que é fato, o que é boato e o risco em casa"
+      },
+      {
+        "chave": "facebook_reel",
+        "rede": "facebook",
+        "tipo": "post",
+        "midia": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_1080.mp4",
+        "texto": "short",
+        "titulo": "Esposa no sofá vs. clube do GTA 6 #Shorts"
+      },
+      {
+        "chave": "facebook_story",
+        "rede": "facebook",
+        "tipo": "story",
+        "midia": "producao/ESPECIAL_JACK_OF_HEARTS/short/publicacao/capa_master.png",
+        "texto": "story"
+      },
+      {
+        "chave": "tiktok_short",
+        "rede": "tiktok",
+        "tipo": "video",
+        "midia": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_1080.mp4",
+        "texto": "tiktok_short",
+        "titulo": "Esposa no sofá vs. clube do GTA 6 #Shorts",
+        "tiktok": {
+          "comment": true,
+          "video_made_with_ai": true
+        }
+      }
+    ]
+  }
+}

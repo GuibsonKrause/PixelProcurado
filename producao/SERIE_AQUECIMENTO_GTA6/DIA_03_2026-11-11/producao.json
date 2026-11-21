@@ -1,0 +1,83 @@
+{
+  "schema_versao": 1,
+  "id": "DIA03",
+  "formato": "longo",
+  "roteiro_origem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/01_NARRACAO.txt",
+  "etapa_atual": "montagem",
+  "status": "em_andamento",
+  "data_criacao": "2026-11-11T18:39:12-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "validado",
+      "atualizado_em": "2026-11-11T19:06:58-03:00",
+      "artefatos": {
+        "wav_bruto": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/audio/03_NARRACAO_narracao.wav"
+      },
+      "medicoes": {
+        "duracao_s": 373.08
+      },
+      "executor": {
+        "model_solicitado": "sonnet-5.5"
+      }
+    },
+    "alinhamento": {
+      "status": "validado",
+      "artefatos": {
+        "palavras": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/audio/palavras_alinhadas.json",
+        "wav_normalizado": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/audio/narracao_normalizada.wav"
+      },
+      "medicoes": {
+        "palavras_casadas": "958/1125"
+      },
+      "atualizado_em": "2026-11-11T19:07:00-03:00"
+    },
+    "montagem": {
+      "status": "em_andamento",
+      "atualizado_em": "2026-11-11T19:45:06-03:00",
+      "artefatos": {
+        "episodio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/episodio.json"
+      }
+    },
+    "render": {
+      "status": "em_andamento",
+      "atualizado_em": "2026-11-11T20:21:30-03:00",
+      "longo": {
+        "status": "validado",
+        "artefatos": {
+          "master": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/exportacoes/DIA03_Master_4K_YT.mp4"
+        },
+        "atualizado_em": "2026-11-12T00:16:54-03:00",
+        "medicoes": {
+          "lufs": -16.8
+        }
+      }
+    },
+    "thumbnail": {
+      "status": "validado",
+      "artefatos": {
+        "capa_A": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/thumbnail_A/capa_youtube.jpg",
+        "capa_B": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/thumbnail_B/capa_youtube.jpg",
+        "capa_vertical": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/thumbnail_vertical/capa_youtube.jpg"
+      },
+      "atualizado_em": "2026-11-11T19:51:41-03:00"
+    },
+    "publicacao_pacote": {
+      "status": "validado",
+      "artefatos": {
+        "pasta": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/publicacao"
+      },
+      "atualizado_em": "2026-11-11T19:51:43-03:00"
+    },
+    "distribuicao": {
+      "status": "validado",
+      "atualizado_em": "2026-11-12T00:16:54-03:00",
+      "artefatos": {
+        "estado": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/publicacao/POSTIZ_ESTADO.json"
+      }
+    },
+    "revisao_final": {
+      "status": "pendente"
+    }
+  },
+  "atualizado_em": "2026-11-12T00:16:54-03:00"
+}

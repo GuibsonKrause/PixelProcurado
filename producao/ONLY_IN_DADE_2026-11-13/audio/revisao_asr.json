@@ -1,0 +1,220 @@
+{
+  "divergencias": [
+    {
+      "tipo": "replace",
+      "roteiro": "conversível",
+      "asr": "convencível",
+      "start": 8.12
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Dade,",
+      "asr": "Date,",
+      "start": 10.72
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 45.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Hypedrive",
+      "asr": "Hypebeast",
+      "start": 53.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Buccaneer, um conversível",
+      "asr": "Bucaneer, o convencível",
+      "start": 60.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Coquette,",
+      "asr": "Coquete,",
+      "start": 63.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "a encomenda",
+      "asr": "em comenda",
+      "start": 71.46
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "funileiro.",
+      "asr": "funilheiro.",
+      "start": 72.14
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "oficina andando.",
+      "asr": "camufla rodando.",
+      "start": 76.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "reels,",
+      "asr": "rios,",
+      "start": 78.62
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "fachada",
+      "asr": "faixa da",
+      "start": 85.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "curva",
+      "asr": "pova",
+      "start": 90.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 102.6
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "ler",
+      "asr": "ela",
+      "start": 125.14
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "legenda.",
+      "asr": "agenda.",
+      "start": 125.4
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "primeiro trailer já ensaiava esse truque.",
+      "asr": "",
+      "start": 129.62
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "estivesse",
+      "asr": "tivesse",
+      "start": 132.82
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Only in Vice City",
+      "asr": "OnlyInViceCity",
+      "start": 138.72
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Rockstar",
+      "asr": "hockstar",
+      "start": 144.2
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tava",
+      "asr": "estava",
+      "start": 149.54
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 153.3
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "o",
+      "asr": "",
+      "start": 154.22
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "na",
+      "asr": "la",
+      "start": 154.5
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Rockstar",
+      "asr": "hockstar",
+      "start": 157.12
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "minimapa",
+      "asr": "mini mapa",
+      "start": 160.46
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "procurado",
+      "asr": "procurada",
+      "start": 161.68
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Only in Dade,",
+      "asr": "online date,",
+      "start": 164.0
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 166.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Pra",
+      "asr": "Para",
+      "start": 167.92
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 168.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "para o",
+      "start": 173.84
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 177.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "vende o",
+      "asr": "vem de um",
+      "start": 178.94
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Rockstar",
+      "asr": "hockstar",
+      "start": 183.02
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "disfarce",
+      "asr": "desface",
+      "start": 184.16
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "espalhafatoso",
+      "asr": "espalha fatores",
+      "start": 185.72
+    }
+  ]
+}

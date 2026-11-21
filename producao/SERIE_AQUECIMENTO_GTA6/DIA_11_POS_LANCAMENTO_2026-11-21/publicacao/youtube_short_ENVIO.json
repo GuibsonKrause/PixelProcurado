@@ -1,0 +1,116 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-21T07:20:00.488984+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Um vestido de 50 mil, um carro de luxo soltando fumaça e uma fuga de salto alto. As três apostas do Dia 11 encararam a gameplay real. GTA 6 valeu o hype? Gameplay da live do Alanzoka. #GTA6 #GTAVI #ViceCity",
+          "image": [
+            {
+              "id": "f19c8924-788d-4bb5-8e5a-f2530da99d1c",
+              "name": "1ff3ae890eb457cdf42e342957d64363.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/21/1ff3ae890eb457cdf42e342957d64363.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: 3 apostas que a gameplay confirmou",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "GTA 6 pós-lançamento",
+            "label": "GTA 6 pós-lançamento"
+          },
+          {
+            "value": "GTA 6 valeu a espera",
+            "label": "GTA 6 valeu a espera"
+          },
+          {
+            "value": "GTA 6 primeiras impressões",
+            "label": "GTA 6 primeiras impressões"
+          },
+          {
+            "value": "GTA 6 sem spoilers",
+            "label": "GTA 6 sem spoilers"
+          },
+          {
+            "value": "GTA 6 30 fps",
+            "label": "GTA 6 30 fps"
+          },
+          {
+            "value": "GTA 6 Series S",
+            "label": "GTA 6 Series S"
+          },
+          {
+            "value": "GTA 6 PS5 Pro",
+            "label": "GTA 6 PS5 Pro"
+          },
+          {
+            "value": "GTA 6 polícia",
+            "label": "GTA 6 polícia"
+          },
+          {
+            "value": "GTA 6 teorias",
+            "label": "GTA 6 teorias"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "Leonida",
+            "label": "Leonida"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "Alanzoka GTA 6",
+            "label": "Alanzoka GTA 6"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "e5e75599-ebda-48c4-a07f-d6f81175a10b",
+          "name": "721880c77d4c1f28fe8ea3395e657d3a.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/21/721880c77d4c1f28fe8ea3395e657d3a.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

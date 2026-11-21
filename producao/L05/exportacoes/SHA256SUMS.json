@@ -1,0 +1,26 @@
+{
+  "producao/L05/exportacoes/Pixel_Procurado_L05_4K.mp4": {
+    "sha256": "b286b951c08767d4266dd398b5872c5ac35b6b64b95a17adf1f7a82fb92a0665",
+    "bytes": 92305283
+  },
+  "producao/L05/exportacoes/Pixel_Procurado_L05_4K.srt": {
+    "sha256": "4ddf76af1ed7434376c7f770a359d3f869f853ebb0e49b56dfff0b0a7e1725c0",
+    "bytes": 10000
+  },
+  "producao/L05/publicacao/capa_master.png": {
+    "sha256": "b72be15c999016f5cda6910a0472d208986ed533f7a89da3e263fdb8b986d767",
+    "bytes": 2620376
+  },
+  "producao/L05/publicacao/capa_youtube.jpg": {
+    "sha256": "4a49eb28fda4e2462aa5fd4a9766613806c6d4ca0c4ff1a4a7e74ada88986185",
+    "bytes": 431939
+  },
+  "producao/L05/projeto/edicao_l05.json": {
+    "sha256": "e91f38e0ca959ec08e5308a77eedb70b8d4fa0c7501067ea95a2a99d333aef70",
+    "bytes": 78290
+  },
+  "producao/L05/voz/narracao_normalizada.wav": {
+    "sha256": "9c645802c8b6fb14ad13f0eaccfc74aff0328466477cce42124aaba8df198c39",
+    "bytes": 31184718
+  }
+}

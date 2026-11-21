@@ -1,0 +1,75 @@
+{
+ "id": "DIA_02_2026-11-10__story",
+ "titulo": "212 GB: O Que a Rockstar Escondeu Nesse Download?",
+ "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+ "pasta_fontes": "videosGTAVI",
+ "midias": {
+  "EXT": "GTAVI_An_Extended_Look.mp4",
+  "T1": "GTAVI_Trailer_1.mp4",
+  "T2": "GTAVI_Trailer_2.mp4",
+  "LT": "GTAVI_Launch_Trailer.mp4",
+  "COVER": "GTAVI_Videos/GTAVI_Official_Cover_Art_Landscape.mp4",
+  "GTAV": "GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4"
+ },
+ "correcoes_legenda": {},
+ "formatos": {
+  "short": {
+   "stem": "DIA02_Story",
+   "resolucao": [
+    1080,
+    1920
+   ],
+   "fps": 30,
+   "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_02_2026-11-10/_story/audio/narracao.wav",
+   "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_02_2026-11-10/_story/audio/palavras.json",
+   "planos": [
+    {
+     "midia": "COVER",
+     "inicio": 7.5,
+     "corte": [
+      0.0,
+      2.8
+     ],
+     "tipo": "data",
+     "titulo": "212 GB",
+     "detalhe": "Pré-load liberado • até esse tamanho"
+    },
+    {
+     "midia": "COVER",
+     "inicio": 12.5,
+     "corte": [
+      2.8,
+      7.233333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "LT",
+     "inicio": 30,
+     "corte": [
+      7.233333,
+      10.166667
+     ],
+     "tipo": "tag",
+     "titulo": "PRÉ-LOAD LIBERADO",
+     "detalhe": ""
+    },
+    {
+     "midia": "COVER",
+     "inicio": 14,
+     "corte": [
+      10.166667,
+      14.6
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    }
+   ]
+  }
+ }
+}

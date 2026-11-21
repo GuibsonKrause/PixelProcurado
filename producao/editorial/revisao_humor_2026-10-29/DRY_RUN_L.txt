@@ -1,0 +1,16 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "voice_iagtq1gnk2br",
+  "language": "pt-BR (definido pela voz, pelo estilo e pelo texto)",
+  "style_file": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\editorial\\ESTILO_NARRACAO_HUMOR_BR.txt",
+  "output_dir": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\audio_gemini",
+  "inputs": [
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L03\\03_NARRACAO_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L04\\03_NARRACAO_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L05\\03_NARRACAO_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L06\\03_NARRACAO_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L07\\03_NARRACAO_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L08\\03_NARRACAO_GEMINI.txt"
+  ]
+}
+Validacao concluida; nenhuma chamada foi enviada a API.

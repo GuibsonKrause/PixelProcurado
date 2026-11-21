@@ -1,0 +1,35 @@
+import sys
+sys.path.insert(0,'.course-tools')
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageEnhance
+D='producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/'
+R=D+'montagem/referencias/'
+IMP=ImageFont.truetype('C:/Windows/Fonts/impact.ttf',92)
+LB=ImageFont.truetype('C:/Windows/Fonts/bahnschrift.ttf',38)
+TX=ImageFont.truetype('C:/Windows/Fonts/arial.ttf',36)
+import textwrap
+WH,YE='#F8FAFC','#FFD33D'
+slides=[
+ (R+'EXT_0643.jpg',1.5,'PAUSA','AQUI','06:42: tênis na borda da banheira, torneira fechada. No Dia 2 eu errei: não tinha água ligada.',None),
+ (R+'CR_1000_HOLD_HANDS.jpg',1.0,'MÃO DADA','É R2','10:00: HOLD HANDS está no R2, não no R3. Erro da minha anotação, corrigido.',None),
+ (R+'EXT_0719.jpg',1.0,'TEM','CERVEJA','07:19: o menu da geladeira lista duas cervejas e um smoothie esmaecido.',None),
+ (D+'publicacao/capas/masters/base_longo_B.png',1.0,'CASAL','BRAVO?','18:57: dois retratos, um coração e duas carinhas. Que seja troca de personagem é hipótese.',None),
+]
+for n,(src,br,l1,l2,sub,_) in enumerate(slides,1):
+    im=Image.open(src).convert('RGB')
+    if br!=1: im=ImageEnhance.Brightness(im).enhance(br)
+    c=Image.new('RGB',(1080,1350),'#080A10'); d=ImageDraw.Draw(c)
+    h=825; w=1080; s=max(w/im.width,h/im.height)
+    bg=im.resize((round(im.width*s),round(im.height*s))); l=(bg.width-w)//2; t=(bg.height-h)//2
+    bg=bg.crop((l,t,l+w,t+h)).filter(ImageFilter.GaussianBlur(30)); bg=ImageEnhance.Brightness(bg).enhance(.6)
+    c.paste(bg,(0,130))
+    fh=round(im.height*w/im.width); fi=im.resize((w,fh),Image.LANCZOS)
+    if fh>h: fi=fi.crop((0,(fh-h)//2,w,(fh-h)//2+h)); fh=h
+    c.paste(fi,(0,130+(h-fh)//2))
+    d.text((60,52),'PIXEL / PROCURADO',font=LB,fill=YE); d.text((1020,52),f'{n}/4',font=LB,fill=WH,anchor='ra')
+    d.rectangle((60,978,193,988),fill=YE)
+    d.text((60,1000),l1,font=IMP,fill=WH); d.text((60,1092),l2,font=IMP,fill=YE)
+    d.multiline_text((60,1205),textwrap.fill(sub,46),font=TX,fill=WH,spacing=6)
+    c.save(D+f'publicacao/carrossel/0{n}.jpg',quality=92)
+sh=Image.new('RGB',(1320,420),'#222')
+for n in range(4): sh.paste(Image.open(D+f'publicacao/carrossel/0{n+1}.jpg').resize((320,400)),(10+n*330,10))
+sh.save(D+'publicacao/carrossel/prancha.jpg')

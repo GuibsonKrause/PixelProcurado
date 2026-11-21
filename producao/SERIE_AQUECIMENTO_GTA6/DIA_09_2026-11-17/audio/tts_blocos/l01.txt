@@ -1,0 +1,2 @@
+file 'hook_v1.wav'
+file 'BLOCO_01B_narracao.wav'

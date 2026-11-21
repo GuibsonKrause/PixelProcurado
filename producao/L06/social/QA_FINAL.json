@@ -1,0 +1,44 @@
+{
+  "approved": true,
+  "source_sha256": "5dd1b491627948635b5f6b2702b4bdd20a14ef9b37340400209c9f58b6fe497b",
+  "thumbnail_sha256": "7c36c450cdc3f4275ddab60f25325c61319af3c4b65c076a71a7cf96b2d23076",
+  "assets": {
+    "youtube_longo": [
+      "5dd1b491627948635b5f6b2702b4bdd20a14ef9b37340400209c9f58b6fe497b"
+    ],
+    "youtube_short": [
+      "036cd23e5d26c7f08750e5f21cacd5cd621ef2feaaaf60ca6cbbc86379a58280"
+    ],
+    "facebook_integral": [
+      "ef890ce07cbb5238a6169e20558340abbffb71780bceb0da93665ecce811b46b"
+    ],
+    "facebook_story": [
+      "529b2a9b4609e96fa33afb27fe0475a05c6ca30388056f5cc62d22a9f2fba10b"
+    ],
+    "facebook_multifoto": [
+      "41ac9e34879ab70fc46c11ad88f0c71ccaff9d4d92e9cc54b8a0c68ebb7baadb",
+      "d7f6b53ff85bf76258d0eeb0d96a15e5a5246cecc958b2895d237de5cc35933b",
+      "f7aa71b188b2375c0cd093a8e7d34fbe61ac55a06d671b939764dbd82b5cb05f",
+      "0d2dbe85fed3f20201dda7559ddc0420d2f48b3812bf2d5c3eec858b3fe86663"
+    ],
+    "instagram_reel": [
+      "036cd23e5d26c7f08750e5f21cacd5cd621ef2feaaaf60ca6cbbc86379a58280"
+    ],
+    "instagram_story": [
+      "529b2a9b4609e96fa33afb27fe0475a05c6ca30388056f5cc62d22a9f2fba10b"
+    ],
+    "instagram_carrossel": [
+      "41ac9e34879ab70fc46c11ad88f0c71ccaff9d4d92e9cc54b8a0c68ebb7baadb",
+      "d7f6b53ff85bf76258d0eeb0d96a15e5a5246cecc958b2895d237de5cc35933b",
+      "f7aa71b188b2375c0cd093a8e7d34fbe61ac55a06d671b939764dbd82b5cb05f",
+      "0d2dbe85fed3f20201dda7559ddc0420d2f48b3812bf2d5c3eec858b3fe86663"
+    ],
+    "instagram_integral": [
+      "2521f616178e44bb9581d277d9f4a436f9050ba06f551abd3d087c83944f7546"
+    ]
+  },
+  "approved_at": "2026-11-04T18:14:55.763Z",
+  "approval": "PASS independente do master e liberação expressa do coordenador; QA local de derivados concluída",
+  "instagram_integral_approved_at": "2026-11-04T19:51:17.967Z",
+  "instagram_integral_approval": "Cópia leve validada para recuperação de falha de download."
+}

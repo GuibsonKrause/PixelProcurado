@@ -1,0 +1,11 @@
+Pensa numa cena de alguém entrando no carro. Você vê a porta abrir, o personagem sentar e o carro sair. Mas isso, sozinho, não mostra se o jogador escolheu a hora de entrar, o destino ou se estava só assistindo à sequência.
+
+O exemplo é hipotético. A gente não está confirmando comandos daquele trecho. Está separando a ação que aparece na tela da liberdade de decidir o que acontece.
+
+A declaração da Rockstar confirma a mistura no Trailer dois. Ela não identifica, cena por cena, qual parte é qual. Então dá pra dizer que ele tem gameplay. Pra classificar cada trecho, precisa de mais do que a posição da câmera.
+
+<breath> Agora olha o detalhe da gravação: o Trailer dois foi capturado dentro do jogo, num PlayStation cinco.
+
+Isso faz de GTA seis um exclusivo do PS5? Não. A página oficial também lista Xbox Series X e Series S.
+
+Uma informação diz qual aparelho foi usado pra gravar. A outra diz em quais consoles o jogo está anunciado. São duas perguntas diferentes.

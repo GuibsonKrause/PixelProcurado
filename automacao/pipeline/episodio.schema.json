@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "episodio.json do Pixel Procurado (pipeline V2)",
+  "description": "Dados de um episódio consumidos por produzir_v2.py, validar_v2.py e distribuir_postiz.py. Caminhos são relativos à raiz do projeto.",
+  "type": "object",
+  "required": ["id", "formatos"],
+  "properties": {
+    "id": {"type": "string", "description": "ID do episódio, ex.: L08"},
+    "titulo": {"type": "string"},
+    "kicker": {"type": "string", "description": "Texto do kicker dos cards (HTML simples; padrão 'PIXEL PROCURADO <b> / </b> GTA VI')"},
+    "pasta_fontes": {"type": "string", "default": "videosGTAVI", "description": "Pasta base das mídias do acervo"},
+    "gsap": {"type": "string", "description": "Caminho do gsap.min.js copiado para a composição Hyperframes (padrão: o do ESPECIAL)"},
+    "midias": {"type": "object", "additionalProperties": {"type": "string"}, "description": "Apelidos -> arquivo dentro de pasta_fontes; os planos podem usar o apelido ou o caminho direto"},
+    "rotulos_obrigatorios": {"type": "object", "additionalProperties": {"type": "string"}, "description": "Apelido de mídia -> texto exibido como selo persistente em todo plano dessa mídia (ex.: {\"GTAV\": \"GTA V\"}); `selo: false` no plano desliga; conferido por prevoo_v2.py"},
+    "correcoes_legenda": {"type": "object", "additionalProperties": {"type": "string"}, "description": "Correções palavra a palavra (chave em minúsculas) aplicadas às legendas"},
+    "formatos": {
+      "type": "object",
+      "minProperties": 1,
+      "propertyNames": {"enum": ["longo", "short"]},
+      "additionalProperties": {"$ref": "#/$defs/formato"}
+    },
+    "publicacao": {"$ref": "#/$defs/publicacao"}
+  },
+  "$defs": {
+    "formato": {
+      "type": "object",
+      "required": ["stem", "resolucao", "voz", "alinhamento", "planos"],
+      "properties": {
+        "stem": {"type": "string", "description": "Nome-base dos arquivos finais, ex.: Pixel_Procurado_L08_Longo_V2"},
+        "resolucao": {"type": "array", "items": {"type": "integer"}, "minItems": 2, "maxItems": 2, "description": "[largura, altura]. Altura > largura = vertical (fundo desfocado + miolo 16:9). A geometria dos cards e legendas escala com a largura (base 1920 horizontal / 1080 vertical)."},
+        "fps": {"type": "integer", "default": 60},
+        "limite_mb": {"type": "number", "description": "Teto de tamanho do MP4 final (ex.: 300 para vídeo do Instagram). Os clipes já são codificados uma única vez no bitrate que cabe (preset medium + VBV); o render falha se o arquivo passar do limite. Ausente = intermediário quase sem perda (ultrafast crf 17)."},
+        "voz": {"type": "string", "description": "WAV normalizado da narração"},
+        "alinhamento": {"type": "string", "description": "JSON palavra a palavra [{word,start,end}] do faster-whisper"},
+        "amostras_contato": {"type": "array", "items": {"type": "number"}, "description": "Tempos (s) da folha de contato; padrão: 8 pontos igualmente espaçados"},
+        "planos": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/plano"}, "description": "Planos contíguos; o card i usa a janela i do .mov de painéis"}
+      }
+    },
+    "plano": {
+      "type": "object",
+      "required": ["titulo", "detalhe", "midia", "inicio", "tipo", "corte"],
+      "properties": {
+        "titulo": {"type": "string", "description": "Título do card (maiúsculas; mais de 21 caracteres usa fonte compacta)"},
+        "detalhe": {"type": "string"},
+        "midia": {"type": "string", "description": "Apelido de midias ou arquivo em pasta_fontes (.mp4 = vídeo, .jpg/.png = imagem estática)"},
+        "inicio": {"type": "number", "description": "Segundo de entrada no vídeo-fonte (ignorado para imagem)"},
+        "tipo": {"enum": ["tag", "editorial", "data"]},
+        "card_posicao": {"type": "array", "items": {"type": "number", "minimum": 0}, "minItems": 2, "maxItems": 2, "description": "[x,y] do canto superior esquerdo do painel na geometria-base: 1920x1080 horizontal ou 1080x1920 vertical. Escala pela largura final. Ausente preserva [58,730] horizontal / [150,1060] vertical."},
+        "corte": {"type": "array", "items": {"type": "number"}, "minItems": 2, "maxItems": 2, "description": "[início, fim] do plano na narração, em segundos"},
+        "selo": {"type": "boolean", "default": true, "description": "Planos de mídia listada em rotulos_obrigatorios ganham um selo persistente (canto superior esquerdo, fundo escuro semitransparente, texto amarelo) durante o plano inteiro; false desliga o selo neste plano"},
+        "movimento": {"enum": ["fixo"], "description": "Só para imagens estáticas: 'fixo' desliga o zoom/pan lento (a imagem só preenche o quadro). Ausente = zoom/pan padrão"},
+        "enquadramento": {"enum": ["conter"], "description": "Mantém o quadro inteiro e centralizado, com o espaço livre em grafite. Uma fonte 9:16 preenche a saída vertical; imagens estáticas ficam fixas."},
+        "legenda_alta": {"description": "Sobe a legenda enquanto este plano está na tela (evita cobrir texto do material). true = MarginV 300 (horizontal; no vertical a legenda já fica abaixo do vídeo e nada muda); número = MarginV em px da geometria-base (1080p horizontal / 1080x1920 vertical, escala com a resolução)", "oneOf": [{"type": "boolean"}, {"type": "number"}]}
+      }
+    },
+    "publicacao": {
+      "type": "object",
+      "required": ["canais", "data_padrao", "estado", "pasta_envio", "tags_youtube", "textos", "pecas"],
+      "properties": {
+        "canais": {"type": "object", "properties": {"youtube": {"type": "string"}, "facebook": {"type": "string"}, "instagram": {"type": "string"}, "tiktok": {"type": "string"}}, "description": "IDs dos canais no Postiz"},
+        "data_padrao": {"type": "string", "description": "ISO 8601 UTC do agendamento"},
+        "estado": {"type": "string", "description": "POSTIZ_ESTADO.json do episódio"},
+        "pasta_envio": {"type": "string", "description": "Onde gravar os <chave>_ENVIO.json"},
+        "tags_youtube": {"type": "array", "items": {"type": "string"}},
+        "youtube_visibilidade": {"enum": ["public", "unlisted", "private"], "default": "public"},
+        "textos": {"type": "object", "additionalProperties": {"type": "string"}, "description": "Legendas/descrições nomeadas (longo, short, story...)"},
+        "pecas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["chave", "rede", "tipo", "midia", "texto"],
+            "properties": {
+              "chave": {"type": "string", "description": "Identificador único, ex.: youtube_long"},
+              "rede": {"enum": ["youtube", "facebook", "instagram", "tiktok"]},
+              "tipo": {"enum": ["post", "story", "video"]},
+              "midia": {"type": "string"},
+              "texto": {"type": "string", "description": "Chave em textos"},
+              "titulo": {"type": "string", "description": "Obrigatório no YouTube; opcional no Facebook (exceto story) e no TikTok"},
+              "tiktok": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "duet": {"type": "boolean", "default": false},
+                  "stitch": {"type": "boolean", "default": false},
+                  "comment": {"type": "boolean", "default": false},
+                  "brand_content_toggle": {"type": "boolean", "default": false},
+                  "brand_organic_toggle": {"type": "boolean", "default": false},
+                  "video_made_with_ai": {"type": "boolean", "default": false}
+                }
+              },
+              "capa": {"type": "string", "description": "Informativa: conferida no dry-run, ainda não anexada ao payload"}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "DIA_10_2026-11-18_STORY_4K",
+  "titulo": "GTA 6: a meia-noite não chega junto",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": ".",
+  "gsap": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/hyperframes_long/gsap.min.js",
+  "midias": {
+    "LAUNCH": "videosGTAVI/GTAVI_Launch_Trailer.mp4",
+    "VC01": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg",
+    "VC03": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+    "VC08": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg",
+    "VC10": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
+    "VC11": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg",
+    "CHEETAH": "videosGTAVI/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_GROTTI_CHEETAH_01.jpg",
+    "CHEETAH_DETALHE": "videosGTAVI/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_GROTTI_CHEETAH_04.jpg",
+    "SQUALO": "videosGTAVI/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_SQUALO_02.jpg",
+    "STANIER": "videosGTAVI/GTAVI_Vintage_Vice_City_Pack/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_03.jpg",
+    "VINTAGE_ROUPAS": "videosGTAVI/GTAVI_Vintage_Vice_City_Pack/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01.jpg",
+    "VINTAGE_PADRAO": "videosGTAVI/GTAVI_Vintage_Vice_City_Pack/VINTAGE_VICE_CITY_WEAPON_PATTERN_01.jpg",
+    "C01_FUSOS": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C01_FUSOS_vertical.jpg",
+    "C03_ESTREIA": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C03_ESTREIA_vertical.jpg",
+    "C05_JANELA": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C05_JANELA_vertical.jpg",
+    "C10_PRELOAD": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C10_PRELOAD_vertical.jpg",
+    "C15_VINTAGE": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C15_VINTAGE_vertical.jpg",
+    "C19_CHECKLIST": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/montagem/cards/C19_CHECKLIST_vertical.jpg",
+    "T1": "videosGTAVI/GTAVI_Trailer_1.mp4",
+    "T2": "videosGTAVI/GTAVI_Trailer_2.mp4"
+  },
+  "rotulos_obrigatorios": {
+    "LAUNCH": "TRAILER OFICIAL · ILUSTRAÇÃO",
+    "VC01": "IMAGEM OFICIAL · ILUSTRATIVA",
+    "VC03": "IMAGEM OFICIAL · ILUSTRATIVA",
+    "VC08": "IMAGEM OFICIAL · ILUSTRATIVA",
+    "VC10": "IMAGEM OFICIAL · ILUSTRATIVA",
+    "VC11": "IMAGEM OFICIAL · ILUSTRATIVA",
+    "CHEETAH": "ULTIMATE · IMAGEM OFICIAL",
+    "CHEETAH_DETALHE": "ULTIMATE · IMAGEM OFICIAL",
+    "SQUALO": "ULTIMATE · IMAGEM OFICIAL",
+    "STANIER": "VINTAGE · IMAGEM OFICIAL",
+    "VINTAGE_ROUPAS": "VINTAGE · IMAGEM OFICIAL",
+    "VINTAGE_PADRAO": "VINTAGE · IMAGEM OFICIAL",
+    "T1": "TRAILER 1 · ILUSTRAÇÃO OFICIAL",
+    "T2": "TRAILER 2 · ILUSTRAÇÃO OFICIAL"
+  },
+  "correcoes_legenda": {
+    "gta": "GTA",
+    "rockstar": "Rockstar",
+    "auckland": "Auckland",
+    "youtube": "YouTube",
+    "xbox": "Xbox",
+    "playstation": "PlayStation",
+    "standard": "Standard",
+    "ultimate": "Ultimate",
+    "vintage": "Vintage",
+    "grotti": "Grotti",
+    "cheetah": "Cheetah",
+    "shitzu": "Shitzu",
+    "squalo": "Squalo",
+    "vice": "Vice",
+    "city": "City",
+    "stanier": "Stanier",
+    "greenwich": "Greenwich",
+    "granite": "Greenwich",
+    "grotch": "Grotti",
+    "esqualo": "Squalo",
+    "stunyer": "Stanier"
+  },
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_DIA10_Story_4K_V2",
+      "resolucao": [
+        2160,
+        3840
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/story_narracao_aprovada.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/story_palavras_roteiro_alinhadas.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C01_FUSOS",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0,
+            9.0
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            150,
+            190
+          ],
+          "paragrafo": 1,
+          "movimento": "fixo",
+          "enquadramento": "conter",
+          "selo": false
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 6.2,
+          "tipo": "editorial",
+          "corte": [
+            9.0,
+            12.366666666666667
+          ],
+          "sem_card": true,
+          "card_posicao": [
+            150,
+            190
+          ],
+          "paragrafo": 1,
+          "enquadramento": "conter"
+        }
+      ],
+      "limite_mb": 300,
+      "fonte_legenda": "roteiro_alinhado"
+    }
+  }
+}

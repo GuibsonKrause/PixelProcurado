@@ -1,0 +1,30 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T23:52:10.075157+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Parece Miami. A pista está no carro rosa. Veja o episódio no Pixel Procurado.",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/047ccf61aaaf463b8ba1bc1666a3f9f6.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "story"
+      }
+    }
+  ]
+}

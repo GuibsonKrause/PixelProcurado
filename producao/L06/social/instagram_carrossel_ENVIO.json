@@ -1,0 +1,46 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-04T18:16:53.600101+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Leonida em três contrastes: horizonte e vegetação, dois jeitos de iluminar a cidade, indústria e montanha. Veja os seis lugares lado a lado. Qual seria a sua primeira parada?\n\nImagens: Rockstar Games. Leitura visual do material promocional de GTA VI. Fonte: https://www.rockstargames.com/VI/media\n\n#GTA6 #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/56e10c06aa159cf246a21eb7fde239afa.jpg",
+              "alt": "Capa Leonida além de Vice City. Imagens de Leonida Keys e Grassrivers."
+            },
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/58c44a01f9724720325a719caee71fc4.jpg",
+              "alt": "Horizonte aberto nas Leonida Keys e margens fechadas pela vegetação em Grassrivers."
+            },
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/76268ee295bfd349b14f92e6abc62ccb.jpg",
+              "alt": "Fachadas iluminadas de Vice City e o letreiro de motel em Port Gellhorn."
+            },
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/25342bd25811a27be9c4ff65e1075d12e.jpg",
+              "alt": "Linhas industriais em Ambrosia e estrada ao lado dos paredões em Mount Kalaga."
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

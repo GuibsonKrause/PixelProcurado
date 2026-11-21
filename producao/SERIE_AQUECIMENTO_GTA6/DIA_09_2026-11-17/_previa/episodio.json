@@ -1,0 +1,753 @@
+{
+ "id": "DIA_09_2026-11-17",
+ "titulo": "GTA 6: Vice City Pede Documento na Porta (Boates, Boobie Ike e a Noite de Luxo)",
+ "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+ "pasta_fontes": "videosGTAVI",
+ "gsap": "producao/L08/montagem/hyperframes_long/gsap.min.js",
+ "midias": {
+  "EXT": "GTAVI_An_Extended_Look.mp4",
+  "B01": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_01.jpg",
+  "B02": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_02.jpg",
+  "B03": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_03.jpg",
+  "B04": "GTAVI_Screenshots/People/Boobie Ike/Boobie_Ike_04.jpg",
+  "D01": "GTAVI_Screenshots/People/DreQuan Priest/DreQuan_Priest_01.jpg",
+  "D02": "GTAVI_Screenshots/People/DreQuan Priest/DreQuan_Priest_02.jpg",
+  "D03": "GTAVI_Screenshots/People/DreQuan Priest/DreQuan_Priest_03.jpg",
+  "D04": "GTAVI_Screenshots/People/DreQuan Priest/DreQuan_Priest_04.jpg",
+  "VC07": "GTAVI_Screenshots/Places/Vice City/Vice_City_07.jpg",
+  "Q2537": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/Q2537_PISTOLA.jpg",
+  "QPORTA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/QPORTA_ID.jpg",
+  "C03_REGRAS": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C03_REGRAS.jpg",
+  "C04_JOH": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C04_JOH.jpg",
+  "C08_CITACAO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C08_CITACAO.jpg",
+  "C17_CORRECAO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C17_CORRECAO.jpg",
+  "C21_NAOCONF": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C21_NAOCONF.jpg",
+  "C22_DIA10": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/C22_DIA10.jpg"
+ },
+ "correcoes_legenda": {
+  "rockstar": "Rockstar",
+  "gta": "GTA",
+  "boobie": "Boobie",
+  "ike": "Ike",
+  "dimez": "Dimez"
+ },
+ "formatos": {
+  "longo": {
+   "stem": "Pixel_Procurado_DIA09_Previa_V2",
+   "resolucao": [
+    960,
+    540
+   ],
+   "fps": 30,
+   "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/audio/narracao_normalizada.wav",
+   "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/audio/palavras_alinhadas.json",
+   "planos": [
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 17:33",
+     "midia": "EXT",
+     "inicio": 1053,
+     "tipo": "editorial",
+     "corte": [
+      0.0,
+      2.82
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 17:35",
+     "midia": "EXT",
+     "inicio": 1055.4,
+     "tipo": "editorial",
+     "corte": [
+      2.82,
+      6.82
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 21:38",
+     "midia": "EXT",
+     "inicio": 1298,
+     "tipo": "editorial",
+     "corte": [
+      6.82,
+      12.82
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 21:00",
+     "midia": "EXT",
+     "inicio": 1260,
+     "tipo": "editorial",
+     "corte": [
+      12.82,
+      18.82
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 24:55",
+     "midia": "EXT",
+     "inicio": 1495.5,
+     "tipo": "editorial",
+     "corte": [
+      18.82,
+      24.88
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "C03_REGRAS",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      24.88,
+      33.88
+     ],
+     "sem_card": true,
+     "movimento": "fixo"
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B03",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      33.88,
+      41.0
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 17:33",
+     "midia": "EXT",
+     "inicio": 1053.2,
+     "tipo": "editorial",
+     "corte": [
+      41.0,
+      45.5
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B04",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      45.5,
+      49.0
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "C04_JOH",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      49.0,
+      57.0
+     ],
+     "sem_card": true,
+     "movimento": "fixo"
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B02",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      57.0,
+      65.1
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B04",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      65.1,
+      73.93
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B03",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      73.93,
+      82.76
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B01",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      82.76,
+      91.58
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "D03",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      91.58,
+      100.33
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "D02",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      100.33,
+      109.08
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "D04",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      109.08,
+      117.82
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "D03",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      117.82,
+      125.82
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "D01",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      125.82,
+      132.82
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "D04",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      132.82,
+      140.28
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "C08_CITACAO",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      140.28,
+      148.28
+     ],
+     "sem_card": true,
+     "movimento": "fixo"
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B01",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      148.28,
+      156.22
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "VC07",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      156.22,
+      165.57
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "D02",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      165.57,
+      174.92
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 10:00",
+     "midia": "EXT",
+     "inicio": 600,
+     "tipo": "editorial",
+     "corte": [
+      174.92,
+      180.42
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 10:12",
+     "midia": "EXT",
+     "inicio": 612,
+     "tipo": "editorial",
+     "corte": [
+      180.42,
+      185.92
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 10:50",
+     "midia": "EXT",
+     "inicio": 650,
+     "tipo": "editorial",
+     "corte": [
+      185.92,
+      191.42
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 11:08",
+     "midia": "EXT",
+     "inicio": 668,
+     "tipo": "editorial",
+     "corte": [
+      191.42,
+      196.94
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 21:07",
+     "midia": "EXT",
+     "inicio": 1267,
+     "tipo": "editorial",
+     "corte": [
+      196.94,
+      206.24
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 21:16",
+     "midia": "EXT",
+     "inicio": 1276,
+     "tipo": "editorial",
+     "corte": [
+      206.24,
+      215.54
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 21:45",
+     "midia": "EXT",
+     "inicio": 1305,
+     "tipo": "editorial",
+     "corte": [
+      215.54,
+      224.0
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 21:58",
+     "midia": "EXT",
+     "inicio": 1318,
+     "tipo": "editorial",
+     "corte": [
+      224.0,
+      232.46
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 22:05",
+     "midia": "EXT",
+     "inicio": 1325,
+     "tipo": "editorial",
+     "corte": [
+      232.46,
+      239.06
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 22:12",
+     "midia": "EXT",
+     "inicio": 1332,
+     "tipo": "editorial",
+     "corte": [
+      239.06,
+      250.32
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 22:55",
+     "midia": "EXT",
+     "inicio": 1375,
+     "tipo": "editorial",
+     "corte": [
+      250.32,
+      256.54
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 23:12",
+     "midia": "EXT",
+     "inicio": 1392,
+     "tipo": "editorial",
+     "corte": [
+      256.54,
+      262.76
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 23:38",
+     "midia": "EXT",
+     "inicio": 1418.5,
+     "tipo": "editorial",
+     "corte": [
+      262.76,
+      269.31
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 23:45",
+     "midia": "EXT",
+     "inicio": 1425.3,
+     "tipo": "editorial",
+     "corte": [
+      269.31,
+      275.86
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 23:53",
+     "midia": "EXT",
+     "inicio": 1433,
+     "tipo": "editorial",
+     "corte": [
+      275.86,
+      282.4
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 24:00",
+     "midia": "EXT",
+     "inicio": 1440,
+     "tipo": "editorial",
+     "corte": [
+      282.4,
+      289.12
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 24:10",
+     "midia": "EXT",
+     "inicio": 1450,
+     "tipo": "editorial",
+     "corte": [
+      289.12,
+      293.42
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 24:32",
+     "midia": "EXT",
+     "inicio": 1472.6,
+     "tipo": "editorial",
+     "corte": [
+      293.42,
+      295.92
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 24:14",
+     "midia": "EXT",
+     "inicio": 1454.3,
+     "tipo": "editorial",
+     "corte": [
+      295.92,
+      303.72
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "C17_CORRECAO",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      303.72,
+      310.22
+     ],
+     "sem_card": true,
+     "movimento": "fixo"
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 25:03",
+     "midia": "EXT",
+     "inicio": 1503.3,
+     "tipo": "editorial",
+     "corte": [
+      310.22,
+      315.12
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 25:35",
+     "midia": "EXT",
+     "inicio": 1535.8,
+     "tipo": "editorial",
+     "corte": [
+      315.12,
+      318.9
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 25:37",
+     "midia": "Q2537",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      318.9,
+      323.12
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 25:11",
+     "midia": "EXT",
+     "inicio": 1511.5,
+     "tipo": "editorial",
+     "corte": [
+      323.12,
+      332.34
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 24:48",
+     "midia": "EXT",
+     "inicio": 1488.5,
+     "tipo": "editorial",
+     "corte": [
+      332.34,
+      336.74
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 25:23",
+     "midia": "EXT",
+     "inicio": 1523.6,
+     "tipo": "editorial",
+     "corte": [
+      336.74,
+      338.94
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 25:33",
+     "midia": "EXT",
+     "inicio": 1533.1,
+     "tipo": "editorial",
+     "corte": [
+      338.94,
+      344.34
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 24:53",
+     "midia": "EXT",
+     "inicio": 1493.5,
+     "tipo": "editorial",
+     "corte": [
+      344.34,
+      347.3
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 21:30",
+     "midia": "EXT",
+     "inicio": 1290,
+     "tipo": "editorial",
+     "corte": [
+      347.3,
+      354.46
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 23:30",
+     "midia": "EXT",
+     "inicio": 1410,
+     "tipo": "editorial",
+     "corte": [
+      354.46,
+      363.3
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 25:45",
+     "midia": "EXT",
+     "inicio": 1545,
+     "tipo": "editorial",
+     "corte": [
+      363.3,
+      368.9
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 25:54",
+     "midia": "EXT",
+     "inicio": 1554.3,
+     "tipo": "editorial",
+     "corte": [
+      368.9,
+      370.9
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "VC07",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      370.9,
+      377.42
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "C21_NAOCONF",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      377.42,
+      386.42
+     ],
+     "sem_card": true,
+     "movimento": "fixo"
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 17:33",
+     "midia": "EXT",
+     "inicio": 1053,
+     "tipo": "editorial",
+     "corte": [
+      386.42,
+      392.34
+     ]
+    },
+    {
+     "titulo": "VÍDEO OFICIAL",
+     "detalhe": "An Extended Look · 17:34",
+     "midia": "QPORTA",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      392.34,
+      395.54
+     ]
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "B02",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      395.54,
+      401.48
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "C22_DIA10",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      401.48,
+      408.98
+     ],
+     "sem_card": true,
+     "movimento": "fixo"
+    },
+    {
+     "titulo": "ARTE OFICIAL",
+     "detalhe": "Rockstar Games",
+     "midia": "D03",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      408.98,
+      416.66
+     ]
+    }
+   ]
+  }
+ }
+}

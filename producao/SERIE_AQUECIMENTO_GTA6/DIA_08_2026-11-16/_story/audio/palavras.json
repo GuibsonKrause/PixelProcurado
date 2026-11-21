@@ -1,0 +1,303 @@
+[
+ {
+  "start": 0.1,
+  "end": 0.7,
+  "word": "Amanhã,",
+  "probability": 0.9798
+ },
+ {
+  "start": 0.92,
+  "end": 1.4,
+  "word": "terça,",
+  "probability": 0.968
+ },
+ {
+  "start": 1.78,
+  "end": 2.16,
+  "word": "dezessete",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 2.16,
+  "end": 2.34,
+  "word": "de",
+  "probability": 0.9824
+ },
+ {
+  "start": 2.34,
+  "end": 2.84,
+  "word": "novembro,",
+  "probability": 0.9851
+ },
+ {
+  "start": 2.94,
+  "end": 2.94,
+  "word": "a",
+  "probability": 0.9596
+ },
+ {
+  "start": 2.94,
+  "end": 3.06,
+  "word": "gente",
+  "probability": 0.9995
+ },
+ {
+  "start": 3.06,
+  "end": 3.34,
+  "word": "sai",
+  "probability": 0.9925
+ },
+ {
+  "start": 3.34,
+  "end": 3.48,
+  "word": "do",
+  "probability": 0.9932
+ },
+ {
+  "start": 3.48,
+  "end": 3.64,
+  "word": "menu",
+  "probability": 0.7128
+ },
+ {
+  "start": 3.64,
+  "end": 4.56,
+  "word": "gráfico",
+  "probability": 0.9925
+ },
+ {
+  "start": 4.56,
+  "end": 4.76,
+  "word": "e",
+  "probability": 0.9143
+ },
+ {
+  "start": 4.76,
+  "end": 5.0,
+  "word": "entra",
+  "probability": 0.9913
+ },
+ {
+  "start": 5.0,
+  "end": 5.14,
+  "word": "na",
+  "probability": 0.9902
+ },
+ {
+  "start": 5.14,
+  "end": 5.6,
+  "word": "balada:",
+  "probability": 0.9907
+ },
+ {
+  "start": 6.02,
+  "end": 6.26,
+  "word": "vida",
+  "probability": 0.9686
+ },
+ {
+  "start": 6.26,
+  "end": 6.92,
+  "word": "noturna,",
+  "probability": 0.9018
+ },
+ {
+  "start": 7.22,
+  "end": 7.78,
+  "word": "boates",
+  "probability": 0.8133
+ },
+ {
+  "start": 7.78,
+  "end": 8.06,
+  "word": "e",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 8.06,
+  "end": 8.52,
+  "word": "infiltração",
+  "probability": 0.9664
+ },
+ {
+  "start": 8.52,
+  "end": 8.76,
+  "word": "de",
+  "probability": 0.9908
+ },
+ {
+  "start": 8.76,
+  "end": 9.18,
+  "word": "luxo",
+  "probability": 0.8211
+ },
+ {
+  "start": 9.18,
+  "end": 9.24,
+  "word": "em",
+  "probability": 0.9929
+ },
+ {
+  "start": 9.24,
+  "end": 9.42,
+  "word": "Vice",
+  "probability": 0.2024
+ },
+ {
+  "start": 9.42,
+  "end": 9.82,
+  "word": "City,",
+  "probability": 0.5052
+ },
+ {
+  "start": 10.3,
+  "end": 10.48,
+  "word": "com",
+  "probability": 0.9402
+ },
+ {
+  "start": 10.48,
+  "end": 10.985,
+  "word": "ID",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 10.985,
+  "end": 11.49,
+  "word": "check,",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 11.49,
+  "end": 11.995,
+  "word": "Boobie",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 11.995,
+  "end": 12.5,
+  "word": "Ike,",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 12.5,
+  "end": 12.88,
+  "word": "terno",
+  "probability": 0.7933
+ },
+ {
+  "start": 12.88,
+  "end": 12.94,
+  "word": "e",
+  "probability": 0.8708
+ },
+ {
+  "start": 12.94,
+  "end": 13.26,
+  "word": "pistola",
+  "probability": 0.9743
+ },
+ {
+  "start": 13.26,
+  "end": 13.78,
+  "word": "silenciada",
+  "probability": 0.9756
+ },
+ {
+  "start": 13.78,
+  "end": 13.9,
+  "word": "na",
+  "probability": 0.9942
+ },
+ {
+  "start": 13.9,
+  "end": 14.54,
+  "word": "cobertura.",
+  "probability": 0.9952
+ },
+ {
+  "start": 15.34,
+  "end": 15.8,
+  "word": "Se",
+  "probability": 0.9735
+ },
+ {
+  "start": 15.8,
+  "end": 16.08,
+  "word": "inscreve",
+  "probability": 0.9691
+ },
+ {
+  "start": 16.08,
+  "end": 16.2,
+  "word": "no",
+  "probability": 0.9834
+ },
+ {
+  "start": 16.2,
+  "end": 16.54,
+  "word": "canal",
+  "probability": 0.9981
+ },
+ {
+  "start": 16.54,
+  "end": 16.78,
+  "word": "e",
+  "probability": 0.9199
+ },
+ {
+  "start": 16.78,
+  "end": 16.98,
+  "word": "até",
+  "probability": 0.9924
+ },
+ {
+  "start": 16.98,
+  "end": 17.32,
+  "word": "amanhã,",
+  "probability": 0.9964
+ },
+ {
+  "start": 17.32,
+  "end": 17.96,
+  "word": "que",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 17.96,
+  "end": 18.14,
+  "word": "agora",
+  "probability": 0.9681
+ },
+ {
+  "start": 18.14,
+  "end": 18.48,
+  "word": "faltam",
+  "probability": 0.9685
+ },
+ {
+  "start": 18.48,
+  "end": 18.64,
+  "word": "só",
+  "probability": 0.9668
+ },
+ {
+  "start": 18.64,
+  "end": 18.88,
+  "word": "três",
+  "probability": 0.3932
+ },
+ {
+  "start": 18.88,
+  "end": 19.14,
+  "word": "dias.",
+  "probability": 0.9955
+ }
+]

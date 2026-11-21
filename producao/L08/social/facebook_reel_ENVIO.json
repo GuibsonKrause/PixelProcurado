@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-08T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Jason mora sem pagar aluguel na propriedade de Brian, mas a fatura chegou em outro formato. Em GTA 6, um favor desses aproxima ou prende?\n\nFichas oficiais dos personagens de GTA VI: https://www.rockstargames.com/VI/only-in-leonida\nAnálise do material oficial. Imagens: Rockstar Games.\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #Shorts #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d9e43da8c4b74b008f3f7a2571103ec4.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: quem deve a quem em Leonida?"
+      }
+    }
+  ]
+}

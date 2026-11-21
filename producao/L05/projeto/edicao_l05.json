@@ -1,0 +1,2929 @@
+{
+  "episode": "L05",
+  "title": "GTA V e GTA VI: três diferenças que estas imagens revelam",
+  "duration": 324.84,
+  "frames": 9746,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "logicalWidth": 1920,
+  "logicalHeight": 1080,
+  "voice": "producao/L05/voz/narracao_normalizada.wav",
+  "alignment": "producao/L05/voz/palavras_alinhadas.json",
+  "pathBase": "project-root",
+  "contractVersion": "L05-1920-logical-v1",
+  "status": "final-direction",
+  "alignmentStatus": "validated-input",
+  "shots": [
+    {
+      "anchor": "INÍCIO",
+      "anchorWordIndex": 0,
+      "fromFrame": 0,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Olhe a rua.",
+      "sub": "O contexto também participa da imagem.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Entregar contraste de abertura",
+      "frames": 86,
+      "start": 0.0,
+      "end": 2.8666666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Na foto de GTA seis tem",
+      "anchorWordIndex": 6,
+      "fromFrame": 86,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "focus",
+      "title": "Carro + bairro",
+      "sub": "",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Na foto de GTA seis tem",
+      "focusRects": [
+        {
+          "id": "0",
+          "x": 384.0,
+          "y": 452.4,
+          "width": 281.6,
+          "height": 244.8,
+          "label": "Motos",
+          "cue": 38
+        },
+        {
+          "id": "1",
+          "x": 76.8,
+          "y": 186.0,
+          "width": 256.0,
+          "height": 597.6,
+          "label": "Murais",
+          "cue": 78
+        }
+      ],
+      "frames": 342,
+      "start": 2.8666666666666667,
+      "end": 14.266666666666667,
+      "animate": true,
+      "animationFrames": 98
+    },
+    {
+      "anchor": "Vamos comparar seis fotos oficiais",
+      "anchorWordIndex": 39,
+      "fromFrame": 428,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "O RECORTE / SEIS IMAGENS OFICIAIS",
+      "graphic": "",
+      "title": "6 fotos\n3 pares",
+      "sub": "Praia • carros • vista aérea",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Vamos comparar seis fotos oficiais",
+      "frames": 332,
+      "start": 14.266666666666667,
+      "end": 25.333333333333332,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Começa pelo ciclista",
+      "anchorWordIndex": 65,
+      "fromFrame": 760,
+      "kind": "image",
+      "file": "producao/L05/midia/V1.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "Uma ação\nprincipal",
+      "sub": "Transport • 20 de agosto de 2012",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Começa pelo ciclista",
+      "frames": 198,
+      "start": 25.333333333333332,
+      "end": 31.933333333333334,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A câmera fica baixa",
+      "anchorWordIndex": 82,
+      "fromFrame": 958,
+      "kind": "image",
+      "file": "producao/L05/midia/V1.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "focus",
+      "title": "Ângulo + ação",
+      "sub": "",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "A câmera fica baixa",
+      "focusRects": [
+        {
+          "id": "0",
+          "x": 576.0,
+          "y": 164.4,
+          "width": 512.0,
+          "height": 691.1999999999999,
+          "label": "Ciclista",
+          "cue": 0
+        },
+        {
+          "id": "1",
+          "x": 166.4,
+          "y": 380.4,
+          "width": 1126.4,
+          "height": 432.0,
+          "label": "Píer e roda-gigante",
+          "cue": 85
+        }
+      ],
+      "frames": 213,
+      "start": 31.933333333333334,
+      "end": 39.03333333333333,
+      "animate": true,
+      "animationFrames": 105
+    },
+    {
+      "anchor": "Você bate o olho",
+      "anchorWordIndex": 101,
+      "fromFrame": 1171,
+      "kind": "image",
+      "file": "producao/L05/midia/V1.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "A ação\nconduz o olhar",
+      "sub": "Pedalar pela praia.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Você bate o olho",
+      "frames": 133,
+      "start": 39.03333333333333,
+      "end": 43.46666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O lugar ajuda",
+      "anchorWordIndex": 114,
+      "fromFrame": 1304,
+      "kind": "image",
+      "file": "producao/L05/midia/V1.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "O cenário\napoia a ação",
+      "sub": "Píer, luz e enquadramento.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1.012,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "O lugar ajuda",
+      "frames": 390,
+      "start": 43.46666666666667,
+      "end": 56.46666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "É uma imagem direta",
+      "anchorWordIndex": 148,
+      "fromFrame": 1694,
+      "kind": "image",
+      "file": "producao/L05/midia/V1.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "Assunto\nprincipal",
+      "sub": "Uma leitura imediata.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "É uma imagem direta",
+      "frames": 166,
+      "start": 56.46666666666667,
+      "end": 62.0,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Agora muda pra praia",
+      "anchorWordIndex": 167,
+      "fromFrame": 1860,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Várias\nparadas",
+      "sub": "O olhar explora o mesmo quadro.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Agora muda pra praia",
+      "frames": 82,
+      "start": 62.0,
+      "end": 64.73333333333333,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Tem uma pessoa tomando sol",
+      "anchorWordIndex": 174,
+      "fromFrame": 1942,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "focus",
+      "title": "Observe\na ordem",
+      "sub": "",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Tem uma pessoa tomando sol",
+      "focusRects": [
+        {
+          "id": "0",
+          "x": 64.0,
+          "y": 639.6,
+          "width": 704.0,
+          "height": 223.2,
+          "label": "Tomando sol",
+          "cue": 0
+        },
+        {
+          "id": "1",
+          "x": 691.2,
+          "y": 229.2,
+          "width": 435.20000000000005,
+          "height": 547.2,
+          "label": "Casal",
+          "cue": 92
+        },
+        {
+          "id": "2",
+          "x": 294.4,
+          "y": 358.79999999999995,
+          "width": 217.60000000000002,
+          "height": 316.8,
+          "label": "Detector",
+          "cue": 201
+        }
+      ],
+      "frames": 399,
+      "start": 64.73333333333333,
+      "end": 78.03333333333333,
+      "animate": true,
+      "animationFrames": 221
+    },
+    {
+      "anchor": "O detector é um detalhe ótimo",
+      "anchorWordIndex": 205,
+      "fromFrame": 2341,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "focus",
+      "title": "Uma atividade\nno quadro",
+      "sub": "",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "O detector é um detalhe ótimo",
+      "focusRects": [
+        {
+          "id": "0",
+          "x": 294.4,
+          "y": 358.79999999999995,
+          "width": 217.60000000000002,
+          "height": 316.8,
+          "label": "Detector de metais",
+          "cue": 0
+        }
+      ],
+      "frames": 168,
+      "start": 78.03333333333333,
+      "end": 83.63333333333334,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "A gente olha e já imagina",
+      "anchorWordIndex": 220,
+      "fromFrame": 2509,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "A joia…\nou a tampinha?",
+      "sub": "Imaginação a partir de um objeto visível.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1.012,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "A gente olha e já imagina",
+      "frames": 214,
+      "start": 83.63333333333334,
+      "end": 90.76666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Essa história é nossa imaginação",
+      "anchorWordIndex": 241,
+      "fromFrame": 2723,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "LEITURA DA COMPOSIÇÃO",
+      "graphic": "headline",
+      "title": "Imaginação\n≠ missão anunciada",
+      "sub": "A cena permite uma leitura; não anuncia uma mecânica.",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Essa história é nossa imaginação",
+      "frames": 173,
+      "start": 90.76666666666667,
+      "end": 96.53333333333333,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "O que está visível é suficiente",
+      "anchorWordIndex": 255,
+      "fromFrame": 2896,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Diferentes\nocupações",
+      "sub": "Pessoas com poses e atividades distintas.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "O que está visível é suficiente",
+      "frames": 202,
+      "start": 96.53333333333333,
+      "end": 103.26666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Na foto do ciclista acompanhamos",
+      "anchorWordIndex": 271,
+      "fromFrame": 3098,
+      "kind": "image",
+      "file": "producao/L05/midia/V1.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "Uma ação",
+      "sub": "Comparação de enquadramentos.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Na foto do ciclista acompanhamos",
+      "frames": 108,
+      "start": 103.26666666666667,
+      "end": 106.86666666666666,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Nessa praia exploramos",
+      "anchorWordIndex": 278,
+      "fromFrame": 3206,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Pequenas\nsituações",
+      "sub": "Comparação de enquadramentos.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Nessa praia exploramos",
+      "frames": 192,
+      "start": 106.86666666666666,
+      "end": 113.26666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Ela não prova",
+      "anchorWordIndex": 291,
+      "fromFrame": 3398,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "LEITURA DA COMPOSIÇÃO",
+      "graphic": "headline",
+      "title": "Fotos escolhidas\npara divulgação",
+      "sub": "Este recorte não mede a densidade média dos jogos.",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Ela não prova",
+      "frames": 407,
+      "start": 113.26666666666667,
+      "end": 126.83333333333333,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "E com os carros",
+      "anchorWordIndex": 326,
+      "fromFrame": 3805,
+      "kind": "image",
+      "file": "producao/L05/midia/V2.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "A máquina\nprimeiro",
+      "sub": "Traseira próxima e rua ao fundo.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "E com os carros",
+      "frames": 175,
+      "start": 126.83333333333333,
+      "end": 132.66666666666666,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O aerofólio chama atenção",
+      "anchorWordIndex": 342,
+      "fromFrame": 3980,
+      "kind": "image",
+      "file": "producao/L05/midia/V2.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "focus",
+      "title": "A máquina\ndomina",
+      "sub": "",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "O aerofólio chama atenção",
+      "focusRects": [
+        {
+          "id": "0",
+          "x": 499.20000000000005,
+          "y": 258.0,
+          "width": 704.0,
+          "height": 151.2,
+          "label": "Aerofólio",
+          "cue": 0
+        },
+        {
+          "id": "1",
+          "x": 89.6,
+          "y": 495.59999999999997,
+          "width": 537.6,
+          "height": 280.8,
+          "label": "Fumaça",
+          "cue": 54
+        }
+      ],
+      "frames": 220,
+      "start": 132.66666666666666,
+      "end": 140.0,
+      "animate": true,
+      "animationFrames": 74
+    },
+    {
+      "anchor": "Tem cara de anúncio",
+      "anchorWordIndex": 361,
+      "fromFrame": 4200,
+      "kind": "image",
+      "file": "producao/L05/midia/V2.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "Vontade\nde dirigir",
+      "sub": "A leitura da imagem, sem som de motor.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Tem cara de anúncio",
+      "frames": 386,
+      "start": 140.0,
+      "end": 152.86666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Na foto de GTA seis o carro",
+      "anchorWordIndex": 401,
+      "fromFrame": 4586,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "A rua\nparticipa",
+      "sub": "O veículo pertence a uma cena coletiva.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Na foto de GTA seis o carro",
+      "frames": 116,
+      "start": 152.86666666666667,
+      "end": 156.73333333333332,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Só que o entorno insiste",
+      "anchorWordIndex": 413,
+      "fromFrame": 4702,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "focus",
+      "title": "Além\nda lataria",
+      "sub": "",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Só que o entorno insiste",
+      "focusRects": [
+        {
+          "id": "0",
+          "x": 371.2,
+          "y": 438.0,
+          "width": 332.8,
+          "height": 244.8,
+          "label": "Motos e pessoas",
+          "cue": 91
+        },
+        {
+          "id": "1",
+          "x": 320.0,
+          "y": 150.0,
+          "width": 1011.2,
+          "height": 288.0,
+          "label": "Fios e viaduto",
+          "cue": 202
+        }
+      ],
+      "frames": 427,
+      "start": 156.73333333333332,
+      "end": 170.96666666666667,
+      "animate": true,
+      "animationFrames": 222
+    },
+    {
+      "anchor": "Os murais ocupam",
+      "anchorWordIndex": 444,
+      "fromFrame": 5129,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "focus",
+      "title": "Personalidade\ndo lugar",
+      "sub": "",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Os murais ocupam",
+      "focusRects": [
+        {
+          "id": "0",
+          "x": 64.0,
+          "y": 171.6,
+          "width": 307.2,
+          "height": 612.0,
+          "label": "Pilares pintados",
+          "cue": 0
+        }
+      ],
+      "frames": 152,
+      "start": 170.96666666666667,
+      "end": 176.03333333333333,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "As pessoas e as motos",
+      "anchorWordIndex": 456,
+      "fromFrame": 5281,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Carro, gente\ne bairro",
+      "sub": "Minha leitura da composição.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1.012,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "As pessoas e as motos",
+      "frames": 392,
+      "start": 176.03333333333333,
+      "end": 189.1,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Se você recorta só o automóvel",
+      "anchorWordIndex": 491,
+      "fromFrame": 5673,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "O entorno\nfaz falta",
+      "sub": "Retorno ao quadro inteiro.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Se você recorta só o automóvel",
+      "frames": 89,
+      "start": 189.1,
+      "end": 192.06666666666666,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "É como mostrar a foto de um churrasco",
+      "anchorWordIndex": 500,
+      "fromFrame": 5762,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HUMOR / ANALOGIA",
+      "graphic": "headline",
+      "title": "A churrasqueira\nsem o encontro",
+      "sub": "ANALOGIA • o objeto sozinho não conta toda a cena.",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "É como mostrar a foto de um churrasco",
+      "frames": 341,
+      "start": 192.06666666666666,
+      "end": 203.43333333333334,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Isso não diminui",
+      "anchorWordIndex": 531,
+      "fromFrame": 6103,
+      "kind": "image",
+      "file": "producao/L05/midia/V2.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "Outra\nprioridade",
+      "sub": "A máquina ocupa o centro da leitura.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Isso não diminui",
+      "frames": 187,
+      "start": 203.43333333333334,
+      "end": 209.66666666666666,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "a outra dá mais espaço",
+      "anchorWordIndex": 549,
+      "fromFrame": 6290,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Uma relação",
+      "sub": "Carro • gente • bairro",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "a outra dá mais espaço",
+      "frames": 134,
+      "start": 209.66666666666666,
+      "end": 214.13333333333333,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Agora vamos subir",
+      "anchorWordIndex": 561,
+      "fromFrame": 6424,
+      "kind": "image",
+      "file": "producao/L05/midia/V3.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "A aeronave\nconduz",
+      "sub": "Próxima, sobre as luzes da cidade.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Agora vamos subir",
+      "frames": 126,
+      "start": 214.13333333333333,
+      "end": 218.33333333333334,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "um jato ocupa boa parte",
+      "anchorWordIndex": 570,
+      "fromFrame": 6550,
+      "kind": "image",
+      "file": "producao/L05/midia/V3.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "focus",
+      "title": "O jato\nem primeiro plano",
+      "sub": "",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "um jato ocupa boa parte",
+      "focusRects": [
+        {
+          "id": "0",
+          "x": 102.4,
+          "y": 258.0,
+          "width": 1203.1999999999998,
+          "height": 547.2,
+          "label": "Aeronave",
+          "cue": 0
+        }
+      ],
+      "frames": 115,
+      "start": 218.33333333333334,
+      "end": 222.16666666666666,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "O avião fica próximo",
+      "anchorWordIndex": 582,
+      "fromFrame": 6665,
+      "kind": "image",
+      "file": "producao/L05/midia/V3.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "Veículo +\npaisagem",
+      "sub": "O cenário passa embaixo dele.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1.012,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "O avião fica próximo",
+      "frames": 235,
+      "start": 222.16666666666666,
+      "end": 230.0,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Na imagem de GTA seis",
+      "anchorWordIndex": 603,
+      "fromFrame": 6900,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "A cidade\nganha espaço",
+      "sub": "A aeronave ajuda a perceber as partes.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Na imagem de GTA seis",
+      "frames": 48,
+      "start": 230.0,
+      "end": 231.6,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "o helicóptero aparece menor",
+      "anchorWordIndex": 608,
+      "fromFrame": 6948,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "focus",
+      "title": "Outra\nrelação",
+      "sub": "",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "o helicóptero aparece menor",
+      "focusRects": [
+        {
+          "id": "0",
+          "x": 832.0,
+          "y": 308.4,
+          "width": 115.19999999999999,
+          "height": 72.0,
+          "label": "Helicóptero",
+          "cue": 0
+        },
+        {
+          "id": "1",
+          "x": 921.6,
+          "y": 531.6,
+          "width": 409.6,
+          "height": 309.6,
+          "label": "Água e barcos",
+          "cue": 89
+        }
+      ],
+      "frames": 225,
+      "start": 231.6,
+      "end": 239.1,
+      "animate": true,
+      "animationFrames": 109
+    },
+    {
+      "anchor": "A cidade ganha mais espaço",
+      "anchorWordIndex": 626,
+      "fromFrame": 7173,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Cidade\n+ aeronave",
+      "sub": "Prioridade do enquadramento.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "A cidade ganha mais espaço",
+      "frames": 173,
+      "start": 239.1,
+      "end": 244.86666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Pensa numa foto de viagem",
+      "anchorWordIndex": 644,
+      "fromFrame": 7346,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HUMOR / ANALOGIA",
+      "graphic": "headline",
+      "title": "Você ou\no lugar?",
+      "sub": "ANALOGIA • mudar o enquadramento muda o protagonismo.",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Pensa numa foto de viagem",
+      "frames": 337,
+      "start": 244.86666666666667,
+      "end": 256.1,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Nenhuma das fotos mede",
+      "anchorWordIndex": 677,
+      "fromFrame": 7683,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "LEITURA DA COMPOSIÇÃO",
+      "graphic": "headline",
+      "title": "Enquadramento\n≠ tamanho do mapa",
+      "sub": "Uma foto muda a prioridade, não mede quilômetros.",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Nenhuma das fotos mede",
+      "frames": 160,
+      "start": 256.1,
+      "end": 261.43333333333334,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "É esse cuidado",
+      "anchorWordIndex": 691,
+      "fromFrame": 7843,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Sem régua\npara o mapa",
+      "sub": "Um helicóptero pequeno não mede o mundo.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "É esse cuidado",
+      "frames": 234,
+      "start": 261.43333333333334,
+      "end": 269.23333333333335,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Assim como um jato enorme",
+      "anchorWordIndex": 711,
+      "fromFrame": 8077,
+      "kind": "image",
+      "file": "producao/L05/midia/V3.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "Sem régua\npara o mapa",
+      "sub": "Um jato próximo não limita o mundo.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Assim como um jato enorme",
+      "frames": 183,
+      "start": 269.23333333333335,
+      "end": 275.3333333333333,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "E comparar os gráficos",
+      "anchorWordIndex": 730,
+      "fromFrame": 8260,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "LEITURA DA COMPOSIÇÃO",
+      "graphic": "headline",
+      "title": "Não é um\nbenchmark",
+      "sub": "Datas, luz, situações e enquadramentos diferentes.",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "E comparar os gráficos",
+      "frames": 183,
+      "start": 275.3333333333333,
+      "end": 281.43333333333334,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "O material de GTA cinco",
+      "anchorWordIndex": 746,
+      "fromFrame": 8443,
+      "kind": "image",
+      "file": "producao/L05/midia/V1.jpg",
+      "offset": 0,
+      "label": "GTA V / DIVULGAÇÃO, 2012",
+      "graphic": "",
+      "title": "Divulgação\nde 2012",
+      "sub": "Não representa um teste da versão atual.",
+      "source": "Rockstar Games • Transport (2012) • fonte 640×360, ampliada",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "O material de GTA cinco",
+      "frames": 115,
+      "start": 281.43333333333334,
+      "end": 285.26666666666665,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Os enquadramentos a luz",
+      "anchorWordIndex": 758,
+      "fromFrame": 8558,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Analisar\na fotografia",
+      "sub": "O corpus tem limites.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Os enquadramentos a luz",
+      "frames": 255,
+      "start": 285.26666666666665,
+      "end": 293.76666666666665,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O que os três pares mostram",
+      "anchorWordIndex": 781,
+      "fromFrame": 8813,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "LEITURA DA COMPOSIÇÃO",
+      "graphic": "headline",
+      "title": "O caminho\ndo olhar",
+      "sub": "Três pares, três relações entre assunto e contexto.",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "O que os três pares mostram",
+      "frames": 136,
+      "start": 293.76666666666665,
+      "end": 298.3,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "O ciclista e as pequenas",
+      "anchorWordIndex": 795,
+      "fromFrame": 8949,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Praia",
+      "sub": "Ação principal → pequenas situações.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "O ciclista e as pequenas",
+      "frames": 96,
+      "start": 298.3,
+      "end": 301.5,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O carro e a rua",
+      "anchorWordIndex": 803,
+      "fromFrame": 9045,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Carros",
+      "sub": "Máquina → relação com o bairro.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "O carro e a rua",
+      "frames": 79,
+      "start": 301.5,
+      "end": 304.1333333333333,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A aeronave e a cidade",
+      "anchorWordIndex": 810,
+      "fromFrame": 9124,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Vista aérea",
+      "sub": "Veículo → cidade ao redor.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "A aeronave e a cidade",
+      "frames": 219,
+      "start": 304.1333333333333,
+      "end": 311.43333333333334,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Qual desses lugares",
+      "anchorWordIndex": 828,
+      "fromFrame": 9343,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Praia, carros\nou orla?",
+      "sub": "Onde você esqueceria a missão?",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "Qual desses lugares",
+      "frames": 150,
+      "start": 311.43333333333334,
+      "end": 316.43333333333334,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "o encontro de carros ou",
+      "anchorWordIndex": 841,
+      "fromFrame": 9493,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0,
+      "label": "GTA VI / IMAGEM OFICIAL",
+      "graphic": "",
+      "title": "Olhe\nas bordas.",
+      "sub": "O carro já tem a nossa atenção.",
+      "source": "Rockstar Games • Biblioteca oficial • screenshot",
+      "presentation": "classic-card",
+      "viewport": {
+        "x": 64,
+        "y": 150,
+        "width": 1280,
+        "height": 720
+      },
+      "zoom": [
+        1,
+        1.012
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1550
+      },
+      "evidence": "official-material",
+      "editorialPurpose": "o encontro de carros ou",
+      "frames": 253,
+      "start": 316.43333333333334,
+      "end": 324.8666666666667,
+      "animate": false,
+      "animationFrames": 1
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.1,
+      "text": "O carro distrai."
+    },
+    {
+      "start": 1.42,
+      "end": 2.27,
+      "text": "Olha a rua."
+    },
+    {
+      "start": 2.86,
+      "end": 5.46,
+      "text": "Na foto de GTA seis, tem moto empinando"
+    },
+    {
+      "start": 5.46,
+      "end": 7.52,
+      "text": "e pilares pintados atrás do carro azul."
+    },
+    {
+      "start": 8.16,
+      "end": 9.639999999999999,
+      "text": "A graça também está no bairro."
+    },
+    {
+      "start": 10.24,
+      "end": 12.32,
+      "text": "Olhar só a lataria é deixar metade da"
+    },
+    {
+      "start": 12.32,
+      "end": 13.56,
+      "text": "conversa fora do quadro."
+    },
+    {
+      "start": 14.28,
+      "end": 17.26,
+      "text": "Vamos comparar seis fotos oficiais, em três pares:"
+    },
+    {
+      "start": 17.66,
+      "end": 19.94,
+      "text": "praia, carros e vista aérea."
+    },
+    {
+      "start": 20.54,
+      "end": 22.74,
+      "text": "Dá pra perceber bastante coisa sem transformar um"
+    },
+    {
+      "start": 22.74,
+      "end": 24.3,
+      "text": "print numa disputa de console."
+    },
+    {
+      "start": 25.32,
+      "end": 27.400000000000002,
+      "text": "Começa pelo ciclista de GTA cinco."
+    },
+    {
+      "start": 27.9,
+      "end": 30.78,
+      "text": "A imagem saiu na galeria Transport, em dois"
+    },
+    {
+      "start": 30.78,
+      "end": 31.630000000000003,
+      "text": "mil e doze."
+    },
+    {
+      "start": 31.92,
+      "end": 34.46,
+      "text": "A câmera fica baixa, perto da roda."
+    },
+    {
+      "start": 34.76,
+      "end": 37.3,
+      "text": "O píer e a roda-gigante aparecem ao fundo,"
+    },
+    {
+      "start": 37.3,
+      "end": 38.36,
+      "text": "com uma luz quente."
+    },
+    {
+      "start": 39.02,
+      "end": 40.84,
+      "text": "Você bate o olho e entende a ação:"
+    },
+    {
+      "start": 41.22,
+      "end": 42.74,
+      "text": "alguém pedalando por aquela praia."
+    },
+    {
+      "start": 43.48,
+      "end": 45.32,
+      "text": "O lugar ajuda a contar a cena."
+    },
+    {
+      "start": 46.02,
+      "end": 48.72,
+      "text": "O píer dá uma referência, o ângulo passa"
+    },
+    {
+      "start": 48.74,
+      "end": 50.86,
+      "text": "movimento e a bicicleta segura o olhar."
+    },
+    {
+      "start": 51.46,
+      "end": 54.6,
+      "text": "A fotografia escolheu um assunto principal e deixou"
+    },
+    {
+      "start": 54.6,
+      "end": 55.68,
+      "text": "o resto trabalhar junto."
+    },
+    {
+      "start": 56.46,
+      "end": 57.78,
+      "text": "É uma imagem direta."
+    },
+    {
+      "start": 58.32,
+      "end": 60.42,
+      "text": "Você não precisa fazer um censo da areia"
+    },
+    {
+      "start": 60.42,
+      "end": 61.64,
+      "text": "pra entender o que ela quer mostrar."
+    },
+    {
+      "start": 62.0,
+      "end": 64.33999999999999,
+      "text": "Agora muda pra praia de Vice City."
+    },
+    {
+      "start": 64.72,
+      "end": 66.92,
+      "text": "Tem uma pessoa tomando sol mais perto da"
+    },
+    {
+      "start": 66.92,
+      "end": 70.76,
+      "text": "câmera, um casal andando, outras pessoas espalhadas"
+    },
+    {
+      "start": 70.76,
+      "end": 73.52,
+      "text": "e o homem com detector perto do posto"
+    },
+    {
+      "start": 73.52,
+      "end": 77.3,
+      "text": "de salva-vidas. Seu olhar consegue fazer várias paradas."
+    },
+    {
+      "start": 78.02,
+      "end": 79.96,
+      "text": "O detector é um detalhe ótimo."
+    },
+    {
+      "start": 80.46,
+      "end": 82.58,
+      "text": "Ele sugere uma atividade diferente no meio do"
+    },
+    {
+      "start": 82.58,
+      "end": 85.3,
+      "text": "passeio. A gente olha e já imagina o"
+    },
+    {
+      "start": 85.3,
+      "end": 88.14,
+      "text": "sujeito esperando encontrar uma joia, enquanto a"
+    },
+    {
+      "start": 88.14,
+      "end": 90.16,
+      "text": "praia oferece a décima tampinha do dia."
+    },
+    {
+      "start": 90.76,
+      "end": 93.76,
+      "text": "Essa história é nossa imaginação trabalhando em cima"
+    },
+    {
+      "start": 93.76,
+      "end": 95.8,
+      "text": "do objeto, não uma missão anunciada."
+    },
+    {
+      "start": 96.52,
+      "end": 98.08,
+      "text": "O que está visível é suficiente:"
+    },
+    {
+      "start": 98.88,
+      "end": 101.76,
+      "text": "pessoas com poses e ocupações diferentes dentro do"
+    },
+    {
+      "start": 101.76,
+      "end": 105.48,
+      "text": "mesmo quadro. Na foto do ciclista, acompanhamos uma"
+    },
+    {
+      "start": 105.48,
+      "end": 110.11999999999999,
+      "text": "ação. Nessa praia, exploramos várias pequenas situações."
+    },
+    {
+      "start": 110.76,
+      "end": 112.69999999999999,
+      "text": "Essa é a diferença que estamos comparando."
+    },
+    {
+      "start": 113.28,
+      "end": 115.4,
+      "text": "Ela não prova que GTA seis inteiro tem"
+    },
+    {
+      "start": 115.4,
+      "end": 118.12,
+      "text": "determinada quantidade de pessoas ou que a praia"
+    },
+    {
+      "start": 118.12,
+      "end": 119.89999999999999,
+      "text": "de GTA cinco sempre fica vazia."
+    },
+    {
+      "start": 120.06,
+      "end": 122.47999999999999,
+      "text": "São fotos escolhidas pra divulgação."
+    },
+    {
+      "start": 123.12,
+      "end": 126.11999999999999,
+      "text": "Elas mostram o que cada enquadramento decidiu destacar."
+    },
+    {
+      "start": 126.82,
+      "end": 128.08,
+      "text": "E com os carros?"
+    },
+    {
+      "start": 128.68,
+      "end": 130.96,
+      "text": "A imagem do Cheetah em GTA cinco chega"
+    },
+    {
+      "start": 130.96,
+      "end": 132.2,
+      "text": "bem perto da traseira."
+    },
+    {
+      "start": 132.68,
+      "end": 135.44,
+      "text": "O aerofólio chama atenção, tem fumaça junto dos"
+    },
+    {
+      "start": 135.44,
+      "end": 137.4,
+      "text": "pneus, e a rua fica atrás."
+    },
+    {
+      "start": 138.06,
+      "end": 139.5,
+      "text": "A máquina domina o quadro."
+    },
+    {
+      "start": 140.0,
+      "end": 141.84,
+      "text": "Tem cara de anúncio de carro que mostra"
+    },
+    {
+      "start": 141.84,
+      "end": 144.44,
+      "text": "três minutos de escapamento e esquece de mencionar"
+    },
+    {
+      "start": 144.44,
+      "end": 145.29,
+      "text": "o valor do seguro."
+    },
+    {
+      "start": 145.9,
+      "end": 147.76,
+      "text": "A função ali é fazer você querer dirigir."
+    },
+    {
+      "start": 147.76,
+      "end": 151.0,
+      "text": "E a imagem consegue passar essa vontade mesmo"
+    },
+    {
+      "start": 151.0,
+      "end": 151.9,
+      "text": "sem som de motor."
+    },
+    {
+      "start": 152.86,
+      "end": 155.4,
+      "text": "Na foto de GTA seis, o carro azul"
+    },
+    {
+      "start": 155.4,
+      "end": 156.5,
+      "text": "também vem pra frente."
+    },
+    {
+      "start": 156.74,
+      "end": 158.9,
+      "text": "Só que o entorno insiste em participar:"
+    },
+    {
+      "start": 159.76,
+      "end": 163.82,
+      "text": "tem moto, gente empinando, outros veículos, fios"
+    },
+    {
+      "start": 163.82,
+      "end": 166.12,
+      "text": "e um viaduto com pilares pintados."
+    },
+    {
+      "start": 166.68,
+      "end": 168.8,
+      "text": "A rua dá trabalho pra quem tenta olhar"
+    },
+    {
+      "start": 168.8,
+      "end": 169.96,
+      "text": "só a lataria."
+    },
+    {
+      "start": 170.96,
+      "end": 173.66,
+      "text": "Os murais ocupam bastante espaço e ajudam a"
+    },
+    {
+      "start": 173.66,
+      "end": 175.06,
+      "text": "dar personalidade ao lugar."
+    },
+    {
+      "start": 176.02,
+      "end": 177.96,
+      "text": "As pessoas e as motos também sugerem um"
+    },
+    {
+      "start": 177.96,
+      "end": 180.98,
+      "text": "encontro, uma vida em volta dos veículos."
+    },
+    {
+      "start": 181.84,
+      "end": 184.66,
+      "text": "Minha leitura é que a imagem vende tanto"
+    },
+    {
+      "start": 184.66,
+      "end": 186.96,
+      "text": "a vontade de conhecer aquela rua quanto a"
+    },
+    {
+      "start": 186.96,
+      "end": 188.01999999999998,
+      "text": "de entrar naquele carro."
+    },
+    {
+      "start": 189.1,
+      "end": 191.52,
+      "text": "Se você recorta só o automóvel, perde essa"
+    },
+    {
+      "start": 191.52,
+      "end": 194.0,
+      "text": "conversa. É como mostrar a foto de um"
+    },
+    {
+      "start": 194.0,
+      "end": 196.48,
+      "text": "churrasco e cortar todo mundo pra analisar a"
+    },
+    {
+      "start": 196.48,
+      "end": 199.46,
+      "text": "churrasqueira. O equipamento pode ser ótimo."
+    },
+    {
+      "start": 200.12,
+      "end": 201.92,
+      "text": "Mas você acabou de remover o motivo de"
+    },
+    {
+      "start": 201.92,
+      "end": 204.78,
+      "text": "estar ali. Isso não diminui a imagem do"
+    },
+    {
+      "start": 204.78,
+      "end": 206.98,
+      "text": "Cheetah. Ela está fazendo outra coisa."
+    },
+    {
+      "start": 207.66,
+      "end": 209.23999999999998,
+      "text": "Uma coloca a máquina no centro;"
+    },
+    {
+      "start": 209.66,
+      "end": 211.72,
+      "text": "a outra dá mais espaço à relação entre"
+    },
+    {
+      "start": 211.72,
+      "end": 213.48,
+      "text": "carro, gente e bairro."
+    },
+    {
+      "start": 214.14,
+      "end": 215.12,
+      "text": "Agora vamos subir."
+    },
+    {
+      "start": 215.9,
+      "end": 218.88,
+      "text": "Na terceira foto de GTA cinco, um jato"
+    },
+    {
+      "start": 218.88,
+      "end": 221.02,
+      "text": "ocupa boa parte do quadro sobre as luzes"
+    },
+    {
+      "start": 221.02,
+      "end": 223.86,
+      "text": "da cidade. O avião fica próximo, e o"
+    },
+    {
+      "start": 223.86,
+      "end": 225.22,
+      "text": "cenário passa embaixo dele."
+    },
+    {
+      "start": 225.86,
+      "end": 228.44,
+      "text": "Mesmo com muita coisa ao fundo, o veículo"
+    },
+    {
+      "start": 228.44,
+      "end": 229.4,
+      "text": "conduz nosso olhar."
+    },
+    {
+      "start": 230.0,
+      "end": 232.38,
+      "text": "Na imagem de GTA seis, o helicóptero aparece"
+    },
+    {
+      "start": 232.38,
+      "end": 234.01999999999998,
+      "text": "menor perto dos edifícios."
+    },
+    {
+      "start": 234.58,
+      "end": 237.452,
+      "text": "Há água, barcos e luzes, com um prédio"
+    },
+    {
+      "start": 237.452,
+      "end": 238.35999999999999,
+      "text": "ocupando a lateral."
+    },
+    {
+      "start": 239.1,
+      "end": 241.34,
+      "text": "A cidade ganha mais espaço, e a aeronave"
+    },
+    {
+      "start": 241.34,
+      "end": 243.34,
+      "text": "ajuda a gente a perceber a relação entre"
+    },
+    {
+      "start": 243.34,
+      "end": 246.26,
+      "text": "as partes. Pensa numa foto de viagem:"
+    },
+    {
+      "start": 246.86,
+      "end": 249.02,
+      "text": "em uma, você ocupa quase tudo e sobra"
+    },
+    {
+      "start": 249.02,
+      "end": 250.9,
+      "text": "um monumento atrás da sua orelha."
+    },
+    {
+      "start": 251.62,
+      "end": 253.62,
+      "text": "Na outra, alguém dá dois passos pra trás"
+    },
+    {
+      "start": 253.62,
+      "end": 255.56,
+      "text": "e finalmente mostra onde você está."
+    },
+    {
+      "start": 256.1,
+      "end": 258.28000000000003,
+      "text": "Nenhuma das fotos mede o tamanho da cidade."
+    },
+    {
+      "start": 258.66,
+      "end": 260.64000000000004,
+      "text": "O fotógrafo só mudou a prioridade."
+    },
+    {
+      "start": 261.42,
+      "end": 263.92,
+      "text": "É esse cuidado que também vale pros mapas."
+    },
+    {
+      "start": 264.56,
+      "end": 267.38,
+      "text": "Um helicóptero pequeno na foto não demonstra quantos"
+    },
+    {
+      "start": 267.38,
+      "end": 268.68,
+      "text": "quilômetros existem no jogo."
+    },
+    {
+      "start": 269.24,
+      "end": 271.48,
+      "text": "Assim como um jato enorme na imagem não"
+    },
+    {
+      "start": 271.48,
+      "end": 273.74,
+      "text": "significa que o resto do mundo acabou logo"
+    },
+    {
+      "start": 273.74,
+      "end": 274.62,
+      "text": "depois da asa."
+    },
+    {
+      "start": 275.34,
+      "end": 277.16,
+      "text": "E comparar os gráficos?"
+    },
+    {
+      "start": 277.8,
+      "end": 279.82,
+      "text": "Essas fotos não formam um teste justo de"
+    },
+    {
+      "start": 279.82,
+      "end": 281.44,
+      "text": "desempenho ou qualidade final."
+    },
+    {
+      "start": 281.44,
+      "end": 283.98,
+      "text": "O material de GTA cinco é divulgação de"
+    },
+    {
+      "start": 283.98,
+      "end": 284.83000000000004,
+      "text": "dois mil e doze."
+    },
+    {
+      "start": 285.28,
+      "end": 287.94,
+      "text": "Os enquadramentos, a luz e as situações são"
+    },
+    {
+      "start": 287.94,
+      "end": 290.98,
+      "text": "diferentes. Dá pra analisar as imagens sem fingir"
+    },
+    {
+      "start": 290.98,
+      "end": 292.94,
+      "text": "que colocamos os dois jogos numa bancada."
+    },
+    {
+      "start": 293.78,
+      "end": 296.04,
+      "text": "O que os três pares mostram bem é"
+    },
+    {
+      "start": 296.04,
+      "end": 297.56,
+      "text": "uma mudança no caminho do olhar."
+    },
+    {
+      "start": 298.3,
+      "end": 300.74,
+      "text": "O ciclista e as pequenas situações da praia."
+    },
+    {
+      "start": 301.5,
+      "end": 303.1,
+      "text": "O carro e a rua ao redor."
+    },
+    {
+      "start": 304.12,
+      "end": 305.44,
+      "text": "A aeronave e a cidade."
+    },
+    {
+      "start": 306.04,
+      "end": 308.4,
+      "text": "Nas imagens de GTA seis que escolhemos, o"
+    },
+    {
+      "start": 308.4,
+      "end": 310.40000000000003,
+      "text": "cenário participa bastante da conversa."
+    },
+    {
+      "start": 311.42,
+      "end": 313.56,
+      "text": "Qual desses lugares faria você esquecer a missão"
+    },
+    {
+      "start": 314.15000000000003,
+      "end": 315.00000000000006,
+      "text": "por alguns minutos:"
+    },
+    {
+      "start": 315.5,
+      "end": 317.72,
+      "text": "a praia, o encontro de carros ou a"
+    },
+    {
+      "start": 317.72,
+      "end": 318.57000000000005,
+      "text": "orla vista do alto?"
+    },
+    {
+      "start": 319.66,
+      "end": 321.28000000000003,
+      "text": "Eu começaria olhando as bordas da foto."
+    },
+    {
+      "start": 321.94,
+      "end": 324.54,
+      "text": "O carro já conseguiu toda a atenção que precisava."
+    }
+  ],
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start": 0.0,
+      "text": "O carro distrai. Olha a rua. Na foto de GTA seis, tem moto empinando e pilares pintados atrás do carro azul. A graça também está no bairro. Olhar só a lataria é deixar metade da conversa fora do quadro."
+    },
+    {
+      "paragraph": 2,
+      "start": 14.28,
+      "text": "Vamos comparar seis fotos oficiais, em três pares: praia, carros e vista aérea. Dá pra perceber bastante coisa sem transformar um print numa disputa de console."
+    },
+    {
+      "paragraph": 3,
+      "start": 25.32,
+      "text": "Começa pelo ciclista de GTA cinco. A imagem saiu na galeria Transport, em dois mil e doze. A câmera fica baixa, perto da roda. O píer e a roda-gigante aparecem ao fundo, com uma luz quente. Você bate o olho e entende a ação: alguém pedalando por aquela praia."
+    },
+    {
+      "paragraph": 4,
+      "start": 43.48,
+      "text": "O lugar ajuda a contar a cena. O píer dá uma referência, o ângulo passa movimento e a bicicleta segura o olhar. A fotografia escolheu um assunto principal e deixou o resto trabalhar junto."
+    },
+    {
+      "paragraph": 5,
+      "start": 56.46,
+      "text": "É uma imagem direta. Você não precisa fazer um censo da areia pra entender o que ela quer mostrar."
+    },
+    {
+      "paragraph": 6,
+      "start": 62.0,
+      "text": "Agora muda pra praia de Vice City. Tem uma pessoa tomando sol mais perto da câmera, um casal andando, outras pessoas espalhadas e o homem com detector perto do posto de salva-vidas. Seu olhar consegue fazer várias paradas."
+    },
+    {
+      "paragraph": 7,
+      "start": 78.02,
+      "text": "O detector é um detalhe ótimo. Ele sugere uma atividade diferente no meio do passeio. A gente olha e já imagina o sujeito esperando encontrar uma joia, enquanto a praia oferece a décima tampinha do dia. Essa história é nossa imaginação trabalhando em cima do objeto, não uma missão anunciada."
+    },
+    {
+      "paragraph": 8,
+      "start": 96.52,
+      "text": "O que está visível é suficiente: pessoas com poses e ocupações diferentes dentro do mesmo quadro. Na foto do ciclista, acompanhamos uma ação. Nessa praia, exploramos várias pequenas situações. Essa é a diferença que estamos comparando."
+    },
+    {
+      "paragraph": 9,
+      "start": 113.28,
+      "text": "Ela não prova que GTA seis inteiro tem determinada quantidade de pessoas ou que a praia de GTA cinco sempre fica vazia. São fotos escolhidas pra divulgação. Elas mostram o que cada enquadramento decidiu destacar."
+    },
+    {
+      "paragraph": 10,
+      "start": 126.82,
+      "text": "E com os carros? A imagem do Cheetah em GTA cinco chega bem perto da traseira. O aerofólio chama atenção, tem fumaça junto dos pneus, e a rua fica atrás. A máquina domina o quadro."
+    },
+    {
+      "paragraph": 11,
+      "start": 140.0,
+      "text": "Tem cara de anúncio de carro que mostra três minutos de escapamento e esquece de mencionar o valor do seguro. A função ali é fazer você querer dirigir. E a imagem consegue passar essa vontade mesmo sem som de motor."
+    },
+    {
+      "paragraph": 12,
+      "start": 152.86,
+      "text": "Na foto de GTA seis, o carro azul também vem pra frente. Só que o entorno insiste em participar: tem moto, gente empinando, outros veículos, fios e um viaduto com pilares pintados. A rua dá trabalho pra quem tenta olhar só a lataria."
+    },
+    {
+      "paragraph": 13,
+      "start": 170.96,
+      "text": "Os murais ocupam bastante espaço e ajudam a dar personalidade ao lugar. As pessoas e as motos também sugerem um encontro, uma vida em volta dos veículos. Minha leitura é que a imagem vende tanto a vontade de conhecer aquela rua quanto a de entrar naquele carro."
+    },
+    {
+      "paragraph": 14,
+      "start": 189.1,
+      "text": "Se você recorta só o automóvel, perde essa conversa. É como mostrar a foto de um churrasco e cortar todo mundo pra analisar a churrasqueira. O equipamento pode ser ótimo. Mas você acabou de remover o motivo de estar ali."
+    },
+    {
+      "paragraph": 15,
+      "start": 203.42,
+      "text": "Isso não diminui a imagem do Cheetah. Ela está fazendo outra coisa. Uma coloca a máquina no centro; a outra dá mais espaço à relação entre carro, gente e bairro."
+    },
+    {
+      "paragraph": 16,
+      "start": 214.14,
+      "text": "Agora vamos subir. Na terceira foto de GTA cinco, um jato ocupa boa parte do quadro sobre as luzes da cidade. O avião fica próximo, e o cenário passa embaixo dele. Mesmo com muita coisa ao fundo, o veículo conduz nosso olhar."
+    },
+    {
+      "paragraph": 17,
+      "start": 230.0,
+      "text": "Na imagem de GTA seis, o helicóptero aparece menor perto dos edifícios. Há água, barcos e luzes, com um prédio ocupando a lateral. A cidade ganha mais espaço, e a aeronave ajuda a gente a perceber a relação entre as partes."
+    },
+    {
+      "paragraph": 18,
+      "start": 244.88,
+      "text": "Pensa numa foto de viagem: em uma, você ocupa quase tudo e sobra um monumento atrás da sua orelha. Na outra, alguém dá dois passos pra trás e finalmente mostra onde você está. Nenhuma das fotos mede o tamanho da cidade. O fotógrafo só mudou a prioridade."
+    },
+    {
+      "paragraph": 19,
+      "start": 261.42,
+      "text": "É esse cuidado que também vale pros mapas. Um helicóptero pequeno na foto não demonstra quantos quilômetros existem no jogo. Assim como um jato enorme na imagem não significa que o resto do mundo acabou logo depois da asa."
+    },
+    {
+      "paragraph": 20,
+      "start": 275.34,
+      "text": "E comparar os gráficos? Essas fotos não formam um teste justo de desempenho ou qualidade final. O material de GTA cinco é divulgação de dois mil e doze. Os enquadramentos, a luz e as situações são diferentes. Dá pra analisar as imagens sem fingir que colocamos os dois jogos numa bancada."
+    },
+    {
+      "paragraph": 21,
+      "start": 293.78,
+      "text": "O que os três pares mostram bem é uma mudança no caminho do olhar. O ciclista e as pequenas situações da praia. O carro e a rua ao redor. A aeronave e a cidade. Nas imagens de GTA seis que escolhemos, o cenário participa bastante da conversa."
+    },
+    {
+      "paragraph": 22,
+      "start": 311.42,
+      "text": "Qual desses lugares faria você esquecer a missão por alguns minutos: a praia, o encontro de carros ou a orla vista do alto? Eu começaria olhando as bordas da foto. O carro já conseguiu toda a atenção que precisava."
+    }
+  ]
+}

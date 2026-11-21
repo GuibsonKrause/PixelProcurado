@@ -1,0 +1,42 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-11T03:08:46.868522+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post"
+      },
+      "value": [
+        {
+          "content": "Quatro quadros do gameplay oficial de GTA VI. No carro vermelho, você escolheria Smash Window ou Slim Jim? #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/311242812e544f2ba7a52d7b1a16ba0a.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/7e61bc7e334c4012b947b780cd3722ec.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/12ba6eb527f548c985dc1e8f8df86044.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/4b32ed263dc1470d8401837c3a2254eb.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ]
+    }
+  ]
+}

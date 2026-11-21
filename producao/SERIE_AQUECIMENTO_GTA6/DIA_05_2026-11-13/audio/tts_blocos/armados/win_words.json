@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.02,
+    "end": 0.8,
+    "word": "Imagina",
+    "probability": 0.7767
+  },
+  {
+    "start": 0.8,
+    "end": 0.96,
+    "word": "com",
+    "probability": 0.9796
+  },
+  {
+    "start": 0.96,
+    "end": 1.08,
+    "word": "um",
+    "probability": 0.3857
+  },
+  {
+    "start": 1.08,
+    "end": 1.36,
+    "word": "cofre",
+    "probability": 0.9623
+  },
+  {
+    "start": 1.36,
+    "end": 1.46,
+    "word": "no",
+    "probability": 0.9835
+  },
+  {
+    "start": 1.46,
+    "end": 1.7,
+    "word": "meio.",
+    "probability": 0.9962
+  },
+  {
+    "start": 2.28,
+    "end": 2.56,
+    "word": "Gona",
+    "probability": 0.7484
+  },
+  {
+    "start": 2.56,
+    "end": 2.72,
+    "word": "aquela",
+    "probability": 0.9873
+  },
+  {
+    "start": 2.72,
+    "end": 3.04,
+    "word": "imagem",
+    "probability": 0.9946
+  },
+  {
+    "start": 3.04,
+    "end": 3.54,
+    "word": "oficial",
+    "probability": 0.995
+  },
+  {
+    "start": 3.54,
+    "end": 4.02,
+    "word": "dos",
+    "probability": 0.8439
+  },
+  {
+    "start": 4.02,
+    "end": 4.24,
+    "word": "dois",
+    "probability": 0.9838
+  },
+  {
+    "start": 4.24,
+    "end": 4.8,
+    "word": "armados",
+    "probability": 0.9043
+  },
+  {
+    "start": 4.8,
+    "end": 4.94,
+    "word": "com",
+    "probability": 0.9739
+  },
+  {
+    "start": 4.94,
+    "end": 5.12,
+    "word": "dinheiro",
+    "probability": 0.7651
+  },
+  {
+    "start": 5.12,
+    "end": 5.52,
+    "word": "voando.",
+    "probability": 0.9942
+  }
+]

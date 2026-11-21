@@ -1,0 +1,578 @@
+{
+  "id": "C05",
+  "title": "GTA 6 tem gameplay no Trailer 2. Mas quais cenas?",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 83.64,
+  "frames": 2510,
+  "voice": "producao/shorts/C05/voz/narracao.wav",
+  "shots": [
+    {
+      "anchor": null,
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "GAMEPLAY.\nMAS QUAL CENA?",
+      "label": "GTA VI • TRAILER 2",
+      "mode": "panel",
+      "offset": 35.1,
+      "hook": true,
+      "motion": 2.7,
+      "from": 0,
+      "frames": 42,
+      "part": 0,
+      "index": 0,
+      "start": 0.0,
+      "end": 1.4,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "GANCHO • SEGUNDA BATIDA",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "GAMEPLAY.\nMAS QUAL CENA?",
+      "label": "GTA VI • TRAILER 2",
+      "mode": "panel",
+      "offset": 35.1,
+      "hook": true,
+      "motion": 2.7,
+      "from": 42,
+      "frames": 99,
+      "part": 0,
+      "punch": true,
+      "index": 1,
+      "start": 1.4,
+      "end": 4.7,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A Rockstar descreve",
+      "file": "",
+      "title": "O CONJUNTO É UMA MISTURA",
+      "label": "DECLARAÇÃO OFICIAL • TRAILER 2",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "METADE GAMEPLAY",
+        "METADE CINEMATOGRÁFICAS"
+      ],
+      "from": 141,
+      "frames": 183,
+      "part": 0,
+      "index": 2,
+      "start": 4.7,
+      "end": 10.8,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Isso confirma",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "O TRAILER NÃO ROTULA CADA PLANO.",
+      "label": "GTA VI • TRAILER 2",
+      "mode": "panel",
+      "offset": 75.0,
+      "motion": 3.5,
+      "from": 324,
+      "frames": 164,
+      "part": 0,
+      "index": 3,
+      "start": 10.8,
+      "end": 16.266666666666666,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Uma câmera atrás",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "A CÂMERA É UMA PISTA.",
+      "label": "GTA VI • TRAILER 2",
+      "mode": "panel",
+      "offset": 42.3,
+      "motion": 1.5,
+      "from": 488,
+      "frames": 108,
+      "part": 0,
+      "index": 4,
+      "start": 16.266666666666666,
+      "end": 19.866666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Só que uma sequência",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "O ÂNGULO PODE SER ENCENADO.",
+      "label": "GTA VI • EXEMPLO DE ENQUADRAMENTO",
+      "mode": "panel",
+      "offset": 45.0,
+      "motion": 4.4,
+      "from": 596,
+      "frames": 114,
+      "part": 0,
+      "index": 5,
+      "start": 19.866666666666667,
+      "end": 23.666666666666668,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A posição da câmera",
+      "file": "",
+      "title": "PISTA ≠ CONTROLE DEMONSTRADO",
+      "label": "CRITÉRIO DE ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "ENQUADRAMENTO",
+        "DECISÃO DO JOGADOR?"
+      ],
+      "from": 710,
+      "frames": 159,
+      "part": 0,
+      "index": 6,
+      "start": 23.666666666666668,
+      "end": 28.966666666666665,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Anúncio de apartamento",
+      "file": "",
+      "title": "O ÂNGULO TAMBÉM VENDE",
+      "label": "COMPARAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "NA FOTO: CABE UMA FESTA",
+        "NA VISITA: CADÊ O ESPAÇO?"
+      ],
+      "from": 869,
+      "frames": 135,
+      "part": 0,
+      "index": 7,
+      "start": 28.966666666666665,
+      "end": 33.46666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Você visita",
+      "file": "",
+      "title": "LICENÇA PARA ABRIR A GELADEIRA",
+      "label": "COMPARAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O ENQUADRAMENTO SUGERE MAIS"
+      ],
+      "from": 1004,
+      "frames": 124,
+      "part": 0,
+      "index": 8,
+      "start": 33.46666666666667,
+      "end": 37.6,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Você visita [continuação 2]",
+      "file": "",
+      "title": "LICENÇA PARA ABRIR A GELADEIRA",
+      "label": "COMPARAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O ENQUADRAMENTO SUGERE MAIS"
+      ],
+      "from": 1128,
+      "frames": 124,
+      "hook": false,
+      "part": 1,
+      "index": 9,
+      "start": 37.6,
+      "end": 41.733333333333334,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Imagina uma cena",
+      "file": "",
+      "title": "AÇÃO MOSTRADA",
+      "label": "EXEMPLO HIPOTÉTICO • NÃO É CENA CONFIRMADA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "ABRIR A PORTA",
+        "CARRO SAIR"
+      ],
+      "from": 1252,
+      "frames": 87,
+      "part": 0,
+      "index": 10,
+      "start": 41.733333333333334,
+      "end": 44.63333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Ver a porta",
+      "file": "",
+      "title": "DECISÃO DISPONÍVEL?",
+      "label": "EXEMPLO HIPOTÉTICO",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "QUANDO ENTRAR?",
+        "PARA ONDE IR?"
+      ],
+      "from": 1339,
+      "frames": 157,
+      "part": 0,
+      "index": 11,
+      "start": 44.63333333333333,
+      "end": 49.86666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Esse exemplo",
+      "file": "",
+      "title": "VER AÇÃO ≠ PODER ESCOLHER",
+      "label": "EXEMPLO HIPOTÉTICO",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "AÇÃO MOSTRADA",
+        "DECISÃO DO JOGADOR"
+      ],
+      "from": 1496,
+      "frames": 145,
+      "part": 0,
+      "index": 12,
+      "start": 49.86666666666667,
+      "end": 54.7,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "A declaração oficial",
+      "file": "",
+      "title": "A RESPOSTA GERAL EXISTE",
+      "label": "DECLARAÇÃO OFICIAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "HÁ GAMEPLAY NO CONJUNTO"
+      ],
+      "from": 1641,
+      "frames": 124,
+      "part": 0,
+      "index": 13,
+      "start": 54.7,
+      "end": 58.833333333333336,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Pra classificar",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "CADA CENA PEDE SUA INFORMAÇÃO.",
+      "label": "GTA VI • TRAILER 2",
+      "mode": "panel",
+      "offset": 140.0,
+      "motion": 3.8,
+      "from": 1765,
+      "frames": 141,
+      "part": 0,
+      "index": 14,
+      "start": 58.833333333333336,
+      "end": 63.53333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Não dá pra distribuir",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "FAMILIAR NÃO É PROVA.",
+      "label": "GTA VI • TRAILER 2",
+      "mode": "panel",
+      "offset": 35.0,
+      "motion": 3.5,
+      "from": 1906,
+      "frames": 112,
+      "part": 0,
+      "index": 15,
+      "start": 63.53333333333333,
+      "end": 67.26666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "nem chamar tudo",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "BONITO NÃO É DIAGNÓSTICO.",
+      "label": "GTA VI • TRAILER 2",
+      "mode": "panel",
+      "offset": 83.0,
+      "motion": 3.2,
+      "from": 2018,
+      "frames": 104,
+      "part": 0,
+      "index": 16,
+      "start": 67.26666666666667,
+      "end": 70.73333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Empolgação é permitida",
+      "file": "",
+      "title": "EMPOLGAÇÃO COM CRITÉRIO",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "NÃO INVENTAR A LEGENDA"
+      ],
+      "from": 2122,
+      "frames": 198,
+      "part": 0,
+      "index": 17,
+      "start": 70.73333333333333,
+      "end": 77.33333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "A resposta geral",
+      "file": "",
+      "title": "DUAS PERGUNTAS",
+      "label": "CRITÉRIO DE ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "HÁ GAMEPLAY?",
+        "QUAL CENA É CONTROLÁVEL?"
+      ],
+      "from": 2320,
+      "frames": 133,
+      "part": 0,
+      "index": 18,
+      "start": 77.33333333333333,
+      "end": 81.76666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Então",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "GAMEPLAY.\nMAS QUAL CENA?",
+      "label": "GTA VI • TRAILER 2",
+      "mode": "panel",
+      "offset": 35.1,
+      "hook": true,
+      "motion": 2.7,
+      "from": 2453,
+      "frames": 57,
+      "part": 0,
+      "index": 19,
+      "start": 81.76666666666667,
+      "end": 83.66666666666667,
+      "animationFrames": 18
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.37,
+      "text": "Gameplay confirmado."
+    },
+    {
+      "start": 1.74,
+      "end": 3.63,
+      "text": "Mas qual dessas cenas?"
+    },
+    {
+      "start": 4.7,
+      "end": 6.74,
+      "text": "A Rockstar descreve o Trailer dois de"
+    },
+    {
+      "start": 6.74,
+      "end": 9.2,
+      "text": "GTA seis como metade gameplay e metade"
+    },
+    {
+      "start": 9.2,
+      "end": 10.43,
+      "text": "cenas cinematográficas."
+    },
+    {
+      "start": 10.8,
+      "end": 13.4,
+      "text": "Isso confirma a mistura, mas não entrega"
+    },
+    {
+      "start": 13.4,
+      "end": 15.49,
+      "text": "uma legenda identificando cada trecho."
+    },
+    {
+      "start": 16.28,
+      "end": 18.68,
+      "text": "Uma câmera atrás do personagem lembra o"
+    },
+    {
+      "start": 18.68,
+      "end": 19.53,
+      "text": "momento de jogar."
+    },
+    {
+      "start": 19.86,
+      "end": 22.2,
+      "text": "Só que uma sequência pronta também pode"
+    },
+    {
+      "start": 22.2,
+      "end": 23.05,
+      "text": "usar esse ângulo."
+    },
+    {
+      "start": 23.68,
+      "end": 25.55,
+      "text": "A posição da câmera é uma pista."
+    },
+    {
+      "start": 25.9,
+      "end": 27.58,
+      "text": "Não é um controle aparecendo na mão"
+    },
+    {
+      "start": 27.58,
+      "end": 30.04,
+      "text": "de alguém. A Anúncio de apartamento também"
+    },
+    {
+      "start": 30.04,
+      "end": 30.89,
+      "text": "sabe usar ângulo."
+    },
+    {
+      "start": 31.46,
+      "end": 32.93,
+      "text": "Na foto, cabe uma festa."
+    },
+    {
+      "start": 33.46,
+      "end": 35.66,
+      "text": "Você visita e descobre que, pra abrir"
+    },
+    {
+      "start": 35.66,
+      "end": 37.95,
+      "text": "a geladeira, precisa pedir licença pra cozinha."
+    },
+    {
+      "start": 38.7,
+      "end": 40.6,
+      "text": "O enquadramento pode sugerir mais do que"
+    },
+    {
+      "start": 40.6,
+      "end": 41.45,
+      "text": "demonstra."
+    },
+    {
+      "start": 41.72,
+      "end": 43.56,
+      "text": "Imagina uma cena com alguém entrando num"
+    },
+    {
+      "start": 43.56,
+      "end": 44.41,
+      "text": "carro."
+    },
+    {
+      "start": 44.64,
+      "end": 45.98,
+      "text": "Ver a porta abrir e o carro"
+    },
+    {
+      "start": 45.98,
+      "end": 47.28,
+      "text": "sair e não explica se o jogador"
+    },
+    {
+      "start": 47.28,
+      "end": 49.21,
+      "text": "escolheu aquele momento e aquele destino."
+    },
+    {
+      "start": 49.86,
+      "end": 51.25,
+      "text": "Esse exemplo é hipotético:"
+    },
+    {
+      "start": 51.68,
+      "end": 53.82,
+      "text": "serve pra separar a ação mostrada de"
+    },
+    {
+      "start": 53.82,
+      "end": 56.88,
+      "text": "decisão disponível. A declaração oficial"
+    },
+    {
+      "start": 56.88,
+      "end": 58.11,
+      "text": "resolve a dúvida geral."
+    },
+    {
+      "start": 58.82,
+      "end": 61.12,
+      "text": "Pra classificar uma cena específica, precisamos"
+    },
+    {
+      "start": 61.12,
+      "end": 62.89,
+      "text": "de informação sobre aquela cena."
+    },
+    {
+      "start": 63.52,
+      "end": 65.6,
+      "text": "Não dá pra distribuir certeza só porque"
+    },
+    {
+      "start": 65.6,
+      "end": 66.71,
+      "text": "o movimento parece familiar,"
+    },
+    {
+      "start": 67.26,
+      "end": 69.16,
+      "text": "nem chamar tudo de sequência pronta porque"
+    },
+    {
+      "start": 69.16,
+      "end": 70.01,
+      "text": "ficou bonito."
+    },
+    {
+      "start": 70.74,
+      "end": 72.05,
+      "text": "Empolgação é permitida."
+    },
+    {
+      "start": 72.54,
+      "end": 74.58,
+      "text": "A nossa precisa apenas parar antes de"
+    },
+    {
+      "start": 74.58,
+      "end": 76.1,
+      "text": "inventar a legenda que a Rockstar não"
+    },
+    {
+      "start": 76.1,
+      "end": 76.95,
+      "text": "colocou."
+    },
+    {
+      "start": 77.34,
+      "end": 78.89,
+      "text": "A resposta geral o existe;"
+    },
+    {
+      "start": 79.32,
+      "end": 81.4,
+      "text": "a identificação de cada trecho é outra"
+    },
+    {
+      "start": 81.4,
+      "end": 83.53,
+      "text": "pergunta. Então..."
+    }
+  ]
+}

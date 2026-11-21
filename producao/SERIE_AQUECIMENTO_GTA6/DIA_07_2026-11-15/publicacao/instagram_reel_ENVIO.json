@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-15T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Mão dada é no R2. No GTA 6, o botão de andar de mãos dadas aparece no minuto 9:50 do gameplay, e a geladeira da cozinha rosa tem menu de bebidas, ímã de banco e um panfleto que diz Frugality is for Fools. Vídeo completo no canal: 11 detalhes que só se leem pausando. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/6b4156b8f46f4bb49b617b38ac15827b.mp4",
+              "thumbnail": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/7ce5bc52650f423688d21fd885199e9f.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

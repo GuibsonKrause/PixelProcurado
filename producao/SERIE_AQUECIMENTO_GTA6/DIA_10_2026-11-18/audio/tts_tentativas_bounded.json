@@ -1,0 +1,13 @@
+[
+  {
+    "block": 2,
+    "attempt": 2,
+    "start": "2026-11-18T02:03:52.707290",
+    "end": "2026-11-18T02:09:55.456384",
+    "pid": 67860,
+    "exit_code": 1,
+    "deadline_exceeded": true,
+    "wav_exists": false,
+    "cost": "indeterminado; API nao retorna valor monetario"
+  }
+]

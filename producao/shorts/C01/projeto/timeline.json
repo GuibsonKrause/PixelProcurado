@@ -1,0 +1,549 @@
+{
+  "id": "C01",
+  "title": "GTA 6: a data pode estar certa… e a plataforma errada",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 79.92,
+  "frames": 2398,
+  "voice": "producao/shorts/C01/voz/narracao.wav",
+  "shots": [
+    {
+      "anchor": null,
+      "file": "",
+      "title": "DATA CERTA.\nVERSÃO ERRADA?",
+      "label": "GTA VI • CONFIRA A FONTE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "DATA",
+        "PLATAFORMA?"
+      ],
+      "hook": true,
+      "from": 0,
+      "frames": 110,
+      "part": 0,
+      "index": 0,
+      "start": 0.0,
+      "end": 3.6666666666666665,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Basta ela aparecer",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg",
+      "title": "FALTA UMA PEÇA.",
+      "label": "GTA VI • IMAGEM DE APOIO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 110,
+      "frames": 91,
+      "part": 0,
+      "index": 1,
+      "start": 3.6666666666666665,
+      "end": 6.7,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Você vê um dia",
+      "file": "",
+      "title": "O RECORTE ENGANA",
+      "label": "ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "DIA",
+        "JOGO",
+        "E A VERSÃO?"
+      ],
+      "from": 201,
+      "frames": 143,
+      "part": 0,
+      "index": 2,
+      "start": 6.7,
+      "end": 11.466666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Você vê um dia [continuação 2]",
+      "file": "",
+      "title": "O RECORTE ENGANA",
+      "label": "ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "DIA",
+        "JOGO",
+        "E A VERSÃO?"
+      ],
+      "from": 344,
+      "frames": 143,
+      "hook": false,
+      "part": 1,
+      "index": 3,
+      "start": 11.466666666666667,
+      "end": 16.233333333333334,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Aqui está a primeira armadilha",
+      "file": "",
+      "title": "LEIA O ANÚNCIO INTEIRO",
+      "label": "COMO CONFERIR",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "LANÇAMENTO",
+        "PLATAFORMAS"
+      ],
+      "from": 487,
+      "frames": 198,
+      "part": 0,
+      "index": 4,
+      "start": 16.233333333333334,
+      "end": 22.833333333333332,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Se a página cita",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "title": "A LISTA FAZ PARTE.",
+      "label": "ARTWORK • NÃO É ANÚNCIO DE VERSÃO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 685,
+      "frames": 137,
+      "part": 0,
+      "index": 5,
+      "start": 22.833333333333332,
+      "end": 27.4,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Recortar só a data",
+      "file": "",
+      "title": "A PROMESSA CRESCE",
+      "label": "ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "DATA ISOLADA",
+        "CONTEXTO PERDIDO"
+      ],
+      "from": 822,
+      "frames": 167,
+      "part": 0,
+      "index": 6,
+      "start": 27.4,
+      "end": 32.96666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Mas encontrar o logo",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "CAPTURA ≠ CALENDÁRIO",
+      "label": "GTA VI • TRAILER",
+      "mode": "panel",
+      "offset": 31.0,
+      "from": 989,
+      "frames": 105,
+      "part": 0,
+      "index": 7,
+      "start": 32.96666666666667,
+      "end": 36.46666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Um trailer capturado",
+      "file": "",
+      "title": "O QUE A CAPTURA INFORMA",
+      "label": "CRITÉRIO DE CHECAGEM",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "ONDE O VÍDEO FOI CAPTURADO"
+      ],
+      "from": 1094,
+      "frames": 147,
+      "part": 0,
+      "index": 8,
+      "start": 36.46666666666667,
+      "end": 41.36666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Isso sozinho",
+      "file": "",
+      "title": "O QUE ELA NÃO RESOLVE",
+      "label": "ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "EXCLUSIVIDADE?",
+        "TODAS AS VERSÕES?"
+      ],
+      "from": 1241,
+      "frames": 139,
+      "part": 0,
+      "index": 9,
+      "start": 41.36666666666667,
+      "end": 46.0,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Isso sozinho [continuação 2]",
+      "file": "",
+      "title": "O QUE ELA NÃO RESOLVE",
+      "label": "ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "EXCLUSIVIDADE?",
+        "TODAS AS VERSÕES?"
+      ],
+      "from": 1380,
+      "frames": 139,
+      "hook": false,
+      "part": 1,
+      "index": 10,
+      "start": 46.0,
+      "end": 50.63333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Agora vem o teste",
+      "file": "",
+      "title": "TRÊS PEÇAS JUNTAS",
+      "label": "COMO CONFERIR",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "FONTE",
+        "DATA",
+        "PLATAFORMA"
+      ],
+      "from": 1519,
+      "frames": 147,
+      "part": 0,
+      "index": 11,
+      "start": 50.63333333333333,
+      "end": 55.53333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Agora vem o teste [continuação 2]",
+      "file": "",
+      "title": "TRÊS PEÇAS JUNTAS",
+      "label": "COMO CONFERIR",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "FONTE",
+        "DATA",
+        "PLATAFORMA"
+      ],
+      "from": 1666,
+      "frames": 147,
+      "hook": false,
+      "part": 1,
+      "index": 12,
+      "start": 55.53333333333333,
+      "end": 60.43333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Para uma versão de PC",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+      "title": "PC: PROCURE O ANÚNCIO.",
+      "label": "GTA VI • IMAGEM DE APOIO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1813,
+      "frames": 120,
+      "part": 0,
+      "index": 13,
+      "start": 60.43333333333333,
+      "end": 64.43333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Para uma versão de PC [continuação 2]",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+      "title": "PC: PROCURE O ANÚNCIO.",
+      "label": "GTA VI • IMAGEM DE APOIO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1933,
+      "frames": 121,
+      "hook": false,
+      "part": 1,
+      "index": 14,
+      "start": 64.43333333333334,
+      "end": 68.46666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O erro pode estar",
+      "file": "",
+      "title": "A ASSOCIAÇÃO IMPORTA",
+      "label": "ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "DATA + VERSÃO + FONTE"
+      ],
+      "from": 2054,
+      "frames": 153,
+      "part": 0,
+      "index": 15,
+      "start": 68.46666666666667,
+      "end": 73.56666666666666,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "O erro pode estar [continuação 2]",
+      "file": "",
+      "title": "A ASSOCIAÇÃO IMPORTA",
+      "label": "ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "DATA + VERSÃO + FONTE"
+      ],
+      "from": 2207,
+      "frames": 153,
+      "hook": false,
+      "part": 1,
+      "index": 16,
+      "start": 73.56666666666666,
+      "end": 78.66666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "É assim que",
+      "file": "",
+      "title": "DATA CERTA.\nVERSÃO ERRADA?",
+      "label": "GTA VI • CONFIRA A FONTE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "DATA",
+        "PLATAFORMA?"
+      ],
+      "hook": true,
+      "from": 2360,
+      "frames": 38,
+      "part": 0,
+      "index": 17,
+      "start": 78.66666666666667,
+      "end": 79.93333333333334,
+      "animationFrames": 36
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Uma data verdadeira pode te enganar sobre"
+    },
+    {
+      "start": 2.32,
+      "end": 3.17,
+      "text": "GTA seis."
+    },
+    {
+      "start": 3.66,
+      "end": 5.54,
+      "text": "Basta ela aparecer ao lado da plataforma"
+    },
+    {
+      "start": 5.54,
+      "end": 6.39,
+      "text": "errada."
+    },
+    {
+      "start": 6.7,
+      "end": 7.79,
+      "text": "Você vê um dia,"
+    },
+    {
+      "start": 8.18,
+      "end": 9.8,
+      "text": "reconhece o nome do jogo e entende"
+    },
+    {
+      "start": 9.8,
+      "end": 11.23,
+      "text": "que já pode marcar no calendário."
+    },
+    {
+      "start": 11.7,
+      "end": 13.2,
+      "text": "Só que a informação pode ter perdido"
+    },
+    {
+      "start": 13.2,
+      "end": 15.21,
+      "text": "justamente a parte que interessa para você."
+    },
+    {
+      "start": 16.24,
+      "end": 17.89,
+      "text": "Aqui está a primeira armadilha:"
+    },
+    {
+      "start": 18.32,
+      "end": 20.55,
+      "text": "anúncio de lançamento e anúncio de plataformas"
+    },
+    {
+      "start": 20.76,
+      "end": 22.05,
+      "text": "precisam ser lidos juntos."
+    },
+    {
+      "start": 22.84,
+      "end": 24.65,
+      "text": "Se a página cita determinados consoles,"
+    },
+    {
+      "start": 25.1,
+      "end": 26.79,
+      "text": "aquela lista faz parte da notícia."
+    },
+    {
+      "start": 27.4,
+      "end": 29.52,
+      "text": "Recortar só a data transforma uma informação"
+    },
+    {
+      "start": 29.52,
+      "end": 31.69,
+      "text": "específica numa promessa muito maior."
+    },
+    {
+      "start": 32.98,
+      "end": 34.46,
+      "text": "Mas encontrar o logo do seu aparelho"
+    },
+    {
+      "start": 34.46,
+      "end": 35.61,
+      "text": "também exige contexto."
+    },
+    {
+      "start": 36.48,
+      "end": 38.44,
+      "text": "Um trailer capturado em determinado console"
+    },
+    {
+      "start": 38.44,
+      "end": 40.61,
+      "text": "informa onde aquele vídeo foi produzido."
+    },
+    {
+      "start": 41.38,
+      "end": 42.47,
+      "text": "Isso, sozinho,"
+    },
+    {
+      "start": 42.8,
+      "end": 45.1,
+      "text": "não define exclusividade nem calendário de"
+    },
+    {
+      "start": 45.1,
+      "end": 45.95,
+      "text": "todas as versões."
+    },
+    {
+      "start": 46.66,
+      "end": 47.73,
+      "text": "São perguntas diferentes,"
+    },
+    {
+      "start": 48.16,
+      "end": 49.73,
+      "text": "que precisam de respostas diferentes."
+    },
+    {
+      "start": 50.62,
+      "end": 52.24,
+      "text": "Agora vem o teste que resolve a"
+    },
+    {
+      "start": 52.24,
+      "end": 53.09,
+      "text": "confusão:"
+    },
+    {
+      "start": 53.34,
+      "end": 54.53,
+      "text": "procure a página oficial,"
+    },
+    {
+      "start": 55.14,
+      "end": 56.36,
+      "text": "leia a data com a lista de"
+    },
+    {
+      "start": 56.36,
+      "end": 58.98,
+      "text": "plataformas e confira quando o anúncio foi"
+    },
+    {
+      "start": 58.98,
+      "end": 59.83,
+      "text": "publicado."
+    },
+    {
+      "start": 60.44,
+      "end": 61.43,
+      "text": "Para uma versão de PC,"
+    },
+    {
+      "start": 61.8,
+      "end": 62.65,
+      "text": "procure uma"
+    },
+    {
+      "start": 62.8,
+      "end": 64.89,
+      "text": "comunicação que trate especificamente dela,"
+    },
+    {
+      "start": 65.16,
+      "end": 67.39,
+      "text": "sem completar a lacuna por conta própria."
+    },
+    {
+      "start": 68.48,
+      "end": 69.95,
+      "text": "O erro pode estar na associação,"
+    },
+    {
+      "start": 70.4,
+      "end": 72.43,
+      "text": "mesmo quando cada pedaço parece legítimo."
+    },
+    {
+      "start": 73.34,
+      "end": 74.29,
+      "text": "Antes de compartilhar,"
+    },
+    {
+      "start": 74.72,
+      "end": 77.1,
+      "text": "confira se data, versão e fonte pertencem"
+    },
+    {
+      "start": 77.1,
+      "end": 77.95,
+      "text": "ao mesmo anúncio."
+    },
+    {
+      "start": 78.68,
+      "end": 79.77,
+      "text": "É assim que..."
+    }
+  ]
+}

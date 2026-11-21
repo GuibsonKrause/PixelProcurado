@@ -1,0 +1,1396 @@
+{
+  "schema_versao": 1,
+  "episodio": "TRUQUE_NZ_2026-11-15",
+  "revisor": {
+    "modelo": "claude-opus-5-5 (Claude Code, subagente revisor independente)",
+    "agent_id": "desconhecido (não exposto pelo ambiente)"
+  },
+  "data": "2026-11-15",
+  "artefatos": [
+    {
+      "caminho": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "sha256": "9fbb36609af4c4f9354acff9afe83bb13047779492368636be0d147a0193b9ff"
+    },
+    {
+      "caminho": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.srt",
+      "sha256": "b744199078a4cf224cf697bf5798820268c405fc631852bfc9848113d1856643"
+    },
+    {
+      "caminho": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "sha256": "fd837433dcd48a86d60b78229ba200015f465af23af13803a0937440ee7a1041"
+    },
+    {
+      "caminho": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.srt",
+      "sha256": "92e7ac4861c7cc390a5c76d1f733d016cab62fcc2f7b6c200e4545f0d3b6995e"
+    },
+    {
+      "caminho": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "sha256": "c62e42f58496eb5215e464821d439744590401fca44fe3d2e2ec3b0d90f0475f"
+    },
+    {
+      "caminho": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.srt",
+      "sha256": "b744199078a4cf224cf697bf5798820268c405fc631852bfc9848113d1856643"
+    },
+    {
+      "caminho": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "sha256": "9cc1f0d3d35729fc94775a92e30afbf0d4cb8691ae679b1cbe19e9c95020b8de"
+    },
+    {
+      "caminho": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.srt",
+      "sha256": "2a55f75ca510a5aaa5e06b1d13cf4a73e5395263f50ccfed79c77f1bf72fa54c"
+    },
+    {
+      "caminho": "producao/TRUQUE_NZ_2026-11-15/publicacao/thumbnail_A/capa_youtube.jpg",
+      "sha256": "b1561115fa763cd7df12a15132b72eed6570a497be5eff77a9b32aa349f6806a"
+    },
+    {
+      "caminho": "producao/TRUQUE_NZ_2026-11-15/publicacao/thumbnail_vertical/capa_youtube.jpg",
+      "sha256": "197673fc4e69e139caa94164e245a6f837b40c00d4f8ac9e5385d0451241b0e9"
+    }
+  ],
+  "audio_trechos_ouvidos": [
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "inicio": 0,
+      "fim": 10,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). ASR: 'GTA 6 às 8 da manhã, de quarta-feira, dia 18, dezesseis horas antes da meia-noite que a Rockstar marcou pro Brasil' = roteiro; onset ~0,20 s."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "inicio": 15,
+      "fim": 40,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). truque 17,1 s ASR 'troque' p=0,51 (F1 da vogal 369 Hz ~ /u/, igual às referências 327-360 Hz); folga 33,4 'foga' p=0,58 (l vocalizado); inventar 37,3 OK p=0,58."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "inicio": 45,
+      "fim": 110,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). Battlefield 47,6 OK p=0,39; Auckland 100,8 'Alcant' p=0,63; Wellington 101,8 OK p=0,52; neozelandês 107,2 'neus holandês' p=0,30/0,83. Silêncio 71,98-73,31 (1,33 s) = pausa de parágrafo."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "inicio": 125,
+      "fim": 140,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). ASR coerente com o roteiro ('...depende de qual caixa está embaixo da sua televisão. Começando pelo Xbox')."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "inicio": 164,
+      "fim": 210,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). truque 166,2 'troco' p=0,69 (F1 396 Hz ~ /u/); Forza 167,5 OK, 'Horizon' ouvido 'Auraison'; neozelandesa 206,9 OK p=0,62."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "inicio": 245,
+      "fim": 305,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). Rockstar 250,7 OK p=0,54 (em janela larga o ASR deu 'Roxy'); Dead Island 274,0 OK; neozelandês 301,8 'Neus Elandês'."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "inicio": 323,
+      "fim": 353,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). Battlefield 325,7 'Barrow Field' p=0,49/0,56; folga 351,1 'fogo' p=0,69."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "inicio": 365,
+      "fim": 389.3,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). Auckland 374,3 'álcool' p=0,79; final 'jogando GTA 6 às oito da manhã' ouvido 'de até às seis às 8h da manhã' (GTA soletrado). Silêncio 368,57-370,07 (1,50 s) antes do fecho. I=-16,7 LUFS, TPK -1,3 dBFS."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "inicio": 0,
+      "fim": 10,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). ASR 'GTA 6 às 8h de quarta dia 18 16 horas antes do Brasil'; janela 1-3 s isolada dá 'às oito a manhã' e o envelope RMS mostra fala em 2,2-2,45 s: 'da manhã' presente porém rápido. Onset ~0,10 s."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "inicio": 20,
+      "fim": 50,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). truque 23,8 OK p=0,91; neozelandesa 42,0 'neuselandesa' p=0,58; neozelandeses 48,8 'nelsalandês' p=0,42."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "inicio": 65.16,
+      "fim": 75.16,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). folga 70,6 'fogo' p=0,76; 'Mas se der certo' ouvido 'Mas, de certa' (provável fala rápida); termina em 'jogando' para o loop. I=-17,1 LUFS, TPK -1,4 dBFS, sem silêncio >1,2 s."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "inicio": 0,
+      "fim": 389.3,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). faixa de áudio do Vertical medida idêntica à do Longo (I=-16,7 LUFS, TPK -1,3, mesmos silêncios em 71,98 e 368,57 s, mesmo onset); valem os achados de ASR do Longo."
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "inicio": 0,
+      "fim": 22.4,
+      "observacao": "SEM ESCUTA HUMANA (revisor não ouve áudio): verificado por medição ffmpeg e ASR faster-whisper small (maior modelo local; medium/large-v3 ausentes). mesmo áudio dos primeiros 22,4 s do Short (onset idêntico; I=-16,7 LUFS, TPK -1,4); fecha em 'Dezesseis de diferença' com fade."
+    }
+  ],
+  "frames_inspecionados": [
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 1.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0001.00.jpg",
+      "observacao": "card '08:00 · QUARTA, 18/11' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 19.92,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0019.92.jpg",
+      "observacao": "card 'XBOX · 3 CLIQUES, R$ 0' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 43.68,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0043.68.jpg",
+      "observacao": "card 'HORÁRIO GLOBAL ÚNICO / ex.: Battlefield 6' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 59.32,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0059.32.jpg",
+      "observacao": "card 'MEIA-NOITE ROLANTE' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 75.98,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0075.98.jpg",
+      "observacao": "card 'ROCKSTAR SUPPORT / atualizado em 03/11' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 92.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0092.00.jpg",
+      "observacao": "card 'NZ · UTC+13' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 94.88,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0094.88.jpg",
+      "observacao": "card 'BRASÍLIA · UTC−3' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 97.18,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0097.18.jpg",
+      "observacao": "card '16 HORAS' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 122.2,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0122.20.jpg",
+      "observacao": "card 'JUN 15 H · NOV 16 H' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 146.94,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0146.94.jpg",
+      "observacao": "card 'ILUSTRAÇÃO · CONFIGURAÇÕES (rotulado)' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 172.54,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0172.54.jpg",
+      "observacao": "card 'PRÉ-CARREGAMENTO XBOX 09/11 · 21h' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 185.62,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0185.62.jpg",
+      "observacao": "card 'PSN: PAÍS FIXADO' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 207.18,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0207.18.jpg",
+      "observacao": "card '1 · CONTA NZ NOVA' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 209.5,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0209.50.jpg",
+      "observacao": "card '2 · GIFT CARD EM NZD' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 220.2,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0220.20.jpg",
+      "observacao": "card '3 · NZ$ 139,95' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 240.62,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0240.62.jpg",
+      "observacao": "card 'PLACAR Xbox 3 cliques · PS5 2 jogos' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 248.74,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0248.74.jpg",
+      "observacao": "card 'NÃO CONFIRMADO / Console ou loja?' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 273.96,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0273.96.jpg",
+      "observacao": "card 'DEAD ISLAND 2' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 288.88,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0288.88.jpg",
+      "observacao": "card 'MICROSOFT / troca recente' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 314.04,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0314.04.jpg",
+      "observacao": "card 'TERMOS' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 339.7,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0339.70.jpg",
+      "observacao": "card 'XBOX · VALE TESTAR' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 355.54,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0355.54.jpg",
+      "observacao": "card 'PS5 · 2º JOGO' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 377.44,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/c_0377.44.jpg",
+      "observacao": "card 'QUAL É A SUA PLATAFORMA?' legível, coerente com a fala e o número; imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 0.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0000.00.jpg",
+      "observacao": "primeiro quadro: skyline ao amanhecer (bandeira LED dos EUA no prédio é do material, conferida em zoom_0000_streak.jpg); voz inicia ~0,20 s"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 5.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0005.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0015.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 25.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0025.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 35.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0035.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0045.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 55.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0055.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 65.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0065.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 75.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0075.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 85.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0085.00.jpg",
+      "observacao": "tela oficial NOVEMBER 19, 2026 PRE-ORDER NOW do material; legenda alta não cobre o texto"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 95.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0095.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 105.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0105.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 115.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0115.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 125.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0125.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 135.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0135.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 145.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0145.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 155.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0155.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 165.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0165.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 175.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0175.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 185.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0185.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 195.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0195.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 205.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0205.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 215.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0215.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 225.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0225.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 235.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0235.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 245.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0245.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 255.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0255.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 265.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0265.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 275.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0275.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 285.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0285.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 295.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0295.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 305.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0305.00.jpg",
+      "observacao": "Launch Trailer em letterbox (barras do próprio material), não é quadro preto"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 315.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0315.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 325.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0325.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 335.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0335.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 345.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0345.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 355.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0355.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 365.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0365.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 375.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0375.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 385.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0385.00.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.mp4",
+      "timecode": 389.2,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/longo/p_0389.20.jpg",
+      "observacao": "imagem GTA VI do acervo, sem quadro preto/artefato; legenda inferior legível, sem cobrir texto do material; nenhum logo de console inserido"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 0.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0000.00.jpg",
+      "observacao": "primeiro quadro com imagem (skyline), voz inicia ~0,10 s"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 1.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0001.00.jpg",
+      "observacao": "card '08:00' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 3.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0003.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 6.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0006.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 6.71,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0006.71.jpg",
+      "observacao": "card '16 H ANTES' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 9.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0009.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 12.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0012.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0015.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 17.08,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0017.08.jpg",
+      "observacao": "card 'UTC+13' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 18.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0018.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 20.5,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0020.50.jpg",
+      "observacao": "card 'UTC−3 = 16 H' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 21.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0021.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 23.54,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0023.54.jpg",
+      "observacao": "card 'XBOX · DE GRAÇA' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 24.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0024.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 26.34,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0026.34.jpg",
+      "observacao": "card 'ILUSTRAÇÃO · CONFIGURAÇÕES (rotulado)' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 27.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0027.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 29.2,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0029.20.jpg",
+      "observacao": "card 'NOVA ZELÂNDIA' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 30.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0030.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 33.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0033.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 35.42,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0035.42.jpg",
+      "observacao": "card 'PS5 · NÃO' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 36.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0036.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 37.6,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0037.60.jpg",
+      "observacao": "card 'PSN: REGIÃO PRESA' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 39.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0039.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 41.98,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0041.98.jpg",
+      "observacao": "card '1 · CONTA NZ NOVA' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 42.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0042.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 44.6,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0044.60.jpg",
+      "observacao": "card '2 · GIFT CARD EM NZD' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0045.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 48.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0048.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 48.36,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0048.36.jpg",
+      "observacao": "card '3 · NZ$ 139,95' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 51.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0051.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 52.76,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0052.76.jpg",
+      "observacao": "card 'NÃO CONFIRMADO' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 54.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0054.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 57.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0057.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 60.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0060.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 63.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0063.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 65.08,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0065.08.jpg",
+      "observacao": "card 'XBOX: TESTA' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 66.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0066.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 68.1,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0068.10.jpg",
+      "observacao": "card 'PS5: PENSA' legível, coerente com a fala e o número; vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 69.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0069.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 72.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0072.00.jpg",
+      "observacao": "vertical 9:16: vídeo central + fundo desfocado sem verde/artefato; legenda e card legíveis, nada cortado"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Short_V2.mp4",
+      "timecode": 75.1,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/short/s_0075.10.jpg",
+      "observacao": "último quadro = mesmo skyline do primeiro: loop casa"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 1.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0001.00.jpg",
+      "observacao": "card '08:00 · QUARTA, 18/11' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 19.92,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0019.92.jpg",
+      "observacao": "card 'XBOX · 3 CLIQUES, R$ 0' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 43.68,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0043.68.jpg",
+      "observacao": "card 'HORÁRIO GLOBAL ÚNICO / ex.: Battlefield 6' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 59.32,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0059.32.jpg",
+      "observacao": "card 'MEIA-NOITE ROLANTE' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 75.98,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0075.98.jpg",
+      "observacao": "card 'ROCKSTAR SUPPORT / atualizado em 03/11' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 92.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0092.00.jpg",
+      "observacao": "card 'NZ · UTC+13' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 94.88,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0094.88.jpg",
+      "observacao": "card 'BRASÍLIA · UTC−3' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 97.18,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0097.18.jpg",
+      "observacao": "card '16 HORAS' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 122.2,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0122.20.jpg",
+      "observacao": "card 'JUN 15 H · NOV 16 H' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 146.94,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0146.94.jpg",
+      "observacao": "card 'ILUSTRAÇÃO · CONFIGURAÇÕES (rotulado)' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 172.54,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0172.54.jpg",
+      "observacao": "card 'PRÉ-CARREGAMENTO XBOX 09/11 · 21h' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 185.62,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0185.62.jpg",
+      "observacao": "card 'PSN: PAÍS FIXADO' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 207.18,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0207.18.jpg",
+      "observacao": "card '1 · CONTA NZ NOVA' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 209.5,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0209.50.jpg",
+      "observacao": "card '2 · GIFT CARD EM NZD' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 220.2,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0220.20.jpg",
+      "observacao": "card '3 · NZ$ 139,95' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 240.62,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0240.62.jpg",
+      "observacao": "card 'PLACAR Xbox 3 cliques · PS5 2 jogos' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 248.74,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0248.74.jpg",
+      "observacao": "card 'NÃO CONFIRMADO / Console ou loja?' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 273.96,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0273.96.jpg",
+      "observacao": "card 'DEAD ISLAND 2' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 288.88,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0288.88.jpg",
+      "observacao": "card 'MICROSOFT / troca recente' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 314.04,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0314.04.jpg",
+      "observacao": "card 'TERMOS' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 339.7,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0339.70.jpg",
+      "observacao": "card 'XBOX · VALE TESTAR' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 355.54,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0355.54.jpg",
+      "observacao": "card 'PS5 · 2º JOGO' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 377.44,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/c_0377.44.jpg",
+      "observacao": "card 'QUAL É A SUA PLATAFORMA?' legível, coerente com a fala e o número; integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 0.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0000.00.jpg",
+      "observacao": "primeiro quadro com imagem; voz ~0,20 s"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 8.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0008.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 16.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0016.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 24.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0024.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 32.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0032.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 40.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0040.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 48.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0048.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 56.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0056.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 64.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0064.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 72.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0072.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 80.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0080.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 88.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0088.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 96.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0096.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 104.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0104.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 112.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0112.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 120.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0120.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 128.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0128.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 136.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0136.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 144.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0144.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 152.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0152.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 160.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0160.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 168.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0168.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 176.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0176.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 184.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0184.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 192.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0192.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 200.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0200.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 208.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0208.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 216.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0216.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 224.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0224.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 232.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0232.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 240.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0240.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 248.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0248.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 256.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0256.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 264.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0264.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 272.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0272.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 280.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0280.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 288.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0288.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 296.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0296.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 304.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0304.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 312.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0312.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 320.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0320.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 328.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0328.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 336.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0336.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 344.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0344.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 352.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0352.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 360.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0360.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 368.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0368.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 376.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0376.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 384.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0384.00.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_vertical/exportacoes/Pixel_Procurado_Truque_NZ_Vertical_V2.mp4",
+      "timecode": 389.2,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/vertical/p_0389.20.jpg",
+      "observacao": "integral vertical: banda 16:9 central + fundo desfocado limpo (sem verde/artefato); legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 0.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0000.00.jpg",
+      "observacao": "story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 1.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0001.00.jpg",
+      "observacao": "card '08:00' legível, coerente com a fala e o número; story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 3.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0003.00.jpg",
+      "observacao": "story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 6.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0006.00.jpg",
+      "observacao": "story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 6.71,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0006.71.jpg",
+      "observacao": "card '16 H ANTES' legível, coerente com a fala e o número; story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 9.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0009.00.jpg",
+      "observacao": "story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 12.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0012.00.jpg",
+      "observacao": "story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0015.00.jpg",
+      "observacao": "story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 17.08,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0017.08.jpg",
+      "observacao": "card 'UTC+13' legível, coerente com a fala e o número; story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 18.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0018.00.jpg",
+      "observacao": "story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 20.5,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0020.50.jpg",
+      "observacao": "card 'UTC−3 = 16 H' legível, coerente com a fala e o número; story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 21.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0021.00.jpg",
+      "observacao": "story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 22.0,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0022.00.jpg",
+      "observacao": "story 9:16 (primeiros 22,4 s do Short): fundo desfocado limpo, legenda legível"
+    },
+    {
+      "artefato": "producao/TRUQUE_NZ_2026-11-15/_story/exportacoes/Pixel_Procurado_Truque_NZ_Story_V2.mp4",
+      "timecode": 22.35,
+      "arquivo_imagem": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/story/s_0022.35.jpg",
+      "observacao": "último quadro: corte seco no carro, sem CTA visual (ver problema)"
+    }
+  ],
+  "legendas": {
+    "srt": "producao/TRUQUE_NZ_2026-11-15/exportacoes/Pixel_Procurado_Truque_NZ_Longo_V2.srt",
+    "amostras": [
+      {
+        "timecode": 19.92,
+        "texto": "Nova Zelândia. No Xbox, ele cabe",
+        "sincronizado": true,
+        "observacao": "texto queimado no frame = cue do SRT; SRT (1112 palavras) idêntico a 01_NARRACAO.txt; inícios das cues = alinhamento (dif. 0,0 s)"
+      },
+      {
+        "timecode": 115.0,
+        "texto": "lê e-mail. E repara na data.",
+        "sincronizado": true,
+        "observacao": "texto queimado no frame = cue do SRT; SRT (1112 palavras) idêntico a 01_NARRACAO.txt; inícios das cues = alinhamento (dif. 0,0 s)"
+      },
+      {
+        "timecode": 185.62,
+        "texto": "O país é escolhido no dia",
+        "sincronizado": true,
+        "observacao": "texto queimado no frame = cue do SRT; SRT (1112 palavras) idêntico a 01_NARRACAO.txt; inícios das cues = alinhamento (dif. 0,0 s)"
+      },
+      {
+        "timecode": 207.18,
+        "texto": "este. Criar uma conta neozelandesa do",
+        "sincronizado": true,
+        "observacao": "texto queimado no frame = cue do SRT; SRT (1112 palavras) idêntico a 01_NARRACAO.txt; inícios das cues = alinhamento (dif. 0,0 s)"
+      },
+      {
+        "timecode": 273.96,
+        "texto": "No lançamento de Dead Island 2,",
+        "sincronizado": true,
+        "observacao": "texto queimado no frame = cue do SRT; SRT (1112 palavras) idêntico a 01_NARRACAO.txt; inícios das cues = alinhamento (dif. 0,0 s)"
+      },
+      {
+        "timecode": 339.7,
+        "texto": "No Xbox, vale testar.",
+        "sincronizado": true,
+        "observacao": "texto queimado no frame = cue do SRT; SRT (1112 palavras) idêntico a 01_NARRACAO.txt; inícios das cues = alinhamento (dif. 0,0 s)"
+      },
+      {
+        "timecode": 377.44,
+        "texto": "Me conta nos comentários qual é",
+        "sincronizado": true,
+        "observacao": "texto queimado no frame = cue do SRT; SRT (1112 palavras) idêntico a 01_NARRACAO.txt; inícios das cues = alinhamento (dif. 0,0 s)"
+      }
+    ]
+  },
+  "thumbnail": {
+    "arquivo": "producao/TRUQUE_NZ_2026-11-15/publicacao/thumbnail_A/capa_youtube.jpg",
+    "preview_reduzido": "producao/TRUQUE_NZ_2026-11-15/qa/revisao_final/capas/thumbnail_A_v2_preview320.jpg",
+    "observacao": "16:9 1280x720 (2a rodada, capa recomposta 23:29): relógio flip agora mostra '8 | 00' (zoom em qa/revisao_final/capas/thumbnail_A_v2_zoom_relogio.jpg); retoque aceitável, dígitos um pouco mais suaves que o resto da arte mas coerentes com a perspectiva e legíveis a 320 px. '8H DA / MANHÃ?', selo do canal e logo GTA VI inteiros e iguais à versão anterior. 9:16 (thumbnail_vertical_preview320.jpg): '16 HORAS / ANTES' legível, logo inteira; arco do mapa saindo da América do Norte e controle formato DualShock seguem abertos (ver problemas)."
+  },
+  "problemas": [
+    {
+      "severidade": "media",
+      "timecode": null,
+      "descricao": "Capa 16:9 (thumbnail_A): relógio flip central exibe '1 | 10', contradizendo a promessa '8H DA MANHÃ?' (lê-se 1:10).",
+      "correcao": "Corrigido na 2a rodada: relógio retocado para '8 | 00' e capa recomposta; conferida em tamanho cheio e a 320 px.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "media",
+      "timecode": null,
+      "descricao": "Capa 9:16 (thumbnail_vertical): o arco luminoso do mapa parte da América do Norte (EUA), não do Brasil; a ideia Brasil x Nova Zelândia fica geograficamente errada.",
+      "correcao": "Retocar/regerar a arte com o ponto no Brasil (ou sem mapa) e recompor.",
+      "status": "aberto"
+    },
+    {
+      "severidade": "media",
+      "timecode": null,
+      "descricao": "Pronúncias apontadas pelo ASR sem confirmação por escuta humana (revisor não ouve): truque 17,1 e 166,2 s; folga 33,4/351,1 s e Short 70,6 s; Auckland 100,8/374,3 s; neozelandês 107,2/301,8 s; Battlefield 325,7 s; Short 'da manhã' ~2,2 s. Não há medium/large-v3 local; ASR small + formantes (truque com vogal /u/) não indicam erro material.",
+      "correcao": "Escuta humana curta desses timecodes antes de publicar; regravar só o que soar errado.",
+      "status": "aberto"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "00:02:20.880",
+      "descricao": "Legenda quebra 'Series S' entre cues: '...no Series' / 'S, a localização é uma configuração' (Longo e Vertical, SRT e legenda queimada).",
+      "correcao": "Mover 'S,' para a cue anterior; no SRT enviado ao YouTube dá para corrigir sem re-render.",
+      "status": "aberto"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "00:00:19.500",
+      "descricao": "Short/Story: card 'UTC−3 = 16 H' ambíguo (sugere que UTC−3 vale 16 h).",
+      "correcao": "Opcional: '13 + 3 = 16 H'.",
+      "status": "aceito"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "00:00:22.400",
+      "descricao": "Story termina em corte seco no plano do carro, sem chamada visual para o episódio (CTA só no texto).",
+      "correcao": "Opcional: sticker de link/CTA ou card final.",
+      "status": "aceito"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": null,
+      "descricao": "Capa 9:16: controle tem formato de DualShock 4 (sem logo); não é logotipo inserido, mas puxa para PlayStation num tema Xbox x PS5.",
+      "correcao": "Opcional junto com a correção do mapa.",
+      "status": "aceito"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": null,
+      "descricao": "Vertical integral: linha de detalhe dos cards pequena (~20 px de altura em 1080 px), legível mas no limite em celular.",
+      "correcao": "Opcional em próximos episódios.",
+      "status": "aceito"
+    }
+  ],
+  "resultado": "aprovado_com_ressalvas"
+}

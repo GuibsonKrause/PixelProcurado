@@ -1,0 +1,30 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-15T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Dia 7 no ar: 11 detalhes do GTA 6 que só se leem pausando. Amanhã, segunda 16/11: PS5 contra PS5 Pro, 30 ou 60 quadros. Faltam 4 dias para 19/11.",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/b653148d14fd47f986b1e7d60eb95791.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "story"
+      }
+    }
+  ]
+}

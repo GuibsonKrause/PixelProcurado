@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T23:49:49.584199+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Um esportivo rosa, dois ângulos. A câmera passa pela janela num vídeo e fica parada na esquina no outro. Em qual você teria jurado que era Miami? #GTA6 #GTAVI #ViceCity",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/cf13ee3031444164b4bc2933f2efbc91.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "Miami ou GTA 6? A Pista É o Carro Rosa"
+      }
+    }
+  ]
+}

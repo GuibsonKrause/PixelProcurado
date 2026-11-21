@@ -1,0 +1,30 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Tem um streamer no porta-malas. Dia 6 no ar. Amanhã, domingo 15/11: 11 detalhes doentios do GTA 6.",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/669cd328ae284c74bb6ea76b6a918172.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "story"
+      }
+    }
+  ]
+}

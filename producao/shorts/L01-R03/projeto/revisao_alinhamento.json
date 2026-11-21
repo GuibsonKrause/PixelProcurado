@@ -1,0 +1,113 @@
+{
+  "corrections": [
+    {
+      "op": "insert",
+      "start": 0.9,
+      "end": 1.0,
+      "script": "",
+      "asr": "é",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 5.62,
+      "end": 5.96,
+      "script": "seis,",
+      "asr": "6,",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 23.44,
+      "end": 23.54,
+      "script": "da",
+      "asr": "na",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "delete",
+      "start": 53.88,
+      "end": 53.88,
+      "script": "o",
+      "asr": "",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "delete",
+      "start": 58.44,
+      "end": 58.44,
+      "script": "a",
+      "asr": "",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "Você olha uma imagem",
+      "script_index": 9,
+      "time": 4.266666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "quanto mais lugares",
+      "script_index": 28,
+      "time": 11.6,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Só que uma lista",
+      "script_index": 34,
+      "time": 14.1,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Mas o problema começa",
+      "script_index": 49,
+      "time": 20.966666666666665,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Completar essa parte",
+      "script_index": 77,
+      "time": 31.933333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Agora acrescente os prédios",
+      "script_index": 96,
+      "time": 38.96666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A mesma cena pode",
+      "script_index": 118,
+      "time": 49.36666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Só que existe uma maneira",
+      "script_index": 139,
+      "time": 55.93333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Uma imagem bonita",
+      "script_index": 171,
+      "time": 71.9,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O ganho é perceber",
+      "script_index": 183,
+      "time": 76.16666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Quando a promessa cresce",
+      "script_index": 207,
+      "time": 87.13333333333334,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

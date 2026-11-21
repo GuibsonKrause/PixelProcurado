@@ -1,0 +1,38 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T23:50:23.685204+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Dois ângulos e a mesma camuflagem rosa. Deslize para comparar a janela, a esquina e a réplica construída pela West Coast Customs. #GTA6 #GTAVI #ViceCity",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/5b8dd9458ec54870aa50a16f1c8a8407.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/1130a4e0118340b7ad14d0f20453cd91.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/094d43b3a9a84098941e107ac2ef2eba.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post"
+      }
+    }
+  ]
+}

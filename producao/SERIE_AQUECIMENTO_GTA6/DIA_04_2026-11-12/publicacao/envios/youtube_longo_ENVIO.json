@@ -1,0 +1,120 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-13T02:11:07.045439+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Um sujeito salta da ponte, dois caras montam um ringue no quintal e um jacaré entra numa loja. No Dia 4 do aquecimento de GTA 6, a gente passa pelas cenas mais absurdas de Leonida e volta a um detalhe pequeno: a mulher de rosa no elevador com Jason.\n\nO que o gameplay realmente mostra sobre as interações com os NPCs? E o que só dá pra testar quando o jogo sair? Tem comparação com GTA V, fauna de Grassrivers e Mount Kalaga, e o comando STUDY [R1] no HUD.\n\n00:00 Só em Leonida\n00:25 O elevador e a comparação com GTA V\n00:55 Ponte, motel e luta no quintal\n01:42 Planet Leonida Man e as redes do jogo\n02:37 Jacarés de Grassrivers e fauna de Mount Kalaga\n03:26 De Ambrosia ao Effluvia\n03:44 O que a cena do elevador mostra\n04:16 Interações e o teste do segurança\n05:02 Próximo episódio: Jason e Lucia\n\nImagens de GTA VI e GTA V: Rockstar Games. Trechos de An Extended Look, Trailer 1, Trailer 2, Launch Trailer e capturas oficiais, usados em análise e comentário.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "1bceafb5-315a-4832-8e01-81b600c6f605",
+              "name": "9a6308d5ee62e575f2279882de57f0f8.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/13/9a6308d5ee62e575f2279882de57f0f8.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "Os NPCs do GTA 6 Têm Mais Problemas Que Você",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "NPCs GTA 6",
+            "label": "NPCs GTA 6"
+          },
+          {
+            "value": "NPCs de Leonida",
+            "label": "NPCs de Leonida"
+          },
+          {
+            "value": "IA GTA 6",
+            "label": "IA GTA 6"
+          },
+          {
+            "value": "Only in Leonida",
+            "label": "Only in Leonida"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "Grassrivers",
+            "label": "Grassrivers"
+          },
+          {
+            "value": "Mount Kalaga",
+            "label": "Mount Kalaga"
+          },
+          {
+            "value": "Ambrosia",
+            "label": "Ambrosia"
+          },
+          {
+            "value": "An Extended Look",
+            "label": "An Extended Look"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "Planet Leonida Man",
+            "label": "Planet Leonida Man"
+          },
+          {
+            "value": "GTA V vs GTA 6",
+            "label": "GTA V vs GTA 6"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          },
+          {
+            "value": "GTA 6 Brasil",
+            "label": "GTA 6 Brasil"
+          }
+        ],
+        "thumbnail": {
+          "id": "40fca91c-f459-436d-a1fe-4b8f907f49de",
+          "name": "b6de622511fd76dc107327c3229ee9d7e.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/13/b6de622511fd76dc107327c3229ee9d7e.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-12T01:09:53.707817+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "6 estrelas de procurado no GTA 6 e a manobra da garagem coberta que corta a visão do helicóptero. Análise do gameplay oficial. Lançamento: 19/11/2026. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "52d34fbb-f4d2-43e1-a707-861caea05c61",
+              "name": "b7ba8e7feb81b79e474ed110a68d56cbc.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/12/b7ba8e7feb81b79e474ed110a68d56cbc.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: 6 estrelas e a manobra da garagem #shorts",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "GTA 6 polícia",
+            "label": "GTA 6 polícia"
+          },
+          {
+            "value": "GTA 6 6 estrelas",
+            "label": "GTA 6 6 estrelas"
+          },
+          {
+            "value": "GTA 6 nível de procurado",
+            "label": "GTA 6 nível de procurado"
+          },
+          {
+            "value": "GTA 6 wanted level",
+            "label": "GTA 6 wanted level"
+          },
+          {
+            "value": "GTA 6 como fugir da polícia",
+            "label": "GTA 6 como fugir da polícia"
+          },
+          {
+            "value": "GTA 6 perseguição",
+            "label": "GTA 6 perseguição"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "GTA 6 Leonida",
+            "label": "GTA 6 Leonida"
+          },
+          {
+            "value": "GTA 6 Lucia Jason",
+            "label": "GTA 6 Lucia Jason"
+          },
+          {
+            "value": "GTA 6 helicóptero",
+            "label": "GTA 6 helicóptero"
+          },
+          {
+            "value": "GTA 6 garagem",
+            "label": "GTA 6 garagem"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "GTA 6 lançamento 19 de novembro",
+            "label": "GTA 6 lançamento 19 de novembro"
+          },
+          {
+            "value": "GTA 6 análise",
+            "label": "GTA 6 análise"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "7f79c463-7d34-4083-86b6-99508731a891",
+          "name": "5f63134b5f51bdce1e5732a611864e18.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/12/5f63134b5f51bdce1e5732a611864e18.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

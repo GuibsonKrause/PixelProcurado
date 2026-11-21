@@ -1,0 +1,507 @@
+{
+  "corte_original_s": [
+    79.35,
+    101.05
+  ],
+  "duracao_final_s": 315.46,
+  "divergencias": [
+    {
+      "tipo": "replace",
+      "roteiro": "Você",
+      "asr": "Cê",
+      "start": 0.0
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "por",
+      "start": 3.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "seis",
+      "asr": "VI",
+      "start": 4.72
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezenove",
+      "asr": "19",
+      "start": 5.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pedestres",
+      "asr": "pedaços",
+      "start": 8.36
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "você",
+      "asr": "cê",
+      "start": 14.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "da",
+      "asr": "à",
+      "start": 21.04
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 23.04
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "céu aberto.",
+      "asr": "senhora aberta.",
+      "start": 24.32
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dez",
+      "asr": "10",
+      "start": 26.64
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nove",
+      "asr": "9",
+      "start": 28.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quarenta",
+      "asr": "40",
+      "start": 29.02
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "a",
+      "asr": "uma",
+      "start": 32.8
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "em",
+      "start": 36.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "cinco,",
+      "asr": "V,",
+      "start": 38.44
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "ou",
+      "asr": "",
+      "start": 43.98
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "para o",
+      "start": 45.06
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "você esbarrava",
+      "asr": "vocês barrava",
+      "start": 50.44
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nove",
+      "asr": "9",
+      "start": 58.64
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nove",
+      "asr": "9",
+      "start": 60.1
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "trinta e cinco",
+      "asr": "35",
+      "start": 60.46
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "seis,",
+      "asr": "6.",
+      "start": 61.86
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nove",
+      "asr": "9",
+      "start": 66.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Vinte",
+      "asr": "20",
+      "start": 71.64
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nove",
+      "asr": "9",
+      "start": 80.36
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "trinta,",
+      "asr": "30",
+      "start": 80.78
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "subúrbio",
+      "asr": "subúbio",
+      "start": 83.14
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "num",
+      "asr": "no",
+      "start": 87.02
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "colchão",
+      "asr": "coxão",
+      "start": 88.44
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "camarote",
+      "asr": "camarotes",
+      "start": 91.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 94.78
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "start",
+      "asr": "estaxte",
+      "start": 95.82
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "terça-feira à",
+      "asr": "terça -feira",
+      "start": 99.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pras",
+      "asr": "para as",
+      "start": 114.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "segundo cinquenta.",
+      "asr": "Ziggum dos 50.",
+      "start": 121.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pátio",
+      "asr": "parque",
+      "start": 128.22
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "caminhonete",
+      "asr": "camionete",
+      "start": 134.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "ser parar",
+      "asr": "separar",
+      "start": 150.82
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "e",
+      "start": 163.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dois",
+      "asr": "2",
+      "start": 163.86
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Grassrivers:",
+      "asr": "Grass Rivers.",
+      "start": 168.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Uno mille",
+      "asr": "onomilha",
+      "start": 171.1
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Mount Kalaga",
+      "asr": "mão de calaga",
+      "start": 182.0
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "cervos",
+      "asr": "servos",
+      "start": 182.9
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "sete e cinquenta",
+      "asr": "7 .50",
+      "start": 187.08
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "cervo",
+      "asr": "servo",
+      "start": 189.02
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "cinco,",
+      "asr": "V,",
+      "start": 192.14
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 194.56
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "coiote",
+      "asr": "coyote",
+      "start": 195.56
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "querer.",
+      "asr": "queror.",
+      "start": 196.62
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "vou",
+      "start": 199.38
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Grassrivers",
+      "asr": "Grass Rivers",
+      "start": 200.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para a",
+      "start": 203.92
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Ambrosia:",
+      "asr": "Ambrose.",
+      "start": 210.5
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "com fuzil",
+      "asr": "confuso",
+      "start": 213.04
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Effluvia,",
+      "asr": "efluga,",
+      "start": 215.7
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dez e dez",
+      "asr": "10 .10",
+      "start": 217.6
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "turma,",
+      "asr": "toma",
+      "start": 222.18
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "parece",
+      "asr": "aparece",
+      "start": 223.34
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "fofoca. E",
+      "asr": "pavoca.",
+      "start": 224.68
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 227.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "de vestido",
+      "asr": "vestida",
+      "start": 228.04
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nove e quarenta.",
+      "asr": "9 .40.",
+      "start": 230.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pros",
+      "asr": "para os",
+      "start": 233.32
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nove",
+      "asr": "9 .40",
+      "start": 234.52
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quarenta e nove e cinquenta",
+      "asr": "9 .50",
+      "start": 235.6
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 238.1
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "de vestido",
+      "asr": "vestida",
+      "start": 239.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 242.9
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nove e cinquenta.",
+      "asr": "9 .50.",
+      "start": 245.48
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "a",
+      "start": 255.26
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "canto",
+      "asr": "cano",
+      "start": 259.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "um,",
+      "asr": "1",
+      "start": 261.54
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dois,",
+      "asr": "2",
+      "start": 264.22
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 265.44
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "R um.",
+      "asr": "R1.",
+      "start": 266.86
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezenove? Meu",
+      "asr": "19? O",
+      "start": 271.86
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "um",
+      "asr": "uma",
+      "start": 275.46
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 286.56
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 300.64
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tiro",
+      "asr": "atiro",
+      "start": 300.92
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "sexta-feira treze",
+      "asr": "sexta -feira 13",
+      "start": 303.6
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "L dois, as cenas",
+      "asr": "Vale 2. A cena",
+      "start": 307.76
+    }
+  ]
+}

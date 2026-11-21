@@ -1,0 +1,720 @@
+{
+ "schema_versao": 1,
+ "episodio": "POS_LANCAMENTO_2026-11-21",
+ "revisor": {
+  "modelo": "claude-opus-5-5 (Claude Opus 5.5)",
+  "agent_id": "revisao_independente_opus"
+ },
+ "data": "2026-11-21",
+ "artefatos": [
+  {
+   "caminho": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "sha256": "12e27183989c889e140c444379ab6893ee5077e9a27a97f58cc1ae381cb3f8a5"
+  },
+  {
+   "caminho": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.srt",
+   "sha256": "e44b8805c58afa716b343db109143771a572403d0f22d9f7713843a0debdb2dc"
+  },
+  {
+   "caminho": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "sha256": "a8f4626c145e7472101d9fa098112731d1b41d32b24c11754fdc13e6f9d667c8"
+  },
+  {
+   "caminho": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.srt",
+   "sha256": "89dd3ee67cfc4f18c5dbbb96a3389b12201eab6d45cc6a32e45680686a4a07e2"
+  },
+  {
+   "caminho": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "sha256": "f47ae15bf1dd56731ed797c9f9cfd35b90d75408b39a57e90c800d2727ca4ee0"
+  },
+  {
+   "caminho": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.srt",
+   "sha256": "e44b8805c58afa716b343db109143771a572403d0f22d9f7713843a0debdb2dc"
+  },
+  {
+   "caminho": "producao/POS_LANCAMENTO_2026-11-21/publicacao/capas/capa_longo.jpg",
+   "sha256": "417526cfdda50cc364dc7cc22decc91e796e1271cec0c932d5f1712cef99f00b"
+  },
+  {
+   "caminho": "producao/POS_LANCAMENTO_2026-11-21/publicacao/capas/capa_short.jpg",
+   "sha256": "4050e32ea760f1215778089e330c669522e07308db349d38f9a74ac252793495"
+  }
+ ],
+ "audio_trechos_ouvidos": [
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "inicio": 0,
+   "fim": 10,
+   "observacao": "Segunda revisao (render novo): Ouvido via ASR medium (nao escuto nativamente): \"O jogo respondeu nossas apostas. Foram 10 dias...\" bate palavra a palavra com o roteiro; gancho de 5 palavras no 1o quadro, sem vinheta; RMS -17,1 dBFS."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "inicio": 125,
+   "fim": 140,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: trecho VIATURA/estrela na calcada/\"a policia nao fica so buzinando\" confere com o roteiro; RMS -18,2 dBFS; sem corte ou silencio anomalo."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "inicio": 245,
+   "fim": 260,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: \"...nem confirmada correcao. Entao trata como relato, nao como laudo\" (hedge presente). ASR ouviu \"GameSport\" no lugar de GameSpot - possivel pronuncia; precisa conferencia humana. Re-ASR meu (251,5-257,5 s): sem prompt \"GameSport\", com prompt \"GameSpot\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "inicio": 365,
+   "fim": 380,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: analise Ubisoft/EA/CD Projekt confere com o roteiro e vem depois do aviso \"leitura minha, nao fonte\"; RMS -17,9 dBFS."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "inicio": 426.16,
+   "fim": 436.16,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: CTA final \"Voce se impressionou ou esperava mais? Escreve nos comentarios...\" completo, sem corte no fim; RMS -17,3 dBFS."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "inicio": 0,
+   "fim": 10,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: gancho \"Essas teorias pareciam mentira, agora estao no jogo\" (6 palavras, voz no 1o quadro). ASR ouviu \"supolar\" para \"urso-polar\" - possivel dicao embolada; conferir de ouvido. Re-ASR meu (medium, 5-11 s do mp4 final): sem prompt \"tem um supô lá no meio da rodovia\"; com prompt de contexto \"tem urso-polar no meio da rodovia\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "inicio": 40.0,
+   "fim": 50.0,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: \"A critica [deu noventa e nove], os jogadores? Perto de 5. Entao me responde, valeu o hype...\" confere; ASR trocou \"deu noventa e nove\" por \"da 99\"; final completo."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "inicio": 0,
+   "fim": 10,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: mesma trilha do longo (SRT identico); gancho \"O jogo respondeu nossas apostas\" no 1o quadro, sem vinheta; RMS -17,1 dBFS."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "inicio": 125,
+   "fim": 140,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: trecho da viatura e da estrela na calcada igual ao longo, confere com o roteiro; RMS -18,2 dBFS."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "inicio": 245,
+   "fim": 260,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: trecho \"relato, nao como laudo\" e GameSpot (ASR: \"GameSport\") igual ao longo; RMS -17,3 dBFS."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "inicio": 365,
+   "fim": 380,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: analise das concorrentes igual ao longo, confere com o roteiro; RMS -17,9 dBFS."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "inicio": 426.16,
+   "fim": 436.16,
+   "observacao": "Segunda revisao (render novo): Via ASR medium: CTA final completo, sem corte; RMS -17,3 dBFS; mesma mixagem do longo."
+  }
+ ],
+ "frames_inspecionados": [
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 12.86,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0012.86.jpg",
+   "observacao": "Segunda revisao (render novo): Card APOSTA x REALIDADE legivel (10 dias de serie x lancado 19/11) sobre Lucia ao lado de viaturas; rotulo POS-LANCAMENTO LIVE ALANZOKA; legenda \"Agora o GTA seis ta na\" em sincronia. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 15,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0015.00.jpg",
+   "observacao": "Segunda revisao (render novo): Mesmo plano de Lucia com viaturas, card ainda na tela no fim da leitura; legenda \"mao de milhoes de pessoas desde\"; sem facecam, sem artefato. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 26.38,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0026.38.jpg",
+   "observacao": "Segunda revisao (render novo): Card GAMEPLAY REAL (lives alanzoka e Cellbit, audio removido) sobre hidroaviao no mar; rotulo presente; legenda \"pano. O combinado e o de\" bate com a fala. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 42.88,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0042.88.jpg",
+   "observacao": "Segunda revisao (render novo): Card METACRITIC (Critica 99, 150+ analises, jogadores perto de 5) sobre loja de bebidas com atendente maos na cabeca; card nao cobre a acao; legenda sincronizada. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 45,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0045.00.jpg",
+   "observacao": "Segunda revisao (render novo): Ainda loja de bebidas, card METACRITIC na tela; legenda \"deu noventa e nove, com mais\"; HUD minimo, sem facecam. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 64.34,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0064.34.jpg",
+   "observacao": "Segunda revisao (render novo): Card APOSTA 1 CONFIRMADA (Leonida nao espera voce apertar start) sobre Jason no pantano; rotulo presente; legenda \"Primeira aposta da serie: os moradores\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 75,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0075.00.jpg",
+   "observacao": "Segunda revisao (render novo): Rodovia com caminhao aberto, urso-polar e roda de gente: exatamente o que a narracao descreve (\"Olha essa rodovia: um caminhao aberto,\"); rotulo LIVE ALANZOKA. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 105,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0105.00.jpg",
+   "observacao": "Segunda revisao (render novo): Feed do celular (Cellbit) com post @PlanetLeonidaMan; rotulo LIVE CELLBIT; borda esquerda limpa apos o novo recorte [484,0,1436,808] - residuo de overlay sumiu."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 105.7,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0105.70.jpg",
+   "observacao": "Segunda revisao (render novo): Card LEONIDA TEM REDE SOCIAL legivel sem cobrir o celular; legenda \"Dentro do carro, o celular abre\"; borda esquerda limpa."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 117.12,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0117.12.jpg",
+   "observacao": "Segunda revisao (render novo): Card APOSTA 2 CONFIRMADA sobre carro em Vice City com estrelas no HUD; rotulo PRE-LANCAMENTO GAMEPLAY OFICIAL correto para o trecho do trailer oficial; legenda sincronizada. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 135,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0135.00.jpg",
+   "observacao": "Segunda revisao (render novo): Lucia correndo com a bolsa (VIATURA), legenda \"bolsa. E quando a coisa esquenta,\"; facecam e nomes de sub REMOVIDOS (delogo); so resta leve mancha no canto inferior direito."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 145.78,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0145.78.jpg",
+   "observacao": "Segunda revisao (render novo): Card DIA 06: HIPOTESE sobre perseguicao com icones vermelhos sob as estrelas; facecam/sub removidos (mancha de delogo discreta a direita); legendas nativas do jogo ainda empilhadas acima da legenda do canal (baixa)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 158.62,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0158.62.jpg",
+   "observacao": "Segunda revisao (render novo): Card APOSTA 3 CONFIRMADA (Jason e Lucia dividem a vida) sobre plano do gameplay oficial com rotulo PRE-LANCAMENTO correto; nao e cinematica isolada de historia; legenda sincronizada. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 165,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0165.00.jpg",
+   "observacao": "Segunda revisao (render novo): Jason e Lucia lado a lado, gameplay oficial pre-lancamento com rotulo correto; legenda \"que os dois moram junto, dirigem\"; sem card, cena livre. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 195,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0195.00.jpg",
+   "observacao": "Segunda revisao (render novo): Hidroaviao na praia de agua clara (HIDRO) enquanto a fala diz \"tinham motivo. Parte do motivo ta\"; rotulo LIVE ALANZOKA; cena livre. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 213.46,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0213.46.jpg",
+   "observacao": "Segunda revisao (render novo): Card agora em uma linha \"SO 30 FPS\" + \"Todos os consoles, inclusive PS5 Pro - sem modo desempenho\": cabe no card; esportivo na estrada; legenda \"O jogo saiu em trinta em\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 225,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0225.00.jpg",
+   "observacao": "Segunda revisao (render novo): Esportivo atravessando a cancela da linha do trem; legenda \"E trinta nem sempre e trinta.\"; rotulo presente; sem card. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 233.3,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0233.30.jpg",
+   "observacao": "Segunda revisao (render novo): Card RELATOS DE JOGADORES (sem confirmacao da Rockstar) agora sobre BATIDA (picape em rua de bairro, alanzoka); hedge correto; legenda \"Teve relato de travamento no prologo,\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 251.5,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0251.50.jpg",
+   "observacao": "Segunda revisao (render novo): Card GAMESPOT: 10/10 sobre cena do movel (MOVEL, live de 18/11 apos o desbloqueio global, ver problema aceito); perna do Jason em primeiro plano, sem nudez; prompt de botao = gameplay."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 255,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0255.00.jpg",
+   "observacao": "Segunda revisao (render novo): Jason e Lucia montando o movel na sala (gameplay com HUD de interacao); legenda \"e, mesmo assim, reclamou de exigencias\"; sem nudez, roupas comuns. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 285,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0285.00.jpg",
+   "observacao": "Segunda revisao (render novo): Carro sob viaduto a noite; legenda \"Sinceramente? Ainda bem.\"; rotulo presente; cena coerente com o bloco de fisica/direcao. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 298.44,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0298.44.jpg",
+   "observacao": "Segunda revisao (render novo): Card REVIEW BOMB? (reclamacao legitima e protesto no mesmo numero) sobre rua do centro com onibus (CENTRO); legenda \"Sobre a nota perto de cinco\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 315,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0315.00.jpg",
+   "observacao": "Segunda revisao (render novo): Lucia correndo em beco de obra; legenda \"concorrencia. Os numeros primeiro.\"; rotulo LIVE ALANZOKA; sem card. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 317.34,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0317.34.jpg",
+   "observacao": "Segunda revisao (render novo): Card US$ 3,79 BI NO 1o DIA com \"Estimativa da Rockstar - GTA V ~US$ 800 mi (2013)\": hedge correto; sobre hidroaviao na praia; legenda sincronizada. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 332.92,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0332.92.jpg",
+   "observacao": "Segunda revisao (render novo): Card corrigido \"EDITORAS SEGURARAM DATAS?\" com \"Segundo a Bloomberg, antes do lancamento\": agora atribui e pergunta, coerente com a fala; Lucia no beco."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 345,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0345.00.jpg",
+   "observacao": "Segunda revisao (render novo): Lucia andando ao lado de tapumes de obra; sem legenda no quadro (proxima cue comeca em 345,16 s, coerente); rotulo presente; cena livre. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 348.92,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0348.92.jpg",
+   "observacao": "Segunda revisao (render novo): Card LEITURA MINHA (analise do canal, nao fonte); perseguicao Cellbit; borda esquerda limpa (residuo de chat sumiu com o novo recorte)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 370.42,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0370.42.jpg",
+   "observacao": "Segunda revisao (render novo): Card O RECADO (Ubisoft, EA, CD Projekt: o publico viu um mundo que reage) sobre cena atras de alambrado; legenda \"ver. Pra uma Ubisoft com mapa\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 375,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0375.00.jpg",
+   "observacao": "Segunda revisao (render novo): Guincho e carro a noite; legenda \"cheio de icone, pra uma EA,\"; rotulo presente; sem card. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 398.18,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0398.18.jpg",
+   "observacao": "Segunda revisao (render novo): Card A REGUA SUBIU (alvo enorme e duas desculpas: 30 fps e bugs) sobre picape roxa; legenda \"limpa. A regua subiu, mas nao\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 405,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0405.00.jpg",
+   "observacao": "Segunda revisao (render novo): Picapes estacionadas em rua arborizada, entre cards; legenda ausente neste instante (pausa entre 404.58 e 405.48 no SRT) - coerente. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 406.08,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0406.08.jpg",
+   "observacao": "Segunda revisao (render novo): Card VEREDITO (mundo, dupla e espetaculo: sim; fluidez: cobrou caro) sobre esportivo na estrada; legenda \"Entao, valeu a espera de mais\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 425.72,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0425.72.jpg",
+   "observacao": "Segunda revisao (render novo): CTA corrigido: card \"SE IMPRESSIONOU?\" + \"Ou esperava mais? Responde nos comentarios\" cabe inteiro, icone de alvo livre; legenda \"Agora e a sua vez, e\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+   "timecode": 435,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/longo/f_0435.00.jpg",
+   "observacao": "Segunda revisao (render novo): Ultimo segundo: rua de Vice City, legenda \"jurava que estaria no jogo.\" legivel; sem tela preta ou vinheta extra. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "timecode": 3.9,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/short/f_0003.90.jpg",
+   "observacao": "Segunda revisao (render novo): Card 1 - LEONIDA REAGE (urso-polar na rodovia) no topo, faixa de gameplay URSO com rotulo LIVE ALANZOKA; legenda grande \"Um: os moradores de Leonida nao\" legivel. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "timecode": 11.48,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/short/f_0011.48.jpg",
+   "observacao": "Segunda revisao (render novo): Card 2 - POLICIA COM TESTEMUNHA; Lucia abrindo o porta-malas da viatura com policiais por perto; legenda \"Dois: a policia nao nasce do\" sincronizada. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "timecode": 15,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/short/f_0015.00.jpg",
+   "observacao": "Segunda revisao (render novo): Lucia no porta-malas com menu \"PEGAR BOLSA DE ESPOLIOS\"; legenda \"chao. A Lucia abre o porta-malas\"; rotulo presente; sem facecam. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "timecode": 19.9,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/short/f_0019.90.jpg",
+   "observacao": "Segunda revisao (render novo): Card 3 - REDE SOCIAL DE LEONIDA sobre feed Cellbit; borda esquerda limpa apos novo recorte; legenda \"Tres: Leonida tem rede social propria,\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "timecode": 28.08,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/short/f_0028.08.jpg",
+   "observacao": "Segunda revisao (render novo): Card 4 - A VIDA A DOIS (inclusive montar movel); Jason montando o movel, Lucia so aparece como mao na borda direita; legenda \"Quatro: Jason e Lucia dividem a\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "timecode": 34.56,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/short/f_0034.56.jpg",
+   "observacao": "Segunda revisao (render novo): Card corrigido \"SO 30 FPS\" / \"Todos os consoles - sem modo desempenho\" em uma linha, dentro do card; esportivo na estrada; legenda \"movel. E a teoria que ninguem\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "timecode": 41.48,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/short/f_0041.48.jpg",
+   "observacao": "Segunda revisao (render novo): Card corrigido \"99 x ~5\" / \"Critica x jogadores no Metacritic\" em uma linha, legivel; hidroaviao em voo; legenda \"modo desempenho. A critica deu noventa\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "timecode": 45,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/short/f_0045.00.jpg",
+   "observacao": "Segunda revisao (render novo): Hidroaviao sobre o mar, entre cards; legenda \"cinco. Entao me responde: valeu o\"; rotulo presente; sem artefato. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+   "timecode": 45.7,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/short/f_0045.70.jpg",
+   "observacao": "Segunda revisao (render novo): Card VALEU O HYPE? (responde nos comentarios) sobre urso derrubando pedestre na rodovia; legenda sincronizada; violencia de jogo leve, sem nudez. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 12.86,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0012.86.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card APOSTA x REALIDADE no topo, faixa 16:9 com Lucia e viaturas e rotulo LIVE ALANZOKA; legenda em duas linhas legivel no fundo desfocado. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 15,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0015.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: mesmo plano, card ainda visivel; legenda \"mao de milhoes de pessoas desde\" quebrada em 2 linhas, legivel. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 26.38,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0026.38.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card GAMEPLAY REAL no topo; hidroaviao no mar; legenda \"pano. O combinado e o de\"; nada cortado. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 42.88,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0042.88.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card METACRITIC legivel; atendente com maos na cabeca na faixa central; legenda em 2 linhas sincronizada. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 45,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0045.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card METACRITIC ainda presente; loja de bebidas; legenda \"deu noventa e nove, com mais\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 64.34,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0064.34.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card APOSTA 1 CONFIRMADA; Jason no pantano; legenda \"Primeira aposta da serie: os moradores\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 75,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0075.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: urso-polar na rodovia com roda de gente; legenda \"Olha essa rodovia: um caminhao aberto,\"; rotulo presente. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 105,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0105.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: feed @PlanetLeonidaMan na faixa central; rotulo LIVE CELLBIT; borda esquerda limpa."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 105.7,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0105.70.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card LEONIDA TEM REDE SOCIAL legivel; celular inteiro; legenda \"Dentro do carro, o celular abre\"; sem residuo na borda."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 117.12,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0117.12.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card APOSTA 2 CONFIRMADA; rotulo PRE-LANCAMENTO GAMEPLAY OFICIAL correto; estrelas do HUD visiveis acima do rotulo. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 135,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0135.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: Lucia correndo com a bolsa; facecam e nome de sub removidos (fica mancha leve de delogo a direita da faixa); legenda \"bolsa. E quando a coisa esquenta,\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 145.78,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0145.78.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card DIA 06: HIPOTESE; facecam removida; rotulo LIVE ALANZOKA ainda encosta nas estrelas/icones vermelhos do HUD (baixa); legendas do jogo nao colidem com a do canal."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 158.62,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0158.62.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card APOSTA 3 CONFIRMADA; Jason e Lucia do gameplay oficial com rotulo PRE-LANCAMENTO; legenda em 2 linhas. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 165,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0165.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: Jason e Lucia junto a parede azulejada (oficial pre-lancamento); legenda \"que os dois moram junto, dirigem\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 195,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0195.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: hidroaviao na praia; legenda \"tinham motivo. Parte do motivo ta\"; rotulo presente. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 213.46,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0213.46.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card \"SO 30 FPS\" em uma linha, subtitulo inteiro dentro do card; esportivo na estrada; legenda \"O jogo saiu em trinta em\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 225,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0225.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: esportivo na cancela da linha do trem; legenda \"E trinta nem sempre e trinta.\"; sem card. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 233.3,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0233.30.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card RELATOS DE JOGADORES sobre BATIDA (picape, sem HUD de estrelas), nada encoberto pelo rotulo; legenda em 2 linhas sincronizada."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 251.5,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0251.50.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card GAMESPOT 10/10; cena do movel com perna em primeiro plano; legenda \"laudo. Ate quem deu nota maxima\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 255,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0255.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: Jason e Lucia montando o movel; legenda \"e, mesmo assim, reclamou de exigencias\"; sem nudez. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 285,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0285.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: carro sob viaduto a noite; legenda \"Sinceramente? Ainda bem.\"; rotulo presente. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 298.44,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0298.44.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card REVIEW BOMB? sobre rua do centro com onibus; legenda \"Sobre a nota perto de cinco\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 315,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0315.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: Lucia correndo no beco; legenda \"concorrencia. Os numeros primeiro.\"; sem card. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 317.34,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0317.34.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card US$ 3,79 BI NO 1o DIA com \"Estimativa da Rockstar\"; hidroaviao na praia; legenda sincronizada. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 332.92,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0332.92.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card \"EDITORAS SEGURARAM DATAS?\" / \"Segundo a Bloomberg, antes do lancamento\"; Lucia no beco; legenda \"E antes mesmo do lancamento, o\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 345,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0345.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: Lucia junto aos tapumes; sem legenda ativa neste quadro (pausa entre cues); cena livre. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 348.92,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0348.92.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card LEITURA MINHA; rotulo LIVE CELLBIT ainda encosta nas estrelas/icones do HUD (baixa); borda esquerda limpa."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 370.42,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0370.42.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card O RECADO legivel; cena atras de alambrado; legenda \"ver. Pra uma Ubisoft com mapa\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 375,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0375.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: guincho e carro a noite; legenda \"cheio de icone, pra uma EA,\"; sem card. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 398.18,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0398.18.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card A REGUA SUBIU; picape roxa; legenda \"limpa. A regua subiu, mas nao\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 405,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0405.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: picapes em rua arborizada; sem legenda ativa (pausa); sem card. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 406.08,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0406.08.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: card VEREDITO; esportivo na estrada; legenda \"Entao, valeu a espera de mais\". (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 425.72,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0425.72.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: CTA corrigido \"SE IMPRESSIONOU?\" cabe no card, icone livre; legenda \"Agora e a sua vez, e\"."
+  },
+  {
+   "artefato": "producao/POS_LANCAMENTO_2026-11-21/_ig_vertical/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2.mp4",
+   "timecode": 435,
+   "arquivo_imagem": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/ig/f_0435.00.jpg",
+   "observacao": "Segunda revisao (render novo): Vertical: ultimo segundo, rua de Vice City, legenda \"jurava que estaria no jogo.\"; encerramento limpo. (conferido de novo no render atual: igual ao anterior, sem regressao)."
+  }
+ ],
+ "legendas": {
+  "srt": "producao/POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.srt",
+  "amostras": [
+   {
+    "timecode": 1.0,
+    "texto": "O jogo respondeu nossas apostas.",
+    "sincronizado": true,
+    "observacao": "Legenda e voz comecam no quadro 0 (frame extra conferido)."
+   },
+   {
+    "timecode": 75.3,
+    "texto": "Olha essa rodovia: um caminhão aberto,",
+    "sincronizado": true,
+    "observacao": "Frame 75 s mostra exatamente o caminhao e o urso."
+   },
+   {
+    "timecode": 185.6,
+    "texto": "Olha esse hidroavião pousando numa praia",
+    "sincronizado": true,
+    "observacao": "Conferido em frame extra de 186 s."
+   },
+   {
+    "timecode": 248.8,
+    "texto": "Então trata como relato, não como",
+    "sincronizado": true,
+    "observacao": "Hedge dos bugs presente."
+   },
+   {
+    "timecode": 319.5,
+    "texto": "vírgula setenta e nove bilhões de",
+    "sincronizado": true,
+    "observacao": "Card US$ 3,79 bi com \"Estimativa da Rockstar\" ativo no mesmo momento."
+   },
+   {
+    "timecode": 387.0,
+    "texto": "lado. Os trinta quadros mostram que",
+    "sincronizado": true,
+    "observacao": "Bloco final."
+   },
+   {
+    "timecode": 434.0,
+    "texto": "Escreve nos comentários qual teoria você",
+    "sincronizado": true,
+    "observacao": "CTA final; ultima cue termina em 435,9 s."
+   }
+  ]
+ },
+ "thumbnail": {
+  "arquivo": "producao/POS_LANCAMENTO_2026-11-21/publicacao/capas/capa_longo.jpg",
+  "preview_reduzido": "producao/POS_LANCAMENTO_2026-11-21/montagem/revisao_final/capa_longo_preview.jpg",
+  "observacao": "Capa longa 16:9 vista a 640 px: \"TEORIA x REALIDADE\" (branco/amarelo) legivel em miniatura, logo GTA VI inteira no canto superior direito, selo PIXEL / PROCURADO, arte = frame real do urso na rodovia (sem spoiler). Capa do Short 9:16 (capa_short_preview.jpg, 360x640): mesmo texto em painel escuro no topo, logo GTA VI inteira e sem corte, urso na faixa central; legivel. Promessa coerente com o card APOSTA x REALIDADE do video."
+ },
+ "problemas": [
+  {
+   "severidade": "alta",
+   "timecode": "MOVEL/PANT/BATIDA (longo, IG, Short)",
+   "descricao": "Clipes da live alanzoka_20261118 (PANT 18/11 21:47 UTC, MOVEL 20:48 UTC, BATIDA 15:32 UTC) com rotulo PÓS-LANÇAMENTO. Conferido: o fact-check de producao/TRUQUE_NZ_2026-11-15/00_ROTEIRO_COMPLETO.md (pagina de suporte da Rockstar, 03/11) diz meia-noite local de 19/11 em cada regiao; Nova Zelandia (UTC+13) = 18/11 11:00 UTC. Os tres clipes (e ate o primeiro clipe dessa live, 11:32 UTC) sao posteriores ao desbloqueio global; meta.json dos tres traz risco \"nenhum\" e status \"publicado\".",
+   "correcao": "Nenhuma: rotulo PÓS-LANÇAMENTO verdadeiro (jogo ja lancado no mundo). Ressalva: outros clipes da mesma live marcados \"vazamento\" pelo classificador nao entram neste episodio; manter assim.",
+   "status": "aceito"
+  },
+  {
+   "severidade": "media",
+   "timecode": "02:05-02:33",
+   "descricao": "Facecam e nomes de sub do alanzoka visiveis em VIATURA/ICONES (longo e IG).",
+   "correcao": "Aplicado delogo nos planos 18 e 21; conferido em 131, 135, 145.78 e 151 s (longo) e 135/145.78 s (IG): sem rosto nem nomes.",
+   "status": "corrigido"
+  },
+  {
+   "severidade": "media",
+   "timecode": "02:16-02:25",
+   "descricao": "Fala \"Com tres estrelas\" sobre clipe com 2 estrelas.",
+   "correcao": "Plano dividido: CARR@30 com 3 estrelas acesas em 137,5/139,5/141 s (cue \"Com tres estrelas no topo da\" 139,66-141,16 s) e o carrinho em 142,5-144 s. Conferido em frames extras.",
+   "status": "corrigido"
+  },
+  {
+   "severidade": "media",
+   "timecode": "07:05",
+   "descricao": "Card CTA estourava a largura e ficava cortado.",
+   "correcao": "Agora \"SE IMPRESSIONOU?\" / \"Ou esperava mais? Responde nos comentarios\"; cabe inteiro (longo e IG, frame 425.72).",
+   "status": "corrigido"
+  },
+  {
+   "severidade": "baixa",
+   "timecode": "03:32; Short 00:34 e 00:41",
+   "descricao": "Cards de duas linhas empurravam o subtitulo para a borda.",
+   "correcao": "Titulos \"SO 30 FPS\" e \"99 x ~5\" em uma linha; conferido nos frames 213.46 (longo/IG), 34.56 e 41.48 (Short).",
+   "status": "corrigido"
+  },
+  {
+   "severidade": "baixa",
+   "timecode": "05:32",
+   "descricao": "Card afirmava como fato que editoras fugiram da data.",
+   "correcao": "\"EDITORAS SEGURARAM DATAS?\" + \"Segundo a Bloomberg, antes do lancamento\"; conferido (longo e IG 332.92).",
+   "status": "corrigido"
+  },
+  {
+   "severidade": "baixa",
+   "timecode": "01:45, 05:48; Short 00:19",
+   "descricao": "Residuo de chat/overlay na borda esquerda das fontes Cellbit.",
+   "correcao": "Recorte [484,0,1436,808]; bordas limpas em 105/105.7/348.92 (longo e IG) e 19.9 (Short).",
+   "status": "corrigido"
+  },
+  {
+   "severidade": "baixa",
+   "timecode": "02:26-02:33",
+   "descricao": "Mancha do delogo visivel no canto inferior direito durante ICONES (frames 145.78 e 151 s), estrias claras sobre o cenario escuro. Nao mostra rosto nem nomes.",
+   "correcao": "Opcional: trocar delogo por caixa desfocada com borda suave ou recortar o quadro nesse plano.",
+   "status": "aberto"
+  },
+  {
+   "severidade": "baixa",
+   "timecode": "02:25-02:33 (longo)",
+   "descricao": "Legendas nativas do jogo (\"Some da minha frente, porra!\"...) empilhadas logo acima da legenda do canal; inalterado.",
+   "correcao": "Subir a legenda do canal ou cobrir a faixa de legenda do jogo nesse plano.",
+   "status": "aberto"
+  },
+  {
+   "severidade": "baixa",
+   "timecode": "IG 02:25, 05:48",
+   "descricao": "IG vertical: rotulo de credito encosta nas estrelas/icones vermelhos do HUD (145.78 e 348.92); inalterado.",
+   "correcao": "Posicionar o rotulo na faixa desfocada acima do gameplay no vertical.",
+   "status": "aberto"
+  },
+  {
+   "severidade": "baixa",
+   "timecode": "05:05",
+   "descricao": "Rotulo LIVE ALANZOKA colide com as abas do menu de pausa na tela de mapa (~305 s); inalterado (nao re-inspecionado neste render).",
+   "correcao": "Cortar a tela de menu ou deslocar o rotulo nesse plano.",
+   "status": "aberto"
+  },
+  {
+   "severidade": "baixa",
+   "timecode": "Short 00:06-00:09; longo 04:14",
+   "descricao": "Pronuncia de \"urso-polar\" e \"GameSpot\": ASR medium so acerta com prompt de contexto; sem prompt ouve \"um supô lá\" e \"GameSport\" (re-ASR meu no mp4 final). Evidencia apenas por ASR, sem escuta humana.",
+   "correcao": "Escuta humana desses dois trechos antes de publicar; regenerar so a frase se soar embolada.",
+   "status": "aberto"
+  }
+ ],
+ "resultado": "aprovado_com_ressalvas"
+}

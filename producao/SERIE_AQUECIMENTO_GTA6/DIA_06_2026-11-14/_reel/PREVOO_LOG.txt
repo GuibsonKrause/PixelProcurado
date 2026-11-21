@@ -1,0 +1,5 @@
+[short] 13 planos conferidos (6 de vídeo): 0 erro(s), 1 aviso(s)
+  AVISO INFO selo persistente cobre 2 plano(s) de rótulo obrigatório: [11, 12]
+  folhas de contato (2): C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\SERIE_AQUECIMENTO_GTA6\DIA_06_2026-11-14\_reel\montagem\prevoo  <- olhar antes do render: imagem x card x fala
+Pré-voo sem erros. Confira as folhas de contato e siga para a amostra/render.
+PREVOO_EXIT=0

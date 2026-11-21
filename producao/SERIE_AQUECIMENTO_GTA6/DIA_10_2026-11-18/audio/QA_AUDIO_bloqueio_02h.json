@@ -1,0 +1,70 @@
+{
+  "status": "BLOQUEADO_TTS",
+  "reported_at": "2026-11-18T02:17:06.323646",
+  "model": "gemini-3.8-flash-tts",
+  "voice": "voice_iagtq1gnk2br",
+  "human_listening": "NÃO OUVIDO POR HUMANO",
+  "valid_container_only": {
+    "B01": {
+      "duration": 47.6,
+      "rate": 24000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 1142400,
+      "bytes": 2292508
+    }
+  },
+  "completed_blocks": [
+    1
+  ],
+  "missing_blocks": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "attempts": [
+    {
+      "process": "initial_batch",
+      "start": "2026-11-18T01:33:31-03:00",
+      "stop": "2026-11-18T02:00:49-03:00",
+      "B01": "WAV returned",
+      "B02": "request inconclusive; no WAV; process stopped after >25min",
+      "B03_to_B07": "not reached"
+    },
+    {
+      "block": 2,
+      "attempt": 2,
+      "start": "2026-11-18T02:03:52.707290",
+      "end": "2026-11-18T02:09:55.456384",
+      "pid": 67860,
+      "exit_code": 1,
+      "deadline_exceeded": true,
+      "wav_exists": false,
+      "cost": "indeterminado; API nao retorna valor monetario"
+    }
+  ],
+  "api_requests_actual": "desconhecidos; SDK pode retry automaticamente",
+  "monetary_cost": "desconhecido; timeout remoto pode ter custo",
+  "no_429_observed": true,
+  "sdk_evidence": ".venv-gemini/Lib/site-packages/google/genai/_gaos/interactions.py:59 timeout seconds; :429 timeout_ms; :495 retry config",
+  "medium": {
+    "source": "Systran/faster-whisper-medium via faster_whisper.utils.download_model",
+    "snapshot": "08e178d48790749d25932bbc082711ddcfdfbc4f",
+    "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\.course-tools\\models\\models--Systran--faster-whisper-medium\\snapshots\\08e178d48790749d25932bbc082711ddcfdfbc4f\\model.bin",
+    "resolved_path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\.course-tools\\models\\blobs\\4f\\4f4fbde9ef3dc7957f5a4474dd7399bf1d4f87ff951e6e4ce5c366d2ad91f427",
+    "bytes": 1527906378,
+    "sha256": "9B45E1009DCC4AB601EFF815B61D80E60CE3FD8C74C1A14F4A282258286B51AE"
+  },
+  "not_done": [
+    "master concat",
+    "normalização",
+    "ASR small",
+    "ASR medium",
+    "alinhamento",
+    "reel/story contiguos"
+  ],
+  "next_action": "Diagnosticar serviço Gemini TTS/rede antes de nova tentativa B02; não regenerar B01; não gerar reel/story separados."
+}

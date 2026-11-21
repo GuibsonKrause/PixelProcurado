@@ -1,0 +1,92 @@
+{
+  "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L01\\testes\\concat-teste-231624",
+  "import": {
+    "canRedo": false,
+    "canUndo": true,
+    "createdId": "m1",
+    "media": [
+      {
+        "height": 1080,
+        "id": "m1",
+        "kind": "image",
+        "name": "cartela_confirmado.png",
+        "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L01\\arte\\cartela_confirmado.png",
+        "width": 1920
+      }
+    ],
+    "project": {
+      "fps": 30.0,
+      "height": 1080,
+      "name": "concat-teste-231624",
+      "width": 1920
+    },
+    "timeline": {
+      "clips": [],
+      "duration": 0.0,
+      "id": "TL1",
+      "name": "Timeline 1",
+      "tracks": [
+        {
+          "id": "T1",
+          "index": 0
+        },
+        {
+          "id": "T2",
+          "index": 1
+        },
+        {
+          "id": "T3",
+          "index": 2
+        },
+        {
+          "id": "T4",
+          "index": 3
+        }
+      ]
+    }
+  },
+  "timeline": {
+    "canRedo": false,
+    "canUndo": true,
+    "media": [
+      {
+        "height": 1080,
+        "id": "m1",
+        "kind": "image",
+        "name": "cartela_confirmado.png",
+        "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\L01\\arte\\cartela_confirmado.png",
+        "width": 1920
+      }
+    ],
+    "project": {
+      "fps": 30.0,
+      "height": 1080,
+      "name": "concat-teste-231624",
+      "width": 1920
+    },
+    "timeline": {
+      "clips": [],
+      "duration": 0.0,
+      "id": "TL1",
+      "name": "Timeline 1",
+      "tracks": [
+        {
+          "id": "T1",
+          "index": 0
+        },
+        {
+          "id": "T2",
+          "index": 1
+        },
+        {
+          "id": "T3",
+          "index": 2
+        },
+        {
+          "id": "T4",
+          "index": 3
+        }
+      ]
+    }
+  }
+}

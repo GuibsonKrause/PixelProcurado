@@ -1,0 +1,20 @@
+{
+  "first_signal_above_minus44db_seconds": 0.0125625,
+  "last_signal_seconds": 75.29241666666667,
+  "script_sha256": "5207ba88a17bae342f4a7b0e6817a757811669409ea5c67b279e7d468e8aa1a9",
+  "canonical_script_sha256": "5207ba88a17bae342f4a7b0e6817a757811669409ea5c67b279e7d468e8aa1a9",
+  "gemini_model": "gemini-3.8-flash-tts",
+  "voice": "voice_iagtq1gnk2br",
+  "calls": 1,
+  "asr_material_omissions": false,
+  "asr_spoken_tags": false,
+  "minor_asr_ambiguities": [
+    "legenda/regenda 7.12s",
+    "da/na 14.86s",
+    "extra article a 45.86s",
+    "participar/participado 65.02s",
+    "mudar/montar 72.48s",
+    "Porque/Por que 74.84s"
+  ],
+  "listening_limit": "Technical measurement plus local ASR; no claim of integral subjective listening"
+}

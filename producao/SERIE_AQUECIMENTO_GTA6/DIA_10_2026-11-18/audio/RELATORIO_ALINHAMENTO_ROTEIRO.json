@@ -1,0 +1,467 @@
+{
+  "source": "roteiro_alinhado",
+  "script_unchanged": true,
+  "script_words": 1034,
+  "words": 1034,
+  "estimated_words": 38,
+  "conflict_count": 40,
+  "conflicts": [
+    {
+      "operation": "replace",
+      "reference": "o",
+      "asr": "um",
+      "start": 4.12,
+      "end": 4.3,
+      "source_token_range": [
+        13,
+        13
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "isso",
+      "asr": "esse",
+      "start": 16.64,
+      "end": 16.72,
+      "source_token_range": [
+        48,
+        48
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "ta",
+      "asr": "esta",
+      "start": 30.36,
+      "end": 30.52,
+      "source_token_range": [
+        84,
+        84
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "insert",
+      "reference": "",
+      "asr": "a",
+      "start": 44.62,
+      "human_review_required": true
+    },
+    {
+      "operation": "insert",
+      "reference": "",
+      "asr": "local",
+      "start": 53.0,
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "para",
+      "asr": "por",
+      "start": 69.52,
+      "end": 69.74,
+      "source_token_range": [
+        203,
+        203
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "delete",
+      "reference": "o",
+      "asr": "",
+      "start": 80.12,
+      "end": 80.13,
+      "source_token_range": [
+        236,
+        236
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "insert",
+      "reference": "",
+      "asr": "em",
+      "start": 86.82,
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "houver essa",
+      "asr": "houvesse",
+      "start": 87.86,
+      "end": 88.14,
+      "source_token_range": [
+        258,
+        259
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "pra",
+      "asr": "para",
+      "start": 101.28,
+      "end": 101.46,
+      "source_token_range": [
+        292,
+        292
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "certas",
+      "asr": "certa",
+      "start": 117.76,
+      "end": 117.92,
+      "source_token_range": [
+        331,
+        331
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "pra estas",
+      "asr": "para essas",
+      "start": 134.54,
+      "end": 135.0,
+      "source_token_range": [
+        366,
+        367
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "pra",
+      "asr": "para",
+      "start": 140.86,
+      "end": 141.08,
+      "source_token_range": [
+        385,
+        385
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "insert",
+      "reference": "",
+      "asr": "a",
+      "start": 141.46,
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "pra",
+      "asr": "para",
+      "start": 143.32,
+      "end": 143.74,
+      "source_token_range": [
+        394,
+        394
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "combine",
+      "asr": "combinem",
+      "start": 146.52,
+      "end": 146.66,
+      "source_token_range": [
+        398,
+        398
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "delete",
+      "reference": "a",
+      "asr": "",
+      "start": 153.46,
+      "end": 153.47,
+      "source_token_range": [
+        418,
+        418
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "greenwich",
+      "asr": "granite",
+      "start": 173.28,
+      "end": 173.7,
+      "source_token_range": [
+        473,
+        473
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "transforma",
+      "asr": "transforme",
+      "start": 181.56,
+      "end": 182.0,
+      "source_token_range": [
+        492,
+        492
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "insert",
+      "reference": "",
+      "asr": "o",
+      "start": 231.74,
+      "human_review_required": true
+    },
+    {
+      "operation": "insert",
+      "reference": "",
+      "asr": "o",
+      "start": 232.58,
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "pra",
+      "asr": "para",
+      "start": 238.12,
+      "end": 238.26,
+      "source_token_range": [
+        636,
+        636
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "imagens",
+      "asr": "margens",
+      "start": 242.06,
+      "end": 242.3,
+      "source_token_range": [
+        650,
+        650
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "recomendacao",
+      "asr": "recumeracao",
+      "start": 244.98,
+      "end": 245.36,
+      "source_token_range": [
+        659,
+        659
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "grotti",
+      "asr": "grotch",
+      "start": 249.78,
+      "end": 250.04,
+      "source_token_range": [
+        671,
+        671
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "lancha shitzu squalo",
+      "asr": "lan shaxi de suo esqualo",
+      "start": 252.6,
+      "end": 254.5,
+      "source_token_range": [
+        679,
+        681
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "stanier",
+      "asr": "stunyer",
+      "start": 277.4,
+      "end": 278.08,
+      "source_token_range": [
+        745,
+        745
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "numa arte nao",
+      "asr": "num action",
+      "start": 293.5,
+      "end": 294.02,
+      "source_token_range": [
+        786,
+        788
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "procure",
+      "asr": "procura",
+      "start": 307.7,
+      "end": 308.14,
+      "source_token_range": [
+        830,
+        830
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "envolverem",
+      "asr": "envolver e",
+      "start": 313.8,
+      "end": 314.24,
+      "source_token_range": [
+        844,
+        844
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "apertar",
+      "asr": "aperta",
+      "start": 319.08,
+      "end": 319.36,
+      "source_token_range": [
+        857,
+        857
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "insert",
+      "reference": "",
+      "asr": "e",
+      "start": 320.56,
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "ansiedade em",
+      "asr": "a sociedade de",
+      "start": 321.18,
+      "end": 321.74,
+      "source_token_range": [
+        865,
+        866
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "pra",
+      "asr": "para",
+      "start": 327.6,
+      "end": 327.92,
+      "source_token_range": [
+        882,
+        882
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "insert",
+      "reference": "",
+      "asr": "a",
+      "start": 330.16,
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "pra",
+      "asr": "para",
+      "start": 332.38,
+      "end": 332.6,
+      "source_token_range": [
+        896,
+        896
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "sem transformar",
+      "asr": "senta se para formar",
+      "start": 340.86,
+      "end": 341.44,
+      "source_token_range": [
+        922,
+        923
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "deixa",
+      "asr": "deixe",
+      "start": 343.8,
+      "end": 344.02,
+      "source_token_range": [
+        929,
+        929
+      ],
+      "human_review_required": true
+    },
+    {
+      "operation": "insert",
+      "reference": "",
+      "asr": "ir",
+      "start": 364.74,
+      "human_review_required": true
+    },
+    {
+      "operation": "replace",
+      "reference": "deixa",
+      "asr": "deixe",
+      "start": 383.3,
+      "end": 383.46,
+      "source_token_range": [
+        1026,
+        1026
+      ],
+      "human_review_required": true
+    }
+  ],
+  "human_listening": "NÃO OUVIDO POR HUMANO",
+  "preserved": [
+    "palavras_asr_small.json",
+    "palavras_asr_medium.json",
+    "palavras_alinhadas.json",
+    "master WAV all unchanged"
+  ],
+  "negation_evidence": {
+    "start": 293.88,
+    "end": 294.04,
+    "word": "não",
+    "probability": 0.3382
+  },
+  "target_medium_transcript": "Confira as condições que acompanham a sua versão e o seu comprovante. Ter um carro num action demonstra quando ele aparece na sua partida. Nem que ele seja mais rápido. O material promocional apresenta o conteúdo. O detalhe de acesso precisa bater com a documentação daquela edição. Se agu...",
+  "target_medium_completed": "2026-11-18T16:21:43.359153-03:00",
+  "generated": "2026-11-18T16:56:33.928707-03:00",
+  "human_review_points": [
+    45,
+    54,
+    59,
+    62
+  ]
+}

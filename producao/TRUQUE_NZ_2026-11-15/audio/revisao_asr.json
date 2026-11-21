@@ -1,0 +1,492 @@
+[
+ {
+  "tipo": "replace",
+  "start": 0.56,
+  "end": 1.06,
+  "asr": "VI",
+  "roteiro": "6"
+ },
+ {
+  "tipo": "replace",
+  "start": 1.68,
+  "end": 1.82,
+  "asr": "8",
+  "roteiro": "oito"
+ },
+ {
+  "tipo": "replace",
+  "start": 3.46,
+  "end": 3.94,
+  "asr": "quarta -feira,",
+  "roteiro": "quarta-feira,"
+ },
+ {
+  "tipo": "replace",
+  "start": 4.44,
+  "end": 6.0,
+  "asr": "18, 16",
+  "roteiro": "dezoito. Dezesseis"
+ },
+ {
+  "tipo": "replace",
+  "start": 6.78,
+  "end": 7.22,
+  "asr": "meia -noite",
+  "roteiro": "meia-noite"
+ },
+ {
+  "tipo": "replace",
+  "start": 10.14,
+  "end": 10.3,
+  "asr": "jogar",
+  "roteiro": "jogo é"
+ },
+ {
+  "tipo": "replace",
+  "start": 11.26,
+  "end": 12.06,
+  "asr": "ou dar load ao",
+  "roteiro": "o download é o"
+ },
+ {
+  "tipo": "insert",
+  "start": 13.32,
+  "end": 13.370000000000001,
+  "asr": "",
+  "roteiro": "é"
+ },
+ {
+  "tipo": "replace",
+  "start": 17.14,
+  "end": 17.52,
+  "asr": "Troque",
+  "roteiro": "truque"
+ },
+ {
+  "tipo": "replace",
+  "start": 33.42,
+  "end": 33.68,
+  "asr": "foga",
+  "roteiro": "folga"
+ },
+ {
+  "tipo": "replace",
+  "start": 37.28,
+  "end": 37.62,
+  "asr": "ventar",
+  "roteiro": "inventar"
+ },
+ {
+  "tipo": "replace",
+  "start": 43.88,
+  "end": 44.26,
+  "asr": "escolha",
+  "roteiro": "escolhe"
+ },
+ {
+  "tipo": "replace",
+  "start": 57.3,
+  "end": 57.84,
+  "asr": "meia -noite.",
+  "roteiro": "meia-noite."
+ },
+ {
+  "tipo": "replace",
+  "start": 58.94,
+  "end": 59.3,
+  "asr": "meia -noite",
+  "roteiro": "meia-noite"
+ },
+ {
+  "tipo": "replace",
+  "start": 63.12,
+  "end": 63.44,
+  "asr": "o que uma",
+  "roteiro": "queima"
+ },
+ {
+  "tipo": "replace",
+  "start": 64.06,
+  "end": 64.56,
+  "asr": "ano novo",
+  "roteiro": "Ano-Novo"
+ },
+ {
+  "tipo": "replace",
+  "start": 73.96,
+  "end": 74.28,
+  "asr": "escolhou.",
+  "roteiro": "escolheu."
+ },
+ {
+  "tipo": "replace",
+  "start": 77.12,
+  "end": 77.56,
+  "asr": "3",
+  "roteiro": "três"
+ },
+ {
+  "tipo": "replace",
+  "start": 79.52,
+  "end": 79.86,
+  "asr": "saia",
+  "roteiro": "sai"
+ },
+ {
+  "tipo": "replace",
+  "start": 79.96,
+  "end": 80.66,
+  "asr": "meia -noite no",
+  "roteiro": "meia-noite do"
+ },
+ {
+  "tipo": "replace",
+  "start": 81.74,
+  "end": 82.14,
+  "asr": "19,",
+  "roteiro": "dezenove,"
+ },
+ {
+  "tipo": "replace",
+  "start": 84.26,
+  "end": 84.5,
+  "asr": "Precision",
+  "roteiro": "PlayStation"
+ },
+ {
+  "tipo": "insert",
+  "start": 86.92,
+  "end": 86.97,
+  "asr": "",
+  "roteiro": "a"
+ },
+ {
+  "tipo": "replace",
+  "start": 91.22,
+  "end": 91.62,
+  "asr": "13",
+  "roteiro": "treze"
+ },
+ {
+  "tipo": "replace",
+  "start": 94.68,
+  "end": 95.08,
+  "asr": "3",
+  "roteiro": "três"
+ },
+ {
+  "tipo": "replace",
+  "start": 96.18,
+  "end": 96.56,
+  "asr": "13",
+  "roteiro": "Treze"
+ },
+ {
+  "tipo": "replace",
+  "start": 96.72,
+  "end": 97.84,
+  "asr": "3, 16.",
+  "roteiro": "três, dezesseis."
+ },
+ {
+  "tipo": "replace",
+  "start": 99.32,
+  "end": 100.0,
+  "asr": "meia -noite",
+  "roteiro": "meia-noite"
+ },
+ {
+  "tipo": "replace",
+  "start": 103.68,
+  "end": 104.14,
+  "asr": "8",
+  "roteiro": "oito"
+ },
+ {
+  "tipo": "replace",
+  "start": 107.16,
+  "end": 107.72,
+  "asr": "Neus Holandês",
+  "roteiro": "neozelandês"
+ },
+ {
+  "tipo": "replace",
+  "start": 114.22,
+  "end": 114.6,
+  "asr": "leia e meio.",
+  "roteiro": "lê e-mail."
+ },
+ {
+  "tipo": "replace",
+  "start": 121.52,
+  "end": 121.88,
+  "asr": "15",
+  "roteiro": "quinze"
+ },
+ {
+  "tipo": "insert",
+  "start": 130.62,
+  "end": 130.67000000000002,
+  "asr": "",
+  "roteiro": "é"
+ },
+ {
+  "tipo": "replace",
+  "start": 139.96,
+  "end": 140.46,
+  "asr": "corto.",
+  "roteiro": "curto."
+ },
+ {
+  "tipo": "replace",
+  "start": 144.74,
+  "end": 145.22,
+  "asr": "da parelha.",
+  "roteiro": "do aparelho."
+ },
+ {
+  "tipo": "replace",
+  "start": 166.18,
+  "end": 166.38,
+  "asr": "troco",
+  "roteiro": "truque"
+ },
+ {
+  "tipo": "replace",
+  "start": 171.68,
+  "end": 172.24,
+  "asr": "pré -carregamento",
+  "roteiro": "pré-carregamento"
+ },
+ {
+  "tipo": "replace",
+  "start": 173.56,
+  "end": 173.92,
+  "asr": "9,",
+  "roteiro": "nove,"
+ },
+ {
+  "tipo": "replace",
+  "start": 174.5,
+  "end": 174.68,
+  "asr": "9",
+  "roteiro": "nove"
+ },
+ {
+  "tipo": "replace",
+  "start": 219.26,
+  "end": 220.34,
+  "asr": "139",
+  "roteiro": "cento e trinta e nove"
+ },
+ {
+  "tipo": "replace",
+  "start": 222.32,
+  "end": 223.52,
+  "asr": "95 centaus.",
+  "roteiro": "noventa e cinco centavos."
+ },
+ {
+  "tipo": "replace",
+  "start": 224.84,
+  "end": 225.72,
+  "asr": "garantiva pré -venda",
+  "roteiro": "garantiu a pré-venda"
+ },
+ {
+  "tipo": "replace",
+  "start": 226.5,
+  "end": 228.0,
+  "asr": "449 ,90,",
+  "roteiro": "quatrocentos e quarenta e nove e noventa,"
+ },
+ {
+  "tipo": "replace",
+  "start": 231.18,
+  "end": 231.66,
+  "asr": "16",
+  "roteiro": "Dezesseis"
+ },
+ {
+  "tipo": "replace",
+  "start": 235.76,
+  "end": 236.1,
+  "asr": "9",
+  "roteiro": "nove"
+ },
+ {
+  "tipo": "replace",
+  "start": 251.78,
+  "end": 252.18,
+  "asr": "meia -noite",
+  "roteiro": "meia-noite"
+ },
+ {
+  "tipo": "replace",
+  "start": 271.28,
+  "end": 271.84,
+  "asr": "precedentes de",
+  "roteiro": "precedente"
+ },
+ {
+  "tipo": "replace",
+  "start": 294.26,
+  "end": 294.5,
+  "asr": "3",
+  "roteiro": "três"
+ },
+ {
+  "tipo": "replace",
+  "start": 307.8,
+  "end": 308.1,
+  "asr": "serviço",
+  "roteiro": "serviços"
+ },
+ {
+  "tipo": "delete",
+  "start": 310.18,
+  "end": 310.26,
+  "asr": "a",
+  "roteiro": ""
+ },
+ {
+  "tipo": "replace",
+  "start": 313.62,
+  "end": 313.82,
+  "asr": "encontra",
+  "roteiro": "encontrou"
+ },
+ {
+  "tipo": "replace",
+  "start": 316.76,
+  "end": 317.06,
+  "asr": "está",
+  "roteiro": "tá"
+ },
+ {
+  "tipo": "replace",
+  "start": 325.48,
+  "end": 325.96,
+  "asr": "Barrow Field,",
+  "roteiro": "ao Battlefield,"
+ },
+ {
+  "tipo": "replace",
+  "start": 328.86,
+  "end": 329.16,
+  "asr": "meia noite",
+  "roteiro": "meia-noite"
+ },
+ {
+  "tipo": "replace",
+  "start": 330.98,
+  "end": 332.02,
+  "asr": "Via bui",
+  "roteiro": "Vivo e"
+ },
+ {
+  "tipo": "delete",
+  "start": 334.08,
+  "end": 334.22,
+  "asr": "o",
+  "roteiro": ""
+ },
+ {
+  "tipo": "replace",
+  "start": 347.42,
+  "end": 347.52,
+  "asr": "2",
+  "roteiro": "dois"
+ },
+ {
+  "tipo": "replace",
+  "start": 348.98,
+  "end": 349.34,
+  "asr": "minha noite",
+  "roteiro": "meia-noite"
+ },
+ {
+  "tipo": "replace",
+  "start": 356.1,
+  "end": 356.24,
+  "asr": "uma",
+  "roteiro": "numa"
+ },
+ {
+  "tipo": "replace",
+  "start": 360.96,
+  "end": 361.42,
+  "asr": "16",
+  "roteiro": "dezesseis"
+ },
+ {
+  "tipo": "replace",
+  "start": 362.6,
+  "end": 363.06,
+  "asr": "16",
+  "roteiro": "Dezesseis"
+ },
+ {
+  "tipo": "replace",
+  "start": 364.3,
+  "end": 364.64,
+  "asr": "13",
+  "roteiro": "treze"
+ },
+ {
+  "tipo": "replace",
+  "start": 366.54,
+  "end": 366.86,
+  "asr": "13",
+  "roteiro": "treze"
+ },
+ {
+  "tipo": "replace",
+  "start": 370.22,
+  "end": 370.7,
+  "asr": "quarta -feira,",
+  "roteiro": "quarta-feira,"
+ },
+ {
+  "tipo": "replace",
+  "start": 370.86,
+  "end": 370.92,
+  "asr": "8",
+  "roteiro": "oito"
+ },
+ {
+  "tipo": "replace",
+  "start": 374.28,
+  "end": 374.64,
+  "asr": "Alclante,",
+  "roteiro": "Auckland,"
+ },
+ {
+  "tipo": "insert",
+  "start": 376.1,
+  "end": 376.15000000000003,
+  "asr": "",
+  "roteiro": "o"
+ },
+ {
+  "tipo": "replace",
+  "start": 382.6,
+  "end": 383.04,
+  "asr": "meia noite",
+  "roteiro": "a meia-noite"
+ },
+ {
+  "tipo": "replace",
+  "start": 387.1,
+  "end": 387.54,
+  "asr": "dia até às",
+  "roteiro": "GTA"
+ },
+ {
+  "tipo": "replace",
+  "start": 388.26,
+  "end": 388.38,
+  "asr": "8",
+  "roteiro": "oito"
+ }
+]

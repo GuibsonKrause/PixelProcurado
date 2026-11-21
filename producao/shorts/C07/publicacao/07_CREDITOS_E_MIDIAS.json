@@ -1,0 +1,166 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.233,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 2.233,
+    "end": 9.033,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 9.033,
+    "end": 12.667,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0,
+      0,
+      0.52,
+      1
+    ],
+    "highlight": null
+  },
+  {
+    "start": 12.667,
+    "end": 18.033,
+    "file": "producao/shorts/_acervo/GTA_V_Cheetah_2012.jpg",
+    "source": "https://www.rockstargames.com/newswire/article/89k8a5545o2k8k/transport.html",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 18.033,
+    "end": 20.5,
+    "file": "producao/shorts/_acervo/GTA_V_Cheetah_2012.jpg",
+    "source": "https://www.rockstargames.com/newswire/article/89k8a5545o2k8k/transport.html",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 20.5,
+    "end": 25.367,
+    "file": "producao/shorts/_acervo/GTA_V_Cheetah_2012.jpg",
+    "source": "https://www.rockstargames.com/newswire/article/89k8a5545o2k8k/transport.html",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 25.367,
+    "end": 32.1,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 32.1,
+    "end": 37.733,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0.48,
+      0,
+      0.52,
+      1
+    ],
+    "highlight": null
+  },
+  {
+    "start": 53.2,
+    "end": 56.2,
+    "file": "producao/shorts/_acervo/GTA_V_Cheetah_2012.jpg",
+    "source": "https://www.rockstargames.com/newswire/article/89k8a5545o2k8k/transport.html",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 56.2,
+    "end": 60.233,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 60.233,
+    "end": 62.267,
+    "file": "producao/shorts/_acervo/GTA_V_Cheetah_2012.jpg",
+    "source": "https://www.rockstargames.com/newswire/article/89k8a5545o2k8k/transport.html",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 62.267,
+    "end": 66.433,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 66.433,
+    "end": 70.167,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 70.167,
+    "end": 71.0,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  }
+]

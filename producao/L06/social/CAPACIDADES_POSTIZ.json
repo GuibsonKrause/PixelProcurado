@@ -1,0 +1,401 @@
+{
+  "checked_at": "2026-11-04T19:52:20.483024+00:00",
+  "enabled": {
+    "instagram": "cmvzyw7vj0003pddwkgtivv8i",
+    "facebook": "cmvzyur290001pddwolrt33em",
+    "youtube": "cmvsctfgl0001jncj932ovibv"
+  },
+  "schemas": {
+    "youtube": {
+      "output": {
+        "rules": "YouTube must have on video attachment, it cannot be empty",
+        "maxLength": 5000,
+        "settings": {
+          "properties": {
+            "title": {
+              "not": {
+                "type": "null"
+              },
+              "maxLength": 100,
+              "type": "string",
+              "minLength": 2
+            },
+            "type": {
+              "not": {
+                "type": "null"
+              },
+              "type": "string",
+              "enum": [
+                "public",
+                "private",
+                "unlisted"
+              ]
+            },
+            "selfDeclaredMadeForKids": {
+              "type": "string",
+              "enum": [
+                "yes",
+                "no"
+              ]
+            },
+            "thumbnail": {
+              "properties": {
+                "id": {
+                  "not": {
+                    "type": "null"
+                  },
+                  "type": "string"
+                },
+                "path": {
+                  "type": "string",
+                  "not": {
+                    "type": "null"
+                  }
+                },
+                "alt": {
+                  "type": "string"
+                },
+                "thumbnail": {
+                  "format": "url",
+                  "type": "string"
+                }
+              },
+              "type": "object",
+              "required": [
+                "id",
+                "path"
+              ]
+            },
+            "tags": {
+              "$ref": "#/definitions/Array",
+              "items": {
+                "properties": {
+                  "value": {
+                    "type": "string"
+                  },
+                  "label": {
+                    "type": "string"
+                  }
+                },
+                "type": "object",
+                "required": [
+                  "value",
+                  "label"
+                ]
+              },
+              "type": "array"
+            }
+          },
+          "type": "object",
+          "required": [
+            "title",
+            "type"
+          ]
+        },
+        "tools": []
+      }
+    },
+    "facebook": {
+      "output": {
+        "rules": "Facebook posts can be text only, or include photos or a video. If it's a story, it must have at least one attachment (photo or video), and each media is published as a separate story. Video posts (not stories) can carry an optional title.",
+        "maxLength": 63206,
+        "settings": {
+          "properties": {
+            "url": {
+              "format": "url",
+              "type": "string"
+            },
+            "post_type": {
+              "type": "string",
+              "enum": [
+                "post",
+                "story"
+              ]
+            },
+            "text_format_preset_id": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string",
+              "description": "Title of the video, used only for video (non-story) posts"
+            }
+          },
+          "type": "object"
+        },
+        "tools": []
+      }
+    },
+    "instagram": {
+      "output": {
+        "rules": "Instagram should have at least one attachment, if it's a story, it can have only one picture",
+        "maxLength": 2200,
+        "settings": {
+          "properties": {
+            "post_type": {
+              "not": {
+                "type": "null"
+              },
+              "type": "string",
+              "enum": [
+                "post",
+                "story"
+              ]
+            },
+            "is_trial_reel": {},
+            "graduation_strategy": {
+              "type": "string",
+              "enum": [
+                "MANUAL",
+                "SS_PERFORMANCE"
+              ]
+            },
+            "collaborators": {
+              "items": {
+                "properties": {
+                  "label": {
+                    "type": "string",
+                    "not": {
+                      "type": "null"
+                    }
+                  }
+                },
+                "type": "object",
+                "required": [
+                  "label"
+                ]
+              },
+              "type": "array"
+            },
+            "audio": {
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "not": {
+                    "type": "null"
+                  }
+                },
+                "title": {
+                  "type": "string"
+                },
+                "artist": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "audio_volume": {
+                  "maximum": 100,
+                  "type": "number",
+                  "minimum": 0
+                },
+                "video_volume": {
+                  "maximum": 100,
+                  "type": "number",
+                  "minimum": 0
+                }
+              },
+              "type": "object",
+              "required": [
+                "id"
+              ]
+            }
+          },
+          "type": "object",
+          "required": [
+            "post_type"
+          ]
+        },
+        "tools": [
+          {
+            "methodName": "audioSearch",
+            "description": "Search audio (music or original sounds) to attach to a Reel via the \"audio\" setting, an empty query returns trending audio",
+            "dataSchema": [
+              {
+                "key": "q",
+                "type": "string",
+                "description": "Search query, leave empty for trending audio"
+              },
+              {
+                "key": "type",
+                "type": "string",
+                "description": "Either \"music\" or \"original_sound\", defaults to \"music\""
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "remote_posts_checked": 90,
+  "potential_matches": [
+    {
+      "id": "cmw29m9ez000lmm97gcsyvj4h",
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv",
+        "providerIdentifier": "youtube",
+        "name": "Pixel Procurado",
+        "picture": "http://localhost:4007/uploads/2026/10/28/acd1e9e11a8f57fca6196bf9254dc10fc.jpg"
+      },
+      "state": "QUEUE",
+      "releaseURL": null,
+      "content": "Keys e Grassrivers mudam o que você consegue enxergar. Uma leitura visual sobre exposição e ocultação, sem presumir mecânicas do jogo.\n\nPrimeira parada: horizonte aberto das Keys ou margens de Grassrivers?\n\nPixel Procurado — detalhes, histórias e evidências dos jogos.\nAnálise editorial: interpretações e exemplos são identificados no vídeo.\n\nFontes e referências:\nLeonida Keys e Grassrivers: biblioteca oficial: https://www.rockstargames.com/VI/media\n\nImagens e trechos de divulgação: Rockstar Games. Edição, gráficos e análise: Pixel Procurado. Narração sintética produzida com Gemini TTS.\n\n#GTA6 #GTAVI #Shorts",
+      "settings": "{\"__type\":\"youtube\",\"title\":\"GTA 6: a mesma água, duas sensações de perigo\",\"type\":\"public\",\"selfDeclaredMadeForKids\":\"no\",\"tags\":[{\"value\":\"GTA 6\",\"label\":\"GTA 6\"},{\"value\":\"GTA VI\",\"label\":\"GTA VI\"},{\"value\":\"Grand Theft Auto VI\",\"label\":\"Grand Theft Auto VI\"},{\"value\":\"Leonida Keys\",\"label\":\"Leonida Keys\"},{\"value\":\"Grassrivers\",\"label\":\"Grassrivers\"},{\"value\":\"Pixel Procurado\",\"label\":\"Pixel Procurado\"},{\"value\":\"análise de jogos\",\"label\":\"análise de jogos\"}],\"thumbnail\":{\"id\":\"8d57bb5e-006a-47d3-95d8-438a3df1f9d6\",\"path\":\"https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/2b51059203f1acf3b43447c610b6f1d108d.jpg\"}}"
+    },
+    {
+      "id": "cmw29m9ee000jmm97rq0r3dze",
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i",
+        "providerIdentifier": "instagram",
+        "name": "Pixel Procurado",
+        "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/ba3ca7713da1063defe5d4ab2f1431681.jpg"
+      },
+      "state": "QUEUE",
+      "releaseURL": null,
+      "content": "Keys e Grassrivers mudam o que você consegue enxergar. Uma leitura visual sobre exposição e ocultação, sem presumir mecânicas do jogo.\n\nPrimeira parada: horizonte aberto das Keys ou margens de Grassrivers?\n\nPixel Procurado — detalhes, histórias e evidências dos jogos.\nAnálise editorial: interpretações e exemplos são identificados no vídeo.\n\nFontes e referências:\nLeonida Keys e Grassrivers: biblioteca oficial: https://www.rockstargames.com/VI/media\n\nImagens e trechos de divulgação: Rockstar Games. Edição, gráficos e análise: Pixel Procurado. Narração sintética produzida com Gemini TTS.\n\n#GTA6 #GTAVI #Shorts",
+      "settings": "{\"__type\":\"instagram\",\"post_type\":\"post\"}"
+    },
+    {
+      "id": "cmw29m9ep000kmm97eu3n68r5",
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em",
+        "providerIdentifier": "facebook",
+        "name": "Pixel Procurado",
+        "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/52cc48164ccf7b3adc3c21bda27153b6.jpg"
+      },
+      "state": "QUEUE",
+      "releaseURL": null,
+      "content": "Keys e Grassrivers mudam o que você consegue enxergar. Uma leitura visual sobre exposição e ocultação, sem presumir mecânicas do jogo.\n\nPrimeira parada: horizonte aberto das Keys ou margens de Grassrivers?\n\nPixel Procurado — detalhes, histórias e evidências dos jogos.\nAnálise editorial: interpretações e exemplos são identificados no vídeo.\n\nFontes e referências:\nLeonida Keys e Grassrivers: biblioteca oficial: https://www.rockstargames.com/VI/media\n\nImagens e trechos de divulgação: Rockstar Games. Edição, gráficos e análise: Pixel Procurado. Narração sintética produzida com Gemini TTS.\n\n#GTA6 #GTAVI #Shorts",
+      "settings": "{\"__type\":\"facebook\",\"post_type\":\"post\",\"title\":\"GTA 6: a mesma água, duas sensações de perigo\"}"
+    },
+    {
+      "id": "cmw29leu50000mm97dulc9vof",
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i",
+        "providerIdentifier": "instagram",
+        "name": "Pixel Procurado",
+        "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/ba3ca7713da1063defe5d4ab2f1431681.jpg"
+      },
+      "state": "QUEUE",
+      "releaseURL": null,
+      "content": "Um detalhe pequeno muda a lembrança de uma paisagem inteira. A iguana das Leonida Keys mostra como uma imagem ganha personalidade.\n\nQual detalhe pequeno faz um cenário de jogo ficar na sua memória?\n\nPixel Procurado — detalhes, histórias e evidências dos jogos.\nAnálise editorial: interpretações e exemplos são identificados no vídeo.\n\nFontes e referências:\nLeonida Keys: imagem 02 da biblioteca oficial: https://www.rockstargames.com/VI/media\n\nImagens e trechos de divulgação: Rockstar Games. Edição, gráficos e análise: Pixel Procurado. Narração sintética produzida com Gemini TTS.\n\n#GTA6 #GTAVI #Shorts",
+      "settings": "{\"__type\":\"instagram\",\"post_type\":\"post\"}"
+    },
+    {
+      "id": "cmw29lexa0001mm97jh9wzhw0",
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em",
+        "providerIdentifier": "facebook",
+        "name": "Pixel Procurado",
+        "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/52cc48164ccf7b3adc3c21bda27153b6.jpg"
+      },
+      "state": "QUEUE",
+      "releaseURL": null,
+      "content": "Um detalhe pequeno muda a lembrança de uma paisagem inteira. A iguana das Leonida Keys mostra como uma imagem ganha personalidade.\n\nQual detalhe pequeno faz um cenário de jogo ficar na sua memória?\n\nPixel Procurado — detalhes, histórias e evidências dos jogos.\nAnálise editorial: interpretações e exemplos são identificados no vídeo.\n\nFontes e referências:\nLeonida Keys: imagem 02 da biblioteca oficial: https://www.rockstargames.com/VI/media\n\nImagens e trechos de divulgação: Rockstar Games. Edição, gráficos e análise: Pixel Procurado. Narração sintética produzida com Gemini TTS.\n\n#GTA6 #GTAVI #Shorts",
+      "settings": "{\"__type\":\"facebook\",\"post_type\":\"post\",\"title\":\"A dona da rua em GTA 6 é uma iguana\"}"
+    },
+    {
+      "id": "cmw29ley20002mm97mdc6od5h",
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv",
+        "providerIdentifier": "youtube",
+        "name": "Pixel Procurado",
+        "picture": "http://localhost:4007/uploads/2026/10/28/acd1e9e11a8f57fca6196bf9254dc10fc.jpg"
+      },
+      "state": "QUEUE",
+      "releaseURL": null,
+      "content": "Um detalhe pequeno muda a lembrança de uma paisagem inteira. A iguana das Leonida Keys mostra como uma imagem ganha personalidade.\n\nQual detalhe pequeno faz um cenário de jogo ficar na sua memória?\n\nPixel Procurado — detalhes, histórias e evidências dos jogos.\nAnálise editorial: interpretações e exemplos são identificados no vídeo.\n\nFontes e referências:\nLeonida Keys: imagem 02 da biblioteca oficial: https://www.rockstargames.com/VI/media\n\nImagens e trechos de divulgação: Rockstar Games. Edição, gráficos e análise: Pixel Procurado. Narração sintética produzida com Gemini TTS.\n\n#GTA6 #GTAVI #Shorts",
+      "settings": "{\"__type\":\"youtube\",\"title\":\"A dona da rua em GTA 6 é uma iguana\",\"type\":\"public\",\"selfDeclaredMadeForKids\":\"no\",\"tags\":[{\"value\":\"GTA 6\",\"label\":\"GTA 6\"},{\"value\":\"GTA VI\",\"label\":\"GTA VI\"},{\"value\":\"Grand Theft Auto VI\",\"label\":\"Grand Theft Auto VI\"},{\"value\":\"iguana GTA 6\",\"label\":\"iguana GTA 6\"},{\"value\":\"Leonida Keys\",\"label\":\"Leonida Keys\"},{\"value\":\"Pixel Procurado\",\"label\":\"Pixel Procurado\"},{\"value\":\"análise de jogos\",\"label\":\"análise de jogos\"}],\"thumbnail\":{\"id\":\"ff19ab5f-0ee6-4a52-8eea-878d6d2603a6\",\"path\":\"https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/17273ea8dfc90e91fa59c75d2cc3210b7.jpg\"}}"
+    },
+    {
+      "id": "cmw29lgfp0003mm97616datf2",
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i",
+        "providerIdentifier": "instagram",
+        "name": "Pixel Procurado",
+        "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/ba3ca7713da1063defe5d4ab2f1431681.jpg"
+      },
+      "state": "QUEUE",
+      "releaseURL": null,
+      "content": "A dona da rua em GTA 6 é uma iguana",
+      "settings": "{\"__type\":\"instagram\",\"post_type\":\"story\"}"
+    },
+    {
+      "id": "cmw29lggg0004mm97m3zw3bpj",
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em",
+        "providerIdentifier": "facebook",
+        "name": "Pixel Procurado",
+        "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/52cc48164ccf7b3adc3c21bda27153b6.jpg"
+      },
+      "state": "QUEUE",
+      "releaseURL": null,
+      "content": "A dona da rua em GTA 6 é uma iguana",
+      "settings": "{\"__type\":\"facebook\",\"post_type\":\"story\"}"
+    },
+    {
+      "id": "cmw2fuf2m001umm97tnugi4qi",
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em",
+        "providerIdentifier": "facebook",
+        "name": "Pixel Procurado",
+        "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/52cc48164ccf7b3adc3c21bda27153b6.jpg"
+      },
+      "state": "PUBLISHED",
+      "releaseURL": "https://www.facebook.com/stories/1292015400069235",
+      "content": "Do horizonte ao pântano | Pixel Procurado L06",
+      "settings": "{\"__type\":\"facebook\",\"post_type\":\"story\"}"
+    },
+    {
+      "id": "cmw2fubd8001tmm970ax3intj",
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em",
+        "providerIdentifier": "facebook",
+        "name": "Pixel Procurado",
+        "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/52cc48164ccf7b3adc3c21bda27153b6.jpg"
+      },
+      "state": "PUBLISHED",
+      "releaseURL": "https://www.facebook.com/reel/1865357834818846",
+      "content": "Leonida muda de clima sem mudar de estado. Nas Keys, o olhar vai até o horizonte. Em Grassrivers, a vegetação esconde o que vem depois. A Rockstar usa a paisagem para criar sensações diferentes em cada região. Qual seria a sua primeira parada?\n\nAnálise visual de material promocional de GTA VI. Imagens: Rockstar Games. Fonte: https://www.rockstargames.com/VI/media\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+      "settings": "{\"__type\":\"facebook\",\"post_type\":\"post\",\"title\":\"GTA 6 além de Vice City: seis lugares, seis climas\"}"
+    },
+    {
+      "id": "cmw2ftt0o001rmm97jqf01hw2",
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv",
+        "providerIdentifier": "youtube",
+        "name": "Pixel Procurado",
+        "picture": "http://localhost:4007/uploads/2026/10/28/acd1e9e11a8f57fca6196bf9254dc10fc.jpg"
+      },
+      "state": "PUBLISHED",
+      "releaseURL": "https://www.youtube.com/watch?v=f6QmeXdLFPE",
+      "content": "Nas Keys, o olhar vai até o horizonte. Em Grassrivers, a mata esconde o que vem depois da curva.\nAs imagens oficiais de GTA 6 mostram seis lugares de Leonida com climas bem diferentes.\n\nDa iguana na rua ao caiaque sob a ponte, a gente compara como luz, vegetação, arquitetura e pessoas mudam a sensação de cada lugar. É uma leitura do material divulgado pela Rockstar, com observações sobre as imagens e a atmosfera que elas passam.\n\nSe você pudesse escolher a primeira parada em Leonida, onde iria? Conta também qual detalhe te fez escolher.\n\nCAPÍTULOS\n00:00 O contraste de Leonida\n00:35 Leonida Keys e a iguana\n01:27 Grassrivers entre água e mata\n02:11 Vice City do neon ao viaduto\n02:53 Port Gellhorn e o Starlet Motel\n03:31 Ambrosia, indústria e lama\n04:05 Mount Kalaga, estrada e rio\n04:39 Seis lugares, seis climas\n\nFONTES\nRockstar Games — GTA VI e vídeos oficiais: https://www.rockstargames.com/VI\nRockstar Games — galeria oficial de capturas: https://www.rockstargames.com/VI/media/screenshots\nRockstar Games — Only in Leonida: https://www.rockstargames.com/VI/only-in-leonida\n\nCréditos: imagens e vídeos de GTA VI por Rockstar Games. Análise, edição e gráficos por Pixel Procurado. Narração sintetizada com Gemini TTS e voz personalizada. Capa ilustrativa gerada com IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+      "settings": "{\"__type\":\"youtube\",\"title\":\"GTA 6 além de Vice City: seis lugares, seis climas\",\"type\":\"public\",\"selfDeclaredMadeForKids\":\"no\",\"tags\":[{\"value\":\"GTA 6\",\"label\":\"GTA 6\"},{\"value\":\"GTA VI\",\"label\":\"GTA VI\"},{\"value\":\"GTAVI\",\"label\":\"GTAVI\"},{\"value\":\"Leonida\",\"label\":\"Leonida\"},{\"value\":\"Leonida Keys\",\"label\":\"Leonida Keys\"},{\"value\":\"Grassrivers\",\"label\":\"Grassrivers\"},{\"value\":\"Grass Rivers\",\"label\":\"Grass Rivers\"},{\"value\":\"Vice City\",\"label\":\"Vice City\"},{\"value\":\"Port Gellhorn\",\"label\":\"Port Gellhorn\"},{\"value\":\"Ambrosia\",\"label\":\"Ambrosia\"},{\"value\":\"Mount Kalaga\",\"label\":\"Mount Kalaga\"},{\"value\":\"Rockstar Games\",\"label\":\"Rockstar Games\"},{\"value\":\"Pixel Procurado\",\"label\":\"Pixel Procurado\"}],\"thumbnail\":{\"id\":\"74ceba43-df45-425d-825d-91ecf9db3b16\",\"name\":\"810eb94b7d371fa42e4a6c64a6f1df64b.jpg\",\"originalName\":null,\"path\":\"https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/810eb94b7d371fa42e4a6c64a6f1df64b.jpg\",\"thumbnail\":null,\"alt\":null,\"status\":\"ready\"}}"
+    },
+    {
+      "id": "cmw2fuv5k001xmm97duwyvlnz",
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i",
+        "providerIdentifier": "instagram",
+        "name": "Pixel Procurado",
+        "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/ba3ca7713da1063defe5d4ab2f1431681.jpg"
+      },
+      "state": "PUBLISHED",
+      "releaseURL": "https://www.instagram.com/stories/pixelprocurado/4023144753563177396",
+      "content": "Do horizonte ao pântano | Pixel Procurado L06",
+      "settings": "{\"__type\":\"instagram\",\"post_type\":\"story\"}"
+    },
+    {
+      "id": "cmw2iovgy001zmm97d0u771lm",
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i",
+        "providerIdentifier": "instagram",
+        "name": "Pixel Procurado",
+        "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/ba3ca7713da1063defe5d4ab2f1431681.jpg"
+      },
+      "state": "ERROR",
+      "releaseURL": null,
+      "content": "Episódio completo | Leonida além de Vice City.\n\nDo mar aberto das Keys ao pântano de Grassrivers, passando pelas luzes de Vice City e Port Gellhorn, pela indústria de Ambrosia e pelas montanhas de Kalaga. O que muda no seu olhar a cada paisagem?\n\nAnálise visual das imagens promocionais de GTA VI. Imagens: Rockstar Games. Narração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+      "settings": "{\"__type\":\"instagram\",\"post_type\":\"post\"}"
+    }
+  ]
+}

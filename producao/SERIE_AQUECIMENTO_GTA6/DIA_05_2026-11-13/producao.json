@@ -1,0 +1,125 @@
+{
+  "schema_versao": 1,
+  "id": "DIA05",
+  "formato": "longo_e_short",
+  "roteiro_origem": {
+    "longo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/01_NARRACAO.txt",
+    "short": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/01_NARRACAO.txt"
+  },
+  "etapa_atual": "thumbnail",
+  "status": "em_andamento",
+  "data_criacao": "2026-11-12T10:46:43-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "wav": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/audio/narracao_normalizada.wav"
+      },
+      "medicoes": {
+        "duracao_s": 370.36,
+        "lufs": -16.7
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "atualizado_em": "2026-11-12T11:57:47-03:00"
+    },
+    "alinhamento": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "palavras": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/audio/palavras_alinhadas.json"
+      },
+      "medicoes": {
+        "palavras": 1135
+      },
+      "atualizado_em": "2026-11-12T11:57:49-03:00"
+    },
+    "montagem": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "episodio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/episodio.json"
+      },
+      "medicoes": {
+        "planos": 109,
+        "duracao_s": 370.59
+      },
+      "atualizado_em": "2026-11-12T20:16:03-03:00"
+    },
+    "render": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "longo": "exportacoes/Pixel_Procurado_DIA05_Longo_V2.mp4"
+      },
+      "atualizado_em": "2026-11-12T20:15:51-03:00"
+    },
+    "thumbnail": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "publicacao_pacote": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "pacote": "publicacao/PACOTE.md"
+      },
+      "atualizado_em": "2026-11-12T20:15:52-03:00"
+    },
+    "distribuicao": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "estado": "publicacao/POSTIZ_ESTADO.json"
+      },
+      "atualizado_em": "2026-11-12T20:15:53-03:00"
+    },
+    "revisao_final": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    }
+  },
+  "atualizado_em": "2026-11-12T20:16:03-03:00"
+}

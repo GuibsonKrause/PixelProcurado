@@ -1,0 +1,96 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-19T00:44:19.110744+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "GTA 6 é amanhã. No Dia 10, confira horários, pré-carregamento, bônus da sua edição e cuidados para reduzir a exposição a spoilers.\nA meia-noite local não chega ao mesmo tempo no planeta inteiro.\n\nNota: este episódio foi preparado para sair às 18h de 18/11 (São Paulo/Brasília) e foi publicado mais tarde, na noite de 18/11. Quando o vídeo fala em 18h e em \"faltam seis horas\", ele usa esse horário de referência; o horário atual já é mais próximo da meia-noite local.\n\nPela programação oficial, 19/11 às 00h em Auckland corresponde a 18/11 às 08h em São Paulo/Brasília: 16 horas de diferença. É uma conta do calendário, não comprovação de jogadores online ou de servidor funcionando. Não é tutorial de troca de região.\n\nTambém separamos o pré-carregamento da liberação e o Vintage Vice City Pack dos extras próprios da Ultimate. Os controles de recomendação e palavras silenciadas ajudam a reduzir a exposição; não garantem proteção completa. Sem relatos de gameplay que não verificamos e sem recomendação de compra.\n\nVocê pretende entrar na virada ou começar depois, com calma? Responda sem revelar nada do jogo.\n\nCapítulos:\n0:00 A meia-noite não chega junto\n0:32 Horário oficial de lançamento\n0:48 Auckland e a diferença de fuso\n1:06 O horário de referência do vídeo\n1:21 Proteja suas redes\n2:05 YouTube e recomendações\n2:44 Pré-carregamento e console\n3:46 Edição e comprovante\n4:07 Extras da Ultimate e Vintage Vice City Pack\n5:04 Se algo não abrir no horário\n5:25 Primeiras opções e checklist\n6:06 Amanhã: Dia 11\n\nFontes oficiais — consulta em 18/11/2026:\nRockstar, horários regionais: https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s\nRockstar, edições e versões: https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions\nGoverno NZ, horário de verão: https://www.govt.nz/browse/recreation-and-the-environment/daylight-saving/\nGoverno NZ, fusos: https://www.govt.nz/browse/recreation-and-the-environment/daylight-saving/governing-legislation/\nObservatório Nacional, Hora Legal Brasileira: https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/tempo-e-frequencia/brasil\nX, palavras silenciadas: https://help.x.com/en/using-x/advanced-x-mute-options\nYouTube, recomendações: https://support.google.com/youtube/answer/6342839?hl=pt-BR\n\nImagens e vídeos oficiais do jogo: Rockstar Games. Gráficos e montagem editorial: Pixel Procurado. A narração deste vídeo foi gerada por voz sintética. Créditos não representam garantia de licença ou ausência de reivindicações.\n\nAmanhã, Dia 11: guia do primeiro dia, sem spoilers e com orientação baseada no que for verificado.\n\n#GTA6 #GTAVI #PixelProcurado\n",
+          "image": [
+            {
+              "id": "6ce00ce9-f9b5-4c4d-a850-766b9826fb9a",
+              "name": "a7d4697e2451b7178567fdc22dfb626e.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/19/a7d4697e2451b7178567fdc22dfb626e.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "Tudo pronto para GTA 6? Confira antes da meia-noite",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "GTA 6 lançamento",
+            "label": "GTA 6 lançamento"
+          },
+          {
+            "value": "GTA 6 horários",
+            "label": "GTA 6 horários"
+          },
+          {
+            "value": "GTA 6 pré-carregamento",
+            "label": "GTA 6 pré-carregamento"
+          },
+          {
+            "value": "GTA 6 sem spoilers",
+            "label": "GTA 6 sem spoilers"
+          },
+          {
+            "value": "GTA 6 Ultimate",
+            "label": "GTA 6 Ultimate"
+          },
+          {
+            "value": "Vintage Vice City Pack",
+            "label": "Vintage Vice City Pack"
+          },
+          {
+            "value": "GTA 6 Nova Zelândia",
+            "label": "GTA 6 Nova Zelândia"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          },
+          {
+            "value": "19 de novembro",
+            "label": "19 de novembro"
+          }
+        ],
+        "thumbnail": {
+          "id": "9258efac-961d-47a8-86bc-2648cc6b485b",
+          "name": "da0a5ca5bef4d84ea2a847f38b6413ce.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/19/da0a5ca5bef4d84ea2a847f38b6413ce.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

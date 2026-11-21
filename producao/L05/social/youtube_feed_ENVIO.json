@@ -1,0 +1,92 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-03T12:00:00-03:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "O carro distrai. Mas a rua também conta a história.\nSeis fotos oficiais de GTA V e GTA VI, três pares e um cuidado: olhar além do veículo.\n\nComparamos o ciclista e as situações da praia; o Cheetah e o encontro de carros; o jato e o helicóptero sobre a cidade. A análise é de composição e contexto nas imagens de divulgação. Este conjunto não é um benchmark de gráficos, densidade de pessoas ou tamanho de mapa.\n\nQual lugar faria você esquecer a missão: praia, encontro de carros ou orla vista do alto?\n\nCAPÍTULOS\n00:00 O carro distrai: olhe a rua\n00:25 Praia: uma ação ou pequenas situações?\n02:06 Carros: máquina, gente e bairro\n03:34 Vista aérea: aeronave ou cidade?\n04:35 Por que isso não é um benchmark\n04:53 O caminho do olhar\n\nFONTES E RECORTE\nRockstar Games — Transport (20/08/2012): https://www.rockstargames.com/newswire/article/89k8a5545o2k8k/transport.html\nCiclista: https://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1345416814.jpg\nCheetah: https://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1345416829.jpg\nJato: https://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1345416846.jpg\nGTA VI — biblioteca oficial: https://www.rockstargames.com/VI/media\nScreenshots Vice City 05, 09 e 11.\n\nReferência editorial: 03/11/2026. A galeria Transport foi acessada, mas não forneceu texto extraível nesta consulta; os três JPGs oficiais foram baixados e inspecionados. As fontes históricas de GTA V têm 640×360 e aparecem em painéis identificados; não houve ampliação por IA para inventar detalhe. Não representam um teste da versão atual de GTA V.\n\nCRÉDITOS\nImagens e jogos: Rockstar Games. Análise, edição e gráficos: Pixel Procurado. Narração produzida com Gemini TTS e voz personalizada. Capa: montagem editorial criada com IA, não uma captura oficial ou gameplay. Movimento das fotografias em 2D; sem alegação de parallax.\n\n#GTAV #GTAVI #GTA6 #PixelProcurado",
+          "image": [
+            {
+              "id": "84c7f324-ea2f-4acd-be69-fb2715c6bdd3",
+              "name": "88f4a678ce235fbe1f4fe9d47039aff0.mp4",
+              "originalName": null,
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/88f4a678ce235fbe1f4fe9d47039aff0.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA V e GTA VI: três diferenças que estas imagens revelam",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA V",
+            "label": "GTA V"
+          },
+          {
+            "value": "GTA 5",
+            "label": "GTA 5"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTAVI",
+            "label": "GTAVI"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "screenshots GTA 6",
+            "label": "screenshots GTA 6"
+          },
+          {
+            "value": "comparação GTA V GTA VI",
+            "label": "comparação GTA V GTA VI"
+          },
+          {
+            "value": "Cheetah GTA",
+            "label": "Cheetah GTA"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "1edbc048-2aae-462f-a0be-f312bf72c547",
+          "name": "9f1c5510c52bd710d86ed81d9c29c104e3.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/9f1c5510c52bd710d86ed81d9c29c104e3.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

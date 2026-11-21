@@ -1,0 +1,1184 @@
+{
+  "id": "TRUQUE_NZ_2026_11_15_VERTICAL",
+  "gsap": "producao/L08/montagem/hyperframes_long/gsap.min.js",
+  "titulo": "GTA 6 às 8h da Manhã: o Truque da Nova Zelândia Funciona?",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "T2": "GTAVI_Trailer_2.mp4",
+    "LT": "GTAVI_Launch_Trailer.mp4"
+  },
+  "rotulos_obrigatorios": {},
+  "correcoes_legenda": {},
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_Truque_NZ_Vertical_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "limite_mb": 285,
+      "voz": "producao/TRUQUE_NZ_2026-11-15/audio/narracao_normalizada.wav",
+      "alinhamento": "producao/TRUQUE_NZ_2026-11-15/audio/palavras_alinhadas.json",
+      "planos": [
+        {
+          "titulo": "08:00 · QUARTA, 18/11",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1569.95,
+          "tipo": "tag",
+          "corte": [
+            0.0,
+            2.64
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 510,
+          "tipo": "tag",
+          "corte": [
+            2.64,
+            5.22
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 512.98,
+          "tipo": "tag",
+          "corte": [
+            5.22,
+            9.62
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 517.78,
+          "tipo": "tag",
+          "corte": [
+            9.62,
+            12.82
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 480,
+          "tipo": "tag",
+          "corte": [
+            12.82,
+            16.28
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 483.86,
+          "tipo": "tag",
+          "corte": [
+            16.28,
+            18.92
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "XBOX · 3 CLIQUES, R$ 0",
+          "detalhe": "PS5 · conta nova + jogo de novo",
+          "midia": "EXT",
+          "inicio": 486.9,
+          "tipo": "editorial",
+          "corte": [
+            18.92,
+            23.2
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 491.58,
+          "tipo": "tag",
+          "corte": [
+            23.2,
+            28.12
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 540,
+          "tipo": "tag",
+          "corte": [
+            28.12,
+            32.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 544.48,
+          "tipo": "tag",
+          "corte": [
+            32.2,
+            36.42
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 549.1,
+          "tipo": "tag",
+          "corte": [
+            36.42,
+            40.52
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 750,
+          "tipo": "tag",
+          "corte": [
+            40.52,
+            42.68
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "HORÁRIO GLOBAL ÚNICO",
+          "detalhe": "ex.: Battlefield 6",
+          "midia": "EXT",
+          "inicio": 752.56,
+          "tipo": "editorial",
+          "corte": [
+            42.68,
+            48.54
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 758.82,
+          "tipo": "tag",
+          "corte": [
+            48.54,
+            53.34
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 764.02,
+          "tipo": "tag",
+          "corte": [
+            53.34,
+            58.32
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "MEIA-NOITE ROLANTE",
+          "detalhe": "cada país no seu relógio",
+          "midia": "EXT",
+          "inicio": 553.6,
+          "tipo": "editorial",
+          "corte": [
+            58.32,
+            65.12
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 560.8,
+          "tipo": "tag",
+          "corte": [
+            65.12,
+            69.0
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 565.08,
+          "tipo": "tag",
+          "corte": [
+            69.0,
+            73.02
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1002,
+          "tipo": "tag",
+          "corte": [
+            73.02,
+            74.98
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "ROCKSTAR SUPPORT",
+          "detalhe": "atualizado em 03/11 · meia-noite local",
+          "midia": "EXT",
+          "inicio": 1004.36,
+          "tipo": "editorial",
+          "corte": [
+            74.98,
+            81.2
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1596,
+          "tipo": "tag",
+          "corte": [
+            81.2,
+            86.72
+          ],
+          "sem_card": true,
+          "legenda_alta": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 574,
+          "tipo": "tag",
+          "corte": [
+            86.72,
+            91.0
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "NZ · UTC+13",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 578.68,
+          "tipo": "tag",
+          "corte": [
+            91.0,
+            93.88
+          ]
+        },
+        {
+          "titulo": "BRASÍLIA · UTC−3",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 581.96,
+          "tipo": "tag",
+          "corte": [
+            93.88,
+            96.18
+          ]
+        },
+        {
+          "titulo": "16 HORAS",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 584.66,
+          "tipo": "data",
+          "corte": [
+            96.18,
+            98.84
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 587.72,
+          "tipo": "tag",
+          "corte": [
+            98.84,
+            101.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 591.18,
+          "tipo": "tag",
+          "corte": [
+            101.9,
+            105.16
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 640,
+          "tipo": "tag",
+          "corte": [
+            105.16,
+            108.7
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 643.94,
+          "tipo": "tag",
+          "corte": [
+            108.7,
+            111.7
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 647.34,
+          "tipo": "tag",
+          "corte": [
+            111.7,
+            116.58
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 652.62,
+          "tipo": "tag",
+          "corte": [
+            116.58,
+            121.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "JUN 15 H · NOV 16 H",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 657.64,
+          "tipo": "data",
+          "corte": [
+            121.2,
+            127.24
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1026,
+          "tipo": "tag",
+          "corte": [
+            127.24,
+            130.08
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1029.24,
+          "tipo": "tag",
+          "corte": [
+            130.08,
+            133.42
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1032.98,
+          "tipo": "tag",
+          "corte": [
+            133.42,
+            137.94
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1146,
+          "tipo": "tag",
+          "corte": [
+            137.94,
+            140.88
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1149.34,
+          "tipo": "tag",
+          "corte": [
+            140.88,
+            145.94
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "ILUSTRAÇÃO · CONFIGURAÇÕES",
+          "detalhe": "Sistema › Idioma e localização › Nova Zelândia",
+          "midia": "EXT",
+          "inicio": 1154.8,
+          "tipo": "editorial",
+          "corte": [
+            145.94,
+            152.44
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1182,
+          "tipo": "tag",
+          "corte": [
+            152.44,
+            156.16
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1186.12,
+          "tipo": "tag",
+          "corte": [
+            156.16,
+            159.3
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1189.66,
+          "tipo": "tag",
+          "corte": [
+            159.3,
+            162.34
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 792,
+          "tipo": "tag",
+          "corte": [
+            162.34,
+            166.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 796.26,
+          "tipo": "tag",
+          "corte": [
+            166.2,
+            169.22
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 799.68,
+          "tipo": "tag",
+          "corte": [
+            169.22,
+            171.54
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "PRÉ-CARREGAMENTO XBOX",
+          "detalhe": "09/11 · 21h de Brasília",
+          "midia": "EXT",
+          "inicio": 802.4,
+          "tipo": "editorial",
+          "corte": [
+            171.54,
+            177.82
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 390,
+          "tipo": "tag",
+          "corte": [
+            177.82,
+            180.44
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 393.02,
+          "tipo": "tag",
+          "corte": [
+            180.44,
+            184.62
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "PSN: PAÍS FIXADO",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 397.6,
+          "tipo": "tag",
+          "corte": [
+            184.62,
+            190.22
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 403.6,
+          "tipo": "tag",
+          "corte": [
+            190.22,
+            194.8
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 430,
+          "tipo": "tag",
+          "corte": [
+            194.8,
+            197.8
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 433.4,
+          "tipo": "tag",
+          "corte": [
+            197.8,
+            203.54
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 439.54,
+          "tipo": "tag",
+          "corte": [
+            203.54,
+            206.18
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "1 · CONTA NZ NOVA",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 442.58,
+          "tipo": "tag",
+          "corte": [
+            206.18,
+            208.5
+          ]
+        },
+        {
+          "titulo": "2 · GIFT CARD EM NZD",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 840,
+          "tipo": "tag",
+          "corte": [
+            208.5,
+            213.2
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 845.1,
+          "tipo": "tag",
+          "corte": [
+            213.2,
+            215.14
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 847.44,
+          "tipo": "tag",
+          "corte": [
+            215.14,
+            219.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "3 · NZ$ 139,95",
+          "detalhe": "preço relatado por sites da loja neozelandesa",
+          "midia": "EXT",
+          "inicio": 851.9,
+          "tipo": "editorial",
+          "corte": [
+            219.2,
+            224.12
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 857.22,
+          "tipo": "tag",
+          "corte": [
+            224.12,
+            227.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 978,
+          "tipo": "tag",
+          "corte": [
+            227.2,
+            231.18
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 982.38,
+          "tipo": "tag",
+          "corte": [
+            231.18,
+            234.74
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 986.34,
+          "tipo": "tag",
+          "corte": [
+            234.74,
+            239.62
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "PLACAR",
+          "detalhe": "Xbox: 3 cliques · PS5: 2 jogos",
+          "midia": "EXT",
+          "inicio": 1010.98,
+          "tipo": "editorial",
+          "corte": [
+            239.62,
+            244.32
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1016.08,
+          "tipo": "tag",
+          "corte": [
+            244.32,
+            247.74
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "NÃO CONFIRMADO",
+          "detalhe": "Console ou loja?",
+          "midia": "EXT",
+          "inicio": 1300,
+          "tipo": "editorial",
+          "corte": [
+            247.74,
+            252.98
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1305.64,
+          "tipo": "tag",
+          "corte": [
+            252.98,
+            257.5
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1372,
+          "tipo": "tag",
+          "corte": [
+            257.5,
+            262.18
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1377.08,
+          "tipo": "tag",
+          "corte": [
+            262.18,
+            266.5
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1381.8,
+          "tipo": "tag",
+          "corte": [
+            266.5,
+            270.66
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1080,
+          "tipo": "tag",
+          "corte": [
+            270.66,
+            272.96
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "DEAD ISLAND 2",
+          "detalhe": "relatos de atraso na liberação",
+          "midia": "EXT",
+          "inicio": 1082.7,
+          "tipo": "editorial",
+          "corte": [
+            272.96,
+            277.5
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1087.64,
+          "tipo": "tag",
+          "corte": [
+            277.5,
+            282.22
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1092.76,
+          "tipo": "tag",
+          "corte": [
+            282.22,
+            285.02
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1161.7,
+          "tipo": "tag",
+          "corte": [
+            285.02,
+            287.88
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "MICROSOFT",
+          "detalhe": "troca recente pode bloquear a volta",
+          "midia": "EXT",
+          "inicio": 1164.96,
+          "tipo": "editorial",
+          "corte": [
+            287.88,
+            292.0
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1169.48,
+          "tipo": "tag",
+          "corte": [
+            292.0,
+            295.62
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1193.1,
+          "tipo": "tag",
+          "corte": [
+            295.62,
+            300.16
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1198.04,
+          "tipo": "tag",
+          "corte": [
+            300.16,
+            304.92
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "LT",
+          "inicio": 60,
+          "tipo": "tag",
+          "corte": [
+            304.92,
+            307.34
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "LT",
+          "inicio": 67.2,
+          "tipo": "tag",
+          "corte": [
+            307.34,
+            313.04
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "TERMOS",
+          "detalhe": "sem caso de banimento encontrado",
+          "midia": "LT",
+          "inicio": 30,
+          "tipo": "editorial",
+          "corte": [
+            313.04,
+            319.2
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 20,
+          "tipo": "tag",
+          "corte": [
+            319.2,
+            322.62
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 23.82,
+          "tipo": "tag",
+          "corte": [
+            322.62,
+            328.22
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 29.82,
+          "tipo": "tag",
+          "corte": [
+            328.22,
+            331.0
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 33.0,
+          "tipo": "tag",
+          "corte": [
+            331.0,
+            336.38
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 521.38,
+          "tipo": "tag",
+          "corte": [
+            336.38,
+            338.7
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "XBOX · VALE TESTAR",
+          "detalhe": "custo zero",
+          "midia": "EXT",
+          "inicio": 524.1,
+          "tipo": "editorial",
+          "corte": [
+            338.7,
+            341.78
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 527.58,
+          "tipo": "tag",
+          "corte": [
+            341.78,
+            346.24
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 769.4,
+          "tipo": "tag",
+          "corte": [
+            346.24,
+            350.58
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 774.14,
+          "tipo": "tag",
+          "corte": [
+            350.58,
+            352.52
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 408.58,
+          "tipo": "tag",
+          "corte": [
+            352.52,
+            354.54
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "PS5 · 2º JOGO",
+          "detalhe": "2ª conta, 16 h de vantagem",
+          "midia": "EXT",
+          "inicio": 411.0,
+          "tipo": "editorial",
+          "corte": [
+            354.54,
+            359.0
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 415.86,
+          "tipo": "tag",
+          "corte": [
+            359.0,
+            362.6
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1226,
+          "tipo": "tag",
+          "corte": [
+            362.6,
+            365.84
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1229.64,
+          "tipo": "tag",
+          "corte": [
+            365.84,
+            369.68
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1233.88,
+          "tipo": "tag",
+          "corte": [
+            369.68,
+            373.5
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1569.95,
+          "tipo": "tag",
+          "corte": [
+            373.5,
+            376.44
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "QUAL É A SUA PLATAFORMA?",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1238.1,
+          "tipo": "tag",
+          "corte": [
+            376.44,
+            384.12
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1246.18,
+          "tipo": "tag",
+          "corte": [
+            384.12,
+            389.28
+          ],
+          "sem_card": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-12T02:39:26.238846+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "O nível 6 de procurado voltou no GTA 6? Neste episódio do Pixel Procurado, analisamos o gameplay oficial (An Extended Look) minuto a minuto: o medidor de 6 estrelas no minuto 11:50, o assalto à loja de conveniência, a perseguição em pinça com 3 estrelas e a manobra do minuto 16, em que o grupo corta a visão do helicóptero numa garagem coberta e troca de carro. No fim, a regra para guardar para o dia 19 de novembro.\n\nAnálise das imagens do gameplay oficial: o que aparece no vídeo é fato oficial; a leitura de como o sistema de busca funciona é interpretação editorial, sem teste jogável próprio. Trechos de GTA V (2013) aparecem identificados para comparação.\n\nFontes oficiais:\nRockstar — An Extended Look: https://www.rockstargames.com/VI/an-extended-look\nRockstar — GTA VI: https://www.rockstargames.com/VI\n\nLançamento: 19 de novembro de 2026 (PS5 e Xbox Series).\n\nPróximo vídeo da série de aquecimento: a inteligência artificial dos civis de Leonida. Inscreva-se para não perder.\n\n#GTA6 #GTAVI #PixelProcurado\n\nCapítulos:\n00:00 6 estrelas no topo da tela\n00:44 A polícia vidente e amnésica do GTA V\n01:13 Assalto à conveniência: a primeira estrela\n01:51 Perseguição de 3 estrelas em pinça\n02:52 Fugir pro pântano? Esqueça\n03:44 O erro que derruba quase todo mundo\n04:25 A aula de fuga do minuto 16\n05:46 Próximo episódio\n\nCapa A: montagem editorial com arte gerada por IA; não é captura do jogo.",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/846754487c4248c6b87b52a785a0a646.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "6 Estrelas Voltaram: A Polícia do GTA 6 Não Esquece",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "GTA 6 polícia",
+            "label": "GTA 6 polícia"
+          },
+          {
+            "value": "GTA 6 6 estrelas",
+            "label": "GTA 6 6 estrelas"
+          },
+          {
+            "value": "GTA 6 nível de procurado",
+            "label": "GTA 6 nível de procurado"
+          },
+          {
+            "value": "GTA 6 wanted level",
+            "label": "GTA 6 wanted level"
+          },
+          {
+            "value": "GTA 6 como fugir da polícia",
+            "label": "GTA 6 como fugir da polícia"
+          },
+          {
+            "value": "GTA 6 perseguição",
+            "label": "GTA 6 perseguição"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "GTA 6 Leonida",
+            "label": "GTA 6 Leonida"
+          },
+          {
+            "value": "GTA 6 Lucia Jason",
+            "label": "GTA 6 Lucia Jason"
+          },
+          {
+            "value": "GTA 6 helicóptero",
+            "label": "GTA 6 helicóptero"
+          },
+          {
+            "value": "GTA 6 garagem",
+            "label": "GTA 6 garagem"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "GTA 6 lançamento 19 de novembro",
+            "label": "GTA 6 lançamento 19 de novembro"
+          },
+          {
+            "value": "GTA 6 análise",
+            "label": "GTA 6 análise"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "1682977a-8e9f-4380-bef9-1facb029d084",
+          "name": "f167d159a46558ff0be67d1022eaecd27.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/12/f167d159a46558ff0be67d1022eaecd27.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

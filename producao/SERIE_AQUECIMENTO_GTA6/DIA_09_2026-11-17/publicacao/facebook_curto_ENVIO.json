@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-18T02:52:23.852892+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Vice City pede documento na porta. A Rockstar descreve Boobie Ike como dono de imóveis, um clube de strip e um estúdio. No vídeo oficial: festa, elevador, tiroteio e uma pistola com silenciador no chão (25:37). Quem usou: não confirmado. Vídeo completo no canal. Faltam 2 dias para 19/11. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/871f3e390a924f3dbb512e9404270815.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: Vice City Pede Documento"
+      }
+    }
+  ]
+}

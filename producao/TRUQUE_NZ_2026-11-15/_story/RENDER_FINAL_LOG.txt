@@ -1,0 +1,11 @@
+[short] 1080x1920 @30fps, 7 planos (22.40s); renderizar 7: planos 1..7
+Renderizando painéis Hyperframes para Pixel_Procurado_Truque_NZ_Story_V2...
+Iniciando renderização de 7 planos (672 frames)...
+Plano 01 concluído (70 frames)
+Plano 03 concluído (86 frames)
+Plano 02 concluído (101 frames)
+Plano 04 concluído (136 frames)
+Plano 05 concluído (89 frames)
+Plano 06 concluído (103 frames)
+Plano 07 concluído (87 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\_story\exportacoes\Pixel_Procurado_Truque_NZ_Story_V2.mp4 (40 MB)

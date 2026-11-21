@@ -1,0 +1,287 @@
+[
+ {
+  "start": 0.26,
+  "end": 0.64,
+  "word": "Amanhã,",
+  "probability": 0.5284
+ },
+ {
+  "start": 0.82,
+  "end": 1.08,
+  "word": "segunda,",
+  "probability": 0.977
+ },
+ {
+  "start": 1.52,
+  "end": 1.74,
+  "word": "dezesseis",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 1.74,
+  "end": 1.88,
+  "word": "de",
+  "probability": 0.985
+ },
+ {
+  "start": 1.88,
+  "end": 2.34,
+  "word": "novembro,",
+  "probability": 0.9665
+ },
+ {
+  "start": 2.34,
+  "end": 2.78,
+  "word": "é",
+  "probability": 0.2699
+ },
+ {
+  "start": 2.78,
+  "end": 3.03,
+  "word": "PS",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 3.03,
+  "end": 3.28,
+  "word": "cinco",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 3.28,
+  "end": 3.62,
+  "word": "normal",
+  "probability": 0.7718
+ },
+ {
+  "start": 3.62,
+  "end": 4.02,
+  "word": "contra",
+  "probability": 0.9326
+ },
+ {
+  "start": 4.02,
+  "end": 4.28,
+  "word": "PS",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 4.28,
+  "end": 4.54,
+  "word": "cinco",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 4.54,
+  "end": 4.8,
+  "word": "Pro:",
+  "probability": 0.9531
+ },
+ {
+  "start": 4.8,
+  "end": 5.84,
+  "word": "trinta",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 5.84,
+  "end": 6.0,
+  "word": "ou",
+  "probability": 0.9582
+ },
+ {
+  "start": 6.0,
+  "end": 6.14,
+  "word": "sessenta",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 6.14,
+  "end": 6.28,
+  "word": "quadros",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 6.28,
+  "end": 6.74,
+  "word": "por",
+  "probability": 0.4119
+ },
+ {
+  "start": 6.74,
+  "end": 7.18,
+  "word": "segundo,",
+  "probability": 0.9887
+ },
+ {
+  "start": 7.18,
+  "end": 7.72,
+  "word": "e",
+  "probability": 0.9133
+ },
+ {
+  "start": 7.72,
+  "end": 7.8,
+  "word": "o",
+  "probability": 0.9852
+ },
+ {
+  "start": 7.8,
+  "end": 7.94,
+  "word": "que",
+  "probability": 0.9964
+ },
+ {
+  "start": 7.94,
+  "end": 8.08,
+  "word": "dá",
+  "probability": 0.9833
+ },
+ {
+  "start": 8.08,
+  "end": 8.24,
+  "word": "pra",
+  "probability": 0.662
+ },
+ {
+  "start": 8.24,
+  "end": 8.66,
+  "word": "afirmar",
+  "probability": 0.9835
+ },
+ {
+  "start": 8.66,
+  "end": 8.82,
+  "word": "de",
+  "probability": 0.0158
+ },
+ {
+  "start": 8.82,
+  "end": 9.22,
+  "word": "verdade,",
+  "probability": 0.9963
+ },
+ {
+  "start": 9.54,
+  "end": 9.88,
+  "word": "sem",
+  "probability": 0.9817
+ },
+ {
+  "start": 9.88,
+  "end": 10.26,
+  "word": "torcida",
+  "probability": 0.8759
+ },
+ {
+  "start": 10.26,
+  "end": 10.48,
+  "word": "pra",
+  "probability": 0.6198
+ },
+ {
+  "start": 10.48,
+  "end": 10.7,
+  "word": "nenhum",
+  "probability": 0.9863
+ },
+ {
+  "start": 10.7,
+  "end": 11.0,
+  "word": "lado.",
+  "probability": 0.9951
+ },
+ {
+  "start": 11.77,
+  "end": 11.92,
+  "word": "Porque",
+  "probability": 0.9565
+ },
+ {
+  "start": 11.92,
+  "end": 12.3,
+  "word": "console",
+  "probability": 0.4539
+ },
+ {
+  "start": 12.3,
+  "end": 12.68,
+  "word": "caro",
+  "probability": 0.9242
+ },
+ {
+  "start": 12.68,
+  "end": 12.9,
+  "word": "também",
+  "probability": 0.9796
+ },
+ {
+  "start": 12.9,
+  "end": 13.16,
+  "word": "precisa",
+  "probability": 0.9919
+ },
+ {
+  "start": 13.16,
+  "end": 13.34,
+  "word": "de",
+  "probability": 0.9926
+ },
+ {
+  "start": 13.34,
+  "end": 13.68,
+  "word": "prova.",
+  "probability": 0.0,
+  "estimado": true
+ },
+ {
+  "start": 14.49,
+  "end": 14.58,
+  "word": "Se",
+  "probability": 0.8596
+ },
+ {
+  "start": 14.58,
+  "end": 14.86,
+  "word": "inscreve",
+  "probability": 0.9289
+ },
+ {
+  "start": 14.86,
+  "end": 14.96,
+  "word": "no",
+  "probability": 0.9794
+ },
+ {
+  "start": 14.96,
+  "end": 15.24,
+  "word": "canal",
+  "probability": 0.9918
+ },
+ {
+  "start": 15.24,
+  "end": 15.72,
+  "word": "e",
+  "probability": 0.8374
+ },
+ {
+  "start": 15.72,
+  "end": 15.88,
+  "word": "até",
+  "probability": 0.9964
+ },
+ {
+  "start": 15.88,
+  "end": 16.14,
+  "word": "amanhã.",
+  "probability": 0.9896
+ }
+]

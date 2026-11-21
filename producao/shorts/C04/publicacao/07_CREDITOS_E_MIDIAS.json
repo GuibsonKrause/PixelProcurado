@@ -1,0 +1,139 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.167,
+    "file": "producao/shorts/_acervo/Vice_City_classico.jpg",
+    "source": "https://www.rockstargames.com/games/vicecity",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 10.933,
+    "end": 14.567,
+    "file": "producao/shorts/_acervo/Vice_City_classico.jpg",
+    "source": "https://www.rockstargames.com/games/vicecity",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 27.133,
+    "end": 29.633,
+    "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+    "source": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+    "source_start": 35.1,
+    "motion_seconds": 2.4,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 37.667,
+    "end": 42.567,
+    "file": "videosGTAVI/GTAVI_Trailer_1.mp4",
+    "source": "https://www.rockstargames.com/VI/trailer-1",
+    "source_start": 51.0,
+    "motion_seconds": 3.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 42.567,
+    "end": 47.1,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 47.1,
+    "end": 51.833,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0,
+      0.1,
+      0.5,
+      0.9
+    ],
+    "highlight": null
+  },
+  {
+    "start": 51.833,
+    "end": 58.067,
+    "file": "videosGTAVI/GTAVI_Trailer_1.mp4",
+    "source": "https://www.rockstargames.com/VI/trailer-1",
+    "source_start": 51.0,
+    "motion_seconds": 3.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 58.067,
+    "end": 61.0,
+    "file": "videosGTAVI/GTAVI_Trailer_1.mp4",
+    "source": "https://www.rockstargames.com/VI/trailer-1",
+    "source_start": 31.0,
+    "motion_seconds": 3.3,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 61.0,
+    "end": 64.5,
+    "file": "videosGTAVI/GTAVI_Trailer_1.mp4",
+    "source": "https://www.rockstargames.com/VI/trailer-1",
+    "source_start": 38.0,
+    "motion_seconds": 3.1,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 64.5,
+    "end": 68.0,
+    "file": "videosGTAVI/GTAVI_Trailer_1.mp4",
+    "source": "https://www.rockstargames.com/VI/trailer-1",
+    "source_start": 41.06666666666667,
+    "motion_seconds": 0.03333333333333333,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 68.0,
+    "end": 73.367,
+    "file": "producao/shorts/_acervo/Vice_City_classico.jpg",
+    "source": "https://www.rockstargames.com/games/vicecity",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 77.0,
+    "end": 77.9,
+    "file": "producao/shorts/_acervo/Vice_City_classico.jpg",
+    "source": "https://www.rockstargames.com/games/vicecity",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  }
+]

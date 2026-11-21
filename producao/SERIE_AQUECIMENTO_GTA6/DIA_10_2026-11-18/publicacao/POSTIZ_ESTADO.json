@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "items": {
+    "youtube_longo": {
+      "medias": [
+        {
+          "id": "6ce00ce9-f9b5-4c4d-a850-766b9826fb9a",
+          "name": "a7d4697e2451b7178567fdc22dfb626e.mp4",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/19/a7d4697e2451b7178567fdc22dfb626e.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "capa_obj": {
+        "id": "9258efac-961d-47a8-86bc-2648cc6b485b",
+        "name": "da0a5ca5bef4d84ea2a847f38b6413ce.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/19/da0a5ca5bef4d84ea2a847f38b6413ce.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-19T00:44:19.110744+00:00",
+      "post_id": "cmwmtwr45002dpn9zda7qwcm3",
+      "enviado_em": "2026-11-19T00:44:19.110744+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=jpHpEpqipho",
+        "releaseId": "jpHpEpqipho",
+        "publishDate": "2026-11-19T00:45:00.000Z",
+        "error": null
+      }
+    }
+  }
+}

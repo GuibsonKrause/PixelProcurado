@@ -1,0 +1,104 @@
+[
+  {
+    "start": 16.0,
+    "end": 17.04,
+    "word": "A",
+    "probability": 0.0004329317598603666
+  },
+  {
+    "start": 17.04,
+    "end": 25.4,
+    "word": "relação",
+    "probability": 0.73635333776474
+  },
+  {
+    "start": 25.4,
+    "end": 25.62,
+    "word": "fica",
+    "probability": 0.8951893448829651
+  },
+  {
+    "start": 25.62,
+    "end": 25.9,
+    "word": "mais",
+    "probability": 0.987646222114563
+  },
+  {
+    "start": 25.9,
+    "end": 26.42,
+    "word": "interessante",
+    "probability": 0.991969645023346
+  },
+  {
+    "start": 26.42,
+    "end": 26.74,
+    "word": "quando",
+    "probability": 0.9668945670127869
+  },
+  {
+    "start": 26.74,
+    "end": 26.92,
+    "word": "a",
+    "probability": 0.9720038175582886
+  },
+  {
+    "start": 26.92,
+    "end": 27.1,
+    "word": "gente",
+    "probability": 0.999636173248291
+  },
+  {
+    "start": 27.1,
+    "end": 27.54,
+    "word": "olha",
+    "probability": 0.9026972055435181
+  },
+  {
+    "start": 27.54,
+    "end": 28.18,
+    "word": "o",
+    "probability": 0.962326169013977
+  },
+  {
+    "start": 28.18,
+    "end": 28.24,
+    "word": "que",
+    "probability": 0.9987700581550598
+  },
+  {
+    "start": 28.24,
+    "end": 28.42,
+    "word": "cada",
+    "probability": 0.9837942719459534
+  },
+  {
+    "start": 28.42,
+    "end": 28.62,
+    "word": "lado",
+    "probability": 0.9878052473068237
+  },
+  {
+    "start": 28.62,
+    "end": 29.16,
+    "word": "oferece",
+    "probability": 0.9859553873538971
+  },
+  {
+    "start": 29.16,
+    "end": 29.44,
+    "word": "e",
+    "probability": 0.9769595861434937
+  },
+  {
+    "start": 29.44,
+    "end": 30.06,
+    "word": "espera",
+    "probability": 0.8677263855934143
+  },
+  {
+    "start": 30.06,
+    "end": 30.42,
+    "word": "receber.",
+    "probability": 0.9869937300682068
+  }
+]

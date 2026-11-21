@@ -1,0 +1,15 @@
+{
+  "remoto": "gdrive:GamePlay",
+  "montagem": "P:",
+  "cache_local_gb": 40,
+  "disco_livre_min_gb": 15,
+  "extensoes_midia": [".mp4", ".mov", ".mkv", ".webm", ".ts", ".wav", ".mp3", ".m4a", ".f32", ".mbtree"],
+  "arquivar_acima_mb": 20,
+  "pastas": ["producao", "videosGTAVI/_live", "_curso"],
+  "inativo_horas": 48,
+  "cotas_gb": {"lives": 400, "publicados": 500},
+  "alvo_pct": 85,
+  "meia_vida_dias": {"lives": 15, "publicados": 30},
+  "intermediarios_apos_dias": 7,
+  "derivados_live": ["horizontal.mp4", "vertical.mp4", "clip_narrado.mp4", "vertical_narrado.mp4", "compilacao_instagram.mp4"]
+}

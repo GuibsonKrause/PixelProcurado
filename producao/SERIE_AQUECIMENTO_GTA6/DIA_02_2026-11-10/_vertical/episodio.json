@@ -1,0 +1,1353 @@
+{
+ "id": "DIA_02_2026-11-10__vertical",
+ "titulo": "212 GB: O Que a Rockstar Escondeu Nesse Download?",
+ "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+ "pasta_fontes": "videosGTAVI",
+ "midias": {
+  "EXT": "GTAVI_An_Extended_Look.mp4",
+  "T1": "GTAVI_Trailer_1.mp4",
+  "T2": "GTAVI_Trailer_2.mp4",
+  "LT": "GTAVI_Launch_Trailer.mp4",
+  "COVER": "GTAVI_Videos/GTAVI_Official_Cover_Art_Landscape.mp4",
+  "GTAV": "GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4"
+ },
+ "correcoes_legenda": {},
+ "formatos": {
+  "longo": {
+   "stem": "DIA02_Instagram_Integral",
+   "resolucao": [
+    1080,
+    1920
+   ],
+   "fps": 30,
+   "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_02_2026-11-10/_vertical/audio/narracao.wav",
+   "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_02_2026-11-10/_vertical/audio/palavras.json",
+   "planos": [
+    {
+     "midia": "COVER",
+     "inicio": 7.5,
+     "corte": [
+      0.0,
+      2.8
+     ],
+     "tipo": "data",
+     "titulo": "212 GB",
+     "detalhe": "Pré-load liberado • até esse tamanho"
+    },
+    {
+     "midia": "COVER",
+     "inicio": 12.5,
+     "corte": [
+      2.8,
+      7.233333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "LT",
+     "inicio": 30,
+     "corte": [
+      7.233333,
+      10.166667
+     ],
+     "tipo": "tag",
+     "titulo": "PRÉ-LOAD LIBERADO",
+     "detalhe": ""
+    },
+    {
+     "midia": "COVER",
+     "inicio": 14,
+     "corte": [
+      10.166667,
+      14.6
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 45,
+     "corte": [
+      14.6,
+      20.033333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 52,
+     "corte": [
+      20.033333,
+      23.233333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 62,
+     "corte": [
+      23.233333,
+      27.566667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 380,
+     "corte": [
+      27.566667,
+      31.133333
+     ],
+     "tipo": "tag",
+     "titulo": "06:30 → 08:50",
+     "detalhe": "Sequência de 2m20 no gameplay"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 530,
+     "corte": [
+      31.133333,
+      34.4
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T2",
+     "inicio": 25,
+     "corte": [
+      34.4,
+      37.333333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 540,
+     "corte": [
+      37.333333,
+      43.233333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 8,
+     "corte": [
+      43.233333,
+      45.733333
+     ],
+     "tipo": "editorial",
+     "titulo": "GTA V • 2013",
+     "detalhe": "Instalação pedia só ~18 GB"
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 30,
+     "corte": [
+      45.733333,
+      49.1
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 90,
+     "corte": [
+      49.1,
+      52.4
+     ],
+     "tipo": "data",
+     "titulo": "18 GB",
+     "detalhe": "GTA V no lançamento, em 2013"
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 150,
+     "corte": [
+      52.4,
+      54.333333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 210,
+     "corte": [
+      54.333333,
+      62.5
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1570,
+     "corte": [
+      62.5,
+      64.4
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "COVER",
+     "inicio": 16,
+     "corte": [
+      64.4,
+      68.966667
+     ],
+     "tipo": "data",
+     "titulo": "212 GB",
+     "detalhe": "GTA VI no pré-load"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1470,
+     "corte": [
+      68.966667,
+      74.933333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1500,
+     "corte": [
+      74.933333,
+      76.966667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 280,
+     "corte": [
+      76.966667,
+      79.4
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1195,
+     "corte": [
+      79.4,
+      82.533333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 85,
+     "corte": [
+      82.533333,
+      86.133333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 130,
+     "corte": [
+      86.133333,
+      89.5
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 100,
+     "corte": [
+      89.5,
+      91.4
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1440,
+     "corte": [
+      91.4,
+      97.8
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1550,
+     "corte": [
+      97.8,
+      100.433333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T2",
+     "inicio": 135,
+     "corte": [
+      100.433333,
+      104.166667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 750,
+     "corte": [
+      104.166667,
+      109.766667
+     ],
+     "tipo": "editorial",
+     "titulo": "PRÉDIO DE ISOPOR",
+     "detalhe": "A maior mentira do mundo aberto"
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 250,
+     "corte": [
+      109.766667,
+      114.266667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 20,
+     "corte": [
+      114.266667,
+      120.166667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 170,
+     "corte": [
+      120.166667,
+      125.066667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 390,
+     "corte": [
+      125.066667,
+      129.333333
+     ],
+     "tipo": "tag",
+     "titulo": "06:30 APARTAMENTO",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 396,
+     "corte": [
+      129.333333,
+      133.0
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 400,
+     "corte": [
+      133.0,
+      135.133333
+     ],
+     "tipo": "tag",
+     "titulo": "FITA DE LED",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 410,
+     "corte": [
+      135.133333,
+      138.266667
+     ],
+     "tipo": "tag",
+     "titulo": "06:50 INTERIOR",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 420,
+     "corte": [
+      138.266667,
+      140.266667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 440,
+     "corte": [
+      140.266667,
+      144.466667
+     ],
+     "tipo": "tag",
+     "titulo": "07:20 GELADEIRA",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 450,
+     "corte": [
+      144.466667,
+      149.533333
+     ],
+     "tipo": "tag",
+     "titulo": "TV EM TEMPO REAL",
+     "detalhe": ""
+    },
+    {
+     "midia": "T2",
+     "inicio": 12,
+     "corte": [
+      149.533333,
+      152.066667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1300,
+     "corte": [
+      152.066667,
+      154.233333
+     ],
+     "tipo": "tag",
+     "titulo": "21:40 ELEVADOR",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1305,
+     "corte": [
+      154.233333,
+      156.733333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1320,
+     "corte": [
+      156.733333,
+      159.166667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1330,
+     "corte": [
+      159.166667,
+      163.933333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1350,
+     "corte": [
+      163.933333,
+      170.2
+     ],
+     "tipo": "tag",
+     "titulo": "22:30 VISTA DA CIDADE",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1370,
+     "corte": [
+      170.2,
+      173.233333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1380,
+     "corte": [
+      173.233333,
+      175.666667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1400,
+     "corte": [
+      175.666667,
+      180.433333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "LT",
+     "inicio": 10,
+     "corte": [
+      180.433333,
+      185.833333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 22,
+     "corte": [
+      185.833333,
+      189.766667
+     ],
+     "tipo": "editorial",
+     "titulo": "6 ECOSSISTEMAS",
+     "detalhe": "Nada a ver um com o outro"
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 190,
+     "corte": [
+      189.766667,
+      195.833333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "GTAV",
+     "inicio": 12,
+     "corte": [
+      195.833333,
+      199.833333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 28,
+     "corte": [
+      199.833333,
+      202.833333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 740,
+     "corte": [
+      202.833333,
+      204.866667
+     ],
+     "tipo": "tag",
+     "titulo": "VICE CITY",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 770,
+     "corte": [
+      204.866667,
+      207.533333
+     ],
+     "tipo": "tag",
+     "titulo": "LEONIDA KEYS",
+     "detalhe": ""
+    },
+    {
+     "midia": "LT",
+     "inicio": 16,
+     "corte": [
+      207.533333,
+      210.6
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1030,
+     "corte": [
+      210.6,
+      213.133333
+     ],
+     "tipo": "tag",
+     "titulo": "GRASSRIVERS",
+     "detalhe": ""
+    },
+    {
+     "midia": "T2",
+     "inicio": 140,
+     "corte": [
+      213.133333,
+      217.733333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_01.jpg",
+     "inicio": 0,
+     "corte": [
+      217.733333,
+      219.066667
+     ],
+     "tipo": "tag",
+     "titulo": "PORT GELLHORN",
+     "detalhe": ""
+    },
+    {
+     "midia": "GTAVI_Screenshots/Places/Ambrosia/Ambrosia_02.jpg",
+     "inicio": 0,
+     "corte": [
+      219.066667,
+      225.433333
+     ],
+     "tipo": "tag",
+     "titulo": "AMBROSIA",
+     "detalhe": ""
+    },
+    {
+     "midia": "GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_02.jpg",
+     "inicio": 0,
+     "corte": [
+      225.433333,
+      227.633333
+     ],
+     "tipo": "tag",
+     "titulo": "MOUNT KALAGA",
+     "detalhe": ""
+    },
+    {
+     "midia": "T2",
+     "inicio": 148,
+     "corte": [
+      227.633333,
+      232.533333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1130,
+     "corte": [
+      232.533333,
+      236.233333
+     ],
+     "tipo": "tag",
+     "titulo": "18:50 PARAQUEDAS",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1134,
+     "corte": [
+      236.233333,
+      238.766667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1140,
+     "corte": [
+      238.766667,
+      240.666667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T2",
+     "inicio": 158,
+     "corte": [
+      240.666667,
+      245.333333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1146,
+     "corte": [
+      245.333333,
+      248.633333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1060,
+     "corte": [
+      248.633333,
+      255.266667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 36,
+     "corte": [
+      255.266667,
+      257.9
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1160,
+     "corte": [
+      257.9,
+      259.533333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T1",
+     "inicio": 40,
+     "corte": [
+      259.533333,
+      261.633333
+     ],
+     "tipo": "tag",
+     "titulo": "TRILHA: JUSTICE",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1180,
+     "corte": [
+      261.633333,
+      264.833333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 590,
+     "corte": [
+      264.833333,
+      267.866667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 600,
+     "corte": [
+      267.866667,
+      271.4
+     ],
+     "tipo": "tag",
+     "titulo": "10:00 RESTAURANTE",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1109.0,
+     "corte": [
+      271.4,
+      274.4
+     ],
+     "tipo": "tag",
+     "titulo": "18:30 PRAIA LOTADA",
+     "detalhe": ""
+    },
+    {
+     "midia": "EXT",
+     "inicio": 639.8,
+     "corte": [
+      274.4,
+      280.266667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 650,
+     "corte": [
+      280.266667,
+      282.066667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 660,
+     "corte": [
+      282.066667,
+      286.066667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 680,
+     "corte": [
+      286.066667,
+      288.233333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1220,
+     "corte": [
+      288.233333,
+      291.2
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1240,
+     "corte": [
+      291.2,
+      298.266667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 430,
+     "corte": [
+      298.266667,
+      303.533333
+     ],
+     "tipo": "tag",
+     "titulo": "06:30 → 08:50",
+     "detalhe": "Do apartamento ao trânsito"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 462,
+     "corte": [
+      303.533333,
+      308.533333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 485,
+     "corte": [
+      308.533333,
+      311.2
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 497,
+     "corte": [
+      311.2,
+      312.466667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 510,
+     "corte": [
+      312.466667,
+      314.366667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 520,
+     "corte": [
+      314.366667,
+      316.166667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T2",
+     "inicio": 18,
+     "corte": [
+      316.166667,
+      318.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 760,
+     "corte": [
+      318.3,
+      319.866667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T2",
+     "inicio": 38,
+     "corte": [
+      319.866667,
+      321.933333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1210,
+     "corte": [
+      321.933333,
+      324.733333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 780,
+     "corte": [
+      324.733333,
+      328.966667
+     ],
+     "tipo": "data",
+     "titulo": "SSD INTERNO",
+     "detalhe": "Leitura sem engasgar"
+    },
+    {
+     "midia": "T2",
+     "inicio": 44,
+     "corte": [
+      328.966667,
+      332.566667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "LT",
+     "inicio": 67.3,
+     "corte": [
+      332.566667,
+      338.166667
+     ],
+     "tipo": "editorial",
+     "titulo": "2 ERROS DE ESTREIA",
+     "detalhe": "Que custam a noite do dia 19"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 550,
+     "corte": [
+      338.166667,
+      345.166667
+     ],
+     "tipo": "editorial",
+     "titulo": "1. USB NÃO RODA",
+     "detalhe": "Jogo da geração precisa do SSD interno"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 560,
+     "corte": [
+      345.166667,
+      348.2
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 570,
+     "corte": [
+      348.2,
+      352.666667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 580,
+     "corte": [
+      352.666667,
+      354.466667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1600,
+     "corte": [
+      354.466667,
+      357.9
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1230,
+     "corte": [
+      357.9,
+      363.233333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1250,
+     "corte": [
+      363.233333,
+      365.933333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1270,
+     "corte": [
+      365.933333,
+      373.433333
+     ],
+     "tipo": "editorial",
+     "titulo": "2. DEIXE FOLGA",
+     "detalhe": "Reserve +25–30 GB além do pré-load"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1280,
+     "corte": [
+      373.433333,
+      375.533333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1290,
+     "corte": [
+      375.533333,
+      379.066667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1260,
+     "corte": [
+      379.066667,
+      382.533333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "LT",
+     "inicio": 75,
+     "corte": [
+      382.533333,
+      390.033333
+     ],
+     "tipo": "data",
+     "titulo": "+25–30 GB",
+     "detalhe": "Folga além dos 212 GB"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1175,
+     "corte": [
+      390.033333,
+      393.7
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1100,
+     "corte": [
+      393.7,
+      398.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T2",
+     "inicio": 105,
+     "corte": [
+      398.3,
+      400.4
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 710,
+     "corte": [
+      400.4,
+      406.533333
+     ],
+     "tipo": "tag",
+     "titulo": "PRÓXIMO VÍDEO",
+     "detalhe": "6 estrelas e a garagem coberta"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 717,
+     "corte": [
+      406.533333,
+      408.466667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 960,
+     "corte": [
+      408.466667,
+      414.666667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "COVER",
+     "inicio": 24,
+     "corte": [
+      414.666667,
+      417.3667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,96 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-11T03:05:27.426263+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: círculo ou triângulo? Leia o HUD antes de fugir",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "label": "GTA 6",
+            "value": "GTA 6"
+          },
+          {
+            "label": "GTA VI",
+            "value": "GTA VI"
+          },
+          {
+            "label": "GTA 6 gameplay",
+            "value": "GTA 6 gameplay"
+          },
+          {
+            "label": "GTA 6 gameplay oficial",
+            "value": "GTA 6 gameplay oficial"
+          },
+          {
+            "label": "GTA 6 análise",
+            "value": "GTA 6 análise"
+          },
+          {
+            "label": "GTA VI português",
+            "value": "GTA VI português"
+          },
+          {
+            "label": "GTA 6 Jason Lucia",
+            "value": "GTA 6 Jason Lucia"
+          },
+          {
+            "label": "Leonida",
+            "value": "Leonida"
+          },
+          {
+            "label": "Rockstar Games",
+            "value": "Rockstar Games"
+          },
+          {
+            "label": "GTA 6 preload",
+            "value": "GTA 6 preload"
+          },
+          {
+            "label": "GTA 6 212 GB",
+            "value": "GTA 6 212 GB"
+          },
+          {
+            "label": "Pixel Procurado",
+            "value": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "1f005c9e-44cb-4881-90be-d451a5690855",
+          "name": "f57dc3c53a96e37ac29471932313edcc.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/11/f57dc3c53a96e37ac29471932313edcc.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      },
+      "value": [
+        {
+          "content": "Duas opções reais na porta do carro: Smash Window e Slim Jim. Análise das imagens oficiais, sem teste jogável próprio. Episódio completo no canal Pixel Procurado. #GTA6 #GTAVI #PixelProcurado #Shorts",
+          "image": [
+            {
+              "id": "6a8fd490-6fc9-4830-88b5-18a95fee3ad6",
+              "name": "d391413e1b595228898c6692a4449d10b.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/11/d391413e1b595228898c6692a4449d10b.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ]
+    }
+  ]
+}

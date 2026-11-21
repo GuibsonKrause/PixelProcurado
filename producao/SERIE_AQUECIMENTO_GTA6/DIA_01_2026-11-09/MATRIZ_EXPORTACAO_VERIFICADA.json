@@ -1,0 +1,97 @@
+{
+  "verified_at": "2026-11-10",
+  "sources": {
+    "extended": {
+      "file": "videosGTAVI/GTAVI_An_Extended_Look.mp4",
+      "observed_video0": {
+        "codec": "h264",
+        "width": 3840,
+        "height": 2160,
+        "fps": 30,
+        "pix_fmt": "yuv420p"
+      },
+      "duration": 1608.066667,
+      "warning": "Multiple streams: chosen gameplay stream must be verified by production agent before rendering"
+    },
+    "gta_v": {
+      "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": "30000/1001",
+      "duration": 290.133333,
+      "required_label": "GTA V"
+    }
+  },
+  "exports": {
+    "youtube": {
+      "width": 3840,
+      "height": 2160,
+      "fps": 30,
+      "codec": "h264",
+      "pix_fmt": "yuv420p",
+      "recommended_video_mbps": "35–45",
+      "audio": "AAC 48kHz",
+      "transport": "Postiz upload without --adjust"
+    },
+    "instagram_integral": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "codec": "h264",
+      "maxrate_mbps": 20,
+      "target_mbps": "16–20",
+      "audio": "AAC 48kHz 128kbps",
+      "reason": "372s episode; keep below 1GB with safety margin",
+      "official_constraints": {
+        "max_width": 1920,
+        "fps": "23–60",
+        "max_mbps": 25,
+        "max_bytes": 1000000000,
+        "duration_seconds": "3–900"
+      }
+    },
+    "meta_short": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "AAC 48kHz 128kbps"
+    },
+    "facebook_integral": {
+      "width": 3840,
+      "height": 2160,
+      "fps": 30,
+      "codec": "h264",
+      "transport": "R2 HTTPS staged URL",
+      "note": "Maximum acceptance/processing quality must be confirmed by actual integration response, do not reduce resolution for hypothetical limits"
+    }
+  },
+  "installed_postiz": {
+    "youtube": {
+      "one_title": true,
+      "one_thumbnail": true,
+      "native_ab_test": false
+    },
+    "instagram": {
+      "feed_image": true,
+      "reels": true,
+      "story": true,
+      "carousel": true
+    },
+    "facebook": {
+      "images": true,
+      "video": true,
+      "story": true,
+      "explicit_reels_endpoint": false
+    },
+    "adjust_warning": "--adjust scales videos to1080p; avoid for4K"
+  },
+  "sources_urls": [
+    "https://support.google.com/youtube/answer/1722171",
+    "https://raw.githubusercontent.com/fbsamples/reels_publishing_apis/main/insta_reels_publishing_api_sample/README.md",
+    "https://docs.postiz.com/cli/media-upload",
+    "https://github.com/gitroomhq/postiz-docs/blob/main/self-host/providers/instagram.mdx"
+  ],
+  "installed_inspection": "docker exec postiz read /app/apps/backend/dist/libraries/nestjs-libraries/src/integrations/social/{youtube,facebook,instagram}.provider.js; YouTube thumbnails.set only, Facebook video_stories and no video_reels, Instagram STORIES REELS CAROUSEL"
+}

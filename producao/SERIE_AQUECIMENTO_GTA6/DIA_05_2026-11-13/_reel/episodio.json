@@ -1,0 +1,305 @@
+{
+  "id": "DIA_05_2026-11-13__reel",
+  "titulo": "GTA 6: Como Funciona Jogar com Jason e Lucia",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "T2": "GTAVI_Trailer_2.mp4",
+    "LT": "GTAVI_Launch_Trailer.mp4",
+    "GTAV": "GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "HUD": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/hud_0706.jpg",
+    "MSG": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/msg_2349.jpg",
+    "LMSG": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/lucia_msg_2357.jpg",
+    "BENCH": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/supino_1720.jpg",
+    "BENCHZ": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/supino_L2R2.jpg",
+    "L01": "GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_01.jpg",
+    "L04": "GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_04.jpg",
+    "L02": "GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_02.jpg",
+    "JL01": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+    "JL02": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_02.jpg",
+    "JL04": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_04.jpg",
+    "JL07": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_07.jpg",
+    "HUDZ": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/hud_close_0706.jpg"
+  },
+  "rotulos_obrigatorios": {
+    "GTAV": "GTA V"
+  },
+  "correcoes_legenda": {},
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_DIA05_Reel_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/_reel/audio/narracao.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/_reel/audio/palavras.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "HUDZ",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0.0,
+            1.79
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "14:42",
+          "detalhe": "Depois do tiroteio na rua",
+          "midia": "EXT",
+          "inicio": 878.0,
+          "tipo": "editorial",
+          "corte": [
+            1.79,
+            4.51
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 858.0,
+          "tipo": "editorial",
+          "corte": [
+            4.51,
+            5.99
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 882.0,
+          "tipo": "editorial",
+          "corte": [
+            5.99,
+            8.13
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 886.0,
+          "tipo": "editorial",
+          "corte": [
+            8.13,
+            11.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "15:30",
+          "detalhe": "Câmera atrás do carro",
+          "midia": "EXT",
+          "inicio": 929.6,
+          "tipo": "editorial",
+          "corte": [
+            11.2,
+            13.48
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 931.9,
+          "tipo": "editorial",
+          "corte": [
+            13.48,
+            15.92
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 934.4,
+          "tipo": "editorial",
+          "corte": [
+            15.92,
+            20.18
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 940.0,
+          "tipo": "editorial",
+          "corte": [
+            20.18,
+            22.12
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 890.0,
+          "tipo": "editorial",
+          "corte": [
+            22.12,
+            24.82
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 942.3,
+          "tipo": "editorial",
+          "corte": [
+            24.82,
+            27.28
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 850.0,
+          "tipo": "editorial",
+          "corte": [
+            27.28,
+            30.65
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1421.2,
+          "tipo": "editorial",
+          "corte": [
+            30.65,
+            32.97
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1424.3,
+          "tipo": "editorial",
+          "corte": [
+            32.97,
+            36.33
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "GUYS EVERYWHERE",
+          "detalhe": "Mensagem da Lucia • 23:50",
+          "midia": "EXT",
+          "inicio": 1427.7,
+          "tipo": "tag",
+          "corte": [
+            36.33,
+            39.99
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1433.6,
+          "tipo": "editorial",
+          "corte": [
+            39.99,
+            42.86
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1263.0,
+          "tipo": "editorial",
+          "corte": [
+            42.86,
+            45.38
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1436.5,
+          "tipo": "editorial",
+          "corte": [
+            45.38,
+            47.56
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1438.7,
+          "tipo": "editorial",
+          "corte": [
+            47.56,
+            49.98
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "SALA SEGURA",
+          "detalhe": "10+ caras • armas automáticas • explosivos • cara de militar",
+          "midia": "LMSG",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            49.98,
+            55.7
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1441.9,
+          "tipo": "editorial",
+          "corte": [
+            55.7,
+            57.75
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JL01",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            57.75,
+            60.29
+          ],
+          "sem_card": true
+        }
+      ]
+    }
+  }
+}

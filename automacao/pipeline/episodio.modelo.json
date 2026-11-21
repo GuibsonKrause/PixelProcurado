@@ -1,0 +1,54 @@
+{
+  "id": "L00",
+  "titulo": "",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4"
+  },
+  "correcoes_legenda": {},
+  "formatos": {
+    "longo": {
+      "stem": "Pixel_Procurado_L00_Longo_V2",
+      "resolucao": [1920, 1080],
+      "fps": 60,
+      "voz": "producao/L00/voz/narracao_normalizada.wav",
+      "alinhamento": "producao/L00/voz/alinhamento_palavras.json",
+      "planos": [
+        {"titulo": "TITULO DO CARD", "detalhe": "Detalhe curto do card", "midia": "EXT", "inicio": 0, "tipo": "editorial", "card_posicao": [58, 180], "corte": [0.0, 12.0]}
+      ]
+    },
+    "short": {
+      "stem": "Pixel_Procurado_L00_Short_V2",
+      "resolucao": [1080, 1920],
+      "fps": 60,
+      "voz": "producao/shorts/L00/voz/narracao_normalizada.wav",
+      "alinhamento": "producao/shorts/L00/voz/alinhamento_palavras.json",
+      "planos": [
+        {"titulo": "TITULO DO CARD", "detalhe": "Detalhe curto do card", "midia": "EXT", "inicio": 0, "tipo": "tag", "card_posicao": [150, 190], "corte": [0.0, 15.0]}
+      ]
+    }
+  },
+  "publicacao": {
+    "canais": {
+      "youtube": "cmvsctfgl0001jncj932ovibv",
+      "facebook": "cmvzyur290001pddwolrt33em",
+      "instagram": "cmvzyw7vj0003pddwkgtivv8i"
+    },
+    "data_padrao": "2026-01-01T21:00:00.000Z",
+    "estado": "producao/L00/social/POSTIZ_ESTADO.json",
+    "pasta_envio": "producao/L00/social",
+    "tags_youtube": ["GTA 6", "GTA VI", "Pixel Procurado"],
+    "youtube_visibilidade": "public",
+    "textos": {"longo": "", "short": "", "story": ""},
+    "pecas": [
+      {"chave": "youtube_long", "rede": "youtube", "tipo": "post", "midia": "producao/L00/exportacoes/Pixel_Procurado_L00_Longo_V2.mp4", "texto": "longo", "titulo": "", "capa": "producao/L00/publicacao/capa_youtube.jpg"},
+      {"chave": "youtube_short", "rede": "youtube", "tipo": "post", "midia": "producao/L00/exportacoes/Pixel_Procurado_L00_Short_V2.mp4", "texto": "short", "titulo": "", "capa": "producao/shorts/L00/publicacao/capa_youtube.jpg"},
+      {"chave": "instagram_reel", "rede": "instagram", "tipo": "post", "midia": "producao/L00/exportacoes/Pixel_Procurado_L00_Short_V2.mp4", "texto": "short"},
+      {"chave": "instagram_story", "rede": "instagram", "tipo": "story", "midia": "producao/shorts/L00/publicacao/capa_master.png", "texto": "story"},
+      {"chave": "facebook_video", "rede": "facebook", "tipo": "post", "midia": "producao/L00/exportacoes/Pixel_Procurado_L00_Longo_V2.mp4", "texto": "longo", "titulo": ""},
+      {"chave": "facebook_reel", "rede": "facebook", "tipo": "post", "midia": "producao/L00/exportacoes/Pixel_Procurado_L00_Short_V2.mp4", "texto": "short", "titulo": ""},
+      {"chave": "facebook_story", "rede": "facebook", "tipo": "story", "midia": "producao/shorts/L00/publicacao/capa_master.png", "texto": "story"}
+    ]
+  }
+}

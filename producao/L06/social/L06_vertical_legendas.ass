@@ -1,0 +1,55 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Arial,50,&H00FFFFFF,&H00FFFFFF,&H00181311,&H00181311,-1,0,0,0,100,100,0,0,1,2,0,8,76,76,1210,1
+Style: Credit,Arial,24,&H00C6C3C0,&H00FFFFFF,&H00181311,&H00181311,0,0,0,0,100,100,0,0,1,1,0,8,62,62,1136,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.00,Main,,0,0,0,,Vice City aparece à noite com
+Dialogue: 0,0:00:02.00,0:00:05.34,Main,,0,0,0,,fachadas coloridas, carros, gente\Nposando e uma
+Dialogue: 0,0:00:05.34,0:00:06.89,Main,,0,0,0,,viatura diante do Ocean View.
+Dialogue: 0,0:00:07.53,0:00:09.50,Main,,0,0,0,,Mesmo com a polícia no quadro,\Ntudo tem
+Dialogue: 0,0:00:09.50,0:00:10.44,Main,,0,0,0,,cara de espetáculo.
+Dialogue: 0,0:00:10.97,0:00:12.93,Main,,0,0,0,,Parece que até uma abordagem\Nprecisa ter iluminação
+Dialogue: 0,0:00:12.93,0:00:17.12,Main,,0,0,0,,favorável. Em outras imagens,\Ntorres ficam à beira
+Dialogue: 0,0:00:17.12,0:00:20.21,Main,,0,0,0,,d'água. É uma apresentação de\Nriqueza e exibição.
+Dialogue: 0,0:00:20.99,0:00:24.17,Main,,0,0,0,,Mas quando a câmera desce,\Naparecem quadras, ruas
+Dialogue: 0,0:00:24.17,0:00:26.09,Main,,0,0,0,,e carros sob um viaduto pintado.
+Dialogue: 0,0:00:26.09,0:00:29.25,Main,,0,0,0,,Existe cotidiano embaixo daquele\Nhorizonte bonito.
+Dialogue: 0,0:00:30.39,0:00:33.03,Main,,0,0,0,,Gosto desse detalhe porque a\Ncidade ganha chão.
+Dialogue: 0,0:00:33.55,0:00:35.27,Main,,0,0,0,,Você deixa de olhar só para os\Nprédios
+Dialogue: 0,0:00:35.27,0:00:37.12,Main,,0,0,0,,que aparecem na propaganda e\Ncomeça a imaginar
+Dialogue: 0,0:00:37.12,0:00:39.21,Main,,0,0,0,,quem passa por ali, o que faz\Nnaquele
+Dialogue: 0,0:00:39.21,0:00:40.68,Main,,0,0,0,,lugar e pra onde está indo.
+Dialogue: 0,0:00:41.31,0:00:43.37,Main,,0,0,0,,Port Gellhorn usa outra\Ncombinação.
+Dialogue: 0,0:00:43.81,0:00:47.39,Main,,0,0,0,,O letreiro do Starlet Motel chama\Natenção, mas
+Dialogue: 0,0:00:47.39,0:00:50.49,Main,,0,0,0,,em volta vemos construções mais\Nbaixas, postes
+Dialogue: 0,0:00:50.49,0:00:52.27,Main,,0,0,0,,e uma rua com menos brilho.
+Dialogue: 0,0:00:52.84,0:00:55.44,Main,,0,0,0,,No panorama, a cidade se espalha\Nentre árvores
+Dialogue: 0,0:00:55.44,0:00:57.96,Main,,0,0,0,,e fios. O letreiro ainda tenta\Nvender uma
+Dialogue: 0,0:00:57.96,0:01:00.86,Main,,0,0,0,,noite inesquecível. O resto da\Npaisagem recomenda
+Dialogue: 0,0:01:00.86,0:01:02.18,Main,,0,0,0,,ler as avaliações primeiro.
+Dialogue: 0,0:01:02.92,0:01:04.54,Main,,0,0,0,,É a impressão que o conjunto me\Npassa;
+Dialogue: 0,0:01:04.60,0:01:06.06,Main,,0,0,0,,não estamos avaliando um hotel de\Nverdade.
+Dialogue: 0,0:00:00.00,0:00:00.04,Credit,,0,0,0,,Rockstar Games • An Extended Look • trecho oficial
+Dialogue: 0,0:00:00.04,0:00:07.54,Credit,,0,0,0,,Rockstar Games • Vice City 06 • captura oficial
+Dialogue: 0,0:00:07.54,0:00:10.97,Credit,,0,0,0,,Rockstar Games • Vice City 06 • captura oficial
+Dialogue: 0,0:00:10.97,0:00:14.67,Credit,,0,0,0,,Rockstar Games • Trailer 1 • trecho oficial
+Dialogue: 0,0:00:14.67,0:00:18.24,Credit,,0,0,0,,Rockstar Games • Vice City 10 • captura oficial
+Dialogue: 0,0:00:18.24,0:00:20.97,Credit,,0,0,0,,Rockstar Games • An Extended Look • trecho oficial
+Dialogue: 0,0:00:20.97,0:00:24.61,Credit,,0,0,0,,Rockstar Games • Vice City 03 • captura oficial
+Dialogue: 0,0:00:24.61,0:00:26.07,Credit,,0,0,0,,Rockstar Games • Vice City 09 • captura oficial
+Dialogue: 0,0:00:26.07,0:00:30.37,Credit,,0,0,0,,Rockstar Games • An Extended Look • trecho oficial
+Dialogue: 0,0:00:30.37,0:00:33.54,Credit,,0,0,0,,Rockstar Games • Vice City 03 • captura oficial
+Dialogue: 0,0:00:33.54,0:00:36.24,Credit,,0,0,0,,Rockstar Games • Vice City 10 • captura oficial
+Dialogue: 0,0:00:36.24,0:00:41.31,Credit,,0,0,0,,Rockstar Games • An Extended Look • trecho oficial
+Dialogue: 0,0:00:41.31,0:00:47.07,Credit,,0,0,0,,Rockstar Games • Port Gellhorn 01 • captura oficial
+Dialogue: 0,0:00:47.07,0:00:52.84,Credit,,0,0,0,,Rockstar Games • Port Gellhorn 01 • captura oficial
+Dialogue: 0,0:00:52.84,0:00:56.61,Credit,,0,0,0,,Rockstar Games • Port Gellhorn 06 • captura oficial
+Dialogue: 0,0:00:56.61,0:00:59.40,Credit,,0,0,0,,Rockstar Games • Port Gellhorn 01 • captura oficial
+Dialogue: 0,0:00:59.40,0:01:02.90,Credit,,0,0,0,,Rockstar Games • Port Gellhorn 06 • captura oficial
+Dialogue: 0,0:01:02.90,0:01:06.19,Credit,,0,0,0,,Rockstar Games • Port Gellhorn 01 • captura oficial

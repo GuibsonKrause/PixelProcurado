@@ -1,0 +1,47 @@
+[
+  {
+    "block": "L03_B01_P01-P03",
+    "source": "producao\\L03\\voz\\gemini\\bruto_v1\\L03_B01_P01-P03_narracao.wav",
+    "file": "producao\\L03\\voz\\gemini\\uteis_v1\\L03_B01_P01-P03_narracao.wav",
+    "offset": 0,
+    "duration": 45.9,
+    "source_start": 0,
+    "source_end": 45.9
+  },
+  {
+    "block": "L03_B02_P04-P07",
+    "source": "producao\\L03\\voz\\gemini\\bruto_v1\\L03_B02_P04-P07_narracao.wav",
+    "file": "producao\\L03\\voz\\gemini\\uteis_v1\\L03_B02_P04-P07_narracao.wav",
+    "offset": 45.9,
+    "duration": 74.85,
+    "source_start": 0,
+    "source_end": 74.85
+  },
+  {
+    "block": "L03_B03_P08-P12",
+    "source": "producao\\L03\\voz\\gemini\\bruto_v1\\L03_B03_P08-P12_narracao.wav",
+    "file": "producao\\L03\\voz\\gemini\\uteis_v1\\L03_B03_P08-P12_narracao.wav",
+    "offset": 120.75,
+    "duration": 87.48,
+    "source_start": 0,
+    "source_end": 87.48
+  },
+  {
+    "block": "L03_B04_P13-P16",
+    "source": "producao\\L03\\voz\\gemini\\bruto_v1\\L03_B04_P13-P16_narracao.wav",
+    "file": "producao\\L03\\voz\\gemini\\uteis_v1\\L03_B04_P13-P16_narracao.wav",
+    "offset": 208.23000000000002,
+    "duration": 61.52,
+    "source_start": 0,
+    "source_end": 61.52
+  },
+  {
+    "block": "L03_B05_P17-P19",
+    "source": "producao\\L03\\voz\\gemini\\bruto_v2\\L03_B05_P17-P19_narracao.wav",
+    "file": "producao\\L03\\voz\\gemini\\uteis_v1\\L03_B05_P17-P19_narracao.wav",
+    "offset": 269.75,
+    "duration": 60.6,
+    "source_start": 0,
+    "source_end": 60.6
+  }
+]

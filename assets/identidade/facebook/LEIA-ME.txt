@@ -1,0 +1,6 @@
+Facebook — Pixel Procurado
+Perfil: pixel-procurado-facebook-perfil-1080.png (1080 x 1080); logo original do YouTube, redimensionada com margem para recorte circular.
+Capa: pixel-procurado-facebook-capa-1702x630.png (1702 x 630), PNG para preservar logo e letras; proporção 851:315 em resolução dupla.
+Na tela de upload, manter capa centralizada e conferir a prévia do celular antes de salvar.
+Capa adaptada pela ferramenta integrada image_gen; master preservado nesta pasta. Originais do YouTube preservados na pasta superior.
+Prompt: Faithfully reformat supplied Pixel Procurado YouTube banner to Facebook cover 851:315; preserve yellow pixel magnifying glass with P, dark graphite/gold city/map/palms and original typography; place full emblem and exact text within central 60 percent width and height; decorative outer edges and lower-left. Text: PIXEL PROCURADO / GTA investigado. / Detalhes, histórias e evidências. No extra elements, watermarks or crop guides.

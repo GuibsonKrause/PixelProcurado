@@ -1,0 +1,42 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-11T18:55:31.408986+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Por que o pré-load do GTA 6 pesa até 212 GB? Interiores sem tela preta, seis regiões e uma baía inteira sem neblina. Análise das imagens do gameplay oficial (vídeo completo no canal). #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/9f447766e0be493ebf928469aecbd10a.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/6bd526424b344b1eb424853729d50b3c.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/1658f31211ba432ebb8b27ded54db33c.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/55e54d4c224d4d68866826936cc2faf4.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post"
+      }
+    }
+  ]
+}

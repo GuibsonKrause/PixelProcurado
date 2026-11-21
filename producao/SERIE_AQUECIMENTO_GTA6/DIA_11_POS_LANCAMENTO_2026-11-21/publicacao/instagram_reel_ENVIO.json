@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-21T07:20:21.567304+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Um vestido de 50 mil, um carro de luxo soltando fumaça e uma fuga de salto alto. As três apostas do Dia 11 encararam a gameplay real. GTA 6 valeu o hype? Gameplay da live do Alanzoka. #GTA6 #GTAVI #ViceCity",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d0e8a65ec2484b77a6ef7aee66188069.mp4",
+              "thumbnail": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d7fb34c216974d15808f2e5e69cf395f.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

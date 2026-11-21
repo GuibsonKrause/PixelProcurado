@@ -1,0 +1,510 @@
+{
+  "id": "L01-R02",
+  "title": "Jason e Lucia: a premissa de GTA 6 não revela um traidor",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 79.64,
+  "frames": 2390,
+  "voice": "producao/shorts/L01-R02/voz/narracao.wav",
+  "shots": [
+    {
+      "anchor": null,
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_12.jpg",
+      "title": "CONFIANÇA\nNÃO É SPOILER.",
+      "label": "JASON + LUCIA",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "from": 0,
+      "frames": 79,
+      "part": 0,
+      "index": 0,
+      "start": 0.0,
+      "end": 2.6333333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Na premissa",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_11.jpg",
+      "title": "PRECISAM UM DO OUTRO.",
+      "label": "PREMISSA OFICIAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 79,
+      "frames": 192,
+      "part": 0,
+      "index": 1,
+      "start": 2.6333333333333333,
+      "end": 9.033333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Isso coloca confiança",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "A RELAÇÃO SOB PRESSÃO.",
+      "label": "LEITURA DO CANAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 271,
+      "frames": 132,
+      "part": 0,
+      "index": 2,
+      "start": 9.033333333333333,
+      "end": 13.433333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Isso coloca confiança [continuação 2]",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "A RELAÇÃO SOB PRESSÃO.",
+      "label": "LEITURA DO CANAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 403,
+      "frames": 131,
+      "hook": false,
+      "part": 1,
+      "index": 3,
+      "start": 13.433333333333334,
+      "end": 17.8,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Aqui acontece o salto",
+      "file": "",
+      "title": "O SALTO DA TEORIA",
+      "label": "HIPÓTESE ≠ CONCLUSÃO",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "DEPENDÊNCIA",
+        "TRAIÇÃO?"
+      ],
+      "from": 534,
+      "frames": 195,
+      "part": 0,
+      "index": 4,
+      "start": 17.8,
+      "end": 24.3,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "É uma possibilidade",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "O FINAL NÃO ESTÁ AQUI.",
+      "label": "GTA VI • IMAGEM DE APOIO",
+      "mode": "panel",
+      "offset": 61.0,
+      "from": 729,
+      "frames": 126,
+      "part": 0,
+      "index": 5,
+      "start": 24.3,
+      "end": 28.5,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "É uma possibilidade [continuação 2]",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "O FINAL NÃO ESTÁ AQUI.",
+      "label": "GTA VI • IMAGEM DE APOIO",
+      "mode": "panel",
+      "offset": 65.2,
+      "from": 855,
+      "frames": 125,
+      "hook": false,
+      "part": 1,
+      "index": 6,
+      "start": 28.5,
+      "end": 32.666666666666664,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Mas dá para investigar",
+      "file": "",
+      "title": "TROQUE A PERGUNTA",
+      "label": "ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O QUE CADA UM PODE PERDER?"
+      ],
+      "from": 980,
+      "frames": 144,
+      "part": 0,
+      "index": 7,
+      "start": 32.666666666666664,
+      "end": 37.46666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Mas dá para investigar [continuação 2]",
+      "file": "",
+      "title": "TROQUE A PERGUNTA",
+      "label": "ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O QUE CADA UM PODE PERDER?"
+      ],
+      "from": 1124,
+      "frames": 144,
+      "hook": false,
+      "part": 1,
+      "index": 8,
+      "start": 37.46666666666667,
+      "end": 42.266666666666666,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Agora você tem um critério",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_10.jpg",
+      "title": "DECISÕES. HESITAÇÕES. CUSTOS.",
+      "label": "ANÁLISE",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1268,
+      "frames": 183,
+      "part": 0,
+      "index": 9,
+      "start": 42.266666666666666,
+      "end": 48.36666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Só que o cuidado",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason Duval/Jason_Duval_02.jpg",
+      "title": "A MONTAGEM TAMBÉM SUGERE.",
+      "label": "EXEMPLO DE LEITURA • NÃO É SPOILER",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1451,
+      "frames": 140,
+      "part": 0,
+      "index": 10,
+      "start": 48.36666666666667,
+      "end": 53.03333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Só que o cuidado [continuação 2]",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason Duval/Jason_Duval_02.jpg",
+      "title": "A MONTAGEM TAMBÉM SUGERE.",
+      "label": "EXEMPLO DE LEITURA • NÃO É SPOILER",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1591,
+      "frames": 141,
+      "hook": false,
+      "part": 1,
+      "index": 11,
+      "start": 53.03333333333333,
+      "end": 57.733333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O vídeo deve deixar claro",
+      "file": "",
+      "title": "SEPARE AS CAMADAS",
+      "label": "ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "INFORMAÇÃO",
+        "INTERPRETAÇÃO"
+      ],
+      "from": 1732,
+      "frames": 202,
+      "part": 0,
+      "index": 12,
+      "start": 57.733333333333334,
+      "end": 64.46666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "A recompensa é conseguir",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_03.jpg",
+      "title": "CONFLITO SEM SPOILER FABRICADO.",
+      "label": "LEITURA DO CANAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1934,
+      "frames": 162,
+      "part": 0,
+      "index": 13,
+      "start": 64.46666666666667,
+      "end": 69.86666666666666,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A recompensa é conseguir [continuação 2]",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_03.jpg",
+      "title": "CONFLITO SEM SPOILER FABRICADO.",
+      "label": "LEITURA DO CANAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 2096,
+      "frames": 163,
+      "hook": false,
+      "part": 1,
+      "index": 14,
+      "start": 69.86666666666666,
+      "end": 75.3,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O que ela não oferece",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "NENHUM TRAIDOR REVELADO.",
+      "label": "LEITURA DO CANAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 2259,
+      "frames": 110,
+      "part": 0,
+      "index": 15,
+      "start": 75.3,
+      "end": 78.96666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Porque",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_12.jpg",
+      "title": "CONFIANÇA\nNÃO É SPOILER.",
+      "label": "JASON + LUCIA",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "from": 2369,
+      "frames": 21,
+      "part": 0,
+      "index": 16,
+      "start": 78.96666666666667,
+      "end": 79.66666666666667,
+      "animationFrames": 18
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "Um golpe errado não revela quem vai"
+    },
+    {
+      "start": 1.62,
+      "end": 2.47,
+      "text": "trair quem."
+    },
+    {
+      "start": 2.64,
+      "end": 4.05,
+      "text": "Na premissa de GTA seis,"
+    },
+    {
+      "start": 4.4,
+      "end": 6.02,
+      "text": "Jason e Lucia enfrentam um problema que"
+    },
+    {
+      "start": 6.02,
+      "end": 8.1,
+      "text": "cresce e precisam contar um com o"
+    },
+    {
+      "start": 8.1,
+      "end": 8.95,
+      "text": "outro."
+    },
+    {
+      "start": 9.02,
+      "end": 10.99,
+      "text": "Isso coloca confiança no centro da leitura."
+    },
+    {
+      "start": 11.6,
+      "end": 14.28,
+      "text": "Mas existe uma distância enorme entre identificar"
+    },
+    {
+      "start": 14.28,
+      "end": 16.22,
+      "text": "essa tensão e anunciar o desfecho da"
+    },
+    {
+      "start": 16.22,
+      "end": 17.07,
+      "text": "relação."
+    },
+    {
+      "start": 17.8,
+      "end": 19.25,
+      "text": "Aqui acontece o salto:"
+    },
+    {
+      "start": 19.62,
+      "end": 21.44,
+      "text": "você encontra uma história sobre dependência"
+    },
+    {
+      "start": 21.44,
+      "end": 23.16,
+      "text": "e imagina que ela só pode terminar"
+    },
+    {
+      "start": 23.16,
+      "end": 24.01,
+      "text": "em traição."
+    },
+    {
+      "start": 24.3,
+      "end": 26.42,
+      "text": "É uma possibilidade de interpretação, não"
+    },
+    {
+      "start": 26.42,
+      "end": 28.01,
+      "text": "uma conclusão entregue pela premissa."
+    },
+    {
+      "start": 28.78,
+      "end": 30.9,
+      "text": "O mesmo ponto de partida permite conflitos"
+    },
+    {
+      "start": 30.9,
+      "end": 31.85,
+      "text": "que ainda não conhecemos."
+    },
+    {
+      "start": 32.68,
+      "end": 34.68,
+      "text": "Mas dá para investigar a dupla sem"
+    },
+    {
+      "start": 34.68,
+      "end": 36.03,
+      "text": "fingir que o final vazou."
+    },
+    {
+      "start": 36.6,
+      "end": 38.62,
+      "text": "Troque a pergunta sobre quem trai por"
+    },
+    {
+      "start": 38.62,
+      "end": 39.47,
+      "text": "outra:"
+    },
+    {
+      "start": 39.5,
+      "end": 40.98,
+      "text": "o que cada um pode perder ao"
+    },
+    {
+      "start": 40.98,
+      "end": 41.83,
+      "text": "confiar?"
+    },
+    {
+      "start": 42.26,
+      "end": 43.94,
+      "text": "Agora você tem um critério para observar"
+    },
+    {
+      "start": 43.94,
+      "end": 44.79,
+      "text": "decisões,"
+    },
+    {
+      "start": 44.86,
+      "end": 46.86,
+      "text": "hesitações e consequências conforme houver"
+    },
+    {
+      "start": 46.86,
+      "end": 47.87,
+      "text": "evidência sobre elas."
+    },
+    {
+      "start": 48.36,
+      "end": 50.88,
+      "text": "Só que o cuidado precisa continuar na"
+    },
+    {
+      "start": 50.88,
+      "end": 51.68,
+      "text": "montagem."
+    },
+    {
+      "start": 51.68,
+      "end": 53.38,
+      "text": "Colocar uma expressão séria ao lado de"
+    },
+    {
+      "start": 53.38,
+      "end": 55.42,
+      "text": "uma frase sobre traição pode fazer a"
+    },
+    {
+      "start": 55.42,
+      "end": 57.01,
+      "text": "hipótese parecer uma revelação."
+    },
+    {
+      "start": 57.74,
+      "end": 59.76,
+      "text": "O vídeo deve deixar claro quando descreve"
+    },
+    {
+      "start": 59.76,
+      "end": 61.88,
+      "text": "informação divulgada e quando propõe uma"
+    },
+    {
+      "start": 61.88,
+      "end": 63.49,
+      "text": "leitura possível para o espectador."
+    },
+    {
+      "start": 64.48,
+      "end": 66.78,
+      "text": "A recompensa é conseguir discutir a história"
+    },
+    {
+      "start": 66.78,
+      "end": 68.43,
+      "text": "sem precisar fabricar um spoiler."
+    },
+    {
+      "start": 69.0,
+      "end": 70.85,
+      "text": "A confiança já oferece conflito suficiente:"
+    },
+    {
+      "start": 71.52,
+      "end": 73.82,
+      "text": "depender de alguém torna cada decisão compartilhada"
+    },
+    {
+      "start": 73.82,
+      "end": 74.67,
+      "text": "mais importante."
+    },
+    {
+      "start": 75.3,
+      "end": 77.56,
+      "text": "O que ela não oferece, sozinha, é"
+    },
+    {
+      "start": 77.56,
+      "end": 78.41,
+      "text": "o nome de um traidor."
+    },
+    {
+      "start": 78.98,
+      "end": 79.64,
+      "text": "Porque..."
+    }
+  ]
+}

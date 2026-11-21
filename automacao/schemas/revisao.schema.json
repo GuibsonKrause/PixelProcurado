@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "REVISAO_FINAL.json do Pixel Procurado",
+  "description": "Relatorio com evidencias da revisao final independente. Tempos em segundos (numero) ou 'mm:ss'. Caminhos relativos a raiz do projeto. Cobertura minima e hashes sao conferidos por automacao/validar_revisao.py.",
+  "type": "object",
+  "required": ["schema_versao", "revisor", "data", "artefatos", "audio_trechos_ouvidos", "frames_inspecionados", "legendas", "thumbnail", "problemas", "resultado"],
+  "properties": {
+    "schema_versao": {"const": 1},
+    "episodio": {"type": "string"},
+    "revisor": {
+      "type": "object",
+      "required": ["modelo", "agent_id"],
+      "properties": {"modelo": {"type": "string", "minLength": 1}, "agent_id": {"type": "string", "minLength": 1}}
+    },
+    "data": {"type": "string", "minLength": 10},
+    "artefatos": {
+      "type": "array", "minItems": 1,
+      "items": {"type": "object", "required": ["caminho", "sha256"],
+                "properties": {"caminho": {"type": "string", "minLength": 1}, "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}}}
+    },
+    "audio_trechos_ouvidos": {
+      "type": "array", "minItems": 1,
+      "items": {"type": "object", "required": ["inicio", "fim", "observacao"],
+                "properties": {"artefato": {"type": "string"}, "inicio": {"type": ["number", "string"]}, "fim": {"type": ["number", "string"]},
+                              "observacao": {"type": "string", "minLength": 10}}}
+    },
+    "frames_inspecionados": {
+      "type": "array", "minItems": 1,
+      "items": {"type": "object", "required": ["timecode", "arquivo_imagem", "observacao"],
+                "properties": {"artefato": {"type": "string"}, "timecode": {"type": ["number", "string"]}, "arquivo_imagem": {"type": "string", "minLength": 1},
+                              "observacao": {"type": "string", "minLength": 10}}}
+    },
+    "legendas": {
+      "type": "object", "required": ["srt", "amostras"],
+      "properties": {
+        "srt": {"type": "string", "minLength": 1},
+        "amostras": {"type": "array", "minItems": 1,
+                     "items": {"type": "object", "required": ["timecode", "texto", "sincronizado"],
+                               "properties": {"timecode": {"type": ["number", "string"]}, "texto": {"type": "string", "minLength": 1},
+                                             "sincronizado": {"type": "boolean"}, "observacao": {"type": "string"}}}}
+      }
+    },
+    "thumbnail": {
+      "type": "object", "required": ["arquivo", "preview_reduzido", "observacao"],
+      "properties": {"arquivo": {"type": "string", "minLength": 1}, "preview_reduzido": {"type": "string", "minLength": 1},
+                     "observacao": {"type": "string", "minLength": 10}}
+    },
+    "problemas": {
+      "type": "array",
+      "items": {"type": "object", "required": ["severidade", "descricao", "correcao", "status"],
+                "properties": {"severidade": {"enum": ["alta", "media", "baixa"]}, "timecode": {"type": ["number", "string", "null"]},
+                              "descricao": {"type": "string", "minLength": 5}, "correcao": {"type": "string"},
+                              "status": {"enum": ["aberto", "corrigido", "aceito"]}}}
+    },
+    "resultado": {"enum": ["aprovado", "aprovado_com_ressalvas", "reprovado"]}
+  }
+}

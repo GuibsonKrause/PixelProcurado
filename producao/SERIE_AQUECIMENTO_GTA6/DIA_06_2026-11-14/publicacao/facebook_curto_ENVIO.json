@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Tem um streamer nesse porta-malas. E o carro que ele está deitado vai andando, com viatura do lado e live de 51 mil no canto. No GTA 6, o que o carro virou está num ícone embaixo das estrelas. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/0ff0fb2db2c44f528c66b8844e710e73.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: Tem um Streamer no Porta-Malas"
+      }
+    }
+  ]
+}

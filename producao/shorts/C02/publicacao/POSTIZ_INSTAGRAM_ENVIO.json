@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-03T01:13:11.235782+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "O mesmo sonho. Decisões diferentes. 🧩\n\nJason e Lucia podem querer melhorar de vida sem concordar sobre o risco que vale correr. Essa é a nossa leitura da dupla em GTA 6 — não uma previsão do final.\n\nQuem hesitaria primeiro diante de uma oportunidade perigosa: Jason ou Lucia?\n\nFontes: perfis oficiais e premissa do Trailer 2 de GTA VI, Rockstar Games.\n\nImagens: Rockstar Games. Análise e edição: Pixel Procurado. Narração sintética: Gemini TTS.\nCapa ilustrativa com IA; não é captura oficial.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/01/381e77363510b1cae4dd2226a75ae8c43.mp4",
+              "thumbnail": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/b155eb9d17a2fbc786f623d95dfce669.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

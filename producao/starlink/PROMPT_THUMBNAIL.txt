@@ -1,0 +1,18 @@
+# PROMPT E ESTRATÉGIA DA THUMBNAIL - STARLINK BRASIL 2026
+
+## 1. Prompt Utilizado na Arte-Base (sem texto/logo)
+"A cinematic, high-contrast, editorial vertical 9:16 composition showcasing the Starlink satellite internet experience in rural Brazil. In the foreground, an authentic Starlink rectangular dish terminal mounted on an off-grid pole, subtly illuminated with cyan and warm amber rim lighting. In the background, a cozy off-grid modern home with warm interior lights, and an overland 4x4 expedition pickup truck parked on the hill under a breathtaking dark starry night sky with a faint satellite orbital streak across the upper atmosphere. Clean upper third with deep negative space in dark blue/graphite night sky designed specifically for text overlay. 8k, photorealistic, cinematic lighting, Unreal Engine 5 render style, no text, no watermark, no logos."
+
+## 2. Frase da Capa e Hierarquia de Mensagem
+- **Linha 1 (Branco)**: MENSALIDADE CAIU 30%
+- **Linha 2 (Amarelo)**: ANTENA POR R$ 49?
+- **Sub-barra Comparativa**: Pill Vermelha [DE R$ 249] (riscado) ➔ Pill Verde [POR R$ 132 A R$ 174/MÊS]
+- **Selo de Gatilho**: [+ BÔNUS DE R$ 200 NA CONTA]
+- **Selo Topo**: OFERTA BRASIL • 30% OFF
+- **Logo Topo**: STARLINK oficial com vetor orbital e satélite em amarelo
+
+## 3. Estratégia de SEO, CTR e Retenção
+- **Tensão Imediata**: Contraste brutal de valor (antena barata de R$ 49 e mensalidade caindo 30%), ativando o gatilho de curiosidade e oportunidade sem promessa falsa.
+- **Leitura em Dispositivos Móveis**: Tipografia Impact pesada com stroke preto duplo e painel grafite translúcido que garante legibilidade instantânea em miniaturas de 150px na timeline do YouTube Shorts/Reels/TikTok.
+- **Zona Segura (Safe Area)**: Todo o bloco textual e logos está concentrado nos primeiros 750 pixels verticais. A antena iluminada, a casa e o veículo 4x4 ficam 100% desobstruídos no centro e base, totalmente protegidos dos botões de like/comentário e da legenda inferior dos Shorts.
+- **Natureza da Peça**: Montagem editorial cinematográfica para fins jornalísticos e de análise de custo-benefício da promoção Starlink Brasil.

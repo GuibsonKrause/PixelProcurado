@@ -1,0 +1,108 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-16T03:45:49.168074+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Mão dada é no R2. No GTA 6, o botão de andar de mãos dadas aparece no minuto 9:50 do gameplay, e a geladeira da cozinha rosa tem menu de bebidas, ímã de banco e um panfleto que diz Frugality is for Fools. Vídeo completo no canal: 11 detalhes que só se leem pausando. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "ad890b20-f4a3-40e4-985d-8242f5686463",
+              "name": "818db65dc104c65c7e731523dd1d60fa7.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/16/818db65dc104c65c7e731523dd1d60fa7.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: Mão Dada É no R2 #shorts",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "GTA 6 detalhes",
+            "label": "GTA 6 detalhes"
+          },
+          {
+            "value": "GTA 6 Extended Look",
+            "label": "GTA 6 Extended Look"
+          },
+          {
+            "value": "GTA 6 hold hands",
+            "label": "GTA 6 hold hands"
+          },
+          {
+            "value": "GTA 6 R2",
+            "label": "GTA 6 R2"
+          },
+          {
+            "value": "GTA 6 geladeira",
+            "label": "GTA 6 geladeira"
+          },
+          {
+            "value": "GTA 6 HUD",
+            "label": "GTA 6 HUD"
+          },
+          {
+            "value": "GTA 6 quadro a quadro",
+            "label": "GTA 6 quadro a quadro"
+          },
+          {
+            "value": "Leonida",
+            "label": "Leonida"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "a57383b1-2c97-4d3f-bf24-412d4cea1643",
+          "name": "fbdebd4e8d6ea15f03710a14088d7105d6.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/16/fbdebd4e8d6ea15f03710a14088d7105d6.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

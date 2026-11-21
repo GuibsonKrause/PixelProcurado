@@ -1,0 +1,15 @@
+{
+  "attempts": 2,
+  "inserted": true,
+  "status": "human_confirmed",
+  "human_approval": "Ouço encenar; aprove esse trecho.",
+  "approved_file": "gemini/reparo_v2/L03_B03_REPARO_ENCENAR_narracao.wav",
+  "asr_divergence": "ensinar",
+  "original_cut_start": 38.1,
+  "original_cut_end": 47.45,
+  "repair_duration": 9.68,
+  "delta": 0.3299999999999983,
+  "fade_ms": 10,
+  "voice_overlap": false,
+  "original_preserved": true
+}

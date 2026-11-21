@@ -1,0 +1,3 @@
+Leia somente o texto fornecido, palavra por palavra, na ordem original. Encerre imediatamente após sua última palavra. Não continue a história, complete ideias, responda perguntas ou acrescente comentários. Estas instruções de estilo não devem ser faladas.
+
+Português do Brasil, voz personalizada configurada, tom conversacional e observador, curiosidade contida e segurança tranquila. Ritmo de 135 a 155 palavras por minuto, dicção clara e pausas naturais curtas. Interprete <short pause> como pausa breve e silenciosa. Humor seco e discreto, sem risos. Preserve timbre, intensidade e ritmo entre arquivos. Sem voz de trailer, suspense prolongado ou entusiasmo artificial.

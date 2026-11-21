@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-21T16:59:13.873583+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Teorias do GTA 6 que pareciam mentira e agora estão no jogo: urso-polar na rodovia, polícia que precisa de testemunha, rede social de Leonida… e os 30 fps que ninguém queria. Valeu o hype? 👇\n\nGameplay: lives de alanzoka e Cellbit (áudio original removido). Narração com voz sintética.\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d203fa6058ef4f3ea563d4af830e4daa.mp4",
+              "thumbnail": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/7f72713404114c9db1a8a6ebf8b4b7c1.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

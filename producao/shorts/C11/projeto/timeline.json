@@ -1,0 +1,589 @@
+{
+  "id": "C11",
+  "title": "GTA 6: Jason não paga aluguel, mas existe uma cobrança",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 85.65,
+  "frames": 2570,
+  "voice": "producao/shorts/C11/voz/narracao.wav",
+  "shots": [
+    {
+      "anchor": null,
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "MORA GRÁTIS.\nMAS TEM COBRANÇA.",
+      "label": "JASON + BRIAN • GTA VI",
+      "mode": "panel",
+      "offset": 12.0,
+      "hook": true,
+      "motion": 5.0,
+      "from": 0,
+      "frames": 42,
+      "part": 0,
+      "index": 0,
+      "start": 0.0,
+      "end": 1.4,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "GANCHO • SEGUNDA BATIDA",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "MORA GRÁTIS.\nMAS TEM COBRANÇA.",
+      "label": "JASON + BRIAN • GTA VI",
+      "mode": "panel",
+      "offset": 12.0,
+      "hook": true,
+      "motion": 5.0,
+      "from": 42,
+      "frames": 70,
+      "part": 0,
+      "punch": true,
+      "index": 1,
+      "start": 1.4,
+      "end": 3.7333333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Brian oferece",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "UMA CASA. UMA CONTRAPARTIDA.",
+      "label": "TRAILER 2 • BRIAN E JASON",
+      "mode": "panel",
+      "offset": 18.5,
+      "motion": 5.0,
+      "from": 112,
+      "frames": 134,
+      "part": 0,
+      "index": 2,
+      "start": 3.7333333333333334,
+      "end": 8.2,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "É o acordo",
+      "file": "",
+      "title": "O ACORDO DESCRITO",
+      "label": "SÍNTESE DO PERFIL OFICIAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "MORADIA SEM ALUGUEL",
+        "AJUDA NAS COBRANÇAS"
+      ],
+      "from": 246,
+      "frames": 140,
+      "part": 0,
+      "index": 3,
+      "start": 8.2,
+      "end": 12.866666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "O boleto desapareceu",
+      "file": "",
+      "title": "A OBRIGAÇÃO MUDOU DE FORMATO.",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "MORADIA ↔ SERVIÇOS"
+      ],
+      "from": 386,
+      "frames": 124,
+      "part": 0,
+      "index": 4,
+      "start": 12.866666666666667,
+      "end": 17.0,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Ter um lugar",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "UM LUGAR PRA MORAR.",
+      "label": "TRAILER 2 • AMBIENTE DE JASON",
+      "mode": "panel",
+      "offset": 7.8,
+      "motion": 3.5,
+      "from": 510,
+      "frames": 114,
+      "part": 0,
+      "index": 5,
+      "start": 17.0,
+      "end": 20.8,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Ao mesmo tempo",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "PEDIDOS E SERVIÇOS.",
+      "label": "TRAILER 2 • BRIAN E JASON",
+      "mode": "panel",
+      "offset": 20.0,
+      "motion": 3.0,
+      "from": 624,
+      "frames": 117,
+      "part": 0,
+      "index": 6,
+      "start": 20.8,
+      "end": 24.7,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A relação fica",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Brian Heder/Brian_Heder_04.jpg",
+      "title": "O QUE CADA LADO ENTREGA?",
+      "label": "ANÁLISE DA RELAÇÃO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 741,
+      "frames": 203,
+      "part": 0,
+      "index": 7,
+      "start": 24.7,
+      "end": 31.466666666666665,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Imagina precisar",
+      "file": "",
+      "title": "E SE PRECISAR RECUSAR?",
+      "label": "SITUAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "UMA TAREFA",
+        "A SUA MORADIA"
+      ],
+      "from": 944,
+      "frames": 167,
+      "part": 0,
+      "index": 8,
+      "start": 31.466666666666665,
+      "end": 37.03333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "A conversa começa",
+      "file": "",
+      "title": "COMEÇA COM UM FAVOR.",
+      "label": "SITUAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "TERMINA COM AS CAIXAS?"
+      ],
+      "from": 1111,
+      "frames": 192,
+      "part": 0,
+      "index": 9,
+      "start": 37.03333333333333,
+      "end": 43.43333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Essa situação",
+      "file": "",
+      "title": "POSSIBILIDADE.",
+      "label": "LIMITE DO EXEMPLO",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "NÃO É UMA CENA ANUNCIADA"
+      ],
+      "from": 1303,
+      "frames": 180,
+      "part": 0,
+      "index": 10,
+      "start": 43.43333333333333,
+      "end": 49.43333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Também não prova",
+      "file": "",
+      "title": "O ACORDO NÃO PROVA",
+      "label": "LIMITES DA EVIDÊNCIA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "TRAIÇÃO",
+        "PERDA DA CASA"
+      ],
+      "from": 1483,
+      "frames": 117,
+      "part": 0,
+      "index": 11,
+      "start": 49.43333333333333,
+      "end": 53.333333333333336,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "O que sabemos",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "O QUE SABEMOS É A TROCA.",
+      "label": "TRAILER 2 • BRIAN E JASON",
+      "mode": "panel",
+      "offset": 13.0,
+      "motion": 4.0,
+      "from": 1600,
+      "frames": 71,
+      "part": 0,
+      "index": 12,
+      "start": 53.333333333333336,
+      "end": 55.7,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A tensão vem",
+      "file": "",
+      "title": "DIFÍCIL SEPARAR",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "GRATIDÃO",
+        "INTERESSE",
+        "OBRIGAÇÃO"
+      ],
+      "from": 1671,
+      "frames": 187,
+      "part": 0,
+      "index": 13,
+      "start": 55.7,
+      "end": 61.93333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "É aquela oferta",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Brian Heder/Brian_Heder_03.jpg",
+      "title": "LEVE NA OFERTA. PESADA NA VEZ.",
+      "label": "LEITURA DO CANAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1858,
+      "frames": 104,
+      "part": 0,
+      "index": 14,
+      "start": 61.93333333333333,
+      "end": 65.4,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "É aquela oferta [continuação 2]",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Brian Heder/Brian_Heder_03.jpg",
+      "title": "LEVE NA OFERTA. PESADA NA VEZ.",
+      "label": "LEITURA DO CANAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1962,
+      "frames": 103,
+      "hook": false,
+      "part": 1,
+      "index": 15,
+      "start": 65.4,
+      "end": 68.83333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Por isso, o detalhe",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "MORADIA TAMBÉM É RELAÇÃO.",
+      "label": "TRAILER 2 • BRIAN E JASON",
+      "mode": "panel",
+      "offset": 18.5,
+      "motion": 5.0,
+      "from": 2065,
+      "frames": 106,
+      "part": 0,
+      "index": 16,
+      "start": 68.83333333333333,
+      "end": 72.36666666666666,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Por isso, o detalhe [continuação 2]",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "MORADIA TAMBÉM É RELAÇÃO.",
+      "label": "TRAILER 2 • BRIAN E JASON",
+      "mode": "panel",
+      "offset": 22.03333333333333,
+      "motion": 1.4666666666666668,
+      "from": 2171,
+      "frames": 107,
+      "hook": false,
+      "part": 1,
+      "index": 17,
+      "start": 72.36666666666666,
+      "end": 75.93333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Quando alguém",
+      "file": "",
+      "title": "O QUE ACOMPANHA A AJUDA?",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "OFERTA",
+        "PEDIDO"
+      ],
+      "from": 2278,
+      "frames": 172,
+      "part": 0,
+      "index": 18,
+      "start": 75.93333333333334,
+      "end": 81.66666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Principalmente",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Brian Heder/Brian_Heder_04.jpg",
+      "title": "INCLUI A CHAVE DA SUA CASA.",
+      "label": "LEITURA DO CANAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 2450,
+      "frames": 90,
+      "part": 0,
+      "index": 19,
+      "start": 81.66666666666667,
+      "end": 84.66666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Porque",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "MORA GRÁTIS.\nMAS TEM COBRANÇA.",
+      "label": "JASON + BRIAN • GTA VI",
+      "mode": "panel",
+      "offset": 12.0,
+      "hook": true,
+      "motion": 3.0,
+      "from": 2540,
+      "frames": 30,
+      "part": 0,
+      "index": 20,
+      "start": 84.66666666666667,
+      "end": 85.66666666666667,
+      "animationFrames": 18
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Jason mora grátis."
+    },
+    {
+      "start": 1.32,
+      "end": 2.17,
+      "text": "Mas"
+    },
+    {
+      "start": 2.44,
+      "end": 3.29,
+      "text": "tem cobrança."
+    },
+    {
+      "start": 3.74,
+      "end": 5.64,
+      "text": "Brian oferece a propriedade sem aluguel,"
+    },
+    {
+      "start": 5.64,
+      "end": 7.59,
+      "text": "e Jason ajuda com cobranças."
+    },
+    {
+      "start": 8.2,
+      "end": 10.5,
+      "text": "É o acordo descrito na apresentação oficial"
+    },
+    {
+      "start": 10.5,
+      "end": 11.49,
+      "text": "de GTA seis."
+    },
+    {
+      "start": 12.86,
+      "end": 14.33,
+      "text": "O boleto desapareceu;"
+    },
+    {
+      "start": 14.98,
+      "end": 16.53,
+      "text": "a obrigação só mudou de formato."
+    },
+    {
+      "start": 17.0,
+      "end": 19.34,
+      "text": "Ter um lugar pra morar resolve um"
+    },
+    {
+      "start": 19.34,
+      "end": 20.19,
+      "text": "problema importante."
+    },
+    {
+      "start": 20.8,
+      "end": 21.65,
+      "text": "Ao mesmo tempo,"
+    },
+    {
+      "start": 21.9,
+      "end": 23.97,
+      "text": "liga Jason a pedidos e serviços."
+    },
+    {
+      "start": 24.7,
+      "end": 26.92,
+      "text": "A relação fica mais interessante quando a"
+    },
+    {
+      "start": 26.92,
+      "end": 29.16,
+      "text": "gente olha o que cada lado oferece"
+    },
+    {
+      "start": 29.16,
+      "end": 30.49,
+      "text": "e espera receber."
+    },
+    {
+      "start": 31.48,
+      "end": 33.88,
+      "text": "Imagina precisar recusar uma tarefa de alguém"
+    },
+    {
+      "start": 33.88,
+      "end": 36.09,
+      "text": "que também resolve sua moradia."
+    },
+    {
+      "start": 37.02,
+      "end": 39.24,
+      "text": "A conversa começa com um favor e"
+    },
+    {
+      "start": 39.24,
+      "end": 41.64,
+      "text": "termina com você pensando onde vai guardar"
+    },
+    {
+      "start": 41.64,
+      "end": 42.49,
+      "text": "as caixas."
+    },
+    {
+      "start": 43.42,
+      "end": 45.94,
+      "text": "Essa situação é uma possibilidade que o"
+    },
+    {
+      "start": 45.94,
+      "end": 46.79,
+      "text": "acordo sugere,"
+    },
+    {
+      "start": 47.1,
+      "end": 48.49,
+      "text": "não uma cena anunciada."
+    },
+    {
+      "start": 49.44,
+      "end": 51.38,
+      "text": "Também não prova que Brian vai trair"
+    },
+    {
+      "start": 51.38,
+      "end": 52.89,
+      "text": "Jason ou tomar a casa."
+    },
+    {
+      "start": 53.34,
+      "end": 54.99,
+      "text": "O que sabemos é a troca."
+    },
+    {
+      "start": 55.7,
+      "end": 57.64,
+      "text": "A tensão vem da dificuldade que pode"
+    },
+    {
+      "start": 57.64,
+      "end": 59.17,
+      "text": "existir em separar gratidão,"
+    },
+    {
+      "start": 59.46,
+      "end": 60.89,
+      "text": "interesse e obrigação."
+    },
+    {
+      "start": 61.94,
+      "end": 64.5,
+      "text": "É aquela oferta que parece leve enquanto"
+    },
+    {
+      "start": 64.5,
+      "end": 66.84,
+      "text": "a pessoa está explicando e ganha peso"
+    },
+    {
+      "start": 66.84,
+      "end": 68.21,
+      "text": "quando chega a sua vez de cumprir."
+    },
+    {
+      "start": 68.82,
+      "end": 69.67,
+      "text": "Por isso,"
+    },
+    {
+      "start": 69.84,
+      "end": 71.72,
+      "text": "o detalhe da moradia conta mais sobre"
+    },
+    {
+      "start": 71.72,
+      "end": 74.0,
+      "text": "a relação do que simplesmente dizer que"
+    },
+    {
+      "start": 74.0,
+      "end": 75.29,
+      "text": "os dois se conhecem."
+    },
+    {
+      "start": 75.92,
+      "end": 77.89,
+      "text": "Quando alguém oferece e ajuda,"
+    },
+    {
+      "start": 78.34,
+      "end": 80.54,
+      "text": "vale prestar atenção no pedido que acompanha"
+    },
+    {
+      "start": 80.54,
+      "end": 81.39,
+      "text": "o pacote."
+    },
+    {
+      "start": 81.66,
+      "end": 83.58,
+      "text": "Principalmente quando o pacote inclui a chave"
+    },
+    {
+      "start": 83.58,
+      "end": 84.43,
+      "text": "da sua casa."
+    },
+    {
+      "start": 84.66,
+      "end": 85.51,
+      "text": "Porque..."
+    }
+  ]
+}

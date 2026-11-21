@@ -1,0 +1,4 @@
+Montagem editorial 9:16 (Short, Reel, Story). Arte-base gerada por IA (gemini-3-pro-image via automacao/gerar_arte_thumbnail.ps1, uma imagem, sem texto/logo), com texto, selo do canal e logo oficial GTA VI aplicados por compose_thumbnail.py.
+Frase: 16 HORAS / ANTES
+Direcao: Opcao C do roteiro (fuso em contagem regressiva: amanhecer neozelandes, mapa, jogador brasileiro). Prompt completo em thumbnail_base_prompt.txt; prompt efetivamente enviado em thumbnail_base_gerada.png.prompt.txt.
+Observacao: ilustracao gerada, nao e captura de jogo. O controle na arte lembra um DualShock.

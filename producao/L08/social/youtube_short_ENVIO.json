@@ -1,0 +1,59 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-08T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Jason mora sem pagar aluguel na propriedade de Brian, mas a fatura chegou em outro formato. Em GTA 6, um favor desses aproxima ou prende?\n\nFichas oficiais dos personagens de GTA VI: https://www.rockstargames.com/VI/only-in-leonida\nAnálise do material oficial. Imagens: Rockstar Games.\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #Shorts #PixelProcurado",
+          "image": [
+            {
+              "id": "b905491c-53a2-4601-8541-7f53fa38a394",
+              "name": "e67d0f734fd1084e7e99024193eced72.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/08/e67d0f734fd1084e7e99024193eced72.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "O aluguel grátis veio cobrar Jason em GTA 6 #Shorts",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          },
+          {
+            "value": "Brian Heder",
+            "label": "Brian Heder"
+          },
+          {
+            "value": "Jason",
+            "label": "Jason"
+          }
+        ]
+      }
+    }
+  ]
+}

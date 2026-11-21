@@ -1,0 +1,142 @@
+[
+  {
+    "id": "C01",
+    "duration": 79.93333333333334,
+    "frames": 2398,
+    "size_mib": 9.31,
+    "lufs": -17.01,
+    "true_peak": -1.41,
+    "audio_correlation_min": 0.9999641860159998,
+    "sha256": "d1d3da376b6227705ea49a64bf4844d26c80093af3ba988381f33d0fbaf27830"
+  },
+  {
+    "id": "C02",
+    "duration": 78.1,
+    "frames": 2343,
+    "size_mib": 8.63,
+    "lufs": -16.66,
+    "true_peak": -1.38,
+    "audio_correlation_min": 0.99995262571155,
+    "sha256": "35b1009af01f8060a7d0ed5bf9626c70e840367af22f95a838324b308c790be0"
+  },
+  {
+    "id": "C03",
+    "duration": 80.66666666666667,
+    "frames": 2420,
+    "size_mib": 10.66,
+    "lufs": -16.86,
+    "true_peak": -1.37,
+    "audio_correlation_min": 0.9999658111721158,
+    "sha256": "7ba8edd12f864ae7327efc471bc76d6e22a1222a504ce501a928f40887844522"
+  },
+  {
+    "id": "C04",
+    "duration": 76.93333333333334,
+    "frames": 2308,
+    "size_mib": 15.21,
+    "lufs": -16.91,
+    "true_peak": -1.4,
+    "audio_correlation_min": 0.9999597123010381,
+    "sha256": "8ba451592f8bab85b0d08d074cd5a8e27b8112e48ff391664d675184fda99b3c"
+  },
+  {
+    "id": "C05",
+    "duration": 83.96666666666667,
+    "frames": 2519,
+    "size_mib": 20.37,
+    "lufs": -16.75,
+    "true_peak": -1.39,
+    "audio_correlation_min": 0.999971030807094,
+    "sha256": "76dd12a593bc01a4c82ebc5285964c3c7ccb71d563ca6e8ce007e3d3d22c194c"
+  },
+  {
+    "id": "C06",
+    "duration": 79.96666666666667,
+    "frames": 2399,
+    "size_mib": 15.33,
+    "lufs": -16.41,
+    "true_peak": -1.37,
+    "audio_correlation_min": 0.9999703383254672,
+    "sha256": "5e6e81cf8ddb40e0c6abfd4d536dcb135dbb6b6df194ed95d16aa0181c166a41"
+  },
+  {
+    "id": "C07",
+    "duration": 80.46666666666667,
+    "frames": 2414,
+    "size_mib": 16.84,
+    "lufs": -16.82,
+    "true_peak": -1.39,
+    "audio_correlation_min": 0.999964653290507,
+    "sha256": "461d168693d1c5f06c97766a0fefaa3d0c771c8be07ebc4fac54c6396e01a47e"
+  },
+  {
+    "id": "C08",
+    "duration": 78.26666666666667,
+    "frames": 2348,
+    "size_mib": 17.22,
+    "lufs": -16.87,
+    "true_peak": -1.39,
+    "audio_correlation_min": 0.9999637317012686,
+    "sha256": "f0b843b6c5a6a791647c1b64d709824c04f0de02512cbc19a3b56973b5962036"
+  },
+  {
+    "id": "C09",
+    "duration": 79.66666666666667,
+    "frames": 2390,
+    "size_mib": 14.99,
+    "lufs": -16.74,
+    "true_peak": -1.4,
+    "audio_correlation_min": 0.9999628160170311,
+    "sha256": "7fb873f9ae5699625e5edebd0de32abbeef34eed10cd427530062ea42a9b07f2"
+  },
+  {
+    "id": "C10",
+    "duration": 90.1,
+    "frames": 2703,
+    "size_mib": 11.13,
+    "lufs": -16.7,
+    "true_peak": -1.34,
+    "audio_correlation_min": 0.9999651713440747,
+    "sha256": "9b5898f862bb5d9e0b0f42f29dd05254a46b7435be6c44f19c34212207d92c04"
+  },
+  {
+    "id": "C11",
+    "duration": 83.76666666666667,
+    "frames": 2513,
+    "size_mib": 10.32,
+    "lufs": -16.86,
+    "true_peak": -1.4,
+    "audio_correlation_min": 0.9999709882228923,
+    "sha256": "9aac127b55aadec22f2c2b697b45756560e7f2270b6a62a35582637e8712010c"
+  },
+  {
+    "id": "C12",
+    "duration": 83.26666666666667,
+    "frames": 2498,
+    "size_mib": 9.32,
+    "lufs": -16.85,
+    "true_peak": -1.16,
+    "audio_correlation_min": 0.9999422656013572,
+    "sha256": "d3d0494e8868ccb5ec545408632af89d545b7817754c8f511e7b118bbdf3193c"
+  },
+  {
+    "id": "L01-R02",
+    "duration": 79.66666666666667,
+    "frames": 2390,
+    "size_mib": 11.88,
+    "lufs": -16.77,
+    "true_peak": -1.38,
+    "audio_correlation_min": 0.9999545591558646,
+    "sha256": "408098398c6cb5db2574cc5a27b45cea50e4994122c0b6d0c9a0cf48f7ed6009"
+  },
+  {
+    "id": "L01-R03",
+    "duration": 90.73333333333333,
+    "frames": 2722,
+    "size_mib": 16.34,
+    "lufs": -16.95,
+    "true_peak": -1.34,
+    "audio_correlation_min": 0.9999433650667527,
+    "sha256": "35770ba02e5ee74de5fdbb1d403482e2f5743bdad806ad9c1359644082de9718"
+  }
+]

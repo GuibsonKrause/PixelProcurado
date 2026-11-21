@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:02,860
+Repara nesse comando de duas linhas na
+
+2
+00:00:02,860 --> 00:00:04,900
+porta desse carro vermelho no minuto seis
+
+3
+00:00:04,900 --> 00:00:05,933
+e dez.
+
+4
+00:00:05,940 --> 00:00:07,720
+No primeiro dia de jogo, gravar essa
+
+5
+00:00:07,720 --> 00:00:09,080
+regra já salva a sua pele:
+
+6
+00:00:09,720 --> 00:00:11,160
+círculo é pra quando a rua já
+
+7
+00:00:11,160 --> 00:00:11,900
+tá pegando fogo;
+
+8
+00:00:12,640 --> 00:00:14,300
+triângulo é pra quando você quer sair
+
+9
+00:00:14,300 --> 00:00:15,820
+vivo sem chamar a cavalaria.

@@ -1,0 +1,532 @@
+{
+  "schema_versao": 1,
+  "episodio": "ONLY_IN_DADE_2026-11-13",
+  "revisor": {
+    "modelo": "Codex (identificador exato nao exposto ao revisor)",
+    "agent_id": "/root/revisao"
+  },
+  "data": "2026-11-14T19:44:56",
+  "artefatos": [
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4",
+      "sha256": "74b058180a9a9a600f5e5262d8cca141361b9b039f7f578098377435538352dc"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.srt",
+      "sha256": "9442731d7f2ad8de76bcfeebc30487124d40597e4074d9d0d9f299940ba79418"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4",
+      "sha256": "1853158ecd9f2451f9339cd82f7b7269e64d0b4e48326fa1d5b21b39274f9370"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.srt",
+      "sha256": "9442731d7f2ad8de76bcfeebc30487124d40597e4074d9d0d9f299940ba79418"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/_reel/exportacoes/Pixel_Procurado_Only_In_Dade_Reel_V2.mp4",
+      "sha256": "51fabd1687a387cba46960d9bcdc9ae507cd43e7cd240c9f294528e62ce544e0"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/_reel/exportacoes/Pixel_Procurado_Only_In_Dade_Reel_V2.srt",
+      "sha256": "e37cc32feb0267fc6555a0b4d3303395414691fcfaa3e7feab176c4ddc7c6e36"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/_story/exportacoes/Pixel_Procurado_Only_In_Dade_Story_V2.mp4",
+      "sha256": "9b118f49aa5f98badf09c2d8d04652e2fc6fdbb76aa403acbb1fd7a9d3e96b6b"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/_story/exportacoes/Pixel_Procurado_Only_In_Dade_Story_V2.srt",
+      "sha256": "e12aabe9afd2f671170c6bb7de9780ca211b853c90ccb25aebd8f8558f3dc63f"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/publicacao/thumbnail_A/capa_youtube.jpg",
+      "sha256": "0045f3ecf8404b9fde9a4cb97f33380bbccaac5394cf9ed93d7a5aa031816c78"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/publicacao/thumbnail_vertical/capa_youtube.jpg",
+      "sha256": "e12f1a1c6abc7fda3aa97a1ce90047015fcd24f027be7f8c6c5b8948c00877bd"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/publicacao/carrossel/01.jpg",
+      "sha256": "766e421510d9d999fa9a454a20acfcf95e33e08b0e309ab1332c157e240e4218"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/publicacao/carrossel/02.jpg",
+      "sha256": "2b19d55fabf5359babc07d39a6ac979f5027bb51b3e6a2a43b199dee3e57bb38"
+    },
+    {
+      "caminho": "producao/ONLY_IN_DADE_2026-11-13/publicacao/carrossel/03.jpg",
+      "sha256": "ddf5f071e54506fb665f1bff50a966063a05c55a217387a25a7e364f4f52ac7f"
+    }
+  ],
+  "audio_trechos_ouvidos": [],
+  "frames_inspecionados": [
+    {
+      "timecode": 0.1,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_00.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 10.3333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_01.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 14.7333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_02.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_03.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 43.8,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_04.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_05.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 48.8,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_06.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 54.4,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_07.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 60.5,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_08.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 64.5667,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_09.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 67.7333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_10.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 75.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_11.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 83.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_12.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 105.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_13.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 126.9,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_14.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 135.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_15.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 142.6,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_16.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 146.1667,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_17.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 156.0667,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_18.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 159.5,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_19.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 160.4667,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_20.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 164.8,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_21.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 165.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_22.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 173.6666,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_23.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 173.8333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_24.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 195.0333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_25.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 196.8333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Longo_26.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+    },
+    {
+      "timecode": 0.1,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_00.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 10.3333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_01.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 14.7333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_02.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_03.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 43.8,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_04.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_05.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 48.8,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_06.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 54.4,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_07.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 60.5,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_08.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 64.5667,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_09.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 67.7333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_10.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 75.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_11.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 83.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_12.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 105.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_13.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 126.9,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_14.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 135.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_15.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 142.6,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_16.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 146.1667,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_17.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 156.0667,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_18.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 159.5,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_19.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 160.4667,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_20.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 164.8,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_21.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 165.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_22.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 173.6666,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_23.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 173.8333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_24.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 195.0333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_25.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 196.8333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Vertical_26.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_vertical/exportacoes/Pixel_Procurado_Only_In_Dade_Vertical_V2.mp4"
+    },
+    {
+      "timecode": 0.1,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Reel_00.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_reel/exportacoes/Pixel_Procurado_Only_In_Dade_Reel_V2.mp4"
+    },
+    {
+      "timecode": 10.3333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Reel_01.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_reel/exportacoes/Pixel_Procurado_Only_In_Dade_Reel_V2.mp4"
+    },
+    {
+      "timecode": 14.7333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Reel_02.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_reel/exportacoes/Pixel_Procurado_Only_In_Dade_Reel_V2.mp4"
+    },
+    {
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Reel_03.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_reel/exportacoes/Pixel_Procurado_Only_In_Dade_Reel_V2.mp4"
+    },
+    {
+      "timecode": 23.4667,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Reel_04.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_reel/exportacoes/Pixel_Procurado_Only_In_Dade_Reel_V2.mp4"
+    },
+    {
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Reel_05.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_reel/exportacoes/Pixel_Procurado_Only_In_Dade_Reel_V2.mp4"
+    },
+    {
+      "timecode": 66.2,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Reel_06.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_reel/exportacoes/Pixel_Procurado_Only_In_Dade_Reel_V2.mp4"
+    },
+    {
+      "timecode": 0.1,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Story_00.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_story/exportacoes/Pixel_Procurado_Only_In_Dade_Story_V2.mp4"
+    },
+    {
+      "timecode": 10.3333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Story_01.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_story/exportacoes/Pixel_Procurado_Only_In_Dade_Story_V2.mp4"
+    },
+    {
+      "timecode": 14.7333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Story_02.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_story/exportacoes/Pixel_Procurado_Only_In_Dade_Story_V2.mp4"
+    },
+    {
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Story_03.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_story/exportacoes/Pixel_Procurado_Only_In_Dade_Story_V2.mp4"
+    },
+    {
+      "timecode": 16.3333,
+      "arquivo_imagem": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/Story_04.jpg",
+      "observacao": "Quadro final inspecionado na folha correspondente: enquadramento, card, rotulo e legenda; sem escuta de audio.",
+      "artefato": "producao/ONLY_IN_DADE_2026-11-13/_story/exportacoes/Pixel_Procurado_Only_In_Dade_Story_V2.mp4"
+    }
+  ],
+  "legendas": {
+    "srt": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.srt",
+    "amostras": [
+      {
+        "timecode": 0.1,
+        "texto": "Essa filmagem de rua é GTA.",
+        "sincronizado": true,
+        "observacao": "Texto visual compativel com SRT e alinhamento temporal; confirmacao auditiva nao realizada."
+      },
+      {
+        "timecode": 60.5,
+        "texto": "Tem o Albany Buccaneer, um conversível",
+        "sincronizado": true,
+        "observacao": "Texto visual compativel com SRT e alinhamento temporal; confirmacao auditiva nao realizada."
+      },
+      {
+        "timecode": 105,
+        "texto": "pelos carros. No segundo, os carros",
+        "sincronizado": true,
+        "observacao": "Texto visual compativel com SRT e alinhamento temporal; confirmacao auditiva nao realizada."
+      },
+      {
+        "timecode": 159.5,
+        "texto": "No Extended Look, a Rockstar mostra",
+        "sincronizado": true,
+        "observacao": "Texto visual compativel com SRT e alinhamento temporal; confirmacao auditiva nao realizada."
+      },
+      {
+        "timecode": 195.0333,
+        "texto": "com Miami, o da janela ou",
+        "sincronizado": true,
+        "observacao": "Texto visual compativel com SRT e alinhamento temporal; confirmacao auditiva nao realizada."
+      }
+    ]
+  },
+  "thumbnail": {
+    "arquivo": "producao/ONLY_IN_DADE_2026-11-13/publicacao/thumbnail_A/capa_youtube.jpg",
+    "preview_reduzido": "producao/ONLY_IN_DADE_2026-11-13/qa/revisao_final/thumbnail_640.jpg",
+    "observacao": "Capa horizontal, vertical e carrossel vistos na prancha reduzida; texto e imagens coerentes com a pauta."
+  },
+  "problemas": [
+    {
+      "severidade": "alta",
+      "descricao": "Escuta real nao realizada; validacao auditiva obrigatoria permanece pendente. Nao e defeito sonoro constatado.",
+      "correcao": "Humano ouvir trechos minimos do master e vertical: 0-10,125-140,187.2-197.2s; Reel:0-10,56.4-66.4s; Story:0-16.5s. Conferir adicionalmente159-166s nos longos. Registrar somente escuta realmente concluida.",
+      "status": "aberto"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": 135,
+      "descricao": "Legenda PT sobrepoe parcialmente nome do perfil do Trailer1 no master; portugues permanece legivel.",
+      "correcao": "Ressalva visual de densidade de texto; vertical ja separa as camadas. Ajuste opcional em revisao futura.",
+      "status": "aberto"
+    },
+    {
+      "severidade": "media",
+      "timecode": 163.44,
+      "descricao": "P50/P51 mostravam salto do telhado durante descricao do HUD; substituidos e confirmados no master e vertical finais.",
+      "correcao": "Fontes de perseguicao com camera traseira, minimapa e estrelas presentes.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "media",
+      "timecode": 159.96,
+      "descricao": "Legenda tinha tokens o que? ausentes do roteiro.",
+      "correcao": "SRT final e frames159.5/160.4667 confirmam No Extended Look, a Rockstar mostra.",
+      "status": "corrigido"
+    }
+  ],
+  "resultado": "reprovado"
+}

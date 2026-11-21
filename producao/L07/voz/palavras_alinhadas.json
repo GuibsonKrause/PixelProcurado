@@ -1,0 +1,7194 @@
+[
+  {
+    "word": "GTA",
+    "paragraph": 1,
+    "start": 0.0,
+    "end": 0.5,
+    "status": "asr_exact",
+    "asr_word": "GTA"
+  },
+  {
+    "word": "faz",
+    "paragraph": 1,
+    "start": 0.5,
+    "end": 0.96,
+    "status": "asr_exact",
+    "asr_word": "faz"
+  },
+  {
+    "word": "você",
+    "paragraph": 1,
+    "start": 0.96,
+    "end": 1.22,
+    "status": "asr_exact",
+    "asr_word": "você"
+  },
+  {
+    "word": "gostar",
+    "paragraph": 1,
+    "start": 1.22,
+    "end": 1.58,
+    "status": "asr_exact",
+    "asr_word": "gostar"
+  },
+  {
+    "word": "de",
+    "paragraph": 1,
+    "start": 1.58,
+    "end": 1.64,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "propaganda.",
+    "paragraph": 1,
+    "start": 1.64,
+    "end": 2.06,
+    "status": "asr_exact",
+    "asr_word": "propaganda."
+  },
+  {
+    "word": "No",
+    "paragraph": 1,
+    "start": 2.92,
+    "end": 3.14,
+    "status": "asr_exact",
+    "asr_word": "No"
+  },
+  {
+    "word": "GTA",
+    "paragraph": 1,
+    "start": 3.14,
+    "end": 3.3,
+    "status": "asr_exact",
+    "asr_word": "GTA"
+  },
+  {
+    "word": "cinco",
+    "paragraph": 1,
+    "start": 3.3,
+    "end": 3.66,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "5"
+  },
+  {
+    "word": "de",
+    "paragraph": 1,
+    "start": 3.66,
+    "end": 3.82,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "PC,",
+    "paragraph": 1,
+    "start": 3.82,
+    "end": 4.08,
+    "status": "asr_exact",
+    "asr_word": "PC,"
+  },
+  {
+    "word": "a",
+    "paragraph": 1,
+    "start": 4.5,
+    "end": 4.62,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "Self",
+    "paragraph": 1,
+    "start": 4.62,
+    "end": 4.92,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Selfie"
+  },
+  {
+    "word": "Radio",
+    "paragraph": 1,
+    "start": 4.92,
+    "end": 5.18,
+    "status": "asr_exact",
+    "asr_word": "Radio"
+  },
+  {
+    "word": "consegue",
+    "paragraph": 1,
+    "start": 5.18,
+    "end": 5.54,
+    "status": "asr_exact",
+    "asr_word": "consegue"
+  },
+  {
+    "word": "colocar",
+    "paragraph": 1,
+    "start": 5.54,
+    "end": 5.84,
+    "status": "asr_exact",
+    "asr_word": "colocar"
+  },
+  {
+    "word": "locução",
+    "paragraph": 1,
+    "start": 5.84,
+    "end": 6.44,
+    "status": "asr_exact",
+    "asr_word": "locução"
+  },
+  {
+    "word": "e",
+    "paragraph": 1,
+    "start": 6.44,
+    "end": 6.8,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "anúncios",
+    "paragraph": 1,
+    "start": 6.8,
+    "end": 7.2,
+    "status": "asr_exact",
+    "asr_word": "anúncios"
+  },
+  {
+    "word": "no",
+    "paragraph": 1,
+    "start": 7.2,
+    "end": 7.4,
+    "status": "asr_exact",
+    "asr_word": "no"
+  },
+  {
+    "word": "meio",
+    "paragraph": 1,
+    "start": 7.4,
+    "end": 7.54,
+    "status": "asr_exact",
+    "asr_word": "meio"
+  },
+  {
+    "word": "das",
+    "paragraph": 1,
+    "start": 7.54,
+    "end": 7.72,
+    "status": "asr_exact",
+    "asr_word": "das"
+  },
+  {
+    "word": "músicas",
+    "paragraph": 1,
+    "start": 7.72,
+    "end": 8.06,
+    "status": "asr_exact",
+    "asr_word": "músicas"
+  },
+  {
+    "word": "que",
+    "paragraph": 1,
+    "start": 8.06,
+    "end": 8.2,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "você",
+    "paragraph": 1,
+    "start": 8.2,
+    "end": 8.42,
+    "status": "asr_exact",
+    "asr_word": "você"
+  },
+  {
+    "word": "escolheu.",
+    "paragraph": 1,
+    "start": 8.42,
+    "end": 9.02,
+    "status": "asr_exact",
+    "asr_word": "escolheu."
+  },
+  {
+    "word": "Você",
+    "paragraph": 1,
+    "start": 9.44,
+    "end": 9.76,
+    "status": "asr_exact",
+    "asr_word": "Você"
+  },
+  {
+    "word": "monta",
+    "paragraph": 1,
+    "start": 9.76,
+    "end": 10.08,
+    "status": "asr_exact",
+    "asr_word": "monta"
+  },
+  {
+    "word": "a",
+    "paragraph": 1,
+    "start": 10.08,
+    "end": 10.16,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "seleção.",
+    "paragraph": 1,
+    "start": 10.16,
+    "end": 10.54,
+    "status": "asr_exact",
+    "asr_word": "seleção,"
+  },
+  {
+    "word": "O",
+    "paragraph": 1,
+    "start": 11.02,
+    "end": 11.24,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "jogo",
+    "paragraph": 1,
+    "start": 11.24,
+    "end": 11.4,
+    "status": "asr_exact",
+    "asr_word": "jogo"
+  },
+  {
+    "word": "devolve",
+    "paragraph": 1,
+    "start": 11.4,
+    "end": 11.8,
+    "status": "asr_exact",
+    "asr_word": "devolve"
+  },
+  {
+    "word": "uma",
+    "paragraph": 1,
+    "start": 11.8,
+    "end": 11.98,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "emissora.",
+    "paragraph": 1,
+    "start": 11.98,
+    "end": 12.46,
+    "status": "asr_exact",
+    "asr_word": "emissora."
+  },
+  {
+    "word": "Até",
+    "paragraph": 1,
+    "start": 13.3,
+    "end": 13.7,
+    "status": "asr_exact",
+    "asr_word": "Até"
+  },
+  {
+    "word": "o",
+    "paragraph": 1,
+    "start": 13.7,
+    "end": 13.84,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "seu",
+    "paragraph": 1,
+    "start": 13.84,
+    "end": 13.98,
+    "status": "asr_exact",
+    "asr_word": "seu"
+  },
+  {
+    "word": "gosto",
+    "paragraph": 1,
+    "start": 13.98,
+    "end": 14.16,
+    "status": "asr_exact",
+    "asr_word": "gosto"
+  },
+  {
+    "word": "musical",
+    "paragraph": 1,
+    "start": 14.16,
+    "end": 14.68,
+    "status": "asr_exact",
+    "asr_word": "musical"
+  },
+  {
+    "word": "precisa",
+    "paragraph": 1,
+    "start": 14.68,
+    "end": 14.92,
+    "status": "asr_exact",
+    "asr_word": "precisa"
+  },
+  {
+    "word": "dividir",
+    "paragraph": 1,
+    "start": 14.92,
+    "end": 15.38,
+    "status": "asr_exact",
+    "asr_word": "dividir"
+  },
+  {
+    "word": "espaço",
+    "paragraph": 1,
+    "start": 15.38,
+    "end": 15.52,
+    "status": "asr_exact",
+    "asr_word": "espaço"
+  },
+  {
+    "word": "com",
+    "paragraph": 1,
+    "start": 15.52,
+    "end": 15.64,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "alguém",
+    "paragraph": 1,
+    "start": 15.64,
+    "end": 16.0,
+    "status": "asr_exact",
+    "asr_word": "alguém"
+  },
+  {
+    "word": "tentando",
+    "paragraph": 1,
+    "start": 16.0,
+    "end": 16.32,
+    "status": "asr_exact",
+    "asr_word": "tentando"
+  },
+  {
+    "word": "vender",
+    "paragraph": 1,
+    "start": 16.32,
+    "end": 16.52,
+    "status": "asr_exact",
+    "asr_word": "vender"
+  },
+  {
+    "word": "alguma",
+    "paragraph": 1,
+    "start": 16.52,
+    "end": 16.82,
+    "status": "asr_exact",
+    "asr_word": "alguma"
+  },
+  {
+    "word": "coisa.",
+    "paragraph": 1,
+    "start": 16.82,
+    "end": 17.2,
+    "status": "asr_exact",
+    "asr_word": "coisa."
+  },
+  {
+    "word": "Esse",
+    "paragraph": 2,
+    "start": 17.9,
+    "end": 18.173,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Esses detalhes ajudam"
+  },
+  {
+    "word": "detalhe",
+    "paragraph": 2,
+    "start": 18.173,
+    "end": 18.447,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Esses detalhes ajudam"
+  },
+  {
+    "word": "ajuda",
+    "paragraph": 2,
+    "start": 18.447,
+    "end": 18.72,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Esses detalhes ajudam"
+  },
+  {
+    "word": "a",
+    "paragraph": 2,
+    "start": 18.72,
+    "end": 18.82,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "explicar",
+    "paragraph": 2,
+    "start": 18.82,
+    "end": 19.16,
+    "status": "asr_exact",
+    "asr_word": "explicar"
+  },
+  {
+    "word": "por",
+    "paragraph": 2,
+    "start": 19.16,
+    "end": 19.54,
+    "status": "asr_exact",
+    "asr_word": "por"
+  },
+  {
+    "word": "que",
+    "paragraph": 2,
+    "start": 19.54,
+    "end": 19.7,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "o",
+    "paragraph": 2,
+    "start": 19.7,
+    "end": 19.8,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "rádio",
+    "paragraph": 2,
+    "start": 19.8,
+    "end": 20.12,
+    "status": "asr_exact",
+    "asr_word": "rádio"
+  },
+  {
+    "word": "de",
+    "paragraph": 2,
+    "start": 20.12,
+    "end": 20.24,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "GTA",
+    "paragraph": 2,
+    "start": 20.24,
+    "end": 20.52,
+    "status": "asr_exact",
+    "asr_word": "GTA"
+  },
+  {
+    "word": "gruda",
+    "paragraph": 2,
+    "start": 20.52,
+    "end": 20.8,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "agro da tanta"
+  },
+  {
+    "word": "tanto",
+    "paragraph": 2,
+    "start": 20.8,
+    "end": 21.08,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "agro da tanta"
+  },
+  {
+    "word": "na",
+    "paragraph": 2,
+    "start": 21.08,
+    "end": 21.24,
+    "status": "asr_exact",
+    "asr_word": "na"
+  },
+  {
+    "word": "memória.",
+    "paragraph": 2,
+    "start": 21.24,
+    "end": 21.62,
+    "status": "asr_exact",
+    "asr_word": "memória."
+  },
+  {
+    "word": "A",
+    "paragraph": 2,
+    "start": 22.3,
+    "end": 22.5,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "música",
+    "paragraph": 2,
+    "start": 22.5,
+    "end": 22.82,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "acompanha",
+    "paragraph": 2,
+    "start": 22.82,
+    "end": 23.32,
+    "status": "asr_exact",
+    "asr_word": "acompanha"
+  },
+  {
+    "word": "a",
+    "paragraph": 2,
+    "start": 23.32,
+    "end": 23.4,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "viagem,",
+    "paragraph": 2,
+    "start": 23.4,
+    "end": 23.76,
+    "status": "asr_exact",
+    "asr_word": "viagem,"
+  },
+  {
+    "word": "mas",
+    "paragraph": 2,
+    "start": 24.16,
+    "end": 24.34,
+    "status": "asr_exact",
+    "asr_word": "mas"
+  },
+  {
+    "word": "as",
+    "paragraph": 2,
+    "start": 24.34,
+    "end": 24.48,
+    "status": "asr_exact",
+    "asr_word": "as"
+  },
+  {
+    "word": "vozes",
+    "paragraph": 2,
+    "start": 24.48,
+    "end": 24.88,
+    "status": "asr_exact",
+    "asr_word": "vozes"
+  },
+  {
+    "word": "e",
+    "paragraph": 2,
+    "start": 24.88,
+    "end": 25.06,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "os",
+    "paragraph": 2,
+    "start": 25.06,
+    "end": 25.14,
+    "status": "asr_exact",
+    "asr_word": "os"
+  },
+  {
+    "word": "intervalos",
+    "paragraph": 2,
+    "start": 25.14,
+    "end": 25.72,
+    "status": "asr_exact",
+    "asr_word": "intervalos"
+  },
+  {
+    "word": "fazem",
+    "paragraph": 2,
+    "start": 25.72,
+    "end": 26.3,
+    "status": "asr_exact",
+    "asr_word": "fazem"
+  },
+  {
+    "word": "parecer",
+    "paragraph": 2,
+    "start": 26.3,
+    "end": 26.52,
+    "status": "asr_exact",
+    "asr_word": "parecer"
+  },
+  {
+    "word": "que",
+    "paragraph": 2,
+    "start": 26.52,
+    "end": 26.8,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "existe",
+    "paragraph": 2,
+    "start": 26.8,
+    "end": 27.06,
+    "status": "asr_exact",
+    "asr_word": "existe"
+  },
+  {
+    "word": "uma",
+    "paragraph": 2,
+    "start": 27.06,
+    "end": 27.22,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "cidade",
+    "paragraph": 2,
+    "start": 27.22,
+    "end": 27.52,
+    "status": "asr_exact",
+    "asr_word": "cidade"
+  },
+  {
+    "word": "falando",
+    "paragraph": 2,
+    "start": 27.52,
+    "end": 27.86,
+    "status": "asr_exact",
+    "asr_word": "falando"
+  },
+  {
+    "word": "com",
+    "paragraph": 2,
+    "start": 27.86,
+    "end": 28.04,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "você.",
+    "paragraph": 2,
+    "start": 28.04,
+    "end": 28.32,
+    "status": "asr_exact",
+    "asr_word": "você."
+  },
+  {
+    "word": "Na",
+    "paragraph": 3,
+    "start": 29.22,
+    "end": 29.44,
+    "status": "asr_exact",
+    "asr_word": "Na"
+  },
+  {
+    "word": "Self",
+    "paragraph": 3,
+    "start": 29.44,
+    "end": 29.76,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Selfie"
+  },
+  {
+    "word": "Radio,",
+    "paragraph": 3,
+    "start": 29.76,
+    "end": 30.02,
+    "status": "asr_exact",
+    "asr_word": "Radio,"
+  },
+  {
+    "word": "isso",
+    "paragraph": 3,
+    "start": 30.36,
+    "end": 30.5,
+    "status": "asr_exact",
+    "asr_word": "isso"
+  },
+  {
+    "word": "depende",
+    "paragraph": 3,
+    "start": 30.5,
+    "end": 30.76,
+    "status": "asr_exact",
+    "asr_word": "depende"
+  },
+  {
+    "word": "do",
+    "paragraph": 3,
+    "start": 30.76,
+    "end": 31.0,
+    "status": "asr_exact",
+    "asr_word": "do"
+  },
+  {
+    "word": "modo",
+    "paragraph": 3,
+    "start": 31.0,
+    "end": 31.18,
+    "status": "asr_exact",
+    "asr_word": "modo"
+  },
+  {
+    "word": "escolhido.",
+    "paragraph": 3,
+    "start": 31.18,
+    "end": 31.66,
+    "status": "asr_exact",
+    "asr_word": "escolhido."
+  },
+  {
+    "word": "O",
+    "paragraph": 3,
+    "start": 32.2,
+    "end": 32.4,
+    "status": "asr_exact",
+    "asr_word": "O"
+  },
+  {
+    "word": "modo",
+    "paragraph": 3,
+    "start": 32.4,
+    "end": 32.58,
+    "status": "asr_exact",
+    "asr_word": "modo"
+  },
+  {
+    "word": "Radio",
+    "paragraph": 3,
+    "start": 32.58,
+    "end": 32.96,
+    "status": "asr_exact",
+    "asr_word": "radio"
+  },
+  {
+    "word": "mistura",
+    "paragraph": 3,
+    "start": 32.96,
+    "end": 33.54,
+    "status": "asr_exact",
+    "asr_word": "mistura"
+  },
+  {
+    "word": "suas",
+    "paragraph": 3,
+    "start": 33.54,
+    "end": 33.74,
+    "status": "asr_exact",
+    "asr_word": "suas"
+  },
+  {
+    "word": "faixas",
+    "paragraph": 3,
+    "start": 33.74,
+    "end": 34.16,
+    "status": "asr_exact",
+    "asr_word": "faixas"
+  },
+  {
+    "word": "com",
+    "paragraph": 3,
+    "start": 34.16,
+    "end": 34.4,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "intervenções",
+    "paragraph": 3,
+    "start": 34.4,
+    "end": 35.14,
+    "status": "asr_exact",
+    "asr_word": "intervenções"
+  },
+  {
+    "word": "de",
+    "paragraph": 3,
+    "start": 35.14,
+    "end": 35.34,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "uma",
+    "paragraph": 3,
+    "start": 35.34,
+    "end": 35.44,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "estação.",
+    "paragraph": 3,
+    "start": 35.44,
+    "end": 35.9,
+    "status": "asr_exact",
+    "asr_word": "estação."
+  },
+  {
+    "word": "É",
+    "paragraph": 3,
+    "start": 36.56,
+    "end": 36.88,
+    "status": "asr_exact",
+    "asr_word": "É"
+  },
+  {
+    "word": "diferente",
+    "paragraph": 3,
+    "start": 36.88,
+    "end": 37.1,
+    "status": "asr_exact",
+    "asr_word": "diferente"
+  },
+  {
+    "word": "de",
+    "paragraph": 3,
+    "start": 37.1,
+    "end": 37.46,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "simplesmente",
+    "paragraph": 3,
+    "start": 37.46,
+    "end": 38.08,
+    "status": "asr_exact",
+    "asr_word": "simplesmente"
+  },
+  {
+    "word": "deixar",
+    "paragraph": 3,
+    "start": 38.08,
+    "end": 38.56,
+    "status": "asr_exact",
+    "asr_word": "deixar"
+  },
+  {
+    "word": "uma",
+    "paragraph": 3,
+    "start": 38.56,
+    "end": 38.74,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "lista",
+    "paragraph": 3,
+    "start": 38.74,
+    "end": 38.88,
+    "status": "asr_exact",
+    "asr_word": "lista"
+  },
+  {
+    "word": "de",
+    "paragraph": 3,
+    "start": 38.88,
+    "end": 39.04,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "músicas",
+    "paragraph": 3,
+    "start": 39.04,
+    "end": 39.3,
+    "status": "asr_exact",
+    "asr_word": "músicas"
+  },
+  {
+    "word": "tocando",
+    "paragraph": 3,
+    "start": 39.3,
+    "end": 39.62,
+    "status": "asr_exact",
+    "asr_word": "tocando"
+  },
+  {
+    "word": "por",
+    "paragraph": 3,
+    "start": 39.62,
+    "end": 39.82,
+    "status": "asr_exact",
+    "asr_word": "por"
+  },
+  {
+    "word": "fora",
+    "paragraph": 3,
+    "start": 39.82,
+    "end": 40.04,
+    "status": "asr_exact",
+    "asr_word": "fora"
+  },
+  {
+    "word": "do",
+    "paragraph": 3,
+    "start": 40.04,
+    "end": 40.16,
+    "status": "asr_exact",
+    "asr_word": "do"
+  },
+  {
+    "word": "jogo.",
+    "paragraph": 3,
+    "start": 40.16,
+    "end": 40.42,
+    "status": "asr_exact",
+    "asr_word": "jogo."
+  },
+  {
+    "word": "A",
+    "paragraph": 3,
+    "start": 41.0,
+    "end": 41.18,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "playlist",
+    "paragraph": 3,
+    "start": 41.18,
+    "end": 41.44,
+    "status": "asr_exact",
+    "asr_word": "playlist"
+  },
+  {
+    "word": "passa",
+    "paragraph": 3,
+    "start": 41.44,
+    "end": 41.78,
+    "status": "asr_exact",
+    "asr_word": "passa"
+  },
+  {
+    "word": "a",
+    "paragraph": 3,
+    "start": 41.78,
+    "end": 42.04,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "participar",
+    "paragraph": 3,
+    "start": 42.04,
+    "end": 42.36,
+    "status": "asr_exact",
+    "asr_word": "participar"
+  },
+  {
+    "word": "da",
+    "paragraph": 3,
+    "start": 42.36,
+    "end": 42.66,
+    "status": "asr_exact",
+    "asr_word": "da"
+  },
+  {
+    "word": "ficção.",
+    "paragraph": 3,
+    "start": 42.66,
+    "end": 43.06,
+    "status": "asr_exact",
+    "asr_word": "ficção."
+  },
+  {
+    "word": "Parece",
+    "paragraph": 4,
+    "start": 43.78,
+    "end": 44.22,
+    "status": "asr_exact",
+    "asr_word": "Parece"
+  },
+  {
+    "word": "uma",
+    "paragraph": 4,
+    "start": 44.22,
+    "end": 44.42,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "diferença",
+    "paragraph": 4,
+    "start": 44.42,
+    "end": 44.68,
+    "status": "asr_exact",
+    "asr_word": "diferença"
+  },
+  {
+    "word": "pequena",
+    "paragraph": 4,
+    "start": 44.68,
+    "end": 45.32,
+    "status": "asr_exact",
+    "asr_word": "pequena"
+  },
+  {
+    "word": "até",
+    "paragraph": 4,
+    "start": 45.32,
+    "end": 45.6,
+    "status": "asr_exact",
+    "asr_word": "até"
+  },
+  {
+    "word": "você",
+    "paragraph": 4,
+    "start": 45.6,
+    "end": 45.8,
+    "status": "asr_exact",
+    "asr_word": "você"
+  },
+  {
+    "word": "pensar",
+    "paragraph": 4,
+    "start": 45.8,
+    "end": 46.08,
+    "status": "asr_exact",
+    "asr_word": "pensar"
+  },
+  {
+    "word": "no",
+    "paragraph": 4,
+    "start": 46.08,
+    "end": 46.24,
+    "status": "asr_exact",
+    "asr_word": "no"
+  },
+  {
+    "word": "efeito.",
+    "paragraph": 4,
+    "start": 46.24,
+    "end": 46.58,
+    "status": "asr_exact",
+    "asr_word": "efeito."
+  },
+  {
+    "word": "Com",
+    "paragraph": 4,
+    "start": 47.18,
+    "end": 47.36,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Como a"
+  },
+  {
+    "word": "uma",
+    "paragraph": 4,
+    "start": 47.36,
+    "end": 47.54,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Como a"
+  },
+  {
+    "word": "lista",
+    "paragraph": 4,
+    "start": 47.54,
+    "end": 47.68,
+    "status": "asr_exact",
+    "asr_word": "lista"
+  },
+  {
+    "word": "pessoal,",
+    "paragraph": 4,
+    "start": 47.68,
+    "end": 48.08,
+    "status": "asr_exact",
+    "asr_word": "pessoal,"
+  },
+  {
+    "word": "cada",
+    "paragraph": 4,
+    "start": 48.56,
+    "end": 48.7,
+    "status": "asr_exact",
+    "asr_word": "cada"
+  },
+  {
+    "word": "faixa",
+    "paragraph": 4,
+    "start": 48.7,
+    "end": 49.0,
+    "status": "asr_exact",
+    "asr_word": "faixa"
+  },
+  {
+    "word": "foi",
+    "paragraph": 4,
+    "start": 49.0,
+    "end": 49.16,
+    "status": "asr_exact",
+    "asr_word": "foi"
+  },
+  {
+    "word": "escolhida",
+    "paragraph": 4,
+    "start": 49.16,
+    "end": 49.46,
+    "status": "asr_exact",
+    "asr_word": "escolhida"
+  },
+  {
+    "word": "pra",
+    "paragraph": 4,
+    "start": 49.46,
+    "end": 49.62,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "você.",
+    "paragraph": 4,
+    "start": 49.62,
+    "end": 49.94,
+    "status": "asr_exact",
+    "asr_word": "você."
+  },
+  {
+    "word": "Com",
+    "paragraph": 4,
+    "start": 50.56,
+    "end": 50.82,
+    "status": "asr_exact",
+    "asr_word": "Com"
+  },
+  {
+    "word": "um",
+    "paragraph": 4,
+    "start": 50.82,
+    "end": 50.9,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "o"
+  },
+  {
+    "word": "locutor",
+    "paragraph": 4,
+    "start": 50.9,
+    "end": 51.22,
+    "status": "asr_exact",
+    "asr_word": "locutor"
+  },
+  {
+    "word": "e",
+    "paragraph": 4,
+    "start": 51.22,
+    "end": 51.38,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "uma",
+    "paragraph": 4,
+    "start": 51.38,
+    "end": 51.46,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "propaganda",
+    "paragraph": 4,
+    "start": 51.46,
+    "end": 51.72,
+    "status": "asr_exact",
+    "asr_word": "propaganda"
+  },
+  {
+    "word": "no",
+    "paragraph": 4,
+    "start": 51.72,
+    "end": 51.94,
+    "status": "asr_exact",
+    "asr_word": "no"
+  },
+  {
+    "word": "meio,",
+    "paragraph": 4,
+    "start": 51.94,
+    "end": 52.2,
+    "status": "asr_exact",
+    "asr_word": "meio,"
+  },
+  {
+    "word": "surge",
+    "paragraph": 4,
+    "start": 52.54,
+    "end": 52.82,
+    "status": "asr_exact",
+    "asr_word": "surge"
+  },
+  {
+    "word": "a",
+    "paragraph": 4,
+    "start": 52.82,
+    "end": 52.96,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "impressão",
+    "paragraph": 4,
+    "start": 52.96,
+    "end": 53.4,
+    "status": "asr_exact",
+    "asr_word": "impressão"
+  },
+  {
+    "word": "de",
+    "paragraph": 4,
+    "start": 53.4,
+    "end": 53.56,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "que",
+    "paragraph": 4,
+    "start": 53.56,
+    "end": 53.74,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "outras",
+    "paragraph": 4,
+    "start": 53.74,
+    "end": 54.12,
+    "status": "asr_exact",
+    "asr_word": "outras"
+  },
+  {
+    "word": "pessoas",
+    "paragraph": 4,
+    "start": 54.12,
+    "end": 54.46,
+    "status": "asr_exact",
+    "asr_word": "pessoas"
+  },
+  {
+    "word": "também",
+    "paragraph": 4,
+    "start": 54.46,
+    "end": 54.92,
+    "status": "asr_exact",
+    "asr_word": "também"
+  },
+  {
+    "word": "estão",
+    "paragraph": 4,
+    "start": 54.92,
+    "end": 55.16,
+    "status": "asr_exact",
+    "asr_word": "estão"
+  },
+  {
+    "word": "ouvindo",
+    "paragraph": 4,
+    "start": 55.16,
+    "end": 55.38,
+    "status": "asr_exact",
+    "asr_word": "ouvindo"
+  },
+  {
+    "word": "aquela",
+    "paragraph": 4,
+    "start": 55.38,
+    "end": 55.56,
+    "status": "asr_exact",
+    "asr_word": "aquela"
+  },
+  {
+    "word": "transmissão.",
+    "paragraph": 4,
+    "start": 55.56,
+    "end": 56.12,
+    "status": "asr_exact",
+    "asr_word": "transmissão."
+  },
+  {
+    "word": "A",
+    "paragraph": 5,
+    "start": 56.88,
+    "end": 57.26,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "graça",
+    "paragraph": 5,
+    "start": 57.26,
+    "end": 57.78,
+    "status": "asr_exact",
+    "asr_word": "graça"
+  },
+  {
+    "word": "é",
+    "paragraph": 5,
+    "start": 57.78,
+    "end": 58.1,
+    "status": "asr_exact",
+    "asr_word": "é"
+  },
+  {
+    "word": "meio",
+    "paragraph": 5,
+    "start": 58.1,
+    "end": 58.26,
+    "status": "asr_exact",
+    "asr_word": "meio"
+  },
+  {
+    "word": "perversa.",
+    "paragraph": 5,
+    "start": 58.26,
+    "end": 58.9,
+    "status": "asr_exact",
+    "asr_word": "perversa."
+  },
+  {
+    "word": "Fora",
+    "paragraph": 5,
+    "start": 59.4,
+    "end": 59.7,
+    "status": "asr_exact",
+    "asr_word": "Fora"
+  },
+  {
+    "word": "do",
+    "paragraph": 5,
+    "start": 59.7,
+    "end": 59.8,
+    "status": "asr_exact",
+    "asr_word": "do"
+  },
+  {
+    "word": "jogo,",
+    "paragraph": 5,
+    "start": 59.8,
+    "end": 60.12,
+    "status": "asr_exact",
+    "asr_word": "jogo,"
+  },
+  {
+    "word": "a",
+    "paragraph": 5,
+    "start": 60.36,
+    "end": 60.48,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "gente",
+    "paragraph": 5,
+    "start": 60.48,
+    "end": 60.6,
+    "status": "asr_exact",
+    "asr_word": "gente"
+  },
+  {
+    "word": "paga",
+    "paragraph": 5,
+    "start": 60.6,
+    "end": 60.88,
+    "status": "asr_exact",
+    "asr_word": "paga"
+  },
+  {
+    "word": "pra",
+    "paragraph": 5,
+    "start": 60.88,
+    "end": 61.02,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "tirar",
+    "paragraph": 5,
+    "start": 61.02,
+    "end": 61.2,
+    "status": "asr_exact",
+    "asr_word": "tirar"
+  },
+  {
+    "word": "anúncio.",
+    "paragraph": 5,
+    "start": 61.2,
+    "end": 61.64,
+    "status": "asr_exact",
+    "asr_word": "anúncio."
+  },
+  {
+    "word": "Dentro",
+    "paragraph": 5,
+    "start": 62.32,
+    "end": 62.56,
+    "status": "asr_exact",
+    "asr_word": "Dentro"
+  },
+  {
+    "word": "de",
+    "paragraph": 5,
+    "start": 62.56,
+    "end": 62.68,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "GTA,",
+    "paragraph": 5,
+    "start": 62.68,
+    "end": 62.98,
+    "status": "asr_exact",
+    "asr_word": "GTA,"
+  },
+  {
+    "word": "comemora",
+    "paragraph": 5,
+    "start": 63.28,
+    "end": 63.62,
+    "status": "asr_exact",
+    "asr_word": "comemora"
+  },
+  {
+    "word": "quando",
+    "paragraph": 5,
+    "start": 63.62,
+    "end": 63.78,
+    "status": "asr_exact",
+    "asr_word": "quando"
+  },
+  {
+    "word": "ele",
+    "paragraph": 5,
+    "start": 63.78,
+    "end": 63.92,
+    "status": "asr_exact",
+    "asr_word": "ele"
+  },
+  {
+    "word": "aparece",
+    "paragraph": 5,
+    "start": 63.92,
+    "end": 64.24,
+    "status": "asr_exact",
+    "asr_word": "aparece"
+  },
+  {
+    "word": "e",
+    "paragraph": 5,
+    "start": 64.24,
+    "end": 64.82,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "deixa",
+    "paragraph": 5,
+    "start": 64.82,
+    "end": 64.98,
+    "status": "asr_exact",
+    "asr_word": "deixa"
+  },
+  {
+    "word": "a",
+    "paragraph": 5,
+    "start": 64.98,
+    "end": 65.12,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "cidade",
+    "paragraph": 5,
+    "start": 65.12,
+    "end": 65.3,
+    "status": "asr_exact",
+    "asr_word": "cidade"
+  },
+  {
+    "word": "mais",
+    "paragraph": 5,
+    "start": 65.3,
+    "end": 65.46,
+    "status": "asr_exact",
+    "asr_word": "mais"
+  },
+  {
+    "word": "convincente.",
+    "paragraph": 5,
+    "start": 65.46,
+    "end": 66.0,
+    "status": "asr_exact",
+    "asr_word": "convincente."
+  },
+  {
+    "word": "O",
+    "paragraph": 5,
+    "start": 66.94,
+    "end": 67.42,
+    "status": "asr_exact",
+    "asr_word": "O"
+  },
+  {
+    "word": "brasileiro",
+    "paragraph": 5,
+    "start": 67.42,
+    "end": 67.8,
+    "status": "asr_exact",
+    "asr_word": "brasileiro"
+  },
+  {
+    "word": "escapou",
+    "paragraph": 5,
+    "start": 67.8,
+    "end": 68.2,
+    "status": "asr_exact",
+    "asr_word": "escapou"
+  },
+  {
+    "word": "do",
+    "paragraph": 5,
+    "start": 68.2,
+    "end": 68.28,
+    "status": "asr_exact",
+    "asr_word": "do"
+  },
+  {
+    "word": "comercial",
+    "paragraph": 5,
+    "start": 68.28,
+    "end": 68.68,
+    "status": "asr_exact",
+    "asr_word": "comercial"
+  },
+  {
+    "word": "e",
+    "paragraph": 5,
+    "start": 68.68,
+    "end": 68.96,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "deu",
+    "paragraph": 5,
+    "start": 68.96,
+    "end": 69.0,
+    "status": "asr_exact",
+    "asr_word": "deu"
+  },
+  {
+    "word": "a",
+    "paragraph": 5,
+    "start": 69.0,
+    "end": 69.1,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "volta",
+    "paragraph": 5,
+    "start": 69.1,
+    "end": 69.26,
+    "status": "asr_exact",
+    "asr_word": "volta"
+  },
+  {
+    "word": "no",
+    "paragraph": 5,
+    "start": 69.26,
+    "end": 69.44,
+    "status": "asr_exact",
+    "asr_word": "no"
+  },
+  {
+    "word": "quarteirão",
+    "paragraph": 5,
+    "start": 69.44,
+    "end": 69.8,
+    "status": "asr_exact",
+    "asr_word": "quarteirão"
+  },
+  {
+    "word": "pra",
+    "paragraph": 5,
+    "start": 69.8,
+    "end": 69.907,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para o vídeo"
+  },
+  {
+    "word": "ouvir",
+    "paragraph": 5,
+    "start": 69.907,
+    "end": 70.013,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para o vídeo"
+  },
+  {
+    "word": "de",
+    "paragraph": 5,
+    "start": 70.013,
+    "end": 70.12,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para o vídeo"
+  },
+  {
+    "word": "novo.",
+    "paragraph": 5,
+    "start": 70.12,
+    "end": 70.38,
+    "status": "asr_exact",
+    "asr_word": "novo."
+  },
+  {
+    "word": "Isso",
+    "paragraph": 6,
+    "start": 71.46,
+    "end": 71.74,
+    "status": "asr_exact",
+    "asr_word": "Isso"
+  },
+  {
+    "word": "funciona",
+    "paragraph": 6,
+    "start": 71.74,
+    "end": 72.02,
+    "status": "asr_exact",
+    "asr_word": "funciona"
+  },
+  {
+    "word": "porque",
+    "paragraph": 6,
+    "start": 72.02,
+    "end": 72.32,
+    "status": "asr_exact",
+    "asr_word": "porque"
+  },
+  {
+    "word": "o",
+    "paragraph": 6,
+    "start": 72.32,
+    "end": 72.42,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "anúncio",
+    "paragraph": 6,
+    "start": 72.42,
+    "end": 72.7,
+    "status": "asr_exact",
+    "asr_word": "anúncio"
+  },
+  {
+    "word": "fictício",
+    "paragraph": 6,
+    "start": 72.7,
+    "end": 73.28,
+    "status": "asr_exact",
+    "asr_word": "fictício"
+  },
+  {
+    "word": "pode",
+    "paragraph": 6,
+    "start": 73.28,
+    "end": 73.58,
+    "status": "asr_exact",
+    "asr_word": "pode"
+  },
+  {
+    "word": "contar",
+    "paragraph": 6,
+    "start": 73.58,
+    "end": 73.9,
+    "status": "asr_exact",
+    "asr_word": "contar"
+  },
+  {
+    "word": "algo",
+    "paragraph": 6,
+    "start": 73.9,
+    "end": 74.44,
+    "status": "asr_exact",
+    "asr_word": "algo"
+  },
+  {
+    "word": "sobre",
+    "paragraph": 6,
+    "start": 74.44,
+    "end": 74.74,
+    "status": "asr_exact",
+    "asr_word": "sobre"
+  },
+  {
+    "word": "aquele",
+    "paragraph": 6,
+    "start": 74.74,
+    "end": 74.96,
+    "status": "asr_exact",
+    "asr_word": "aquele"
+  },
+  {
+    "word": "mundo.",
+    "paragraph": 6,
+    "start": 74.96,
+    "end": 75.26,
+    "status": "asr_exact",
+    "asr_word": "mundo."
+  },
+  {
+    "word": "O",
+    "paragraph": 6,
+    "start": 75.88,
+    "end": 76.04,
+    "status": "asr_exact",
+    "asr_word": "O"
+  },
+  {
+    "word": "que",
+    "paragraph": 6,
+    "start": 76.04,
+    "end": 76.1,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "as",
+    "paragraph": 6,
+    "start": 76.1,
+    "end": 76.18,
+    "status": "asr_exact",
+    "asr_word": "as"
+  },
+  {
+    "word": "pessoas",
+    "paragraph": 6,
+    "start": 76.18,
+    "end": 76.4,
+    "status": "asr_exact",
+    "asr_word": "pessoas"
+  },
+  {
+    "word": "querem",
+    "paragraph": 6,
+    "start": 76.4,
+    "end": 76.62,
+    "status": "asr_exact",
+    "asr_word": "querem"
+  },
+  {
+    "word": "comprar,",
+    "paragraph": 6,
+    "start": 76.62,
+    "end": 77.0,
+    "status": "asr_exact",
+    "asr_word": "comprar,"
+  },
+  {
+    "word": "como",
+    "paragraph": 6,
+    "start": 77.52,
+    "end": 77.8,
+    "status": "asr_exact",
+    "asr_word": "como"
+  },
+  {
+    "word": "alguém",
+    "paragraph": 6,
+    "start": 77.8,
+    "end": 78.14,
+    "status": "asr_exact",
+    "asr_word": "alguém"
+  },
+  {
+    "word": "tenta",
+    "paragraph": 6,
+    "start": 78.14,
+    "end": 78.54,
+    "status": "asr_exact",
+    "asr_word": "tenta"
+  },
+  {
+    "word": "convencer",
+    "paragraph": 6,
+    "start": 78.54,
+    "end": 78.96,
+    "status": "asr_exact",
+    "asr_word": "convencer"
+  },
+  {
+    "word": "o",
+    "paragraph": 6,
+    "start": 78.96,
+    "end": 79.04,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "público,",
+    "paragraph": 6,
+    "start": 79.04,
+    "end": 79.4,
+    "status": "asr_exact",
+    "asr_word": "público,"
+  },
+  {
+    "word": "que",
+    "paragraph": 6,
+    "start": 79.4,
+    "end": 79.86,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "promessa",
+    "paragraph": 6,
+    "start": 79.86,
+    "end": 80.26,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para mim é absurdo,"
+  },
+  {
+    "word": "absurda",
+    "paragraph": 6,
+    "start": 80.26,
+    "end": 80.66,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para mim é absurdo,"
+  },
+  {
+    "word": "parece",
+    "paragraph": 6,
+    "start": 80.7,
+    "end": 80.96,
+    "status": "asr_exact",
+    "asr_word": "parece"
+  },
+  {
+    "word": "normal",
+    "paragraph": 6,
+    "start": 80.96,
+    "end": 81.24,
+    "status": "asr_exact",
+    "asr_word": "normal"
+  },
+  {
+    "word": "por",
+    "paragraph": 6,
+    "start": 81.24,
+    "end": 81.56,
+    "status": "asr_exact",
+    "asr_word": "por"
+  },
+  {
+    "word": "ali.",
+    "paragraph": 6,
+    "start": 81.56,
+    "end": 81.8,
+    "status": "asr_exact",
+    "asr_word": "ali."
+  },
+  {
+    "word": "Tem",
+    "paragraph": 6,
+    "start": 82.36,
+    "end": 82.62,
+    "status": "asr_exact",
+    "asr_word": "Tem"
+  },
+  {
+    "word": "uma",
+    "paragraph": 6,
+    "start": 82.62,
+    "end": 82.74,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "parte",
+    "paragraph": 6,
+    "start": 82.74,
+    "end": 83.0,
+    "status": "asr_exact",
+    "asr_word": "parte"
+  },
+  {
+    "word": "da",
+    "paragraph": 6,
+    "start": 83.0,
+    "end": 83.14,
+    "status": "asr_exact",
+    "asr_word": "da"
+  },
+  {
+    "word": "sátira",
+    "paragraph": 6,
+    "start": 83.14,
+    "end": 83.56,
+    "status": "asr_exact",
+    "asr_word": "sátira"
+  },
+  {
+    "word": "que",
+    "paragraph": 6,
+    "start": 83.56,
+    "end": 83.72,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "chega",
+    "paragraph": 6,
+    "start": 83.72,
+    "end": 83.92,
+    "status": "asr_exact",
+    "asr_word": "chega"
+  },
+  {
+    "word": "pelo",
+    "paragraph": 6,
+    "start": 83.92,
+    "end": 84.16,
+    "status": "asr_exact",
+    "asr_word": "pelo"
+  },
+  {
+    "word": "ouvido",
+    "paragraph": 6,
+    "start": 84.16,
+    "end": 84.62,
+    "status": "asr_exact",
+    "asr_word": "ouvido"
+  },
+  {
+    "word": "enquanto",
+    "paragraph": 6,
+    "start": 84.62,
+    "end": 84.92,
+    "status": "asr_exact",
+    "asr_word": "enquanto"
+  },
+  {
+    "word": "você",
+    "paragraph": 6,
+    "start": 84.92,
+    "end": 85.3,
+    "status": "asr_exact",
+    "asr_word": "você"
+  },
+  {
+    "word": "olha",
+    "paragraph": 6,
+    "start": 85.3,
+    "end": 85.46,
+    "status": "asr_exact",
+    "asr_word": "olha"
+  },
+  {
+    "word": "a",
+    "paragraph": 6,
+    "start": 85.46,
+    "end": 85.6,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "rua.",
+    "paragraph": 6,
+    "start": 85.6,
+    "end": 85.74,
+    "status": "asr_exact",
+    "asr_word": "rua."
+  },
+  {
+    "word": "Vamos",
+    "paragraph": 7,
+    "start": 86.88,
+    "end": 87.22,
+    "status": "asr_exact",
+    "asr_word": "Vamos"
+  },
+  {
+    "word": "imaginar",
+    "paragraph": 7,
+    "start": 87.22,
+    "end": 87.6,
+    "status": "asr_exact",
+    "asr_word": "imaginar"
+  },
+  {
+    "word": "um",
+    "paragraph": 7,
+    "start": 87.6,
+    "end": 87.74,
+    "status": "asr_exact",
+    "asr_word": "um"
+  },
+  {
+    "word": "carro",
+    "paragraph": 7,
+    "start": 87.74,
+    "end": 87.96,
+    "status": "asr_exact",
+    "asr_word": "carro"
+  },
+  {
+    "word": "passando",
+    "paragraph": 7,
+    "start": 87.96,
+    "end": 88.3,
+    "status": "asr_exact",
+    "asr_word": "passando"
+  },
+  {
+    "word": "pela",
+    "paragraph": 7,
+    "start": 88.3,
+    "end": 88.48,
+    "status": "asr_exact",
+    "asr_word": "pela"
+  },
+  {
+    "word": "orla.",
+    "paragraph": 7,
+    "start": 88.48,
+    "end": 88.86,
+    "status": "asr_exact",
+    "asr_word": "orla."
+  },
+  {
+    "word": "A",
+    "paragraph": 7,
+    "start": 89.42,
+    "end": 89.52,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "rua",
+    "paragraph": 7,
+    "start": 89.52,
+    "end": 89.66,
+    "status": "asr_exact",
+    "asr_word": "rua"
+  },
+  {
+    "word": "é",
+    "paragraph": 7,
+    "start": 89.66,
+    "end": 89.74,
+    "status": "asr_exact",
+    "asr_word": "é"
+  },
+  {
+    "word": "a",
+    "paragraph": 7,
+    "start": 89.74,
+    "end": 89.82,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "mesma,",
+    "paragraph": 7,
+    "start": 89.82,
+    "end": 90.12,
+    "status": "asr_exact",
+    "asr_word": "mesma,"
+  },
+  {
+    "word": "a",
+    "paragraph": 7,
+    "start": 90.44,
+    "end": 90.46,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "câmera",
+    "paragraph": 7,
+    "start": 90.46,
+    "end": 90.7,
+    "status": "asr_exact",
+    "asr_word": "câmera"
+  },
+  {
+    "word": "é",
+    "paragraph": 7,
+    "start": 90.7,
+    "end": 90.86,
+    "status": "asr_exact",
+    "asr_word": "é"
+  },
+  {
+    "word": "a",
+    "paragraph": 7,
+    "start": 90.86,
+    "end": 90.88,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "mesma,",
+    "paragraph": 7,
+    "start": 90.88,
+    "end": 91.24,
+    "status": "asr_exact",
+    "asr_word": "mesma,"
+  },
+  {
+    "word": "mas",
+    "paragraph": 7,
+    "start": 91.74,
+    "end": 91.96,
+    "status": "asr_exact",
+    "asr_word": "mas"
+  },
+  {
+    "word": "toca",
+    "paragraph": 7,
+    "start": 91.96,
+    "end": 92.14,
+    "status": "asr_exact",
+    "asr_word": "toca"
+  },
+  {
+    "word": "uma",
+    "paragraph": 7,
+    "start": 92.14,
+    "end": 92.3,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "música",
+    "paragraph": 7,
+    "start": 92.3,
+    "end": 92.48,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "tranquila.",
+    "paragraph": 7,
+    "start": 92.48,
+    "end": 92.96,
+    "status": "asr_exact",
+    "asr_word": "tranquila."
+  },
+  {
+    "word": "Dá",
+    "paragraph": 7,
+    "start": 93.44,
+    "end": 93.62,
+    "status": "asr_exact",
+    "asr_word": "Dá"
+  },
+  {
+    "word": "vontade",
+    "paragraph": 7,
+    "start": 93.62,
+    "end": 93.84,
+    "status": "asr_exact",
+    "asr_word": "vontade"
+  },
+  {
+    "word": "de",
+    "paragraph": 7,
+    "start": 93.84,
+    "end": 94.04,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "seguir",
+    "paragraph": 7,
+    "start": 94.04,
+    "end": 94.24,
+    "status": "asr_exact",
+    "asr_word": "seguir"
+  },
+  {
+    "word": "mais",
+    "paragraph": 7,
+    "start": 94.24,
+    "end": 94.44,
+    "status": "asr_exact",
+    "asr_word": "mais"
+  },
+  {
+    "word": "um",
+    "paragraph": 7,
+    "start": 94.44,
+    "end": 94.56,
+    "status": "asr_exact",
+    "asr_word": "um"
+  },
+  {
+    "word": "pouco,",
+    "paragraph": 7,
+    "start": 94.56,
+    "end": 94.88,
+    "status": "asr_exact",
+    "asr_word": "pouco,"
+  },
+  {
+    "word": "olhar",
+    "paragraph": 7,
+    "start": 95.12,
+    "end": 95.28,
+    "status": "asr_exact",
+    "asr_word": "olhar"
+  },
+  {
+    "word": "o",
+    "paragraph": 7,
+    "start": 95.28,
+    "end": 95.46,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "mar",
+    "paragraph": 7,
+    "start": 95.46,
+    "end": 95.6,
+    "status": "asr_exact",
+    "asr_word": "mar"
+  },
+  {
+    "word": "e",
+    "paragraph": 7,
+    "start": 95.6,
+    "end": 96.12,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "adiar",
+    "paragraph": 7,
+    "start": 96.12,
+    "end": 96.347,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "a diál de estino."
+  },
+  {
+    "word": "o",
+    "paragraph": 7,
+    "start": 96.347,
+    "end": 96.573,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "a diál de estino."
+  },
+  {
+    "word": "destino.",
+    "paragraph": 7,
+    "start": 96.573,
+    "end": 96.8,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "a diál de estino."
+  },
+  {
+    "word": "Agora",
+    "paragraph": 8,
+    "start": 97.62,
+    "end": 97.9,
+    "status": "asr_exact",
+    "asr_word": "Agora"
+  },
+  {
+    "word": "troca",
+    "paragraph": 8,
+    "start": 97.9,
+    "end": 98.2,
+    "status": "asr_exact",
+    "asr_word": "troca"
+  },
+  {
+    "word": "por",
+    "paragraph": 8,
+    "start": 98.2,
+    "end": 98.36,
+    "status": "asr_exact",
+    "asr_word": "por"
+  },
+  {
+    "word": "uma",
+    "paragraph": 8,
+    "start": 98.36,
+    "end": 98.46,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "faixa",
+    "paragraph": 8,
+    "start": 98.46,
+    "end": 98.68,
+    "status": "asr_exact",
+    "asr_word": "faixa"
+  },
+  {
+    "word": "agressiva.",
+    "paragraph": 8,
+    "start": 98.68,
+    "end": 99.24,
+    "status": "asr_exact",
+    "asr_word": "agressiva."
+  },
+  {
+    "word": "O",
+    "paragraph": 8,
+    "start": 99.72,
+    "end": 100.02,
+    "status": "asr_exact",
+    "asr_word": "O"
+  },
+  {
+    "word": "cenário",
+    "paragraph": 8,
+    "start": 100.02,
+    "end": 100.26,
+    "status": "asr_exact",
+    "asr_word": "cenário"
+  },
+  {
+    "word": "não",
+    "paragraph": 8,
+    "start": 100.26,
+    "end": 100.38,
+    "status": "asr_exact",
+    "asr_word": "não"
+  },
+  {
+    "word": "mudou,",
+    "paragraph": 8,
+    "start": 100.38,
+    "end": 100.66,
+    "status": "asr_exact",
+    "asr_word": "mudou,"
+  },
+  {
+    "word": "mas",
+    "paragraph": 8,
+    "start": 101.12,
+    "end": 101.48,
+    "status": "asr_exact",
+    "asr_word": "mas"
+  },
+  {
+    "word": "o",
+    "paragraph": 8,
+    "start": 101.48,
+    "end": 101.62,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "mesmo",
+    "paragraph": 8,
+    "start": 101.62,
+    "end": 101.82,
+    "status": "asr_exact",
+    "asr_word": "mesmo"
+  },
+  {
+    "word": "motorista",
+    "paragraph": 8,
+    "start": 101.82,
+    "end": 102.38,
+    "status": "asr_exact",
+    "asr_word": "motorista"
+  },
+  {
+    "word": "já",
+    "paragraph": 8,
+    "start": 102.38,
+    "end": 102.58,
+    "status": "asr_exact",
+    "asr_word": "já"
+  },
+  {
+    "word": "se",
+    "paragraph": 8,
+    "start": 102.58,
+    "end": 102.66,
+    "status": "asr_exact",
+    "asr_word": "se"
+  },
+  {
+    "word": "sente",
+    "paragraph": 8,
+    "start": 102.66,
+    "end": 102.82,
+    "status": "asr_exact",
+    "asr_word": "sente"
+  },
+  {
+    "word": "protagonista",
+    "paragraph": 8,
+    "start": 102.82,
+    "end": 103.5,
+    "status": "asr_exact",
+    "asr_word": "protagonista"
+  },
+  {
+    "word": "de",
+    "paragraph": 8,
+    "start": 103.5,
+    "end": 103.64,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "uma",
+    "paragraph": 8,
+    "start": 103.64,
+    "end": 103.74,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "operação",
+    "paragraph": 8,
+    "start": 103.74,
+    "end": 104.18,
+    "status": "asr_exact",
+    "asr_word": "operação"
+  },
+  {
+    "word": "que",
+    "paragraph": 8,
+    "start": 104.18,
+    "end": 104.34,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "claramente",
+    "paragraph": 8,
+    "start": 104.34,
+    "end": 104.74,
+    "status": "asr_exact",
+    "asr_word": "claramente"
+  },
+  {
+    "word": "não",
+    "paragraph": 8,
+    "start": 104.74,
+    "end": 104.88,
+    "status": "asr_exact",
+    "asr_word": "não"
+  },
+  {
+    "word": "foi",
+    "paragraph": 8,
+    "start": 104.88,
+    "end": 105.0,
+    "status": "asr_exact",
+    "asr_word": "foi"
+  },
+  {
+    "word": "planejada.",
+    "paragraph": 8,
+    "start": 105.0,
+    "end": 105.58,
+    "status": "asr_exact",
+    "asr_word": "planejada."
+  },
+  {
+    "word": "Bastou",
+    "paragraph": 8,
+    "start": 106.2,
+    "end": 106.68,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Basta"
+  },
+  {
+    "word": "mudar",
+    "paragraph": 8,
+    "start": 106.68,
+    "end": 106.88,
+    "status": "asr_exact",
+    "asr_word": "mudar"
+  },
+  {
+    "word": "a",
+    "paragraph": 8,
+    "start": 106.88,
+    "end": 107.1,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "música.",
+    "paragraph": 8,
+    "start": 107.1,
+    "end": 107.32,
+    "status": "asr_exact",
+    "asr_word": "música."
+  },
+  {
+    "word": "A",
+    "paragraph": 8,
+    "start": 108.14,
+    "end": 108.32,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "competência",
+    "paragraph": 8,
+    "start": 108.32,
+    "end": 108.76,
+    "status": "asr_exact",
+    "asr_word": "competência"
+  },
+  {
+    "word": "pra",
+    "paragraph": 8,
+    "start": 108.76,
+    "end": 108.94,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "fazer",
+    "paragraph": 8,
+    "start": 108.94,
+    "end": 109.14,
+    "status": "asr_exact",
+    "asr_word": "fazer"
+  },
+  {
+    "word": "a",
+    "paragraph": 8,
+    "start": 109.14,
+    "end": 109.28,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "curva",
+    "paragraph": 8,
+    "start": 109.28,
+    "end": 109.46,
+    "status": "asr_exact",
+    "asr_word": "curva"
+  },
+  {
+    "word": "continua",
+    "paragraph": 8,
+    "start": 109.46,
+    "end": 109.76,
+    "status": "asr_exact",
+    "asr_word": "continua"
+  },
+  {
+    "word": "exatamente",
+    "paragraph": 8,
+    "start": 109.76,
+    "end": 110.18,
+    "status": "asr_exact",
+    "asr_word": "exatamente"
+  },
+  {
+    "word": "igual.",
+    "paragraph": 8,
+    "start": 110.18,
+    "end": 110.56,
+    "status": "asr_exact",
+    "asr_word": "igual."
+  },
+  {
+    "word": "É",
+    "paragraph": 9,
+    "start": 110.98,
+    "end": 111.12,
+    "status": "asr_exact",
+    "asr_word": "É"
+  },
+  {
+    "word": "um",
+    "paragraph": 9,
+    "start": 111.12,
+    "end": 111.18,
+    "status": "asr_exact",
+    "asr_word": "um"
+  },
+  {
+    "word": "exemplo",
+    "paragraph": 9,
+    "start": 111.18,
+    "end": 111.5,
+    "status": "asr_exact",
+    "asr_word": "exemplo"
+  },
+  {
+    "word": "pra",
+    "paragraph": 9,
+    "start": 111.5,
+    "end": 111.68,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "mostrar",
+    "paragraph": 9,
+    "start": 111.68,
+    "end": 112.0,
+    "status": "asr_exact",
+    "asr_word": "mostrar"
+  },
+  {
+    "word": "como",
+    "paragraph": 9,
+    "start": 112.0,
+    "end": 112.46,
+    "status": "asr_exact",
+    "asr_word": "como"
+  },
+  {
+    "word": "o",
+    "paragraph": 9,
+    "start": 112.46,
+    "end": 112.68,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "som",
+    "paragraph": 9,
+    "start": 112.68,
+    "end": 112.76,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "sol"
+  },
+  {
+    "word": "altera",
+    "paragraph": 9,
+    "start": 112.76,
+    "end": 113.18,
+    "status": "asr_exact",
+    "asr_word": "altera"
+  },
+  {
+    "word": "a",
+    "paragraph": 9,
+    "start": 113.18,
+    "end": 113.26,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "leitura",
+    "paragraph": 9,
+    "start": 113.26,
+    "end": 113.58,
+    "status": "asr_exact",
+    "asr_word": "leitura"
+  },
+  {
+    "word": "de",
+    "paragraph": 9,
+    "start": 113.58,
+    "end": 113.76,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "uma",
+    "paragraph": 9,
+    "start": 113.76,
+    "end": 113.88,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "ação.",
+    "paragraph": 9,
+    "start": 113.88,
+    "end": 114.16,
+    "status": "asr_exact",
+    "asr_word": "ação."
+  },
+  {
+    "word": "A",
+    "paragraph": 9,
+    "start": 114.98,
+    "end": 115.04,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "gente",
+    "paragraph": 9,
+    "start": 115.04,
+    "end": 115.12,
+    "status": "asr_exact",
+    "asr_word": "gente"
+  },
+  {
+    "word": "atribui",
+    "paragraph": 9,
+    "start": 115.12,
+    "end": 115.6,
+    "status": "asr_exact",
+    "asr_word": "atribui"
+  },
+  {
+    "word": "intenção",
+    "paragraph": 9,
+    "start": 115.6,
+    "end": 116.18,
+    "status": "asr_exact",
+    "asr_word": "intenção"
+  },
+  {
+    "word": "e",
+    "paragraph": 9,
+    "start": 116.18,
+    "end": 116.34,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "em"
+  },
+  {
+    "word": "clima",
+    "paragraph": 9,
+    "start": 116.34,
+    "end": 116.54,
+    "status": "asr_exact",
+    "asr_word": "clima"
+  },
+  {
+    "word": "ao",
+    "paragraph": 9,
+    "start": 116.54,
+    "end": 116.66,
+    "status": "asr_exact",
+    "asr_word": "ao"
+  },
+  {
+    "word": "passeio.",
+    "paragraph": 9,
+    "start": 116.66,
+    "end": 117.12,
+    "status": "asr_exact",
+    "asr_word": "passeio."
+  },
+  {
+    "word": "Não",
+    "paragraph": 9,
+    "start": 117.84,
+    "end": 118.06,
+    "status": "asr_exact",
+    "asr_word": "Não"
+  },
+  {
+    "word": "é",
+    "paragraph": 9,
+    "start": 118.06,
+    "end": 118.14,
+    "status": "asr_exact",
+    "asr_word": "é"
+  },
+  {
+    "word": "preciso",
+    "paragraph": 9,
+    "start": 118.14,
+    "end": 118.34,
+    "status": "asr_exact",
+    "asr_word": "preciso"
+  },
+  {
+    "word": "colocar",
+    "paragraph": 9,
+    "start": 118.34,
+    "end": 118.68,
+    "status": "asr_exact",
+    "asr_word": "colocar"
+  },
+  {
+    "word": "uma",
+    "paragraph": 9,
+    "start": 118.68,
+    "end": 118.9,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "nova",
+    "paragraph": 9,
+    "start": 118.9,
+    "end": 119.06,
+    "status": "asr_exact",
+    "asr_word": "nova"
+  },
+  {
+    "word": "missão",
+    "paragraph": 9,
+    "start": 119.06,
+    "end": 119.44,
+    "status": "asr_exact",
+    "asr_word": "missão"
+  },
+  {
+    "word": "na",
+    "paragraph": 9,
+    "start": 119.44,
+    "end": 119.58,
+    "status": "asr_exact",
+    "asr_word": "na"
+  },
+  {
+    "word": "tela",
+    "paragraph": 9,
+    "start": 119.58,
+    "end": 119.84,
+    "status": "asr_exact",
+    "asr_word": "tela"
+  },
+  {
+    "word": "pra",
+    "paragraph": 9,
+    "start": 119.84,
+    "end": 120.04,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "sentir",
+    "paragraph": 9,
+    "start": 120.04,
+    "end": 120.3,
+    "status": "asr_exact",
+    "asr_word": "sentir"
+  },
+  {
+    "word": "uma",
+    "paragraph": 9,
+    "start": 120.3,
+    "end": 120.52,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "mudança.",
+    "paragraph": 9,
+    "start": 120.52,
+    "end": 120.9,
+    "status": "asr_exact",
+    "asr_word": "mudança."
+  },
+  {
+    "word": "No",
+    "paragraph": 10,
+    "start": 121.88,
+    "end": 122.1,
+    "status": "asr_exact",
+    "asr_word": "No"
+  },
+  {
+    "word": "Vice",
+    "paragraph": 10,
+    "start": 122.1,
+    "end": 122.3,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "vai -se de"
+  },
+  {
+    "word": "City",
+    "paragraph": 10,
+    "start": 122.3,
+    "end": 122.5,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "vai -se de"
+  },
+  {
+    "word": "clássico,",
+    "paragraph": 10,
+    "start": 122.5,
+    "end": 122.96,
+    "status": "asr_exact",
+    "asr_word": "clássico,"
+  },
+  {
+    "word": "as",
+    "paragraph": 10,
+    "start": 123.16,
+    "end": 123.18,
+    "status": "asr_exact",
+    "asr_word": "as"
+  },
+  {
+    "word": "músicas",
+    "paragraph": 10,
+    "start": 123.18,
+    "end": 123.58,
+    "status": "asr_exact",
+    "asr_word": "músicas"
+  },
+  {
+    "word": "e",
+    "paragraph": 10,
+    "start": 123.58,
+    "end": 123.74,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "as",
+    "paragraph": 10,
+    "start": 123.74,
+    "end": 123.86,
+    "status": "asr_exact",
+    "asr_word": "as"
+  },
+  {
+    "word": "emissoras",
+    "paragraph": 10,
+    "start": 123.86,
+    "end": 124.2,
+    "status": "asr_exact",
+    "asr_word": "emissoras"
+  },
+  {
+    "word": "fazem",
+    "paragraph": 10,
+    "start": 124.2,
+    "end": 124.5,
+    "status": "asr_exact",
+    "asr_word": "fazem"
+  },
+  {
+    "word": "parte",
+    "paragraph": 10,
+    "start": 124.5,
+    "end": 124.82,
+    "status": "asr_exact",
+    "asr_word": "parte"
+  },
+  {
+    "word": "da",
+    "paragraph": 10,
+    "start": 124.82,
+    "end": 125.04,
+    "status": "asr_exact",
+    "asr_word": "da"
+  },
+  {
+    "word": "relação",
+    "paragraph": 10,
+    "start": 125.04,
+    "end": 125.4,
+    "status": "asr_exact",
+    "asr_word": "relação"
+  },
+  {
+    "word": "com",
+    "paragraph": 10,
+    "start": 125.4,
+    "end": 125.7,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "os",
+    "paragraph": 10,
+    "start": 125.7,
+    "end": 125.88,
+    "status": "asr_exact",
+    "asr_word": "os"
+  },
+  {
+    "word": "anos",
+    "paragraph": 10,
+    "start": 125.88,
+    "end": 126.0,
+    "status": "asr_exact",
+    "asr_word": "anos"
+  },
+  {
+    "word": "oitenta.",
+    "paragraph": 10,
+    "start": 126.0,
+    "end": 126.34,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "80."
+  },
+  {
+    "word": "A",
+    "paragraph": 10,
+    "start": 127.0,
+    "end": 127.3,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "Flash",
+    "paragraph": 10,
+    "start": 127.3,
+    "end": 127.54,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "flecha"
+  },
+  {
+    "word": "FM",
+    "paragraph": 10,
+    "start": 127.54,
+    "end": 127.84,
+    "status": "asr_exact",
+    "asr_word": "FM"
+  },
+  {
+    "word": "é",
+    "paragraph": 10,
+    "start": 127.84,
+    "end": 128.18,
+    "status": "asr_exact",
+    "asr_word": "é"
+  },
+  {
+    "word": "uma",
+    "paragraph": 10,
+    "start": 128.18,
+    "end": 128.3,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "das",
+    "paragraph": 10,
+    "start": 128.3,
+    "end": 128.44,
+    "status": "asr_exact",
+    "asr_word": "das"
+  },
+  {
+    "word": "referências",
+    "paragraph": 10,
+    "start": 128.44,
+    "end": 129.0,
+    "status": "asr_exact",
+    "asr_word": "referências"
+  },
+  {
+    "word": "dessa",
+    "paragraph": 10,
+    "start": 129.0,
+    "end": 129.22,
+    "status": "asr_exact",
+    "asr_word": "dessa"
+  },
+  {
+    "word": "identidade.",
+    "paragraph": 10,
+    "start": 129.22,
+    "end": 129.68,
+    "status": "asr_exact",
+    "asr_word": "identidade."
+  },
+  {
+    "word": "Você",
+    "paragraph": 10,
+    "start": 130.58,
+    "end": 130.94,
+    "status": "asr_exact",
+    "asr_word": "Você"
+  },
+  {
+    "word": "pode",
+    "paragraph": 10,
+    "start": 130.94,
+    "end": 131.16,
+    "status": "asr_exact",
+    "asr_word": "pode"
+  },
+  {
+    "word": "lembrar",
+    "paragraph": 10,
+    "start": 131.16,
+    "end": 131.48,
+    "status": "asr_exact",
+    "asr_word": "lembrar"
+  },
+  {
+    "word": "de",
+    "paragraph": 10,
+    "start": 131.48,
+    "end": 131.62,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "uma",
+    "paragraph": 10,
+    "start": 131.62,
+    "end": 131.74,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "rua",
+    "paragraph": 10,
+    "start": 131.74,
+    "end": 132.06,
+    "status": "asr_exact",
+    "asr_word": "rua"
+  },
+  {
+    "word": "junto",
+    "paragraph": 10,
+    "start": 132.06,
+    "end": 132.68,
+    "status": "asr_exact",
+    "asr_word": "junto"
+  },
+  {
+    "word": "com",
+    "paragraph": 10,
+    "start": 132.68,
+    "end": 132.92,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "o",
+    "paragraph": 10,
+    "start": 132.92,
+    "end": 133.72,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "que",
+    "paragraph": 10,
+    "start": 133.72,
+    "end": 133.745,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": ""
+  },
+  {
+    "word": "estava",
+    "paragraph": 10,
+    "start": 133.745,
+    "end": 133.77,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": ""
+  },
+  {
+    "word": "ouvindo",
+    "paragraph": 10,
+    "start": 133.72,
+    "end": 134.04,
+    "status": "asr_exact",
+    "asr_word": "ouvindo"
+  },
+  {
+    "word": "quando",
+    "paragraph": 10,
+    "start": 134.04,
+    "end": 134.2,
+    "status": "asr_exact",
+    "asr_word": "quando"
+  },
+  {
+    "word": "passou",
+    "paragraph": 10,
+    "start": 134.2,
+    "end": 134.42,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "passa"
+  },
+  {
+    "word": "por",
+    "paragraph": 10,
+    "start": 134.42,
+    "end": 134.64,
+    "status": "asr_exact",
+    "asr_word": "por"
+  },
+  {
+    "word": "ela.",
+    "paragraph": 10,
+    "start": 134.64,
+    "end": 134.8,
+    "status": "asr_exact",
+    "asr_word": "ela."
+  },
+  {
+    "word": "Nem",
+    "paragraph": 11,
+    "start": 135.68,
+    "end": 136.16,
+    "status": "asr_exact",
+    "asr_word": "Nem"
+  },
+  {
+    "word": "toda",
+    "paragraph": 11,
+    "start": 136.16,
+    "end": 136.28,
+    "status": "asr_exact",
+    "asr_word": "toda"
+  },
+  {
+    "word": "lembrança",
+    "paragraph": 11,
+    "start": 136.28,
+    "end": 136.66,
+    "status": "asr_exact",
+    "asr_word": "lembrança"
+  },
+  {
+    "word": "precisa",
+    "paragraph": 11,
+    "start": 136.66,
+    "end": 136.92,
+    "status": "asr_exact",
+    "asr_word": "precisa"
+  },
+  {
+    "word": "vir",
+    "paragraph": 11,
+    "start": 136.92,
+    "end": 137.24,
+    "status": "asr_exact",
+    "asr_word": "vir"
+  },
+  {
+    "word": "de",
+    "paragraph": 11,
+    "start": 137.24,
+    "end": 137.36,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "uma",
+    "paragraph": 11,
+    "start": 137.36,
+    "end": 137.52,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "grande",
+    "paragraph": 11,
+    "start": 137.52,
+    "end": 137.84,
+    "status": "asr_exact",
+    "asr_word": "grande"
+  },
+  {
+    "word": "cena",
+    "paragraph": 11,
+    "start": 137.84,
+    "end": 138.1,
+    "status": "asr_exact",
+    "asr_word": "cena"
+  },
+  {
+    "word": "da",
+    "paragraph": 11,
+    "start": 138.1,
+    "end": 138.22,
+    "status": "asr_exact",
+    "asr_word": "da"
+  },
+  {
+    "word": "história.",
+    "paragraph": 11,
+    "start": 138.22,
+    "end": 138.54,
+    "status": "asr_exact",
+    "asr_word": "história."
+  },
+  {
+    "word": "Às",
+    "paragraph": 11,
+    "start": 139.26,
+    "end": 139.58,
+    "status": "asr_exact",
+    "asr_word": "Às"
+  },
+  {
+    "word": "vezes",
+    "paragraph": 11,
+    "start": 139.58,
+    "end": 139.7,
+    "status": "asr_exact",
+    "asr_word": "vezes"
+  },
+  {
+    "word": "é",
+    "paragraph": 11,
+    "start": 139.7,
+    "end": 139.84,
+    "status": "asr_exact",
+    "asr_word": "é"
+  },
+  {
+    "word": "só",
+    "paragraph": 11,
+    "start": 139.84,
+    "end": 140.02,
+    "status": "asr_exact",
+    "asr_word": "só"
+  },
+  {
+    "word": "a",
+    "paragraph": 11,
+    "start": 140.02,
+    "end": 140.14,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "música",
+    "paragraph": 11,
+    "start": 140.14,
+    "end": 140.28,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "que",
+    "paragraph": 11,
+    "start": 140.28,
+    "end": 140.48,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "começou",
+    "paragraph": 11,
+    "start": 140.48,
+    "end": 140.74,
+    "status": "asr_exact",
+    "asr_word": "começou"
+  },
+  {
+    "word": "na",
+    "paragraph": 11,
+    "start": 140.74,
+    "end": 140.96,
+    "status": "asr_exact",
+    "asr_word": "na"
+  },
+  {
+    "word": "hora",
+    "paragraph": 11,
+    "start": 140.96,
+    "end": 141.22,
+    "status": "asr_exact",
+    "asr_word": "hora"
+  },
+  {
+    "word": "em",
+    "paragraph": 11,
+    "start": 141.22,
+    "end": 141.34,
+    "status": "asr_exact",
+    "asr_word": "em"
+  },
+  {
+    "word": "que",
+    "paragraph": 11,
+    "start": 141.34,
+    "end": 141.46,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "você",
+    "paragraph": 11,
+    "start": 141.46,
+    "end": 141.7,
+    "status": "asr_exact",
+    "asr_word": "você"
+  },
+  {
+    "word": "roubou",
+    "paragraph": 11,
+    "start": 141.7,
+    "end": 142.04,
+    "status": "asr_exact",
+    "asr_word": "roubou"
+  },
+  {
+    "word": "um",
+    "paragraph": 11,
+    "start": 142.04,
+    "end": 142.18,
+    "status": "asr_exact",
+    "asr_word": "um"
+  },
+  {
+    "word": "carro",
+    "paragraph": 11,
+    "start": 142.18,
+    "end": 142.46,
+    "status": "asr_exact",
+    "asr_word": "carro"
+  },
+  {
+    "word": "e",
+    "paragraph": 11,
+    "start": 142.46,
+    "end": 143.0,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "resolveu",
+    "paragraph": 11,
+    "start": 143.0,
+    "end": 143.4,
+    "status": "asr_exact",
+    "asr_word": "resolveu"
+  },
+  {
+    "word": "seguir",
+    "paragraph": 11,
+    "start": 143.4,
+    "end": 143.62,
+    "status": "asr_exact",
+    "asr_word": "seguir"
+  },
+  {
+    "word": "dirigindo.",
+    "paragraph": 11,
+    "start": 143.62,
+    "end": 144.2,
+    "status": "asr_exact",
+    "asr_word": "dirigindo."
+  },
+  {
+    "word": "O",
+    "paragraph": 11,
+    "start": 144.88,
+    "end": 145.06,
+    "status": "asr_exact",
+    "asr_word": "O"
+  },
+  {
+    "word": "roteiro",
+    "paragraph": 11,
+    "start": 145.06,
+    "end": 145.32,
+    "status": "asr_exact",
+    "asr_word": "roteiro"
+  },
+  {
+    "word": "tinha",
+    "paragraph": 11,
+    "start": 145.32,
+    "end": 145.48,
+    "status": "asr_exact",
+    "asr_word": "tinha"
+  },
+  {
+    "word": "um",
+    "paragraph": 11,
+    "start": 145.48,
+    "end": 145.6,
+    "status": "asr_exact",
+    "asr_word": "um"
+  },
+  {
+    "word": "compromisso.",
+    "paragraph": 11,
+    "start": 145.6,
+    "end": 146.14,
+    "status": "asr_exact",
+    "asr_word": "compromisso."
+  },
+  {
+    "word": "Você",
+    "paragraph": 11,
+    "start": 146.76,
+    "end": 146.92,
+    "status": "asr_exact",
+    "asr_word": "Você"
+  },
+  {
+    "word": "tinha",
+    "paragraph": 11,
+    "start": 146.92,
+    "end": 147.1,
+    "status": "asr_exact",
+    "asr_word": "tinha"
+  },
+  {
+    "word": "mais",
+    "paragraph": 11,
+    "start": 147.1,
+    "end": 147.28,
+    "status": "asr_exact",
+    "asr_word": "mais"
+  },
+  {
+    "word": "dois",
+    "paragraph": 11,
+    "start": 147.28,
+    "end": 147.5,
+    "status": "asr_exact",
+    "asr_word": "dois"
+  },
+  {
+    "word": "minutos",
+    "paragraph": 11,
+    "start": 147.5,
+    "end": 147.74,
+    "status": "asr_exact",
+    "asr_word": "minutos"
+  },
+  {
+    "word": "de",
+    "paragraph": 11,
+    "start": 147.74,
+    "end": 147.92,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "refrão.",
+    "paragraph": 11,
+    "start": 147.92,
+    "end": 148.22,
+    "status": "asr_exact",
+    "asr_word": "refrão."
+  },
+  {
+    "word": "E",
+    "paragraph": 12,
+    "start": 149.1,
+    "end": 149.58,
+    "status": "asr_exact",
+    "asr_word": "E"
+  },
+  {
+    "word": "tem",
+    "paragraph": 12,
+    "start": 149.58,
+    "end": 149.68,
+    "status": "asr_exact",
+    "asr_word": "tem"
+  },
+  {
+    "word": "outro",
+    "paragraph": 12,
+    "start": 149.68,
+    "end": 149.92,
+    "status": "asr_exact",
+    "asr_word": "outro"
+  },
+  {
+    "word": "tipo",
+    "paragraph": 12,
+    "start": 149.92,
+    "end": 150.14,
+    "status": "asr_exact",
+    "asr_word": "tipo"
+  },
+  {
+    "word": "de",
+    "paragraph": 12,
+    "start": 150.14,
+    "end": 150.24,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "música",
+    "paragraph": 12,
+    "start": 150.24,
+    "end": 150.46,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "atuando:",
+    "paragraph": 12,
+    "start": 150.46,
+    "end": 150.8,
+    "status": "asr_exact",
+    "asr_word": "atuando."
+  },
+  {
+    "word": "a",
+    "paragraph": 12,
+    "start": 151.22,
+    "end": 151.34,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "trilha",
+    "paragraph": 12,
+    "start": 151.34,
+    "end": 151.64,
+    "status": "asr_exact",
+    "asr_word": "trilha"
+  },
+  {
+    "word": "que",
+    "paragraph": 12,
+    "start": 151.64,
+    "end": 151.78,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "acompanha",
+    "paragraph": 12,
+    "start": 151.78,
+    "end": 152.26,
+    "status": "asr_exact",
+    "asr_word": "acompanha"
+  },
+  {
+    "word": "a",
+    "paragraph": 12,
+    "start": 152.26,
+    "end": 152.4,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "ação.",
+    "paragraph": 12,
+    "start": 152.4,
+    "end": 152.6,
+    "status": "asr_exact",
+    "asr_word": "ação."
+  },
+  {
+    "word": "GTA",
+    "paragraph": 12,
+    "start": 153.36,
+    "end": 153.71,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "ETA -5"
+  },
+  {
+    "word": "cinco",
+    "paragraph": 12,
+    "start": 153.71,
+    "end": 154.06,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "ETA -5"
+  },
+  {
+    "word": "usa",
+    "paragraph": 12,
+    "start": 154.06,
+    "end": 154.5,
+    "status": "asr_exact",
+    "asr_word": "usa"
+  },
+  {
+    "word": "música",
+    "paragraph": 12,
+    "start": 154.5,
+    "end": 154.8,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "dinâmica,",
+    "paragraph": 12,
+    "start": 154.8,
+    "end": 155.38,
+    "status": "asr_exact",
+    "asr_word": "dinâmica,"
+  },
+  {
+    "word": "capaz",
+    "paragraph": 12,
+    "start": 155.66,
+    "end": 155.92,
+    "status": "asr_exact",
+    "asr_word": "capaz"
+  },
+  {
+    "word": "de",
+    "paragraph": 12,
+    "start": 155.92,
+    "end": 156.16,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "mudar",
+    "paragraph": 12,
+    "start": 156.16,
+    "end": 156.38,
+    "status": "asr_exact",
+    "asr_word": "mudar"
+  },
+  {
+    "word": "conforme",
+    "paragraph": 12,
+    "start": 156.38,
+    "end": 156.9,
+    "status": "asr_exact",
+    "asr_word": "conforme"
+  },
+  {
+    "word": "o",
+    "paragraph": 12,
+    "start": 156.9,
+    "end": 157.0,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "que",
+    "paragraph": 12,
+    "start": 157.0,
+    "end": 157.08,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "acontece.",
+    "paragraph": 12,
+    "start": 157.08,
+    "end": 157.5,
+    "status": "asr_exact",
+    "asr_word": "acontece."
+  },
+  {
+    "word": "Isso",
+    "paragraph": 12,
+    "start": 158.28,
+    "end": 158.48,
+    "status": "asr_exact",
+    "asr_word": "Isso"
+  },
+  {
+    "word": "exerce",
+    "paragraph": 12,
+    "start": 158.48,
+    "end": 158.82,
+    "status": "asr_exact",
+    "asr_word": "exerce"
+  },
+  {
+    "word": "uma",
+    "paragraph": 12,
+    "start": 158.82,
+    "end": 158.98,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "função",
+    "paragraph": 12,
+    "start": 158.98,
+    "end": 159.26,
+    "status": "asr_exact",
+    "asr_word": "função"
+  },
+  {
+    "word": "diferente",
+    "paragraph": 12,
+    "start": 159.26,
+    "end": 159.68,
+    "status": "asr_exact",
+    "asr_word": "diferente"
+  },
+  {
+    "word": "da",
+    "paragraph": 12,
+    "start": 159.68,
+    "end": 159.92,
+    "status": "asr_exact",
+    "asr_word": "da"
+  },
+  {
+    "word": "transmissão",
+    "paragraph": 12,
+    "start": 159.92,
+    "end": 160.28,
+    "status": "asr_exact",
+    "asr_word": "transmissão"
+  },
+  {
+    "word": "do",
+    "paragraph": 12,
+    "start": 160.28,
+    "end": 160.36,
+    "status": "asr_exact",
+    "asr_word": "do"
+  },
+  {
+    "word": "rádio,",
+    "paragraph": 12,
+    "start": 160.36,
+    "end": 160.68,
+    "status": "asr_exact",
+    "asr_word": "rádio."
+  },
+  {
+    "word": "que",
+    "paragraph": 12,
+    "start": 161.3,
+    "end": 161.5,
+    "status": "asr_exact",
+    "asr_word": "Que"
+  },
+  {
+    "word": "parece",
+    "paragraph": 12,
+    "start": 161.5,
+    "end": 161.74,
+    "status": "asr_exact",
+    "asr_word": "parece"
+  },
+  {
+    "word": "existir",
+    "paragraph": 12,
+    "start": 161.74,
+    "end": 162.4,
+    "status": "asr_exact",
+    "asr_word": "existir"
+  },
+  {
+    "word": "dentro",
+    "paragraph": 12,
+    "start": 162.4,
+    "end": 162.6,
+    "status": "asr_exact",
+    "asr_word": "dentro"
+  },
+  {
+    "word": "daquele",
+    "paragraph": 12,
+    "start": 162.6,
+    "end": 162.9,
+    "status": "asr_exact",
+    "asr_word": "daquele"
+  },
+  {
+    "word": "mundo.",
+    "paragraph": 12,
+    "start": 162.9,
+    "end": 163.16,
+    "status": "asr_exact",
+    "asr_word": "mundo."
+  },
+  {
+    "word": "Uma",
+    "paragraph": 13,
+    "start": 164.22,
+    "end": 164.6,
+    "status": "asr_exact",
+    "asr_word": "Uma"
+  },
+  {
+    "word": "reforça",
+    "paragraph": 13,
+    "start": 164.6,
+    "end": 164.96,
+    "status": "asr_exact",
+    "asr_word": "reforça"
+  },
+  {
+    "word": "a",
+    "paragraph": 13,
+    "start": 164.96,
+    "end": 165.08,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "tensão",
+    "paragraph": 13,
+    "start": 165.08,
+    "end": 165.22,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "atenção"
+  },
+  {
+    "word": "do",
+    "paragraph": 13,
+    "start": 165.22,
+    "end": 165.38,
+    "status": "asr_exact",
+    "asr_word": "do"
+  },
+  {
+    "word": "momento.",
+    "paragraph": 13,
+    "start": 165.38,
+    "end": 165.68,
+    "status": "asr_exact",
+    "asr_word": "momento."
+  },
+  {
+    "word": "A",
+    "paragraph": 13,
+    "start": 166.38,
+    "end": 166.56,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "outra",
+    "paragraph": 13,
+    "start": 166.56,
+    "end": 166.78,
+    "status": "asr_exact",
+    "asr_word": "outra"
+  },
+  {
+    "word": "pode",
+    "paragraph": 13,
+    "start": 166.78,
+    "end": 167.04,
+    "status": "asr_exact",
+    "asr_word": "pode"
+  },
+  {
+    "word": "continuar",
+    "paragraph": 13,
+    "start": 167.04,
+    "end": 167.4,
+    "status": "asr_exact",
+    "asr_word": "continuar"
+  },
+  {
+    "word": "com",
+    "paragraph": 13,
+    "start": 167.4,
+    "end": 167.64,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "sua",
+    "paragraph": 13,
+    "start": 167.64,
+    "end": 167.86,
+    "status": "asr_exact",
+    "asr_word": "sua"
+  },
+  {
+    "word": "programação",
+    "paragraph": 13,
+    "start": 167.86,
+    "end": 168.46,
+    "status": "asr_exact",
+    "asr_word": "programação"
+  },
+  {
+    "word": "enquanto",
+    "paragraph": 13,
+    "start": 168.46,
+    "end": 168.74,
+    "status": "asr_exact",
+    "asr_word": "enquanto"
+  },
+  {
+    "word": "a",
+    "paragraph": 13,
+    "start": 168.74,
+    "end": 168.92,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "vida",
+    "paragraph": 13,
+    "start": 168.92,
+    "end": 169.1,
+    "status": "asr_exact",
+    "asr_word": "vida"
+  },
+  {
+    "word": "do",
+    "paragraph": 13,
+    "start": 169.1,
+    "end": 169.413,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "dos jogadores morona."
+  },
+  {
+    "word": "jogador",
+    "paragraph": 13,
+    "start": 169.413,
+    "end": 169.727,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "dos jogadores morona."
+  },
+  {
+    "word": "desmorona.",
+    "paragraph": 13,
+    "start": 169.727,
+    "end": 170.04,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "dos jogadores morona."
+  },
+  {
+    "word": "Essa",
+    "paragraph": 13,
+    "start": 170.84,
+    "end": 171.1,
+    "status": "asr_exact",
+    "asr_word": "Essa"
+  },
+  {
+    "word": "diferença",
+    "paragraph": 13,
+    "start": 171.1,
+    "end": 171.36,
+    "status": "asr_exact",
+    "asr_word": "diferença"
+  },
+  {
+    "word": "abre",
+    "paragraph": 13,
+    "start": 171.36,
+    "end": 171.78,
+    "status": "asr_exact",
+    "asr_word": "abre"
+  },
+  {
+    "word": "uma",
+    "paragraph": 13,
+    "start": 171.78,
+    "end": 171.92,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "oportunidade",
+    "paragraph": 13,
+    "start": 171.92,
+    "end": 172.36,
+    "status": "asr_exact",
+    "asr_word": "oportunidade"
+  },
+  {
+    "word": "enorme",
+    "paragraph": 13,
+    "start": 172.36,
+    "end": 172.68,
+    "status": "asr_exact",
+    "asr_word": "enorme"
+  },
+  {
+    "word": "pro",
+    "paragraph": 13,
+    "start": 172.68,
+    "end": 172.94,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para o"
+  },
+  {
+    "word": "humor.",
+    "paragraph": 13,
+    "start": 172.94,
+    "end": 173.14,
+    "status": "asr_exact",
+    "asr_word": "humor."
+  },
+  {
+    "word": "Imagina",
+    "paragraph": 14,
+    "start": 174.5,
+    "end": 174.94,
+    "status": "asr_exact",
+    "asr_word": "Imagina"
+  },
+  {
+    "word": "você",
+    "paragraph": 14,
+    "start": 174.94,
+    "end": 175.14,
+    "status": "asr_exact",
+    "asr_word": "você"
+  },
+  {
+    "word": "com",
+    "paragraph": 14,
+    "start": 175.14,
+    "end": 175.34,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "o",
+    "paragraph": 14,
+    "start": 175.34,
+    "end": 175.46,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "um"
+  },
+  {
+    "word": "carro",
+    "paragraph": 14,
+    "start": 175.46,
+    "end": 175.52,
+    "status": "asr_exact",
+    "asr_word": "carro"
+  },
+  {
+    "word": "destruído,",
+    "paragraph": 14,
+    "start": 175.52,
+    "end": 176.14,
+    "status": "asr_exact",
+    "asr_word": "destruído"
+  },
+  {
+    "word": "tentando",
+    "paragraph": 14,
+    "start": 176.14,
+    "end": 176.52,
+    "status": "asr_exact",
+    "asr_word": "tentando"
+  },
+  {
+    "word": "escapar",
+    "paragraph": 14,
+    "start": 176.52,
+    "end": 176.92,
+    "status": "asr_exact",
+    "asr_word": "escapar"
+  },
+  {
+    "word": "de",
+    "paragraph": 14,
+    "start": 176.92,
+    "end": 177.04,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "uma",
+    "paragraph": 14,
+    "start": 177.04,
+    "end": 177.12,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "situação",
+    "paragraph": 14,
+    "start": 177.12,
+    "end": 177.32,
+    "status": "asr_exact",
+    "asr_word": "situação"
+  },
+  {
+    "word": "horrível,",
+    "paragraph": 14,
+    "start": 177.32,
+    "end": 178.04,
+    "status": "asr_exact",
+    "asr_word": "horrível"
+  },
+  {
+    "word": "e",
+    "paragraph": 14,
+    "start": 178.04,
+    "end": 178.68,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "o",
+    "paragraph": 14,
+    "start": 178.68,
+    "end": 178.78,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "rádio",
+    "paragraph": 14,
+    "start": 178.78,
+    "end": 179.0,
+    "status": "asr_exact",
+    "asr_word": "rádio"
+  },
+  {
+    "word": "oferecendo",
+    "paragraph": 14,
+    "start": 179.0,
+    "end": 179.38,
+    "status": "asr_exact",
+    "asr_word": "oferecendo"
+  },
+  {
+    "word": "férias",
+    "paragraph": 14,
+    "start": 179.38,
+    "end": 179.76,
+    "status": "asr_exact",
+    "asr_word": "férias"
+  },
+  {
+    "word": "tranquilas.",
+    "paragraph": 14,
+    "start": 179.76,
+    "end": 180.22,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "tranquilos."
+  },
+  {
+    "word": "O",
+    "paragraph": 14,
+    "start": 181.16,
+    "end": 181.32,
+    "status": "asr_exact",
+    "asr_word": "O"
+  },
+  {
+    "word": "locutor",
+    "paragraph": 14,
+    "start": 181.32,
+    "end": 181.54,
+    "status": "asr_exact",
+    "asr_word": "locutor"
+  },
+  {
+    "word": "não",
+    "paragraph": 14,
+    "start": 181.54,
+    "end": 181.7,
+    "status": "asr_exact",
+    "asr_word": "não"
+  },
+  {
+    "word": "está",
+    "paragraph": 14,
+    "start": 181.7,
+    "end": 181.78,
+    "status": "asr_exact",
+    "asr_word": "está"
+  },
+  {
+    "word": "preocupado",
+    "paragraph": 14,
+    "start": 181.78,
+    "end": 182.26,
+    "status": "asr_exact",
+    "asr_word": "preocupado"
+  },
+  {
+    "word": "com",
+    "paragraph": 14,
+    "start": 182.26,
+    "end": 182.38,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "a",
+    "paragraph": 14,
+    "start": 182.38,
+    "end": 182.44,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "sua",
+    "paragraph": 14,
+    "start": 182.44,
+    "end": 182.5,
+    "status": "asr_exact",
+    "asr_word": "sua"
+  },
+  {
+    "word": "desgraça.",
+    "paragraph": 14,
+    "start": 182.5,
+    "end": 182.92,
+    "status": "asr_exact",
+    "asr_word": "desgraça."
+  },
+  {
+    "word": "Tem",
+    "paragraph": 14,
+    "start": 183.62,
+    "end": 183.8,
+    "status": "asr_exact",
+    "asr_word": "Tem"
+  },
+  {
+    "word": "uma",
+    "paragraph": 14,
+    "start": 183.8,
+    "end": 183.88,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "promoção",
+    "paragraph": 14,
+    "start": 183.88,
+    "end": 184.28,
+    "status": "asr_exact",
+    "asr_word": "promoção"
+  },
+  {
+    "word": "pra",
+    "paragraph": 14,
+    "start": 184.28,
+    "end": 184.4,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "terminar.",
+    "paragraph": 14,
+    "start": 184.4,
+    "end": 184.7,
+    "status": "asr_exact",
+    "asr_word": "terminar."
+  },
+  {
+    "word": "É",
+    "paragraph": 14,
+    "start": 185.52,
+    "end": 185.57,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": ""
+  },
+  {
+    "word": "a",
+    "paragraph": 14,
+    "start": 185.52,
+    "end": 185.64,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "única",
+    "paragraph": 14,
+    "start": 185.64,
+    "end": 185.76,
+    "status": "asr_exact",
+    "asr_word": "única"
+  },
+  {
+    "word": "pessoa",
+    "paragraph": 14,
+    "start": 185.76,
+    "end": 186.1,
+    "status": "asr_exact",
+    "asr_word": "pessoa"
+  },
+  {
+    "word": "naquela",
+    "paragraph": 14,
+    "start": 186.1,
+    "end": 186.34,
+    "status": "asr_exact",
+    "asr_word": "naquela"
+  },
+  {
+    "word": "fuga",
+    "paragraph": 14,
+    "start": 186.34,
+    "end": 186.72,
+    "status": "asr_exact",
+    "asr_word": "fuga"
+  },
+  {
+    "word": "com",
+    "paragraph": 14,
+    "start": 186.72,
+    "end": 186.94,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "o",
+    "paragraph": 14,
+    "start": 186.94,
+    "end": 187.02,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "um"
+  },
+  {
+    "word": "expediente",
+    "paragraph": 14,
+    "start": 187.02,
+    "end": 187.46,
+    "status": "asr_exact",
+    "asr_word": "expediente"
+  },
+  {
+    "word": "em",
+    "paragraph": 14,
+    "start": 187.46,
+    "end": 187.62,
+    "status": "asr_exact",
+    "asr_word": "em"
+  },
+  {
+    "word": "dia.",
+    "paragraph": 14,
+    "start": 187.62,
+    "end": 187.82,
+    "status": "asr_exact",
+    "asr_word": "dia."
+  },
+  {
+    "word": "Esse",
+    "paragraph": 15,
+    "start": 188.7,
+    "end": 189.02,
+    "status": "asr_exact",
+    "asr_word": "Esse"
+  },
+  {
+    "word": "é",
+    "paragraph": 15,
+    "start": 189.02,
+    "end": 189.12,
+    "status": "asr_exact",
+    "asr_word": "é"
+  },
+  {
+    "word": "um",
+    "paragraph": 15,
+    "start": 189.12,
+    "end": 189.347,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "mais épreventado,"
+  },
+  {
+    "word": "exemplo",
+    "paragraph": 15,
+    "start": 189.347,
+    "end": 189.573,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "mais épreventado,"
+  },
+  {
+    "word": "inventado,",
+    "paragraph": 15,
+    "start": 189.573,
+    "end": 189.8,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "mais épreventado,"
+  },
+  {
+    "word": "mas",
+    "paragraph": 15,
+    "start": 189.8,
+    "end": 190.02,
+    "status": "asr_exact",
+    "asr_word": "mas"
+  },
+  {
+    "word": "o",
+    "paragraph": 15,
+    "start": 190.02,
+    "end": 190.3,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "contraste",
+    "paragraph": 15,
+    "start": 190.3,
+    "end": 190.74,
+    "status": "asr_exact",
+    "asr_word": "contraste"
+  },
+  {
+    "word": "é",
+    "paragraph": 15,
+    "start": 190.74,
+    "end": 190.82,
+    "status": "asr_exact",
+    "asr_word": "é"
+  },
+  {
+    "word": "fácil",
+    "paragraph": 15,
+    "start": 190.82,
+    "end": 191.06,
+    "status": "asr_exact",
+    "asr_word": "fácil"
+  },
+  {
+    "word": "de",
+    "paragraph": 15,
+    "start": 191.06,
+    "end": 191.2,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "reconhecer:",
+    "paragraph": 15,
+    "start": 191.2,
+    "end": 191.68,
+    "status": "asr_exact",
+    "asr_word": "reconhecer."
+  },
+  {
+    "word": "a",
+    "paragraph": 15,
+    "start": 192.42,
+    "end": 192.66,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "música",
+    "paragraph": 15,
+    "start": 192.66,
+    "end": 193.02,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "ou",
+    "paragraph": 15,
+    "start": 193.02,
+    "end": 193.38,
+    "status": "asr_exact",
+    "asr_word": "ou"
+  },
+  {
+    "word": "o",
+    "paragraph": 15,
+    "start": 193.38,
+    "end": 193.5,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "anúncio",
+    "paragraph": 15,
+    "start": 193.5,
+    "end": 193.9,
+    "status": "asr_exact",
+    "asr_word": "anúncio"
+  },
+  {
+    "word": "pode",
+    "paragraph": 15,
+    "start": 193.9,
+    "end": 194.14,
+    "status": "asr_exact",
+    "asr_word": "pode"
+  },
+  {
+    "word": "discordar",
+    "paragraph": 15,
+    "start": 194.14,
+    "end": 194.72,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "descordar"
+  },
+  {
+    "word": "do",
+    "paragraph": 15,
+    "start": 194.72,
+    "end": 194.84,
+    "status": "asr_exact",
+    "asr_word": "do"
+  },
+  {
+    "word": "que",
+    "paragraph": 15,
+    "start": 194.84,
+    "end": 194.96,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "vemos.",
+    "paragraph": 15,
+    "start": 194.96,
+    "end": 195.24,
+    "status": "asr_exact",
+    "asr_word": "vemos."
+  },
+  {
+    "word": "A",
+    "paragraph": 15,
+    "start": 195.98,
+    "end": 196.26,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "cena",
+    "paragraph": 15,
+    "start": 196.26,
+    "end": 196.4,
+    "status": "asr_exact",
+    "asr_word": "cena"
+  },
+  {
+    "word": "fica",
+    "paragraph": 15,
+    "start": 196.4,
+    "end": 196.6,
+    "status": "asr_exact",
+    "asr_word": "fica"
+  },
+  {
+    "word": "engraçada",
+    "paragraph": 15,
+    "start": 196.6,
+    "end": 197.06,
+    "status": "asr_exact",
+    "asr_word": "engraçada"
+  },
+  {
+    "word": "justamente",
+    "paragraph": 15,
+    "start": 197.06,
+    "end": 197.24,
+    "status": "asr_exact",
+    "asr_word": "justamente"
+  },
+  {
+    "word": "porque",
+    "paragraph": 15,
+    "start": 197.24,
+    "end": 197.84,
+    "status": "asr_exact",
+    "asr_word": "porque"
+  },
+  {
+    "word": "o",
+    "paragraph": 15,
+    "start": 197.84,
+    "end": 198.1,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "mundo",
+    "paragraph": 15,
+    "start": 198.1,
+    "end": 198.3,
+    "status": "asr_exact",
+    "asr_word": "mundo"
+  },
+  {
+    "word": "não",
+    "paragraph": 15,
+    "start": 198.3,
+    "end": 198.44,
+    "status": "asr_exact",
+    "asr_word": "não"
+  },
+  {
+    "word": "parou",
+    "paragraph": 15,
+    "start": 198.44,
+    "end": 198.76,
+    "status": "asr_exact",
+    "asr_word": "parou"
+  },
+  {
+    "word": "pra",
+    "paragraph": 15,
+    "start": 198.76,
+    "end": 198.92,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "acompanhar",
+    "paragraph": 15,
+    "start": 198.92,
+    "end": 199.3,
+    "status": "asr_exact",
+    "asr_word": "acompanhar"
+  },
+  {
+    "word": "nosso",
+    "paragraph": 15,
+    "start": 199.3,
+    "end": 199.48,
+    "status": "asr_exact",
+    "asr_word": "nosso"
+  },
+  {
+    "word": "drama.",
+    "paragraph": 15,
+    "start": 199.48,
+    "end": 199.76,
+    "status": "asr_exact",
+    "asr_word": "drama."
+  },
+  {
+    "word": "Também",
+    "paragraph": 16,
+    "start": 200.5,
+    "end": 200.92,
+    "status": "asr_exact",
+    "asr_word": "Também"
+  },
+  {
+    "word": "dá",
+    "paragraph": 16,
+    "start": 200.92,
+    "end": 201.0,
+    "status": "asr_exact",
+    "asr_word": "dá"
+  },
+  {
+    "word": "pra",
+    "paragraph": 16,
+    "start": 201.0,
+    "end": 201.12,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "usar",
+    "paragraph": 16,
+    "start": 201.12,
+    "end": 201.32,
+    "status": "asr_exact",
+    "asr_word": "usar"
+  },
+  {
+    "word": "silêncio",
+    "paragraph": 16,
+    "start": 201.32,
+    "end": 202.06,
+    "status": "asr_exact",
+    "asr_word": "silêncio"
+  },
+  {
+    "word": "e",
+    "paragraph": 16,
+    "start": 202.06,
+    "end": 202.22,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "troca",
+    "paragraph": 16,
+    "start": 202.22,
+    "end": 202.46,
+    "status": "asr_exact",
+    "asr_word": "troca"
+  },
+  {
+    "word": "de",
+    "paragraph": 16,
+    "start": 202.46,
+    "end": 202.58,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "estação.",
+    "paragraph": 16,
+    "start": 202.58,
+    "end": 202.94,
+    "status": "asr_exact",
+    "asr_word": "estação."
+  },
+  {
+    "word": "A",
+    "paragraph": 16,
+    "start": 203.78,
+    "end": 204.08,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Na"
+  },
+  {
+    "word": "entrada",
+    "paragraph": 16,
+    "start": 204.08,
+    "end": 204.26,
+    "status": "asr_exact",
+    "asr_word": "entrada"
+  },
+  {
+    "word": "de",
+    "paragraph": 16,
+    "start": 204.26,
+    "end": 204.46,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "uma",
+    "paragraph": 16,
+    "start": 204.46,
+    "end": 204.56,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "voz,",
+    "paragraph": 16,
+    "start": 204.56,
+    "end": 204.98,
+    "status": "asr_exact",
+    "asr_word": "voz,"
+  },
+  {
+    "word": "a",
+    "paragraph": 16,
+    "start": 205.32,
+    "end": 205.38,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "ausência",
+    "paragraph": 16,
+    "start": 205.38,
+    "end": 205.58,
+    "status": "asr_exact",
+    "asr_word": "ausência"
+  },
+  {
+    "word": "de",
+    "paragraph": 16,
+    "start": 205.58,
+    "end": 205.74,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "música",
+    "paragraph": 16,
+    "start": 205.74,
+    "end": 206.14,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "ou",
+    "paragraph": 16,
+    "start": 206.14,
+    "end": 206.86,
+    "status": "asr_exact",
+    "asr_word": "ou"
+  },
+  {
+    "word": "uma",
+    "paragraph": 16,
+    "start": 206.86,
+    "end": 206.96,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "mudança",
+    "paragraph": 16,
+    "start": 206.96,
+    "end": 207.38,
+    "status": "asr_exact",
+    "asr_word": "mudança"
+  },
+  {
+    "word": "de",
+    "paragraph": 16,
+    "start": 207.38,
+    "end": 207.54,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "ritmo",
+    "paragraph": 16,
+    "start": 207.54,
+    "end": 207.86,
+    "status": "asr_exact",
+    "asr_word": "ritmo"
+  },
+  {
+    "word": "prepara",
+    "paragraph": 16,
+    "start": 207.86,
+    "end": 208.32,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "preparam"
+  },
+  {
+    "word": "o",
+    "paragraph": 16,
+    "start": 208.32,
+    "end": 208.44,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "ouvido",
+    "paragraph": 16,
+    "start": 208.44,
+    "end": 208.74,
+    "status": "asr_exact",
+    "asr_word": "ouvido"
+  },
+  {
+    "word": "de",
+    "paragraph": 16,
+    "start": 208.74,
+    "end": 208.86,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "outra",
+    "paragraph": 16,
+    "start": 208.86,
+    "end": 208.98,
+    "status": "asr_exact",
+    "asr_word": "outra"
+  },
+  {
+    "word": "forma.",
+    "paragraph": 16,
+    "start": 208.98,
+    "end": 209.36,
+    "status": "asr_exact",
+    "asr_word": "forma."
+  },
+  {
+    "word": "Quando",
+    "paragraph": 16,
+    "start": 210.08,
+    "end": 210.287,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Quanto da"
+  },
+  {
+    "word": "tudo",
+    "paragraph": 16,
+    "start": 210.287,
+    "end": 210.493,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Quanto da"
+  },
+  {
+    "word": "é",
+    "paragraph": 16,
+    "start": 210.493,
+    "end": 210.7,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Quanto da"
+  },
+  {
+    "word": "intenso",
+    "paragraph": 16,
+    "start": 210.7,
+    "end": 211.14,
+    "status": "asr_exact",
+    "asr_word": "intenso"
+  },
+  {
+    "word": "o",
+    "paragraph": 16,
+    "start": 211.14,
+    "end": 211.3,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "tempo",
+    "paragraph": 16,
+    "start": 211.3,
+    "end": 211.58,
+    "status": "asr_exact",
+    "asr_word": "tempo"
+  },
+  {
+    "word": "inteiro,",
+    "paragraph": 16,
+    "start": 211.58,
+    "end": 212.06,
+    "status": "asr_exact",
+    "asr_word": "inteiro,"
+  },
+  {
+    "word": "a",
+    "paragraph": 16,
+    "start": 212.6,
+    "end": 212.64,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "intensidade",
+    "paragraph": 16,
+    "start": 212.64,
+    "end": 213.02,
+    "status": "asr_exact",
+    "asr_word": "intensidade"
+  },
+  {
+    "word": "começa",
+    "paragraph": 16,
+    "start": 213.02,
+    "end": 213.22,
+    "status": "asr_exact",
+    "asr_word": "começa"
+  },
+  {
+    "word": "a",
+    "paragraph": 16,
+    "start": 213.22,
+    "end": 213.42,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "parecer",
+    "paragraph": 16,
+    "start": 213.42,
+    "end": 213.92,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "aparecer"
+  },
+  {
+    "word": "barulho",
+    "paragraph": 16,
+    "start": 213.92,
+    "end": 214.3,
+    "status": "asr_exact",
+    "asr_word": "barulho"
+  },
+  {
+    "word": "de",
+    "paragraph": 16,
+    "start": 214.3,
+    "end": 214.42,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "fundo.",
+    "paragraph": 16,
+    "start": 214.42,
+    "end": 214.74,
+    "status": "asr_exact",
+    "asr_word": "fundo."
+  },
+  {
+    "word": "E",
+    "paragraph": 17,
+    "start": 215.44,
+    "end": 216.1,
+    "status": "asr_exact",
+    "asr_word": "E"
+  },
+  {
+    "word": "o",
+    "paragraph": 17,
+    "start": 216.1,
+    "end": 216.18,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "que",
+    "paragraph": 17,
+    "start": 216.18,
+    "end": 216.3,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "já",
+    "paragraph": 17,
+    "start": 216.3,
+    "end": 216.44,
+    "status": "asr_exact",
+    "asr_word": "já"
+  },
+  {
+    "word": "dá",
+    "paragraph": 17,
+    "start": 216.44,
+    "end": 216.52,
+    "status": "asr_exact",
+    "asr_word": "dá"
+  },
+  {
+    "word": "pra",
+    "paragraph": 17,
+    "start": 216.52,
+    "end": 216.62,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "olhar",
+    "paragraph": 17,
+    "start": 216.62,
+    "end": 216.92,
+    "status": "asr_exact",
+    "asr_word": "olhar"
+  },
+  {
+    "word": "em",
+    "paragraph": 17,
+    "start": 216.92,
+    "end": 217.26,
+    "status": "asr_exact",
+    "asr_word": "em"
+  },
+  {
+    "word": "GTA",
+    "paragraph": 17,
+    "start": 217.26,
+    "end": 217.58,
+    "status": "asr_exact",
+    "asr_word": "GTA"
+  },
+  {
+    "word": "seis?",
+    "paragraph": 17,
+    "start": 217.58,
+    "end": 218.0,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "VI."
+  },
+  {
+    "word": "A",
+    "paragraph": 17,
+    "start": 218.98,
+    "end": 219.44,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "página",
+    "paragraph": 17,
+    "start": 219.44,
+    "end": 219.64,
+    "status": "asr_exact",
+    "asr_word": "página"
+  },
+  {
+    "word": "oficial",
+    "paragraph": 17,
+    "start": 219.64,
+    "end": 220.06,
+    "status": "asr_exact",
+    "asr_word": "oficial"
+  },
+  {
+    "word": "de",
+    "paragraph": 17,
+    "start": 220.06,
+    "end": 220.22,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "música",
+    "paragraph": 17,
+    "start": 220.22,
+    "end": 220.62,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "apresenta",
+    "paragraph": 17,
+    "start": 220.62,
+    "end": 221.16,
+    "status": "asr_exact",
+    "asr_word": "apresenta"
+  },
+  {
+    "word": "emissoras",
+    "paragraph": 17,
+    "start": 221.16,
+    "end": 221.58,
+    "status": "asr_exact",
+    "asr_word": "emissoras"
+  },
+  {
+    "word": "com",
+    "paragraph": 17,
+    "start": 221.58,
+    "end": 221.74,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "identidades",
+    "paragraph": 17,
+    "start": 221.74,
+    "end": 222.12,
+    "status": "asr_exact",
+    "asr_word": "identidades"
+  },
+  {
+    "word": "diferentes:",
+    "paragraph": 17,
+    "start": 222.12,
+    "end": 222.6,
+    "status": "asr_exact",
+    "asr_word": "diferentes."
+  },
+  {
+    "word": "Cocoteo",
+    "paragraph": 17,
+    "start": 223.24,
+    "end": 223.9,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Cocoteu,"
+  },
+  {
+    "word": "ligada",
+    "paragraph": 17,
+    "start": 224.06,
+    "end": 224.34,
+    "status": "asr_exact",
+    "asr_word": "ligada"
+  },
+  {
+    "word": "à",
+    "paragraph": 17,
+    "start": 224.34,
+    "end": 224.46,
+    "status": "asr_exact",
+    "asr_word": "à"
+  },
+  {
+    "word": "música",
+    "paragraph": 17,
+    "start": 224.46,
+    "end": 224.62,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "latina",
+    "paragraph": 17,
+    "start": 224.62,
+    "end": 225.02,
+    "status": "asr_exact",
+    "asr_word": "latina"
+  },
+  {
+    "word": "atual,",
+    "paragraph": 17,
+    "start": 225.02,
+    "end": 225.4,
+    "status": "asr_exact",
+    "asr_word": "atual."
+  },
+  {
+    "word": "Back",
+    "paragraph": 17,
+    "start": 226.22,
+    "end": 226.6,
+    "status": "asr_exact",
+    "asr_word": "Back"
+  },
+  {
+    "word": "Country",
+    "paragraph": 17,
+    "start": 226.6,
+    "end": 227.08,
+    "status": "asr_exact",
+    "asr_word": "Country"
+  },
+  {
+    "word": "ao",
+    "paragraph": 17,
+    "start": 227.08,
+    "end": 227.42,
+    "status": "asr_exact",
+    "asr_word": "ao"
+  },
+  {
+    "word": "country",
+    "paragraph": 17,
+    "start": 227.42,
+    "end": 227.8,
+    "status": "asr_exact",
+    "asr_word": "Country"
+  },
+  {
+    "word": "e",
+    "paragraph": 17,
+    "start": 227.8,
+    "end": 228.66,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "Dirty",
+    "paragraph": 17,
+    "start": 228.66,
+    "end": 228.82,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "The"
+  },
+  {
+    "word": "South",
+    "paragraph": 17,
+    "start": 228.82,
+    "end": 229.06,
+    "status": "asr_exact",
+    "asr_word": "South"
+  },
+  {
+    "word": "Classics",
+    "paragraph": 17,
+    "start": 229.06,
+    "end": 229.84,
+    "status": "asr_exact",
+    "asr_word": "Classics"
+  },
+  {
+    "word": "ao",
+    "paragraph": 17,
+    "start": 229.84,
+    "end": 230.24,
+    "status": "asr_exact",
+    "asr_word": "ao"
+  },
+  {
+    "word": "rap",
+    "paragraph": 17,
+    "start": 230.24,
+    "end": 230.48,
+    "status": "asr_exact",
+    "asr_word": "Rap"
+  },
+  {
+    "word": "e",
+    "paragraph": 17,
+    "start": 230.48,
+    "end": 230.71,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Hip Hop"
+  },
+  {
+    "word": "hip-hop",
+    "paragraph": 17,
+    "start": 230.71,
+    "end": 230.94,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Hip Hop"
+  },
+  {
+    "word": "regional.",
+    "paragraph": 17,
+    "start": 230.94,
+    "end": 231.32,
+    "status": "asr_exact",
+    "asr_word": "Regional."
+  },
+  {
+    "word": "A",
+    "paragraph": 18,
+    "start": 231.96,
+    "end": 232.58,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "Flash",
+    "paragraph": 18,
+    "start": 232.58,
+    "end": 232.78,
+    "status": "asr_exact",
+    "asr_word": "flash"
+  },
+  {
+    "word": "FM",
+    "paragraph": 18,
+    "start": 232.78,
+    "end": 233.12,
+    "status": "asr_exact",
+    "asr_word": "FM"
+  },
+  {
+    "word": "também",
+    "paragraph": 18,
+    "start": 233.12,
+    "end": 233.42,
+    "status": "asr_exact",
+    "asr_word": "também"
+  },
+  {
+    "word": "aparece,",
+    "paragraph": 18,
+    "start": 233.42,
+    "end": 233.9,
+    "status": "asr_exact",
+    "asr_word": "aparece,"
+  },
+  {
+    "word": "apresentada",
+    "paragraph": 18,
+    "start": 234.24,
+    "end": 234.8,
+    "status": "asr_exact",
+    "asr_word": "apresentada"
+  },
+  {
+    "word": "como",
+    "paragraph": 18,
+    "start": 234.8,
+    "end": 235.02,
+    "status": "asr_exact",
+    "asr_word": "como"
+  },
+  {
+    "word": "uma",
+    "paragraph": 18,
+    "start": 235.02,
+    "end": 235.32,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "instituição",
+    "paragraph": 18,
+    "start": 235.32,
+    "end": 236.12,
+    "status": "asr_exact",
+    "asr_word": "instituição"
+  },
+  {
+    "word": "de",
+    "paragraph": 18,
+    "start": 236.12,
+    "end": 236.3,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "Vice",
+    "paragraph": 18,
+    "start": 236.3,
+    "end": 236.46,
+    "status": "asr_exact",
+    "asr_word": "Vice"
+  },
+  {
+    "word": "City",
+    "paragraph": 18,
+    "start": 236.46,
+    "end": 236.8,
+    "status": "asr_exact",
+    "asr_word": "City,"
+  },
+  {
+    "word": "voltada",
+    "paragraph": 18,
+    "start": 237.06,
+    "end": 237.58,
+    "status": "asr_exact",
+    "asr_word": "voltada"
+  },
+  {
+    "word": "ao",
+    "paragraph": 18,
+    "start": 237.58,
+    "end": 237.72,
+    "status": "asr_exact",
+    "asr_word": "ao"
+  },
+  {
+    "word": "pop.",
+    "paragraph": 18,
+    "start": 237.72,
+    "end": 237.92,
+    "status": "asr_exact",
+    "asr_word": "pop."
+  },
+  {
+    "word": "O",
+    "paragraph": 18,
+    "start": 238.76,
+    "end": 239.02,
+    "status": "asr_exact",
+    "asr_word": "O"
+  },
+  {
+    "word": "nome",
+    "paragraph": 18,
+    "start": 239.02,
+    "end": 239.18,
+    "status": "asr_exact",
+    "asr_word": "nome"
+  },
+  {
+    "word": "cria",
+    "paragraph": 18,
+    "start": 239.18,
+    "end": 239.46,
+    "status": "asr_exact",
+    "asr_word": "cria"
+  },
+  {
+    "word": "uma",
+    "paragraph": 18,
+    "start": 239.46,
+    "end": 239.64,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "ligação",
+    "paragraph": 18,
+    "start": 239.64,
+    "end": 240.08,
+    "status": "asr_exact",
+    "asr_word": "ligação"
+  },
+  {
+    "word": "com",
+    "paragraph": 18,
+    "start": 240.08,
+    "end": 240.28,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "a",
+    "paragraph": 18,
+    "start": 240.28,
+    "end": 240.36,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "memória",
+    "paragraph": 18,
+    "start": 240.36,
+    "end": 240.68,
+    "status": "asr_exact",
+    "asr_word": "memória"
+  },
+  {
+    "word": "da",
+    "paragraph": 18,
+    "start": 240.68,
+    "end": 240.84,
+    "status": "asr_exact",
+    "asr_word": "da"
+  },
+  {
+    "word": "cidade.",
+    "paragraph": 18,
+    "start": 240.84,
+    "end": 241.24,
+    "status": "asr_exact",
+    "asr_word": "cidade."
+  },
+  {
+    "word": "Ele",
+    "paragraph": 18,
+    "start": 241.9,
+    "end": 242.26,
+    "status": "asr_exact",
+    "asr_word": "Ele"
+  },
+  {
+    "word": "não",
+    "paragraph": 18,
+    "start": 242.26,
+    "end": 242.44,
+    "status": "asr_exact",
+    "asr_word": "não"
+  },
+  {
+    "word": "significa,",
+    "paragraph": 18,
+    "start": 242.44,
+    "end": 242.94,
+    "status": "asr_exact",
+    "asr_word": "significa"
+  },
+  {
+    "word": "sozinho,",
+    "paragraph": 18,
+    "start": 242.94,
+    "end": 243.5,
+    "status": "asr_exact",
+    "asr_word": "sozinho"
+  },
+  {
+    "word": "que",
+    "paragraph": 18,
+    "start": 243.5,
+    "end": 243.7,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "cada",
+    "paragraph": 18,
+    "start": 243.7,
+    "end": 243.94,
+    "status": "asr_exact",
+    "asr_word": "cada"
+  },
+  {
+    "word": "faixa",
+    "paragraph": 18,
+    "start": 243.94,
+    "end": 244.34,
+    "status": "asr_exact",
+    "asr_word": "faixa"
+  },
+  {
+    "word": "do",
+    "paragraph": 18,
+    "start": 244.34,
+    "end": 244.48,
+    "status": "asr_exact",
+    "asr_word": "do"
+  },
+  {
+    "word": "jogo",
+    "paragraph": 18,
+    "start": 244.48,
+    "end": 244.64,
+    "status": "asr_exact",
+    "asr_word": "jogo"
+  },
+  {
+    "word": "antigo",
+    "paragraph": 18,
+    "start": 244.64,
+    "end": 245.0,
+    "status": "asr_exact",
+    "asr_word": "antigo"
+  },
+  {
+    "word": "vai",
+    "paragraph": 18,
+    "start": 245.0,
+    "end": 245.16,
+    "status": "asr_exact",
+    "asr_word": "vai"
+  },
+  {
+    "word": "voltar.",
+    "paragraph": 18,
+    "start": 245.16,
+    "end": 245.48,
+    "status": "asr_exact",
+    "asr_word": "voltar."
+  },
+  {
+    "word": "Essas",
+    "paragraph": 19,
+    "start": 246.6,
+    "end": 247.18,
+    "status": "asr_exact",
+    "asr_word": "Essas"
+  },
+  {
+    "word": "diferenças",
+    "paragraph": 19,
+    "start": 247.18,
+    "end": 247.68,
+    "status": "asr_exact",
+    "asr_word": "diferenças"
+  },
+  {
+    "word": "me",
+    "paragraph": 19,
+    "start": 247.68,
+    "end": 247.84,
+    "status": "asr_exact",
+    "asr_word": "me"
+  },
+  {
+    "word": "interessam",
+    "paragraph": 19,
+    "start": 247.84,
+    "end": 248.32,
+    "status": "asr_exact",
+    "asr_word": "interessam"
+  },
+  {
+    "word": "porque",
+    "paragraph": 19,
+    "start": 248.32,
+    "end": 248.6,
+    "status": "asr_exact",
+    "asr_word": "porque"
+  },
+  {
+    "word": "cada",
+    "paragraph": 19,
+    "start": 248.6,
+    "end": 248.86,
+    "status": "asr_exact",
+    "asr_word": "cada"
+  },
+  {
+    "word": "estação",
+    "paragraph": 19,
+    "start": 248.86,
+    "end": 249.24,
+    "status": "asr_exact",
+    "asr_word": "estação"
+  },
+  {
+    "word": "pode",
+    "paragraph": 19,
+    "start": 249.24,
+    "end": 249.44,
+    "status": "asr_exact",
+    "asr_word": "pode"
+  },
+  {
+    "word": "mudar",
+    "paragraph": 19,
+    "start": 249.44,
+    "end": 249.64,
+    "status": "asr_exact",
+    "asr_word": "mudar"
+  },
+  {
+    "word": "o",
+    "paragraph": 19,
+    "start": 249.64,
+    "end": 249.78,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "clima",
+    "paragraph": 19,
+    "start": 249.78,
+    "end": 250.02,
+    "status": "asr_exact",
+    "asr_word": "clima"
+  },
+  {
+    "word": "de",
+    "paragraph": 19,
+    "start": 250.02,
+    "end": 250.16,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "um",
+    "paragraph": 19,
+    "start": 250.16,
+    "end": 250.22,
+    "status": "asr_exact",
+    "asr_word": "um"
+  },
+  {
+    "word": "passeio",
+    "paragraph": 19,
+    "start": 250.22,
+    "end": 250.54,
+    "status": "asr_exact",
+    "asr_word": "passeio"
+  },
+  {
+    "word": "pelo",
+    "paragraph": 19,
+    "start": 250.54,
+    "end": 250.7,
+    "status": "asr_exact",
+    "asr_word": "pelo"
+  },
+  {
+    "word": "mesmo",
+    "paragraph": 19,
+    "start": 250.7,
+    "end": 250.96,
+    "status": "asr_exact",
+    "asr_word": "mesmo"
+  },
+  {
+    "word": "lugar.",
+    "paragraph": 19,
+    "start": 250.96,
+    "end": 251.32,
+    "status": "asr_exact",
+    "asr_word": "lugar."
+  },
+  {
+    "word": "A",
+    "paragraph": 19,
+    "start": 252.3,
+    "end": 252.54,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "divulgação",
+    "paragraph": 19,
+    "start": 252.54,
+    "end": 253.12,
+    "status": "asr_exact",
+    "asr_word": "divulgação"
+  },
+  {
+    "word": "já",
+    "paragraph": 19,
+    "start": 253.12,
+    "end": 253.28,
+    "status": "asr_exact",
+    "asr_word": "já"
+  },
+  {
+    "word": "oferece",
+    "paragraph": 19,
+    "start": 253.28,
+    "end": 253.68,
+    "status": "asr_exact",
+    "asr_word": "oferece"
+  },
+  {
+    "word": "identidades",
+    "paragraph": 19,
+    "start": 253.68,
+    "end": 253.99,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "identidade para"
+  },
+  {
+    "word": "pra",
+    "paragraph": 19,
+    "start": 253.99,
+    "end": 254.3,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "identidade para"
+  },
+  {
+    "word": "ouvir.",
+    "paragraph": 19,
+    "start": 254.3,
+    "end": 254.58,
+    "status": "asr_exact",
+    "asr_word": "ouvir."
+  },
+  {
+    "word": "Como",
+    "paragraph": 19,
+    "start": 255.38,
+    "end": 255.72,
+    "status": "asr_exact",
+    "asr_word": "Como"
+  },
+  {
+    "word": "isso",
+    "paragraph": 19,
+    "start": 255.72,
+    "end": 255.9,
+    "status": "asr_exact",
+    "asr_word": "isso"
+  },
+  {
+    "word": "vai",
+    "paragraph": 19,
+    "start": 255.9,
+    "end": 256.04,
+    "status": "asr_exact",
+    "asr_word": "vai"
+  },
+  {
+    "word": "funcionar",
+    "paragraph": 19,
+    "start": 256.04,
+    "end": 256.5,
+    "status": "asr_exact",
+    "asr_word": "funcionar"
+  },
+  {
+    "word": "na",
+    "paragraph": 19,
+    "start": 256.5,
+    "end": 256.6,
+    "status": "asr_exact",
+    "asr_word": "na"
+  },
+  {
+    "word": "minha",
+    "paragraph": 19,
+    "start": 256.6,
+    "end": 256.78,
+    "status": "asr_exact",
+    "asr_word": "minha"
+  },
+  {
+    "word": "própria",
+    "paragraph": 19,
+    "start": 256.78,
+    "end": 257.14,
+    "status": "asr_exact",
+    "asr_word": "própria"
+  },
+  {
+    "word": "experiência",
+    "paragraph": 19,
+    "start": 257.14,
+    "end": 257.64,
+    "status": "asr_exact",
+    "asr_word": "experiência"
+  },
+  {
+    "word": "de",
+    "paragraph": 19,
+    "start": 257.64,
+    "end": 257.8,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "jogo",
+    "paragraph": 19,
+    "start": 257.8,
+    "end": 258.1,
+    "status": "asr_exact",
+    "asr_word": "jogo"
+  },
+  {
+    "word": "é",
+    "paragraph": 19,
+    "start": 258.1,
+    "end": 258.36,
+    "status": "asr_exact",
+    "asr_word": "é"
+  },
+  {
+    "word": "outra",
+    "paragraph": 19,
+    "start": 258.36,
+    "end": 258.58,
+    "status": "asr_exact",
+    "asr_word": "outra"
+  },
+  {
+    "word": "conversa,",
+    "paragraph": 19,
+    "start": 258.58,
+    "end": 259.18,
+    "status": "asr_exact",
+    "asr_word": "conversa"
+  },
+  {
+    "word": "que",
+    "paragraph": 19,
+    "start": 259.18,
+    "end": 259.62,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "exige",
+    "paragraph": 19,
+    "start": 259.62,
+    "end": 259.98,
+    "status": "asr_exact",
+    "asr_word": "exige"
+  },
+  {
+    "word": "jogar.",
+    "paragraph": 19,
+    "start": 259.98,
+    "end": 260.3,
+    "status": "asr_exact",
+    "asr_word": "jogar."
+  },
+  {
+    "word": "Não",
+    "paragraph": 20,
+    "start": 261.24,
+    "end": 261.62,
+    "status": "asr_exact",
+    "asr_word": "Não"
+  },
+  {
+    "word": "vou",
+    "paragraph": 20,
+    "start": 261.62,
+    "end": 261.74,
+    "status": "asr_exact",
+    "asr_word": "vou"
+  },
+  {
+    "word": "fingir",
+    "paragraph": 20,
+    "start": 261.74,
+    "end": 262.08,
+    "status": "asr_exact",
+    "asr_word": "fingir"
+  },
+  {
+    "word": "que",
+    "paragraph": 20,
+    "start": 262.08,
+    "end": 262.28,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "uma",
+    "paragraph": 20,
+    "start": 262.28,
+    "end": 262.52,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "lista",
+    "paragraph": 20,
+    "start": 262.52,
+    "end": 262.74,
+    "status": "asr_exact",
+    "asr_word": "lista"
+  },
+  {
+    "word": "de",
+    "paragraph": 20,
+    "start": 262.74,
+    "end": 262.88,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "nomes",
+    "paragraph": 20,
+    "start": 262.88,
+    "end": 263.3,
+    "status": "asr_exact",
+    "asr_word": "nomes"
+  },
+  {
+    "word": "entregou",
+    "paragraph": 20,
+    "start": 263.3,
+    "end": 263.84,
+    "status": "asr_exact",
+    "asr_word": "entregou"
+  },
+  {
+    "word": "aquela",
+    "paragraph": 20,
+    "start": 263.84,
+    "end": 264.12,
+    "status": "asr_exact",
+    "asr_word": "aquela"
+  },
+  {
+    "word": "lembrança",
+    "paragraph": 20,
+    "start": 264.12,
+    "end": 265.06,
+    "status": "asr_exact",
+    "asr_word": "lembrança"
+  },
+  {
+    "word": "perfeita",
+    "paragraph": 20,
+    "start": 265.06,
+    "end": 265.62,
+    "status": "asr_exact",
+    "asr_word": "perfeita"
+  },
+  {
+    "word": "de",
+    "paragraph": 20,
+    "start": 265.62,
+    "end": 265.78,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "madrugada,",
+    "paragraph": 20,
+    "start": 265.78,
+    "end": 266.28,
+    "status": "asr_exact",
+    "asr_word": "madrugada,"
+  },
+  {
+    "word": "carro",
+    "paragraph": 20,
+    "start": 266.5,
+    "end": 266.62,
+    "status": "asr_exact",
+    "asr_word": "carro"
+  },
+  {
+    "word": "e",
+    "paragraph": 20,
+    "start": 266.62,
+    "end": 266.76,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "música.",
+    "paragraph": 20,
+    "start": 266.76,
+    "end": 267.1,
+    "status": "asr_exact",
+    "asr_word": "música."
+  },
+  {
+    "word": "Ela",
+    "paragraph": 20,
+    "start": 267.62,
+    "end": 268.0,
+    "status": "asr_exact",
+    "asr_word": "Ela"
+  },
+  {
+    "word": "pode",
+    "paragraph": 20,
+    "start": 268.0,
+    "end": 268.24,
+    "status": "asr_exact",
+    "asr_word": "pode"
+  },
+  {
+    "word": "criar",
+    "paragraph": 20,
+    "start": 268.24,
+    "end": 268.5,
+    "status": "asr_exact",
+    "asr_word": "criar"
+  },
+  {
+    "word": "expectativa.",
+    "paragraph": 20,
+    "start": 268.5,
+    "end": 269.2,
+    "status": "asr_exact",
+    "asr_word": "expectativa."
+  },
+  {
+    "word": "A",
+    "paragraph": 20,
+    "start": 269.96,
+    "end": 270.22,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "memória",
+    "paragraph": 20,
+    "start": 270.22,
+    "end": 270.56,
+    "status": "asr_exact",
+    "asr_word": "memória"
+  },
+  {
+    "word": "precisa",
+    "paragraph": 20,
+    "start": 270.56,
+    "end": 270.84,
+    "status": "asr_exact",
+    "asr_word": "precisa"
+  },
+  {
+    "word": "acontecer.",
+    "paragraph": 20,
+    "start": 270.84,
+    "end": 271.38,
+    "status": "asr_exact",
+    "asr_word": "acontecer."
+  },
+  {
+    "word": "Tem",
+    "paragraph": 21,
+    "start": 272.4,
+    "end": 272.96,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "Tenha"
+  },
+  {
+    "word": "ainda",
+    "paragraph": 21,
+    "start": 272.96,
+    "end": 273.18,
+    "status": "asr_exact",
+    "asr_word": "ainda"
+  },
+  {
+    "word": "a",
+    "paragraph": 21,
+    "start": 273.18,
+    "end": 273.38,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "surpresa",
+    "paragraph": 21,
+    "start": 273.38,
+    "end": 273.74,
+    "status": "asr_exact",
+    "asr_word": "surpresa"
+  },
+  {
+    "word": "de",
+    "paragraph": 21,
+    "start": 273.74,
+    "end": 273.88,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "encontrar",
+    "paragraph": 21,
+    "start": 273.88,
+    "end": 274.18,
+    "status": "asr_exact",
+    "asr_word": "encontrar"
+  },
+  {
+    "word": "uma",
+    "paragraph": 21,
+    "start": 274.18,
+    "end": 274.44,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "faixa",
+    "paragraph": 21,
+    "start": 274.44,
+    "end": 274.86,
+    "status": "asr_exact",
+    "asr_word": "faixa"
+  },
+  {
+    "word": "sem",
+    "paragraph": 21,
+    "start": 274.86,
+    "end": 275.1,
+    "status": "asr_exact",
+    "asr_word": "sem"
+  },
+  {
+    "word": "procurar",
+    "paragraph": 21,
+    "start": 275.1,
+    "end": 275.48,
+    "status": "asr_exact",
+    "asr_word": "procurar"
+  },
+  {
+    "word": "por",
+    "paragraph": 21,
+    "start": 275.48,
+    "end": 275.7,
+    "status": "asr_exact",
+    "asr_word": "por"
+  },
+  {
+    "word": "ela.",
+    "paragraph": 21,
+    "start": 275.7,
+    "end": 275.9,
+    "status": "asr_exact",
+    "asr_word": "ela."
+  },
+  {
+    "word": "Você",
+    "paragraph": 21,
+    "start": 276.68,
+    "end": 276.96,
+    "status": "asr_exact",
+    "asr_word": "Você"
+  },
+  {
+    "word": "entrou",
+    "paragraph": 21,
+    "start": 276.96,
+    "end": 277.16,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "entro"
+  },
+  {
+    "word": "no",
+    "paragraph": 21,
+    "start": 277.16,
+    "end": 277.28,
+    "status": "asr_exact",
+    "asr_word": "no"
+  },
+  {
+    "word": "carro",
+    "paragraph": 21,
+    "start": 277.28,
+    "end": 277.56,
+    "status": "asr_exact",
+    "asr_word": "carro"
+  },
+  {
+    "word": "pra",
+    "paragraph": 21,
+    "start": 277.56,
+    "end": 277.78,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "para"
+  },
+  {
+    "word": "chegar",
+    "paragraph": 21,
+    "start": 277.78,
+    "end": 277.96,
+    "status": "asr_exact",
+    "asr_word": "chegar"
+  },
+  {
+    "word": "a",
+    "paragraph": 21,
+    "start": 277.96,
+    "end": 278.16,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "algum",
+    "paragraph": 21,
+    "start": 278.16,
+    "end": 278.28,
+    "status": "asr_exact",
+    "asr_word": "algum"
+  },
+  {
+    "word": "lugar,",
+    "paragraph": 21,
+    "start": 278.28,
+    "end": 278.54,
+    "status": "asr_exact",
+    "asr_word": "lugar,"
+  },
+  {
+    "word": "mexeu",
+    "paragraph": 21,
+    "start": 279.18,
+    "end": 279.37,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "mexe ao"
+  },
+  {
+    "word": "no",
+    "paragraph": 21,
+    "start": 279.37,
+    "end": 279.56,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "mexe ao"
+  },
+  {
+    "word": "rádio",
+    "paragraph": 21,
+    "start": 279.56,
+    "end": 279.96,
+    "status": "asr_exact",
+    "asr_word": "rádio"
+  },
+  {
+    "word": "e",
+    "paragraph": 21,
+    "start": 279.96,
+    "end": 280.38,
+    "status": "asr_exact",
+    "asr_word": "e"
+  },
+  {
+    "word": "ficou",
+    "paragraph": 21,
+    "start": 280.38,
+    "end": 280.56,
+    "status": "asr_exact",
+    "asr_word": "ficou"
+  },
+  {
+    "word": "ouvindo.",
+    "paragraph": 21,
+    "start": 280.56,
+    "end": 280.9,
+    "status": "asr_exact",
+    "asr_word": "ouvindo."
+  },
+  {
+    "word": "Esse",
+    "paragraph": 21,
+    "start": 281.74,
+    "end": 281.94,
+    "status": "asr_exact",
+    "asr_word": "Esse"
+  },
+  {
+    "word": "encontro",
+    "paragraph": 21,
+    "start": 281.94,
+    "end": 282.32,
+    "status": "asr_exact",
+    "asr_word": "encontro"
+  },
+  {
+    "word": "faz",
+    "paragraph": 21,
+    "start": 282.32,
+    "end": 282.54,
+    "status": "asr_exact",
+    "asr_word": "faz"
+  },
+  {
+    "word": "parte",
+    "paragraph": 21,
+    "start": 282.54,
+    "end": 282.86,
+    "status": "asr_exact",
+    "asr_word": "parte"
+  },
+  {
+    "word": "do",
+    "paragraph": 21,
+    "start": 282.86,
+    "end": 282.98,
+    "status": "asr_exact",
+    "asr_word": "do"
+  },
+  {
+    "word": "passeio.",
+    "paragraph": 21,
+    "start": 282.98,
+    "end": 283.4,
+    "status": "asr_exact",
+    "asr_word": "passeio."
+  },
+  {
+    "word": "A",
+    "paragraph": 21,
+    "start": 284.12,
+    "end": 284.3,
+    "status": "asr_exact",
+    "asr_word": "A"
+  },
+  {
+    "word": "estação",
+    "paragraph": 21,
+    "start": 284.3,
+    "end": 284.62,
+    "status": "asr_exact",
+    "asr_word": "estação"
+  },
+  {
+    "word": "pode",
+    "paragraph": 21,
+    "start": 284.62,
+    "end": 284.82,
+    "status": "asr_exact",
+    "asr_word": "pode"
+  },
+  {
+    "word": "apresentar",
+    "paragraph": 21,
+    "start": 284.82,
+    "end": 285.3,
+    "status": "asr_exact",
+    "asr_word": "apresentar"
+  },
+  {
+    "word": "algo",
+    "paragraph": 21,
+    "start": 285.3,
+    "end": 285.46,
+    "status": "asr_exact",
+    "asr_word": "algo"
+  },
+  {
+    "word": "que",
+    "paragraph": 21,
+    "start": 285.46,
+    "end": 285.64,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "uma",
+    "paragraph": 21,
+    "start": 285.64,
+    "end": 285.78,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "seleção",
+    "paragraph": 21,
+    "start": 285.78,
+    "end": 286.16,
+    "status": "asr_exact",
+    "asr_word": "seleção"
+  },
+  {
+    "word": "feita",
+    "paragraph": 21,
+    "start": 286.16,
+    "end": 286.5,
+    "status": "asr_exact",
+    "asr_word": "feita"
+  },
+  {
+    "word": "só",
+    "paragraph": 21,
+    "start": 286.5,
+    "end": 286.76,
+    "status": "asr_exact",
+    "asr_word": "só"
+  },
+  {
+    "word": "com",
+    "paragraph": 21,
+    "start": 286.76,
+    "end": 286.94,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "suas",
+    "paragraph": 21,
+    "start": 286.94,
+    "end": 287.14,
+    "status": "asr_exact",
+    "asr_word": "suas"
+  },
+  {
+    "word": "músicas",
+    "paragraph": 21,
+    "start": 287.14,
+    "end": 287.46,
+    "status": "asr_exact",
+    "asr_word": "músicas"
+  },
+  {
+    "word": "favoritas",
+    "paragraph": 21,
+    "start": 287.46,
+    "end": 287.94,
+    "status": "asr_exact",
+    "asr_word": "favoritas"
+  },
+  {
+    "word": "nunca",
+    "paragraph": 21,
+    "start": 287.94,
+    "end": 288.46,
+    "status": "asr_exact",
+    "asr_word": "nunca"
+  },
+  {
+    "word": "colocaria",
+    "paragraph": 21,
+    "start": 288.46,
+    "end": 289.02,
+    "status": "asr_exact",
+    "asr_word": "colocaria"
+  },
+  {
+    "word": "no",
+    "paragraph": 21,
+    "start": 289.02,
+    "end": 289.12,
+    "status": "asr_exact",
+    "asr_word": "no"
+  },
+  {
+    "word": "caminho.",
+    "paragraph": 21,
+    "start": 289.12,
+    "end": 289.3,
+    "status": "asr_exact",
+    "asr_word": "caminho."
+  },
+  {
+    "word": "O",
+    "paragraph": 22,
+    "start": 290.22,
+    "end": 290.44,
+    "status": "asr_exact",
+    "asr_word": "O"
+  },
+  {
+    "word": "rádio",
+    "paragraph": 22,
+    "start": 290.44,
+    "end": 290.72,
+    "status": "asr_exact",
+    "asr_word": "rádio"
+  },
+  {
+    "word": "dá",
+    "paragraph": 22,
+    "start": 290.72,
+    "end": 290.9,
+    "status": "asr_exact",
+    "asr_word": "dá"
+  },
+  {
+    "word": "personalidade",
+    "paragraph": 22,
+    "start": 290.9,
+    "end": 291.66,
+    "status": "asr_exact",
+    "asr_word": "personalidade"
+  },
+  {
+    "word": "ao",
+    "paragraph": 22,
+    "start": 291.66,
+    "end": 291.76,
+    "status": "asr_exact",
+    "asr_word": "ao"
+  },
+  {
+    "word": "caminho.",
+    "paragraph": 22,
+    "start": 291.76,
+    "end": 292.02,
+    "status": "asr_exact",
+    "asr_word": "caminho."
+  },
+  {
+    "word": "Às",
+    "paragraph": 22,
+    "start": 292.62,
+    "end": 292.84,
+    "status": "asr_exact",
+    "asr_word": "Às"
+  },
+  {
+    "word": "vezes",
+    "paragraph": 22,
+    "start": 292.84,
+    "end": 293.0,
+    "status": "asr_exact",
+    "asr_word": "vezes"
+  },
+  {
+    "word": "mantém",
+    "paragraph": 22,
+    "start": 293.0,
+    "end": 293.36,
+    "status": "asr_exact",
+    "asr_word": "mantém"
+  },
+  {
+    "word": "a",
+    "paragraph": 22,
+    "start": 293.36,
+    "end": 293.94,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "gente",
+    "paragraph": 22,
+    "start": 293.94,
+    "end": 294.06,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "corrida fugindo."
+  },
+  {
+    "word": "dirigindo.",
+    "paragraph": 22,
+    "start": 294.06,
+    "end": 294.18,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "corrida fugindo."
+  },
+  {
+    "word": "Às",
+    "paragraph": 22,
+    "start": 294.86,
+    "end": 295.06,
+    "status": "asr_exact",
+    "asr_word": "Às"
+  },
+  {
+    "word": "vezes",
+    "paragraph": 22,
+    "start": 295.06,
+    "end": 295.16,
+    "status": "asr_exact",
+    "asr_word": "vezes"
+  },
+  {
+    "word": "faz",
+    "paragraph": 22,
+    "start": 295.16,
+    "end": 295.36,
+    "status": "asr_exact",
+    "asr_word": "faz"
+  },
+  {
+    "word": "piada",
+    "paragraph": 22,
+    "start": 295.36,
+    "end": 295.74,
+    "status": "asr_exact",
+    "asr_word": "piada"
+  },
+  {
+    "word": "com",
+    "paragraph": 22,
+    "start": 295.74,
+    "end": 295.88,
+    "status": "asr_exact",
+    "asr_word": "com"
+  },
+  {
+    "word": "o",
+    "paragraph": 22,
+    "start": 295.88,
+    "end": 295.93,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": ""
+  },
+  {
+    "word": "desastre.",
+    "paragraph": 22,
+    "start": 295.88,
+    "end": 296.4,
+    "status": "asr_exact",
+    "asr_word": "desastre."
+  },
+  {
+    "word": "E",
+    "paragraph": 22,
+    "start": 297.08,
+    "end": 297.34,
+    "status": "asr_exact",
+    "asr_word": "E"
+  },
+  {
+    "word": "às",
+    "paragraph": 22,
+    "start": 297.34,
+    "end": 297.64,
+    "status": "asr_exact",
+    "asr_word": "às"
+  },
+  {
+    "word": "vezes",
+    "paragraph": 22,
+    "start": 297.64,
+    "end": 297.9,
+    "status": "asr_exact",
+    "asr_word": "vezes"
+  },
+  {
+    "word": "é",
+    "paragraph": 22,
+    "start": 297.9,
+    "end": 298.12,
+    "status": "asr_exact",
+    "asr_word": "é"
+  },
+  {
+    "word": "o",
+    "paragraph": 22,
+    "start": 298.12,
+    "end": 298.18,
+    "status": "asr_exact",
+    "asr_word": "o"
+  },
+  {
+    "word": "motivo",
+    "paragraph": 22,
+    "start": 298.18,
+    "end": 298.42,
+    "status": "asr_exact",
+    "asr_word": "motivo"
+  },
+  {
+    "word": "pelo",
+    "paragraph": 22,
+    "start": 298.42,
+    "end": 298.64,
+    "status": "asr_exact",
+    "asr_word": "pelo"
+  },
+  {
+    "word": "qual",
+    "paragraph": 22,
+    "start": 298.64,
+    "end": 298.8,
+    "status": "asr_exact",
+    "asr_word": "qual"
+  },
+  {
+    "word": "lembramos",
+    "paragraph": 22,
+    "start": 298.8,
+    "end": 299.22,
+    "status": "asr_exact",
+    "asr_word": "lembramos"
+  },
+  {
+    "word": "de",
+    "paragraph": 22,
+    "start": 299.22,
+    "end": 299.34,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "um",
+    "paragraph": 22,
+    "start": 299.34,
+    "end": 299.38,
+    "status": "asr_exact",
+    "asr_word": "um"
+  },
+  {
+    "word": "lugar",
+    "paragraph": 22,
+    "start": 299.38,
+    "end": 299.64,
+    "status": "asr_exact",
+    "asr_word": "lugar"
+  },
+  {
+    "word": "que,",
+    "paragraph": 22,
+    "start": 299.64,
+    "end": 299.88,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "sem",
+    "paragraph": 22,
+    "start": 299.88,
+    "end": 300.26,
+    "status": "asr_exact",
+    "asr_word": "sem"
+  },
+  {
+    "word": "aquela",
+    "paragraph": 22,
+    "start": 300.26,
+    "end": 300.46,
+    "status": "asr_exact",
+    "asr_word": "aquela"
+  },
+  {
+    "word": "música,",
+    "paragraph": 22,
+    "start": 300.46,
+    "end": 300.88,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "seria",
+    "paragraph": 22,
+    "start": 300.88,
+    "end": 301.6,
+    "status": "asr_exact",
+    "asr_word": "seria"
+  },
+  {
+    "word": "só",
+    "paragraph": 22,
+    "start": 301.6,
+    "end": 301.88,
+    "status": "asr_exact",
+    "asr_word": "só"
+  },
+  {
+    "word": "mais",
+    "paragraph": 22,
+    "start": 301.88,
+    "end": 302.04,
+    "status": "asr_exact",
+    "asr_word": "mais"
+  },
+  {
+    "word": "uma",
+    "paragraph": 22,
+    "start": 302.04,
+    "end": 302.18,
+    "status": "asr_exact",
+    "asr_word": "uma"
+  },
+  {
+    "word": "rua.",
+    "paragraph": 22,
+    "start": 302.18,
+    "end": 302.38,
+    "status": "asr_exact",
+    "asr_word": "rua."
+  },
+  {
+    "word": "Qual",
+    "paragraph": 23,
+    "start": 303.32,
+    "end": 303.66,
+    "status": "asr_exact",
+    "asr_word": "Qual"
+  },
+  {
+    "word": "rádio",
+    "paragraph": 23,
+    "start": 303.66,
+    "end": 304.08,
+    "status": "asr_exact",
+    "asr_word": "rádio"
+  },
+  {
+    "word": "ou",
+    "paragraph": 23,
+    "start": 304.08,
+    "end": 304.26,
+    "status": "asr_exact",
+    "asr_word": "ou"
+  },
+  {
+    "word": "música",
+    "paragraph": 23,
+    "start": 304.26,
+    "end": 304.52,
+    "status": "asr_exact",
+    "asr_word": "música"
+  },
+  {
+    "word": "de",
+    "paragraph": 23,
+    "start": 304.52,
+    "end": 304.64,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "GTA",
+    "paragraph": 23,
+    "start": 304.64,
+    "end": 304.98,
+    "status": "asr_exact",
+    "asr_word": "GTA"
+  },
+  {
+    "word": "já",
+    "paragraph": 23,
+    "start": 304.98,
+    "end": 305.5,
+    "status": "asr_exact",
+    "asr_word": "já"
+  },
+  {
+    "word": "fez",
+    "paragraph": 23,
+    "start": 305.5,
+    "end": 305.68,
+    "status": "asr_exact",
+    "asr_word": "fez"
+  },
+  {
+    "word": "você",
+    "paragraph": 23,
+    "start": 305.68,
+    "end": 305.88,
+    "status": "asr_exact",
+    "asr_word": "você"
+  },
+  {
+    "word": "continuar",
+    "paragraph": 23,
+    "start": 305.88,
+    "end": 306.36,
+    "status": "asr_exact",
+    "asr_word": "continuar"
+  },
+  {
+    "word": "no",
+    "paragraph": 23,
+    "start": 306.36,
+    "end": 306.48,
+    "status": "asr_exact",
+    "asr_word": "no"
+  },
+  {
+    "word": "carro",
+    "paragraph": 23,
+    "start": 306.48,
+    "end": 306.76,
+    "status": "asr_exact",
+    "asr_word": "carro"
+  },
+  {
+    "word": "depois",
+    "paragraph": 23,
+    "start": 306.76,
+    "end": 307.08,
+    "status": "asr_exact",
+    "asr_word": "depois"
+  },
+  {
+    "word": "de",
+    "paragraph": 23,
+    "start": 307.08,
+    "end": 307.24,
+    "status": "asr_exact",
+    "asr_word": "de"
+  },
+  {
+    "word": "chegar",
+    "paragraph": 23,
+    "start": 307.24,
+    "end": 307.48,
+    "status": "asr_exact",
+    "asr_word": "chegar"
+  },
+  {
+    "word": "ao",
+    "paragraph": 23,
+    "start": 307.48,
+    "end": 307.64,
+    "status": "asr_exact",
+    "asr_word": "ao"
+  },
+  {
+    "word": "destino?",
+    "paragraph": 23,
+    "start": 307.64,
+    "end": 307.98,
+    "status": "asr_exact",
+    "asr_word": "destino?"
+  },
+  {
+    "word": "Conta",
+    "paragraph": 23,
+    "start": 308.76,
+    "end": 309.12,
+    "status": "asr_exact",
+    "asr_word": "Conta"
+  },
+  {
+    "word": "a",
+    "paragraph": 23,
+    "start": 309.12,
+    "end": 309.2,
+    "status": "asr_exact",
+    "asr_word": "a"
+  },
+  {
+    "word": "lembrança.",
+    "paragraph": 23,
+    "start": 309.2,
+    "end": 309.58,
+    "status": "asr_exact",
+    "asr_word": "lembrança."
+  },
+  {
+    "word": "Eu",
+    "paragraph": 23,
+    "start": 310.24,
+    "end": 310.38,
+    "status": "asr_exact",
+    "asr_word": "Eu"
+  },
+  {
+    "word": "suspeito",
+    "paragraph": 23,
+    "start": 310.38,
+    "end": 310.74,
+    "status": "asr_exact",
+    "asr_word": "suspeito"
+  },
+  {
+    "word": "que",
+    "paragraph": 23,
+    "start": 310.74,
+    "end": 310.88,
+    "status": "asr_exact",
+    "asr_word": "que"
+  },
+  {
+    "word": "muito",
+    "paragraph": 23,
+    "start": 310.88,
+    "end": 311.16,
+    "status": "asr_exact",
+    "asr_word": "muito"
+  },
+  {
+    "word": "compromisso",
+    "paragraph": 23,
+    "start": 311.16,
+    "end": 311.7,
+    "status": "asr_exact",
+    "asr_word": "compromisso"
+  },
+  {
+    "word": "naquele",
+    "paragraph": 23,
+    "start": 311.7,
+    "end": 311.94,
+    "status": "asr_exact",
+    "asr_word": "naquele"
+  },
+  {
+    "word": "mapa",
+    "paragraph": 23,
+    "start": 311.94,
+    "end": 312.18,
+    "status": "asr_exact",
+    "asr_word": "mapa"
+  },
+  {
+    "word": "foi",
+    "paragraph": 23,
+    "start": 312.18,
+    "end": 312.44,
+    "status": "asr_exact",
+    "asr_word": "foi"
+  },
+  {
+    "word": "adiado",
+    "paragraph": 23,
+    "start": 312.44,
+    "end": 312.82,
+    "status": "asr_ambiguity_estimated",
+    "asr_span": "radiado"
+  },
+  {
+    "word": "por",
+    "paragraph": 23,
+    "start": 312.82,
+    "end": 313.02,
+    "status": "asr_exact",
+    "asr_word": "por"
+  },
+  {
+    "word": "um",
+    "paragraph": 23,
+    "start": 313.02,
+    "end": 313.12,
+    "status": "asr_exact",
+    "asr_word": "um"
+  },
+  {
+    "word": "refrão.",
+    "paragraph": 23,
+    "start": 313.12,
+    "end": 313.4,
+    "status": "asr_exact",
+    "asr_word": "refrão."
+  }
+]

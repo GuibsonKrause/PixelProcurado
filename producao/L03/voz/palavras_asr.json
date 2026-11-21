@@ -1,0 +1,7057 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.28,
+    "word": "Na",
+    "probability": 0.6384,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 0.28,
+    "end": 0.46,
+    "word": "nova",
+    "probability": 0.8036,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 0.46,
+    "end": 0.68,
+    "word": "Vice",
+    "probability": 0.4795,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 0.68,
+    "end": 1.08,
+    "word": "City,",
+    "probability": 0.8022,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 1.32,
+    "end": 1.48,
+    "word": "a",
+    "probability": 0.986,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 1.48,
+    "end": 1.84,
+    "word": "plateia",
+    "probability": 0.8214,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 1.84,
+    "end": 2.1,
+    "word": "sobe",
+    "probability": 0.9666,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 2.1,
+    "end": 2.2,
+    "word": "o",
+    "probability": 0.9713,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 2.2,
+    "end": 2.42,
+    "word": "celular",
+    "probability": 0.9869,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 2.42,
+    "end": 2.64,
+    "word": "para",
+    "probability": 0.6373,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 2.64,
+    "end": 2.94,
+    "word": "filmar",
+    "probability": 0.989,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 2.94,
+    "end": 3.18,
+    "word": "duas",
+    "probability": 0.9367,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 3.18,
+    "end": 3.7,
+    "word": "artistas",
+    "probability": 0.9125,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 3.7,
+    "end": 3.88,
+    "word": "em",
+    "probability": 0.9775,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 3.88,
+    "end": 4.08,
+    "word": "cima",
+    "probability": 0.9971,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 4.08,
+    "end": 4.18,
+    "word": "de",
+    "probability": 0.9978,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 4.18,
+    "end": 4.26,
+    "word": "um",
+    "probability": 0.9974,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 4.26,
+    "end": 4.52,
+    "word": "carro.",
+    "probability": 0.9996,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 5.24,
+    "end": 5.56,
+    "word": "Essa",
+    "probability": 0.9625,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 5.56,
+    "end": 5.88,
+    "word": "imagem",
+    "probability": 0.9985,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 5.88,
+    "end": 6.22,
+    "word": "entrega",
+    "probability": 0.9715,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 6.22,
+    "end": 6.54,
+    "word": "grande",
+    "probability": 0.9772,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 6.54,
+    "end": 7.02,
+    "word": "mudança.",
+    "probability": 0.9932,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 7.7,
+    "end": 8.16,
+    "word": "Voltamos",
+    "probability": 0.9837,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 8.16,
+    "end": 8.32,
+    "word": "à",
+    "probability": 0.8849,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 8.32,
+    "end": 8.5,
+    "word": "cidade",
+    "probability": 0.9698,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 8.5,
+    "end": 8.72,
+    "word": "do",
+    "probability": 0.9949,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 8.72,
+    "end": 9.28,
+    "word": "excesso,",
+    "probability": 0.9553,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 9.46,
+    "end": 9.72,
+    "word": "mas",
+    "probability": 0.9953,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 9.72,
+    "end": 10.42,
+    "word": "saímos",
+    "probability": 0.7553,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 10.42,
+    "end": 10.6,
+    "word": "dos",
+    "probability": 0.8706,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 10.6,
+    "end": 10.7,
+    "word": "anos",
+    "probability": 0.9965,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 10.7,
+    "end": 11.0,
+    "word": "80.",
+    "probability": 0.9389,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 11.96,
+    "end": 12.2,
+    "word": "Isso",
+    "probability": 0.7144,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 12.2,
+    "end": 12.5,
+    "word": "muda",
+    "probability": 0.9962,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 12.5,
+    "end": 12.66,
+    "word": "muito",
+    "probability": 0.9138,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 12.66,
+    "end": 12.9,
+    "word": "mais",
+    "probability": 0.9978,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 12.9,
+    "end": 13.04,
+    "word": "que",
+    "probability": 0.9826,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 13.04,
+    "end": 13.12,
+    "word": "a",
+    "probability": 0.9932,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 13.12,
+    "end": 13.42,
+    "word": "roupa.",
+    "probability": 0.998,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 14.4,
+    "end": 14.72,
+    "word": "Pensa",
+    "probability": 0.6496,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 14.72,
+    "end": 14.84,
+    "word": "na",
+    "probability": 0.9908,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 14.84,
+    "end": 15.22,
+    "word": "lembrança",
+    "probability": 0.992,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 15.22,
+    "end": 15.42,
+    "word": "que",
+    "probability": 0.9836,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 15.42,
+    "end": 15.48,
+    "word": "o",
+    "probability": 0.9971,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 15.48,
+    "end": 15.64,
+    "word": "nome",
+    "probability": 0.9949,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 15.64,
+    "end": 16.08,
+    "word": "Vice",
+    "probability": 0.8782,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 16.08,
+    "end": 16.38,
+    "word": "City",
+    "probability": 0.9966,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 16.38,
+    "end": 16.66,
+    "word": "traz.",
+    "probability": 0.9682,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 17.5,
+    "end": 18.06,
+    "word": "Palmeiras,",
+    "probability": 0.9783,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 18.42,
+    "end": 18.72,
+    "word": "calor,",
+    "probability": 0.9691,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 19.28,
+    "end": 19.6,
+    "word": "música",
+    "probability": 0.9896,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 19.6,
+    "end": 20.08,
+    "word": "e",
+    "probability": 0.7927,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 20.08,
+    "end": 20.16,
+    "word": "a",
+    "probability": 0.9081,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 20.16,
+    "end": 20.38,
+    "word": "camisa",
+    "probability": 0.9891,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 20.38,
+    "end": 20.56,
+    "word": "de",
+    "probability": 0.9641,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 20.56,
+    "end": 20.72,
+    "word": "Tommy",
+    "probability": 0.4725,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 20.72,
+    "end": 21.1,
+    "word": "VIII.",
+    "probability": 0.3522,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 22.16,
+    "end": 22.6,
+    "word": "Agora,",
+    "probability": 0.9877,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 22.88,
+    "end": 23.2,
+    "word": "coloca",
+    "probability": 0.9905,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 23.2,
+    "end": 23.4,
+    "word": "nessa",
+    "probability": 0.9359,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 23.4,
+    "end": 23.9,
+    "word": "lembrança",
+    "probability": 0.9978,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 23.9,
+    "end": 24.08,
+    "word": "uma",
+    "probability": 0.9812,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 24.08,
+    "end": 24.68,
+    "word": "multidão",
+    "probability": 0.9945,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 24.68,
+    "end": 25.12,
+    "word": "tentando",
+    "probability": 0.9918,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 25.12,
+    "end": 25.6,
+    "word": "registrar",
+    "probability": 0.9973,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 25.6,
+    "end": 25.74,
+    "word": "o",
+    "probability": 0.9948,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 25.74,
+    "end": 26.0,
+    "word": "próprio",
+    "probability": 0.9919,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 26.0,
+    "end": 26.52,
+    "word": "espetáculo.",
+    "probability": 0.9842,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 27.14,
+    "end": 27.62,
+    "word": "O",
+    "probability": 0.6194,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 27.62,
+    "end": 27.92,
+    "word": "cenário",
+    "probability": 0.9863,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 27.92,
+    "end": 28.28,
+    "word": "continua",
+    "probability": 0.9806,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 28.28,
+    "end": 28.88,
+    "word": "reconhecível,",
+    "probability": 0.9778,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 29.42,
+    "end": 29.66,
+    "word": "só",
+    "probability": 0.9598,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 29.66,
+    "end": 29.8,
+    "word": "que",
+    "probability": 0.9965,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 29.8,
+    "end": 29.86,
+    "word": "a",
+    "probability": 0.9605,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 29.86,
+    "end": 30.2,
+    "word": "ambição",
+    "probability": 0.9907,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 30.2,
+    "end": 30.6,
+    "word": "ganhou",
+    "probability": 0.9791,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 30.6,
+    "end": 30.9,
+    "word": "outra",
+    "probability": 0.9897,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 30.9,
+    "end": 31.3,
+    "word": "vitrine.",
+    "probability": 0.949,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 32.26,
+    "end": 32.74,
+    "word": "Vamos",
+    "probability": 0.9734,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 32.74,
+    "end": 33.0,
+    "word": "olhar",
+    "probability": 0.9817,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 33.0,
+    "end": 33.16,
+    "word": "para",
+    "probability": 0.795,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 33.16,
+    "end": 33.38,
+    "word": "três",
+    "probability": 0.7217,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 33.38,
+    "end": 33.74,
+    "word": "coisas.",
+    "probability": 0.9988,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 34.44,
+    "end": 34.58,
+    "word": "O",
+    "probability": 0.9812,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 34.58,
+    "end": 34.68,
+    "word": "que",
+    "probability": 0.9973,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 34.68,
+    "end": 35.2,
+    "word": "preserva",
+    "probability": 0.9622,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 35.2,
+    "end": 35.32,
+    "word": "essa",
+    "probability": 0.9619,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 35.32,
+    "end": 35.86,
+    "word": "identidade,",
+    "probability": 0.9932,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 36.46,
+    "end": 36.5,
+    "word": "o",
+    "probability": 0.9838,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 36.5,
+    "end": 36.58,
+    "word": "que",
+    "probability": 0.9944,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 36.58,
+    "end": 37.04,
+    "word": "denuncia",
+    "probability": 0.9822,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 37.04,
+    "end": 37.2,
+    "word": "a",
+    "probability": 0.9736,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 37.2,
+    "end": 37.56,
+    "word": "mudança",
+    "probability": 0.9961,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 37.56,
+    "end": 37.76,
+    "word": "de",
+    "probability": 0.9707,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 37.76,
+    "end": 38.04,
+    "word": "época",
+    "probability": 0.9984,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 38.04,
+    "end": 38.62,
+    "word": "e",
+    "probability": 0.6965,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 38.62,
+    "end": 38.82,
+    "word": "qual",
+    "probability": 0.9514,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 38.82,
+    "end": 39.22,
+    "word": "pedaço",
+    "probability": 0.7945,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 39.22,
+    "end": 39.36,
+    "word": "da",
+    "probability": 0.9717,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 39.36,
+    "end": 39.76,
+    "word": "cidade",
+    "probability": 0.9977,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 39.76,
+    "end": 40.0,
+    "word": "a",
+    "probability": 0.9926,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 40.0,
+    "end": 40.24,
+    "word": "nostalgia",
+    "probability": 0.9927,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 40.24,
+    "end": 40.8,
+    "word": "costuma",
+    "probability": 0.9425,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 40.8,
+    "end": 41.12,
+    "word": "deixar",
+    "probability": 0.9852,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 41.12,
+    "end": 41.26,
+    "word": "de",
+    "probability": 0.9959,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 41.26,
+    "end": 41.48,
+    "word": "fora.",
+    "probability": 0.9991,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 42.5,
+    "end": 42.62,
+    "word": "A",
+    "probability": 0.9865,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 42.62,
+    "end": 42.86,
+    "word": "primeira",
+    "probability": 0.9829,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 42.86,
+    "end": 43.3,
+    "word": "pista",
+    "probability": 0.9938,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 43.3,
+    "end": 43.78,
+    "word": "está",
+    "probability": 0.5111,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 43.78,
+    "end": 43.92,
+    "word": "numa",
+    "probability": 0.4974,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 43.92,
+    "end": 44.18,
+    "word": "imagem",
+    "probability": 0.9986,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 44.18,
+    "end": 44.38,
+    "word": "bem",
+    "probability": 0.9909,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 44.38,
+    "end": 44.72,
+    "word": "simples",
+    "probability": 0.9989,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 44.72,
+    "end": 44.86,
+    "word": "do",
+    "probability": 0.9844,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 44.86,
+    "end": 45.04,
+    "word": "jogo",
+    "probability": 0.971,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 45.04,
+    "end": 45.46,
+    "word": "clássico.",
+    "probability": 0.9875,
+    "block": "L03_B01_P01-P03",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Um",
+    "start": 45.9,
+    "end": 46.06,
+    "probability": 0.6528,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "carro",
+    "start": 46.06,
+    "end": 46.26,
+    "probability": 0.9989,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vermelho",
+    "start": 46.26,
+    "end": 46.74,
+    "probability": 0.9913,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "atravessa",
+    "start": 46.74,
+    "end": 47.16,
+    "probability": 0.8949,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "uma",
+    "start": 47.16,
+    "end": 47.3,
+    "probability": 0.9764,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "avenida",
+    "start": 47.3,
+    "end": 47.58,
+    "probability": 0.9341,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "cercada",
+    "start": 47.58,
+    "end": 48.08,
+    "probability": 0.9838,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 48.08,
+    "end": 48.26,
+    "probability": 0.9926,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Palmeiras,",
+    "start": 48.26,
+    "end": 48.7,
+    "probability": 0.8165,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "com",
+    "start": 49.12,
+    "end": 49.56,
+    "probability": 0.9915,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "lojas",
+    "start": 49.56,
+    "end": 49.92,
+    "probability": 0.9691,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 49.92,
+    "end": 50.06,
+    "probability": 0.9937,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "prédios",
+    "start": 50.06,
+    "end": 50.3,
+    "probability": 0.8369,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ao",
+    "start": 50.3,
+    "end": 50.42,
+    "probability": 0.9931,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "lado.",
+    "start": 50.42,
+    "end": 50.66,
+    "probability": 0.9964,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 51.56,
+    "end": 51.78,
+    "probability": 0.9895,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "foto",
+    "start": 51.78,
+    "end": 51.92,
+    "probability": 0.9732,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "oficial",
+    "start": 51.92,
+    "end": 52.36,
+    "probability": 0.9856,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "não",
+    "start": 52.36,
+    "end": 52.5,
+    "probability": 0.9971,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "precisa",
+    "start": 52.5,
+    "end": 52.74,
+    "probability": 0.9973,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 52.74,
+    "end": 52.9,
+    "probability": 0.9632,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "explosão",
+    "start": 52.9,
+    "end": 53.44,
+    "probability": 0.9789,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "para",
+    "start": 53.44,
+    "end": 53.98,
+    "probability": 0.713,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dizer",
+    "start": 53.98,
+    "end": 54.2,
+    "probability": 0.9973,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "onde",
+    "start": 54.2,
+    "end": 54.4,
+    "probability": 0.9733,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "estamos.",
+    "start": 54.4,
+    "end": 54.74,
+    "probability": 0.9936,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 55.66,
+    "end": 55.8,
+    "probability": 0.9406,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vegetação,",
+    "start": 55.8,
+    "end": 56.36,
+    "probability": 0.9775,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 56.78,
+    "end": 56.8,
+    "probability": 0.971,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "luz",
+    "start": 56.8,
+    "end": 57.04,
+    "probability": 0.9986,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 57.04,
+    "end": 57.56,
+    "probability": 0.918,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 57.56,
+    "end": 57.64,
+    "probability": 0.97,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "comércio",
+    "start": 57.64,
+    "end": 58.06,
+    "probability": 0.9867,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "já",
+    "start": 58.06,
+    "end": 58.24,
+    "probability": 0.991,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "constroem",
+    "start": 58.24,
+    "end": 58.72,
+    "probability": 0.8334,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 58.72,
+    "end": 58.76,
+    "probability": 0.9594,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "lugar.",
+    "start": 58.76,
+    "end": 59.02,
+    "probability": 0.9975,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "É",
+    "start": 59.88,
+    "end": 60.02,
+    "probability": 0.9761,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "aquela",
+    "start": 60.02,
+    "end": 60.14,
+    "probability": 0.8841,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vontade",
+    "start": 60.14,
+    "end": 60.6,
+    "probability": 0.9915,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 60.6,
+    "end": 60.82,
+    "probability": 0.999,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "entrar",
+    "start": 60.82,
+    "end": 61.0,
+    "probability": 0.9956,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "no",
+    "start": 61.0,
+    "end": 61.16,
+    "probability": 0.9913,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "carro",
+    "start": 61.16,
+    "end": 61.5,
+    "probability": 0.9994,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 61.5,
+    "end": 61.7,
+    "probability": 0.9869,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sair",
+    "start": 61.7,
+    "end": 61.94,
+    "probability": 0.9874,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dirigindo",
+    "start": 61.94,
+    "end": 62.42,
+    "probability": 0.9938,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sem",
+    "start": 62.42,
+    "end": 62.64,
+    "probability": 0.9865,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "lembrar",
+    "start": 62.64,
+    "end": 63.0,
+    "probability": 0.9951,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "qual",
+    "start": 63.0,
+    "end": 63.28,
+    "probability": 0.9906,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "era",
+    "start": 63.28,
+    "end": 63.44,
+    "probability": 0.847,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 63.44,
+    "end": 63.48,
+    "probability": 0.9823,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "missão.",
+    "start": 63.48,
+    "end": 63.78,
+    "probability": 0.9951,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "O",
+    "start": 64.58,
+    "end": 64.8,
+    "probability": 0.9903,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "jogo",
+    "start": 64.8,
+    "end": 64.98,
+    "probability": 0.9968,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "chegou",
+    "start": 64.98,
+    "end": 65.28,
+    "probability": 0.9968,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "em",
+    "start": 65.28,
+    "end": 65.46,
+    "probability": 0.9955,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "2002,",
+    "start": 65.46,
+    "end": 65.88,
+    "probability": 0.9972,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "mas",
+    "start": 66.6,
+    "end": 66.8,
+    "probability": 0.9983,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sua",
+    "start": 66.8,
+    "end": 66.92,
+    "probability": 0.9705,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "história",
+    "start": 66.92,
+    "end": 67.22,
+    "probability": 0.9984,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "se",
+    "start": 67.22,
+    "end": 67.4,
+    "probability": 0.995,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "passa",
+    "start": 67.4,
+    "end": 67.6,
+    "probability": 0.9985,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "em",
+    "start": 67.6,
+    "end": 67.88,
+    "probability": 0.999,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "1986.",
+    "start": 67.88,
+    "end": 68.68,
+    "probability": 0.971,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "São",
+    "start": 69.9,
+    "end": 70.12,
+    "probability": 0.9622,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "duas",
+    "start": 70.12,
+    "end": 70.34,
+    "probability": 0.9876,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "datas",
+    "start": 70.34,
+    "end": 70.6,
+    "probability": 0.985,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "diferentes.",
+    "start": 70.6,
+    "end": 70.98,
+    "probability": 0.998,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Quando",
+    "start": 70.98,
+    "end": 72.16,
+    "probability": 0.0427,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 72.16,
+    "end": 72.26,
+    "probability": 0.9765,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "gente",
+    "start": 72.26,
+    "end": 72.38,
+    "probability": 0.9996,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "pede",
+    "start": 72.38,
+    "end": 72.72,
+    "probability": 0.9421,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "que",
+    "start": 72.72,
+    "end": 72.88,
+    "probability": 0.9912,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "GTA",
+    "start": 72.88,
+    "end": 73.12,
+    "probability": 0.5415,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "6",
+    "start": 73.12,
+    "end": 73.42,
+    "probability": 0.1617,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "recupere",
+    "start": 73.42,
+    "end": 74.04,
+    "probability": 0.7716,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "aquela",
+    "start": 74.04,
+    "end": 74.7,
+    "probability": 0.9548,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sensação,",
+    "start": 74.7,
+    "end": 75.34,
+    "probability": 0.9958,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "pode",
+    "start": 75.58,
+    "end": 76.26,
+    "probability": 0.9136,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "estar",
+    "start": 76.26,
+    "end": 76.46,
+    "probability": 0.9551,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "pedindo",
+    "start": 76.46,
+    "end": 76.8,
+    "probability": 0.8087,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 76.8,
+    "end": 76.92,
+    "probability": 0.2305,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "atmosfera",
+    "start": 76.92,
+    "end": 77.42,
+    "probability": 0.9923,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dos",
+    "start": 77.42,
+    "end": 77.64,
+    "probability": 0.9866,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "anos",
+    "start": 77.64,
+    "end": 77.76,
+    "probability": 0.9955,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "80",
+    "start": 77.76,
+    "end": 78.16,
+    "probability": 0.9147,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ou",
+    "start": 78.16,
+    "end": 78.76,
+    "probability": 0.6328,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 78.76,
+    "end": 78.86,
+    "probability": 0.8837,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "própria",
+    "start": 78.86,
+    "end": 79.1,
+    "probability": 0.8554,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "lembrança",
+    "start": 79.1,
+    "end": 79.58,
+    "probability": 0.9973,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 79.58,
+    "end": 79.74,
+    "probability": 0.9947,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ter",
+    "start": 79.74,
+    "end": 79.88,
+    "probability": 0.9972,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "jogado.",
+    "start": 79.88,
+    "end": 80.26,
+    "probability": 0.9956,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "E",
+    "start": 81.02,
+    "end": 81.26,
+    "probability": 0.9496,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "essas",
+    "start": 81.26,
+    "end": 81.4,
+    "probability": 0.9782,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "saudades",
+    "start": 81.4,
+    "end": 81.86,
+    "probability": 0.9965,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "nem",
+    "start": 81.86,
+    "end": 82.22,
+    "probability": 0.9563,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sempre",
+    "start": 82.22,
+    "end": 82.58,
+    "probability": 0.9954,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "querem",
+    "start": 82.58,
+    "end": 82.8,
+    "probability": 0.9945,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 82.8,
+    "end": 82.92,
+    "probability": 0.9966,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "mesma",
+    "start": 82.92,
+    "end": 83.1,
+    "probability": 0.9992,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "coisa.",
+    "start": 83.1,
+    "end": 83.4,
+    "probability": 0.9981,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Uma",
+    "start": 84.28,
+    "end": 84.58,
+    "probability": 0.9733,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "imagem",
+    "start": 84.58,
+    "end": 84.9,
+    "probability": 0.9984,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 84.9,
+    "end": 85.08,
+    "probability": 0.9917,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Tommy",
+    "start": 85.08,
+    "end": 85.38,
+    "probability": 0.2993,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "com",
+    "start": 85.38,
+    "end": 85.6,
+    "probability": 0.9866,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 85.6,
+    "end": 85.7,
+    "probability": 0.47,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "camisa",
+    "start": 85.7,
+    "end": 85.9,
+    "probability": 0.9758,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "estampada,",
+    "start": 85.9,
+    "end": 86.5,
+    "probability": 0.9935,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Palmeiras",
+    "start": 86.88,
+    "end": 87.38,
+    "probability": 0.6794,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 87.38,
+    "end": 87.64,
+    "probability": 0.9371,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "um",
+    "start": 87.64,
+    "end": 87.78,
+    "probability": 0.994,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "prédio",
+    "start": 87.78,
+    "end": 88.1,
+    "probability": 0.9201,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ao",
+    "start": 88.1,
+    "end": 88.24,
+    "probability": 0.9078,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "fundo",
+    "start": 88.24,
+    "end": 88.48,
+    "probability": 0.9962,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "resume",
+    "start": 88.48,
+    "end": 89.12,
+    "probability": 0.7883,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "bem",
+    "start": 89.12,
+    "end": 89.36,
+    "probability": 0.9971,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "essa",
+    "start": 89.36,
+    "end": 89.56,
+    "probability": 0.9535,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "combinação.",
+    "start": 89.56,
+    "end": 90.06,
+    "probability": 0.9913,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 90.76,
+    "end": 90.98,
+    "probability": 0.9484,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "cidade",
+    "start": 90.98,
+    "end": 91.22,
+    "probability": 0.9871,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "participa",
+    "start": 91.22,
+    "end": 91.92,
+    "probability": 0.9869,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "da",
+    "start": 91.92,
+    "end": 92.04,
+    "probability": 0.9605,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "identidade",
+    "start": 92.04,
+    "end": 92.46,
+    "probability": 0.9885,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "do",
+    "start": 92.46,
+    "end": 92.6,
+    "probability": 0.9955,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "personagem.",
+    "start": 92.6,
+    "end": 93.0,
+    "probability": 0.9974,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Você",
+    "start": 93.8,
+    "end": 94.1,
+    "probability": 0.9904,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "reconhece",
+    "start": 94.1,
+    "end": 94.54,
+    "probability": 0.9929,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 94.54,
+    "end": 94.68,
+    "probability": 0.9931,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "conjunto",
+    "start": 94.68,
+    "end": 95.04,
+    "probability": 0.9975,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "antes",
+    "start": 95.04,
+    "end": 95.62,
+    "probability": 0.9581,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 95.62,
+    "end": 95.74,
+    "probability": 0.999,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "pensar",
+    "start": 95.74,
+    "end": 96.08,
+    "probability": 0.9304,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "em",
+    "start": 96.08,
+    "end": 96.3,
+    "probability": 0.984,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "quantos",
+    "start": 96.3,
+    "end": 96.6,
+    "probability": 0.9569,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "detalhes",
+    "start": 96.6,
+    "end": 97.06,
+    "probability": 0.9947,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "existem",
+    "start": 97.06,
+    "end": 97.38,
+    "probability": 0.9822,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "na",
+    "start": 97.38,
+    "end": 97.56,
+    "probability": 0.9944,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "faixada.",
+    "start": 97.56,
+    "end": 97.98,
+    "probability": 0.7533,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Esse",
+    "start": 98.66,
+    "end": 98.92,
+    "probability": 0.1014,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "é",
+    "start": 98.92,
+    "end": 99.02,
+    "probability": 0.9889,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 99.02,
+    "end": 99.06,
+    "probability": 0.9948,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "primeiro",
+    "start": 99.06,
+    "end": 99.3,
+    "probability": 0.9945,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ponto",
+    "start": 99.3,
+    "end": 99.68,
+    "probability": 0.9972,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "que",
+    "start": 99.68,
+    "end": 99.88,
+    "probability": 0.9747,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "continua",
+    "start": 99.88,
+    "end": 100.24,
+    "probability": 0.9926,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "funcionando",
+    "start": 100.24,
+    "end": 100.82,
+    "probability": 0.9991,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "no",
+    "start": 100.82,
+    "end": 100.94,
+    "probability": 0.9738,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "retorno.",
+    "start": 100.94,
+    "end": 101.32,
+    "probability": 0.9915,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Nas",
+    "start": 102.02,
+    "end": 102.26,
+    "probability": 0.9108,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "imagens",
+    "start": 102.26,
+    "end": 102.72,
+    "probability": 0.998,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 102.72,
+    "end": 102.88,
+    "probability": 0.9549,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "GTA",
+    "start": 102.88,
+    "end": 103.1,
+    "probability": 0.9605,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "6,",
+    "start": 103.1,
+    "end": 103.52,
+    "probability": 0.284,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 104.12,
+    "end": 104.2,
+    "probability": 0.9856,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "faixa",
+    "start": 104.2,
+    "end": 104.44,
+    "probability": 0.9777,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 104.44,
+    "end": 104.56,
+    "probability": 0.998,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "hotéis",
+    "start": 104.56,
+    "end": 104.82,
+    "probability": 0.8478,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "iluminados,",
+    "start": 104.82,
+    "end": 105.52,
+    "probability": 0.9167,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "as",
+    "start": 105.7,
+    "end": 105.86,
+    "probability": 0.9888,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Palmeiras",
+    "start": 105.86,
+    "end": 106.32,
+    "probability": 0.6958,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 106.32,
+    "end": 106.5,
+    "probability": 0.9786,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 106.5,
+    "end": 106.58,
+    "probability": 0.9257,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vida",
+    "start": 106.58,
+    "end": 106.78,
+    "probability": 0.7793,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "na",
+    "start": 106.78,
+    "end": 106.94,
+    "probability": 0.9826,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "rua",
+    "start": 106.94,
+    "end": 107.18,
+    "probability": 0.9727,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "preservam",
+    "start": 107.18,
+    "end": 108.14,
+    "probability": 0.9205,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 108.14,
+    "end": 108.24,
+    "probability": 0.9039,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "linguagem",
+    "start": 108.24,
+    "end": 108.6,
+    "probability": 0.9981,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "familiar.",
+    "start": 108.6,
+    "end": 109.12,
+    "probability": 0.9917,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "O",
+    "start": 109.96,
+    "end": 110.08,
+    "probability": 0.8835,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Neon",
+    "start": 110.08,
+    "end": 110.32,
+    "probability": 0.7996,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ainda",
+    "start": 110.32,
+    "end": 110.5,
+    "probability": 0.9972,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "cumpre",
+    "start": 110.5,
+    "end": 110.8,
+    "probability": 0.8003,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "seu",
+    "start": 110.8,
+    "end": 110.96,
+    "probability": 0.9722,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "turno.",
+    "start": 110.96,
+    "end": 111.38,
+    "probability": 0.9617,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Só",
+    "start": 111.88,
+    "end": 112.14,
+    "probability": 0.9876,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "que",
+    "start": 112.14,
+    "end": 112.28,
+    "probability": 0.9976,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "reconhecer",
+    "start": 112.28,
+    "end": 112.74,
+    "probability": 0.9938,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "essa",
+    "start": 112.74,
+    "end": 112.92,
+    "probability": 0.9594,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "linguagem",
+    "start": 112.92,
+    "end": 113.32,
+    "probability": 0.9993,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "não",
+    "start": 113.32,
+    "end": 113.46,
+    "probability": 0.9972,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "transforma",
+    "start": 113.46,
+    "end": 114.06,
+    "probability": 0.954,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 114.06,
+    "end": 114.16,
+    "probability": 0.8617,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "nova",
+    "start": 114.16,
+    "end": 114.28,
+    "probability": 0.912,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "cidade",
+    "start": 114.28,
+    "end": 114.78,
+    "probability": 0.9964,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "numa",
+    "start": 114.78,
+    "end": 115.1,
+    "probability": 0.6848,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "repetição,",
+    "start": 115.1,
+    "end": 115.74,
+    "probability": 0.9949,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "rua",
+    "start": 116.12,
+    "end": 116.3,
+    "probability": 0.9691,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "por",
+    "start": 116.3,
+    "end": 116.52,
+    "probability": 0.9527,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "rua.",
+    "start": 116.52,
+    "end": 116.72,
+    "probability": 0.9957,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 117.64,
+    "end": 117.82,
+    "probability": 0.9832,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ligação",
+    "start": 117.82,
+    "end": 118.16,
+    "probability": 0.9915,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "que",
+    "start": 118.16,
+    "end": 118.3,
+    "probability": 0.9929,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "podemos",
+    "start": 118.3,
+    "end": 118.62,
+    "probability": 0.9692,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "enxergar",
+    "start": 118.62,
+    "end": 119.06,
+    "probability": 0.9849,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "aqui",
+    "start": 119.06,
+    "end": 119.44,
+    "probability": 0.9696,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "é",
+    "start": 119.44,
+    "end": 119.7,
+    "probability": 0.9827,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 119.7,
+    "end": 119.82,
+    "probability": 0.5926,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "atmosfera.",
+    "start": 119.82,
+    "end": 120.32,
+    "probability": 0.9763,
+    "block": "L03_B02_P04-P07",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "E",
+    "start": 120.75,
+    "end": 121.07,
+    "probability": 0.4989,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "existe",
+    "start": 121.07,
+    "end": 121.31,
+    "probability": 0.9774,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "um",
+    "start": 121.31,
+    "end": 121.41,
+    "probability": 0.9952,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "detalhe",
+    "start": 121.41,
+    "end": 121.71,
+    "probability": 0.9979,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "que",
+    "start": 121.71,
+    "end": 121.85,
+    "probability": 0.992,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "torna",
+    "start": 121.85,
+    "end": 122.13,
+    "probability": 0.9907,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 122.13,
+    "end": 122.21,
+    "probability": 0.7714,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "mudança",
+    "start": 122.21,
+    "end": 122.53,
+    "probability": 0.9974,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 122.53,
+    "end": 122.71,
+    "probability": 0.9798,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "época",
+    "start": 122.71,
+    "end": 123.03,
+    "probability": 0.9914,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "impossível",
+    "start": 123.03,
+    "end": 123.71,
+    "probability": 0.9864,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 123.71,
+    "end": 123.81,
+    "probability": 0.9982,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ignorar.",
+    "start": 123.81,
+    "end": 124.21,
+    "probability": 0.9986,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Quem",
+    "start": 125.03,
+    "end": 125.13,
+    "probability": 0.9741,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "está",
+    "start": 125.13,
+    "end": 125.31,
+    "probability": 0.9824,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "segurando",
+    "start": 125.31,
+    "end": 125.71,
+    "probability": 0.8395,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 125.71,
+    "end": 125.81,
+    "probability": 0.97,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "câmera?",
+    "start": 125.81,
+    "end": 126.07,
+    "probability": 0.9686,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Na",
+    "start": 127.51,
+    "end": 127.71,
+    "probability": 0.9645,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "imagem",
+    "start": 127.71,
+    "end": 128.01,
+    "probability": 0.9964,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 128.01,
+    "end": 128.23,
+    "probability": 0.5652,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Real",
+    "start": 128.23,
+    "end": 128.49,
+    "probability": 0.4827,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Dimes,",
+    "start": 128.49,
+    "end": 128.85,
+    "probability": 0.8052,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dois",
+    "start": 129.45,
+    "end": 129.53,
+    "probability": 0.572,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "artistas",
+    "start": 129.53,
+    "end": 129.97,
+    "probability": 0.9811,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ocupam",
+    "start": 129.97,
+    "end": 130.37,
+    "probability": 0.9939,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 130.37,
+    "end": 130.51,
+    "probability": 0.8662,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "capô",
+    "start": 130.51,
+    "end": 130.75,
+    "probability": 0.9461,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 130.75,
+    "end": 130.85,
+    "probability": 0.9982,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "um",
+    "start": 130.85,
+    "end": 130.93,
+    "probability": 0.9975,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "carro,",
+    "start": 130.93,
+    "end": 131.21,
+    "probability": 0.9997,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "cercada",
+    "start": 131.47,
+    "end": 131.79,
+    "probability": 0.8053,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 131.79,
+    "end": 131.97,
+    "probability": 0.9891,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "gente.",
+    "start": 131.97,
+    "end": 132.25,
+    "probability": 0.9877,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Há",
+    "start": 132.93,
+    "end": 133.09,
+    "probability": 0.9857,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "telefones",
+    "start": 133.09,
+    "end": 133.47,
+    "probability": 0.9145,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "erguidos.",
+    "start": 133.47,
+    "end": 133.89,
+    "probability": 0.9883,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "E",
+    "start": 134.61,
+    "end": 134.81,
+    "probability": 0.9421,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "uma",
+    "start": 134.81,
+    "end": 134.91,
+    "probability": 0.982,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "das",
+    "start": 134.91,
+    "end": 135.05,
+    "probability": 0.9782,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "telas",
+    "start": 135.05,
+    "end": 135.41,
+    "probability": 0.9893,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "mostra",
+    "start": 135.41,
+    "end": 135.75,
+    "probability": 0.9651,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 135.75,
+    "end": 135.95,
+    "probability": 0.975,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "apresentação.",
+    "start": 135.95,
+    "end": 136.49,
+    "probability": 0.9478,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 137.81,
+    "end": 138.01,
+    "probability": 0.9792,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "festa",
+    "start": 138.01,
+    "end": 138.15,
+    "probability": 0.9917,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "está",
+    "start": 138.15,
+    "end": 138.37,
+    "probability": 0.9821,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "acontecendo",
+    "start": 138.37,
+    "end": 138.81,
+    "probability": 0.9946,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "para",
+    "start": 138.81,
+    "end": 139.13,
+    "probability": 0.8358,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "quem",
+    "start": 139.13,
+    "end": 139.29,
+    "probability": 0.9934,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "está",
+    "start": 139.29,
+    "end": 139.47,
+    "probability": 0.995,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ali.",
+    "start": 139.47,
+    "end": 139.69,
+    "probability": 0.984,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "E",
+    "start": 140.39,
+    "end": 140.51,
+    "probability": 0.9746,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "também",
+    "start": 140.51,
+    "end": 140.67,
+    "probability": 0.9863,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sendo",
+    "start": 140.67,
+    "end": 140.89,
+    "probability": 0.9796,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "enquadrada",
+    "start": 140.89,
+    "end": 141.35,
+    "probability": 0.9627,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "para",
+    "start": 141.35,
+    "end": 141.55,
+    "probability": 0.9721,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "quem",
+    "start": 141.55,
+    "end": 141.69,
+    "probability": 0.9968,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vai",
+    "start": 141.69,
+    "end": 141.85,
+    "probability": 0.9633,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "assistir",
+    "start": 141.85,
+    "end": 142.03,
+    "probability": 0.9867,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "depois.",
+    "start": 142.03,
+    "end": 142.49,
+    "probability": 0.9964,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Até",
+    "start": 143.23,
+    "end": 143.53,
+    "probability": 0.9632,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 143.53,
+    "end": 143.71,
+    "probability": 0.9909,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "plateia",
+    "start": 143.71,
+    "end": 143.97,
+    "probability": 0.6289,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "está",
+    "start": 143.97,
+    "end": 144.13,
+    "probability": 0.9871,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "produzindo",
+    "start": 144.13,
+    "end": 144.59,
+    "probability": 0.9934,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "uma",
+    "start": 144.59,
+    "end": 144.79,
+    "probability": 0.9383,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "aversão",
+    "start": 144.79,
+    "end": 145.13,
+    "probability": 0.757,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "daquele",
+    "start": 145.13,
+    "end": 145.39,
+    "probability": 0.6482,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "momento.",
+    "start": 145.39,
+    "end": 145.63,
+    "probability": 0.999,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 146.47,
+    "end": 147.11,
+    "probability": 0.054,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "descrição",
+    "start": 147.11,
+    "end": 147.75,
+    "probability": 0.7449,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "oficial",
+    "start": 147.75,
+    "end": 148.17,
+    "probability": 0.9809,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "da",
+    "start": 148.17,
+    "end": 148.35,
+    "probability": 0.9792,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dupla",
+    "start": 148.35,
+    "end": 148.71,
+    "probability": 0.974,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "liga",
+    "start": 148.71,
+    "end": 149.45,
+    "probability": 0.9259,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 149.45,
+    "end": 149.59,
+    "probability": 0.9574,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "carreira",
+    "start": 149.59,
+    "end": 149.77,
+    "probability": 0.9402,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "musical",
+    "start": 149.77,
+    "end": 149.99,
+    "probability": 0.9815,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "à",
+    "start": 149.99,
+    "end": 150.31,
+    "probability": 0.8207,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "presença",
+    "start": 150.31,
+    "end": 150.69,
+    "probability": 0.9958,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "nas",
+    "start": 150.69,
+    "end": 150.89,
+    "probability": 0.9899,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "redes",
+    "start": 150.89,
+    "end": 151.07,
+    "probability": 0.9978,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sociais.",
+    "start": 151.07,
+    "end": 151.45,
+    "probability": 0.9971,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Isso",
+    "start": 152.25,
+    "end": 152.73,
+    "probability": 0.8912,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dá",
+    "start": 152.73,
+    "end": 152.87,
+    "probability": 0.9551,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "contexto",
+    "start": 152.87,
+    "end": 153.31,
+    "probability": 0.941,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ao",
+    "start": 153.31,
+    "end": 153.67,
+    "probability": 0.9782,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "que",
+    "start": 153.67,
+    "end": 153.81,
+    "probability": 0.9982,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 153.81,
+    "end": 153.93,
+    "probability": 0.9894,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "imagem",
+    "start": 153.93,
+    "end": 154.15,
+    "probability": 0.9971,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "mostra.",
+    "start": 154.15,
+    "end": 154.53,
+    "probability": 0.9951,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Música,",
+    "start": 155.23,
+    "end": 155.69,
+    "probability": 0.8742,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "atenção",
+    "start": 155.91,
+    "end": 156.11,
+    "probability": 0.9502,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 156.11,
+    "end": 156.55,
+    "probability": 0.9718,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dinheiro",
+    "start": 156.55,
+    "end": 156.97,
+    "probability": 0.9983,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "fazem",
+    "start": 156.97,
+    "end": 157.27,
+    "probability": 0.9944,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "parte",
+    "start": 157.27,
+    "end": 157.57,
+    "probability": 0.9996,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "do",
+    "start": 157.57,
+    "end": 157.75,
+    "probability": 0.9944,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "mesmo",
+    "start": 157.75,
+    "end": 157.91,
+    "probability": 0.986,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "caminho.",
+    "start": 157.91,
+    "end": 158.21,
+    "probability": 0.9967,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 158.85,
+    "end": 159.25,
+    "word": "Minha",
+    "probability": 0.7771,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 159.25,
+    "end": 159.73,
+    "word": "leitura",
+    "probability": 0.9929,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 159.73,
+    "end": 160.03,
+    "word": "é",
+    "probability": 0.9732,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 160.03,
+    "end": 160.15,
+    "word": "que",
+    "probability": 0.9943,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 160.15,
+    "end": 160.25,
+    "word": "a",
+    "probability": 0.9645,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 160.25,
+    "end": 160.39,
+    "word": "nova",
+    "probability": 0.9351,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 160.39,
+    "end": 160.67,
+    "word": "Vice",
+    "probability": 0.4896,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 160.67,
+    "end": 161.05,
+    "word": "City",
+    "probability": 0.5177,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 161.05,
+    "end": 161.35,
+    "word": "encontra",
+    "probability": 0.7679,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 161.35,
+    "end": 161.63,
+    "word": "em",
+    "probability": 0.2016,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 161.63,
+    "end": 161.79,
+    "word": "uma",
+    "probability": 0.9763,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 161.79,
+    "end": 162.21,
+    "word": "forma",
+    "probability": 0.9969,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 162.21,
+    "end": 163.09,
+    "word": "contemporânea",
+    "probability": 0.9953,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 163.09,
+    "end": 163.29,
+    "word": "de",
+    "probability": 0.9816,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 163.29,
+    "end": 163.75,
+    "word": "ensinar",
+    "probability": 0.9251,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 163.75,
+    "end": 163.93,
+    "word": "uma",
+    "probability": 0.9462,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 163.93,
+    "end": 164.43,
+    "word": "obsessão",
+    "probability": 0.8983,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 164.43,
+    "end": 164.89,
+    "word": "antiga,",
+    "probability": 0.9923,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 165.09,
+    "end": 166.05,
+    "word": "aparecer,",
+    "probability": 0.9708,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 166.65,
+    "end": 167.25,
+    "word": "crescer",
+    "probability": 0.9976,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 167.25,
+    "end": 167.75,
+    "word": "e",
+    "probability": 0.9561,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 167.75,
+    "end": 167.93,
+    "word": "ser",
+    "probability": 0.9911,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 167.93,
+    "end": 168.13,
+    "word": "alguém.",
+    "probability": 0.9974,
+    "source": "reparo_v2",
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "No",
+    "start": 169.42,
+    "end": 170.06,
+    "probability": 0.9651,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "clássico,",
+    "start": 170.06,
+    "end": 170.5,
+    "probability": 0.992,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "os",
+    "start": 170.86,
+    "end": 170.86,
+    "probability": 0.9842,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "anúncios",
+    "start": 170.86,
+    "end": 171.1,
+    "probability": 0.7136,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 171.1,
+    "end": 171.26,
+    "probability": 0.9901,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "rádio",
+    "start": 171.26,
+    "end": 171.6,
+    "probability": 0.9153,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "já",
+    "start": 171.6,
+    "end": 171.76,
+    "probability": 0.9959,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "faziam",
+    "start": 171.76,
+    "end": 172.02,
+    "probability": 0.8919,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "piada",
+    "start": 172.02,
+    "end": 172.4,
+    "probability": 0.9246,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "com",
+    "start": 172.4,
+    "end": 172.56,
+    "probability": 0.987,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "consumo,",
+    "start": 172.56,
+    "end": 172.94,
+    "probability": 0.9128,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "aparência",
+    "start": 173.22,
+    "end": 173.68,
+    "probability": 0.9859,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 173.68,
+    "end": 173.92,
+    "probability": 0.9842,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "promessa",
+    "start": 173.92,
+    "end": 174.26,
+    "probability": 0.7052,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 174.26,
+    "end": 174.42,
+    "probability": 0.9954,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sucesso.",
+    "start": 174.42,
+    "end": 174.72,
+    "probability": 0.9985,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 174.72,
+    "end": 175.76,
+    "probability": 0.0781,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Rockstar",
+    "start": 175.76,
+    "end": 176.06,
+    "probability": 0.7705,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "conserva",
+    "start": 176.06,
+    "end": 176.46,
+    "probability": 0.6399,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "um",
+    "start": 176.46,
+    "end": 176.54,
+    "probability": 0.9704,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "arquivo",
+    "start": 176.54,
+    "end": 176.94,
+    "probability": 0.9946,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "desses",
+    "start": 176.94,
+    "end": 177.2,
+    "probability": 0.9606,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "comerciales",
+    "start": 177.2,
+    "end": 177.82,
+    "probability": 0.7202,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "fictícios,",
+    "start": 177.82,
+    "end": 178.26,
+    "probability": 0.9559,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "identificado",
+    "start": 178.72,
+    "end": 179.48,
+    "probability": 0.9848,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "como",
+    "start": 179.48,
+    "end": 179.7,
+    "probability": 0.991,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Vice",
+    "start": 179.7,
+    "end": 180.02,
+    "probability": 0.4867,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "City",
+    "start": 180.02,
+    "end": 180.3,
+    "probability": 0.435,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 180.3,
+    "end": 180.52,
+    "probability": 0.9528,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "1986.",
+    "start": 180.52,
+    "end": 181.18,
+    "probability": 0.9818,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "O",
+    "start": 182.4,
+    "end": 182.8,
+    "probability": 0.9534,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "exagero",
+    "start": 182.8,
+    "end": 183.12,
+    "probability": 0.9514,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "não",
+    "start": 183.12,
+    "end": 183.28,
+    "probability": 0.9833,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "nasceu",
+    "start": 183.28,
+    "end": 183.6,
+    "probability": 0.9945,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "com",
+    "start": 183.6,
+    "end": 183.82,
+    "probability": 0.9957,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 183.82,
+    "end": 183.9,
+    "probability": 0.908,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "celular.",
+    "start": 183.9,
+    "end": 184.22,
+    "probability": 0.9978,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "O",
+    "start": 185.08,
+    "end": 185.3,
+    "probability": 0.9879,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "celular",
+    "start": 185.3,
+    "end": 185.66,
+    "probability": 0.9992,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "oferece",
+    "start": 185.66,
+    "end": 186.14,
+    "probability": 0.9913,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "outra",
+    "start": 186.14,
+    "end": 186.34,
+    "probability": 0.971,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "maneira",
+    "start": 186.34,
+    "end": 186.68,
+    "probability": 0.9967,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 186.68,
+    "end": 186.92,
+    "probability": 0.9971,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "colocá",
+    "start": 186.92,
+    "end": 187.32,
+    "probability": 0.9304,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "-lo",
+    "start": 187.32,
+    "end": 187.4,
+    "probability": 0.9973,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "em",
+    "start": 187.4,
+    "end": 187.54,
+    "probability": 0.995,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "cena.",
+    "start": 187.54,
+    "end": 187.74,
+    "probability": 0.9952,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Essa",
+    "start": 188.86,
+    "end": 189.36,
+    "probability": 0.8925,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "comparação",
+    "start": 189.36,
+    "end": 189.96,
+    "probability": 0.9951,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "é",
+    "start": 189.96,
+    "end": 190.04,
+    "probability": 0.9933,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "mais",
+    "start": 190.04,
+    "end": 190.18,
+    "probability": 0.99,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "interessante",
+    "start": 190.18,
+    "end": 190.7,
+    "probability": 0.9933,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "que",
+    "start": 190.7,
+    "end": 191.02,
+    "probability": 0.9521,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "procurar",
+    "start": 191.02,
+    "end": 191.46,
+    "probability": 0.9681,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "um",
+    "start": 191.46,
+    "end": 191.58,
+    "probability": 0.9961,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "objeto",
+    "start": 191.58,
+    "end": 191.82,
+    "probability": 0.9974,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "antigo",
+    "start": 191.82,
+    "end": 192.28,
+    "probability": 0.9825,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "escondido",
+    "start": 192.28,
+    "end": 192.72,
+    "probability": 0.996,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "num",
+    "start": 192.72,
+    "end": 192.88,
+    "probability": 0.63,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "canto.",
+    "start": 192.88,
+    "end": 193.24,
+    "probability": 0.9957,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "O",
+    "start": 194.2,
+    "end": 194.4,
+    "probability": 0.9796,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "parentesco",
+    "start": 194.4,
+    "end": 194.98,
+    "probability": 0.9398,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "está",
+    "start": 194.98,
+    "end": 195.32,
+    "probability": 0.9473,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "no",
+    "start": 195.32,
+    "end": 195.48,
+    "probability": 0.9699,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "comportamento.",
+    "start": 195.48,
+    "end": 196.06,
+    "probability": 0.9987,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 196.74,
+    "end": 196.88,
+    "probability": 0.9914,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "cidade",
+    "start": 196.88,
+    "end": 197.02,
+    "probability": 0.9975,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "continua",
+    "start": 197.02,
+    "end": 197.5,
+    "probability": 0.9904,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vendendo",
+    "start": 197.5,
+    "end": 197.94,
+    "probability": 0.9679,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "uma",
+    "start": 197.94,
+    "end": 198.08,
+    "probability": 0.8823,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "imagem",
+    "start": 198.08,
+    "end": 198.36,
+    "probability": 0.997,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 198.36,
+    "end": 198.54,
+    "probability": 0.9969,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vida",
+    "start": 198.54,
+    "end": 198.74,
+    "probability": 0.9983,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "desejável,",
+    "start": 198.74,
+    "end": 199.42,
+    "probability": 0.9906,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "enquanto",
+    "start": 199.8,
+    "end": 200.22,
+    "probability": 0.9978,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "os",
+    "start": 200.22,
+    "end": 200.38,
+    "probability": 0.4844,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "seus",
+    "start": 200.38,
+    "end": 200.46,
+    "probability": 0.9595,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "personagens",
+    "start": 200.46,
+    "end": 200.9,
+    "probability": 0.9933,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "tentam",
+    "start": 200.9,
+    "end": 201.2,
+    "probability": 0.9961,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ganhar",
+    "start": 201.2,
+    "end": 201.44,
+    "probability": 0.9941,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "alguma",
+    "start": 201.44,
+    "end": 201.7,
+    "probability": 0.9796,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "coisa",
+    "start": 201.7,
+    "end": 201.94,
+    "probability": 0.9961,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "com",
+    "start": 201.94,
+    "end": 202.12,
+    "probability": 0.9949,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ela.",
+    "start": 202.12,
+    "end": 202.32,
+    "probability": 0.9887,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Às",
+    "start": 202.88,
+    "end": 203.4,
+    "probability": 0.5507,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vezes",
+    "start": 203.4,
+    "end": 203.5,
+    "probability": 0.9975,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dinheiro,",
+    "start": 203.5,
+    "end": 203.8,
+    "probability": 0.8105,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "às",
+    "start": 204.6,
+    "end": 204.6,
+    "probability": 0.9793,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vezes",
+    "start": 204.6,
+    "end": 204.82,
+    "probability": 0.9991,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "prestígio,",
+    "start": 204.82,
+    "end": 205.44,
+    "probability": 0.8826,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "às",
+    "start": 206.12,
+    "end": 206.18,
+    "probability": 0.969,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vezes",
+    "start": 206.18,
+    "end": 206.4,
+    "probability": 0.9992,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "só",
+    "start": 206.4,
+    "end": 206.6,
+    "probability": 0.9359,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "algum",
+    "start": 206.6,
+    "end": 206.8,
+    "probability": 0.7004,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "segundo",
+    "start": 206.8,
+    "end": 207.16,
+    "probability": 0.9839,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 207.16,
+    "end": 207.28,
+    "probability": 0.9977,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "atenção.",
+    "start": 207.28,
+    "end": 207.54,
+    "probability": 0.9817,
+    "block": "L03_B03_P08-P12",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Mas,",
+    "start": 208.56,
+    "end": 208.92,
+    "probability": 0.5644,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "se",
+    "start": 209.3,
+    "end": 209.5,
+    "probability": 0.9916,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "afester",
+    "start": 209.5,
+    "end": 209.84,
+    "probability": 0.5,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vitrine,",
+    "start": 209.84,
+    "end": 210.4,
+    "probability": 0.8139,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 210.74,
+    "end": 210.84,
+    "probability": 0.9722,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "que",
+    "start": 210.84,
+    "end": 210.9,
+    "probability": 0.9736,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "acontece",
+    "start": 210.9,
+    "end": 211.3,
+    "probability": 0.9977,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "quando",
+    "start": 211.3,
+    "end": 211.5,
+    "probability": 0.9884,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 211.5,
+    "end": 211.58,
+    "probability": 0.9763,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "gente",
+    "start": 211.58,
+    "end": 211.72,
+    "probability": 0.9991,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "olha",
+    "start": 211.72,
+    "end": 212.08,
+    "probability": 0.9611,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "para",
+    "start": 212.08,
+    "end": 212.36,
+    "probability": 0.9687,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "além",
+    "start": 212.36,
+    "end": 212.74,
+    "probability": 0.858,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dela?",
+    "start": 212.74,
+    "end": 213.02,
+    "probability": 0.9817,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Uma",
+    "start": 213.92,
+    "end": 214.1,
+    "probability": 0.9695,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "das",
+    "start": 214.1,
+    "end": 214.24,
+    "probability": 0.9953,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "imagens",
+    "start": 214.24,
+    "end": 214.5,
+    "probability": 0.9937,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "oficiais",
+    "start": 214.5,
+    "end": 215.08,
+    "probability": 0.9888,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "mostra",
+    "start": 215.08,
+    "end": 215.3,
+    "probability": 0.9551,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "um",
+    "start": 215.3,
+    "end": 215.52,
+    "probability": 0.9624,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "casal",
+    "start": 215.52,
+    "end": 215.86,
+    "probability": 0.9322,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "numa",
+    "start": 215.86,
+    "end": 216.0,
+    "probability": 0.6492,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "baranda,",
+    "start": 216.0,
+    "end": 216.44,
+    "probability": 0.9943,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "acima",
+    "start": 216.64,
+    "end": 217.02,
+    "probability": 0.9884,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 217.02,
+    "end": 217.18,
+    "probability": 0.9956,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "uma",
+    "start": 217.18,
+    "end": 217.28,
+    "probability": 0.9901,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "piscina,",
+    "start": 217.28,
+    "end": 217.8,
+    "probability": 0.9933,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "com",
+    "start": 217.96,
+    "end": 218.06,
+    "probability": 0.9906,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 218.06,
+    "end": 218.2,
+    "probability": 0.9162,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "praia",
+    "start": 218.2,
+    "end": 218.4,
+    "probability": 0.9794,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ao",
+    "start": 218.4,
+    "end": 218.54,
+    "probability": 0.8084,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "fundo.",
+    "start": 218.54,
+    "end": 218.76,
+    "probability": 0.9998,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 219.44,
+    "end": 219.68,
+    "probability": 0.9732,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "posição",
+    "start": 219.68,
+    "end": 219.92,
+    "probability": 0.9961,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "da",
+    "start": 219.92,
+    "end": 220.12,
+    "probability": 0.9934,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "câmara",
+    "start": 220.12,
+    "end": 220.42,
+    "probability": 0.6353,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "coloca",
+    "start": 220.42,
+    "end": 220.7,
+    "probability": 0.982,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 220.7,
+    "end": 220.92,
+    "probability": 0.9701,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "gente",
+    "start": 220.92,
+    "end": 221.06,
+    "probability": 0.9977,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "do",
+    "start": 221.06,
+    "end": 221.26,
+    "probability": 0.9485,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "lado",
+    "start": 221.26,
+    "end": 221.48,
+    "probability": 0.9977,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 221.48,
+    "end": 221.64,
+    "probability": 0.9734,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "quem",
+    "start": 221.64,
+    "end": 221.78,
+    "probability": 0.9893,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "observa",
+    "start": 221.78,
+    "end": 222.26,
+    "probability": 0.9851,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 222.26,
+    "end": 222.34,
+    "probability": 0.896,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "paisagem,",
+    "start": 222.34,
+    "end": 222.78,
+    "probability": 0.9941,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 222.9,
+    "end": 222.98,
+    "probability": 0.9072,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "um",
+    "start": 222.98,
+    "end": 223.06,
+    "probability": 0.9955,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "lugar",
+    "start": 223.06,
+    "end": 223.24,
+    "probability": 0.9941,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "confortável.",
+    "start": 223.24,
+    "end": 223.88,
+    "probability": 0.9959,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "É",
+    "start": 224.42,
+    "end": 224.74,
+    "probability": 0.2417,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vai",
+    "start": 224.74,
+    "end": 224.88,
+    "probability": 0.6897,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "se",
+    "start": 224.88,
+    "end": 224.98,
+    "probability": 0.7285,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sítio",
+    "start": 224.98,
+    "end": 225.2,
+    "probability": 0.5107,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "funcionando",
+    "start": 225.2,
+    "end": 225.58,
+    "probability": 0.9946,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "como",
+    "start": 225.58,
+    "end": 225.74,
+    "probability": 0.9839,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "promessa",
+    "start": 225.74,
+    "end": 226.24,
+    "probability": 0.8195,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 226.24,
+    "end": 226.4,
+    "probability": 0.9963,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "férias",
+    "start": 226.4,
+    "end": 226.76,
+    "probability": 0.9893,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "caras.",
+    "start": 226.76,
+    "end": 227.26,
+    "probability": 0.9891,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Dá",
+    "start": 227.86,
+    "end": 228.08,
+    "probability": 0.9531,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "até",
+    "start": 228.08,
+    "end": 228.26,
+    "probability": 0.9886,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "para",
+    "start": 228.26,
+    "end": 228.36,
+    "probability": 0.8195,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "imaginar",
+    "start": 228.36,
+    "end": 228.66,
+    "probability": 0.9917,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 228.66,
+    "end": 228.86,
+    "probability": 0.9918,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "preço",
+    "start": 228.86,
+    "end": 229.06,
+    "probability": 0.9371,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "do",
+    "start": 229.06,
+    "end": 229.18,
+    "probability": 0.9933,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "frigobar.",
+    "start": 229.18,
+    "end": 229.64,
+    "probability": 0.9149,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Imagina",
+    "start": 230.36,
+    "end": 230.8,
+    "probability": 0.8095,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "porque",
+    "start": 230.8,
+    "end": 231.16,
+    "probability": 0.3131,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "esse",
+    "start": 231.16,
+    "end": 231.56,
+    "probability": 0.9278,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "rockstar",
+    "start": 231.56,
+    "end": 232.1,
+    "probability": 0.5308,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "não",
+    "start": 232.1,
+    "end": 232.3,
+    "probability": 0.9086,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "mostrou.",
+    "start": 232.3,
+    "end": 232.6,
+    "probability": 0.9537,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Agora",
+    "start": 233.6,
+    "end": 233.98,
+    "probability": 0.9825,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "desce",
+    "start": 233.98,
+    "end": 234.4,
+    "probability": 0.8994,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "desse",
+    "start": 234.4,
+    "end": 234.56,
+    "probability": 0.8485,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ponto",
+    "start": 234.56,
+    "end": 234.82,
+    "probability": 0.9962,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 234.82,
+    "end": 235.0,
+    "probability": 0.9882,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "vista",
+    "start": 235.0,
+    "end": 235.26,
+    "probability": 0.999,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "para",
+    "start": 235.26,
+    "end": 235.48,
+    "probability": 0.984,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 235.48,
+    "end": 235.58,
+    "probability": 0.9797,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "praia.",
+    "start": 235.58,
+    "end": 235.84,
+    "probability": 0.9977,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "Há",
+    "start": 236.44,
+    "end": 236.86,
+    "probability": 0.6683,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "um",
+    "start": 236.86,
+    "end": 236.94,
+    "probability": 0.9801,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "casal",
+    "start": 236.94,
+    "end": 237.18,
+    "probability": 0.9901,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "caminhando,",
+    "start": 237.18,
+    "end": 237.68,
+    "probability": 0.9924,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "alguém",
+    "start": 238.14,
+    "end": 238.32,
+    "probability": 0.9872,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "procurando",
+    "start": 238.32,
+    "end": 238.68,
+    "probability": 0.9977,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "coisas",
+    "start": 238.68,
+    "end": 239.0,
+    "probability": 0.9876,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "na",
+    "start": 239.0,
+    "end": 239.24,
+    "probability": 0.9836,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "areia",
+    "start": 239.24,
+    "end": 239.56,
+    "probability": 0.9605,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "com",
+    "start": 239.56,
+    "end": 239.84,
+    "probability": 0.9006,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "um",
+    "start": 239.84,
+    "end": 240.18,
+    "probability": 0.9098,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "detentor",
+    "start": 240.18,
+    "end": 240.56,
+    "probability": 0.6347,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 240.56,
+    "end": 240.68,
+    "probability": 0.9959,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "metais,",
+    "start": 240.68,
+    "end": 241.04,
+    "probability": 0.9909,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "uma",
+    "start": 241.74,
+    "end": 241.84,
+    "probability": 0.974,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "pessoa",
+    "start": 241.84,
+    "end": 242.06,
+    "probability": 0.9936,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "tomando",
+    "start": 242.06,
+    "end": 242.3,
+    "probability": 0.9948,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sol",
+    "start": 242.3,
+    "end": 242.58,
+    "probability": 0.7824,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "em",
+    "start": 242.58,
+    "end": 242.7,
+    "probability": 0.7873,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "primeiro",
+    "start": 242.7,
+    "end": 242.9,
+    "probability": 0.9944,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "plano",
+    "start": 242.9,
+    "end": 243.2,
+    "probability": 0.9964,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 243.2,
+    "end": 243.78,
+    "probability": 0.8083,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "outras",
+    "start": 243.78,
+    "end": 244.02,
+    "probability": 0.7872,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ocupando",
+    "start": 244.02,
+    "end": 244.52,
+    "probability": 0.9903,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 244.52,
+    "end": 244.6,
+    "probability": 0.9219,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "espaço",
+    "start": 244.6,
+    "end": 244.78,
+    "probability": 0.9947,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ao",
+    "start": 244.78,
+    "end": 244.96,
+    "probability": 0.9868,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "redor.",
+    "start": 244.96,
+    "end": 245.2,
+    "probability": 0.9964,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 245.9,
+    "end": 246.16,
+    "probability": 0.9938,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "mesma",
+    "start": 246.16,
+    "end": 246.32,
+    "probability": 0.9969,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ideia",
+    "start": 246.32,
+    "end": 246.62,
+    "probability": 0.9619,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 246.62,
+    "end": 246.76,
+    "probability": 0.9896,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "paraíso",
+    "start": 246.76,
+    "end": 247.24,
+    "probability": 0.9075,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "passa",
+    "start": 247.24,
+    "end": 247.44,
+    "probability": 0.9691,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 247.44,
+    "end": 247.68,
+    "probability": 0.9886,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "incluir",
+    "start": 247.68,
+    "end": 247.98,
+    "probability": 0.9932,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "hábitos,",
+    "start": 247.98,
+    "end": 248.48,
+    "probability": 0.9955,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "idades",
+    "start": 248.68,
+    "end": 248.98,
+    "probability": 0.9681,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 248.98,
+    "end": 249.26,
+    "probability": 0.9815,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "interesses",
+    "start": 249.26,
+    "end": 249.72,
+    "probability": 0.9738,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "diferentes.",
+    "start": 249.72,
+    "end": 250.1,
+    "probability": 0.9975,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "É",
+    "start": 250.96,
+    "end": 251.32,
+    "probability": 0.9792,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "esse",
+    "start": 251.32,
+    "end": 251.44,
+    "probability": 0.9603,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "contraste",
+    "start": 251.44,
+    "end": 252.04,
+    "probability": 0.9353,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "que",
+    "start": 252.04,
+    "end": 252.2,
+    "probability": 0.9849,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "me",
+    "start": 252.2,
+    "end": 252.3,
+    "probability": 0.8995,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "interessa.",
+    "start": 252.3,
+    "end": 252.7,
+    "probability": 0.9951,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 253.1,
+    "end": 253.2,
+    "probability": 0.988,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "cidade",
+    "start": 253.2,
+    "end": 253.42,
+    "probability": 0.9948,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "pode",
+    "start": 253.42,
+    "end": 253.72,
+    "probability": 0.9938,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ser",
+    "start": 253.72,
+    "end": 253.9,
+    "probability": 0.9955,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 253.9,
+    "end": 254.0,
+    "probability": 0.9173,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sonho",
+    "start": 254.0,
+    "end": 254.28,
+    "probability": 0.9891,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 254.28,
+    "end": 254.38,
+    "probability": 0.9984,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "alguém",
+    "start": 254.38,
+    "end": 254.6,
+    "probability": 0.9978,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 254.6,
+    "end": 255.16,
+    "probability": 0.9399,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "o",
+    "start": 255.16,
+    "end": 255.28,
+    "probability": 0.9822,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dia",
+    "start": 255.28,
+    "end": 255.44,
+    "probability": 0.9941,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "comum",
+    "start": 255.44,
+    "end": 255.72,
+    "probability": 0.9976,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 255.72,
+    "end": 255.92,
+    "probability": 0.9939,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "outra",
+    "start": 255.92,
+    "end": 256.06,
+    "probability": 0.9916,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "pessoa.",
+    "start": 256.06,
+    "end": 256.42,
+    "probability": 0.998,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "O",
+    "start": 257.2,
+    "end": 257.36,
+    "probability": 0.9339,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "glamour",
+    "start": 257.36,
+    "end": 257.72,
+    "probability": 0.937,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ganha",
+    "start": 257.72,
+    "end": 258.02,
+    "probability": 0.9964,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "contexto",
+    "start": 258.02,
+    "end": 258.44,
+    "probability": 0.8403,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "quando",
+    "start": 258.44,
+    "end": 258.7,
+    "probability": 0.986,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "aparecem",
+    "start": 258.7,
+    "end": 259.12,
+    "probability": 0.9642,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "os",
+    "start": 259.12,
+    "end": 259.26,
+    "probability": 0.9961,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "moradores,",
+    "start": 259.26,
+    "end": 259.68,
+    "probability": 0.9972,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "os",
+    "start": 260.4,
+    "end": 260.52,
+    "probability": 0.95,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "visitantes",
+    "start": 260.52,
+    "end": 261.04,
+    "probability": 0.9978,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 261.04,
+    "end": 261.36,
+    "probability": 0.9604,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "as",
+    "start": 261.36,
+    "end": 261.52,
+    "probability": 0.9797,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "pequenas",
+    "start": 261.52,
+    "end": 261.9,
+    "probability": 0.9963,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "distrações.",
+    "start": 261.9,
+    "end": 262.4,
+    "probability": 0.808,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "A",
+    "start": 262.4,
+    "end": 263.42,
+    "probability": 0.209,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "imagem",
+    "start": 263.42,
+    "end": 264.14,
+    "probability": 0.9973,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "deixa",
+    "start": 264.14,
+    "end": 264.4,
+    "probability": 0.9728,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "de",
+    "start": 264.4,
+    "end": 264.56,
+    "probability": 0.8788,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ser",
+    "start": 264.56,
+    "end": 264.72,
+    "probability": 0.994,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "apenas",
+    "start": 264.72,
+    "end": 265.0,
+    "probability": 0.9887,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "uma",
+    "start": 265.0,
+    "end": 265.22,
+    "probability": 0.9925,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "paisagem",
+    "start": 265.22,
+    "end": 265.62,
+    "probability": 0.9943,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "bonita",
+    "start": 265.62,
+    "end": 266.06,
+    "probability": 0.9985,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "e",
+    "start": 266.06,
+    "end": 266.34,
+    "probability": 0.5824,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "começa",
+    "start": 266.34,
+    "end": 266.6,
+    "probability": 0.9734,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "a",
+    "start": 266.6,
+    "end": 266.76,
+    "probability": 0.9768,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "sugerir",
+    "start": 266.76,
+    "end": 267.06,
+    "probability": 0.9694,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "histórias",
+    "start": 267.06,
+    "end": 267.44,
+    "probability": 0.9925,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "que",
+    "start": 267.44,
+    "end": 267.54,
+    "probability": 0.9939,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "acontecem",
+    "start": 267.54,
+    "end": 268.02,
+    "probability": 0.9326,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "ao",
+    "start": 268.02,
+    "end": 268.02,
+    "probability": 0.993,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "redor",
+    "start": 268.02,
+    "end": 268.38,
+    "probability": 0.9952,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "dos",
+    "start": 268.38,
+    "end": 268.52,
+    "probability": 0.9904,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "word": "protagonistas.",
+    "start": 268.52,
+    "end": 269.18,
+    "probability": 0.9911,
+    "block": "L03_B04_P13-P16",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 270.08,
+    "end": 270.34,
+    "word": "O",
+    "probability": 0.7194,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 270.34,
+    "end": 270.8,
+    "word": "clássico",
+    "probability": 0.9854,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 270.8,
+    "end": 270.96,
+    "word": "já",
+    "probability": 0.9713,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 270.96,
+    "end": 271.04,
+    "word": "era",
+    "probability": 0.9485,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 271.04,
+    "end": 271.6,
+    "word": "apresentado",
+    "probability": 0.9876,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 271.6,
+    "end": 271.84,
+    "word": "pelo",
+    "probability": 0.7327,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 271.84,
+    "end": 272.24,
+    "word": "Rockstar",
+    "probability": 0.6282,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 272.24,
+    "end": 272.48,
+    "word": "por",
+    "probability": 0.8966,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 272.48,
+    "end": 272.58,
+    "word": "seus",
+    "probability": 0.9836,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 272.58,
+    "end": 273.22,
+    "word": "contrastes",
+    "probability": 0.9207,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 273.22,
+    "end": 273.4,
+    "word": "entre",
+    "probability": 0.99,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 273.4,
+    "end": 273.9,
+    "word": "brilho,",
+    "probability": 0.9047,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 274.16,
+    "end": 274.54,
+    "word": "ambição",
+    "probability": 0.954,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 274.54,
+    "end": 275.02,
+    "word": "e",
+    "probability": 0.9419,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 275.02,
+    "end": 275.62,
+    "word": "degradação.",
+    "probability": 0.8908,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 276.14,
+    "end": 276.72,
+    "word": "Então",
+    "probability": 0.9762,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 276.72,
+    "end": 276.84,
+    "word": "a",
+    "probability": 0.6999,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 276.84,
+    "end": 277.24,
+    "word": "novidade",
+    "probability": 0.9943,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 277.24,
+    "end": 277.48,
+    "word": "não",
+    "probability": 0.8441,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 277.48,
+    "end": 277.56,
+    "word": "é",
+    "probability": 0.6615,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 277.56,
+    "end": 277.76,
+    "word": "descobrir",
+    "probability": 0.9845,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 277.76,
+    "end": 278.1,
+    "word": "que",
+    "probability": 0.9864,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 278.1,
+    "end": 278.34,
+    "word": "Vice",
+    "probability": 0.6362,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 278.34,
+    "end": 278.62,
+    "word": "City",
+    "probability": 0.3399,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 278.62,
+    "end": 278.78,
+    "word": "tem",
+    "probability": 0.98,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 278.78,
+    "end": 279.3,
+    "word": "contradições.",
+    "probability": 0.9874,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 280.26,
+    "end": 280.64,
+    "word": "O",
+    "probability": 0.963,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 280.64,
+    "end": 280.96,
+    "word": "retorno",
+    "probability": 0.9857,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 280.96,
+    "end": 281.38,
+    "word": "coloca",
+    "probability": 0.9951,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 281.38,
+    "end": 281.54,
+    "word": "essa",
+    "probability": 0.902,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 281.54,
+    "end": 282.16,
+    "word": "identidade",
+    "probability": 0.9883,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 282.16,
+    "end": 282.64,
+    "word": "diante",
+    "probability": 0.9961,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 282.64,
+    "end": 282.86,
+    "word": "de",
+    "probability": 0.9955,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 282.86,
+    "end": 283.16,
+    "word": "outra",
+    "probability": 0.9825,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 283.16,
+    "end": 283.44,
+    "word": "cultura",
+    "probability": 0.9899,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 283.44,
+    "end": 283.84,
+    "word": "visual.",
+    "probability": 0.9958,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 284.6,
+    "end": 284.8,
+    "word": "A",
+    "probability": 0.9754,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 284.8,
+    "end": 285.2,
+    "word": "baranda,",
+    "probability": 0.977,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 285.54,
+    "end": 285.6,
+    "word": "a",
+    "probability": 0.9669,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 285.6,
+    "end": 285.8,
+    "word": "rua",
+    "probability": 0.9983,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 285.8,
+    "end": 286.36,
+    "word": "e",
+    "probability": 0.9252,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 286.36,
+    "end": 286.44,
+    "word": "a",
+    "probability": 0.9906,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 286.44,
+    "end": 286.62,
+    "word": "tela",
+    "probability": 0.9942,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 286.62,
+    "end": 286.78,
+    "word": "do",
+    "probability": 0.9952,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 286.78,
+    "end": 287.22,
+    "word": "telefone",
+    "probability": 0.9964,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 287.22,
+    "end": 287.76,
+    "word": "disputam",
+    "probability": 0.9863,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 287.76,
+    "end": 287.98,
+    "word": "qual",
+    "probability": 0.96,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 287.98,
+    "end": 288.08,
+    "word": "a",
+    "probability": 0.6173,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 288.08,
+    "end": 288.28,
+    "word": "versão",
+    "probability": 0.9934,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 288.28,
+    "end": 288.4,
+    "word": "da",
+    "probability": 0.9825,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 288.4,
+    "end": 288.78,
+    "word": "cidade",
+    "probability": 0.9977,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 288.78,
+    "end": 288.98,
+    "word": "vamos",
+    "probability": 0.9622,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 288.98,
+    "end": 289.38,
+    "word": "engordar.",
+    "probability": 0.8538,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 290.2,
+    "end": 290.58,
+    "word": "Por",
+    "probability": 0.9828,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 290.58,
+    "end": 290.82,
+    "word": "isso,",
+    "probability": 0.9983,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 291.16,
+    "end": 291.32,
+    "word": "minha",
+    "probability": 0.9312,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 291.32,
+    "end": 291.68,
+    "word": "resposta",
+    "probability": 0.9972,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 291.68,
+    "end": 292.0,
+    "word": "para",
+    "probability": 0.9549,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 292.0,
+    "end": 292.3,
+    "word": "é",
+    "probability": 0.5212,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 292.3,
+    "end": 292.38,
+    "word": "a",
+    "probability": 0.9824,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 292.38,
+    "end": 292.56,
+    "word": "mesma",
+    "probability": 0.9828,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 292.56,
+    "end": 292.8,
+    "word": "Vice",
+    "probability": 0.9509,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 292.8,
+    "end": 293.28,
+    "word": "City",
+    "probability": 0.9601,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 293.28,
+    "end": 293.78,
+    "word": "tem",
+    "probability": 0.6646,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 293.78,
+    "end": 294.02,
+    "word": "três",
+    "probability": 0.6633,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 294.02,
+    "end": 294.36,
+    "word": "partes.",
+    "probability": 0.981,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 295.0,
+    "end": 295.2,
+    "word": "A",
+    "probability": 0.9799,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 295.2,
+    "end": 295.64,
+    "word": "identidade",
+    "probability": 0.868,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 295.64,
+    "end": 296.0,
+    "word": "tropical",
+    "probability": 0.9711,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 296.0,
+    "end": 296.46,
+    "word": "continua",
+    "probability": 0.9872,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 296.46,
+    "end": 297.2,
+    "word": "reconhecível.",
+    "probability": 0.9914,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 297.66,
+    "end": 298.24,
+    "word": "A",
+    "probability": 0.9918,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 298.24,
+    "end": 298.44,
+    "word": "cultura",
+    "probability": 0.9893,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 298.44,
+    "end": 299.02,
+    "word": "exibida",
+    "probability": 0.6344,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 299.02,
+    "end": 299.14,
+    "word": "nos",
+    "probability": 0.9569,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 299.14,
+    "end": 299.72,
+    "word": "materiais",
+    "probability": 0.9945,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 299.72,
+    "end": 300.08,
+    "word": "mudou",
+    "probability": 0.5079,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 300.08,
+    "end": 300.22,
+    "word": "de",
+    "probability": 0.9755,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 300.22,
+    "end": 300.46,
+    "word": "época",
+    "probability": 0.9911,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 300.46,
+    "end": 301.26,
+    "word": "e",
+    "probability": 0.7249,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 301.26,
+    "end": 301.34,
+    "word": "a",
+    "probability": 0.9941,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 301.34,
+    "end": 301.72,
+    "word": "memória",
+    "probability": 0.9916,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 301.72,
+    "end": 301.84,
+    "word": "do",
+    "probability": 0.9901,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 301.84,
+    "end": 302.02,
+    "word": "jogo",
+    "probability": 0.9981,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 302.02,
+    "end": 302.38,
+    "word": "antigo",
+    "probability": 0.9869,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 302.38,
+    "end": 302.78,
+    "word": "funciona",
+    "probability": 0.7092,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 302.78,
+    "end": 303.12,
+    "word": "como",
+    "probability": 0.449,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 303.12,
+    "end": 303.34,
+    "word": "uma",
+    "probability": 0.9888,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 303.34,
+    "end": 303.66,
+    "word": "porta",
+    "probability": 0.9928,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 303.66,
+    "end": 303.8,
+    "word": "de",
+    "probability": 0.9902,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 303.8,
+    "end": 304.14,
+    "word": "entrada,",
+    "probability": 0.9973,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 304.32,
+    "end": 304.78,
+    "word": "sem",
+    "probability": 0.9954,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 304.78,
+    "end": 304.92,
+    "word": "dar",
+    "probability": 0.9975,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 304.92,
+    "end": 305.18,
+    "word": "conta",
+    "probability": 0.9994,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 305.18,
+    "end": 305.36,
+    "word": "de",
+    "probability": 0.9954,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 305.36,
+    "end": 305.6,
+    "word": "tudo",
+    "probability": 0.8299,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 305.6,
+    "end": 305.82,
+    "word": "o",
+    "probability": 0.8595,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 305.82,
+    "end": 305.88,
+    "word": "que",
+    "probability": 0.9982,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 305.88,
+    "end": 306.04,
+    "word": "essas",
+    "probability": 0.973,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 306.04,
+    "end": 306.36,
+    "word": "novas",
+    "probability": 0.9725,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 306.36,
+    "end": 306.72,
+    "word": "imagens",
+    "probability": 0.9925,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 306.72,
+    "end": 307.3,
+    "word": "apresentam.",
+    "probability": 0.9962,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 307.88,
+    "end": 308.32,
+    "word": "Eu",
+    "probability": 0.8824,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 308.32,
+    "end": 308.54,
+    "word": "quero",
+    "probability": 0.9877,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 308.54,
+    "end": 309.06,
+    "word": "reconhecer",
+    "probability": 0.9963,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 309.06,
+    "end": 309.32,
+    "word": "Vice",
+    "probability": 0.8964,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 309.32,
+    "end": 309.62,
+    "word": "City",
+    "probability": 0.7956,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 309.62,
+    "end": 310.02,
+    "word": "e,",
+    "probability": 0.8308,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 310.32,
+    "end": 310.42,
+    "word": "logo",
+    "probability": 0.9938,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 310.42,
+    "end": 310.78,
+    "word": "depois,",
+    "probability": 0.9991,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 311.12,
+    "end": 311.38,
+    "word": "encontrar",
+    "probability": 0.9934,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 311.38,
+    "end": 311.84,
+    "word": "algo",
+    "probability": 0.9986,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 311.84,
+    "end": 312.04,
+    "word": "que",
+    "probability": 0.9849,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 312.04,
+    "end": 312.16,
+    "word": "me",
+    "probability": 0.9855,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 312.16,
+    "end": 312.42,
+    "word": "faça",
+    "probability": 0.7952,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 312.42,
+    "end": 312.62,
+    "word": "olhar",
+    "probability": 0.89,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 312.62,
+    "end": 312.82,
+    "word": "de",
+    "probability": 0.9891,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 312.82,
+    "end": 313.04,
+    "word": "novo.",
+    "probability": 0.9997,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 313.86,
+    "end": 314.14,
+    "word": "A",
+    "probability": 0.9913,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 314.14,
+    "end": 314.48,
+    "word": "platéia",
+    "probability": 0.7436,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 314.48,
+    "end": 314.84,
+    "word": "filmando",
+    "probability": 0.9929,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 314.84,
+    "end": 315.1,
+    "word": "Real",
+    "probability": 0.6388,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 315.1,
+    "end": 315.46,
+    "word": "Dimes",
+    "probability": 0.9045,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 315.46,
+    "end": 315.96,
+    "word": "faz",
+    "probability": 0.9297,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 315.96,
+    "end": 316.38,
+    "word": "exatamente",
+    "probability": 0.9924,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 316.38,
+    "end": 316.76,
+    "word": "isso.",
+    "probability": 0.9856,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 317.56,
+    "end": 317.72,
+    "word": "O",
+    "probability": 0.997,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 317.72,
+    "end": 318.1,
+    "word": "excesso",
+    "probability": 0.9116,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 318.1,
+    "end": 318.44,
+    "word": "familiar,",
+    "probability": 0.5653,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 319.18,
+    "end": 319.34,
+    "word": "a",
+    "probability": 0.983,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 319.34,
+    "end": 319.64,
+    "word": "maneira",
+    "probability": 0.9977,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 319.64,
+    "end": 319.84,
+    "word": "de",
+    "probability": 0.9963,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 319.84,
+    "end": 320.18,
+    "word": "exibir",
+    "probability": 0.8573,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 320.18,
+    "end": 320.26,
+    "word": "o",
+    "probability": 0.0405,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 320.26,
+    "end": 320.64,
+    "word": "pertence",
+    "probability": 0.9286,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 320.64,
+    "end": 320.8,
+    "word": "a",
+    "probability": 0.8885,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 320.8,
+    "end": 321.0,
+    "word": "outro",
+    "probability": 0.9964,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 321.0,
+    "end": 321.36,
+    "word": "momento.",
+    "probability": 0.9985,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 322.22,
+    "end": 322.54,
+    "word": "Qual",
+    "probability": 0.9651,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 322.54,
+    "end": 322.9,
+    "word": "lembrança",
+    "probability": 0.9683,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 322.9,
+    "end": 323.18,
+    "word": "sua",
+    "probability": 0.8881,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 323.18,
+    "end": 323.72,
+    "word": "precisaria",
+    "probability": 0.9894,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 323.72,
+    "end": 324.32,
+    "word": "sobreviver",
+    "probability": 0.9926,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 324.32,
+    "end": 324.54,
+    "word": "nesse",
+    "probability": 0.8828,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 324.54,
+    "end": 324.96,
+    "word": "retorno?",
+    "probability": 0.9959,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 324.96,
+    "end": 325.96,
+    "word": "O",
+    "probability": 0.1696,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 325.96,
+    "end": 326.36,
+    "word": "rádio,",
+    "probability": 0.978,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 326.94,
+    "end": 327.08,
+    "word": "a",
+    "probability": 0.9335,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 327.08,
+    "end": 327.38,
+    "word": "atmosfera",
+    "probability": 0.9906,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 327.38,
+    "end": 327.62,
+    "word": "das",
+    "probability": 0.9879,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 327.62,
+    "end": 328.04,
+    "word": "ruas",
+    "probability": 0.9298,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 328.04,
+    "end": 328.74,
+    "word": "ou",
+    "probability": 0.6897,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 328.74,
+    "end": 328.82,
+    "word": "a",
+    "probability": 0.9936,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 328.82,
+    "end": 329.28,
+    "word": "sensação",
+    "probability": 0.9913,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 329.28,
+    "end": 329.44,
+    "word": "de",
+    "probability": 0.9973,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 329.44,
+    "end": 329.94,
+    "word": "conquistar",
+    "probability": 0.9975,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 329.94,
+    "end": 330.0,
+    "word": "a",
+    "probability": 0.9896,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  },
+  {
+    "start": 330.0,
+    "end": 330.2,
+    "word": "cidade?",
+    "probability": 0.9956,
+    "block": "L03_B05_P17-P19",
+    "timing_source": "faster-whisper-small"
+  }
+]

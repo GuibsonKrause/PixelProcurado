@@ -1,0 +1,163 @@
+{
+  "corrections": [
+    {
+      "op": "replace",
+      "start": 3.8,
+      "end": 4.08,
+      "script": "cinco",
+      "asr": "V",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 5.24,
+      "end": 5.8,
+      "script": "",
+      "asr": "self",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 7.08,
+      "end": 7.34,
+      "script": "faixas",
+      "asr": "faxes",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 11.88,
+      "end": 12.18,
+      "script": "parecer",
+      "asr": "aparecer",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "delete",
+      "start": 22.06,
+      "end": 22.06,
+      "script": "a",
+      "asr": "",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 37.08,
+      "end": 37.66,
+      "script": "A paz",
+      "asr": "Rapaz",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 57.52,
+      "end": 57.9,
+      "script": "cinco",
+      "asr": "V",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 62.86,
+      "end": 63.32,
+      "script": "seis",
+      "asr": "VI",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 80.52,
+      "end": 81.22,
+      "script": "Afinal...",
+      "asr": "Na final.",
+      "decision": "short orthographic/contextual correction"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "No GTA cinco",
+      "script_index": 6,
+      "time": 3.2333333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Sua seleção começa",
+      "script_index": 24,
+      "time": 10.833333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Isso muda",
+      "script_index": 33,
+      "time": 14.933333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Quando entra um locutor",
+      "script_index": 48,
+      "time": 20.433333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "É engraçado",
+      "script_index": 66,
+      "time": 27.2,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Dentro de GTA",
+      "script_index": 78,
+      "time": 31.566666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A paz durou",
+      "script_index": 91,
+      "time": 37.06666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "E um anúncio fictício",
+      "script_index": 101,
+      "time": 41.63333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A rua fica",
+      "script_index": 119,
+      "time": 48.96666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Estou falando",
+      "script_index": 134,
+      "time": 54.93333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Isso não confirma",
+      "script_index": 147,
+      "time": 60.63333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O detalhe interessante",
+      "script_index": 164,
+      "time": 66.96666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Não é só",
+      "script_index": 183,
+      "time": 75.3,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Afinal",
+      "script_index": 199,
+      "time": 80.53333333333333,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

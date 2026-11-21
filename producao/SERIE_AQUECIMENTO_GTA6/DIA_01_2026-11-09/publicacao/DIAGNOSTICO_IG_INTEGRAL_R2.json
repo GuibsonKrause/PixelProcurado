@@ -1,0 +1,37 @@
+{
+  "bytes": 647173974,
+  "tests": [
+    {
+      "kind": "HEAD",
+      "http_error": 403
+    },
+    {
+      "kind": "range",
+      "offset": 0,
+      "http_error": 403
+    },
+    {
+      "kind": "range",
+      "offset": 646125398,
+      "http_error": 403
+    }
+  ],
+  "node": {
+    "head_status": 200,
+    "content_length": 647173974,
+    "content_type": "video/mp4",
+    "first_and_last_mib_status": 206,
+    "bytes_equal": true
+  },
+  "provider_guidance": {
+    "file_size_mb": 300,
+    "max_width": 1920,
+    "max_video_mbps": 25
+  },
+  "derivation": {
+    "preserves_resolution": "1080x1920",
+    "fps": 30,
+    "video_target_kbps": 6100,
+    "audio": "AAC bitstream copy"
+  }
+}

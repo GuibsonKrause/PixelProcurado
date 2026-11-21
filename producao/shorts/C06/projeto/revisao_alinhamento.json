@@ -1,0 +1,229 @@
+{
+  "corrections": [
+    {
+      "op": "replace",
+      "start": 0.0,
+      "end": 0.3,
+      "script": "Estão",
+      "asr": "Então,",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 2.3,
+      "end": 2.5,
+      "script": "Uma",
+      "asr": "O",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 3.46,
+      "end": 3.8,
+      "script": "seis",
+      "asr": "6",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 8.42,
+      "end": 8.66,
+      "script": "pra",
+      "asr": "para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 11.52,
+      "end": 11.66,
+      "script": "",
+      "asr": "eu",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 15.78,
+      "end": 15.94,
+      "script": "arte",
+      "asr": "Archer",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 16.38,
+      "end": 17.0,
+      "script": "e Lucia",
+      "asr": "em Rússia,",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 22.96,
+      "end": 23.16,
+      "script": "pra",
+      "asr": "para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 25.96,
+      "end": 26.34,
+      "script": "separa",
+      "asr": "separe",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 33.98,
+      "end": 34.46,
+      "script": "escolhas",
+      "asr": "as cores",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 41.08,
+      "end": 41.26,
+      "script": "pra",
+      "asr": "para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 45.58,
+      "end": 46.06,
+      "script": "ventilação.",
+      "asr": "vinculação.",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 59.38,
+      "end": 59.58,
+      "script": "Pra",
+      "asr": "Para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 61.32,
+      "end": 61.56,
+      "script": "mostre",
+      "asr": "mostra",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 64.76,
+      "end": 65.08,
+      "script": "poro",
+      "asr": "por",
+      "decision": "short orthographic/contextual correction"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "Uma imagem oficial",
+      "script_index": 5,
+      "time": 2.3,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Parece óbvio",
+      "script_index": 15,
+      "time": 5.4,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Daqui a pouco",
+      "script_index": 30,
+      "time": 10.833333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Olha a arte",
+      "script_index": 43,
+      "time": 15.3,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Ela tem traço",
+      "script_index": 58,
+      "time": 20.133333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A própria biblioteca",
+      "script_index": 70,
+      "time": 24.866666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Uma captura permite",
+      "script_index": 80,
+      "time": 28.3,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A ilustração mostra",
+      "script_index": 91,
+      "time": 32.833333333333336,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "As duas são oficiais",
+      "script_index": 97,
+      "time": 35.766666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Usar o desenho",
+      "script_index": 107,
+      "time": 40.266666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Tem uma seta",
+      "script_index": 126,
+      "time": 46.766666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "E uma captura",
+      "script_index": 138,
+      "time": 51.6,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Sozinha, ela",
+      "script_index": 147,
+      "time": 54.333333333333336,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Pra essas perguntas",
+      "script_index": 161,
+      "time": 59.36666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Antes de discutir",
+      "script_index": 171,
+      "time": 63.46666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Esse passo",
+      "script_index": 190,
+      "time": 69.8,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Afinal",
+      "script_index": 200,
+      "time": 73.23333333333333,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

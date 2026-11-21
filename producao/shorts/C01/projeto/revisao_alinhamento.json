@@ -1,0 +1,103 @@
+{
+  "corrections": [
+    {
+      "op": "replace",
+      "start": 2.58,
+      "end": 2.98,
+      "script": "seis.",
+      "asr": "6.",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 36.66,
+      "end": 36.88,
+      "script": "trailer",
+      "asr": "trele",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 76.48,
+      "end": 77.1,
+      "script": "pertencem",
+      "asr": "pertence",
+      "decision": "short orthographic/contextual correction"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "Basta ela aparecer",
+      "script_index": 9,
+      "time": 3.6666666666666665,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Você vê um dia",
+      "script_index": 17,
+      "time": 6.7,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Aqui está a primeira armadilha",
+      "script_index": 48,
+      "time": 16.233333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Se a página cita",
+      "script_index": 64,
+      "time": 22.833333333333332,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Recortar só a data",
+      "script_index": 76,
+      "time": 27.4,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Mas encontrar o logo",
+      "script_index": 88,
+      "time": 32.96666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Um trailer capturado",
+      "script_index": 98,
+      "time": 36.46666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Isso sozinho",
+      "script_index": 110,
+      "time": 41.36666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Agora vem o teste",
+      "script_index": 129,
+      "time": 50.63333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Para uma versão de PC",
+      "script_index": 156,
+      "time": 60.43333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O erro pode estar",
+      "script_index": 175,
+      "time": 68.46666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "É assim que",
+      "script_index": 200,
+      "time": 78.66666666666667,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

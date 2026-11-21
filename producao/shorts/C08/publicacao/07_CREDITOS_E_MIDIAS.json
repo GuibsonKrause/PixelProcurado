@@ -1,0 +1,196 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.867,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0.05,
+      0.65,
+      0.38,
+      0.35
+    ],
+    "highlight": null
+  },
+  {
+    "start": 2.867,
+    "end": 6.433,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": [
+      0.07,
+      0.71,
+      0.31,
+      0.18
+    ]
+  },
+  {
+    "start": 6.433,
+    "end": 12.6,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0.05,
+      0.65,
+      0.38,
+      0.35
+    ],
+    "highlight": null
+  },
+  {
+    "start": 12.6,
+    "end": 17.4,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 21.733,
+    "end": 25.433,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 25.433,
+    "end": 27.033,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 27.033,
+    "end": 33.167,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": [
+      0.07,
+      0.71,
+      0.31,
+      0.18
+    ]
+  },
+  {
+    "start": 40.067,
+    "end": 45.767,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 50.8,
+    "end": 53.067,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": [
+      0.07,
+      0.71,
+      0.31,
+      0.18
+    ]
+  },
+  {
+    "start": 54.833,
+    "end": 59.133,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0.05,
+      0.65,
+      0.38,
+      0.35
+    ],
+    "highlight": null
+  },
+  {
+    "start": 59.133,
+    "end": 65.333,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 65.333,
+    "end": 67.333,
+    "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+    "source": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+    "source_start": 83.0,
+    "motion_seconds": 2.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 67.333,
+    "end": 71.233,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": [
+      0.07,
+      0.71,
+      0.31,
+      0.18
+    ]
+  },
+  {
+    "start": 71.233,
+    "end": 72.133,
+    "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0.05,
+      0.65,
+      0.38,
+      0.35
+    ],
+    "highlight": null
+  }
+]

@@ -1,0 +1,86 @@
+# Parágrafo|Âncora textual|Fonte (sigla, ou vídeo@segundo@velocidade)|Título sobreposto
+1|Esse paraíso também|K1|
+1|pântano fechado|G3|
+1|Nas imagens das Keys|K1|
+1|Em Grassrivers começa|G3|
+1|A água continua ali|G2|
+2|Pra entender essa variedade|V10|SEIS LUGARES~SEIS CLIMAS
+2|O foco é o que|E@1129.1@1|
+2|Cada uma parece convidar|M4|
+2|Algumas também dão vontade|E@752@1|
+3|Começando pelas Leonida Keys|K1|
+3|O céu e a água|L@14.5@0.65|
+3|Em outras imagens|K5|
+4|O mar faz parte|D@82.4@0.7|
+4|Não parece só uma faixa|E@754.2@1|
+4|As pontes as embarcações|K1|
+5|E aí aparece o detalhe|K2|
+5|Você chega pensando em turismo|K2|
+5|Falta só ela pedir|K2|
+6|É uma brincadeira com a imagem|K2|
+6|além de uma paisagem|K1|
+7|Agora sai das Keys|T@19.9@0.65|
+7|O barco com hélice|G3|
+7|Em outro quadro|G2|
+7|O espaço parece mais fechado|G5|
+8|Nas Keys eu olho longe|K1|
+8|Aqui fico examinando|G3|
+8|É a diferença entre escolher|K5|
+8|e conferir se aquele barulho|L@27.0@0.65|
+8|Estou descrevendo a sensação|-|SENSAÇÃO DE ALERTA~Leitura das imagens
+9|Esse contraste já dá|G2|
+9|A água conecta as paisagens|K1|
+9|e a vegetação mudam|G3|
+9|E a iluminação também|E@1120.0@0.75|
+10|Vice City aparece à noite|V6|
+10|Mesmo com a polícia|V6|
+10|Parece que até uma abordagem|T@32.2@0.65|
+11|Em outras imagens torres|V10|
+11|É uma apresentação de riqueza|E@1133@0.75|
+11|Mas quando a câmera desce|V3|
+11|carros sob um viaduto|V9|
+11|Existe cotidiano embaixo|E@510.5@0.8|
+12|Gosto desse detalhe|V3|
+12|Você deixa de olhar só|V10|
+12|e começa a imaginar|E@515.5@1|
+13|Port Gellhorn usa|P1|
+13|mas em volta vemos|P1|
+13|No panorama a cidade|P6|
+14|O letreiro ainda tenta|P1|
+14|O resto da paisagem|P6|
+14|É a impressão que|P1|
+15|Comparando com Vice City|V6|
+15|Um lugar sugere exibição|E@1053@0.75|
+15|O outro parece carregar|P1|
+15|A paisagem prepara|P6|
+16|Ambrosia muda a prioridade|A4|
+16|Entram instalações industriais|A2|
+16|e linhas de energia|A4|
+16|A iluminação noturna|A2|
+16|O desenho do lugar|A2|
+17|Nas imagens com pessoas|A1|
+17|e uma festa na lama|A6|
+17|Você saiu do passeio|D@140.0@0.8|
+17|e chegou num fim|T@54.5@0.55|
+18|Indústria estrada e gente|A4|
+18|minha leitura vem|A1|
+18|sem concluir como|A6|
+19|E então Mount Kalaga|M4|
+19|A estrada passa entre paredões|M4|
+19|Outras imagens mostram mata|M5|
+19|Depois de tanto prédio|M2|
+20|Tem também um caiaque|M6|
+20|Essa foto me dá vontade|M6|
+20|Por si só ela não explica|M6|
+20|O que entrega aqui|M6|
+21|As seis regiões não precisam|K4|
+21|Nas Keys o horizonte|K1|
+21|Em Grassrivers a mata|G3|
+21|Vice City quer|V6|
+21|Port Gellhorn parece|P1|
+21|Ambrosia pesa|A2|
+21|Kalaga deixa|M4|
+22|Se a primeira parada|-|QUAL SERIA A SUA~PRIMEIRA PARADA?
+22|Eu ficaria curioso|G2|
+22|Mas se for pras Keys|K2|
+22|Ela claramente chegou|K2|

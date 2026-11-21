@@ -1,0 +1,29 @@
+{
+  "spec": {
+    "start": 131.695,
+    "end": 197.89,
+    "filters": [
+      "scale=1080:608:flags=lanczos",
+      "crop=1080:522:0:0",
+      "pad=1080:1920:0:580:color=0x111318",
+      "setsar=1",
+      "ass=L06_vertical_legendas.ass",
+      "drawtext=fontfile='C\\:/Windows/Fonts/arialbd.ttf':textfile='L06_vertical_titulo.txt':fontcolor=0xFFD33D:fontsize=75:x=(w-tw)/2:y=278:line_spacing=20",
+      "drawtext=fontfile='C\\:/Windows/Fonts/arialbd.ttf':textfile='L06_vertical_rodape.txt':fontcolor=0xC0C3C6:fontsize=37:x=(w-tw)/2:y=1470:line_spacing=12"
+    ],
+    "master_sha256": "5dd1b491627948635b5f6b2702b4bdd20a14ef9b37340400209c9f58b6fe497b",
+    "srt_sha256": "6b520b9082bcba177220c2f0df6596a6c5792a38f261fe4ff3b4dee2f6abc183",
+    "alignment_sha256": "51e5d55e07773a6ad4232d7ba09b7b8e355a4e0646982fb2974caf2fedff0457",
+    "timeline_sha256": "8c80bd0c5ff24e983a374c7af96f9d47cf7c4391dce9af849c7a44f2da803413",
+    "captions_sha256": "214dd1c68c12a2ed82770972a0327cd89bd8bd1ef02f4f7e6a3f5ba0b4a97bbd",
+    "title_sha256": "c1608d2574bc16877218635049c81a5dc09adf614c81018cb5183fc9320982c8",
+    "footer_sha256": "d56684db8c83e5384535d4d04d0e5b5555b4fcecfb98a8bc2722bc562959d3b2"
+  },
+  "sha256": "036cd23e5d26c7f08750e5f21cacd5cd621ef2feaaaf60ca6cbbc86379a58280",
+  "full_decode_pass": true,
+  "duration": 66.2,
+  "width": 1080,
+  "height": 1920,
+  "h264": true,
+  "aac": true
+}

@@ -1,0 +1,39 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-16T02:36:12.575380+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmwa9e6ie0001pna8wkbk1x2e"
+      },
+      "value": [
+        {
+          "content": "GTA 6 às 8h da manhã de quarta? 🕗 No Xbox são 3 cliques. No PS5 custa outro jogo. E ninguém confirmou que funciona. Qual é a sua plataforma?\n\n#GTA6 #GTAVI #TruqueDaNovaZelandia #Xbox #PS5 #GTA6Brasil #Rockstar #Games",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/5eb32f2a3b9c4e7f9a505c34f0f5b4bf.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "tiktok",
+        "title": "GTA 6 às 8h da Manhã? Xbox x PS5",
+        "privacy_level": "SELF_ONLY",
+        "content_posting_method": "UPLOAD",
+        "autoAddMusic": "no",
+        "duet": false,
+        "stitch": false,
+        "comment": true,
+        "brand_content_toggle": false,
+        "brand_organic_toggle": false,
+        "video_made_with_ai": true
+      }
+    }
+  ]
+}

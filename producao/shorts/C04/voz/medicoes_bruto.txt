@@ -1,0 +1,41 @@
+[aist#0:0/pcm_s16le @ 00000218e225fd00] Guessed Channel Layout: mono
+Input #0, wav, from 'C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\shorts\C04\voz\bruto\C04_narracao.wav':
+  Duration: 00:01:17.88, bitrate: 384 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 24000 Hz, mono, s16, 384 kb/s
+[Parsed_volumedetect_1 @ 00000218e2274d00] n_samples: 0
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> pcm_s16le (native))
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Audio: pcm_s16le, 24000 Hz, mono, s16, 384 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 pcm_s16le
+[silencedetect @ 00000218e2258e00] silence_start: 9.862333
+[silencedetect @ 00000218e2258e00] silence_end: 11.101875 | silence_duration: 1.239542
+[silencedetect @ 00000218e2258e00] silence_start: 22.164667
+[silencedetect @ 00000218e2258e00] silence_end: 23.173667 | silence_duration: 1.009
+[silencedetect @ 00000218e2258e00] silence_start: 36.653125
+[silencedetect @ 00000218e2258e00] silence_end: 37.918167 | silence_duration: 1.265042
+[silencedetect @ 00000218e2258e00] silence_start: 46.05225
+[silencedetect @ 00000218e2258e00] silence_end: 47.217958 | silence_duration: 1.165708
+[silencedetect @ 00000218e2258e00] silence_start: 51.05225
+[silencedetect @ 00000218e2258e00] silence_end: 52.098667 | silence_duration: 1.046417
+[silencedetect @ 00000218e2258e00] silence_start: 55.335417
+[silencedetect @ 00000218e2258e00] silence_end: 58.057458 | silence_duration: 2.722042
+[silencedetect @ 00000218e2258e00] silence_start: 60.248875
+[silencedetect @ 00000218e2258e00] silence_end: 61.097042 | silence_duration: 0.848167
+[silencedetect @ 00000218e2258e00] silence_start: 66.958792
+[silencedetect @ 00000218e2258e00] silence_end: 68.20525 | silence_duration: 1.246458
+[silencedetect @ 00000218e2258e00] silence_start: 72.4125
+[silencedetect @ 00000218e2258e00] silence_end: 73.520083 | silence_duration: 1.107583
+[Parsed_volumedetect_1 @ 00000218e2253bc0] n_samples: 1869120
+[Parsed_volumedetect_1 @ 00000218e2253bc0] mean_volume: -21.6 dB
+[Parsed_volumedetect_1 @ 00000218e2253bc0] max_volume: -1.4 dB
+[Parsed_volumedetect_1 @ 00000218e2253bc0] histogram_1db: 58
+[Parsed_volumedetect_1 @ 00000218e2253bc0] histogram_2db: 156
+[Parsed_volumedetect_1 @ 00000218e2253bc0] histogram_3db: 455
+[Parsed_volumedetect_1 @ 00000218e2253bc0] histogram_4db: 1180
+[Parsed_volumedetect_1 @ 00000218e2253bc0] histogram_5db: 2682
+[out#0/null @ 00000218e225fec0] video:0KiB audio:3651KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:01:17.88 bitrate=N/A speed= 471x    

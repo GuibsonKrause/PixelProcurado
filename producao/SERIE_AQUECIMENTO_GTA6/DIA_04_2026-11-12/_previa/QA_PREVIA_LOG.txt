@@ -1,0 +1,11 @@
+Validando longo: Pixel_Procurado_DIA04_Previa_V2.mp4...
+Traceback (most recent call last):
+  File "C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\automacao\pipeline\validar_v2.py", line 96, in <module>
+    main()
+  File "C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\automacao\pipeline\validar_v2.py", line 91, in main
+    validar(ep, nome, ep["formatos"][nome], amostra, build, out_dir)
+  File "C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\automacao\pipeline\validar_v2.py", line 54, in validar
+    assert abs(nb - frames) <= 1, f"Quadros: {nb}, esperado {frames}"
+           ^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Quadros: 5210, esperado 9465
+QA_EXIT=1

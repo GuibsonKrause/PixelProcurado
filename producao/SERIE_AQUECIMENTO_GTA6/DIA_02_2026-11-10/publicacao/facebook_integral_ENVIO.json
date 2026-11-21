@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-11T18:54:33.315818+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "O pré-load do GTA 6 pede até 212 GB. Isso é preguiça de otimização ou tem motivo? Neste episódio do Pixel Procurado, analisamos as imagens do gameplay oficial (An Extended Look) para entender por que o download é tão grande: interiores sem tela preta, seis regiões diferentes em Leonida e áudio sem compressão. E fechamos com os dois erros de pré-load que podem te custar a noite de estreia.\n\nAnálise das imagens do gameplay oficial: o peso do download é um fato oficial (até 212 GB, conforme o aparelho); a relação entre esse tamanho e cada detalhe visto no vídeo é interpretação editorial, sem teste jogável próprio.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/0c9c67bef4a74440b8cd1915cb373b8c.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "212 GB: O Que a Rockstar Escondeu Nesse Download do GTA 6?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1149 @@
+{
+  "id": "DIA_06_2026-11-14",
+  "titulo": "GTA 6: O Que Tem no Porta-Malas do Minuto 18",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "T2": "GTAVI_Trailer_2.mp4",
+    "LT": "GTAVI_Launch_Trailer.mp4",
+    "TRUNK": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_porta_malas_interior.jpg",
+    "F1812": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1812.jpg",
+    "BUFFALO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_buffalo_tampa.jpg",
+    "CARTAZ": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_cartaz_celular.jpg",
+    "F1824": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1824.jpg",
+    "F2024": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_2024.jpg",
+    "ICO1556": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_icones_15_56.jpg",
+    "ICO1557": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_icones_15_57.jpg",
+    "BURRITO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_burrito_1612.jpg",
+    "PLACA0828": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_placa_0828.jpg",
+    "PLACA1841": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_placa_1841.jpg",
+    "SLIMJIM": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CROP_0606_SLIM_JIM_triangulo.jpg",
+    "PERNAS": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_pernas_topete.jpg",
+    "LIVE51": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_live_51k.jpg",
+    "CHAT": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_chat_king_of_trunk.jpg",
+    "EST1826": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_estrelas_18_26.jpg",
+    "EST1827": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_estrelas_18_27.jpg",
+    "EST1530": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_estrelas_15_30.jpg",
+    "F1558": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1558.jpg",
+    "F1750": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1750.jpg",
+    "RARMAS": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_175050_roda_armas.jpg",
+    "RITENS": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_175130_roda_itens_FACE_WRAP.jpg",
+    "F1753": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1753.jpg",
+    "F1843": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1843.jpg",
+    "DUPLO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_duplo_hud_progress_lap.jpg",
+    "PAY": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CARTELA_PAY_N_SPRAY.jpg",
+    "RIDEOUT1": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_RIDEOUT_CUSTOMS_01.jpg",
+    "RIDEOUT2": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_RIDEOUT_CUSTOMS_02.jpg",
+    "RIDEOUT3": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_RIDEOUT_CUSTOMS_03.jpg",
+    "GANADO": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01.jpg",
+    "WYMAN": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.jpg",
+    "SAFEHOUSE": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_01.jpg"
+  },
+  "rotulos_obrigatorios": {
+    "GTAV": "GTA V",
+    "T1": "TRAILER 1",
+    "T2": "TRAILER 2",
+    "LT": "LAUNCH TRAILER",
+    "RIDEOUT1": "ULTIMATE EDITION",
+    "RIDEOUT2": "ULTIMATE EDITION",
+    "RIDEOUT3": "ULTIMATE EDITION",
+    "GANADO": "ULTIMATE EDITION",
+    "WYMAN": "ULTIMATE EDITION",
+    "SAFEHOUSE": "ULTIMATE EDITION"
+  },
+  "correcoes_legenda": {
+    "buffalo": "Buffalo",
+    "sentinel": "Sentinel",
+    "burrito": "Burrito",
+    "declasse": "Declasse",
+    "ganado": "Ganado",
+    "rideout": "Rideout",
+    "albany": "Albany",
+    "wyman": "Wyman",
+    "zekes": "Zekes",
+    "pay": "Pay",
+    "spray": "Spray",
+    "leonida": "Leonida",
+    "seis": "6",
+    "gta": "GTA",
+    "ultimate": "Ultimate",
+    "edition": "Edition"
+  },
+  "formatos": {
+    "longo": {
+      "stem": "Pixel_Procurado_DIA06_Longo_V2",
+      "resolucao": [
+        3840,
+        2160
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/audio/narracao_normalizada.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/audio/palavras_alinhadas.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "TRUNK",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0.0,
+            2.4
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 918,
+          "tipo": "editorial",
+          "corte": [
+            2.4,
+            10.72
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "18:12",
+          "detalhe": "Porta-malas do Buffalo",
+          "midia": "F1812",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            10.72,
+            15.9
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "BUFFALO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            15.9,
+            19.0
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PERNAS",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            19.0,
+            23.02
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "3 SEGUNDOS DEPOIS",
+          "detalhe": "18:15 • de pé, filmando",
+          "midia": "EXT",
+          "inicio": 1095,
+          "tipo": "editorial",
+          "corte": [
+            23.02,
+            30.0
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1104,
+          "tipo": "editorial",
+          "corte": [
+            30.0,
+            34.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "F1824",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            34.2,
+            36.3
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "LIVE 51K",
+          "detalhe": "18:24 • duas estrelas acesas",
+          "midia": "LIVE51",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            36.3,
+            40.5
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "REI DO PORTA-MALAS",
+          "detalhe": "KING OF TRUNK!!! no chat",
+          "midia": "CHAT",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            40.5,
+            45.5
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 48.0,
+          "tipo": "editorial",
+          "corte": [
+            45.5,
+            48.46
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 44.0,
+          "tipo": "editorial",
+          "corte": [
+            48.46,
+            49.92
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "SÁBADO 14/11",
+          "detalhe": "Faltam 5 dias • lançamento 19/11",
+          "midia": "EXT",
+          "inicio": 750,
+          "tipo": "data",
+          "corte": [
+            49.92,
+            62.4
+          ]
+        },
+        {
+          "titulo": "ÍCONE • CORRIDA • OFICINA",
+          "detalhe": "As 3 respostas do gameplay",
+          "midia": "EXT",
+          "inicio": 762.48,
+          "tipo": "editorial",
+          "corte": [
+            62.4,
+            71.92
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EST1826",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            71.92,
+            79.14
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "CABIDE • ROSTO • CARRO",
+          "detalhe": "3 ícones sob as 2 estrelas",
+          "midia": "EST1827",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            79.14,
+            82.02
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 928.0,
+          "tipo": "editorial",
+          "corte": [
+            82.02,
+            84.0
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "15:30 • 4 ESTRELAS",
+          "detalhe": "4 ícones, o carro está lá",
+          "midia": "EXT",
+          "inicio": 930.0,
+          "tipo": "editorial",
+          "corte": [
+            84.0,
+            86.5
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EST1530",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            86.5,
+            90.64
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 950.0,
+          "tipo": "editorial",
+          "corte": [
+            90.64,
+            93.7
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "ESTRELAS VERMELHAS",
+          "detalhe": "15:50 • garagem coberta",
+          "midia": "EXT",
+          "inicio": 953.06,
+          "tipo": "editorial",
+          "corte": [
+            93.7,
+            98.3
+          ]
+        },
+        {
+          "titulo": "15:56 • COM O CARRO",
+          "detalhe": "4 ícones sob as estrelas",
+          "midia": "ICO1556",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            98.3,
+            100.6
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "15:57 • SEM O CARRO",
+          "detalhe": "O ícone sumiu; sobram 3",
+          "midia": "ICO1557",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            100.6,
+            102.6
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ROLETA DE ARMAS",
+          "detalhe": "Pistola, binóculo e molotov",
+          "midia": "F1558",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            102.6,
+            107.7
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 963.3,
+          "tipo": "editorial",
+          "corte": [
+            107.7,
+            111.94
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 970.0,
+          "tipo": "editorial",
+          "corte": [
+            111.94,
+            113.0
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "DECLASSE BURRITO",
+          "detalhe": "Van vinho • 16:12",
+          "midia": "BURRITO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            113.0,
+            115.2
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 977.0,
+          "tipo": "editorial",
+          "corte": [
+            115.2,
+            117.88
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "4 ESTRELAS • 3 ÍCONES",
+          "detalhe": "Sem o ícone do carro",
+          "midia": "EXT",
+          "inicio": 979.68,
+          "tipo": "editorial",
+          "corte": [
+            117.88,
+            126.1
+          ]
+        },
+        {
+          "titulo": "FATO",
+          "detalhe": "O ícone some ao largar o sedã",
+          "midia": "EXT",
+          "inicio": 988.0,
+          "tipo": "editorial",
+          "corte": [
+            126.1,
+            131.92
+          ]
+        },
+        {
+          "titulo": "HIPÓTESE",
+          "detalhe": "Cada ícone = pista da polícia",
+          "midia": "EXT",
+          "inicio": 937.0,
+          "tipo": "editorial",
+          "corte": [
+            131.92,
+            139.48
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 994.0,
+          "tipo": "editorial",
+          "corte": [
+            139.48,
+            145.04
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PAY",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            145.04,
+            150.5
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1000.0,
+          "tipo": "editorial",
+          "corte": [
+            150.5,
+            161.5
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "CAMARIM",
+          "detalhe": "Jason e Lucia dentro do carro",
+          "midia": "EXT",
+          "inicio": 790.0,
+          "tipo": "editorial",
+          "corte": [
+            161.5,
+            163.8
+          ]
+        },
+        {
+          "titulo": "17:50 • ZEKES GADGETS",
+          "detalhe": "Lucia no volante, Jason no carona",
+          "midia": "F1750",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            163.8,
+            172.14
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "RARMAS",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            172.14,
+            174.5
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "LENÇO: ON • BONÉ: OFF",
+          "detalhe": "ÓCULOS: OFF • aba ITENS",
+          "midia": "RITENS",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            174.5,
+            181.1
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "CABIDE IGUAL?",
+          "detalhe": "Roda de itens x ícone das estrelas",
+          "midia": "EST1530",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            181.1,
+            183.42
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1072,
+          "tipo": "editorial",
+          "corte": [
+            183.42,
+            186.6
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "WE DO REPAIRS",
+          "detalhe": "Loja de celular, não oficina",
+          "midia": "EXT",
+          "inicio": 1075.2,
+          "tipo": "editorial",
+          "corte": [
+            186.6,
+            191.3
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CARTAZ",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            191.3,
+            194.34
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "MESMO CARRO?",
+          "detalhe": "08:13 • parece, mas é semelhança",
+          "midia": "EXT",
+          "inicio": 489.3,
+          "tipo": "editorial",
+          "corte": [
+            194.34,
+            200.04
+          ]
+        },
+        {
+          "titulo": "SENTINEL",
+          "detalhe": "Traseira • capota recolhe 08:27",
+          "midia": "EXT",
+          "inicio": 502.5,
+          "tipo": "editorial",
+          "corte": [
+            200.04,
+            206.36
+          ]
+        },
+        {
+          "titulo": "HRP RB9",
+          "detalhe": "08:28 • placa do Sentinel",
+          "midia": "PLACA0828",
+          "inicio": 0,
+          "tipo": "data",
+          "corte": [
+            206.36,
+            208.6
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 508.82,
+          "tipo": "editorial",
+          "corte": [
+            208.6,
+            210.5
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1120,
+          "tipo": "editorial",
+          "corte": [
+            210.5,
+            211.6
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "18:41 • HRP RB9",
+          "detalhe": "Letra por letra: mesma placa",
+          "midia": "PLACA1841",
+          "inicio": 0,
+          "tipo": "data",
+          "corte": [
+            211.6,
+            213.8
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "CARRO PESSOAL?",
+          "detalhe": "Hipótese: placa repetida",
+          "midia": "EXT",
+          "inicio": 510.72,
+          "tipo": "editorial",
+          "corte": [
+            213.8,
+            221.8
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "F1843",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            221.8,
+            224.4
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "SLIM JIM • SMASH WINDOW",
+          "detalhe": "06:06 • triângulo ou bolinha",
+          "midia": "EXT",
+          "inicio": 365.2,
+          "tipo": "editorial",
+          "corte": [
+            224.4,
+            228.5
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "SLIMJIM",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            228.5,
+            233.0
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 28.0,
+          "tipo": "editorial",
+          "corte": [
+            233.0,
+            236.82
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 25.0,
+          "tipo": "editorial",
+          "corte": [
+            236.82,
+            240.72
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "17:42 • 16 CARROS",
+          "detalhe": "LAP 1/2 no canto",
+          "midia": "EXT",
+          "inicio": 1061.78,
+          "tipo": "editorial",
+          "corte": [
+            240.72,
+            246.3
+          ]
+        },
+        {
+          "titulo": "20:21 • PROGRESS %",
+          "detalhe": "6 carros • luz azul sob o carro",
+          "midia": "EXT",
+          "inicio": 1221.5,
+          "tipo": "editorial",
+          "corte": [
+            246.3,
+            250.5
+          ]
+        },
+        {
+          "titulo": "PONTO A PONTO?",
+          "detalhe": "Inferência: % no lugar da volta",
+          "midia": "DUPLO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            250.5,
+            256.34
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 70.4,
+          "tipo": "editorial",
+          "corte": [
+            256.34,
+            258.74
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 65.7,
+          "tipo": "editorial",
+          "corte": [
+            258.74,
+            259.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "18:35 • LAP 1/2",
+          "detalhe": "12 motos de trilha",
+          "midia": "EXT",
+          "inicio": 1114.9,
+          "tipo": "editorial",
+          "corte": [
+            259.9,
+            264.1
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 153.0,
+          "tipo": "editorial",
+          "corte": [
+            264.1,
+            266.22
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1207.3,
+          "tipo": "editorial",
+          "corte": [
+            266.22,
+            268.34
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "RACHA ILEGAL?",
+          "detalhe": "20:24 • sem polícia, aposta ou estrela",
+          "midia": "F2024",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            268.34,
+            272.0
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 484.4,
+          "tipo": "editorial",
+          "corte": [
+            272.0,
+            274.82
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 772.0,
+          "tipo": "editorial",
+          "corte": [
+            274.82,
+            277.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "OFICINA NO GAMEPLAY",
+          "detalhe": "Nas cenas de carro: não achei",
+          "midia": "EXT",
+          "inicio": 798.0,
+          "tipo": "editorial",
+          "corte": [
+            277.9,
+            285.9
+          ]
+        },
+        {
+          "titulo": "RIDEOUT CUSTOMS",
+          "detalhe": "Emblema Albany • roda dourada",
+          "midia": "RIDEOUT1",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            285.9,
+            293.8
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "RIDEOUT2",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            293.8,
+            296.0
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "OFICINA",
+          "detalhe": "Mecânico sob o carro e prancheta",
+          "midia": "RIDEOUT3",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            296.0,
+            300.92
+          ]
+        },
+        {
+          "titulo": "GANADO RETRO BUILD",
+          "detalhe": "Picape amarela • 434ci no capô",
+          "midia": "GANADO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            300.92,
+            308.02
+          ]
+        },
+        {
+          "titulo": "COLEÇÃO WYMAN",
+          "detalhe": "Ferro-velho: peças compradas e vendidas",
+          "midia": "WYMAN",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            308.02,
+            315.5
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 806.0,
+          "tipo": "editorial",
+          "corte": [
+            315.5,
+            320.7
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "BÔNUS ≠ JOGO BASE",
+          "detalhe": "Não prova a customização do jogo",
+          "midia": "SAFEHOUSE",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            320.7,
+            329.0
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 775.08,
+          "tipo": "editorial",
+          "corte": [
+            329.0,
+            333.24
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 495.0,
+          "tipo": "editorial",
+          "corte": [
+            333.24,
+            336.24
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "1 • OLHA OS ÍCONES",
+          "detalhe": "Embaixo das estrelas, antes de fugir",
+          "midia": "EXT",
+          "inicio": 1123.3,
+          "tipo": "editorial",
+          "corte": [
+            336.24,
+            340.24
+          ]
+        },
+        {
+          "titulo": "2 • CARRO MARCADO?",
+          "detalhe": "Largar o carro (hipótese)",
+          "midia": "EXT",
+          "inicio": 521.0,
+          "tipo": "editorial",
+          "corte": [
+            340.24,
+            345.02
+          ]
+        },
+        {
+          "titulo": "3 • LENÇO ANTES",
+          "detalhe": "De descer, não depois",
+          "midia": "EXT",
+          "inicio": 525.78,
+          "tipo": "editorial",
+          "corte": [
+            345.02,
+            349.1
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 529.86,
+          "tipo": "editorial",
+          "corte": [
+            349.1,
+            356.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "LARGA OU FOGE?",
+          "detalhe": "Larga o carro marcado ou foge? Comenta",
+          "midia": "EXT",
+          "inicio": 780.0,
+          "tipo": "editorial",
+          "corte": [
+            356.4,
+            360.78
+          ]
+        },
+        {
+          "titulo": "AMANHÃ • 15/11",
+          "detalhe": "11 detalhes escondidos nos frames",
+          "midia": "EXT",
+          "inicio": 1235.0,
+          "tipo": "data",
+          "corte": [
+            360.78,
+            369.3
+          ]
+        },
+        {
+          "titulo": "GELADEIRA DA LUCIA",
+          "detalhe": "07:20 • bilhetes e fotos",
+          "midia": "EXT",
+          "inicio": 440.2,
+          "tipo": "editorial",
+          "corte": [
+            369.3,
+            372.84
+          ]
+        },
+        {
+          "titulo": "HOLD HANDS [R2]",
+          "detalhe": "10:00 • botão de mão dada",
+          "midia": "EXT",
+          "inicio": 600.0,
+          "tipo": "editorial",
+          "corte": [
+            372.84,
+            377.72
+          ]
+        }
+      ]
+    }
+  },
+  "publicacao": {
+    "canais": {
+      "youtube": "cmvsctfgl0001jncj932ovibv",
+      "facebook": "cmvzyur290001pddwolrt33em",
+      "instagram": "cmvzyw7vj0003pddwkgtivv8i"
+    },
+    "data_padrao": "2026-11-14T21:00:00.000Z",
+    "estado": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/publicacao/POSTIZ_ESTADO.json",
+    "pasta_envio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/publicacao",
+    "tags_youtube": [],
+    "youtube_visibilidade": "public",
+    "textos": {
+      "longo": "(a escrever na etapa de publicacao)",
+      "meta_longo": "(a escrever na etapa de publicacao)",
+      "short": "(a escrever na etapa de publicacao)",
+      "story": "(a escrever na etapa de publicacao)"
+    },
+    "pecas": [
+      {
+        "chave": "youtube_longo",
+        "rede": "youtube",
+        "tipo": "post",
+        "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/exportacoes/Pixel_Procurado_DIA06_Longo_V2.mp4",
+        "texto": "longo",
+        "titulo": "O Que Tem no Porta-Malas do GTA 6 (Não É Arma)",
+        "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/publicacao/capas/capa_longo_A.jpg"
+      },
+      {
+        "chave": "youtube_short",
+        "rede": "youtube",
+        "tipo": "post",
+        "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/_reel/exportacoes/Pixel_Procurado_DIA06_Reel_V2.mp4",
+        "texto": "short",
+        "titulo": "GTA 6: Tem um Streamer no Porta-Malas #shorts",
+        "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/publicacao/capas/capa_vertical_A.jpg"
+      },
+      {
+        "chave": "facebook_integral",
+        "rede": "facebook",
+        "tipo": "post",
+        "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/exportacoes/Pixel_Procurado_DIA06_Longo_V2.mp4",
+        "texto": "meta_longo",
+        "titulo": "O Que Tem no Porta-Malas do GTA 6 (Não É Arma)"
+      },
+      {
+        "chave": "facebook_curto",
+        "rede": "facebook",
+        "tipo": "post",
+        "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/_reel/exportacoes/Pixel_Procurado_DIA06_Reel_V2.mp4",
+        "texto": "short",
+        "titulo": "GTA 6: Tem um Streamer no Porta-Malas"
+      },
+      {
+        "chave": "facebook_story",
+        "rede": "facebook",
+        "tipo": "story",
+        "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/_story/exportacoes/Pixel_Procurado_DIA06_Story_V2.mp4",
+        "texto": "story"
+      },
+      {
+        "chave": "instagram_integral",
+        "rede": "instagram",
+        "tipo": "post",
+        "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/_vertical/exportacoes/DIA06_Instagram_Integral_ig300.mp4",
+        "texto": "meta_longo",
+        "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/publicacao/capas/capa_vertical_A.jpg"
+      },
+      {
+        "chave": "instagram_reel",
+        "rede": "instagram",
+        "tipo": "post",
+        "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/_reel/exportacoes/Pixel_Procurado_DIA06_Reel_V2.mp4",
+        "texto": "short",
+        "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/publicacao/capas/capa_vertical_A.jpg"
+      },
+      {
+        "chave": "instagram_story",
+        "rede": "instagram",
+        "tipo": "story",
+        "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/_story/exportacoes/Pixel_Procurado_DIA06_Story_V2.mp4",
+        "texto": "story"
+      }
+    ]
+  }
+}

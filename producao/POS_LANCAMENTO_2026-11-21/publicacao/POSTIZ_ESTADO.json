@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "items": {
+    "youtube_longo": {
+      "medias": [
+        {
+          "id": "d7c0c993-b6ab-490c-b2fa-8a8f744ffdc8",
+          "name": "281b4a7f4176b36f76fe891cd3fa9839.mp4",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/21/281b4a7f4176b36f76fe891cd3fa9839.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "capa_obj": {
+        "id": "15a19391-8f3e-454e-b28f-2a13be5d7c96",
+        "name": "3df1f19c5765ad0dd51c103c147916348.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/21/3df1f19c5765ad0dd51c103c147916348.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-21T16:56:58.879784+00:00",
+      "post_id": "cmwqnhqcw007lpn9wnqvyruxr",
+      "enviado_em": "2026-11-21T16:56:58.879784+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=v1AwYOar4hI",
+        "releaseId": "v1AwYOar4hI",
+        "publishDate": "2026-11-21T16:57:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "youtube_short": {
+      "medias": [
+        {
+          "id": "8e07ecc0-87e4-4147-9cbd-4b315e05ad03",
+          "name": "4352382fbd9acb167357519ca3ea50b2.mp4",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/21/4352382fbd9acb167357519ca3ea50b2.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "capa_obj": {
+        "id": "24805168-f7d7-410a-ae8e-eaab84835530",
+        "name": "05adfd47cf2343bd4f1ae95da5efcaaa.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/21/05adfd47cf2343bd4f1ae95da5efcaaa.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-21T16:57:10.561525+00:00",
+      "post_id": "cmwqnhzen007mpn9wjy99w3ar",
+      "enviado_em": "2026-11-21T16:57:10.561525+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=qAy5a-uEx_0",
+        "releaseId": "qAy5a-uEx_0",
+        "publishDate": "2026-11-21T16:57:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_longo_reel": {
+      "r2_key_0": "publicacoes/b32385267c5e40c2a21091a3a132bdbe.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/b32385267c5e40c2a21091a3a132bdbe.mp4"
+        }
+      ],
+      "r2_key_capa": "publicacoes/bec4eaff2ec240b0b8b5349506a82723.jpg",
+      "capa_obj": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/bec4eaff2ec240b0b8b5349506a82723.jpg"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-21T16:58:48.286988+00:00",
+      "post_id": "cmwqnk1td007npn9wazmr4s77",
+      "enviado_em": "2026-11-21T16:58:48.286988+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/DgAt4MdoIzF/",
+        "releaseId": "18148487068596254",
+        "publishDate": "2026-11-21T16:58:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_reel": {
+      "r2_key_0": "publicacoes/d203fa6058ef4f3ea563d4af830e4daa.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d203fa6058ef4f3ea563d4af830e4daa.mp4"
+        }
+      ],
+      "r2_key_capa": "publicacoes/7f72713404114c9db1a8a6ebf8b4b7c1.jpg",
+      "capa_obj": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/7f72713404114c9db1a8a6ebf8b4b7c1.jpg"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-21T16:59:13.873583+00:00",
+      "post_id": "cmwqnknwv007opn9wlck4q2fh",
+      "enviado_em": "2026-11-21T16:59:13.873583+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/DgAt6JSTGUJ/",
+        "releaseId": "18093772328720177",
+        "publishDate": "2026-11-21T16:59:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_story": {
+      "r2_key_0": "publicacoes/a58f94bddaf844b1930a8dc4ea83b583.jpg",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/a58f94bddaf844b1930a8dc4ea83b583.jpg"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-21T16:59:23.698736+00:00",
+      "post_id": "cmwqnktsd007ppn9wg18mqqly",
+      "enviado_em": "2026-11-21T16:59:23.698736+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/stories/pixelprocurado/4035427199330701962",
+        "releaseId": "18405308263162431",
+        "publishDate": "2026-11-21T16:59:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_video": {
+      "r2_key_0": "publicacoes/c7ab192ad62a44f1960201c3dda20c0f.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/c7ab192ad62a44f1960201c3dda20c0f.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-21T17:01:53.406441+00:00",
+      "post_id": "cmwqno0bi007qpn9w860tn0gh",
+      "enviado_em": "2026-11-21T17:01:53.406441+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/reel/29807124982307622",
+        "releaseId": "29807124982307622",
+        "publishDate": "2026-11-21T17:01:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_reel": {
+      "r2_key_0": "publicacoes/8138b6a0432c4fdc8150b0dcc2923090.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/8138b6a0432c4fdc8150b0dcc2923090.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-21T17:02:21.649788+00:00",
+      "post_id": "cmwqnom19007rpn9w8dqsphb0",
+      "enviado_em": "2026-11-21T17:02:21.649788+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/reel/1001472019090603",
+        "releaseId": "1001472019090603",
+        "publishDate": "2026-11-21T17:02:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_story": {
+      "r2_key_0": "publicacoes/1ae8cf6f8b994561a016117610bfbb0f.jpg",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/1ae8cf6f8b994561a016117610bfbb0f.jpg"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-21T17:02:27.789364+00:00",
+      "post_id": "cmwqnorsu007spn9wk0bazm47",
+      "enviado_em": "2026-11-21T17:02:27.789364+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/stories/1502686488592401",
+        "releaseId": "1502686488592401",
+        "publishDate": "2026-11-21T17:02:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    }
+  }
+}

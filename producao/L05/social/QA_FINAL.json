@@ -1,0 +1,14 @@
+{
+  "source_sha256": "b286b951c08767d4266dd398b5872c5ac35b6b64b95a17adf1f7a82fb92a0665",
+  "approved": true,
+  "assets": {
+    "youtube_feed": "b286b951c08767d4266dd398b5872c5ac35b6b64b95a17adf1f7a82fb92a0665",
+    "instagram_story": "57367db3aaffd45e1f184c1a25bf4d9a2d987fd026335a26e11fe6b1b482b523",
+    "facebook_feed": "e4dae61fecf5afd229f579f4808c96ab93695fcf2af780488d3fb956ba308e6e",
+    "facebook_story": "57367db3aaffd45e1f184c1a25bf4d9a2d987fd026335a26e11fe6b1b482b523",
+    "instagram_feed": "d23a2976db329ca90c15665135ddd29f16d43e526dba9c21960a765150e4189e"
+  },
+  "thumbnail_sha256": "4a49eb28fda4e2462aa5fd4a9766613806c6d4ca0c4ff1a4a7e74ada88986185",
+  "review": "producao/L05/REVISAO_INDEPENDENTE.md",
+  "review_result": "PASS local dos cinco destinos"
+}

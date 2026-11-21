@@ -1,0 +1,217 @@
+{
+ "id": "DIA_02_2026-11-10__reel",
+ "titulo": "212 GB: O Que a Rockstar Escondeu Nesse Download?",
+ "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+ "pasta_fontes": "videosGTAVI",
+ "midias": {
+  "EXT": "GTAVI_An_Extended_Look.mp4",
+  "T1": "GTAVI_Trailer_1.mp4",
+  "T2": "GTAVI_Trailer_2.mp4",
+  "LT": "GTAVI_Launch_Trailer.mp4",
+  "COVER": "GTAVI_Videos/GTAVI_Official_Cover_Art_Landscape.mp4",
+  "GTAV": "GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4"
+ },
+ "correcoes_legenda": {},
+ "formatos": {
+  "short": {
+   "stem": "DIA02_Reel_Short",
+   "resolucao": [
+    1080,
+    1920
+   ],
+   "fps": 30,
+   "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_02_2026-11-10/_reel/audio/narracao.wav",
+   "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_02_2026-11-10/_reel/audio/palavras.json",
+   "planos": [
+    {
+     "midia": "LT",
+     "inicio": 67.3,
+     "corte": [
+      0.0,
+      5.6
+     ],
+     "tipo": "editorial",
+     "titulo": "2 ERROS DE ESTREIA",
+     "detalhe": "Que custam a noite do dia 19"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 550,
+     "corte": [
+      5.6,
+      12.6
+     ],
+     "tipo": "editorial",
+     "titulo": "1. USB NÃO RODA",
+     "detalhe": "Jogo da geração precisa do SSD interno"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 560,
+     "corte": [
+      12.6,
+      15.633333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 570,
+     "corte": [
+      15.633333,
+      20.1
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 580,
+     "corte": [
+      20.1,
+      21.9
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1600,
+     "corte": [
+      21.9,
+      25.333333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1230,
+     "corte": [
+      25.333333,
+      30.666667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1250,
+     "corte": [
+      30.666667,
+      33.366667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1270,
+     "corte": [
+      33.366667,
+      40.866667
+     ],
+     "tipo": "editorial",
+     "titulo": "2. DEIXE FOLGA",
+     "detalhe": "Reserve +25–30 GB além do pré-load"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1280,
+     "corte": [
+      40.866667,
+      42.966667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1290,
+     "corte": [
+      42.966667,
+      46.5
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1260,
+     "corte": [
+      46.5,
+      49.966667
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "LT",
+     "inicio": 75,
+     "corte": [
+      49.966667,
+      57.466667
+     ],
+     "tipo": "data",
+     "titulo": "+25–30 GB",
+     "detalhe": "Folga além dos 212 GB"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1175,
+     "corte": [
+      57.466667,
+      61.133333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1100,
+     "corte": [
+      61.133333,
+      65.733333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "T2",
+     "inicio": 105,
+     "corte": [
+      65.733333,
+      67.833333
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,111 @@
+{
+  "method": "amostragem visual + correlação de áudio; decodificação integral em DERIVACOES_QA.json",
+  "assets": {
+    "facebook_feed": {
+      "sha256": "e4dae61fecf5afd229f579f4808c96ab93695fcf2af780488d3fb956ba308e6e",
+      "sample_frames_seconds": [
+        0.5,
+        4,
+        18,
+        82,
+        172,
+        267,
+        319
+      ],
+      "timing": {
+        "video_duration": 324.8666666666667,
+        "frames": 9746,
+        "fps": 30.0,
+        "bytes": 21263680
+      },
+      "audio": [
+        {
+          "start": 1,
+          "seconds": 3,
+          "correlation": 0.9996957881491542
+        },
+        {
+          "start": 160,
+          "seconds": 3,
+          "correlation": 0.9994316100397753
+        },
+        {
+          "start": 319,
+          "seconds": 3,
+          "correlation": 0.9993447355526146
+        }
+      ],
+      "technical_result": "PASS"
+    },
+    "instagram_feed": {
+      "sha256": "d23a2976db329ca90c15665135ddd29f16d43e526dba9c21960a765150e4189e",
+      "sample_frames_seconds": [
+        0.5,
+        4,
+        18,
+        82,
+        172,
+        267,
+        319
+      ],
+      "timing": {
+        "video_duration": 324.8666666666667,
+        "frames": 9746,
+        "fps": 30.0,
+        "bytes": 14611122
+      },
+      "audio": [
+        {
+          "start": 1,
+          "seconds": 3,
+          "correlation": 0.9996957881491542
+        },
+        {
+          "start": 160,
+          "seconds": 3,
+          "correlation": 0.999431609849901
+        },
+        {
+          "start": 319,
+          "seconds": 3,
+          "correlation": 0.9993447350217142
+        }
+      ],
+      "technical_result": "PASS"
+    },
+    "facebook_story": {
+      "sha256": "57367db3aaffd45e1f184c1a25bf4d9a2d987fd026335a26e11fe6b1b482b523",
+      "sample_frames_seconds": [
+        0.5,
+        4,
+        13,
+        18,
+        23.8
+      ],
+      "timing": {
+        "video_duration": 24.466666666666665,
+        "frames": 734,
+        "fps": 30.0,
+        "bytes": 1304868
+      },
+      "audio": [
+        {
+          "start": 1,
+          "seconds": 3,
+          "correlation": 0.9996957881491542
+        },
+        {
+          "start": 11,
+          "seconds": 3,
+          "correlation": 0.9992584936101518
+        },
+        {
+          "start": 20,
+          "seconds": 3,
+          "correlation": 0.9996641039442022
+        }
+      ],
+      "technical_result": "PASS"
+    }
+  }
+}

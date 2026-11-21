@@ -1,0 +1,8052 @@
+[
+  {
+    "index": 0,
+    "word": "Esquece",
+    "start": 0.0,
+    "end": 0.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1,
+    "word": "a",
+    "start": 0.68,
+    "end": 0.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 2,
+    "word": "bazuca",
+    "start": 0.78,
+    "end": 1.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 3,
+    "word": "na",
+    "start": 1.1,
+    "end": 1.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 4,
+    "word": "cueca.",
+    "start": 1.24,
+    "end": 1.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 5,
+    "word": "Se",
+    "start": 2.4,
+    "end": 2.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 6,
+    "word": "você",
+    "start": 2.58,
+    "end": 2.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 7,
+    "word": "abrir",
+    "start": 2.74,
+    "end": 2.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 8,
+    "word": "o",
+    "start": 2.88,
+    "end": 3.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 9,
+    "word": "GTA",
+    "start": 3.02,
+    "end": 3.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 10,
+    "word": "seis",
+    "start": 3.18,
+    "end": 3.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 11,
+    "word": "no",
+    "start": 3.6,
+    "end": 3.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 12,
+    "word": "dia",
+    "start": 3.8,
+    "end": 3.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 13,
+    "word": "dezenove",
+    "start": 3.96,
+    "end": 4.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 14,
+    "word": "de",
+    "start": 4.34,
+    "end": 4.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 15,
+    "word": "novembro",
+    "start": 4.54,
+    "end": 5.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 16,
+    "word": "jogando",
+    "start": 5.12,
+    "end": 5.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 17,
+    "word": "no",
+    "start": 5.42,
+    "end": 5.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 18,
+    "word": "automático",
+    "start": 5.6,
+    "end": 6.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 19,
+    "word": "de",
+    "start": 6.06,
+    "end": 6.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 20,
+    "word": "dois",
+    "start": 6.22,
+    "end": 6.535,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 21,
+    "word": "mil",
+    "start": 6.535,
+    "end": 6.85,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 22,
+    "word": "e",
+    "start": 6.85,
+    "end": 7.165,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 23,
+    "word": "treze,",
+    "start": 7.165,
+    "end": 7.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 24,
+    "word": "você",
+    "start": 7.48,
+    "end": 7.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 25,
+    "word": "não",
+    "start": 7.68,
+    "end": 7.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 26,
+    "word": "dura",
+    "start": 7.82,
+    "end": 7.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 27,
+    "word": "quinze",
+    "start": 7.98,
+    "end": 8.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 28,
+    "word": "minutos",
+    "start": 8.32,
+    "end": 8.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 29,
+    "word": "na",
+    "start": 8.64,
+    "end": 8.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 30,
+    "word": "primeira",
+    "start": 8.86,
+    "end": 9.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 31,
+    "word": "rua",
+    "start": 9.1,
+    "end": 9.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 32,
+    "word": "de",
+    "start": 9.4,
+    "end": 9.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 33,
+    "word": "Leonida.",
+    "start": 9.54,
+    "end": 10.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 34,
+    "word": "O",
+    "start": 11.04,
+    "end": 11.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 35,
+    "word": "pré-load",
+    "start": 11.28,
+    "end": 11.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 36,
+    "word": "de",
+    "start": 11.56,
+    "end": 11.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 37,
+    "word": "duzentos",
+    "start": 11.8,
+    "end": 12.13,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 38,
+    "word": "e",
+    "start": 12.13,
+    "end": 12.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 39,
+    "word": "doze",
+    "start": 12.46,
+    "end": 12.79,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 40,
+    "word": "gigas",
+    "start": 12.79,
+    "end": 13.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 41,
+    "word": "começa",
+    "start": 13.12,
+    "end": 13.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 42,
+    "word": "hoje,",
+    "start": 13.42,
+    "end": 13.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 43,
+    "word": "dia",
+    "start": 14.16,
+    "end": 14.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 44,
+    "word": "dez.",
+    "start": 14.24,
+    "end": 15.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 45,
+    "word": "Só",
+    "start": 15.22,
+    "end": 15.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 46,
+    "word": "que",
+    "start": 15.44,
+    "end": 15.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 47,
+    "word": "enquanto",
+    "start": 15.56,
+    "end": 15.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 48,
+    "word": "metade",
+    "start": 15.76,
+    "end": 16.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 49,
+    "word": "da",
+    "start": 16.2,
+    "end": 16.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 50,
+    "word": "internet",
+    "start": 16.36,
+    "end": 16.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 51,
+    "word": "tá",
+    "start": 16.66,
+    "end": 16.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 52,
+    "word": "preocupada",
+    "start": 16.9,
+    "end": 17.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 53,
+    "word": "em",
+    "start": 17.52,
+    "end": 17.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 54,
+    "word": "apagar",
+    "start": 17.64,
+    "end": 17.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 55,
+    "word": "jogo",
+    "start": 17.92,
+    "end": 18.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 56,
+    "word": "velho",
+    "start": 18.2,
+    "end": 18.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 57,
+    "word": "do",
+    "start": 18.5,
+    "end": 18.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 58,
+    "word": "console,",
+    "start": 18.62,
+    "end": 19.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 59,
+    "word": "quase",
+    "start": 19.58,
+    "end": 19.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 60,
+    "word": "ninguém",
+    "start": 19.98,
+    "end": 20.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 61,
+    "word": "reparou",
+    "start": 20.3,
+    "end": 20.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 62,
+    "word": "no",
+    "start": 20.82,
+    "end": 20.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 63,
+    "word": "que",
+    "start": 20.94,
+    "end": 21.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 64,
+    "word": "acontece",
+    "start": 21.04,
+    "end": 21.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 65,
+    "word": "nos",
+    "start": 21.46,
+    "end": 22.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 66,
+    "word": "primeiros",
+    "start": 22.12,
+    "end": 22.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 67,
+    "word": "seis",
+    "start": 22.52,
+    "end": 22.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 68,
+    "word": "minutos",
+    "start": 22.78,
+    "end": 23.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 69,
+    "word": "do",
+    "start": 23.14,
+    "end": 23.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 70,
+    "word": "gameplay",
+    "start": 23.32,
+    "end": 23.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 71,
+    "word": "oficial.",
+    "start": 23.56,
+    "end": 24.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 72,
+    "word": "Repara",
+    "start": 24.1,
+    "end": 25.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 73,
+    "word": "nesse",
+    "start": 25.36,
+    "end": 25.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 74,
+    "word": "comando",
+    "start": 25.58,
+    "end": 26.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 75,
+    "word": "de",
+    "start": 26.0,
+    "end": 26.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 76,
+    "word": "duas",
+    "start": 26.16,
+    "end": 26.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 77,
+    "word": "linhas",
+    "start": 26.38,
+    "end": 26.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 78,
+    "word": "na",
+    "start": 26.76,
+    "end": 26.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 79,
+    "word": "porta",
+    "start": 26.96,
+    "end": 27.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 80,
+    "word": "desse",
+    "start": 27.16,
+    "end": 27.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 81,
+    "word": "carro",
+    "start": 27.42,
+    "end": 27.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 82,
+    "word": "vermelho",
+    "start": 27.62,
+    "end": 28.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 83,
+    "word": "no",
+    "start": 28.12,
+    "end": 28.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 84,
+    "word": "minuto",
+    "start": 28.36,
+    "end": 28.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 85,
+    "word": "seis",
+    "start": 28.68,
+    "end": 29.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 86,
+    "word": "e",
+    "start": 29.0,
+    "end": 29.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 87,
+    "word": "dez.",
+    "start": 29.12,
+    "end": 30.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 88,
+    "word": "Escolher",
+    "start": 30.04,
+    "end": 30.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 89,
+    "word": "o",
+    "start": 30.44,
+    "end": 30.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 90,
+    "word": "botão",
+    "start": 30.54,
+    "end": 30.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 91,
+    "word": "errado",
+    "start": 30.84,
+    "end": 31.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 92,
+    "word": "aqui",
+    "start": 31.18,
+    "end": 31.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 93,
+    "word": "no",
+    "start": 31.58,
+    "end": 31.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 94,
+    "word": "estacionamento",
+    "start": 31.82,
+    "end": 32.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 95,
+    "word": "é",
+    "start": 32.4,
+    "end": 32.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 96,
+    "word": "a",
+    "start": 32.98,
+    "end": 33.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 97,
+    "word": "diferença",
+    "start": 33.04,
+    "end": 33.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 98,
+    "word": "entre",
+    "start": 33.44,
+    "end": 33.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 99,
+    "word": "fugir",
+    "start": 33.94,
+    "end": 34.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 100,
+    "word": "com",
+    "start": 34.32,
+    "end": 34.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 101,
+    "word": "o",
+    "start": 34.46,
+    "end": 34.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 102,
+    "word": "dinheiro",
+    "start": 34.46,
+    "end": 34.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 103,
+    "word": "ou",
+    "start": 34.8,
+    "end": 35.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 104,
+    "word": "virar",
+    "start": 35.46,
+    "end": 35.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 105,
+    "word": "peneira",
+    "start": 35.66,
+    "end": 36.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 106,
+    "word": "antes",
+    "start": 36.06,
+    "end": 36.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 107,
+    "word": "de",
+    "start": 36.4,
+    "end": 36.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 108,
+    "word": "salvar",
+    "start": 36.54,
+    "end": 36.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 109,
+    "word": "o",
+    "start": 36.74,
+    "end": 36.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 110,
+    "word": "jogo.",
+    "start": 36.94,
+    "end": 37.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 111,
+    "word": "E",
+    "start": 37.76,
+    "end": 38.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 112,
+    "word": "já",
+    "start": 38.0,
+    "end": 38.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 113,
+    "word": "já",
+    "start": 38.2,
+    "end": 38.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 114,
+    "word": "eu",
+    "start": 38.54,
+    "end": 38.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 115,
+    "word": "te",
+    "start": 38.6,
+    "end": 38.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 116,
+    "word": "mostro",
+    "start": 38.72,
+    "end": 38.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 117,
+    "word": "o",
+    "start": 38.98,
+    "end": 39.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 118,
+    "word": "porquê.",
+    "start": 38.98,
+    "end": 39.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 119,
+    "word": "Vamos",
+    "start": 40.36,
+    "end": 40.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 120,
+    "word": "falar",
+    "start": 40.92,
+    "end": 41.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 121,
+    "word": "a",
+    "start": 41.18,
+    "end": 41.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 122,
+    "word": "real.",
+    "start": 41.18,
+    "end": 41.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 123,
+    "word": "Treze",
+    "start": 42.82,
+    "end": 43.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 124,
+    "word": "anos",
+    "start": 43.38,
+    "end": 43.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 125,
+    "word": "jogando",
+    "start": 43.6,
+    "end": 43.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 126,
+    "word": "GTA",
+    "start": 43.86,
+    "end": 44.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 127,
+    "word": "cinco",
+    "start": 44.08,
+    "end": 44.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 128,
+    "word": "deixaram",
+    "start": 44.54,
+    "end": 45.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 129,
+    "word": "todo",
+    "start": 45.24,
+    "end": 45.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 130,
+    "word": "mundo",
+    "start": 45.54,
+    "end": 45.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 131,
+    "word": "mal-acostumado.",
+    "start": 45.76,
+    "end": 46.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 132,
+    "word": "Você",
+    "start": 46.62,
+    "end": 47.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 133,
+    "word": "acostumou",
+    "start": 47.48,
+    "end": 47.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 134,
+    "word": "a",
+    "start": 47.92,
+    "end": 48.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 135,
+    "word": "entrar",
+    "start": 48.04,
+    "end": 48.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 136,
+    "word": "em",
+    "start": 48.18,
+    "end": 48.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 137,
+    "word": "qualquer",
+    "start": 48.36,
+    "end": 48.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 138,
+    "word": "prédio",
+    "start": 48.48,
+    "end": 48.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 139,
+    "word": "correndo,",
+    "start": 48.86,
+    "end": 49.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 140,
+    "word": "esbarrando",
+    "start": 49.7,
+    "end": 50.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 141,
+    "word": "em",
+    "start": 50.2,
+    "end": 50.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 142,
+    "word": "todo",
+    "start": 50.3,
+    "end": 50.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 143,
+    "word": "mundo,",
+    "start": 50.4,
+    "end": 50.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 144,
+    "word": "chutando",
+    "start": 51.24,
+    "end": 51.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 145,
+    "word": "a",
+    "start": 51.58,
+    "end": 51.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 146,
+    "word": "porta",
+    "start": 51.7,
+    "end": 52.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 147,
+    "word": "e",
+    "start": 52.0,
+    "end": 52.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 148,
+    "word": "resolvendo",
+    "start": 52.18,
+    "end": 52.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 149,
+    "word": "o",
+    "start": 52.6,
+    "end": 52.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 150,
+    "word": "roteiro",
+    "start": 52.72,
+    "end": 53.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 151,
+    "word": "na",
+    "start": 53.0,
+    "end": 53.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 152,
+    "word": "base",
+    "start": 53.12,
+    "end": 53.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 153,
+    "word": "da",
+    "start": 53.36,
+    "end": 53.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 154,
+    "word": "granada.",
+    "start": 53.48,
+    "end": 53.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 155,
+    "word": "Tenta",
+    "start": 54.72,
+    "end": 55.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 156,
+    "word": "fazer",
+    "start": 55.32,
+    "end": 55.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 157,
+    "word": "isso",
+    "start": 55.58,
+    "end": 55.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 158,
+    "word": "na",
+    "start": 55.94,
+    "end": 56.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 159,
+    "word": "primeira",
+    "start": 56.3,
+    "end": 56.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 160,
+    "word": "operação",
+    "start": 56.56,
+    "end": 56.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 161,
+    "word": "em",
+    "start": 56.9,
+    "end": 57.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 162,
+    "word": "Leonida",
+    "start": 57.02,
+    "end": 57.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 163,
+    "word": "pra",
+    "start": 57.92,
+    "end": 58.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 164,
+    "word": "você",
+    "start": 58.16,
+    "end": 58.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 165,
+    "word": "ver",
+    "start": 58.4,
+    "end": 58.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 166,
+    "word": "o",
+    "start": 58.52,
+    "end": 58.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 167,
+    "word": "tamanho",
+    "start": 58.62,
+    "end": 59.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 168,
+    "word": "do",
+    "start": 59.06,
+    "end": 59.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 169,
+    "word": "velório.",
+    "start": 59.44,
+    "end": 59.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 170,
+    "word": "Olha",
+    "start": 59.82,
+    "end": 61.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 171,
+    "word": "o",
+    "start": 61.04,
+    "end": 61.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 172,
+    "word": "primeiro",
+    "start": 61.08,
+    "end": 61.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 173,
+    "word": "minuto",
+    "start": 61.34,
+    "end": 61.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 174,
+    "word": "do",
+    "start": 61.88,
+    "end": 62.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 175,
+    "word": "vídeo",
+    "start": 62.16,
+    "end": 62.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 176,
+    "word": "de",
+    "start": 62.4,
+    "end": 62.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 177,
+    "word": "gameplay",
+    "start": 62.54,
+    "end": 62.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 178,
+    "word": "que",
+    "start": 62.92,
+    "end": 63.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 179,
+    "word": "a",
+    "start": 63.12,
+    "end": 63.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 180,
+    "word": "Rockstar",
+    "start": 63.22,
+    "end": 63.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 181,
+    "word": "soltou.",
+    "start": 63.48,
+    "end": 63.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 182,
+    "word": "Quando",
+    "start": 64.66,
+    "end": 64.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 183,
+    "word": "o",
+    "start": 64.96,
+    "end": 64.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 184,
+    "word": "Jason",
+    "start": 64.96,
+    "end": 65.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 185,
+    "word": "e",
+    "start": 65.3,
+    "end": 65.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 186,
+    "word": "a",
+    "start": 65.48,
+    "end": 65.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 187,
+    "word": "Lucia",
+    "start": 65.56,
+    "end": 65.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 188,
+    "word": "entram",
+    "start": 65.9,
+    "end": 66.26,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 189,
+    "word": "naquele",
+    "start": 66.26,
+    "end": 66.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 190,
+    "word": "conjunto",
+    "start": 66.52,
+    "end": 66.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 191,
+    "word": "habitacional",
+    "start": 66.84,
+    "end": 67.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 192,
+    "word": "à",
+    "start": 67.46,
+    "end": 67.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 193,
+    "word": "noite,",
+    "start": 67.78,
+    "end": 68.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 194,
+    "word": "o",
+    "start": 68.66,
+    "end": 68.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 195,
+    "word": "prédio",
+    "start": 68.9,
+    "end": 69.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 196,
+    "word": "inteiro",
+    "start": 69.2,
+    "end": 69.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 197,
+    "word": "para",
+    "start": 69.48,
+    "end": 69.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 198,
+    "word": "pra",
+    "start": 69.8,
+    "end": 70.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 199,
+    "word": "medir",
+    "start": 70.06,
+    "end": 70.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 200,
+    "word": "a",
+    "start": 70.66,
+    "end": 70.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 201,
+    "word": "sua",
+    "start": 70.76,
+    "end": 70.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 202,
+    "word": "cara.",
+    "start": 70.84,
+    "end": 71.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 203,
+    "word": "Ali",
+    "start": 71.14,
+    "end": 71.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 204,
+    "word": "no",
+    "start": 71.98,
+    "end": 72.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 205,
+    "word": "canto",
+    "start": 72.12,
+    "end": 72.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 206,
+    "word": "da",
+    "start": 72.36,
+    "end": 72.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 207,
+    "word": "tela,",
+    "start": 72.46,
+    "end": 72.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 208,
+    "word": "no",
+    "start": 73.02,
+    "end": 73.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 209,
+    "word": "minuto",
+    "start": 73.24,
+    "end": 73.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 210,
+    "word": "um",
+    "start": 73.62,
+    "end": 73.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 211,
+    "word": "cravado,",
+    "start": 73.84,
+    "end": 74.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 212,
+    "word": "aparece",
+    "start": 74.68,
+    "end": 75.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 213,
+    "word": "o",
+    "start": 75.16,
+    "end": 75.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 214,
+    "word": "botão",
+    "start": 75.36,
+    "end": 75.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 215,
+    "word": "L",
+    "start": 75.6,
+    "end": 75.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 216,
+    "word": "dois",
+    "start": 75.82,
+    "end": 76.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 217,
+    "word": "pra",
+    "start": 76.04,
+    "end": 76.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 218,
+    "word": "focar",
+    "start": 76.36,
+    "end": 76.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 219,
+    "word": "no",
+    "start": 76.6,
+    "end": 76.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 220,
+    "word": "morador",
+    "start": 76.72,
+    "end": 77.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 221,
+    "word": "parado",
+    "start": 77.06,
+    "end": 77.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 222,
+    "word": "na",
+    "start": 77.5,
+    "end": 77.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 223,
+    "word": "frente",
+    "start": 77.64,
+    "end": 77.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 224,
+    "word": "do",
+    "start": 77.84,
+    "end": 78.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 225,
+    "word": "elevador",
+    "start": 78.0,
+    "end": 78.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 226,
+    "word": "e",
+    "start": 78.4,
+    "end": 79.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 227,
+    "word": "decidir",
+    "start": 79.12,
+    "end": 79.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 228,
+    "word": "como",
+    "start": 79.46,
+    "end": 79.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 229,
+    "word": "cumprimentar",
+    "start": 79.68,
+    "end": 80.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 230,
+    "word": "o",
+    "start": 80.32,
+    "end": 80.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 231,
+    "word": "sujeito.",
+    "start": 80.42,
+    "end": 80.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 232,
+    "word": "Trinta",
+    "start": 81.42,
+    "end": 81.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 233,
+    "word": "segundos",
+    "start": 81.96,
+    "end": 82.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 234,
+    "word": "depois,",
+    "start": 82.22,
+    "end": 82.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 235,
+    "word": "no",
+    "start": 83.08,
+    "end": 83.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 236,
+    "word": "corredor",
+    "start": 83.16,
+    "end": 83.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 237,
+    "word": "do",
+    "start": 83.46,
+    "end": 83.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 238,
+    "word": "segundo",
+    "start": 83.56,
+    "end": 83.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 239,
+    "word": "andar,",
+    "start": 83.78,
+    "end": 84.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 240,
+    "word": "tem",
+    "start": 84.96,
+    "end": 85.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 241,
+    "word": "até",
+    "start": 85.1,
+    "end": 85.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 242,
+    "word": "comando",
+    "start": 85.28,
+    "end": 85.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 243,
+    "word": "pra",
+    "start": 85.64,
+    "end": 85.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 244,
+    "word": "estudar",
+    "start": 85.82,
+    "end": 86.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 245,
+    "word": "ou",
+    "start": 86.72,
+    "end": 86.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 246,
+    "word": "fazer",
+    "start": 86.98,
+    "end": 87.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 247,
+    "word": "festa",
+    "start": 87.18,
+    "end": 87.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 248,
+    "word": "pro",
+    "start": 87.5,
+    "end": 87.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 249,
+    "word": "cachorro",
+    "start": 87.66,
+    "end": 87.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 250,
+    "word": "do",
+    "start": 87.94,
+    "end": 88.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 251,
+    "word": "vizinho",
+    "start": 88.08,
+    "end": 88.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 252,
+    "word": "antes",
+    "start": 88.46,
+    "end": 88.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 253,
+    "word": "de",
+    "start": 88.9,
+    "end": 89.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 254,
+    "word": "seguir",
+    "start": 89.06,
+    "end": 89.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 255,
+    "word": "caminho.",
+    "start": 89.22,
+    "end": 89.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 256,
+    "word": "E",
+    "start": 90.3,
+    "end": 90.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 257,
+    "word": "quando",
+    "start": 90.54,
+    "end": 90.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 258,
+    "word": "você",
+    "start": 90.66,
+    "end": 90.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 259,
+    "word": "finalmente",
+    "start": 90.94,
+    "end": 91.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 260,
+    "word": "chega",
+    "start": 91.4,
+    "end": 91.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 261,
+    "word": "na",
+    "start": 91.82,
+    "end": 91.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 262,
+    "word": "porta",
+    "start": 91.98,
+    "end": 92.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 263,
+    "word": "do",
+    "start": 92.22,
+    "end": 92.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 264,
+    "word": "apartamento",
+    "start": 92.36,
+    "end": 92.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 265,
+    "word": "onde",
+    "start": 93.22,
+    "end": 93.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 266,
+    "word": "rola",
+    "start": 93.38,
+    "end": 93.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 267,
+    "word": "o",
+    "start": 93.62,
+    "end": 93.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 268,
+    "word": "esquema,",
+    "start": 93.68,
+    "end": 94.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 269,
+    "word": "nada",
+    "start": 94.62,
+    "end": 94.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 270,
+    "word": "de",
+    "start": 94.96,
+    "end": 95.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 271,
+    "word": "entrar",
+    "start": 95.2,
+    "end": 95.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 272,
+    "word": "dando",
+    "start": 95.42,
+    "end": 95.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 273,
+    "word": "voadora.",
+    "start": 95.6,
+    "end": 96.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 274,
+    "word": "Aparece",
+    "start": 96.54,
+    "end": 97.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 275,
+    "word": "o",
+    "start": 97.08,
+    "end": 97.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 276,
+    "word": "triângulo",
+    "start": 97.18,
+    "end": 97.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 277,
+    "word": "pra",
+    "start": 97.54,
+    "end": 97.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 278,
+    "word": "bater",
+    "start": 97.72,
+    "end": 98.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 279,
+    "word": "na",
+    "start": 98.0,
+    "end": 98.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 280,
+    "word": "porta.",
+    "start": 98.12,
+    "end": 98.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 281,
+    "word": "Você",
+    "start": 98.42,
+    "end": 99.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 282,
+    "word": "bate,",
+    "start": 99.24,
+    "end": 99.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 283,
+    "word": "abre",
+    "start": 100.2,
+    "end": 100.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 284,
+    "word": "uma",
+    "start": 100.44,
+    "end": 100.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 285,
+    "word": "fresta",
+    "start": 100.6,
+    "end": 101.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 286,
+    "word": "na",
+    "start": 101.0,
+    "end": 101.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 287,
+    "word": "madeira",
+    "start": 101.14,
+    "end": 101.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 288,
+    "word": "e",
+    "start": 101.6,
+    "end": 101.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 289,
+    "word": "um",
+    "start": 101.98,
+    "end": 102.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 290,
+    "word": "maluco",
+    "start": 102.08,
+    "end": 102.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 291,
+    "word": "te",
+    "start": 102.32,
+    "end": 102.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 292,
+    "word": "encara",
+    "start": 102.46,
+    "end": 102.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 293,
+    "word": "pelo",
+    "start": 102.72,
+    "end": 102.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 294,
+    "word": "olho",
+    "start": 102.9,
+    "end": 103.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 295,
+    "word": "mágico",
+    "start": 103.06,
+    "end": 103.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 296,
+    "word": "pra",
+    "start": 103.44,
+    "end": 103.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 297,
+    "word": "decidir",
+    "start": 103.68,
+    "end": 104.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 298,
+    "word": "se",
+    "start": 104.12,
+    "end": 104.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 299,
+    "word": "abre",
+    "start": 104.3,
+    "end": 104.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 300,
+    "word": "ou",
+    "start": 104.6,
+    "end": 105.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 301,
+    "word": "se",
+    "start": 105.02,
+    "end": 105.26,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 302,
+    "word": "te",
+    "start": 105.26,
+    "end": 105.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 303,
+    "word": "manda",
+    "start": 105.4,
+    "end": 105.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 304,
+    "word": "embora.",
+    "start": 105.6,
+    "end": 105.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 305,
+    "word": "No",
+    "start": 106.62,
+    "end": 106.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 306,
+    "word": "GTA",
+    "start": 106.88,
+    "end": 107.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 307,
+    "word": "cinco,",
+    "start": 107.06,
+    "end": 107.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 308,
+    "word": "o",
+    "start": 107.76,
+    "end": 107.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 309,
+    "word": "cenário",
+    "start": 107.92,
+    "end": 108.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 310,
+    "word": "era",
+    "start": 108.18,
+    "end": 108.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 311,
+    "word": "de",
+    "start": 108.3,
+    "end": 108.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 312,
+    "word": "papelão.",
+    "start": 108.46,
+    "end": 108.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 313,
+    "word": "Aqui,",
+    "start": 109.58,
+    "end": 110.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 314,
+    "word": "até",
+    "start": 110.36,
+    "end": 110.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 315,
+    "word": "o",
+    "start": 110.58,
+    "end": 110.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 316,
+    "word": "corredor",
+    "start": 110.7,
+    "end": 111.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 317,
+    "word": "do",
+    "start": 111.06,
+    "end": 111.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 318,
+    "word": "prédio",
+    "start": 111.14,
+    "end": 111.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 319,
+    "word": "tem",
+    "start": 111.58,
+    "end": 111.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 320,
+    "word": "porteiro",
+    "start": 111.74,
+    "end": 112.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 321,
+    "word": "armado.",
+    "start": 112.1,
+    "end": 112.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 322,
+    "word": "Mas",
+    "start": 113.3,
+    "end": 113.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 323,
+    "word": "a",
+    "start": 113.58,
+    "end": 113.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 324,
+    "word": "humilhação",
+    "start": 113.66,
+    "end": 114.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 325,
+    "word": "de",
+    "start": 114.08,
+    "end": 114.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 326,
+    "word": "verdade",
+    "start": 114.22,
+    "end": 114.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 327,
+    "word": "começa",
+    "start": 114.48,
+    "end": 114.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 328,
+    "word": "quando",
+    "start": 114.9,
+    "end": 115.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 329,
+    "word": "a",
+    "start": 115.24,
+    "end": 115.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 330,
+    "word": "conversa",
+    "start": 115.36,
+    "end": 115.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 331,
+    "word": "azeda",
+    "start": 115.82,
+    "end": 116.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 332,
+    "word": "lá",
+    "start": 116.24,
+    "end": 116.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 333,
+    "word": "dentro.",
+    "start": 116.36,
+    "end": 116.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 334,
+    "word": "Repara",
+    "start": 117.36,
+    "end": 117.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 335,
+    "word": "na",
+    "start": 117.86,
+    "end": 118.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 336,
+    "word": "cena",
+    "start": 118.0,
+    "end": 118.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 337,
+    "word": "do",
+    "start": 118.2,
+    "end": 118.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 338,
+    "word": "laboratório",
+    "start": 118.42,
+    "end": 118.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 339,
+    "word": "clandestino",
+    "start": 118.9,
+    "end": 119.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 340,
+    "word": "a",
+    "start": 119.46,
+    "end": 119.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 341,
+    "word": "partir",
+    "start": 119.62,
+    "end": 119.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 342,
+    "word": "do",
+    "start": 119.8,
+    "end": 120.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 343,
+    "word": "minuto",
+    "start": 120.0,
+    "end": 120.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 344,
+    "word": "três.",
+    "start": 120.24,
+    "end": 121.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 345,
+    "word": "Tem",
+    "start": 121.54,
+    "end": 121.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 346,
+    "word": "uma",
+    "start": 121.74,
+    "end": 121.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 347,
+    "word": "galera",
+    "start": 121.88,
+    "end": 122.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 348,
+    "word": "de",
+    "start": 122.14,
+    "end": 122.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 349,
+    "word": "luva",
+    "start": 122.34,
+    "end": 122.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 350,
+    "word": "amarela",
+    "start": 122.46,
+    "end": 122.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 351,
+    "word": "trabalhando",
+    "start": 122.82,
+    "end": 123.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 352,
+    "word": "na",
+    "start": 123.22,
+    "end": 123.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 353,
+    "word": "mesa,",
+    "start": 123.38,
+    "end": 123.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 354,
+    "word": "fumaça",
+    "start": 124.06,
+    "end": 124.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 355,
+    "word": "comendo",
+    "start": 124.58,
+    "end": 124.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 356,
+    "word": "solta,",
+    "start": 124.94,
+    "end": 125.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 357,
+    "word": "e",
+    "start": 125.4,
+    "end": 125.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 358,
+    "word": "o",
+    "start": 125.96,
+    "end": 126.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 359,
+    "word": "Jason",
+    "start": 126.28,
+    "end": 126.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 360,
+    "word": "joga",
+    "start": 126.28,
+    "end": 126.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 361,
+    "word": "aquele",
+    "start": 126.7,
+    "end": 126.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 362,
+    "word": "malote",
+    "start": 126.82,
+    "end": 127.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 363,
+    "word": "vermelho",
+    "start": 127.18,
+    "end": 127.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 364,
+    "word": "atravessado",
+    "start": 127.56,
+    "end": 128.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 365,
+    "word": "no",
+    "start": 128.06,
+    "end": 128.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 366,
+    "word": "ombro.",
+    "start": 128.18,
+    "end": 128.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 367,
+    "word": "Quando",
+    "start": 129.2,
+    "end": 129.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 368,
+    "word": "o",
+    "start": 129.72,
+    "end": 129.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 369,
+    "word": "tiro",
+    "start": 129.88,
+    "end": 129.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 370,
+    "word": "come",
+    "start": 129.96,
+    "end": 130.26,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 371,
+    "word": "no",
+    "start": 130.26,
+    "end": 130.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 372,
+    "word": "minuto",
+    "start": 130.42,
+    "end": 130.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 373,
+    "word": "quatro",
+    "start": 130.64,
+    "end": 130.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 374,
+    "word": "e",
+    "start": 130.88,
+    "end": 131.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 375,
+    "word": "vinte,",
+    "start": 131.04,
+    "end": 131.513,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 376,
+    "word": "adivinha",
+    "start": 131.513,
+    "end": 131.987,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 377,
+    "word": "o",
+    "start": 131.987,
+    "end": 132.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 378,
+    "word": "que",
+    "start": 132.46,
+    "end": 132.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 379,
+    "word": "o",
+    "start": 132.6,
+    "end": 132.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 380,
+    "word": "seu",
+    "start": 132.7,
+    "end": 132.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 381,
+    "word": "cérebro",
+    "start": 132.78,
+    "end": 133.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 382,
+    "word": "viciado",
+    "start": 133.12,
+    "end": 133.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 383,
+    "word": "em",
+    "start": 133.6,
+    "end": 133.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 384,
+    "word": "dois",
+    "start": 133.7,
+    "end": 133.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 385,
+    "word": "mil",
+    "start": 133.8,
+    "end": 133.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 386,
+    "word": "e",
+    "start": 133.9,
+    "end": 134.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 387,
+    "word": "treze",
+    "start": 134.0,
+    "end": 134.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 388,
+    "word": "vai",
+    "start": 134.1,
+    "end": 134.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 389,
+    "word": "tentar",
+    "start": 134.32,
+    "end": 134.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 390,
+    "word": "fazer?",
+    "start": 134.48,
+    "end": 134.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 391,
+    "word": "Abrir",
+    "start": 135.92,
+    "end": 136.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 392,
+    "word": "a",
+    "start": 136.32,
+    "end": 136.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 393,
+    "word": "roda",
+    "start": 136.4,
+    "end": 136.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 394,
+    "word": "de",
+    "start": 136.56,
+    "end": 136.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 395,
+    "word": "armas",
+    "start": 136.72,
+    "end": 136.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 396,
+    "word": "pra",
+    "start": 136.92,
+    "end": 137.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 397,
+    "word": "puxar",
+    "start": 137.1,
+    "end": 137.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 398,
+    "word": "uma",
+    "start": 137.4,
+    "end": 137.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 399,
+    "word": "metralhadora",
+    "start": 137.56,
+    "end": 138.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 400,
+    "word": "giratória,",
+    "start": 138.02,
+    "end": 139.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 401,
+    "word": "um",
+    "start": 139.08,
+    "end": 139.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 402,
+    "word": "lança-mísseis",
+    "start": 139.32,
+    "end": 139.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 403,
+    "word": "e",
+    "start": 139.94,
+    "end": 140.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 404,
+    "word": "quatro",
+    "start": 140.16,
+    "end": 140.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 405,
+    "word": "fuzis",
+    "start": 140.42,
+    "end": 140.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 406,
+    "word": "de",
+    "start": 140.8,
+    "end": 140.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 407,
+    "word": "dentro",
+    "start": 140.9,
+    "end": 141.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 408,
+    "word": "da",
+    "start": 141.06,
+    "end": 141.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 409,
+    "word": "bermuda.",
+    "start": 141.16,
+    "end": 141.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 410,
+    "word": "Esquece.",
+    "start": 142.4,
+    "end": 142.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 411,
+    "word": "Acabou",
+    "start": 143.42,
+    "end": 143.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 412,
+    "word": "o",
+    "start": 143.82,
+    "end": 144.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 413,
+    "word": "bolso",
+    "start": 144.08,
+    "end": 144.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 414,
+    "word": "de",
+    "start": 144.22,
+    "end": 144.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 415,
+    "word": "mágico.",
+    "start": 144.36,
+    "end": 144.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 416,
+    "word": "Olha",
+    "start": 144.72,
+    "end": 146.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 417,
+    "word": "o",
+    "start": 146.18,
+    "end": 146.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 418,
+    "word": "topo",
+    "start": 146.28,
+    "end": 146.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 419,
+    "word": "direito",
+    "start": 146.44,
+    "end": 146.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 420,
+    "word": "da",
+    "start": 146.58,
+    "end": 146.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 421,
+    "word": "tela",
+    "start": 146.82,
+    "end": 147.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 422,
+    "word": "no",
+    "start": 147.1,
+    "end": 147.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 423,
+    "word": "minuto",
+    "start": 147.36,
+    "end": 147.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 424,
+    "word": "quatro",
+    "start": 147.6,
+    "end": 147.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 425,
+    "word": "e",
+    "start": 147.9,
+    "end": 148.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 426,
+    "word": "vinte.",
+    "start": 148.08,
+    "end": 148.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 427,
+    "word": "O",
+    "start": 148.84,
+    "end": 149.26,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 428,
+    "word": "Jason",
+    "start": 149.26,
+    "end": 149.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 429,
+    "word": "começa",
+    "start": 149.46,
+    "end": 149.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 430,
+    "word": "a",
+    "start": 149.74,
+    "end": 149.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 431,
+    "word": "briga",
+    "start": 149.92,
+    "end": 150.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 432,
+    "word": "só",
+    "start": 150.18,
+    "end": 150.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 433,
+    "word": "com",
+    "start": 150.46,
+    "end": 150.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 434,
+    "word": "uma",
+    "start": 150.64,
+    "end": 150.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 435,
+    "word": "pistola",
+    "start": 150.78,
+    "end": 151.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 436,
+    "word": "na",
+    "start": 151.08,
+    "end": 151.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 437,
+    "word": "mão",
+    "start": 151.22,
+    "end": 151.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 438,
+    "word": "e",
+    "start": 151.42,
+    "end": 151.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 439,
+    "word": "o",
+    "start": 151.92,
+    "end": 152.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 440,
+    "word": "malote",
+    "start": 152.0,
+    "end": 152.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 441,
+    "word": "vermelho",
+    "start": 152.22,
+    "end": 152.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 442,
+    "word": "pesando",
+    "start": 152.68,
+    "end": 153.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 443,
+    "word": "nas",
+    "start": 153.1,
+    "end": 153.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 444,
+    "word": "costas.",
+    "start": 153.28,
+    "end": 153.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 445,
+    "word": "Quer",
+    "start": 153.66,
+    "end": 154.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 446,
+    "word": "uma",
+    "start": 154.62,
+    "end": 154.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 447,
+    "word": "arma",
+    "start": 154.82,
+    "end": 154.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 448,
+    "word": "longa",
+    "start": 154.96,
+    "end": 155.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 449,
+    "word": "pra",
+    "start": 155.34,
+    "end": 155.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 450,
+    "word": "limpar",
+    "start": 155.46,
+    "end": 155.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 451,
+    "word": "o",
+    "start": 155.68,
+    "end": 155.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 452,
+    "word": "corredor?",
+    "start": 155.76,
+    "end": 156.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 453,
+    "word": "No",
+    "start": 156.74,
+    "end": 157.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 454,
+    "word": "minuto",
+    "start": 157.0,
+    "end": 157.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 455,
+    "word": "quatro",
+    "start": 157.28,
+    "end": 157.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 456,
+    "word": "e",
+    "start": 157.56,
+    "end": 157.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 457,
+    "word": "trinta",
+    "start": 157.72,
+    "end": 157.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 458,
+    "word": "você",
+    "start": 157.96,
+    "end": 158.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 459,
+    "word": "precisa",
+    "start": 158.64,
+    "end": 159.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 460,
+    "word": "literalmente",
+    "start": 159.04,
+    "end": 159.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 461,
+    "word": "passar",
+    "start": 159.68,
+    "end": 159.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 462,
+    "word": "por",
+    "start": 159.96,
+    "end": 160.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 463,
+    "word": "cima",
+    "start": 160.22,
+    "end": 160.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 464,
+    "word": "do",
+    "start": 160.4,
+    "end": 160.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 465,
+    "word": "inimigo",
+    "start": 160.54,
+    "end": 160.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 466,
+    "word": "caído",
+    "start": 160.8,
+    "end": 161.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 467,
+    "word": "e",
+    "start": 161.18,
+    "end": 161.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 468,
+    "word": "apertar",
+    "start": 161.34,
+    "end": 161.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 469,
+    "word": "L",
+    "start": 161.72,
+    "end": 161.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 470,
+    "word": "um",
+    "start": 161.96,
+    "end": 162.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 471,
+    "word": "pra",
+    "start": 162.2,
+    "end": 162.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 472,
+    "word": "catar",
+    "start": 162.66,
+    "end": 162.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 473,
+    "word": "a",
+    "start": 162.92,
+    "end": 163.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 474,
+    "word": "escopeta",
+    "start": 163.0,
+    "end": 163.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 475,
+    "word": "Moreland",
+    "start": 163.3,
+    "end": 163.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 476,
+    "word": "oitocentos",
+    "start": 163.6,
+    "end": 163.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 477,
+    "word": "e",
+    "start": 163.9,
+    "end": 164.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 478,
+    "word": "cinquenta",
+    "start": 164.2,
+    "end": 164.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 479,
+    "word": "direto",
+    "start": 164.5,
+    "end": 164.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 480,
+    "word": "do",
+    "start": 164.98,
+    "end": 165.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 481,
+    "word": "chão.",
+    "start": 165.06,
+    "end": 165.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 482,
+    "word": "Se",
+    "start": 165.98,
+    "end": 166.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 483,
+    "word": "você",
+    "start": 166.5,
+    "end": 166.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 484,
+    "word": "não",
+    "start": 166.72,
+    "end": 166.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 485,
+    "word": "olhar",
+    "start": 166.86,
+    "end": 167.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 486,
+    "word": "pro",
+    "start": 167.02,
+    "end": 167.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 487,
+    "word": "chão",
+    "start": 167.16,
+    "end": 167.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 488,
+    "word": "e",
+    "start": 167.48,
+    "end": 168.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 489,
+    "word": "não",
+    "start": 168.04,
+    "end": 168.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 490,
+    "word": "gerenciar",
+    "start": 168.12,
+    "end": 168.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 491,
+    "word": "o",
+    "start": 168.6,
+    "end": 168.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 492,
+    "word": "que",
+    "start": 168.7,
+    "end": 168.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 493,
+    "word": "tá",
+    "start": 168.8,
+    "end": 168.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 494,
+    "word": "pendurado",
+    "start": 168.88,
+    "end": 169.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 495,
+    "word": "na",
+    "start": 169.24,
+    "end": 169.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 496,
+    "word": "bandoleira,",
+    "start": 169.36,
+    "end": 169.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 497,
+    "word": "você",
+    "start": 170.98,
+    "end": 171.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 498,
+    "word": "vai",
+    "start": 171.5,
+    "end": 171.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 499,
+    "word": "tentar",
+    "start": 171.6,
+    "end": 171.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 500,
+    "word": "trocar",
+    "start": 171.78,
+    "end": 172.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 501,
+    "word": "tiro",
+    "start": 172.12,
+    "end": 172.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 502,
+    "word": "de",
+    "start": 172.36,
+    "end": 172.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 503,
+    "word": "pistola",
+    "start": 172.48,
+    "end": 172.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 504,
+    "word": "contra",
+    "start": 172.84,
+    "end": 173.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 505,
+    "word": "três",
+    "start": 173.06,
+    "end": 173.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 506,
+    "word": "caras",
+    "start": 173.44,
+    "end": 173.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 507,
+    "word": "de",
+    "start": 173.8,
+    "end": 173.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 508,
+    "word": "calibre",
+    "start": 173.86,
+    "end": 174.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 509,
+    "word": "doze",
+    "start": 174.14,
+    "end": 174.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 510,
+    "word": "num",
+    "start": 174.36,
+    "end": 174.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 511,
+    "word": "corredor",
+    "start": 174.5,
+    "end": 174.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 512,
+    "word": "de",
+    "start": 174.9,
+    "end": 175.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 513,
+    "word": "um",
+    "start": 175.0,
+    "end": 175.43,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 514,
+    "word": "metro",
+    "start": 175.43,
+    "end": 175.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 515,
+    "word": "e",
+    "start": 175.86,
+    "end": 176.29,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 516,
+    "word": "meio.",
+    "start": 176.29,
+    "end": 176.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 517,
+    "word": "E",
+    "start": 176.72,
+    "end": 177.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 518,
+    "word": "não",
+    "start": 177.24,
+    "end": 177.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 519,
+    "word": "acha",
+    "start": 177.34,
+    "end": 177.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 520,
+    "word": "que",
+    "start": 177.54,
+    "end": 177.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 521,
+    "word": "pegar",
+    "start": 177.7,
+    "end": 177.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 522,
+    "word": "a",
+    "start": 177.88,
+    "end": 177.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 523,
+    "word": "escopeta",
+    "start": 177.98,
+    "end": 178.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 524,
+    "word": "no",
+    "start": 178.3,
+    "end": 178.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 525,
+    "word": "chão",
+    "start": 178.44,
+    "end": 178.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 526,
+    "word": "resolve",
+    "start": 178.62,
+    "end": 178.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 527,
+    "word": "a",
+    "start": 178.92,
+    "end": 179.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 528,
+    "word": "sua",
+    "start": 179.04,
+    "end": 179.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 529,
+    "word": "vida",
+    "start": 179.16,
+    "end": 179.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 530,
+    "word": "se",
+    "start": 179.44,
+    "end": 179.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 531,
+    "word": "você",
+    "start": 179.72,
+    "end": 179.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 532,
+    "word": "continuar",
+    "start": 179.94,
+    "end": 180.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 533,
+    "word": "atirando",
+    "start": 180.34,
+    "end": 180.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 534,
+    "word": "igual",
+    "start": 180.74,
+    "end": 180.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 535,
+    "word": "um",
+    "start": 180.98,
+    "end": 181.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 536,
+    "word": "boneco",
+    "start": 181.12,
+    "end": 181.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 537,
+    "word": "de",
+    "start": 181.38,
+    "end": 181.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 538,
+    "word": "posto.",
+    "start": 181.48,
+    "end": 181.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 539,
+    "word": "Olha",
+    "start": 181.9,
+    "end": 182.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 540,
+    "word": "o",
+    "start": 182.68,
+    "end": 182.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 541,
+    "word": "que",
+    "start": 182.76,
+    "end": 182.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 542,
+    "word": "acontece",
+    "start": 182.8,
+    "end": 183.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 543,
+    "word": "entre",
+    "start": 183.14,
+    "end": 183.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 544,
+    "word": "o",
+    "start": 183.42,
+    "end": 183.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 545,
+    "word": "minuto",
+    "start": 183.48,
+    "end": 183.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 546,
+    "word": "quatro",
+    "start": 183.72,
+    "end": 183.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 547,
+    "word": "e",
+    "start": 183.98,
+    "end": 184.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 548,
+    "word": "quarenta",
+    "start": 184.14,
+    "end": 184.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 549,
+    "word": "e",
+    "start": 184.34,
+    "end": 184.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 550,
+    "word": "o",
+    "start": 184.72,
+    "end": 184.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 551,
+    "word": "minuto",
+    "start": 184.8,
+    "end": 185.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 552,
+    "word": "cinco",
+    "start": 185.02,
+    "end": 185.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 553,
+    "word": "e",
+    "start": 185.28,
+    "end": 185.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 554,
+    "word": "cinquenta",
+    "start": 185.4,
+    "end": 185.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 555,
+    "word": "desse",
+    "start": 185.68,
+    "end": 186.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 556,
+    "word": "mesmo",
+    "start": 186.02,
+    "end": 186.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 557,
+    "word": "vídeo.",
+    "start": 186.24,
+    "end": 186.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 558,
+    "word": "São",
+    "start": 187.24,
+    "end": 187.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 559,
+    "word": "seis",
+    "start": 187.6,
+    "end": 187.887,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 560,
+    "word": "cartuchos",
+    "start": 187.887,
+    "end": 188.173,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 561,
+    "word": "no",
+    "start": 188.173,
+    "end": 188.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 562,
+    "word": "cano.",
+    "start": 188.46,
+    "end": 188.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 563,
+    "word": "Cada",
+    "start": 189.7,
+    "end": 189.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 564,
+    "word": "tiro",
+    "start": 189.96,
+    "end": 190.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 565,
+    "word": "levanta",
+    "start": 190.18,
+    "end": 190.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 566,
+    "word": "poeira",
+    "start": 190.6,
+    "end": 190.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 567,
+    "word": "do",
+    "start": 190.8,
+    "end": 190.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 568,
+    "word": "reboco,",
+    "start": 190.9,
+    "end": 191.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 569,
+    "word": "fumaça",
+    "start": 191.56,
+    "end": 192.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 570,
+    "word": "que",
+    "start": 192.02,
+    "end": 192.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 571,
+    "word": "tampa",
+    "start": 192.18,
+    "end": 192.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 572,
+    "word": "a",
+    "start": 192.4,
+    "end": 192.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 573,
+    "word": "visão",
+    "start": 192.48,
+    "end": 192.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 574,
+    "word": "do",
+    "start": 192.66,
+    "end": 192.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 575,
+    "word": "corredor",
+    "start": 192.78,
+    "end": 193.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 576,
+    "word": "e",
+    "start": 193.16,
+    "end": 193.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 577,
+    "word": "obriga",
+    "start": 193.68,
+    "end": 194.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 578,
+    "word": "o",
+    "start": 194.0,
+    "end": 194.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 579,
+    "word": "Jason",
+    "start": 194.1,
+    "end": 194.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 580,
+    "word": "a",
+    "start": 194.22,
+    "end": 194.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 581,
+    "word": "colar",
+    "start": 194.46,
+    "end": 194.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 582,
+    "word": "atrás",
+    "start": 194.72,
+    "end": 195.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 583,
+    "word": "de",
+    "start": 195.06,
+    "end": 195.233,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 584,
+    "word": "um",
+    "start": 195.233,
+    "end": 195.407,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 585,
+    "word": "colchão",
+    "start": 195.407,
+    "end": 195.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 586,
+    "word": "velho",
+    "start": 195.58,
+    "end": 195.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 587,
+    "word": "encostado",
+    "start": 195.8,
+    "end": 196.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 588,
+    "word": "na",
+    "start": 196.2,
+    "end": 196.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 589,
+    "word": "parede",
+    "start": 196.36,
+    "end": 197.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 590,
+    "word": "enquanto",
+    "start": 197.02,
+    "end": 197.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 591,
+    "word": "a",
+    "start": 197.42,
+    "end": 197.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 592,
+    "word": "Lucia",
+    "start": 197.58,
+    "end": 197.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 593,
+    "word": "fecha",
+    "start": 197.84,
+    "end": 198.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 594,
+    "word": "o",
+    "start": 198.1,
+    "end": 198.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 595,
+    "word": "ângulo",
+    "start": 198.36,
+    "end": 198.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 596,
+    "word": "do",
+    "start": 198.56,
+    "end": 198.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 597,
+    "word": "outro",
+    "start": 198.72,
+    "end": 198.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 598,
+    "word": "lado.",
+    "start": 198.86,
+    "end": 199.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 599,
+    "word": "Se",
+    "start": 199.94,
+    "end": 200.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 600,
+    "word": "você",
+    "start": 200.2,
+    "end": 200.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 601,
+    "word": "sair",
+    "start": 200.4,
+    "end": 200.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 602,
+    "word": "andando",
+    "start": 200.7,
+    "end": 200.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 603,
+    "word": "reto",
+    "start": 200.98,
+    "end": 201.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 604,
+    "word": "no",
+    "start": 201.36,
+    "end": 201.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 605,
+    "word": "meio",
+    "start": 201.48,
+    "end": 201.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 606,
+    "word": "do",
+    "start": 201.6,
+    "end": 201.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 607,
+    "word": "corredor",
+    "start": 201.7,
+    "end": 202.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 608,
+    "word": "confiando",
+    "start": 202.44,
+    "end": 202.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 609,
+    "word": "naquela",
+    "start": 202.82,
+    "end": 203.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 610,
+    "word": "mira",
+    "start": 203.12,
+    "end": 203.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 611,
+    "word": "automática",
+    "start": 203.44,
+    "end": 204.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 612,
+    "word": "de",
+    "start": 204.02,
+    "end": 204.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 613,
+    "word": "preguiçoso",
+    "start": 204.16,
+    "end": 204.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 614,
+    "word": "que",
+    "start": 204.6,
+    "end": 205.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 615,
+    "word": "grudava",
+    "start": 205.22,
+    "end": 205.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 616,
+    "word": "na",
+    "start": 205.56,
+    "end": 205.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 617,
+    "word": "cabeça",
+    "start": 205.72,
+    "end": 206.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 618,
+    "word": "de",
+    "start": 206.0,
+    "end": 206.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 619,
+    "word": "todo",
+    "start": 206.16,
+    "end": 206.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 620,
+    "word": "mundo",
+    "start": 206.32,
+    "end": 206.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 621,
+    "word": "em",
+    "start": 206.66,
+    "end": 206.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 622,
+    "word": "Los",
+    "start": 206.82,
+    "end": 206.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 623,
+    "word": "Santos,",
+    "start": 206.92,
+    "end": 207.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 624,
+    "word": "você",
+    "start": 207.16,
+    "end": 207.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 625,
+    "word": "vai",
+    "start": 207.6,
+    "end": 208.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 626,
+    "word": "voltar",
+    "start": 208.48,
+    "end": 208.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 627,
+    "word": "pro",
+    "start": 208.8,
+    "end": 209.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 628,
+    "word": "último",
+    "start": 209.02,
+    "end": 209.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 629,
+    "word": "salvamento",
+    "start": 209.16,
+    "end": 209.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 630,
+    "word": "mais",
+    "start": 209.66,
+    "end": 209.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 631,
+    "word": "rápido",
+    "start": 209.96,
+    "end": 210.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 632,
+    "word": "que",
+    "start": 210.32,
+    "end": 210.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 633,
+    "word": "promessa",
+    "start": 210.52,
+    "end": 210.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 634,
+    "word": "de",
+    "start": 210.82,
+    "end": 210.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 635,
+    "word": "dieta",
+    "start": 210.98,
+    "end": 211.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 636,
+    "word": "em",
+    "start": 211.28,
+    "end": 211.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 637,
+    "word": "janeiro.",
+    "start": 211.42,
+    "end": 211.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 638,
+    "word": "Repara",
+    "start": 212.4,
+    "end": 212.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 639,
+    "word": "no",
+    "start": 212.84,
+    "end": 212.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 640,
+    "word": "detalhe",
+    "start": 212.98,
+    "end": 213.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 641,
+    "word": "do",
+    "start": 213.36,
+    "end": 213.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 642,
+    "word": "minuto",
+    "start": 213.48,
+    "end": 213.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 643,
+    "word": "cinco",
+    "start": 213.74,
+    "end": 214.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 644,
+    "word": "e",
+    "start": 214.0,
+    "end": 214.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 645,
+    "word": "quarenta:",
+    "start": 214.12,
+    "end": 215.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 646,
+    "word": "você",
+    "start": 215.14,
+    "end": 215.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 647,
+    "word": "sai",
+    "start": 215.32,
+    "end": 215.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 648,
+    "word": "de",
+    "start": 215.5,
+    "end": 215.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 649,
+    "word": "um",
+    "start": 215.62,
+    "end": 215.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 650,
+    "word": "corredor",
+    "start": 215.68,
+    "end": 216.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 651,
+    "word": "estourado",
+    "start": 216.04,
+    "end": 216.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 652,
+    "word": "de",
+    "start": 216.62,
+    "end": 216.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 653,
+    "word": "lâmpada",
+    "start": 216.8,
+    "end": 217.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 654,
+    "word": "fluorescente",
+    "start": 217.12,
+    "end": 217.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 655,
+    "word": "e",
+    "start": 217.72,
+    "end": 218.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 656,
+    "word": "entra",
+    "start": 218.24,
+    "end": 218.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 657,
+    "word": "num",
+    "start": 218.42,
+    "end": 218.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 658,
+    "word": "apartamento",
+    "start": 218.56,
+    "end": 219.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 659,
+    "word": "no",
+    "start": 219.2,
+    "end": 219.26,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 660,
+    "word": "breu",
+    "start": 219.26,
+    "end": 219.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 661,
+    "word": "total,",
+    "start": 219.48,
+    "end": 219.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 662,
+    "word": "iluminado",
+    "start": 220.38,
+    "end": 220.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 663,
+    "word": "só",
+    "start": 220.82,
+    "end": 221.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 664,
+    "word": "por",
+    "start": 221.04,
+    "end": 221.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 665,
+    "word": "vela",
+    "start": 221.18,
+    "end": 221.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 666,
+    "word": "em",
+    "start": 221.46,
+    "end": 221.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 667,
+    "word": "cima",
+    "start": 221.56,
+    "end": 221.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 668,
+    "word": "da",
+    "start": 221.78,
+    "end": 221.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 669,
+    "word": "mesa,",
+    "start": 221.9,
+    "end": 222.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 670,
+    "word": "com",
+    "start": 222.16,
+    "end": 222.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 671,
+    "word": "gente",
+    "start": 222.78,
+    "end": 223.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 672,
+    "word": "escondida",
+    "start": 223.0,
+    "end": 223.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 673,
+    "word": "no",
+    "start": 223.5,
+    "end": 223.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 674,
+    "word": "canto",
+    "start": 223.66,
+    "end": 223.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 675,
+    "word": "da",
+    "start": 223.94,
+    "end": 224.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 676,
+    "word": "cozinha.",
+    "start": 224.04,
+    "end": 224.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 677,
+    "word": "A",
+    "start": 225.18,
+    "end": 225.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 678,
+    "word": "sua",
+    "start": 225.38,
+    "end": 225.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 679,
+    "word": "pupila",
+    "start": 225.46,
+    "end": 225.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 680,
+    "word": "no",
+    "start": 225.82,
+    "end": 225.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 681,
+    "word": "jogo",
+    "start": 225.96,
+    "end": 226.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 682,
+    "word": "leva",
+    "start": 226.16,
+    "end": 226.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 683,
+    "word": "um",
+    "start": 226.34,
+    "end": 226.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 684,
+    "word": "segundo",
+    "start": 226.48,
+    "end": 226.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 685,
+    "word": "pra",
+    "start": 226.88,
+    "end": 227.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 686,
+    "word": "acostumar",
+    "start": 227.08,
+    "end": 227.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 687,
+    "word": "com",
+    "start": 227.46,
+    "end": 227.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 688,
+    "word": "o",
+    "start": 227.6,
+    "end": 227.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 689,
+    "word": "escuro.",
+    "start": 227.64,
+    "end": 227.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 690,
+    "word": "Atirou",
+    "start": 228.5,
+    "end": 228.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 691,
+    "word": "no",
+    "start": 228.92,
+    "end": 229.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 692,
+    "word": "vulto",
+    "start": 229.04,
+    "end": 229.29,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 693,
+    "word": "errado",
+    "start": 229.29,
+    "end": 229.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 694,
+    "word": "ou",
+    "start": 229.54,
+    "end": 229.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 695,
+    "word": "demorou",
+    "start": 229.62,
+    "end": 229.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 696,
+    "word": "pra",
+    "start": 229.92,
+    "end": 230.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 697,
+    "word": "virar",
+    "start": 230.04,
+    "end": 230.26,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 698,
+    "word": "a",
+    "start": 230.26,
+    "end": 230.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 699,
+    "word": "câmera,",
+    "start": 230.32,
+    "end": 230.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 700,
+    "word": "já",
+    "start": 231.1,
+    "end": 231.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 701,
+    "word": "era.",
+    "start": 231.22,
+    "end": 231.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 702,
+    "word": "E",
+    "start": 231.42,
+    "end": 232.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 703,
+    "word": "essa",
+    "start": 232.3,
+    "end": 232.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 704,
+    "word": "física",
+    "start": 232.46,
+    "end": 232.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 705,
+    "word": "pesada",
+    "start": 232.7,
+    "end": 233.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 706,
+    "word": "vale",
+    "start": 233.16,
+    "end": 233.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 707,
+    "word": "pro",
+    "start": 233.4,
+    "end": 233.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 708,
+    "word": "jogo",
+    "start": 233.58,
+    "end": 233.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 709,
+    "word": "inteiro,",
+    "start": 233.72,
+    "end": 234.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 710,
+    "word": "do",
+    "start": 234.54,
+    "end": 234.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 711,
+    "word": "barraco",
+    "start": 234.7,
+    "end": 235.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 712,
+    "word": "até",
+    "start": 235.2,
+    "end": 235.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 713,
+    "word": "a",
+    "start": 235.54,
+    "end": 235.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 714,
+    "word": "cobertura",
+    "start": 235.62,
+    "end": 235.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 715,
+    "word": "de",
+    "start": 235.96,
+    "end": 236.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 716,
+    "word": "milionário.",
+    "start": 236.12,
+    "end": 236.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 717,
+    "word": "Mais",
+    "start": 237.38,
+    "end": 237.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 718,
+    "word": "pra",
+    "start": 237.86,
+    "end": 238.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 719,
+    "word": "frente",
+    "start": 238.0,
+    "end": 238.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 720,
+    "word": "no",
+    "start": 238.16,
+    "end": 238.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 721,
+    "word": "vídeo,",
+    "start": 238.3,
+    "end": 238.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 722,
+    "word": "lá",
+    "start": 238.54,
+    "end": 238.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 723,
+    "word": "no",
+    "start": 238.86,
+    "end": 238.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 724,
+    "word": "minuto",
+    "start": 239.14,
+    "end": 239.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 725,
+    "word": "vinte",
+    "start": 239.48,
+    "end": 239.893,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 726,
+    "word": "e",
+    "start": 239.893,
+    "end": 240.307,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 727,
+    "word": "quatro,",
+    "start": 240.307,
+    "end": 240.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 728,
+    "word": "o",
+    "start": 240.72,
+    "end": 240.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 729,
+    "word": "Jason",
+    "start": 240.82,
+    "end": 241.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 730,
+    "word": "invade",
+    "start": 241.06,
+    "end": 241.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 731,
+    "word": "um",
+    "start": 241.4,
+    "end": 241.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 732,
+    "word": "prédio",
+    "start": 241.54,
+    "end": 241.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 733,
+    "word": "comercial",
+    "start": 241.84,
+    "end": 241.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 734,
+    "word": "à",
+    "start": 241.98,
+    "end": 242.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 735,
+    "word": "noite",
+    "start": 242.38,
+    "end": 242.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 736,
+    "word": "de",
+    "start": 242.56,
+    "end": 242.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 737,
+    "word": "terno",
+    "start": 242.76,
+    "end": 243.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 738,
+    "word": "e",
+    "start": 243.16,
+    "end": 243.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 739,
+    "word": "pistola",
+    "start": 243.22,
+    "end": 243.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 740,
+    "word": "com",
+    "start": 243.54,
+    "end": 243.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 741,
+    "word": "silenciador.",
+    "start": 243.82,
+    "end": 244.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 742,
+    "word": "A",
+    "start": 245.04,
+    "end": 245.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 743,
+    "word": "Lucia",
+    "start": 245.28,
+    "end": 245.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 744,
+    "word": "manda",
+    "start": 245.46,
+    "end": 245.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 745,
+    "word": "mensagem",
+    "start": 245.64,
+    "end": 246.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 746,
+    "word": "no",
+    "start": 246.06,
+    "end": 246.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 747,
+    "word": "rádio",
+    "start": 246.22,
+    "end": 246.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 748,
+    "word": "avisando",
+    "start": 246.42,
+    "end": 246.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 749,
+    "word": "que",
+    "start": 246.72,
+    "end": 246.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 750,
+    "word": "tá",
+    "start": 246.88,
+    "end": 247.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 751,
+    "word": "cheio",
+    "start": 247.0,
+    "end": 247.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 752,
+    "word": "de",
+    "start": 247.24,
+    "end": 247.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 753,
+    "word": "segurança",
+    "start": 247.3,
+    "end": 247.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 754,
+    "word": "subindo.",
+    "start": 247.68,
+    "end": 248.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 755,
+    "word": "Você",
+    "start": 248.68,
+    "end": 248.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 756,
+    "word": "tem",
+    "start": 248.92,
+    "end": 249.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 757,
+    "word": "que",
+    "start": 249.1,
+    "end": 249.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 758,
+    "word": "apagar",
+    "start": 249.16,
+    "end": 249.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 759,
+    "word": "lâmpada,",
+    "start": 249.54,
+    "end": 249.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 760,
+    "word": "agachar",
+    "start": 250.18,
+    "end": 250.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 761,
+    "word": "atrás",
+    "start": 250.48,
+    "end": 250.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 762,
+    "word": "de",
+    "start": 250.7,
+    "end": 250.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 763,
+    "word": "impressora",
+    "start": 250.84,
+    "end": 251.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 764,
+    "word": "de",
+    "start": 251.22,
+    "end": 251.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 765,
+    "word": "escritório",
+    "start": 251.34,
+    "end": 251.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 766,
+    "word": "e,",
+    "start": 251.82,
+    "end": 252.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 767,
+    "word": "quando",
+    "start": 252.24,
+    "end": 252.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 768,
+    "word": "um",
+    "start": 252.38,
+    "end": 252.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 769,
+    "word": "guarda",
+    "start": 252.58,
+    "end": 252.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 770,
+    "word": "te",
+    "start": 252.84,
+    "end": 252.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 771,
+    "word": "pega",
+    "start": 252.92,
+    "end": 253.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 772,
+    "word": "de",
+    "start": 253.12,
+    "end": 253.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 773,
+    "word": "perto",
+    "start": 253.28,
+    "end": 253.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 774,
+    "word": "no",
+    "start": 253.58,
+    "end": 253.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 775,
+    "word": "minuto",
+    "start": 253.74,
+    "end": 254.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 776,
+    "word": "vinte",
+    "start": 254.02,
+    "end": 254.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 777,
+    "word": "e",
+    "start": 254.48,
+    "end": 254.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 778,
+    "word": "cinco",
+    "start": 254.6,
+    "end": 254.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 779,
+    "word": "e",
+    "start": 254.78,
+    "end": 254.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 780,
+    "word": "trinta,",
+    "start": 254.96,
+    "end": 255.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 781,
+    "word": "a",
+    "start": 255.14,
+    "end": 255.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 782,
+    "word": "briga",
+    "start": 255.56,
+    "end": 255.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 783,
+    "word": "vai",
+    "start": 255.76,
+    "end": 255.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 784,
+    "word": "pro",
+    "start": 255.9,
+    "end": 256.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 785,
+    "word": "tapete",
+    "start": 256.04,
+    "end": 256.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 786,
+    "word": "no",
+    "start": 256.28,
+    "end": 256.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 787,
+    "word": "braço,",
+    "start": 256.52,
+    "end": 256.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 788,
+    "word": "disputando",
+    "start": 257.12,
+    "end": 257.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 789,
+    "word": "o",
+    "start": 257.62,
+    "end": 257.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 790,
+    "word": "pescoço",
+    "start": 257.72,
+    "end": 258.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 791,
+    "word": "do",
+    "start": 258.06,
+    "end": 258.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 792,
+    "word": "cara",
+    "start": 258.18,
+    "end": 258.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 793,
+    "word": "no",
+    "start": 258.36,
+    "end": 258.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 794,
+    "word": "botão.",
+    "start": 258.5,
+    "end": 258.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 795,
+    "word": "Tá",
+    "start": 259.58,
+    "end": 260.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 796,
+    "word": "entendendo",
+    "start": 260.06,
+    "end": 260.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 797,
+    "word": "por",
+    "start": 260.46,
+    "end": 260.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 798,
+    "word": "que",
+    "start": 260.74,
+    "end": 260.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 799,
+    "word": "o",
+    "start": 260.84,
+    "end": 261.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 800,
+    "word": "sujeito",
+    "start": 261.0,
+    "end": 261.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 801,
+    "word": "que",
+    "start": 261.34,
+    "end": 261.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 802,
+    "word": "já",
+    "start": 261.48,
+    "end": 261.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 803,
+    "word": "deixou",
+    "start": 261.82,
+    "end": 262.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 804,
+    "word": "o",
+    "start": 262.04,
+    "end": 262.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 805,
+    "word": "atestado",
+    "start": 262.3,
+    "end": 262.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 806,
+    "word": "médico",
+    "start": 262.56,
+    "end": 262.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 807,
+    "word": "falso",
+    "start": 262.74,
+    "end": 263.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 808,
+    "word": "engatilhado",
+    "start": 263.12,
+    "end": 263.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 809,
+    "word": "pro",
+    "start": 263.6,
+    "end": 263.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 810,
+    "word": "dia",
+    "start": 263.8,
+    "end": 264.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 811,
+    "word": "dezenove",
+    "start": 264.18,
+    "end": 264.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 812,
+    "word": "vai",
+    "start": 264.58,
+    "end": 265.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 813,
+    "word": "passar",
+    "start": 265.38,
+    "end": 265.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 814,
+    "word": "raiva",
+    "start": 265.84,
+    "end": 266.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 815,
+    "word": "nas",
+    "start": 266.02,
+    "end": 266.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 816,
+    "word": "primeiras",
+    "start": 266.18,
+    "end": 266.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 817,
+    "word": "duas",
+    "start": 266.52,
+    "end": 266.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 818,
+    "word": "horas?",
+    "start": 266.7,
+    "end": 267.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 819,
+    "word": "O",
+    "start": 268.16,
+    "end": 268.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 820,
+    "word": "jogo",
+    "start": 268.64,
+    "end": 268.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 821,
+    "word": "inteiro",
+    "start": 268.82,
+    "end": 269.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 822,
+    "word": "foi",
+    "start": 269.1,
+    "end": 269.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 823,
+    "word": "desenhado",
+    "start": 269.32,
+    "end": 269.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 824,
+    "word": "pra",
+    "start": 269.74,
+    "end": 269.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 825,
+    "word": "punir",
+    "start": 269.9,
+    "end": 270.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 826,
+    "word": "quem",
+    "start": 270.2,
+    "end": 270.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 827,
+    "word": "age",
+    "start": 270.34,
+    "end": 270.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 828,
+    "word": "sem",
+    "start": 270.54,
+    "end": 270.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 829,
+    "word": "ler",
+    "start": 270.76,
+    "end": 270.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 830,
+    "word": "o",
+    "start": 270.96,
+    "end": 271.41,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 831,
+    "word": "ambiente.",
+    "start": 271.41,
+    "end": 271.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 832,
+    "word": "E",
+    "start": 271.86,
+    "end": 272.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 833,
+    "word": "nenhum",
+    "start": 272.2,
+    "end": 272.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 834,
+    "word": "momento",
+    "start": 272.3,
+    "end": 272.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 835,
+    "word": "prova",
+    "start": 272.58,
+    "end": 272.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 836,
+    "word": "isso",
+    "start": 272.8,
+    "end": 273.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 837,
+    "word": "melhor",
+    "start": 273.02,
+    "end": 273.26,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 838,
+    "word": "do",
+    "start": 273.26,
+    "end": 273.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 839,
+    "word": "que",
+    "start": 273.4,
+    "end": 273.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 840,
+    "word": "o",
+    "start": 273.52,
+    "end": 273.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 841,
+    "word": "comando",
+    "start": 273.58,
+    "end": 273.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 842,
+    "word": "na",
+    "start": 273.98,
+    "end": 274.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 843,
+    "word": "porta",
+    "start": 274.12,
+    "end": 274.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 844,
+    "word": "daquele",
+    "start": 274.48,
+    "end": 274.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 845,
+    "word": "carro",
+    "start": 274.8,
+    "end": 275.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 846,
+    "word": "vermelho",
+    "start": 275.04,
+    "end": 275.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 847,
+    "word": "que",
+    "start": 275.5,
+    "end": 275.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 848,
+    "word": "eu",
+    "start": 275.62,
+    "end": 275.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 849,
+    "word": "te",
+    "start": 275.7,
+    "end": 275.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 850,
+    "word": "mostrei",
+    "start": 275.76,
+    "end": 276.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 851,
+    "word": "lá",
+    "start": 276.14,
+    "end": 276.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 852,
+    "word": "no",
+    "start": 276.36,
+    "end": 276.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 853,
+    "word": "começo.",
+    "start": 276.46,
+    "end": 276.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 854,
+    "word": "Volta",
+    "start": 277.74,
+    "end": 278.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 855,
+    "word": "pro",
+    "start": 278.22,
+    "end": 278.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 856,
+    "word": "minuto",
+    "start": 278.34,
+    "end": 278.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 857,
+    "word": "seis",
+    "start": 278.62,
+    "end": 278.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 858,
+    "word": "e",
+    "start": 278.86,
+    "end": 279.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 859,
+    "word": "dez",
+    "start": 279.0,
+    "end": 279.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 860,
+    "word": "do",
+    "start": 279.16,
+    "end": 279.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 861,
+    "word": "gameplay.",
+    "start": 279.3,
+    "end": 279.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 862,
+    "word": "Você",
+    "start": 280.72,
+    "end": 281.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 863,
+    "word": "acabou",
+    "start": 281.2,
+    "end": 281.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 864,
+    "word": "de",
+    "start": 281.46,
+    "end": 281.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 865,
+    "word": "sobreviver",
+    "start": 281.62,
+    "end": 282.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 866,
+    "word": "ao",
+    "start": 282.06,
+    "end": 282.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 867,
+    "word": "tiroteio",
+    "start": 282.2,
+    "end": 282.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 868,
+    "word": "no",
+    "start": 282.54,
+    "end": 282.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 869,
+    "word": "prédio,",
+    "start": 282.62,
+    "end": 282.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 870,
+    "word": "tá",
+    "start": 283.34,
+    "end": 283.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 871,
+    "word": "com",
+    "start": 283.66,
+    "end": 283.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 872,
+    "word": "o",
+    "start": 283.84,
+    "end": 284.01,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 873,
+    "word": "malote",
+    "start": 284.01,
+    "end": 284.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 874,
+    "word": "vermelho",
+    "start": 284.18,
+    "end": 284.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 875,
+    "word": "cheio",
+    "start": 284.5,
+    "end": 284.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 876,
+    "word": "nas",
+    "start": 284.8,
+    "end": 284.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 877,
+    "word": "costas",
+    "start": 284.92,
+    "end": 285.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 878,
+    "word": "e",
+    "start": 285.38,
+    "end": 285.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 879,
+    "word": "corre",
+    "start": 285.74,
+    "end": 285.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 880,
+    "word": "pro",
+    "start": 285.92,
+    "end": 286.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 881,
+    "word": "estacionamento",
+    "start": 286.08,
+    "end": 286.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 882,
+    "word": "pra",
+    "start": 286.6,
+    "end": 286.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 883,
+    "word": "dar",
+    "start": 286.84,
+    "end": 287.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 884,
+    "word": "no",
+    "start": 287.04,
+    "end": 287.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 885,
+    "word": "pé.",
+    "start": 287.14,
+    "end": 287.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 886,
+    "word": "Quando",
+    "start": 287.98,
+    "end": 288.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 887,
+    "word": "você",
+    "start": 288.48,
+    "end": 288.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 888,
+    "word": "encosta",
+    "start": 288.72,
+    "end": 289.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 889,
+    "word": "naquele",
+    "start": 289.04,
+    "end": 289.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 890,
+    "word": "carro",
+    "start": 289.36,
+    "end": 289.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 891,
+    "word": "vermelho",
+    "start": 289.58,
+    "end": 289.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 892,
+    "word": "estacionado,",
+    "start": 289.94,
+    "end": 290.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 893,
+    "word": "o",
+    "start": 291.08,
+    "end": 291.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 894,
+    "word": "jogo",
+    "start": 291.12,
+    "end": 291.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 895,
+    "word": "não",
+    "start": 291.28,
+    "end": 291.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 896,
+    "word": "quebra",
+    "start": 291.44,
+    "end": 291.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 897,
+    "word": "o",
+    "start": 291.76,
+    "end": 291.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 898,
+    "word": "vidro",
+    "start": 291.86,
+    "end": 292.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 899,
+    "word": "sozinho",
+    "start": 292.02,
+    "end": 292.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 900,
+    "word": "igual",
+    "start": 292.56,
+    "end": 292.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 901,
+    "word": "em",
+    "start": 292.76,
+    "end": 292.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 902,
+    "word": "dois",
+    "start": 292.92,
+    "end": 293.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 903,
+    "word": "mil",
+    "start": 293.18,
+    "end": 293.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 904,
+    "word": "e",
+    "start": 293.44,
+    "end": 293.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 905,
+    "word": "treze.",
+    "start": 293.7,
+    "end": 293.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 906,
+    "word": "Ele",
+    "start": 293.96,
+    "end": 294.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 907,
+    "word": "abre",
+    "start": 294.24,
+    "end": 294.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 908,
+    "word": "duas",
+    "start": 294.42,
+    "end": 294.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 909,
+    "word": "opções",
+    "start": 294.7,
+    "end": 295.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 910,
+    "word": "na",
+    "start": 295.02,
+    "end": 295.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 911,
+    "word": "sua",
+    "start": 295.16,
+    "end": 295.26,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 912,
+    "word": "cara:",
+    "start": 295.26,
+    "end": 295.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 913,
+    "word": "apertar",
+    "start": 296.24,
+    "end": 296.86,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 914,
+    "word": "círculo",
+    "start": 296.86,
+    "end": 297.5,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 915,
+    "word": "no",
+    "start": 297.5,
+    "end": 297.78,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 916,
+    "word": "Smash",
+    "start": 297.78,
+    "end": 297.98,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 917,
+    "word": "Window,",
+    "start": 297.98,
+    "end": 299.12,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 918,
+    "word": "pra",
+    "start": 299.12,
+    "end": 299.15,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 919,
+    "word": "estourar",
+    "start": 299.12,
+    "end": 299.54,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 920,
+    "word": "a",
+    "start": 299.54,
+    "end": 299.6,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 921,
+    "word": "janela",
+    "start": 299.6,
+    "end": 299.82,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 922,
+    "word": "no",
+    "start": 299.82,
+    "end": 299.96,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 923,
+    "word": "braço,",
+    "start": 299.96,
+    "end": 300.4,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 924,
+    "word": "ou",
+    "start": 300.76,
+    "end": 301.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 925,
+    "word": "apertar",
+    "start": 301.14,
+    "end": 301.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 926,
+    "word": "triângulo",
+    "start": 301.46,
+    "end": 301.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 927,
+    "word": "no",
+    "start": 301.94,
+    "end": 302.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 928,
+    "word": "Slim",
+    "start": 302.16,
+    "end": 302.57,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 929,
+    "word": "Jim,",
+    "start": 302.57,
+    "end": 302.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 930,
+    "word": "que",
+    "start": 302.98,
+    "end": 303.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 931,
+    "word": "é",
+    "start": 303.14,
+    "end": 303.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 932,
+    "word": "aquela",
+    "start": 303.2,
+    "end": 303.36,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 933,
+    "word": "régua",
+    "start": 303.36,
+    "end": 303.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 934,
+    "word": "metálica",
+    "start": 303.6,
+    "end": 304.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 935,
+    "word": "que",
+    "start": 304.0,
+    "end": 304.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 936,
+    "word": "passa",
+    "start": 304.18,
+    "end": 304.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 937,
+    "word": "por",
+    "start": 304.48,
+    "end": 304.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 938,
+    "word": "dentro",
+    "start": 304.72,
+    "end": 304.9,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 939,
+    "word": "da",
+    "start": 304.9,
+    "end": 305.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 940,
+    "word": "borracha",
+    "start": 305.08,
+    "end": 305.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 941,
+    "word": "da",
+    "start": 305.34,
+    "end": 305.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 942,
+    "word": "porta",
+    "start": 305.5,
+    "end": 305.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 943,
+    "word": "pra",
+    "start": 305.76,
+    "end": 306.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 944,
+    "word": "puxar",
+    "start": 306.02,
+    "end": 306.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 945,
+    "word": "a",
+    "start": 306.54,
+    "end": 306.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 946,
+    "word": "trava",
+    "start": 306.66,
+    "end": 306.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 947,
+    "word": "sem",
+    "start": 306.78,
+    "end": 306.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 948,
+    "word": "fazer",
+    "start": 306.96,
+    "end": 307.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 949,
+    "word": "barulho.",
+    "start": 307.16,
+    "end": 307.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 950,
+    "word": "Pensou",
+    "start": 308.36,
+    "end": 308.8,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 951,
+    "word": "com",
+    "start": 308.8,
+    "end": 308.9,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 952,
+    "word": "a",
+    "start": 308.9,
+    "end": 308.94,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 953,
+    "word": "cabeça",
+    "start": 308.94,
+    "end": 309.2,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 954,
+    "word": "do",
+    "start": 309.2,
+    "end": 309.34,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 955,
+    "word": "GTA",
+    "start": 309.34,
+    "end": 309.5,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 956,
+    "word": "cinco",
+    "start": 309.5,
+    "end": 309.96,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 957,
+    "word": "e",
+    "start": 309.96,
+    "end": 310.14,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 958,
+    "word": "meteu",
+    "start": 310.14,
+    "end": 310.52,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 959,
+    "word": "a",
+    "start": 310.52,
+    "end": 310.56,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 960,
+    "word": "mão",
+    "start": 310.56,
+    "end": 310.7,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 961,
+    "word": "no",
+    "start": 310.7,
+    "end": 310.8,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 962,
+    "word": "círculo?",
+    "start": 310.8,
+    "end": 311.16,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 963,
+    "word": "Você",
+    "start": 312.44,
+    "end": 312.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 964,
+    "word": "estoura",
+    "start": 312.96,
+    "end": 313.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 965,
+    "word": "o",
+    "start": 313.4,
+    "end": 313.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 966,
+    "word": "vidro",
+    "start": 313.44,
+    "end": 313.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 967,
+    "word": "no",
+    "start": 313.72,
+    "end": 313.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 968,
+    "word": "meio",
+    "start": 313.84,
+    "end": 314.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 969,
+    "word": "de",
+    "start": 314.22,
+    "end": 314.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 970,
+    "word": "um",
+    "start": 314.5,
+    "end": 314.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 971,
+    "word": "estacionamento",
+    "start": 314.54,
+    "end": 315.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 972,
+    "word": "cheio",
+    "start": 315.06,
+    "end": 315.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 973,
+    "word": "de",
+    "start": 315.62,
+    "end": 315.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 974,
+    "word": "testemunha,",
+    "start": 315.8,
+    "end": 316.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 975,
+    "word": "dispara",
+    "start": 316.92,
+    "end": 317.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 976,
+    "word": "a",
+    "start": 317.42,
+    "end": 317.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 977,
+    "word": "buzina",
+    "start": 317.54,
+    "end": 317.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 978,
+    "word": "do",
+    "start": 317.74,
+    "end": 317.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 979,
+    "word": "carro",
+    "start": 317.88,
+    "end": 318.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 980,
+    "word": "e",
+    "start": 318.2,
+    "end": 318.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 981,
+    "word": "entrega",
+    "start": 318.54,
+    "end": 318.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 982,
+    "word": "a",
+    "start": 318.82,
+    "end": 318.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 983,
+    "word": "sua",
+    "start": 318.82,
+    "end": 319.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 984,
+    "word": "placa",
+    "start": 319.02,
+    "end": 319.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 985,
+    "word": "e",
+    "start": 319.52,
+    "end": 319.94,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 986,
+    "word": "a",
+    "start": 319.94,
+    "end": 319.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 987,
+    "word": "sua",
+    "start": 319.94,
+    "end": 320.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 988,
+    "word": "direção",
+    "start": 320.14,
+    "end": 320.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 989,
+    "word": "pra",
+    "start": 320.54,
+    "end": 320.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 990,
+    "word": "polícia",
+    "start": 320.78,
+    "end": 321.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 991,
+    "word": "antes",
+    "start": 321.08,
+    "end": 321.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 992,
+    "word": "mesmo",
+    "start": 321.38,
+    "end": 321.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 993,
+    "word": "de",
+    "start": 321.72,
+    "end": 321.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 994,
+    "word": "engatar",
+    "start": 321.84,
+    "end": 322.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 995,
+    "word": "a",
+    "start": 322.04,
+    "end": 322.2,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 996,
+    "word": "primeira",
+    "start": 322.2,
+    "end": 322.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 997,
+    "word": "marcha.",
+    "start": 322.38,
+    "end": 323.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 998,
+    "word": "Usou",
+    "start": 324.14,
+    "end": 324.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 999,
+    "word": "o",
+    "start": 324.66,
+    "end": 324.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1000,
+    "word": "Slim",
+    "start": 324.76,
+    "end": 324.95,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1001,
+    "word": "Jim",
+    "start": 324.95,
+    "end": 325.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1002,
+    "word": "no",
+    "start": 325.14,
+    "end": 325.28,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1003,
+    "word": "triângulo?",
+    "start": 325.28,
+    "end": 325.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1004,
+    "word": "Você",
+    "start": 326.54,
+    "end": 326.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1005,
+    "word": "perde",
+    "start": 326.66,
+    "end": 326.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1006,
+    "word": "três",
+    "start": 326.8,
+    "end": 327.06,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1007,
+    "word": "segundos",
+    "start": 327.06,
+    "end": 327.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1008,
+    "word": "na",
+    "start": 327.32,
+    "end": 327.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1009,
+    "word": "porta,",
+    "start": 327.48,
+    "end": 327.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1010,
+    "word": "mas",
+    "start": 328.24,
+    "end": 328.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1011,
+    "word": "sai",
+    "start": 328.4,
+    "end": 328.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1012,
+    "word": "do",
+    "start": 328.64,
+    "end": 328.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1013,
+    "word": "estacionamento",
+    "start": 328.76,
+    "end": 329.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1014,
+    "word": "inteiro,",
+    "start": 329.22,
+    "end": 329.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1015,
+    "word": "de",
+    "start": 330.28,
+    "end": 330.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1016,
+    "word": "vidro",
+    "start": 330.42,
+    "end": 330.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1017,
+    "word": "fechado",
+    "start": 330.62,
+    "end": 331.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1018,
+    "word": "e",
+    "start": 331.16,
+    "end": 331.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1019,
+    "word": "sem",
+    "start": 331.64,
+    "end": 331.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1020,
+    "word": "nenhuma",
+    "start": 331.78,
+    "end": 332.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1021,
+    "word": "viatura",
+    "start": 332.04,
+    "end": 332.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1022,
+    "word": "na",
+    "start": 332.38,
+    "end": 332.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1023,
+    "word": "sua",
+    "start": 332.58,
+    "end": 332.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1024,
+    "word": "cola.",
+    "start": 332.72,
+    "end": 332.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1025,
+    "word": "No",
+    "start": 333.74,
+    "end": 334.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1026,
+    "word": "primeiro",
+    "start": 334.18,
+    "end": 334.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1027,
+    "word": "dia",
+    "start": 334.4,
+    "end": 334.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1028,
+    "word": "de",
+    "start": 334.62,
+    "end": 334.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1029,
+    "word": "jogo,",
+    "start": 334.74,
+    "end": 334.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1030,
+    "word": "gravar",
+    "start": 334.96,
+    "end": 335.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1031,
+    "word": "essa",
+    "start": 335.32,
+    "end": 335.52,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1032,
+    "word": "regra",
+    "start": 335.52,
+    "end": 335.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1033,
+    "word": "já",
+    "start": 335.92,
+    "end": 336.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1034,
+    "word": "salva",
+    "start": 336.22,
+    "end": 336.46,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1035,
+    "word": "a",
+    "start": 336.46,
+    "end": 336.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1036,
+    "word": "sua",
+    "start": 336.6,
+    "end": 336.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1037,
+    "word": "pele:",
+    "start": 336.6,
+    "end": 336.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1038,
+    "word": "círculo",
+    "start": 337.52,
+    "end": 337.96,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 1039,
+    "word": "é",
+    "start": 337.96,
+    "end": 338.2,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 1040,
+    "word": "pra",
+    "start": 338.2,
+    "end": 338.36,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 1041,
+    "word": "quando",
+    "start": 338.36,
+    "end": 338.54,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 1042,
+    "word": "a",
+    "start": 338.54,
+    "end": 338.68,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 1043,
+    "word": "rua",
+    "start": 338.68,
+    "end": 338.84,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 1044,
+    "word": "já",
+    "start": 338.84,
+    "end": 338.96,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 1045,
+    "word": "tá",
+    "start": 338.96,
+    "end": 339.06,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 1046,
+    "word": "pegando",
+    "start": 339.06,
+    "end": 339.32,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 1047,
+    "word": "fogo;",
+    "start": 339.32,
+    "end": 339.7,
+    "alignment": "patch_asr"
+  },
+  {
+    "index": 1048,
+    "word": "triângulo",
+    "start": 340.44,
+    "end": 340.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1049,
+    "word": "é",
+    "start": 340.92,
+    "end": 341.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1050,
+    "word": "pra",
+    "start": 341.1,
+    "end": 341.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1051,
+    "word": "quando",
+    "start": 341.24,
+    "end": 341.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1052,
+    "word": "você",
+    "start": 341.42,
+    "end": 341.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1053,
+    "word": "quer",
+    "start": 341.66,
+    "end": 341.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1054,
+    "word": "sair",
+    "start": 341.86,
+    "end": 342.1,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1055,
+    "word": "vivo",
+    "start": 342.1,
+    "end": 342.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1056,
+    "word": "sem",
+    "start": 342.48,
+    "end": 342.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1057,
+    "word": "chamar",
+    "start": 342.7,
+    "end": 343.04,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1058,
+    "word": "a",
+    "start": 343.04,
+    "end": 343.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1059,
+    "word": "cavalaria.",
+    "start": 343.14,
+    "end": 343.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1060,
+    "word": "E",
+    "start": 344.64,
+    "end": 345.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1061,
+    "word": "pra",
+    "start": 345.12,
+    "end": 345.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1062,
+    "word": "caber",
+    "start": 345.22,
+    "end": 345.48,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1063,
+    "word": "um",
+    "start": 345.48,
+    "end": 345.6,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1064,
+    "word": "mundo",
+    "start": 345.6,
+    "end": 345.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1065,
+    "word": "onde",
+    "start": 345.76,
+    "end": 346.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1066,
+    "word": "cada",
+    "start": 346.0,
+    "end": 346.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1067,
+    "word": "porta",
+    "start": 346.34,
+    "end": 346.7,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1068,
+    "word": "de",
+    "start": 346.7,
+    "end": 347.17,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1069,
+    "word": "apartamento,",
+    "start": 347.17,
+    "end": 347.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1070,
+    "word": "cada",
+    "start": 347.64,
+    "end": 347.82,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1071,
+    "word": "arma",
+    "start": 347.82,
+    "end": 348.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1072,
+    "word": "no",
+    "start": 348.14,
+    "end": 348.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1073,
+    "word": "chão",
+    "start": 348.32,
+    "end": 348.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1074,
+    "word": "e",
+    "start": 348.64,
+    "end": 349.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1075,
+    "word": "cada",
+    "start": 349.14,
+    "end": 349.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1076,
+    "word": "fechadura",
+    "start": 349.3,
+    "end": 349.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1077,
+    "word": "de",
+    "start": 349.78,
+    "end": 350.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1078,
+    "word": "carro",
+    "start": 350.02,
+    "end": 350.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1079,
+    "word": "funciona",
+    "start": 350.24,
+    "end": 350.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1080,
+    "word": "desse",
+    "start": 350.62,
+    "end": 350.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1081,
+    "word": "jeito,",
+    "start": 350.88,
+    "end": 351.24,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1082,
+    "word": "o",
+    "start": 351.82,
+    "end": 351.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1083,
+    "word": "seu",
+    "start": 351.92,
+    "end": 352.0,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1084,
+    "word": "console",
+    "start": 352.0,
+    "end": 352.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1085,
+    "word": "vai",
+    "start": 352.34,
+    "end": 352.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1086,
+    "word": "ter",
+    "start": 352.56,
+    "end": 352.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1087,
+    "word": "que",
+    "start": 352.74,
+    "end": 352.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1088,
+    "word": "engolir",
+    "start": 352.88,
+    "end": 353.22,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1089,
+    "word": "duzentos",
+    "start": 353.22,
+    "end": 353.455,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1090,
+    "word": "e",
+    "start": 353.455,
+    "end": 353.69,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1091,
+    "word": "doze",
+    "start": 353.69,
+    "end": 353.925,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1092,
+    "word": "gigas",
+    "start": 353.925,
+    "end": 354.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1093,
+    "word": "a",
+    "start": 354.16,
+    "end": 354.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1094,
+    "word": "partir",
+    "start": 354.38,
+    "end": 354.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1095,
+    "word": "de",
+    "start": 354.54,
+    "end": 354.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1096,
+    "word": "hoje.",
+    "start": 354.72,
+    "end": 354.96,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1097,
+    "word": "No",
+    "start": 355.96,
+    "end": 356.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1098,
+    "word": "próximo",
+    "start": 356.44,
+    "end": 356.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1099,
+    "word": "vídeo,",
+    "start": 356.68,
+    "end": 357.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1100,
+    "word": "no",
+    "start": 357.28,
+    "end": 357.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1101,
+    "word": "especial",
+    "start": 357.34,
+    "end": 357.66,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1102,
+    "word": "do",
+    "start": 357.66,
+    "end": 357.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1103,
+    "word": "pré-load,",
+    "start": 357.8,
+    "end": 358.62,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1104,
+    "word": "eu",
+    "start": 358.62,
+    "end": 358.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1105,
+    "word": "vou",
+    "start": 358.74,
+    "end": 358.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1106,
+    "word": "abrir",
+    "start": 358.88,
+    "end": 359.08,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1107,
+    "word": "a",
+    "start": 359.08,
+    "end": 359.18,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1108,
+    "word": "caixa-preta",
+    "start": 359.18,
+    "end": 359.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1109,
+    "word": "desses",
+    "start": 359.72,
+    "end": 359.88,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1110,
+    "word": "duzentos",
+    "start": 359.88,
+    "end": 360.125,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1111,
+    "word": "e",
+    "start": 360.125,
+    "end": 360.37,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1112,
+    "word": "doze",
+    "start": 360.37,
+    "end": 360.615,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1113,
+    "word": "gigas",
+    "start": 360.615,
+    "end": 360.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1114,
+    "word": "e",
+    "start": 360.86,
+    "end": 361.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1115,
+    "word": "te",
+    "start": 361.44,
+    "end": 361.5,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1116,
+    "word": "mostrar",
+    "start": 361.5,
+    "end": 361.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1117,
+    "word": "o",
+    "start": 361.78,
+    "end": 361.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1118,
+    "word": "que",
+    "start": 361.98,
+    "end": 362.02,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1119,
+    "word": "esse",
+    "start": 362.02,
+    "end": 362.16,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1120,
+    "word": "tamanho",
+    "start": 362.16,
+    "end": 362.4,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1121,
+    "word": "absurdo",
+    "start": 362.4,
+    "end": 363.12,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1122,
+    "word": "esconde",
+    "start": 363.12,
+    "end": 363.42,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1123,
+    "word": "sobre",
+    "start": 363.42,
+    "end": 363.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1124,
+    "word": "o",
+    "start": 363.72,
+    "end": 363.84,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1125,
+    "word": "verdadeiro",
+    "start": 363.84,
+    "end": 364.26,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1126,
+    "word": "mapa",
+    "start": 364.26,
+    "end": 364.58,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1127,
+    "word": "de",
+    "start": 364.58,
+    "end": 364.76,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1128,
+    "word": "Leonida.",
+    "start": 364.76,
+    "end": 366.3,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1129,
+    "word": "Então",
+    "start": 366.3,
+    "end": 366.74,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1130,
+    "word": "já",
+    "start": 367.38,
+    "end": 367.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1131,
+    "word": "se",
+    "start": 367.68,
+    "end": 367.72,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1132,
+    "word": "inscreve",
+    "start": 367.72,
+    "end": 367.98,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1133,
+    "word": "nessa",
+    "start": 367.98,
+    "end": 368.14,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1134,
+    "word": "porra",
+    "start": 368.14,
+    "end": 368.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1135,
+    "word": "e",
+    "start": 368.54,
+    "end": 368.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1136,
+    "word": "ativa",
+    "start": 368.56,
+    "end": 368.78,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1137,
+    "word": "a",
+    "start": 368.78,
+    "end": 368.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1138,
+    "word": "notificação",
+    "start": 368.86,
+    "end": 369.38,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1139,
+    "word": "pra",
+    "start": 369.38,
+    "end": 369.54,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1140,
+    "word": "não",
+    "start": 369.54,
+    "end": 369.64,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1141,
+    "word": "ficar",
+    "start": 369.64,
+    "end": 369.8,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1142,
+    "word": "boiando",
+    "start": 369.8,
+    "end": 370.34,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1143,
+    "word": "quando",
+    "start": 370.34,
+    "end": 370.68,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1144,
+    "word": "o",
+    "start": 370.68,
+    "end": 370.86,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1145,
+    "word": "jogo",
+    "start": 370.86,
+    "end": 370.92,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1146,
+    "word": "destravar",
+    "start": 370.92,
+    "end": 371.32,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1147,
+    "word": "no",
+    "start": 371.32,
+    "end": 371.44,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1148,
+    "word": "dia",
+    "start": 371.44,
+    "end": 371.56,
+    "alignment": "base_asr_preserved"
+  },
+  {
+    "index": 1149,
+    "word": "dezenove.",
+    "start": 371.56,
+    "end": 372.26,
+    "alignment": "base_asr_preserved"
+  }
+]

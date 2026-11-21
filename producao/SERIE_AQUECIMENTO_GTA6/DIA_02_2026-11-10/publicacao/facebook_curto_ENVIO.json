@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-11T18:55:00.744598+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "O pré-load do GTA 6 pede até 212 GB. Dois erros que podem te custar a noite de estreia: baixar no HD externo USB e deixar o SSD sem folga. Análise das imagens do gameplay oficial. Lançamento: 19/11/2026. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/dd1f651b2a94461c83d205f1475f301a.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: 2 erros do pré-load de 212 GB #shorts"
+      }
+    }
+  ]
+}

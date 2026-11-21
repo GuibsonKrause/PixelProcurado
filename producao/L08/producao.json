@@ -1,0 +1,99 @@
+{
+  "id": "L08",
+  "formato": "longo_e_short",
+  "roteiro_origem": {
+    "longo": "producao/L08/01_NARRACAO.txt",
+    "short": "producao/shorts/L08/NARRACAO.txt"
+  },
+  "etapa_atual": "concluido",
+  "status": "aprovado",
+  "data_criacao": "2026-11-07T21:15:00-03:00",
+  "agendamento_alvo": "2026-11-08T18:00:00-03:00",
+  "etapas": {
+    "narracao_longo": {
+      "status": "validado",
+      "roteiro_gemini": "producao/L08/03_NARRACAO_GEMINI.txt",
+      "estilo": "producao/L08/04_ESTILO_GEMINI.txt",
+      "saida_bruta": "producao/L08/voz/03_NARRACAO_narracao.wav",
+      "saida_normalizada": "producao/L08/voz/narracao_normalizada.wav",
+      "alinhamento_palavras": "producao/L08/voz/alinhamento_palavras.json",
+      "duracao_s": 335.8,
+      "lufs": -16.0,
+      "true_peak_dbtp": -1.5
+    },
+    "narracao_short": {
+      "status": "validado",
+      "roteiro_gemini": "producao/shorts/L08/GEMINI.txt",
+      "estilo": "producao/shorts/L08/ESTILO_GEMINI.txt",
+      "saida_bruta": "producao/shorts/L08/voz/GEMINI_narracao.wav",
+      "saida_normalizada": "producao/shorts/L08/voz/narracao_normalizada.wav",
+      "alinhamento_palavras": "producao/shorts/L08/voz/alinhamento_palavras.json",
+      "duracao_s": 46.3,
+      "lufs": -16.0,
+      "true_peak_dbtp": -1.5
+    },
+    "montagem_v2_longo": {
+      "status": "validado",
+      "mp4": "producao/L08/exportacoes/Pixel_Procurado_L08_Longo_V2.mp4",
+      "srt": "producao/L08/exportacoes/Pixel_Procurado_L08_Longo_V2.srt",
+      "quadros": 20148,
+      "fps": 60.0,
+      "duracao_s": 335.8,
+      "lufs": -16.6,
+      "true_peak_dbfs": -1.3,
+      "intervalos_pretos": 0,
+      "folha_contato": "producao/L08/montagem/long_v2_qa.jpg"
+    },
+    "montagem_v2_short": {
+      "status": "validado",
+      "mp4": "producao/L08/exportacoes/Pixel_Procurado_L08_Short_V2.mp4",
+      "srt": "producao/L08/exportacoes/Pixel_Procurado_L08_Short_V2.srt",
+      "quadros": 2778,
+      "fps": 60.0,
+      "duracao_s": 46.3,
+      "lufs": -16.8,
+      "true_peak_dbfs": -1.4,
+      "intervalos_pretos": 0,
+      "folha_contato": "producao/L08/montagem/short_v2_qa.jpg"
+    },
+    "thumbnails": {
+      "status": "validado",
+      "longo": {
+        "master": "producao/L08/publicacao/capa_master.png",
+        "youtube": "producao/L08/publicacao/capa_youtube.jpg",
+        "base": "producao/L08/publicacao/thumbnail_base_gerada.png"
+      },
+      "short": {
+        "master": "producao/shorts/L08/publicacao/capa_master.png",
+        "youtube": "producao/shorts/L08/publicacao/capa_youtube.jpg",
+        "base": "producao/shorts/L08/publicacao/thumbnail_base_gerada.png"
+      }
+    },
+    "publicacao_seo": {
+      "status": "validado",
+      "longo": "producao/L08/publicacao/",
+      "short": "producao/shorts/L08/publicacao/"
+    },
+    "postiz_agendamento": {
+      "status": "validado",
+      "data_agendada_local": "2026-11-08T18:00:00-03:00",
+      "data_agendada_utc": "2026-11-08T21:00:00.000Z",
+      "manifesto": "producao/L08/social/POSTIZ_ESTADO.json",
+      "posts": [
+        "youtube_long",
+        "youtube_short",
+        "instagram_reel",
+        "instagram_story",
+        "facebook_video",
+        "facebook_reel",
+        "facebook_story"
+      ]
+    },
+    "revisao_independente_qa": {
+      "status": "aprovado",
+      "data_aprovacao": "2026-11-08T01:05:00-03:00",
+      "parecer": "Aprovado integralmente sem ressalvas técnicas, editoriais ou visuais.",
+      "revisor": "Subagente QA Independente Editorial e Visual (Pro)"
+    }
+  }
+}

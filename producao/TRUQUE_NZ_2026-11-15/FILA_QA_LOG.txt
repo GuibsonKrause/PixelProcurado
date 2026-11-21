@@ -1,0 +1,73 @@
+=== PREVOO
+PREVOO_EXIT=0
+=== AMOSTRA longo 0-9
+[longo] 3840x2160 @30fps, 98 planos (389.28s); renderizar 3: planos 1..3
+Plano 01 concluído (79 frames)
+Plano 02 concluído (77 frames)
+Plano 03 concluído (132 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\qa\amostras\longo-0-9\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4 (20 MB)
+RENDER_EXIT=0
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\qa\\amostras\\longo-0-9\\montagem\\long_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+=== AMOSTRA longo 74-82
+[longo] 3840x2160 @30fps, 98 planos (389.28s); renderizar 3: planos 19..21
+Plano 19 concluído (59 frames)
+Plano 20 concluído (187 frames)
+Plano 21 concluído (166 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\qa\amostras\longo-74-82\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4 (18 MB)
+RENDER_EXIT=0
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\qa\\amostras\\longo-74-82\\montagem\\long_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+=== AMOSTRA longo 119-128
+[longo] 3840x2160 @30fps, 98 planos (389.28s); renderizar 3: planos 31..33
+Plano 31 concluído (139 frames)
+Plano 32 concluído (181 frames)
+Plano 33 concluído (85 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\qa\amostras\longo-119-128\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4 (23 MB)
+RENDER_EXIT=0
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\qa\\amostras\\longo-119-128\\montagem\\long_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+=== AMOSTRA longo 145-153
+[longo] 3840x2160 @30fps, 98 planos (389.28s); renderizar 3: planos 37..39
+Plano 37 concluído (152 frames)
+Plano 38 concluído (195 frames)
+Plano 39 concluído (112 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\qa\amostras\longo-145-153\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4 (29 MB)
+RENDER_EXIT=0
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\qa\\amostras\\longo-145-153\\montagem\\long_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+=== AMOSTRA longo 354-360
+[longo] 3840x2160 @30fps, 98 planos (389.28s); renderizar 3: planos 90..92
+Plano 90 concluído (61 frames)
+Plano 91 concluído (134 frames)
+Plano 92 concluído (108 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\qa\amostras\longo-354-360\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4 (14 MB)
+RENDER_EXIT=0
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\qa\\amostras\\longo-354-360\\montagem\\long_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+=== AMOSTRA short 0-9
+[short] 1080x1920 @30fps, 25 planos (75.16s); renderizar 4: planos 1..4
+Plano 01 concluído (70 frames)
+Plano 02 concluído (101 frames)
+Plano 03 concluído (86 frames)
+Plano 04 concluído (136 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\qa\amostras\short-0-9\exportacoes\Pixel_Procurado_Truque_NZ_Short_V2_amostra.mp4 (6 MB)
+RENDER_EXIT=0
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\qa\\amostras\\short-0-9\\montagem\\short_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+=== AMOSTRA short 49-53
+[short] 1080x1920 @30fps, 25 planos (75.16s); renderizar 2: planos 17..18
+Plano 18 concluído (113 frames)
+Plano 17 concluído (132 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\qa\amostras\short-49-53\exportacoes\Pixel_Procurado_Truque_NZ_Short_V2_amostra.mp4 (6 MB)
+RENDER_EXIT=0
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\qa\\amostras\\short-49-53\\montagem\\short_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+FILA_QA_DONE

@@ -1,0 +1,27 @@
+{
+  "reel": [
+    47.78,
+    99.86
+  ],
+  "story": [
+    0,
+    12.35
+  ],
+  "dur": 385.48,
+  "master": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\narracao_master_aprovado.wav",
+  "story_silence": [
+    12.02,
+    12.68
+  ],
+  "reel_paragraphs": [
+    4,
+    5,
+    6
+  ],
+  "story_paragraphs": [
+    1
+  ],
+  "qa_sample_exact": true,
+  "reel_wav": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\reel_narracao_aprovada.wav",
+  "story_wav": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\story_narracao_aprovada.wav"
+}

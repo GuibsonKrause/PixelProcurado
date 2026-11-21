@@ -1,0 +1,21 @@
+{
+  "note": "EXEMPLO NÃO EXECUTÁVEL sem a voz, arquivos e revisão reais. Substitua as cenas e durações para cobrir a voz completa.",
+  "voice": "../voz/narracao_normalizada.wav",
+  "clips": [
+    {
+      "file": "../midia/originais/captura_data.png",
+      "kind": "image",
+      "duration": 8,
+      "source": "S1: https://www.rockstargames.com/VI",
+      "use_reviewed": false
+    },
+    {
+      "file": "../midia/originais/trecho_oficial.mp4",
+      "kind": "video",
+      "start": 0,
+      "duration": 6,
+      "source": "PREENCHER URL E ORIGEM EXATAS",
+      "use_reviewed": false
+    }
+  ]
+}

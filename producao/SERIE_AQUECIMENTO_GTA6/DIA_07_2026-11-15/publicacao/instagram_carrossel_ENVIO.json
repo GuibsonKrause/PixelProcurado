@@ -1,0 +1,42 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-15T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Pausei o GTA 6 quadro a quadro: tênis na borda da banheira, mão dada no R2, menu da geladeira e um HUD de troca que é hipótese. Deslize. Vídeo completo no canal: 11 detalhes com minuto e segundo. Faltam 4 dias para 19/11. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/5d5475b15b494e4780768abc7f6d701f.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/5cd44defa1984808a80bec6c2210b399.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/320221f924944384b7bfe9d9d908e82a.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/354767e616394f2980494b9ededf9df3.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

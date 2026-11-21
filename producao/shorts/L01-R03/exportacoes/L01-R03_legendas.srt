@@ -1,0 +1,171 @@
+1
+00:00:00,000 --> 00:00:02,140
+Uma paisagem é enorme pode caber numa
+
+2
+00:00:02,140 --> 00:00:03,510
+conclusão pequena demais.
+
+3
+00:00:04,260 --> 00:00:06,030
+Você olha uma imagem de GTA seis,
+
+4
+00:00:06,540 --> 00:00:08,780
+vê destinos diferentes e tenta calcular o
+
+5
+00:00:08,780 --> 00:00:09,630
+tamanho do mapa.
+
+6
+00:00:10,020 --> 00:00:11,150
+Parece intuitivo:
+
+7
+00:00:11,600 --> 00:00:12,450
+quanto mais lugares,
+
+8
+00:00:12,820 --> 00:00:13,670
+maior o mundo.
+
+9
+00:00:14,100 --> 00:00:16,340
+Só que uma lista de cenários não
+
+10
+00:00:16,340 --> 00:00:19,020
+informa automaticamente as distâncias que
+
+11
+00:00:19,020 --> 00:00:19,870
+existem entre eles.
+
+12
+00:00:20,980 --> 00:00:23,540
+Mas o problema começa ainda antes da
+
+13
+00:00:23,540 --> 00:00:24,390
+medida.
+
+14
+00:00:24,780 --> 00:00:26,640
+A imagem pode mostrar um lugar sem
+
+15
+00:00:26,640 --> 00:00:27,650
+revelar suas fronteiras.
+
+16
+00:00:28,260 --> 00:00:30,360
+O que ficou fora do quadro continua
+
+17
+00:00:30,360 --> 00:00:31,310
+fora do quadro.
+
+18
+00:00:31,920 --> 00:00:33,900
+Completar essa parte com imaginação pode
+
+19
+00:00:33,900 --> 00:00:36,020
+servir para uma teoria, desde que não
+
+20
+00:00:36,020 --> 00:00:37,870
+vire uma escala apresentada como fato.
+
+21
+00:00:38,960 --> 00:00:41,230
+Agora acrescente os prédios:
+
+22
+00:00:42,020 --> 00:00:43,940
+enxergar uma fachada também não confirma
+
+23
+00:00:43,940 --> 00:00:45,050
+que o jogador poderá entrar.
+
+24
+00:00:45,920 --> 00:00:48,550
+Presença visual e acesso são perguntas diferentes.
+
+25
+00:00:49,380 --> 00:00:51,340
+A mesma cena pode sustentar a descrição
+
+26
+00:00:51,340 --> 00:00:53,500
+de um edifício e deixar sem resposta
+
+27
+00:00:53,500 --> 00:00:55,070
+tudo que acontece atrás da porta.
+
+28
+00:00:55,920 --> 00:00:58,100
+Só que existe uma maneira simples de
+
+29
+00:00:58,100 --> 00:00:58,950
+melhorar análise.
+
+30
+00:00:59,700 --> 00:01:02,160
+Para cada afirmação, procure a evidência
+
+31
+00:01:02,160 --> 00:01:03,010
+correspondente.
+
+32
+00:01:03,760 --> 00:01:06,160
+Distância precisa de medida ou demonstração
+
+33
+00:01:06,160 --> 00:01:07,010
+adequada.
+
+34
+00:01:07,660 --> 00:01:10,560
+Acesso precisa de indicação ou demonstração
+
+35
+00:01:10,560 --> 00:01:11,410
+de acesso.
+
+36
+00:01:11,900 --> 00:01:13,840
+Uma imagem bonita não responde a todas
+
+37
+00:01:13,840 --> 00:01:15,150
+essas perguntas ao mesmo tempo.
+
+38
+00:01:16,160 --> 00:01:18,000
+O ganho é perceber exatamente o que
+
+39
+00:01:18,000 --> 00:01:20,630
+foi revelado e onde começa a expectativa.
+
+40
+00:01:21,260 --> 00:01:23,470
+Lugares variados já despertam curiosidade;
+
+41
+00:01:24,040 --> 00:01:26,290
+não precisamos acrescentar quilômetros inventados.
+
+42
+00:01:27,120 --> 00:01:29,270
+Quando a promessa cresce além da evidência,
+
+43
+00:01:29,820 --> 00:01:30,670
+lembre que...

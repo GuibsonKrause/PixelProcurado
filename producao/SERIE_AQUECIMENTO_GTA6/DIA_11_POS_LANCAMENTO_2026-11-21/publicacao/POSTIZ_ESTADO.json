@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "items": {
+    "youtube_long": {
+      "r2_key_0": "publicacoes/aa82c78dc335443bacc7d9c11ec23929.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/aa82c78dc335443bacc7d9c11ec23929.mp4"
+        }
+      ],
+      "capa_obj": {
+        "id": "92c1974c-829f-4151-98b6-b0816c898a67",
+        "name": "79102e434285258fd3aa68d6d108a375e5.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/21/79102e434285258fd3aa68d6d108a375e5.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-21T07:19:52.299418+00:00",
+      "post_id": "cmwq2vi9m007epn9w0rhkoec5",
+      "enviado_em": "2026-11-21T07:19:52.299418+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=R0IM_cE0a54",
+        "releaseId": "R0IM_cE0a54",
+        "publishDate": "2026-11-21T07:19:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "youtube_short": {
+      "medias": [
+        {
+          "id": "f19c8924-788d-4bb5-8e5a-f2530da99d1c",
+          "name": "1ff3ae890eb457cdf42e342957d64363.mp4",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/21/1ff3ae890eb457cdf42e342957d64363.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "capa_obj": {
+        "id": "e5e75599-ebda-48c4-a07f-d6f81175a10b",
+        "name": "721880c77d4c1f28fe8ea3395e657d3a.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/21/721880c77d4c1f28fe8ea3395e657d3a.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-21T07:20:00.488984+00:00",
+      "post_id": "cmwq2vpsw007fpn9wer85hw16",
+      "enviado_em": "2026-11-21T07:20:00.488984+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=INaCNvvYQ2k",
+        "releaseId": "INaCNvvYQ2k",
+        "publishDate": "2026-11-21T07:20:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_reel": {
+      "r2_key_0": "publicacoes/d0e8a65ec2484b77a6ef7aee66188069.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d0e8a65ec2484b77a6ef7aee66188069.mp4"
+        }
+      ],
+      "r2_key_capa": "publicacoes/d7fb34c216974d15808f2e5e69cf395f.jpg",
+      "capa_obj": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d7fb34c216974d15808f2e5e69cf395f.jpg"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-21T07:20:21.567304+00:00",
+      "post_id": "cmwq2w5w1007gpn9w446be2r0",
+      "enviado_em": "2026-11-21T07:20:21.567304+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/Df_rqBmhr4B/",
+        "releaseId": "18082337504406537",
+        "publishDate": "2026-11-21T07:20:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_reel": {
+      "r2_key_0": "publicacoes/6def34a5b6ab4bdb84e8adbba6b1941f.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/6def34a5b6ab4bdb84e8adbba6b1941f.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-21T07:20:37.090091+00:00",
+      "post_id": "cmwq2wiap007hpn9wavdbja9w",
+      "enviado_em": "2026-11-21T07:20:37.090091+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/reel/1510844630869949",
+        "releaseId": "1510844630869949",
+        "publishDate": "2026-11-21T07:20:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    }
+  }
+}

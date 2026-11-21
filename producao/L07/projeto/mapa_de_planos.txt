@@ -1,0 +1,48 @@
+# Parágrafo|Âncora textual|Fonte (sigla ou vídeo@segundo@velocidade)|Título sobreposto
+1|GTA faz você|L@2.0@0.75|O SOM DA CIDADE~A ilusão do rádio em GTA
+1|No GTA cinco de PC|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg|
+1|Você monta a seleção|L@14.5@0.65|
+2|Esse detalhe ajuda a explicar|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg|
+2|A música acompanha|D@82.4@0.7|
+3|Na Self Radio isso depende|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg|
+3|É diferente de simplesmente|T@19.9@0.65|
+4|Parece uma diferença pequena|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_04.jpg|
+4|Com um locutor e uma propaganda|L@27.0@0.65|
+5|A graça é meio perversa|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg|
+5|O brasileiro escapou do comercial|D@22.0@0.7|
+6|Isso funciona porque o anúncio|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg|
+6|Tem uma parte da sátira|L@45.0@0.7|
+7|Vamos imaginar um carro|D@10.0@0.7|A TRILHA DITA O RITMO~Carro, orla e música
+7|Dá vontade de seguir|videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_01.jpg|
+8|Agora troca por uma faixa|D@55.0@0.7|
+8|O cenário não mudou|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_07.jpg|
+9|É um exemplo pra mostrar|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg|
+9|Não é preciso colocar uma nova|T@35.0@0.7|
+10|No Vice City clássico|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg|VICE CITY CLÁSSICO~A marca da Flash FM
+10|A Flash FM é uma das|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg|
+11|Nem toda lembrança precisa vir|D@40.0@0.7|
+11|O roteiro tinha um compromisso|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg|
+12|E tem outro tipo de música|L@60.0@0.7|TRILHA DINÂMICA~Música de ação vs. Rádio
+12|GTA cinco usa música dinâmica|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_12.jpg|
+13|Uma reforça a tensão do momento|D@70.0@0.7|
+13|Essa diferença abre uma oportunidade|videosGTAVI/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_01.jpg|
+14|Imagina você com o carro destruído|D@80.0@0.7|
+14|O locutor não está preocupado|videosGTAVI/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_01.jpg|
+15|Esse é um exemplo inventado|videosGTAVI/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_02.jpg|
+15|A cena fica engraçada|T@50.0@0.7|
+16|Também dá pra usar silêncio|videosGTAVI/GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_01.jpg|
+16|Quando tudo é intenso|D@95.0@0.7|
+17|E o que já dá pra olhar|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg|EMISSORAS CONFIRMADAS~O som de GTA VI
+17|A página oficial de música|videosGTAVI/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_01.jpg|Cocoteo • Back Country • Dirty South
+18|A Flash FM também aparece|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg|FLASH FM EM GTA VI~Pop e nostalgia em Vice City
+18|O nome cria uma ligação|videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg|
+19|Essas diferenças me interessam|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg|
+19|Como isso vai funcionar|D@15.0@0.7|
+20|Não vou fingir que uma lista|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_04.jpg|
+20|Ela pode criar expectativa|L@10.0@0.7|
+21|Tem ainda a surpresa de encontrar|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg|
+21|Você entrou no carro|D@30.0@0.7|
+22|O rádio dá personalidade ao caminho|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg|
+22|E às vezes é o motivo|L@75.0@0.7|
+23|Qual rádio ou música de GTA|videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_07.jpg|QUAL RÁDIO MARCOU VOCÊ?~Compartilhe nos comentários
+23|Eu suspeito que muito compromisso|D@110.0@0.7|

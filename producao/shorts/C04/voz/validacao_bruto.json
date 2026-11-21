@@ -1,0 +1,10 @@
+{
+  "duration": 77.88,
+  "rate": 24000,
+  "channels": 1,
+  "width": 2,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "voice_iagtq1gnk2br",
+  "source_sha256": "7b5c1ffed78652755270db31033521bdd3a4c986d2e0a43851dcb551fd93cafa",
+  "wav_sha256": "b621007d0bc8b4f904f9f356c2d17d0f085ef266662dd2578ef89cd8d8609eab"
+}

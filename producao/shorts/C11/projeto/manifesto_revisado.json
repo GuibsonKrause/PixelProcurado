@@ -1,0 +1,62 @@
+{
+  "id": "C11",
+  "date": "2026-10-31",
+  "inputs": [
+    {
+      "path": "producao\\shorts\\C11\\voz\\NARRACAO.txt",
+      "sha256": "301bdf3609811b04b6dcacdc0c11dbfe0412f47d542dad46327089b98851164a",
+      "bytes": 1262
+    },
+    {
+      "path": "producao\\shorts\\C11\\voz\\GEMINI.txt",
+      "sha256": "25cc17ef4488c84632a691b40a99f84e6caf3a54d2cd2188b05b2c565190cc5d",
+      "bytes": 1283
+    },
+    {
+      "path": "producao\\shorts\\C11\\voz\\narracao_original.wav",
+      "sha256": "026148ce77f6fcd12b8c15b829381f57c274600d7d3f638437b674fe8744caef",
+      "bytes": 4270436
+    },
+    {
+      "path": "producao\\shorts\\C11\\voz\\narracao.wav",
+      "sha256": "2381859c34b50fd9c9e42ee4c61bc53c138e542949c1f0c65d582f32a8a0f703",
+      "bytes": 8222444
+    },
+    {
+      "path": "producao\\shorts\\C11\\exportacoes\\Pixel_Procurado_C11_Short_1080x1920.mp4",
+      "sha256": "bb1d8d1436c8272bacf41abf7a9134a0c165675c80b93269286dd4c55d89daa0",
+      "bytes": 15162363
+    },
+    {
+      "path": "producao\\shorts\\C11\\exportacoes\\C11_legendas.srt",
+      "sha256": "2c4a5f640eb0867dcc4a73c01d452e3e9ebf0100aa91acc0eecb2548ef12e4ba",
+      "bytes": 2871
+    },
+    {
+      "path": "producao\\shorts\\C11\\publicacao\\capa_master.png",
+      "sha256": "aee65a9ff0b607f2bd201744571dd7d68b4c3084931bff579aa77d9a02aa2278",
+      "bytes": 2069489
+    },
+    {
+      "path": "producao\\shorts\\C11\\publicacao\\capa_youtube.jpg",
+      "sha256": "c64f5eca2ce11c0e2df370ea23a945c7c2d47e9c6bceb8e5be88a8426ea0f4fa",
+      "bytes": 426193
+    }
+  ],
+  "shots": 21,
+  "video_shot_seconds": 26.366666666666667,
+  "source_motion_seconds": 23.066666666666666,
+  "duration": 85.65,
+  "tts": {
+    "model": "gemini-3.8-flash-tts",
+    "voice": "voice_iagtq1gnk2br",
+    "language": "pt-BR"
+  },
+  "limits": [
+    "Revisão visual por amostras, não escuta humana integral.",
+    "Fontes horizontais preservadas em painel vertical; GTA V de apoio é 720p.",
+    "C09 analisa fotografias específicas; C12 perfil e hipóteses sem missão anunciada.",
+    "Trechos muito curtos sustentam o último quadro após o movimento; tempo real em source_motion_seconds.",
+    "Sem upload, agendamento ou Postiz."
+  ]
+}

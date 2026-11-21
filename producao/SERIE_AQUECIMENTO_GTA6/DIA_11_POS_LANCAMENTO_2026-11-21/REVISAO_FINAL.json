@@ -1,0 +1,301 @@
+{
+  "schema_versao": 1,
+  "episodio": "DIA_11_POS_LANCAMENTO_2026-11-21",
+  "revisor": {
+    "modelo": "gpt-6-astra (solicitado; efetivo não informado)",
+    "agent_id": "/root/revisao_independente",
+    "avaliacao_audio": "Gemini multimodal, model_version gemini-3.8-flash confirmado pela API; o agente Codex fez a revisão visual, não escuta nativa."
+  },
+  "data": "2026-11-21",
+  "artefatos": [
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_DIA11_Pos_Longo_V2.mp4",
+      "sha256": "40d2f897fdedcc21d5ba4560da4a1b98b1df5af5c586776824ddf04d7cdd0fcb"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_DIA11_Pos_Longo_V2.srt",
+      "sha256": "aaadace7adaa01dc546c7e07b7af2cb33b0c55197767ac368c07b1a334020f40"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/publicacao/longo/capa_youtube.jpg",
+      "sha256": "3726a59e3ad8f127c78fbf1a2736169ea0397b7b8a3ab281424083315a3f728e"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/audio_gemini_resposta_original.json",
+      "sha256": "8d41d2d5acb01c55b60af09ccd723e514eaeddd0ac61a84b5b3e40dcb9ad719f"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/audio_gemini_manifesto.json",
+      "sha256": "fad1c0b205e237fa4e2cc640658ce862f8c93c96df992f4036ca0f62b7a06525"
+    }
+  ],
+  "audio_trechos_ouvidos": [
+    {
+      "inicio": 0,
+      "fim": 15,
+      "observacao": "Escuta perceptual atribuída ao Gemini 3.8 Flash via API: Início aos 0s perfeitamente limpo e íntegro. Dicção firme e presença vocal adequada para abertura. Perfeita aderência ao texto e à marcação temporal do SRT.",
+      "revisor_audio": "gemini-3.8-flash",
+      "arquivo_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0_15.wav",
+      "evidencia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/audio_gemini_resposta_original.json"
+    },
+    {
+      "inicio": 58,
+      "fim": 69,
+      "observacao": "Escuta perceptual atribuída ao Gemini 3.8 Flash via API: Transição suave da frase inicial cortada na amostragem; entonação narrativa fluida ao contar o causo da roupa e da estátua. Texto e tempos rigorosamente sincronizados.",
+      "revisor_audio": "gemini-3.8-flash",
+      "arquivo_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_58_69.wav",
+      "evidencia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/audio_gemini_resposta_original.json"
+    },
+    {
+      "inicio": 121,
+      "fim": 135,
+      "observacao": "Escuta perceptual atribuída ao Gemini 3.8 Flash via API: Excelente dinamismo e modulação de voz na transição de assunto ('Agora passa pra polícia'). Total correspondência com as legendas.",
+      "revisor_audio": "gemini-3.8-flash",
+      "arquivo_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_121_135.wav",
+      "evidencia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/audio_gemini_resposta_original.json"
+    },
+    {
+      "inicio": 208,
+      "fim": 223,
+      "observacao": "Escuta perceptual atribuída ao Gemini 3.8 Flash via API: Trecho técnico narrado com seriedade e clareza analítica. Fidelidade total ao SRT.",
+      "revisor_audio": "gemini-3.8-flash",
+      "arquivo_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_208_223.wav",
+      "evidencia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/audio_gemini_resposta_original.json"
+    },
+    {
+      "inicio": 245,
+      "fim": 260,
+      "observacao": "Escuta perceptual atribuída ao Gemini 3.8 Flash via API: Tom descritivo muito expressivo e imersivo ao ilustrar a iluminação e o trânsito da cena. Sincronização temporal e textual exata.",
+      "revisor_audio": "gemini-3.8-flash",
+      "arquivo_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_245_260.wav",
+      "evidencia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/audio_gemini_resposta_original.json"
+    },
+    {
+      "inicio": 290,
+      "fim": 304,
+      "observacao": "Escuta perceptual atribuída ao Gemini 3.8 Flash via API: Comentário editorial sobre a concorrência entregue com convicção e peso tonal. Exatamente alinhado ao SRT de referência.",
+      "revisor_audio": "gemini-3.8-flash",
+      "arquivo_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_290_304.wav",
+      "evidencia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/audio_gemini_resposta_original.json"
+    },
+    {
+      "inicio": 365,
+      "fim": 380,
+      "observacao": "Escuta perceptual atribuída ao Gemini 3.8 Flash via API: Entonação amigável e próxima ao ouvinte ao dar o veredito pessoal sobre a estátua viva. Total correspondência com as legendas.",
+      "revisor_audio": "gemini-3.8-flash",
+      "arquivo_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_365_380.wav",
+      "evidencia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/audio_gemini_resposta_original.json"
+    },
+    {
+      "inicio": 398,
+      "fim": 425.55,
+      "observacao": "Escuta perceptual atribuída ao Gemini 3.8 Flash via API: Fechamento integral até 425.55s. Conclusão limpa, fade out natural sem truncamento ou corte abrupto. Alinhamento temporal perfeito com o fim do vídeo longo.",
+      "revisor_audio": "gemini-3.8-flash",
+      "arquivo_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_398_425.55.wav",
+      "evidencia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/audio_gemini_resposta_original.json"
+    }
+  ],
+  "frames_inspecionados": [
+    {
+      "timecode": 15,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0015.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 45,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0045.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 45.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0045.50.jpg",
+      "observacao": "Card compacto identificado, texto sem cortes e sem colisão com a legenda; demais áreas permanecem visíveis."
+    },
+    {
+      "timecode": 47,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0047.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 75,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0075.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 105,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0105.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 135,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0135.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 155,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0155.00.jpg",
+      "observacao": "Janela corrigida: aproximação e entrada no carro aparecem; aos 157s o ato de entrar no veículo está em quadro."
+    },
+    {
+      "timecode": 157,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0157.00.jpg",
+      "observacao": "Janela corrigida: aproximação e entrada no carro aparecem; aos 157s o ato de entrar no veículo está em quadro."
+    },
+    {
+      "timecode": 162.27,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0162.27.jpg",
+      "observacao": "Card compacto identificado, texto sem cortes e sem colisão com a legenda; demais áreas permanecem visíveis."
+    },
+    {
+      "timecode": 165,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0165.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 195,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0195.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 209.63,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0209.63.jpg",
+      "observacao": "Card compacto identificado, texto sem cortes e sem colisão com a legenda; demais áreas permanecem visíveis."
+    },
+    {
+      "timecode": 223.63,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0223.63.jpg",
+      "observacao": "Crédito Series S • Digital Foundry legível; gráfico e números preservados. Card explicita 27–30 FPS no trecho."
+    },
+    {
+      "timecode": 225,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0225.00.jpg",
+      "observacao": "Crédito Series S • Digital Foundry legível; gráfico e números preservados. Card explicita 27–30 FPS no trecho."
+    },
+    {
+      "timecode": 230,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0230.00.jpg",
+      "observacao": "Crédito Series S • Digital Foundry legível; gráfico e números preservados. Card explicita 27–30 FPS no trecho."
+    },
+    {
+      "timecode": 255,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0255.00.jpg",
+      "observacao": "Moto e avenida ao fim da tarde visíveis; janela corrigida sem menu desfocado."
+    },
+    {
+      "timecode": 256,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0256.00.jpg",
+      "observacao": "Moto e avenida ao fim da tarde visíveis; janela corrigida sem menu desfocado."
+    },
+    {
+      "timecode": 285,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0285.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 315,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0315.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 324.83,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0324.83.jpg",
+      "observacao": "Card compacto identificado, texto sem cortes e sem colisão com a legenda; demais áreas permanecem visíveis."
+    },
+    {
+      "timecode": 345,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0345.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 375,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0375.00.jpg",
+      "observacao": "Frame do master corrigido reinspecionado: estátua viva em cena na frase correspondente. Legenda editorial integralmente legível; sobreposição breve com a legenda menor original do jogo, registrada como ressalva baixa."
+    },
+    {
+      "timecode": 398.72,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0398.72.jpg",
+      "observacao": "Card compacto identificado, texto sem cortes e sem colisão com a legenda; demais áreas permanecem visíveis."
+    },
+    {
+      "timecode": 405,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0405.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    },
+    {
+      "timecode": 420,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_0420.00.jpg",
+      "observacao": "Gameplay creditada, imagem íntegra e legenda legível na área segura."
+    }
+  ],
+  "legendas": {
+    "srt": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/exportacoes/Pixel_Procurado_DIA11_Pos_Longo_V2.srt",
+    "amostras": [
+      {
+        "timecode": 9.31,
+        "texto": "primeiras horas em Leonida: não torrar",
+        "sincronizado": true,
+        "observacao": "Texto conferido no SRT real; sincronização auditiva avaliada pelo Gemini 3.8 Flash no excerto correspondente, sem divergência reportada. Legendas incorporadas visualmente legíveis nas amostras."
+      },
+      {
+        "timecode": 64.36,
+        "texto": "uma história inteira.",
+        "sincronizado": true,
+        "observacao": "Texto conferido no SRT real; sincronização auditiva avaliada pelo Gemini 3.8 Flash no excerto correspondente, sem divergência reportada. Legendas incorporadas visualmente legíveis nas amostras."
+      },
+      {
+        "timecode": 126.62,
+        "texto": "Agora passa pra polícia.",
+        "sincronizado": true,
+        "observacao": "Texto conferido no SRT real; sincronização auditiva avaliada pelo Gemini 3.8 Flash no excerto correspondente, sem divergência reportada. Legendas incorporadas visualmente legíveis nas amostras."
+      },
+      {
+        "timecode": 213.14,
+        "texto": "de manter esse alvo o tempo",
+        "sincronizado": true,
+        "observacao": "Texto conferido no SRT real; sincronização auditiva avaliada pelo Gemini 3.8 Flash no excerto correspondente, sem divergência reportada. Legendas incorporadas visualmente legíveis nas amostras."
+      },
+      {
+        "timecode": 296.5,
+        "texto": "boa e missão marcada no mapa,",
+        "sincronizado": true,
+        "observacao": "Texto conferido no SRT real; sincronização auditiva avaliada pelo Gemini 3.8 Flash no excerto correspondente, sem divergência reportada. Legendas incorporadas visualmente legíveis nas amostras."
+      },
+      {
+        "timecode": 404.3,
+        "texto": "mais? Diz qual foi a cena",
+        "sincronizado": true,
+        "observacao": "Texto conferido no SRT real; sincronização auditiva avaliada pelo Gemini 3.8 Flash no excerto correspondente, sem divergência reportada. Legendas incorporadas visualmente legíveis nas amostras."
+      }
+    ]
+  },
+  "thumbnail": {
+    "arquivo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/publicacao/longo/capa_youtube.jpg",
+    "preview_reduzido": "producao/SERIE_AQUECIMENTO_GTA6/DIA_11_POS_LANCAMENTO_2026-11-21/montagem/revisao_independente/longo_capa_reduzida.jpg",
+    "observacao": "Inspeção da prévia reduzida: texto branco/amarelo legível, logo reconhecível, assunto preservado; dano do carro visível sem ocultar o assunto."
+  },
+  "problemas": [
+    {
+      "severidade": "media",
+      "timecode": 375,
+      "descricao": "Primeiro master exibia moto durante referência literal à estátua viva.",
+      "correcao": "Plano substituído por 000150 e frame 375 do master corrigido reinspecionado.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": 375,
+      "descricao": "Legenda editorial sobrepõe brevemente parte da legenda menor original do jogo; o texto editorial mantém leitura integral.",
+      "correcao": "Ressalva aceita por não impedir a compreensão; elevar a legenda caso haja uma futura revisão desta peça.",
+      "status": "aceito"
+    }
+  ],
+  "resultado": "aprovado_com_ressalvas",
+  "escopo": "Inspeção visual por amostragem de frames individuais e folhas de contato, não revisão audiovisual integral. Escuta perceptual por Gemini: Short integral e oito excertos do longo.",
+  "validacao_remux_audio": {
+    "trecho": "365–380 s",
+    "pcm_sha256_antes": "a108b74491bd9b99f4d8b2b6062490324c72bbf6c284f38dd0867186be797d3c",
+    "pcm_sha256_depois": "a108b74491bd9b99f4d8b2b6062490324c72bbf6c284f38dd0867186be797d3c",
+    "identico": true,
+    "observacao": "A amostra de áudio submetida ao Gemini permaneceu idêntica no trecho visual alterado."
+  }
+}

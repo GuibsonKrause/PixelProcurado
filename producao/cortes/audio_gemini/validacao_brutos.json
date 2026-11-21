@@ -1,0 +1,1188 @@
+{
+  "engine": {
+    "model": "gemini-3.8-flash-tts",
+    "voice": "voice_iagtq1gnk2br"
+  },
+  "validation": [
+    {
+      "id": "C01",
+      "duration_seconds": 79.92,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.18,
+      "longest_silence_below_-45db_seconds": 1.4,
+      "script_words": 203,
+      "asr_words": 206,
+      "matched_word_ratio": 0.9458,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "replace",
+          "script": "reconhece",
+          "asr": "reconheco"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "replace",
+          "script": "pagina",
+          "asr": "parte da"
+        },
+        {
+          "op": "replace",
+          "script": "uma informacao",
+          "asr": "a informacoes"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "e"
+        },
+        {
+          "op": "replace",
+          "script": "informa",
+          "asr": "em forma"
+        },
+        {
+          "op": "replace",
+          "script": "respostas",
+          "asr": "resposta"
+        },
+        {
+          "op": "replace",
+          "script": "pagina",
+          "asr": "parte no"
+        },
+        {
+          "op": "delete",
+          "script": "o",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "pertencem",
+          "asr": "pertence"
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "duration_seconds": 78.08,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.23,
+      "longest_silence_below_-45db_seconds": 1.3,
+      "script_words": 212,
+      "asr_words": 212,
+      "matched_word_ratio": 0.9481,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "replace",
+          "script": "sossego",
+          "asr": "sucego"
+        },
+        {
+          "op": "replace",
+          "script": "cria",
+          "asr": "queria"
+        },
+        {
+          "op": "replace",
+          "script": "opostas",
+          "asr": "apostas"
+        },
+        {
+          "op": "replace",
+          "script": "escolha",
+          "asr": "escolher"
+        },
+        {
+          "op": "replace",
+          "script": "mais",
+          "asr": "mas"
+        },
+        {
+          "op": "replace",
+          "script": "hesita",
+          "asr": "exita"
+        },
+        {
+          "op": "replace",
+          "script": "teme",
+          "asr": "tem me"
+        },
+        {
+          "op": "replace",
+          "script": "sem",
+          "asr": "em"
+        },
+        {
+          "op": "replace",
+          "script": "a tensao",
+          "asr": "atencao"
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "duration_seconds": 80.64,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.17,
+      "longest_silence_below_-45db_seconds": 1.6,
+      "script_words": 212,
+      "asr_words": 213,
+      "matched_word_ratio": 0.8962,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "o",
+          "asr": "um"
+        },
+        {
+          "op": "delete",
+          "script": "e",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "delete",
+          "script": "ocupa",
+          "asr": ""
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "corpo"
+        },
+        {
+          "op": "replace",
+          "script": "aparece",
+          "asr": "aparecem"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "a"
+        },
+        {
+          "op": "replace",
+          "script": "recorta so essa",
+          "asr": "recorre da sua"
+        },
+        {
+          "op": "replace",
+          "script": "abra",
+          "asr": "abre"
+        },
+        {
+          "op": "replace",
+          "script": "embarcacoes",
+          "asr": "embarcar suas"
+        },
+        {
+          "op": "replace",
+          "script": "e",
+          "asr": "em"
+        },
+        {
+          "op": "replace",
+          "script": "ocupam o",
+          "asr": "ou copo um"
+        },
+        {
+          "op": "replace",
+          "script": "com",
+          "asr": "como"
+        },
+        {
+          "op": "replace",
+          "script": "ameaca",
+          "asr": "meiaca"
+        },
+        {
+          "op": "replace",
+          "script": "preservam",
+          "asr": "prazeram"
+        },
+        {
+          "op": "delete",
+          "script": "o",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "o",
+          "asr": "do"
+        },
+        {
+          "op": "replace",
+          "script": "no",
+          "asr": "nao"
+        },
+        {
+          "op": "replace",
+          "script": "sob",
+          "asr": "sobre"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "duration_seconds": 76.92,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.37,
+      "longest_silence_below_-45db_seconds": 1.4,
+      "script_words": 213,
+      "asr_words": 209,
+      "matched_word_ratio": 0.8967,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "dois mil e dois",
+          "asr": "2002"
+        },
+        {
+          "op": "replace",
+          "script": "mil novecentos e oitenta e seis",
+          "asr": "1986"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "a"
+        },
+        {
+          "op": "replace",
+          "script": "lembrar daquela",
+          "asr": "lembrada aquela"
+        },
+        {
+          "op": "replace",
+          "script": "seis reconhecer neon",
+          "asr": "vi recunha ser nenhum"
+        },
+        {
+          "op": "replace",
+          "script": "excesso",
+          "asr": "acessos"
+        },
+        {
+          "op": "replace",
+          "script": "real dimez",
+          "asr": "rail dimes"
+        },
+        {
+          "op": "replace",
+          "script": "ergue",
+          "asr": "r e"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "a"
+        },
+        {
+          "op": "replace",
+          "script": "falta",
+          "asr": "a falsa"
+        },
+        {
+          "op": "replace",
+          "script": "a conheceu",
+          "asr": "aconheceu"
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "duration_seconds": 83.96,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.35,
+      "longest_silence_below_-45db_seconds": 1.65,
+      "script_words": 219,
+      "asr_words": 216,
+      "matched_word_ratio": 0.9087,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "replace",
+          "script": "dois mas",
+          "asr": "2 mais"
+        },
+        {
+          "op": "replace",
+          "script": "rockstar apresenta",
+          "asr": "box esta apresentando"
+        },
+        {
+          "op": "delete",
+          "script": "iguais",
+          "asr": ""
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "guarde"
+        },
+        {
+          "op": "replace",
+          "script": "cinco",
+          "asr": "5"
+        },
+        {
+          "op": "replace",
+          "script": "certinha",
+          "asr": "certinho"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "delete",
+          "script": "a",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "para encerra la",
+          "asr": "aparencia rala"
+        },
+        {
+          "op": "replace",
+          "script": "cena",
+          "asr": "cenas"
+        },
+        {
+          "op": "replace",
+          "script": "cena",
+          "asr": "cenas"
+        },
+        {
+          "op": "replace",
+          "script": "ha",
+          "asr": "a"
+        },
+        {
+          "op": "replace",
+          "script": "trailer",
+          "asr": "trem"
+        },
+        {
+          "op": "delete",
+          "script": "e gameplay",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "diz",
+          "asr": "disse"
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "duration_seconds": 79.96,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.47,
+      "longest_silence_below_-45db_seconds": 1.95,
+      "script_words": 215,
+      "asr_words": 217,
+      "matched_word_ratio": 0.9209,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "replace",
+          "script": "ocupa a tela",
+          "asr": "ocupar pela"
+        },
+        {
+          "op": "replace",
+          "script": "uma",
+          "asr": "um"
+        },
+        {
+          "op": "delete",
+          "script": "a",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "separa screenshots de artes",
+          "asr": "separes com insorts diarts"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "o"
+        },
+        {
+          "op": "replace",
+          "script": "palmeiras",
+          "asr": "pomeiras"
+        },
+        {
+          "op": "replace",
+          "script": "poster numa",
+          "asr": "posto em uma"
+        },
+        {
+          "op": "replace",
+          "script": "perguntas",
+          "asr": "pergunta"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "a"
+        },
+        {
+          "op": "replace",
+          "script": "identidade",
+          "asr": "identidades"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "e"
+        },
+        {
+          "op": "replace",
+          "script": "mostre",
+          "asr": "mostra"
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "duration_seconds": 80.44,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.54,
+      "longest_silence_below_-45db_seconds": 1.25,
+      "script_words": 217,
+      "asr_words": 214,
+      "matched_word_ratio": 0.8986,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "seis apaga",
+          "asr": "vi a paga"
+        },
+        {
+          "op": "replace",
+          "script": "rua cheia",
+          "asr": "rocheia"
+        },
+        {
+          "op": "delete",
+          "script": "so",
+          "asr": ""
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "sua"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "replace",
+          "script": "cheetah",
+          "asr": "chita"
+        },
+        {
+          "op": "replace",
+          "script": "cinco",
+          "asr": "5"
+        },
+        {
+          "op": "replace",
+          "script": "dois mil e doze",
+          "asr": "2012"
+        },
+        {
+          "op": "replace",
+          "script": "o olhar",
+          "asr": "olha a"
+        },
+        {
+          "op": "delete",
+          "script": "a",
+          "asr": ""
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "e a"
+        },
+        {
+          "op": "delete",
+          "script": "o",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "passeando",
+          "asr": "vaciando"
+        },
+        {
+          "op": "replace",
+          "script": "seis apresenta",
+          "asr": "vi apresentar"
+        },
+        {
+          "op": "replace",
+          "script": "e",
+          "asr": "em"
+        },
+        {
+          "op": "replace",
+          "script": "ao",
+          "asr": "o"
+        },
+        {
+          "op": "replace",
+          "script": "porque",
+          "asr": "ok"
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "duration_seconds": 78.24,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.68,
+      "longest_silence_below_-45db_seconds": 1.2,
+      "script_words": 221,
+      "asr_words": 218,
+      "matched_word_ratio": 0.914,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "nas keys",
+          "asr": "nasquis"
+        },
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "replace",
+          "script": "ocupa o",
+          "asr": "cobo"
+        },
+        {
+          "op": "delete",
+          "script": "o",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "um animal pequeno",
+          "asr": "uma anima pequena"
+        },
+        {
+          "op": "delete",
+          "script": "a",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "tem cenario",
+          "asr": "e atensionario"
+        },
+        {
+          "op": "delete",
+          "script": "a",
+          "asr": ""
+        },
+        {
+          "op": "delete",
+          "script": "em",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "reage ao",
+          "asr": "rea de o"
+        },
+        {
+          "op": "replace",
+          "script": "provoca",
+          "asr": "provou a"
+        },
+        {
+          "op": "delete",
+          "script": "o",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "pousar",
+          "asr": "por usar"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "e"
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "duration_seconds": 79.64,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.0,
+      "longest_silence_below_-45db_seconds": 1.3,
+      "script_words": 214,
+      "asr_words": 218,
+      "matched_word_ratio": 0.9112,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "replace",
+          "script": "keys ilhas e pontes",
+          "asr": "quis hirias de pontos"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "em"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "replace",
+          "script": "grassrivers",
+          "asr": "a grass rivers"
+        },
+        {
+          "op": "replace",
+          "script": "num",
+          "asr": "em um"
+        },
+        {
+          "op": "replace",
+          "script": "comeco",
+          "asr": "comeca"
+        },
+        {
+          "op": "replace",
+          "script": "margens",
+          "asr": "magens"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "replace",
+          "script": "margens",
+          "asr": "magens"
+        },
+        {
+          "op": "replace",
+          "script": "encurta",
+          "asr": "encorta"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "replace",
+          "script": "sem",
+          "asr": "em"
+        },
+        {
+          "op": "replace",
+          "script": "para",
+          "asr": "pra"
+        },
+        {
+          "op": "replace",
+          "script": "num",
+          "asr": "nao"
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "duration_seconds": 90.08,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.34,
+      "longest_silence_below_-45db_seconds": 1.3,
+      "script_words": 220,
+      "asr_words": 222,
+      "matched_word_ratio": 0.9591,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "cinco",
+          "asr": "v"
+        },
+        {
+          "op": "replace",
+          "script": "ate locutor",
+          "asr": "a tela ocultou"
+        },
+        {
+          "op": "replace",
+          "script": "escolhe",
+          "asr": "escolha"
+        },
+        {
+          "op": "replace",
+          "script": "uma",
+          "asr": "um"
+        },
+        {
+          "op": "replace",
+          "script": "muda",
+          "asr": "e"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "modo"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "e"
+        },
+        {
+          "op": "delete",
+          "script": "o",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "cinco",
+          "asr": "5"
+        },
+        {
+          "op": "replace",
+          "script": "porque",
+          "asr": "ok"
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "duration_seconds": 83.76,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.25,
+      "longest_silence_below_-45db_seconds": 1.45,
+      "script_words": 220,
+      "asr_words": 227,
+      "matched_word_ratio": 0.9409,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "aluguel",
+          "asr": "a logao"
+        },
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "replace",
+          "script": "contrapartida",
+          "asr": "contra a partida"
+        },
+        {
+          "op": "replace",
+          "script": "so a",
+          "asr": "sua"
+        },
+        {
+          "op": "replace",
+          "script": "parece",
+          "asr": "aparece"
+        },
+        {
+          "op": "replace",
+          "script": "onde jason",
+          "asr": "um de dias ou"
+        },
+        {
+          "op": "replace",
+          "script": "esse exemplo",
+          "asr": "e se"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "o"
+        },
+        {
+          "op": "replace",
+          "script": "parceria acabasse",
+          "asr": "passaria a acabar se"
+        },
+        {
+          "op": "replace",
+          "script": "compromissos",
+          "asr": "compromisso"
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "duration_seconds": 83.24,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.6,
+      "longest_silence_below_-45db_seconds": 1.45,
+      "script_words": 218,
+      "asr_words": 219,
+      "matched_word_ratio": 0.9358,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "raul",
+          "asr": "rau"
+        },
+        {
+          "op": "replace",
+          "script": "raul",
+          "asr": "rau"
+        },
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "replace",
+          "script": "seu",
+          "asr": "se o"
+        },
+        {
+          "op": "replace",
+          "script": "duas informacoes",
+          "asr": "luzes e formacoes"
+        },
+        {
+          "op": "delete",
+          "script": "so",
+          "asr": ""
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "sua"
+        },
+        {
+          "op": "replace",
+          "script": "quando",
+          "asr": "quanto"
+        },
+        {
+          "op": "replace",
+          "script": "custo",
+          "asr": "curso"
+        },
+        {
+          "op": "replace",
+          "script": "antes da acao",
+          "asr": "antitacao"
+        },
+        {
+          "op": "replace",
+          "script": "sugere",
+          "asr": "sugerem"
+        },
+        {
+          "op": "replace",
+          "script": "raul",
+          "asr": "rau"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "a"
+        }
+      ]
+    },
+    {
+      "id": "L01-R02",
+      "duration_seconds": 79.64,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.17,
+      "longest_silence_below_-45db_seconds": 1.55,
+      "script_words": 220,
+      "asr_words": 214,
+      "matched_word_ratio": 0.8909,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "golpe errado",
+          "asr": "gol perrado"
+        },
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "delete",
+          "script": "e",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "enfrentam",
+          "asr": "enfrenta"
+        },
+        {
+          "op": "replace",
+          "script": "tensao",
+          "asr": "atencao"
+        },
+        {
+          "op": "replace",
+          "script": "desfecho",
+          "asr": "desfejo"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "a"
+        },
+        {
+          "op": "delete",
+          "script": "o mesmo ponto de partida permite conflitos que ainda nao conhecemos",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "ao",
+          "asr": "e o"
+        },
+        {
+          "op": "replace",
+          "script": "hesitacoes",
+          "asr": "resultacoes"
+        },
+        {
+          "op": "replace",
+          "script": "a hipotese",
+          "asr": "ai portas e"
+        },
+        {
+          "op": "replace",
+          "script": "informacao",
+          "asr": "em forma acao"
+        },
+        {
+          "op": "replace",
+          "script": "porque",
+          "asr": "por que"
+        }
+      ]
+    },
+    {
+      "id": "L01-R03",
+      "duration_seconds": 90.72,
+      "codec": "pcm_s16le",
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak_dbfs": -1.17,
+      "longest_silence_below_-45db_seconds": 1.4,
+      "script_words": 216,
+      "asr_words": 216,
+      "matched_word_ratio": 0.9259,
+      "cue_words_detected": [],
+      "differences": [
+        {
+          "op": "replace",
+          "script": "olha",
+          "asr": "e"
+        },
+        {
+          "op": "replace",
+          "script": "seis",
+          "asr": "vi"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "a"
+        },
+        {
+          "op": "replace",
+          "script": "vire",
+          "asr": "virem"
+        },
+        {
+          "op": "insert",
+          "script": "",
+          "asr": "o"
+        },
+        {
+          "op": "replace",
+          "script": "acrescente",
+          "asr": "acrescentir"
+        },
+        {
+          "op": "replace",
+          "script": "fachada",
+          "asr": "faixada"
+        },
+        {
+          "op": "replace",
+          "script": "nao confirma",
+          "asr": "no confima"
+        },
+        {
+          "op": "replace",
+          "script": "acesso",
+          "asr": "acessos"
+        },
+        {
+          "op": "replace",
+          "script": "um",
+          "asr": "uma"
+        },
+        {
+          "op": "delete",
+          "script": "o",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "existe",
+          "asr": "existem"
+        },
+        {
+          "op": "delete",
+          "script": "a",
+          "asr": ""
+        },
+        {
+          "op": "replace",
+          "script": "uma",
+          "asr": "o"
+        },
+        {
+          "op": "replace",
+          "script": "e",
+          "asr": "vai"
+        },
+        {
+          "op": "replace",
+          "script": "lugares",
+          "asr": "logares"
+        },
+        {
+          "op": "replace",
+          "script": "que",
+          "asr": "aqui"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "duration": 372.26,
+  "base_duration": 371.92,
+  "delta_seconds": 0.34,
+  "crossfade_seconds": 0.02,
+  "patch_spans": [
+    {
+      "kind": "old",
+      "start": 0,
+      "end": 296.26,
+      "output_start": 0.0
+    },
+    {
+      "kind": "patch",
+      "start": 0,
+      "end": 4.24,
+      "range": [
+        913,
+        924,
+        0,
+        11
+      ],
+      "output_start": 296.24
+    },
+    {
+      "kind": "old",
+      "start": 299.84,
+      "end": 307.68,
+      "output_start": 300.46
+    },
+    {
+      "kind": "patch",
+      "start": 4.9799999999999995,
+      "end": 7.94,
+      "range": [
+        950,
+        963,
+        11,
+        24
+      ],
+      "output_start": 308.28
+    },
+    {
+      "kind": "old",
+      "start": 310.76,
+      "end": 337.0,
+      "output_start": 311.22
+    },
+    {
+      "kind": "patch",
+      "start": 8.78,
+      "end": 11.12,
+      "range": [
+        1038,
+        1048,
+        24,
+        34
+      ],
+      "output_start": 337.44
+    },
+    {
+      "kind": "old",
+      "start": 339.41999999999996,
+      "end": 371.92,
+      "output_start": 339.76
+    }
+  ],
+  "script_words": 1150,
+  "word_sequence_exact": true,
+  "patch_asr_divergences": [
+    {
+      "kind": "replace",
+      "script": "Window, pra",
+      "asr": "Windows para"
+    },
+    {
+      "kind": "replace",
+      "script": "cinco",
+      "asr": "V"
+    },
+    {
+      "kind": "replace",
+      "script": "pra",
+      "asr": "para"
+    },
+    {
+      "kind": "replace",
+      "script": "tá",
+      "asr": "está"
+    }
+  ],
+  "loudness": {
+    "input_i": "-16.80",
+    "input_tp": "-1.47",
+    "input_lra": "2.80",
+    "input_thresh": "-27.61",
+    "output_i": "-16.41",
+    "output_tp": "-1.50",
+    "output_lra": "2.70",
+    "output_thresh": "-27.22",
+    "normalization_type": "dynamic",
+    "target_offset": "0.41"
+  },
+  "sha256": "407dc02203826d73bcb459988206066a6e2b9b0070f03017f78ac61f24df9ec3",
+  "previous_audio_preserved": true
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Pixel Procurado - Thumbnails"
+  short_description: "Cria capas de Shorts e vídeos longos"
+  brand_color: "#FFD33D"
+  default_prompt: "Use $pixel-procurado-thumbnails para criar uma thumbnail de alto impacto para este vídeo."

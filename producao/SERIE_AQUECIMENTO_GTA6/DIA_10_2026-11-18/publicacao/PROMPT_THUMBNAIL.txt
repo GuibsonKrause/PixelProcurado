@@ -1,0 +1,10 @@
+MÉTODO: composição determinística autorizada; nenhuma geração de imagem/API.
+Fonte: videosGTAVI/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_01.jpg,3840×2160, imagem oficial inspecionada.
+Logo: .agents/skills/pixel-procurado-thumbnails/assets/gta-vi-logo.png, oficial, inspecionada.
+Compositor: .agents/skills/pixel-procurado-thumbnails/scripts/compose_thumbnail.py.
+Base horizontal: recorte editorial do arquivo original, personagens deslocados para a direita, painel grafite à esquerda; faces preservadas, sem alterar feições/roupas.
+Base vertical: recorte editorial da mesma imagem na metade inferior, espaço grafite superior para texto/logo; sem ampliar além da fonte.
+FraseA: É / AMANHÃ!; fraseB: TUDO / PRONTO?. A/Bmantém imagem e grade para comparar a frase.
+Identidade: grafite, branco,amareloFFD33D,Impact eBahnschrift, logoGTA VIcorreta.
+Não incluir relógio 23:59:59, alegação dejogadoresonline, gameplayantecipado, experiência própria ou material não oficial.
+As capas são montagem editorial do canal,não novas capturas oficiais.

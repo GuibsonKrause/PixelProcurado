@@ -1,0 +1,5 @@
+[short] 4 planos conferidos (4 de vídeo): 0 erro(s), 1 aviso(s)
+  AVISO planos 1 e 2 repetem trecho de JAN (2.7–5.9s)
+  folhas de contato (1): C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\ONLY_IN_DADE_2026-11-13\_story\montagem\prevoo  <- olhar antes do render: imagem x card x fala
+Pré-voo sem erros. Confira as folhas de contato e siga para a amostra/render.
+PREVOO_EXIT=0

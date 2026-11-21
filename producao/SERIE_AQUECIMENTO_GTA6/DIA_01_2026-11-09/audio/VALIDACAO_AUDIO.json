@@ -1,0 +1,793 @@
+{
+  "wav": {
+    "duration": 371.92,
+    "sample_rate": 48000,
+    "channels": 1,
+    "sample_width": 2
+  },
+  "loudness": {
+    "input_i": "-16.81",
+    "input_tp": "-1.47",
+    "input_lra": "2.90",
+    "input_thresh": "-27.61",
+    "output_i": "-16.42",
+    "output_tp": "-1.50",
+    "output_lra": "2.80",
+    "output_thresh": "-27.23",
+    "normalization_type": "dynamic",
+    "target_offset": "0.42"
+  },
+  "script_words": 1150,
+  "asr_words": 1133,
+  "asr_first": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "word": "Esquece",
+      "probability": 0.8554
+    },
+    {
+      "start": 0.68,
+      "end": 0.78,
+      "word": "a",
+      "probability": 0.9726
+    },
+    {
+      "start": 0.78,
+      "end": 1.1,
+      "word": "bazuca",
+      "probability": 0.7406
+    },
+    {
+      "start": 1.1,
+      "end": 1.24,
+      "word": "na",
+      "probability": 0.9868
+    },
+    {
+      "start": 1.24,
+      "end": 1.66,
+      "word": "cueca.",
+      "probability": 0.6606
+    },
+    {
+      "start": 2.4,
+      "end": 2.58,
+      "word": "Se",
+      "probability": 0.9875
+    },
+    {
+      "start": 2.58,
+      "end": 2.74,
+      "word": "você",
+      "probability": 0.9906
+    },
+    {
+      "start": 2.74,
+      "end": 3.02,
+      "word": "abriu",
+      "probability": 0.9206
+    }
+  ],
+  "asr_last": [
+    {
+      "start": 369.46,
+      "end": 370.0,
+      "word": "boiando",
+      "probability": 0.968
+    },
+    {
+      "start": 370.0,
+      "end": 370.34,
+      "word": "quando",
+      "probability": 0.838
+    },
+    {
+      "start": 370.34,
+      "end": 370.52,
+      "word": "o",
+      "probability": 0.4894
+    },
+    {
+      "start": 370.52,
+      "end": 370.58,
+      "word": "jogo",
+      "probability": 0.0054
+    },
+    {
+      "start": 370.58,
+      "end": 370.98,
+      "word": "destrava",
+      "probability": 0.516
+    },
+    {
+      "start": 370.98,
+      "end": 371.1,
+      "word": "no",
+      "probability": 0.9327
+    },
+    {
+      "start": 371.1,
+      "end": 371.22,
+      "word": "dia",
+      "probability": 0.9914
+    },
+    {
+      "start": 371.22,
+      "end": 371.52,
+      "word": "19.",
+      "probability": 0.9857
+    }
+  ],
+  "matching_ratio": 0.8734121769601402,
+  "divergences": [
+    {
+      "kind": "replace",
+      "script": "abrir o",
+      "asr": "abriu",
+      "start": 2.74
+    },
+    {
+      "kind": "replace",
+      "script": "seis",
+      "asr": "VI",
+      "start": 3.18
+    },
+    {
+      "kind": "replace",
+      "script": "dezenove",
+      "asr": "19",
+      "start": 3.96
+    },
+    {
+      "kind": "replace",
+      "script": "dois mil e treze,",
+      "asr": "2013,",
+      "start": 6.22
+    },
+    {
+      "kind": "replace",
+      "script": "quinze",
+      "asr": "15",
+      "start": 7.98
+    },
+    {
+      "kind": "replace",
+      "script": "pré-load",
+      "asr": "preload",
+      "start": 11.28
+    },
+    {
+      "kind": "replace",
+      "script": "duzentos e doze gigas",
+      "asr": "212 DIGAS",
+      "start": 11.8
+    },
+    {
+      "kind": "replace",
+      "script": "dez.",
+      "asr": "10.",
+      "start": 14.24
+    },
+    {
+      "kind": "replace",
+      "script": "tá",
+      "asr": "está",
+      "start": 16.66
+    },
+    {
+      "kind": "replace",
+      "script": "seis",
+      "asr": "6",
+      "start": 22.52
+    },
+    {
+      "kind": "replace",
+      "script": "Repara",
+      "asr": "Repare",
+      "start": 24.8
+    },
+    {
+      "kind": "replace",
+      "script": "seis",
+      "asr": "6",
+      "start": 28.68
+    },
+    {
+      "kind": "replace",
+      "script": "dez.",
+      "asr": "10.",
+      "start": 29.12
+    },
+    {
+      "kind": "delete",
+      "script": "o",
+      "asr": "",
+      "start": 34.46
+    },
+    {
+      "kind": "delete",
+      "script": "o",
+      "asr": "",
+      "start": 38.98
+    },
+    {
+      "kind": "delete",
+      "script": "a",
+      "asr": "",
+      "start": 41.18
+    },
+    {
+      "kind": "replace",
+      "script": "cinco",
+      "asr": "V",
+      "start": 44.08
+    },
+    {
+      "kind": "replace",
+      "script": "mal-acostumado. Você",
+      "asr": "mal acostumado. Se",
+      "start": 45.76
+    },
+    {
+      "kind": "replace",
+      "script": "Olha",
+      "asr": "Olhe",
+      "start": 60.5
+    },
+    {
+      "kind": "delete",
+      "script": "o",
+      "asr": "",
+      "start": 64.96
+    },
+    {
+      "kind": "replace",
+      "script": "um",
+      "asr": "1",
+      "start": 73.62
+    },
+    {
+      "kind": "replace",
+      "script": "L dois",
+      "asr": "L2",
+      "start": 75.6
+    },
+    {
+      "kind": "replace",
+      "script": "elevador",
+      "asr": "levador",
+      "start": 78.0
+    },
+    {
+      "kind": "replace",
+      "script": "comando",
+      "asr": "a comanda",
+      "start": 85.28
+    },
+    {
+      "kind": "replace",
+      "script": "voadora.",
+      "asr": "voadura.",
+      "start": 95.6
+    },
+    {
+      "kind": "replace",
+      "script": "triângulo",
+      "asr": "trigângulo",
+      "start": 97.18
+    },
+    {
+      "kind": "replace",
+      "script": "fresta",
+      "asr": "freça",
+      "start": 100.6
+    },
+    {
+      "kind": "replace",
+      "script": "cinco,",
+      "asr": "V,",
+      "start": 107.06
+    },
+    {
+      "kind": "replace",
+      "script": "porteiro",
+      "asr": "porter",
+      "start": 111.74
+    },
+    {
+      "kind": "replace",
+      "script": "azeda",
+      "asr": "a zé da",
+      "start": 115.82
+    },
+    {
+      "kind": "replace",
+      "script": "três.",
+      "asr": "3.",
+      "start": 120.24
+    },
+    {
+      "kind": "replace",
+      "script": "quatro",
+      "asr": "4",
+      "start": 130.64
+    },
+    {
+      "kind": "replace",
+      "script": "vinte, adivinha o",
+      "asr": "20, adivinham",
+      "start": 131.04
+    },
+    {
+      "kind": "replace",
+      "script": "dois mil e treze",
+      "asr": "2013",
+      "start": 133.7
+    },
+    {
+      "kind": "replace",
+      "script": "giratória,",
+      "asr": "genatória,",
+      "start": 138.02
+    },
+    {
+      "kind": "replace",
+      "script": "lança-mísseis",
+      "asr": "lança mi -6",
+      "start": 139.32
+    },
+    {
+      "kind": "replace",
+      "script": "bolso",
+      "asr": "borro",
+      "start": 144.08
+    },
+    {
+      "kind": "replace",
+      "script": "Olha",
+      "asr": "Olhe",
+      "start": 145.66
+    },
+    {
+      "kind": "replace",
+      "script": "quatro",
+      "asr": "4",
+      "start": 147.6
+    },
+    {
+      "kind": "replace",
+      "script": "vinte.",
+      "asr": "20.",
+      "start": 148.08
+    },
+    {
+      "kind": "replace",
+      "script": "briga",
+      "asr": "brilhar",
+      "start": 149.92
+    },
+    {
+      "kind": "replace",
+      "script": "quatro",
+      "asr": "4",
+      "start": 157.28
+    },
+    {
+      "kind": "replace",
+      "script": "trinta",
+      "asr": "30",
+      "start": 157.72
+    },
+    {
+      "kind": "replace",
+      "script": "L um",
+      "asr": "L1",
+      "start": 161.72
+    },
+    {
+      "kind": "replace",
+      "script": "Moreland oitocentos e cinquenta",
+      "asr": "Morland 850",
+      "start": 163.3
+    },
+    {
+      "kind": "replace",
+      "script": "pendurado",
+      "asr": "apendurado",
+      "start": 168.88
+    },
+    {
+      "kind": "replace",
+      "script": "três",
+      "asr": "3",
+      "start": 173.06
+    },
+    {
+      "kind": "replace",
+      "script": "doze",
+      "asr": "12",
+      "start": 174.14
+    },
+    {
+      "kind": "replace",
+      "script": "um metro e meio.",
+      "asr": "1 ,5m.",
+      "start": 175.0
+    },
+    {
+      "kind": "replace",
+      "script": "atirando",
+      "asr": "tirando",
+      "start": 180.34
+    },
+    {
+      "kind": "replace",
+      "script": "Olha",
+      "asr": "Olhe",
+      "start": 181.9
+    },
+    {
+      "kind": "replace",
+      "script": "quatro",
+      "asr": "4",
+      "start": 183.72
+    },
+    {
+      "kind": "replace",
+      "script": "quarenta",
+      "asr": "40",
+      "start": 184.14
+    },
+    {
+      "kind": "replace",
+      "script": "cinco",
+      "asr": "5",
+      "start": 185.02
+    },
+    {
+      "kind": "replace",
+      "script": "cinquenta",
+      "asr": "50",
+      "start": 185.4
+    },
+    {
+      "kind": "replace",
+      "script": "seis cartuchos no",
+      "asr": "6 cartuches do",
+      "start": 187.6
+    },
+    {
+      "kind": "insert",
+      "script": "",
+      "asr": "a",
+      "start": 190.52
+    },
+    {
+      "kind": "replace",
+      "script": "de um colchão",
+      "asr": "do cochão",
+      "start": 195.06
+    },
+    {
+      "kind": "replace",
+      "script": "Lucia fecha o",
+      "asr": "luz se afeste ao",
+      "start": 197.58
+    },
+    {
+      "kind": "replace",
+      "script": "pro",
+      "asr": "para o",
+      "start": 208.8
+    },
+    {
+      "kind": "replace",
+      "script": "cinco",
+      "asr": "5",
+      "start": 213.74
+    },
+    {
+      "kind": "replace",
+      "script": "quarenta:",
+      "asr": "40.",
+      "start": 214.12
+    },
+    {
+      "kind": "replace",
+      "script": "fluorescente",
+      "asr": "florescente",
+      "start": 217.12
+    },
+    {
+      "kind": "replace",
+      "script": "num",
+      "asr": "no",
+      "start": 218.42
+    },
+    {
+      "kind": "insert",
+      "script": "",
+      "asr": "e",
+      "start": 219.06
+    },
+    {
+      "kind": "replace",
+      "script": "gente",
+      "asr": "jeite",
+      "start": 222.78
+    },
+    {
+      "kind": "replace",
+      "script": "pupila",
+      "asr": "popila",
+      "start": 225.46
+    },
+    {
+      "kind": "replace",
+      "script": "pra",
+      "asr": "para",
+      "start": 226.88
+    },
+    {
+      "kind": "replace",
+      "script": "vulto errado",
+      "asr": "volterrado",
+      "start": 229.04
+    },
+    {
+      "kind": "replace",
+      "script": "pra",
+      "asr": "para",
+      "start": 229.92
+    },
+    {
+      "kind": "replace",
+      "script": "pro",
+      "asr": "para o",
+      "start": 233.4
+    },
+    {
+      "kind": "replace",
+      "script": "pra",
+      "asr": "para",
+      "start": 237.86
+    },
+    {
+      "kind": "delete",
+      "script": "lá",
+      "asr": "",
+      "start": 238.86
+    },
+    {
+      "kind": "insert",
+      "script": "",
+      "asr": "9",
+      "start": 238.94
+    },
+    {
+      "kind": "replace",
+      "script": "vinte e quatro,",
+      "asr": "24,",
+      "start": 239.48
+    },
+    {
+      "kind": "insert",
+      "script": "",
+      "asr": "o",
+      "start": 243.76
+    },
+    {
+      "kind": "replace",
+      "script": "Lucia manda",
+      "asr": "luz se amanda",
+      "start": 245.28
+    },
+    {
+      "kind": "replace",
+      "script": "tá",
+      "asr": "está",
+      "start": 246.88
+    },
+    {
+      "kind": "insert",
+      "script": "",
+      "asr": "a",
+      "start": 249.38
+    },
+    {
+      "kind": "replace",
+      "script": "impressora",
+      "asr": "pressora",
+      "start": 250.84
+    },
+    {
+      "kind": "replace",
+      "script": "vinte",
+      "asr": "25",
+      "start": 254.02
+    },
+    {
+      "kind": "replace",
+      "script": "cinco e trinta,",
+      "asr": "30,",
+      "start": 254.6
+    },
+    {
+      "kind": "replace",
+      "script": "o atestado",
+      "asr": "a testada do",
+      "start": 262.04
+    },
+    {
+      "kind": "replace",
+      "script": "dezenove",
+      "asr": "19",
+      "start": 264.18
+    },
+    {
+      "kind": "insert",
+      "script": "",
+      "asr": "a",
+      "start": 265.66
+    },
+    {
+      "kind": "replace",
+      "script": "pra",
+      "asr": "para",
+      "start": 269.74
+    },
+    {
+      "kind": "replace",
+      "script": "o ambiente.",
+      "asr": "um bilhante.",
+      "start": 270.96
+    },
+    {
+      "kind": "replace",
+      "script": "seis",
+      "asr": "6",
+      "start": 278.62
+    },
+    {
+      "kind": "replace",
+      "script": "dez",
+      "asr": "10",
+      "start": 279.0
+    },
+    {
+      "kind": "replace",
+      "script": "o malote",
+      "asr": "uma lote",
+      "start": 283.84
+    },
+    {
+      "kind": "replace",
+      "script": "pra",
+      "asr": "para",
+      "start": 286.6
+    },
+    {
+      "kind": "replace",
+      "script": "dois mil e treze.",
+      "asr": "2013.",
+      "start": 292.92
+    },
+    {
+      "kind": "replace",
+      "script": "pra",
+      "asr": "para",
+      "start": 297.98
+    },
+    {
+      "kind": "replace",
+      "script": "Slim Jim,",
+      "asr": "sling in,",
+      "start": 301.54
+    },
+    {
+      "kind": "replace",
+      "script": "pra",
+      "asr": "para",
+      "start": 305.14
+    },
+    {
+      "kind": "replace",
+      "script": "cinco",
+      "asr": "V",
+      "start": 309.18
+    },
+    {
+      "kind": "replace",
+      "script": "testemunha,",
+      "asr": "tistemunha,",
+      "start": 315.34
+    },
+    {
+      "kind": "delete",
+      "script": "a",
+      "asr": "",
+      "start": 318.36
+    },
+    {
+      "kind": "delete",
+      "script": "a",
+      "asr": "",
+      "start": 319.48
+    },
+    {
+      "kind": "replace",
+      "script": "pra",
+      "asr": "para a",
+      "start": 320.08
+    },
+    {
+      "kind": "replace",
+      "script": "Slim Jim",
+      "asr": "sling in",
+      "start": 324.3
+    },
+    {
+      "kind": "replace",
+      "script": "um",
+      "asr": "o",
+      "start": 345.14
+    },
+    {
+      "kind": "replace",
+      "script": "de apartamento,",
+      "asr": "do departamento,",
+      "start": 346.36
+    },
+    {
+      "kind": "replace",
+      "script": "duzentos e doze gigas",
+      "asr": "212 GB",
+      "start": 352.88
+    },
+    {
+      "kind": "replace",
+      "script": "pré-load,",
+      "asr": "preload,",
+      "start": 357.46
+    },
+    {
+      "kind": "replace",
+      "script": "caixa-preta",
+      "asr": "caixa preta",
+      "start": 358.84
+    },
+    {
+      "kind": "replace",
+      "script": "duzentos e doze gigas",
+      "asr": "212 GB",
+      "start": 359.54
+    },
+    {
+      "kind": "replace",
+      "script": "Leonida.",
+      "asr": "Leónida.",
+      "start": 364.42
+    },
+    {
+      "kind": "replace",
+      "script": "pra",
+      "asr": "para",
+      "start": 369.04
+    },
+    {
+      "kind": "replace",
+      "script": "destravar",
+      "asr": "destrava",
+      "start": 370.58
+    },
+    {
+      "kind": "replace",
+      "script": "dezenove.",
+      "asr": "19.",
+      "start": 371.22
+    }
+  ],
+  "subtitle_alignment": "ASR anchors; unmatched script words interpolated and flagged in divergences",
+  "hook_first_five_words_end": 1.66
+}

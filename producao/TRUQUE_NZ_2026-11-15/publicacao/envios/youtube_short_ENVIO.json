@@ -1,0 +1,108 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-16T02:31:49.627926+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "GTA 6 às 8h da manhã de quarta? 🕗 No Xbox são 3 cliques. No PS5 custa outro jogo. E ninguém confirmou que funciona. Qual é a sua plataforma?\n\n#GTA6 #GTAVI #TruqueDaNovaZelandia #Xbox #PS5 #GTA6Brasil #Rockstar #Games",
+          "image": [
+            {
+              "id": "66379555-dc3d-4fac-aabb-184e81f1a84f",
+              "name": "c13ddb5bbd2ae93fb4b6bdfd2ac93da2.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/16/c13ddb5bbd2ae93fb4b6bdfd2ac93da2.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6 às 8h da Manhã? Xbox x PS5",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "truque da Nova Zelândia",
+            "label": "truque da Nova Zelândia"
+          },
+          {
+            "value": "GTA 6 Nova Zelândia",
+            "label": "GTA 6 Nova Zelândia"
+          },
+          {
+            "value": "jogar GTA 6 antes",
+            "label": "jogar GTA 6 antes"
+          },
+          {
+            "value": "GTA 6 horário de lançamento",
+            "label": "GTA 6 horário de lançamento"
+          },
+          {
+            "value": "GTA 6 horário Brasil",
+            "label": "GTA 6 horário Brasil"
+          },
+          {
+            "value": "GTA 6 Xbox região",
+            "label": "GTA 6 Xbox região"
+          },
+          {
+            "value": "mudar região Xbox",
+            "label": "mudar região Xbox"
+          },
+          {
+            "value": "GTA 6 PS5 conta Nova Zelândia",
+            "label": "GTA 6 PS5 conta Nova Zelândia"
+          },
+          {
+            "value": "GTA 6 lançamento meia-noite",
+            "label": "GTA 6 lançamento meia-noite"
+          },
+          {
+            "value": "GTA 6 pré-carregamento",
+            "label": "GTA 6 pré-carregamento"
+          },
+          {
+            "value": "GTA 6 19 de novembro",
+            "label": "GTA 6 19 de novembro"
+          },
+          {
+            "value": "New Zealand trick",
+            "label": "New Zealand trick"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "58c6c8f6-fcf8-4b8c-8f85-82436524f54e",
+          "name": "395b167a27f3c24feedbd5b5d8e382c6.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/16/395b167a27f3c24feedbd5b5d8e382c6.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

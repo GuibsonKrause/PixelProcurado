@@ -1,0 +1,30 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-04T18:16:28.638511+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Do horizonte ao pântano | Pixel Procurado L06",
+          "image": [
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/90de8318964a1089b837e5cb55db57e1b.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "story"
+      }
+    }
+  ]
+}

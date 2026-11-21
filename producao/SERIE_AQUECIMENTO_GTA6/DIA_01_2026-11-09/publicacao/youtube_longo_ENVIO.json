@@ -1,0 +1,96 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-11T03:05:08.024984+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: esqueça o jeito de jogar GTA 5 | Análise do gameplay",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "label": "GTA 6",
+            "value": "GTA 6"
+          },
+          {
+            "label": "GTA VI",
+            "value": "GTA VI"
+          },
+          {
+            "label": "GTA 6 gameplay",
+            "value": "GTA 6 gameplay"
+          },
+          {
+            "label": "GTA 6 gameplay oficial",
+            "value": "GTA 6 gameplay oficial"
+          },
+          {
+            "label": "GTA 6 análise",
+            "value": "GTA 6 análise"
+          },
+          {
+            "label": "GTA VI português",
+            "value": "GTA VI português"
+          },
+          {
+            "label": "GTA 6 Jason Lucia",
+            "value": "GTA 6 Jason Lucia"
+          },
+          {
+            "label": "Leonida",
+            "value": "Leonida"
+          },
+          {
+            "label": "Rockstar Games",
+            "value": "Rockstar Games"
+          },
+          {
+            "label": "GTA 6 preload",
+            "value": "GTA 6 preload"
+          },
+          {
+            "label": "GTA 6 212 GB",
+            "value": "GTA 6 212 GB"
+          },
+          {
+            "label": "Pixel Procurado",
+            "value": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "eccb0475-d551-4282-8929-276aceab72dc",
+          "name": "3e1c5251521c4d7fafaee0701ff88b5a.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/11/3e1c5251521c4d7fafaee0701ff88b5a.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      },
+      "value": [
+        {
+          "content": "Esquece a bazuca na cueca. O gameplay oficial de GTA VI mostra interações no prédio, armas recolhidas no chão, combate em corredores e duas opções na porta do carro vermelho. Neste episódio do Pixel Procurado, analisamos o que essas imagens sugerem para quem vem de GTA V.\n\nAnálise das imagens do gameplay oficial: as conclusões editoriais sobre comportamento, dificuldade e consequências são interpretações do vídeo, sem teste jogável próprio.\n\nFontes oficiais:\nRockstar — An Extended Look: https://www.rockstargames.com/VI/an-extended-look\nRockstar Support — pré-load e lançamento: https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s?pubDate=20261107\nRockstar Support — requisitos de instalação, até 212 GB conforme aparelho: https://support.rockstargames.com/articles/M6h7B5fJZMwG1dnzQkt4Z/grand-theft-auto-vi-installation-requirements\n\nPré-load: 10 de novembro. Lançamento: 19 de novembro de 2026. A instalação pode ocupar até 212 GB, dependendo do aparelho; consulte as orientações da sua plataforma.\n\nInscreva-se para acompanhar a série de aquecimento do GTA 6.\n\n#GTA6 #GTAVI #PixelProcurado\n\nCapítulos:\n00:00 Esqueça os hábitos de GTA 5\n00:59 A primeira entrada no prédio\n01:57 Laboratório e malote\n02:24 Armas e inventário\n03:01 Fumaça, cobertura e ângulos\n03:32 Do corredor ao escuro\n03:57 Infiltração no escritório\n04:37 O HUD do carro vermelho\n05:44 Pré-load e próximo episódio\n\nCapa: montagem editorial criada com referência ao gameplay.",
+          "image": [
+            {
+              "id": "519caefc-0f45-48bb-9a9e-6be70e94da92",
+              "name": "048e4d226e9ad5399a67b19b329b1dd3.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/11/048e4d226e9ad5399a67b19b329b1dd3.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ]
+    }
+  ]
+}

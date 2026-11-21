@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Tem um streamer no porta-malas do GTA 6. Sem malote, sem fuzil: o gameplay mostra um influenciador deitado no carro em movimento, com live de 51 mil. O que o carro virou está num ícone pequeno embaixo das estrelas, em dois tipos de corrida e numa oficina que só existe em foto. Sábado 14/11, faltam 5 dias para 19/11. No dia 19, você larga o carro marcado ou foge com ele? Amanhã, domingo 15/11: 11 detalhes doentios. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/c0a431200aaf4e2cbab0577e906141b4.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: O Que Tem no Porta-Malas (Não É Arma)"
+      }
+    }
+  ]
+}

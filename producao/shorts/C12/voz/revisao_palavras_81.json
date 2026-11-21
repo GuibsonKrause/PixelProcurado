@@ -1,0 +1,38 @@
+[
+  {
+    "start": 81.0,
+    "end": 81.14,
+    "word": "Sem",
+    "probability": 0.004341453313827515
+  },
+  {
+    "start": 81.14,
+    "end": 81.4,
+    "word": "virar",
+    "probability": 0.869333416223526
+  },
+  {
+    "start": 81.4,
+    "end": 81.94,
+    "word": "certificada",
+    "probability": 0.8803533613681793
+  },
+  {
+    "start": 81.94,
+    "end": 82.04,
+    "word": "de",
+    "probability": 0.9987545013427734
+  },
+  {
+    "start": 82.04,
+    "end": 82.48,
+    "word": "prudência.",
+    "probability": 0.8537100156148275
+  },
+  {
+    "start": 83.0,
+    "end": 83.72,
+    "word": "Afinal.",
+    "probability": 0.9349142909049988
+  }
+]

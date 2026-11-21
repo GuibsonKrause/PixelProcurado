@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "items": {
+    "youtube_longo": {
+      "medias": [
+        {
+          "id": "e2ccd833-2d55-4c52-b4fa-239e49d7db6f",
+          "name": "4bafe517ce3b810a1e35d4105e4a58f4d2.mp4",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/16/4bafe517ce3b810a1e35d4105e4a58f4d2.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "capa_obj": {
+        "id": "c7a4ca23-aca5-464e-896d-cff3a98748e8",
+        "name": "75e325a86859110ecc322d2f7db4739cd.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/16/75e325a86859110ecc322d2f7db4739cd.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-16T02:31:41.945751+00:00",
+      "post_id": "cmwindo0i0003pn98swfkj5j0",
+      "enviado_em": "2026-11-16T02:31:41.945751+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=tYXDjcRv0OA",
+        "releaseId": "tYXDjcRv0OA",
+        "publishDate": "2026-11-16T02:31:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "youtube_short": {
+      "medias": [
+        {
+          "id": "66379555-dc3d-4fac-aabb-184e81f1a84f",
+          "name": "c13ddb5bbd2ae93fb4b6bdfd2ac93da2.mp4",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/16/c13ddb5bbd2ae93fb4b6bdfd2ac93da2.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "capa_obj": {
+        "id": "58c6c8f6-fcf8-4b8c-8f85-82436524f54e",
+        "name": "395b167a27f3c24feedbd5b5d8e382c6.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/16/395b167a27f3c24feedbd5b5d8e382c6.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-16T02:31:49.627926+00:00",
+      "post_id": "cmwindtc30004pn98yqy30t9j",
+      "enviado_em": "2026-11-16T02:31:49.627926+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=EP1Yf92pJw8",
+        "releaseId": "EP1Yf92pJw8",
+        "publishDate": "2026-11-16T02:31:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_integral": {
+      "r2_key_0": "publicacoes/974685b4ab5640ae8324bf07dbaa72c9.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/974685b4ab5640ae8324bf07dbaa72c9.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-16T02:34:11.800439+00:00",
+      "post_id": "cmwingv2c0005pn987r3kbtr7",
+      "enviado_em": "2026-11-16T02:34:11.800439+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/reel/1650461956580939",
+        "releaseId": "1650461956580939",
+        "publishDate": "2026-11-16T02:34:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_curto": {
+      "r2_key_0": "publicacoes/aa93a099bdde4477be7d339d5cf0b622.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/aa93a099bdde4477be7d339d5cf0b622.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-16T02:34:25.681856+00:00",
+      "post_id": "cmwinh5kc0006pn98cxywgj6i",
+      "enviado_em": "2026-11-16T02:34:25.681856+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/reel/1428643486006315",
+        "releaseId": "1428643486006315",
+        "publishDate": "2026-11-16T02:34:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_story": {
+      "r2_key_0": "publicacoes/e239da0c38d4408eb188f1985f483fd7.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/e239da0c38d4408eb188f1985f483fd7.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-16T02:34:39.095144+00:00",
+      "post_id": "cmwinhg590007pn98le7ul4k8",
+      "enviado_em": "2026-11-16T02:34:39.095144+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/stories/1606044178233551",
+        "releaseId": "1606044178233551",
+        "publishDate": "2026-11-16T02:34:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_integral": {
+      "r2_key_0": "publicacoes/22a5fe3a51154f64b48a1ea80b639186.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/22a5fe3a51154f64b48a1ea80b639186.mp4"
+        }
+      ],
+      "r2_key_capa": "publicacoes/673b3b1f75ff46c7aeedff2de98c529b.jpg",
+      "capa_obj": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/673b3b1f75ff46c7aeedff2de98c529b.jpg"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-16T02:35:23.864334+00:00",
+      "post_id": "cmwiniev00008pn980abarb0g",
+      "enviado_em": "2026-11-16T02:35:23.864334+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/DfyTH04pOC_/",
+        "releaseId": "18131456980844326",
+        "publishDate": "2026-11-16T02:35:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_reel": {
+      "r2_key_0": "publicacoes/83447a4b13724a40bcddc7cb38714e02.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/83447a4b13724a40bcddc7cb38714e02.mp4"
+        }
+      ],
+      "r2_key_capa": "publicacoes/adf83aedd8d343f1b23bfb9445a164b3.jpg",
+      "capa_obj": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/adf83aedd8d343f1b23bfb9445a164b3.jpg"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-16T02:35:39.444034+00:00",
+      "post_id": "cmwiniqna0009pn988dvb0t7b",
+      "enviado_em": "2026-11-16T02:35:39.444034+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/DfyTE_BhzZ9/",
+        "releaseId": "18599424151070411",
+        "publishDate": "2026-11-16T02:35:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_story": {
+      "r2_key_0": "publicacoes/9f1fd54acad8490facb8b8b47ae4c250.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/9f1fd54acad8490facb8b8b47ae4c250.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-16T02:35:54.886097+00:00",
+      "post_id": "cmwinj2oj000apn98va1nlf37",
+      "enviado_em": "2026-11-16T02:35:54.886097+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/stories/pixelprocurado/4031368645860382549",
+        "releaseId": "17979888264152871",
+        "publishDate": "2026-11-16T02:35:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "tiktok_short": {
+      "r2_key_0": "publicacoes/5eb32f2a3b9c4e7f9a505c34f0f5b4bf.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/5eb32f2a3b9c4e7f9a505c34f0f5b4bf.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-16T02:36:12.575380+00:00",
+      "post_id": "cmwinjgjo000bpn98ownh9280",
+      "enviado_em": "2026-11-16T02:36:12.575380+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "ERROR",
+        "releaseURL": null,
+        "releaseId": null,
+        "publishDate": "2026-11-16T02:36:00.000Z",
+        "error": "Failed to upload the video to TikTok"
+      }
+    }
+  }
+}

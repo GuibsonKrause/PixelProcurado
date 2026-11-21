@@ -1,0 +1,168 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Tem um streamer nesse porta-malas. E o carro que ele está deitado vai andando, com viatura do lado e live de 51 mil no canto. No GTA 6, o que o carro virou está num ícone embaixo das estrelas. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "7b66cc72-deeb-4cde-a55f-8c7e7fa60388",
+              "name": "34c297b83521669b7559a7f64107f9cd.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/13/34c297b83521669b7559a7f64107f9cd.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: Tem um Streamer no Porta-Malas #shorts",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "GTA 6 porta-malas",
+            "label": "GTA 6 porta-malas"
+          },
+          {
+            "value": "GTA 6 carros",
+            "label": "GTA 6 carros"
+          },
+          {
+            "value": "GTA 6 polícia",
+            "label": "GTA 6 polícia"
+          },
+          {
+            "value": "GTA 6 estrelas de procurado",
+            "label": "GTA 6 estrelas de procurado"
+          },
+          {
+            "value": "GTA 6 ícone",
+            "label": "GTA 6 ícone"
+          },
+          {
+            "value": "GTA 6 corrida de rua",
+            "label": "GTA 6 corrida de rua"
+          },
+          {
+            "value": "GTA 6 racha",
+            "label": "GTA 6 racha"
+          },
+          {
+            "value": "GTA 6 oficina",
+            "label": "GTA 6 oficina"
+          },
+          {
+            "value": "GTA 6 Ultimate Edition",
+            "label": "GTA 6 Ultimate Edition"
+          },
+          {
+            "value": "GTA 6 Rideout Customs",
+            "label": "GTA 6 Rideout Customs"
+          },
+          {
+            "value": "Lucia GTA 6",
+            "label": "Lucia GTA 6"
+          },
+          {
+            "value": "Jason GTA 6",
+            "label": "Jason GTA 6"
+          },
+          {
+            "value": "Jason e Lucia",
+            "label": "Jason e Lucia"
+          },
+          {
+            "value": "Leonida",
+            "label": "Leonida"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "GTA 6 Vice City",
+            "label": "GTA 6 Vice City"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "An Extended Look",
+            "label": "An Extended Look"
+          },
+          {
+            "value": "GTA 6 19 de novembro",
+            "label": "GTA 6 19 de novembro"
+          },
+          {
+            "value": "GTA 6 lançamento",
+            "label": "GTA 6 lançamento"
+          },
+          {
+            "value": "GTA 6 dia 6",
+            "label": "GTA 6 dia 6"
+          },
+          {
+            "value": "Pay and Spray",
+            "label": "Pay and Spray"
+          },
+          {
+            "value": "GTA 6 streamer",
+            "label": "GTA 6 streamer"
+          },
+          {
+            "value": "GTA 6 trailer",
+            "label": "GTA 6 trailer"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          },
+          {
+            "value": "GTA 6 Brasil",
+            "label": "GTA 6 Brasil"
+          }
+        ],
+        "thumbnail": {
+          "id": "1fb94dd5-0a47-434c-bf57-943a2d615a97",
+          "name": "adcaabc0e45aee59b87075ac5dcdc3b2.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/13/adcaabc0e45aee59b87075ac5dcdc3b2.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

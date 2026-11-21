@@ -1,0 +1,289 @@
+{
+  "omitted_connective": {
+    "word": "E",
+    "paragraph": 1
+  },
+  "article_change": "uma linguagem → a linguagem",
+  "divergences": [
+    {
+      "kind": "insert",
+      "start": 6.22,
+      "end": 6.22,
+      "asr": "",
+      "script": "a",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 10.7,
+      "end": 11.0,
+      "asr": "80.",
+      "script": "oitenta.",
+      "status": "numeric_expansion"
+    },
+    {
+      "kind": "replace",
+      "start": 20.72,
+      "end": 21.1,
+      "asr": "VIII.",
+      "script": "Vercetti.",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 65.46,
+      "end": 65.88,
+      "asr": "2002,",
+      "script": "dois mil e dois,",
+      "status": "numeric_expansion"
+    },
+    {
+      "kind": "replace",
+      "start": 67.88,
+      "end": 68.68,
+      "asr": "1986.",
+      "script": "mil novecentos e oitenta e seis.",
+      "status": "numeric_expansion"
+    },
+    {
+      "kind": "replace",
+      "start": 73.12,
+      "end": 73.42,
+      "asr": "6",
+      "script": "seis",
+      "status": "numeric_expansion"
+    },
+    {
+      "kind": "replace",
+      "start": 77.76,
+      "end": 78.16,
+      "asr": "80",
+      "script": "oitenta",
+      "status": "numeric_expansion"
+    },
+    {
+      "kind": "replace",
+      "start": 97.56,
+      "end": 97.98,
+      "asr": "faixada.",
+      "script": "fachada.",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 103.1,
+      "end": 103.52,
+      "asr": "6,",
+      "script": "seis,",
+      "status": "numeric_expansion"
+    },
+    {
+      "kind": "replace",
+      "start": 128.49,
+      "end": 129.53,
+      "asr": "Dimes, dois",
+      "script": "Dimez, duas",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 131.47,
+      "end": 131.79,
+      "asr": "cercada",
+      "script": "cercadas",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 144.79,
+      "end": 145.13,
+      "asr": "aversão",
+      "script": "versão",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 161.35,
+      "end": 161.63,
+      "asr": "em",
+      "script": "aí",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 163.29,
+      "end": 163.75,
+      "asr": "ensinar",
+      "script": "encenar",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 173.92,
+      "end": 174.26,
+      "asr": "promessa",
+      "script": "promessas",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 177.2,
+      "end": 177.82,
+      "asr": "comerciales",
+      "script": "comerciais",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 180.52,
+      "end": 181.18,
+      "asr": "1986.",
+      "script": "mil novecentos e oitenta e seis.",
+      "status": "numeric_expansion"
+    },
+    {
+      "kind": "replace",
+      "start": 186.92,
+      "end": 187.4,
+      "asr": "colocá -lo",
+      "script": "colocá-lo",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 192.72,
+      "end": 192.88,
+      "asr": "num",
+      "script": "no",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "delete",
+      "start": 200.22,
+      "end": 200.38,
+      "asr": "os",
+      "script": "",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 206.6,
+      "end": 207.16,
+      "asr": "algum segundo",
+      "script": "alguns segundos",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 209.5,
+      "end": 209.84,
+      "asr": "afester",
+      "script": "a festa é a",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 216.0,
+      "end": 216.44,
+      "asr": "baranda,",
+      "script": "varanda,",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 220.12,
+      "end": 220.42,
+      "asr": "câmara",
+      "script": "câmera",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 224.74,
+      "end": 225.2,
+      "asr": "vai se sítio",
+      "script": "Vice City",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 230.36,
+      "end": 230.8,
+      "asr": "Imagina",
+      "script": "Imaginar,",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "insert",
+      "start": 231.56,
+      "end": 231.56,
+      "asr": "",
+      "script": "a",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 240.18,
+      "end": 240.56,
+      "asr": "detentor",
+      "script": "detector",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 271.6,
+      "end": 271.84,
+      "asr": "pelo",
+      "script": "pela",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 284.8,
+      "end": 285.2,
+      "asr": "baranda,",
+      "script": "varanda,",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "delete",
+      "start": 287.98,
+      "end": 288.08,
+      "asr": "a",
+      "script": "",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 288.98,
+      "end": 289.38,
+      "asr": "engordar.",
+      "script": "guardar.",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 315.1,
+      "end": 315.46,
+      "asr": "Dimes",
+      "script": "Dimez",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "insert",
+      "start": 318.1,
+      "end": 318.1,
+      "asr": "",
+      "script": "é",
+      "status": "asr_ambiguity_estimated"
+    },
+    {
+      "kind": "replace",
+      "start": 319.84,
+      "end": 320.26,
+      "asr": "exibir o",
+      "script": "exibi-lo",
+      "status": "asr_ambiguity_estimated"
+    }
+  ]
+}

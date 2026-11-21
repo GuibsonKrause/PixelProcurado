@@ -1,0 +1,42 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-16T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "A meta oficial do GTA 6 é 30 quadros por segundo. Deslize: o que o PS5 Pro ganha segundo a Rockstar, o que não está confirmado e como conferir sozinho. Não é conselho de compra. Vídeo completo no canal. Faltam 3 dias para 19/11. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/132412aa40614682b0449dfc56c4bcfc.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/22764791fe034026a37822e9a3bb4e1f.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/760f61181ce3475d8f49328f1d28b78a.jpg"
+            },
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/bf95e20799d144aca18d4ad65659488d.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "DIA_04_2026-11-12__story",
+  "titulo": "Os NPCs do GTA 6 Têm Mais Problemas Que Você",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "PONTE": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/salto_0900.jpg",
+    "MOTEL": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/motel_0920.jpg",
+    "T1": "GTAVI_Trailer_1.mp4"
+  },
+  "rotulos_obrigatorios": {
+    "GTAV": "GTA V"
+  },
+  "correcoes_legenda": {},
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_DIA04_Story_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_story/audio/narracao.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_story/audio/palavras.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 42,
+          "tipo": "editorial",
+          "corte": [
+            0,
+            1.8
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "09:00",
+          "detalhe": "Salto da ponte",
+          "midia": "EXT",
+          "inicio": 538,
+          "tipo": "editorial",
+          "corte": [
+            1.8,
+            4.5
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PONTE",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            4.5,
+            7.833
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "09:20",
+          "detalhe": "Pátio do motel",
+          "midia": "EXT",
+          "inicio": 555.5,
+          "tipo": "editorial",
+          "corte": [
+            7.833,
+            11.6
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "MOTEL",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            11.6,
+            15.35
+          ],
+          "sem_card": true
+        }
+      ]
+    }
+  }
+}

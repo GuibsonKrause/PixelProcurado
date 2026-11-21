@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-18T02:53:21.602086+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Vice City pede documento na porta: o cartaz de ID check, o logo do Jack of Hearts, a festa, o elevador e o tiroteio, como aparecem no vídeo oficial An Extended Look. Boobie Ike, Dre'Quan e Real Dimez segundo a Rockstar. Uma pistola com silenciador aparece no chão por volta de 25:37; quem usou e se é cobertura: não confirmado. Terça 17/11, faltam 2 dias para 19/11. #GTA6 #GTAVI #ViceCity #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/fc3cf0c354cd47d0a0cf55668872b87e.mp4",
+              "thumbnail": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/17c0f05dbe744618b09e716fc4efd091.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

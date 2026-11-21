@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-16T14:39:52.021863+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "A Rockstar soltou o trailer do pré-load de GTA 6: 29 segundos, cartela PRE-LOAD NOW e a data de 19 de novembro de 2026 na tela final. O vídeo cita PS5 e Xbox Series X|S e a nota \"Captured on PS5\". Sobre PC, nenhuma palavra: quem joga no computador segue esperando um anúncio próprio. Confira a data e a disponibilidade na fonte oficial da Rockstar.\n\nFonte: trailer oficial \"Pre-Load Now\", Rockstar Games. Imagens de GTA VI: Rockstar Games. Narração com voz sintética.\n\nSeu console já está pronto para o pré-load? Conta aqui.\n\n#GTA6 #GTAVI #PreLoad",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/5c27e5bf5e5b4651a87bb795c4f4c6f4.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: Pré-Load Chegou! E o PC?"
+      }
+    }
+  ]
+}

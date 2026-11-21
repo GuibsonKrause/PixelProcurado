@@ -1,0 +1,199 @@
+{
+  "corrections": [
+    {
+      "op": "replace",
+      "start": 3.18,
+      "end": 3.48,
+      "script": "seis,",
+      "asr": "6",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 11.0,
+      "end": 11.16,
+      "script": "pra",
+      "asr": "para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 15.24,
+      "end": 16.5,
+      "script": "cinco, divulgada",
+      "asr": "5, divulgado",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 16.72,
+      "end": 17.2,
+      "script": "dois mil e doze.",
+      "asr": "2012.",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 20.38,
+      "end": 20.5,
+      "script": "",
+      "asr": "A",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 27.58,
+      "end": 27.84,
+      "script": "pra",
+      "asr": "para a",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 29.44,
+      "end": 30.08,
+      "script": "com gente",
+      "asr": "congente",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 42.16,
+      "end": 42.38,
+      "script": "pra",
+      "asr": "para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 44.48,
+      "end": 45.04,
+      "script": "até entende",
+      "asr": "tá entendendo",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 52.14,
+      "end": 52.22,
+      "script": "",
+      "asr": "a",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 54.52,
+      "end": 54.94,
+      "script": "enquadramentos",
+      "asr": "um enquadramento",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 63.14,
+      "end": 63.38,
+      "script": "pra",
+      "asr": "para",
+      "decision": "short orthographic/contextual correction"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "Na imagem de GTA",
+      "script_index": 6,
+      "time": 2.2333333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O cenário quase",
+      "script_index": 23,
+      "time": 9.033333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Compare com",
+      "script_index": 35,
+      "time": 12.666666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A traseira ocupa",
+      "script_index": 51,
+      "time": 18.033333333333335,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Aerofólio",
+      "script_index": 58,
+      "time": 20.5,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Na cena de Vice City",
+      "script_index": 73,
+      "time": 25.366666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O lugar ajuda",
+      "script_index": 94,
+      "time": 32.1,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Recortar só",
+      "script_index": 109,
+      "time": 37.733333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Você até entende",
+      "script_index": 129,
+      "time": 44.233333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Isso não prova",
+      "script_index": 140,
+      "time": 48.7,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "São imagens promocionais",
+      "script_index": 155,
+      "time": 53.2,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A comparação aqui",
+      "script_index": 161,
+      "time": 56.2,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Uma concentra",
+      "script_index": 172,
+      "time": 60.233333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A outra abre",
+      "script_index": 178,
+      "time": 62.266666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Volta à imagem",
+      "script_index": 189,
+      "time": 66.43333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Porque",
+      "script_index": 201,
+      "time": 70.16666666666667,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

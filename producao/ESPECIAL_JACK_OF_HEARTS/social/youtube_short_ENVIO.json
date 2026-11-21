@@ -1,0 +1,76 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-16T20:05:17.058867+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Esposa no sofá, primeira missão do GTA 6. O Jack of Hearts existe, o que tem lá dentro ninguém sabe ao certo, e a Lucia nunca avisou o que faz com o Jason.\n\nHumor adulto (18+). Análise do material oficial. Imagens: Rockstar Games.\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #JackOfHearts #Shorts",
+          "image": [
+            {
+              "id": "2652658e-cba7-48d2-9d1a-7bd43a892f54",
+              "name": "b105e259f14d780712bf107ac6cc2610627.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/16/b105e259f14d780712bf107ac6cc2610627.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "Esposa no sofá vs. clube do GTA 6 #Shorts",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Jack of Hearts",
+            "label": "Jack of Hearts"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "Boobie Ike",
+            "label": "Boobie Ike"
+          },
+          {
+            "value": "Jason e Lucia",
+            "label": "Jason e Lucia"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "12ab497c-b4f1-4413-a492-d19dd207cce0",
+          "name": "0bbebc7f0828822a7724610a5b871f93b.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/16/0bbebc7f0828822a7724610a5b871f93b.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

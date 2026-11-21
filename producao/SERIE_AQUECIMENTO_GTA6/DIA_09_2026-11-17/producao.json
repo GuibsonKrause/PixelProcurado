@@ -1,0 +1,131 @@
+{
+  "schema_versao": 1,
+  "id": "DIA09",
+  "formato": "longo_e_short",
+  "roteiro_origem": {
+    "longo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/01_NARRACAO.txt",
+    "short": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/05_REEL_NARRACAO.txt"
+  },
+  "etapa_atual": "distribuicao",
+  "status": "em_andamento",
+  "data_criacao": "2026-11-17T12:03:01-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/audio/narracao_normalizada.wav"
+      },
+      "medicoes": {
+        "lufs": -15.9,
+        "duracao_s": 405.6
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "atualizado_em": "2026-11-17T12:37:45-03:00"
+    },
+    "alinhamento": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "palavras": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/audio/palavras_alinhadas.json"
+      },
+      "medicoes": {
+        "estimadas": 88
+      },
+      "atualizado_em": "2026-11-17T12:48:24-03:00"
+    },
+    "montagem": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "episodio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/episodio.json"
+      },
+      "atualizado_em": "2026-11-17T15:55:39-03:00"
+    },
+    "render": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "longo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/exportacoes/Pixel_Procurado_DIA09_Longo_V2.mp4"
+      },
+      "atualizado_em": "2026-11-17T23:41:22-03:00",
+      "executor": {
+        "model_solicitado": "flash_lite"
+      }
+    },
+    "thumbnail": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "capas": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/capas"
+      },
+      "atualizado_em": "2026-11-17T15:55:41-03:00"
+    },
+    "publicacao_pacote": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "secao": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/publicacao_secao.json"
+      },
+      "atualizado_em": "2026-11-17T15:55:42-03:00"
+    },
+    "distribuicao": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "revisao_final": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "revisao": "REVISAO_FINAL.json"
+      },
+      "executor": {
+        "model_solicitado": "opus"
+      },
+      "atualizado_em": "2026-11-17T23:41:23-03:00"
+    }
+  },
+  "atualizado_em": "2026-11-17T23:41:23-03:00"
+}

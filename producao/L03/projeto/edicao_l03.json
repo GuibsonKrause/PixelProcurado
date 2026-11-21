@@ -1,0 +1,3217 @@
+{
+  "episode": "L03",
+  "title": "Vice City: a cidade voltou, mas o que mudou?",
+  "duration": 330.68,
+  "frames": 9921,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "logicalWidth": 1920,
+  "logicalHeight": 1080,
+  "voice": "producao/L03/voz/narracao_normalizada.wav",
+  "alignment": "producao/L03/voz/palavras_alinhadas.json",
+  "pathBase": "project-root",
+  "contractVersion": "L03-1920-logical-v1",
+  "status": "final-direction",
+  "alignmentStatus": "validated-input",
+  "inputHashes": {
+    "voice": "700311cc62811827581f30cff51b4070a5960b4875b7b0478339757746cd2636",
+    "alignment": "9607eec8d27227b2abe707e4f25b1a95dac6562c8cc658eeb689b51d3fe8dc9e"
+  },
+  "shots": [
+    {
+      "anchor": "INÍCIO",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 0,
+      "fromFrame": 0,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "VICE CITY / OUTRA ÉPOCA",
+      "title": "",
+      "sub": "",
+      "graphic": "focus",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Abrir com a observação concreta do telefone à esquerda.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "focusRects": [
+        {
+          "id": "telefone_esquerdo",
+          "x": 210.0,
+          "y": 470.0,
+          "width": 220.0,
+          "height": 350.0,
+          "cue": 40,
+          "label": "A plateia também filma"
+        }
+      ],
+      "start": 0.0,
+      "end": 2.933333333333333,
+      "frames": 88,
+      "animate": true,
+      "animationFrames": 60
+    },
+    {
+      "anchor": "duas artistas em cima de um carro",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 11,
+      "fromFrame": 88,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "REAL DIMEZ",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Limpar o contorno e revelar a apresentação e o entorno.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 2.933333333333333,
+      "end": 5.233333333333333,
+      "frames": 69,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Essa imagem entrega a grande mudança",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 18,
+      "fromFrame": 157,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "MESMA CIDADE DO EXCESSO",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.035
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Ligar o excesso reconhecível à mudança de época.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 5.233333333333333,
+      "end": 14.4,
+      "frames": 275,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Pensa na lembrança que o nome Vice City traz",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 41,
+      "fromFrame": 432,
+      "kind": "image",
+      "file": "producao/L03/midia/V1_Vice_City_Classico_Screens_1.jpg",
+      "offset": 0,
+      "label": "MEMÓRIA DO CLÁSSICO",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "Grand Theft Auto: Vice City • Imagem promocional do clássico • Rockstar Games",
+      "presentation": "classic-card",
+      "zoom": [
+        1,
+        1.01
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Palmeiras e calor na imagem clássica completa.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "viewport": {
+        "x": 240,
+        "y": 126,
+        "width": 1040,
+        "height": 728
+      },
+      "layout": {
+        "side": "right",
+        "top": 280,
+        "width": 490
+      },
+      "start": 14.4,
+      "end": 19.6,
+      "frames": 156,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "e a camisa de Tommy Vercetti",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 53,
+      "fromFrame": 588,
+      "kind": "image",
+      "file": "producao/L03/midia/V2_Vice_City_Classico_Screens_2.jpg",
+      "offset": 0,
+      "label": "TOMMY VERCETTI / CLÁSSICO",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "Grand Theft Auto: Vice City • Imagem promocional do clássico • Rockstar Games",
+      "presentation": "classic-card",
+      "zoom": [
+        1,
+        1.01
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Mostrar exatamente a camisa citada sem insinuar retorno do personagem.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "viewport": {
+        "x": 240,
+        "y": 126,
+        "width": 1040,
+        "height": 728
+      },
+      "layout": {
+        "side": "right",
+        "top": 280,
+        "width": 490
+      },
+      "start": 19.6,
+      "end": 22.166666666666668,
+      "frames": 77,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Agora coloca nessa lembrança",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 59,
+      "fromFrame": 665,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "OUTRA VITRINE",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.025,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Voltar à multidão que registra o espetáculo.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 22.166666666666668,
+      "end": 27.133333333333333,
+      "frames": 149,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O cenário continua reconhecível",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 70,
+      "fromFrame": 814,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg",
+      "offset": 0,
+      "label": "RECONHECIMENTO",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.01,
+        1.035
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Ligar a atmosfera urbana à vitrine contemporânea.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 27.133333333333333,
+      "end": 32.266666666666666,
+      "frames": 154,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Vamos olhar para três coisas",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 81,
+      "fromFrame": 968,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "TRÊS PISTAS",
+      "title": "A cidade além da memória",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Apresentar o percurso sem antecipar respostas.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "O que preserva a identidade?",
+        "O que mudou de época?",
+        "O que a nostalgia deixa de fora?"
+      ],
+      "stage": 0,
+      "cues": [
+        0,
+        0,
+        0
+      ],
+      "start": 32.266666666666666,
+      "end": 34.43333333333333,
+      "frames": 65,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "o que preserva essa identidade",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 86,
+      "fromFrame": 1033,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "TRÊS PISTAS",
+      "title": "A cidade além da memória",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 1 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "O que preserva a identidade?",
+        "O que mudou de época?",
+        "O que a nostalgia deixa de fora?"
+      ],
+      "stage": 1,
+      "cues": [
+        0,
+        0,
+        0
+      ],
+      "start": 34.43333333333333,
+      "end": 36.46666666666667,
+      "frames": 61,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "o que denuncia a mudança de época",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 91,
+      "fromFrame": 1094,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "TRÊS PISTAS",
+      "title": "A cidade além da memória",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 2 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "O que preserva a identidade?",
+        "O que mudou de época?",
+        "O que a nostalgia deixa de fora?"
+      ],
+      "stage": 2,
+      "cues": [
+        -30,
+        0,
+        0
+      ],
+      "start": 36.46666666666667,
+      "end": 38.03333333333333,
+      "frames": 47,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "e qual pedaço da cidade",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 98,
+      "fromFrame": 1141,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "TRÊS PISTAS",
+      "title": "A cidade além da memória",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 3 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "O que preserva a identidade?",
+        "O que mudou de época?",
+        "O que a nostalgia deixa de fora?"
+      ],
+      "stage": 3,
+      "cues": [
+        -30,
+        -30,
+        0
+      ],
+      "start": 38.03333333333333,
+      "end": 42.5,
+      "frames": 134,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "A primeira pista está",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 109,
+      "fromFrame": 1275,
+      "kind": "image",
+      "file": "producao/L03/midia/V1_Vice_City_Classico_Screens_1.jpg",
+      "offset": 0,
+      "label": "01 / A IDENTIDADE",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "Grand Theft Auto: Vice City • Imagem promocional do clássico • Rockstar Games",
+      "presentation": "classic-card",
+      "zoom": [
+        1,
+        1.01
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Preparar e sustentar a imagem clássica que a fala passa a descrever.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "viewport": {
+        "x": 240,
+        "y": 126,
+        "width": 1040,
+        "height": 728
+      },
+      "layout": {
+        "side": "right",
+        "top": 280,
+        "width": 490
+      },
+      "start": 42.5,
+      "end": 51.56666666666667,
+      "frames": 272,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A foto oficial não precisa de explosão",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 135,
+      "fromFrame": 1547,
+      "kind": "image",
+      "file": "producao/L03/midia/V1_Vice_City_Classico_Screens_1.jpg",
+      "offset": 0,
+      "label": "O LUGAR NO COTIDIANO",
+      "title": "Um lugar\nreconhecível.",
+      "sub": "",
+      "graphic": "headline",
+      "source": "Grand Theft Auto: Vice City • Imagem promocional do clássico • Rockstar Games",
+      "presentation": "classic-card",
+      "zoom": [
+        1,
+        1.01
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Dar leitura à arquitetura e à vegetação com espaço fora da fonte.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "viewport": {
+        "x": 240,
+        "y": 126,
+        "width": 1040,
+        "height": 728
+      },
+      "layout": {
+        "side": "right",
+        "top": 280,
+        "width": 490
+      },
+      "start": 51.56666666666667,
+      "end": 59.86666666666667,
+      "frames": 249,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "É aquela vontade de entrar no carro",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 157,
+      "fromFrame": 1796,
+      "kind": "image",
+      "file": "producao/L03/midia/V1_Vice_City_Classico_Screens_1.jpg",
+      "offset": 0,
+      "label": "LEMBRANÇA DE JOGAR",
+      "title": "Sair dirigindo.",
+      "sub": "Uma sensação, além da missão",
+      "graphic": "headline",
+      "source": "Grand Theft Auto: Vice City • Imagem promocional do clássico • Rockstar Games",
+      "presentation": "classic-card",
+      "zoom": [
+        1,
+        1.01
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Separar a leitura afetiva da descrição factual.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "viewport": {
+        "x": 240,
+        "y": 126,
+        "width": 1040,
+        "height": 728
+      },
+      "layout": {
+        "side": "right",
+        "top": 280,
+        "width": 490
+      },
+      "start": 59.86666666666667,
+      "end": 64.56666666666666,
+      "frames": 141,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "O jogo chegou em",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 173,
+      "fromFrame": 1937,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "DUAS DATAS DIFERENTES",
+      "title": "",
+      "sub": "",
+      "graphic": "dates",
+      "source": "Fontes: Take-Two/Rockstar, décimo aniversário • Rockstar, arquivo de rádio",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Abrir a distinção entre lançamento e ambientação.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "LANÇAMENTO\n2002",
+        "HISTÓRIA\n1986"
+      ],
+      "stage": 0,
+      "cues": [
+        0,
+        0
+      ],
+      "start": 64.56666666666666,
+      "end": 65.46666666666667,
+      "frames": 27,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "dois mil e dois",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 177,
+      "fromFrame": 1964,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "DUAS DATAS DIFERENTES",
+      "title": "",
+      "sub": "",
+      "graphic": "dates",
+      "source": "Fonte do lançamento: Take-Two/Rockstar, décimo aniversário",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 1 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "LANÇAMENTO\n2002",
+        "HISTÓRIA\n1986"
+      ],
+      "stage": 1,
+      "cues": [
+        0,
+        0
+      ],
+      "start": 65.46666666666667,
+      "end": 67.86666666666666,
+      "frames": 72,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "mil novecentos e oitenta e seis",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 187,
+      "fromFrame": 2036,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "DUAS DATAS DIFERENTES",
+      "title": "",
+      "sub": "",
+      "graphic": "dates",
+      "source": "1986: ambientação do clássico • Rockstar, arquivo de rádio",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 2 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "LANÇAMENTO\n2002",
+        "HISTÓRIA\n1986"
+      ],
+      "stage": 2,
+      "cues": [
+        -30,
+        0
+      ],
+      "start": 67.86666666666666,
+      "end": 70.96666666666667,
+      "frames": 93,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Quando a gente pede que GTA seis",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 197,
+      "fromFrame": 2129,
+      "kind": "image",
+      "file": "producao/L03/midia/V1_Vice_City_Classico_Screens_1.jpg",
+      "offset": 0,
+      "label": "DUAS FORMAS DE SAUDADE",
+      "title": "Atmosfera\nou memória?",
+      "sub": "Leitura editorial sobre a nostalgia",
+      "graphic": "headline",
+      "source": "Grand Theft Auto: Vice City • Imagem promocional do clássico • Rockstar Games",
+      "presentation": "classic-card",
+      "zoom": [
+        1,
+        1.01
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Mostrar que lembrar a época e lembrar a experiência são desejos distintos.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "viewport": {
+        "x": 240,
+        "y": 126,
+        "width": 1040,
+        "height": 728
+      },
+      "layout": {
+        "side": "right",
+        "top": 280,
+        "width": 490
+      },
+      "start": 70.96666666666667,
+      "end": 84.26666666666667,
+      "frames": 399,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Uma imagem de Tommy com a camisa estampada",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 231,
+      "fromFrame": 2528,
+      "kind": "image",
+      "file": "producao/L03/midia/V2_Vice_City_Classico_Screens_2.jpg",
+      "offset": 0,
+      "label": "PERSONAGEM + CIDADE",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "Grand Theft Auto: Vice City • Imagem promocional do clássico • Rockstar Games",
+      "presentation": "classic-card",
+      "zoom": [
+        1,
+        1.01
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Ler a imagem inteira: camisa, palmeiras e prédio.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "viewport": {
+        "x": 240,
+        "y": 126,
+        "width": 1040,
+        "height": 728
+      },
+      "layout": {
+        "side": "right",
+        "top": 280,
+        "width": 490
+      },
+      "start": 84.26666666666667,
+      "end": 90.76666666666667,
+      "frames": 195,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A cidade participa da identidade do personagem",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 249,
+      "fromFrame": 2723,
+      "kind": "image",
+      "file": "producao/L03/midia/V2_Vice_City_Classico_Screens_2.jpg",
+      "offset": 0,
+      "label": "LEITURA DO CANAL",
+      "title": "O conjunto\nvem primeiro.",
+      "sub": "",
+      "graphic": "headline",
+      "source": "Grand Theft Auto: Vice City • Imagem promocional do clássico • Rockstar Games",
+      "presentation": "classic-card",
+      "zoom": [
+        1,
+        1.01
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Sustentar a análise de reconhecimento sem zoom de baixa resolução.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "viewport": {
+        "x": 240,
+        "y": 126,
+        "width": 1040,
+        "height": 728
+      },
+      "layout": {
+        "side": "right",
+        "top": 280,
+        "width": 490
+      },
+      "start": 90.76666666666667,
+      "end": 102.03333333333333,
+      "frames": 338,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Nas imagens de GTA seis",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 279,
+      "fromFrame": 3061,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg",
+      "offset": 0,
+      "label": "02 / UMA LINGUAGEM FAMILIAR",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.035
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Fachadas iluminadas, palmeiras e vida de rua.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 102.03333333333333,
+      "end": 109.96666666666667,
+      "frames": 238,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O neon ainda cumpre seu turno",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 300,
+      "fromFrame": 3299,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg",
+      "offset": 0,
+      "label": "O NEON AINDA ESTÁ AQUI",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.035,
+        1.05
+      ],
+      "focus": [
+        0.23,
+        0.25
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Continuar a observação da iluminação urbana.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 109.96666666666667,
+      "end": 111.86666666666666,
+      "frames": 57,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Só que reconhecer essa linguagem",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 306,
+      "fromFrame": 3356,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg",
+      "offset": 0,
+      "label": "LIGAÇÃO DE ATMOSFERA",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.035,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Distinguir continuidade visual de reconstrução rua por rua.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 111.86666666666666,
+      "end": 120.73333333333333,
+      "frames": 266,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "E existe um detalhe que torna a mudança",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 330,
+      "fromFrame": 3622,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "QUEM SEGURA A CÂMERA?",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Preparar a pergunta com as artistas e a plateia no mesmo quadro.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 120.73333333333333,
+      "end": 127.5,
+      "frames": 203,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Na imagem de Real Dimez",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 348,
+      "fromFrame": 3825,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "REAL DIMEZ / OBSERVAÇÃO VISUAL",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Estabelecer artistas, capô e público.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 127.5,
+      "end": 132.93333333333334,
+      "frames": 163,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Há telefones erguidos",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 364,
+      "fromFrame": 3988,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "OBSERVAÇÃO VISUAL",
+      "title": "",
+      "sub": "",
+      "graphic": "focus",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Apontar o elemento real: telefone_esquerdo",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "focusRects": [
+        {
+          "id": "telefone_esquerdo",
+          "x": 210.0,
+          "y": 470.0,
+          "width": 220.0,
+          "height": 350.0,
+          "cue": 0,
+          "label": "Telefone à esquerda"
+        }
+      ],
+      "start": 132.93333333333334,
+      "end": 134.6,
+      "frames": 50,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "e uma das telas mostra a apresentação",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 367,
+      "fromFrame": 4038,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "OBSERVAÇÃO VISUAL",
+      "title": "",
+      "sub": "",
+      "graphic": "focus",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Apontar o elemento real: tela_apresentacao",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "focusRects": [
+        {
+          "id": "tela_apresentacao",
+          "x": 242.5,
+          "y": 507.5,
+          "width": 160.0,
+          "height": 172.5,
+          "cue": 0,
+          "label": "A apresentação na tela"
+        }
+      ],
+      "start": 134.6,
+      "end": 137.8,
+      "frames": 96,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "A festa está acontecendo para quem está ali",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 374,
+      "fromFrame": 4134,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "A PLATEIA TAMBÉM PRODUZ A CENA",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Retornar ao quadro completo e sustentar a leitura do conjunto.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 137.8,
+      "end": 146.46666666666667,
+      "frames": 260,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A descrição oficial da dupla",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 400,
+      "fromFrame": 4394,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_04.jpg",
+      "offset": 0,
+      "label": "APRESENTAÇÃO OFICIAL / REAL DIMEZ",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "Fonte: Rockstar Games • Only in Leonida • Real Dimez",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-description",
+      "editorialPurpose": "Apoiar música e redes na apresentação oficial, sem inventar interface de postagem.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 146.46666666666667,
+      "end": 152.26666666666668,
+      "frames": 174,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Isso dá contexto ao que a imagem mostra",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 414,
+      "fromFrame": 4568,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_01.jpg",
+      "offset": 0,
+      "label": "MÚSICA + ATENÇÃO",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.025,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Mostrar o trabalho musical em estúdio.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 152.26666666666668,
+      "end": 158.86666666666667,
+      "frames": 198,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Minha leitura é que a nova Vice City",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 431,
+      "fromFrame": 4766,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "LEITURA DO CANAL",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.01,
+        1.035
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Marcar explicitamente a interpretação sobre ambição contemporânea.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 158.86666666666667,
+      "end": 169.43333333333334,
+      "frames": 317,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "No clássico os anúncios de rádio",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 454,
+      "fromFrame": 5083,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "RÁDIO / 1986",
+      "title": "Comerciais fictícios",
+      "sub": "Sátira de uma vida desejável",
+      "graphic": "radio",
+      "source": "Fonte: Rockstar Newswire • Arquivo de comerciais fictícios • 15/07/2010",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Explicar a sátira histórica com gráfico original.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "Consumo",
+        "Aparência",
+        "Sucesso"
+      ],
+      "stage": 3,
+      "cues": [
+        94,
+        114,
+        150
+      ],
+      "start": 169.43333333333334,
+      "end": 182.4,
+      "frames": 389,
+      "animate": true,
+      "animationFrames": 170
+    },
+    {
+      "anchor": "O exagero não nasceu com o celular",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 489,
+      "fromFrame": 5472,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "UMA OBSESSÃO ANTIGA",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.03
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Conectar a sátira do rádio à apresentação contemporânea.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 182.4,
+      "end": 188.86666666666667,
+      "frames": 194,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Essa comparação é mais interessante",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 505,
+      "fromFrame": 5666,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_04.jpg",
+      "offset": 0,
+      "label": "O PARENTESCO ESTÁ NO COMPORTAMENTO",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.01,
+        1.035
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "A imagem da dupla sustenta ambição e aparência, sem caça a easter eggs.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 188.86666666666667,
+      "end": 196.73333333333332,
+      "frames": 236,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A cidade continua vendendo uma imagem de vida desejável",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 523,
+      "fromFrame": 5902,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "UMA VIDA DESEJÁVEL",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.03,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Reunir palco e público sob a mesma leitura social.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 196.73333333333332,
+      "end": 208.56666666666666,
+      "frames": 355,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Mas se a festa é a vitrine",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 554,
+      "fromFrame": 6257,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg",
+      "offset": 0,
+      "label": "03 / ALÉM DA VITRINE",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Mudar o ponto de vista para a varanda antes da descrição.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 208.56666666666666,
+      "end": 213.93333333333334,
+      "frames": 161,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Uma das imagens oficiais mostra um casal",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 571,
+      "fromFrame": 6418,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg",
+      "offset": 0,
+      "label": "VARANDA / PISCINA / PRAIA",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.7,
+        0.45
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Manter a relação espacial legível no quadro inteiro.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 213.93333333333334,
+      "end": 219.43333333333334,
+      "frames": 165,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A posição da câmera coloca a gente",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 589,
+      "fromFrame": 6583,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg",
+      "offset": 0,
+      "label": "LEITURA DO PONTO DE VISTA",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.025,
+        1.045
+      ],
+      "focus": [
+        0.76,
+        0.5
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Explicar o conforto de quem olha sem texto sobre o casal.",
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "start": 219.43333333333334,
+      "end": 224.43333333333334,
+      "frames": 150,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "É Vice City funcionando como promessa",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 607,
+      "fromFrame": 6733,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg",
+      "offset": 0,
+      "label": "PROMESSA DE FÉRIAS CARAS",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.045,
+        1.02
+      ],
+      "focus": [
+        0.76,
+        0.5
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Sustentar o humor seco do frigobar na imagem, sem criar objeto ou preço.",
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "start": 224.43333333333334,
+      "end": 233.6,
+      "frames": 275,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Agora desce desse ponto de vista para a praia",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 631,
+      "fromFrame": 7008,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "OUTRO PONTO DE VISTA",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Estabelecer a praia antes de apontar suas atividades.",
+      "captionPosition": "top",
+      "panelSide": "right",
+      "start": 233.6,
+      "end": 236.43333333333334,
+      "frames": 85,
+      "animate": false,
+      "animationFrames": 1,
+      "captionBox": {
+        "x": 96,
+        "y": 130,
+        "width": 860,
+        "alignment": "top-left"
+      }
+    },
+    {
+      "anchor": "Há um casal caminhando",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 640,
+      "fromFrame": 7093,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "OBSERVAÇÃO VISUAL",
+      "title": "",
+      "sub": "",
+      "graphic": "focus",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Apontar o elemento real: casal_caminhando",
+      "captionPosition": "top",
+      "panelSide": "right",
+      "focusRects": [
+        {
+          "id": "casal_caminhando",
+          "x": 970.0,
+          "y": 117.5,
+          "width": 635.0,
+          "height": 830.0,
+          "cue": 0,
+          "label": "Caminhada"
+        }
+      ],
+      "start": 236.43333333333334,
+      "end": 238.13333333333333,
+      "frames": 51,
+      "animate": true,
+      "animationFrames": 20,
+      "captionBox": {
+        "x": 96,
+        "y": 130,
+        "width": 860,
+        "alignment": "top-left"
+      }
+    },
+    {
+      "anchor": "alguém procurando coisas na areia",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 644,
+      "fromFrame": 7144,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "OBSERVAÇÃO VISUAL",
+      "title": "",
+      "sub": "",
+      "graphic": "focus",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Apontar o elemento real: detector_metais",
+      "captionPosition": "top",
+      "panelSide": "right",
+      "focusRects": [
+        {
+          "id": "detector_metais",
+          "x": 330.0,
+          "y": 315.0,
+          "width": 320.0,
+          "height": 477.5,
+          "cue": 0,
+          "label": "Detector de metais"
+        }
+      ],
+      "start": 238.13333333333333,
+      "end": 241.73333333333332,
+      "frames": 108,
+      "animate": true,
+      "animationFrames": 20,
+      "captionBox": {
+        "x": 96,
+        "y": 130,
+        "width": 860,
+        "alignment": "top-left"
+      }
+    },
+    {
+      "anchor": "uma pessoa tomando sol em primeiro plano",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 654,
+      "fromFrame": 7252,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "OBSERVAÇÃO VISUAL",
+      "title": "",
+      "sub": "",
+      "graphic": "focus",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Apontar o elemento real: banho_sol",
+      "captionPosition": "top",
+      "panelSide": "right",
+      "focusRects": [
+        {
+          "id": "banho_sol",
+          "x": 5.0,
+          "y": 755.0,
+          "width": 1070.0,
+          "height": 320.0,
+          "cue": 0,
+          "label": "Banho de sol"
+        }
+      ],
+      "start": 241.73333333333332,
+      "end": 243.2,
+      "frames": 44,
+      "animate": true,
+      "animationFrames": 20,
+      "captionBox": {
+        "x": 96,
+        "y": 130,
+        "width": 860,
+        "alignment": "top-left"
+      }
+    },
+    {
+      "anchor": "e outras ocupando o espaço ao redor",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 661,
+      "fromFrame": 7296,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "OBSERVAÇÃO VISUAL",
+      "title": "",
+      "sub": "",
+      "graphic": "focus",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Apontar o elemento real: outros_banhistas",
+      "captionPosition": "top",
+      "panelSide": "right",
+      "focusRects": [
+        {
+          "id": "outros_banhistas",
+          "x": 1565.0,
+          "y": 385.0,
+          "width": 340.0,
+          "height": 465.0,
+          "cue": 0,
+          "label": "Outras atividades"
+        }
+      ],
+      "start": 243.2,
+      "end": 245.9,
+      "frames": 81,
+      "animate": true,
+      "animationFrames": 20,
+      "captionBox": {
+        "x": 96,
+        "y": 130,
+        "width": 860,
+        "alignment": "top-left"
+      }
+    },
+    {
+      "anchor": "A mesma ideia de paraíso passa a incluir",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 668,
+      "fromFrame": 7377,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "HÁBITOS / IDADES / INTERESSES",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Limpar contornos e reencontrar a pluralidade do quadro.",
+      "captionPosition": "top",
+      "panelSide": "right",
+      "start": 245.9,
+      "end": 250.96666666666667,
+      "frames": 152,
+      "animate": false,
+      "animationFrames": 1,
+      "captionBox": {
+        "x": 96,
+        "y": 130,
+        "width": 860,
+        "alignment": "top-left"
+      }
+    },
+    {
+      "anchor": "É esse contraste que me interessa",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 681,
+      "fromFrame": 7529,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg",
+      "offset": 0,
+      "label": "O SONHO DE ALGUÉM",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.02
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Retomar a promessa turística como uma leitura do canal.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 250.96666666666667,
+      "end": 254.6,
+      "frames": 109,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "e o dia comum de outra pessoa",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 695,
+      "fromFrame": 7638,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "O DIA COMUM DE OUTRA PESSOA",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Dar contexto cotidiano ao glamour.",
+      "captionPosition": "top",
+      "panelSide": "right",
+      "start": 254.6,
+      "end": 262.4,
+      "frames": 234,
+      "animate": false,
+      "animationFrames": 1,
+      "captionBox": {
+        "x": 96,
+        "y": 130,
+        "width": 860,
+        "alignment": "top-left"
+      }
+    },
+    {
+      "anchor": "A imagem deixa de ser apenas uma paisagem bonita",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 716,
+      "fromFrame": 7872,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0,
+      "label": "HISTÓRIAS AO REDOR",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.025,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Mostrar o conjunto de pequenas situações sem identificar figurantes.",
+      "captionPosition": "top",
+      "panelSide": "right",
+      "start": 262.4,
+      "end": 270.06666666666666,
+      "frames": 230,
+      "animate": false,
+      "animationFrames": 1,
+      "captionBox": {
+        "x": 96,
+        "y": 130,
+        "width": 860,
+        "alignment": "top-left"
+      }
+    },
+    {
+      "anchor": "O clássico já era apresentado pela Rockstar",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 736,
+      "fromFrame": 8102,
+      "kind": "image",
+      "file": "producao/L03/midia/V1_Vice_City_Classico_Screens_1.jpg",
+      "offset": 0,
+      "label": "BRILHO / AMBIÇÃO / DEGRADAÇÃO",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "Fonte: Rockstar Games • Grand Theft Auto: Vice City • descrição oficial",
+      "presentation": "classic-card",
+      "zoom": [
+        1,
+        1.01
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "evidence": "official-description",
+      "editorialPurpose": "Ancorar a continuidade dos contrastes na descrição oficial.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "viewport": {
+        "x": 240,
+        "y": 126,
+        "width": 1040,
+        "height": 728
+      },
+      "layout": {
+        "side": "right",
+        "top": 280,
+        "width": 490
+      },
+      "start": 270.06666666666666,
+      "end": 280.26666666666665,
+      "frames": 306,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O retorno coloca essa identidade diante de outra cultura visual",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 762,
+      "fromFrame": 8408,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg",
+      "offset": 0,
+      "label": "OUTRA CULTURA VISUAL",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.01,
+        1.035
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Preparar a síntese dos pontos de vista.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 280.26666666666665,
+      "end": 284.6,
+      "frames": 130,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "a varanda a rua e a tela",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 772,
+      "fromFrame": 8538,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "QUAL VERSÃO DA CIDADE FICA?",
+      "title": "Três pontos de vista",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Preservar a enumeração rápida sem um flash de imagem de oito frames.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "A varanda",
+        "A rua",
+        "A tela do telefone"
+      ],
+      "stage": 3,
+      "cues": [
+        0,
+        28,
+        36
+      ],
+      "start": 284.6,
+      "end": 290.2,
+      "frames": 168,
+      "animate": true,
+      "animationFrames": 56
+    },
+    {
+      "anchor": "Por isso minha resposta",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 788,
+      "fromFrame": 8706,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "É A MESMA VICE CITY?",
+      "title": "Três partes da resposta",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Abrir a síntese final sem antecipar itens.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "Identidade tropical reconhecível",
+        "Uma cultura de outra época",
+        "A memória é uma porta de entrada"
+      ],
+      "stage": 0,
+      "cues": [
+        0,
+        0,
+        0
+      ],
+      "start": 290.2,
+      "end": 295.0,
+      "frames": 144,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A identidade tropical continua reconhecível",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 801,
+      "fromFrame": 8850,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "É A MESMA VICE CITY?",
+      "title": "Três partes da resposta",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 1 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "Identidade tropical reconhecível",
+        "Uma cultura de outra época",
+        "A memória é uma porta de entrada"
+      ],
+      "stage": 1,
+      "cues": [
+        0,
+        0,
+        0
+      ],
+      "start": 295.0,
+      "end": 297.6666666666667,
+      "frames": 80,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "A cultura exibida nos materiais mudou de época",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 806,
+      "fromFrame": 8930,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "É A MESMA VICE CITY?",
+      "title": "Três partes da resposta",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 2 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "Identidade tropical reconhecível",
+        "Uma cultura de outra época",
+        "A memória é uma porta de entrada"
+      ],
+      "stage": 2,
+      "cues": [
+        -30,
+        0,
+        0
+      ],
+      "start": 297.6666666666667,
+      "end": 300.46666666666664,
+      "frames": 84,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "E a memória do jogo antigo",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 814,
+      "fromFrame": 9014,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "É A MESMA VICE CITY?",
+      "title": "Três partes da resposta",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 3 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "Identidade tropical reconhecível",
+        "Uma cultura de outra época",
+        "A memória é uma porta de entrada"
+      ],
+      "stage": 3,
+      "cues": [
+        -30,
+        -30,
+        0
+      ],
+      "start": 300.46666666666664,
+      "end": 307.8666666666667,
+      "frames": 222,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Eu quero reconhecer Vice City",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 837,
+      "fromFrame": 9236,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg",
+      "offset": 0,
+      "label": "RECONHECER E OLHAR DE NOVO",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.02
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Fechar a ideia de reconhecimento com a identidade da cidade.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 307.8666666666667,
+      "end": 313.8666666666667,
+      "frames": 180,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A plateia filmando Real Dimez",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 853,
+      "fromFrame": 9416,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "O EXCESSO É FAMILIAR",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1.02,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-reading",
+      "editorialPurpose": "Retomar a abertura com seu significado elaborado.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 313.8666666666667,
+      "end": 322.23333333333335,
+      "frames": 251,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Qual lembrança sua precisaria sobreviver nesse retorno",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 873,
+      "fromFrame": 9667,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Real Dimez/Real_Dimez_02.jpg",
+      "offset": 0,
+      "label": "QUAL LEMBRANÇA PRECISA SOBREVIVER?",
+      "title": "",
+      "sub": "",
+      "graphic": "",
+      "source": "GTA VI • Imagens: Rockstar Games • Análise: Pixel Procurado",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "official-image",
+      "editorialPurpose": "Entregar a pergunta final mantendo a cena que motivou a análise.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "start": 322.23333333333335,
+      "end": 324.96666666666664,
+      "frames": 82,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "o rádio a atmosfera",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 880,
+      "fromFrame": 9749,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "QUAL LEMBRANÇA PRECISA SOBREVIVER?",
+      "title": "A sua Vice City",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 1 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "O rádio",
+        "A atmosfera das ruas",
+        "A sensação de conquistar a cidade"
+      ],
+      "stage": 1,
+      "cues": [
+        0,
+        0,
+        0
+      ],
+      "start": 324.96666666666664,
+      "end": 326.93333333333334,
+      "frames": 59,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "a atmosfera das ruas",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 882,
+      "fromFrame": 9808,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "QUAL LEMBRANÇA PRECISA SOBREVIVER?",
+      "title": "A sua Vice City",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 2 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "O rádio",
+        "A atmosfera das ruas",
+        "A sensação de conquistar a cidade"
+      ],
+      "stage": 2,
+      "cues": [
+        -30,
+        0,
+        0
+      ],
+      "start": 326.93333333333334,
+      "end": 328.03333333333336,
+      "frames": 33,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "ou a sensação de conquistar a cidade",
+      "anchorOccurrence": 1,
+      "anchorWordIndex": 886,
+      "fromFrame": 9841,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "QUAL LEMBRANÇA PRECISA SOBREVIVER?",
+      "title": "A sua Vice City",
+      "sub": "",
+      "graphic": "list",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.46
+      ],
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Revelar o item 3 na fala, preservando os itens anteriores.",
+      "captionPosition": "bottom",
+      "panelSide": "right",
+      "items": [
+        "O rádio",
+        "A atmosfera das ruas",
+        "A sensação de conquistar a cidade"
+      ],
+      "stage": 3,
+      "cues": [
+        -30,
+        -30,
+        0
+      ],
+      "start": 328.03333333333336,
+      "end": 330.7,
+      "frames": 80,
+      "animate": true,
+      "animationFrames": 20
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Na nova Vice City, a plateia sobe o"
+    },
+    {
+      "start": 2.2,
+      "end": 4.18,
+      "text": "celular para filmar duas artistas em cima de"
+    },
+    {
+      "start": 4.18,
+      "end": 5.029999999999999,
+      "text": "um carro."
+    },
+    {
+      "start": 5.24,
+      "end": 7.119999999999999,
+      "text": "Essa imagem entrega a grande mudança:"
+    },
+    {
+      "start": 7.7,
+      "end": 10.6,
+      "text": "voltamos à cidade do excesso, mas saímos dos"
+    },
+    {
+      "start": 10.6,
+      "end": 11.45,
+      "text": "anos oitenta."
+    },
+    {
+      "start": 11.96,
+      "end": 13.52,
+      "text": "isso muda muito mais que a roupa."
+    },
+    {
+      "start": 14.4,
+      "end": 16.38,
+      "text": "Pensa na lembrança que o nome Vice City"
+    },
+    {
+      "start": 16.38,
+      "end": 17.23,
+      "text": "traz:"
+    },
+    {
+      "start": 17.5,
+      "end": 20.72,
+      "text": "palmeiras, calor, música e a camisa de Tommy"
+    },
+    {
+      "start": 20.72,
+      "end": 21.57,
+      "text": "Vercetti."
+    },
+    {
+      "start": 22.16,
+      "end": 25.12,
+      "text": "Agora coloca, nessa lembrança, uma multidão tentando"
+    },
+    {
+      "start": 25.12,
+      "end": 26.62,
+      "text": "registrar o próprio espetáculo."
+    },
+    {
+      "start": 27.14,
+      "end": 28.98,
+      "text": "O cenário continua reconhecível."
+    },
+    {
+      "start": 29.42,
+      "end": 31.400000000000002,
+      "text": "Só que a ambição ganhou outra vitrine."
+    },
+    {
+      "start": 32.26,
+      "end": 33.84,
+      "text": "Vamos olhar para três coisas:"
+    },
+    {
+      "start": 34.44,
+      "end": 35.96,
+      "text": "o que preserva essa identidade,"
+    },
+    {
+      "start": 36.46,
+      "end": 38.62,
+      "text": "o que denuncia a mudança de época e"
+    },
+    {
+      "start": 38.62,
+      "end": 41.12,
+      "text": "qual pedaço da cidade a nostalgia costuma deixar"
+    },
+    {
+      "start": 41.12,
+      "end": 41.97,
+      "text": "de fora."
+    },
+    {
+      "start": 42.5,
+      "end": 44.72,
+      "text": "A primeira pista está numa imagem bem simples"
+    },
+    {
+      "start": 44.72,
+      "end": 45.57,
+      "text": "do jogo clássico."
+    },
+    {
+      "start": 45.9,
+      "end": 48.08,
+      "text": "Um carro vermelho atravessa uma avenida cercada"
+    },
+    {
+      "start": 48.08,
+      "end": 50.76,
+      "text": "de palmeiras, com lojas e prédios ao lado."
+    },
+    {
+      "start": 51.56,
+      "end": 53.98,
+      "text": "A foto oficial não precisa de explosão para"
+    },
+    {
+      "start": 53.98,
+      "end": 54.84,
+      "text": "dizer onde estamos."
+    },
+    {
+      "start": 55.66,
+      "end": 58.24,
+      "text": "A vegetação, a luz e o comércio já"
+    },
+    {
+      "start": 58.24,
+      "end": 59.120000000000005,
+      "text": "constroem o lugar."
+    },
+    {
+      "start": 59.88,
+      "end": 61.7,
+      "text": "É aquela vontade de entrar no carro e"
+    },
+    {
+      "start": 61.7,
+      "end": 63.88,
+      "text": "sair dirigindo sem lembrar qual era a missão."
+    },
+    {
+      "start": 64.58,
+      "end": 65.97999999999999,
+      "text": "O jogo chegou em dois mil e dois,"
+    },
+    {
+      "start": 66.6,
+      "end": 68.147,
+      "text": "mas sua história se passa em mil novecentos"
+    },
+    {
+      "start": 68.147,
+      "end": 68.997,
+      "text": "e oitenta e seis."
+    },
+    {
+      "start": 69.9,
+      "end": 70.98,
+      "text": "São duas datas diferentes."
+    },
+    {
+      "start": 70.98,
+      "end": 74.04,
+      "text": "Quando a gente pede que GTA seis recupere"
+    },
+    {
+      "start": 74.04,
+      "end": 77.42,
+      "text": "aquela sensação, pode estar pedindo a atmosfera"
+    },
+    {
+      "start": 77.42,
+      "end": 79.74,
+      "text": "dos anos oitenta ou a própria lembrança de"
+    },
+    {
+      "start": 79.74,
+      "end": 80.58999999999999,
+      "text": "ter jogado."
+    },
+    {
+      "start": 81.02,
+      "end": 83.1,
+      "text": "E essas saudades nem sempre querem a mesma"
+    },
+    {
+      "start": 83.1,
+      "end": 83.94999999999999,
+      "text": "coisa."
+    },
+    {
+      "start": 84.28,
+      "end": 86.6,
+      "text": "Uma imagem de Tommy com a camisa estampada,"
+    },
+    {
+      "start": 86.88,
+      "end": 89.36,
+      "text": "palmeiras e um prédio ao fundo resume bem"
+    },
+    {
+      "start": 89.36,
+      "end": 90.21,
+      "text": "essa combinação."
+    },
+    {
+      "start": 90.76,
+      "end": 93.1,
+      "text": "A cidade participa da identidade do personagem."
+    },
+    {
+      "start": 93.8,
+      "end": 96.3,
+      "text": "Você reconhece o conjunto antes de pensar em"
+    },
+    {
+      "start": 96.3,
+      "end": 98.08,
+      "text": "quantos detalhes existem na fachada."
+    },
+    {
+      "start": 98.66,
+      "end": 100.82,
+      "text": "Esse é o primeiro ponto que continua funcionando"
+    },
+    {
+      "start": 100.82,
+      "end": 101.66999999999999,
+      "text": "no retorno."
+    },
+    {
+      "start": 102.02,
+      "end": 103.61999999999999,
+      "text": "Nas imagens de GTA seis,"
+    },
+    {
+      "start": 104.12,
+      "end": 106.5,
+      "text": "a faixa de hotéis iluminados, as palmeiras e"
+    },
+    {
+      "start": 106.5,
+      "end": 109.22,
+      "text": "a vida na rua preservam a linguagem familiar."
+    },
+    {
+      "start": 109.96,
+      "end": 111.47999999999999,
+      "text": "O neon ainda cumpre seu turno."
+    },
+    {
+      "start": 111.88,
+      "end": 114.06,
+      "text": "Só que reconhecer essa linguagem não transforma"
+    },
+    {
+      "start": 114.06,
+      "end": 116.82,
+      "text": "a nova cidade numa repetição rua por rua."
+    },
+    {
+      "start": 117.64,
+      "end": 119.82,
+      "text": "A ligação que podemos enxergar aqui é de"
+    },
+    {
+      "start": 119.82,
+      "end": 120.66999999999999,
+      "text": "atmosfera."
+    },
+    {
+      "start": 120.75,
+      "end": 122.53,
+      "text": "E existe um detalhe que torna a mudança"
+    },
+    {
+      "start": 122.53,
+      "end": 124.30999999999999,
+      "text": "de época impossível de ignorar:"
+    },
+    {
+      "start": 125.03,
+      "end": 126.16999999999999,
+      "text": "quem está segurando a câmera?"
+    },
+    {
+      "start": 127.51,
+      "end": 130.37,
+      "text": "Na imagem de Real Dimez, duas artistas ocupam"
+    },
+    {
+      "start": 130.37,
+      "end": 132.35,
+      "text": "o capô de um carro, cercadas de gente."
+    },
+    {
+      "start": 132.93,
+      "end": 133.98999999999998,
+      "text": "Há telefones erguidos,"
+    },
+    {
+      "start": 134.61,
+      "end": 136.59,
+      "text": "e uma das telas mostra a apresentação."
+    },
+    {
+      "start": 137.81,
+      "end": 139.79,
+      "text": "A festa está acontecendo para quem está ali"
+    },
+    {
+      "start": 140.39,
+      "end": 142.03,
+      "text": "e também sendo enquadrada para quem vai assistir"
+    },
+    {
+      "start": 142.03,
+      "end": 142.88,
+      "text": "depois."
+    },
+    {
+      "start": 143.23,
+      "end": 145.39,
+      "text": "Até a plateia está produzindo uma versão daquele"
+    },
+    {
+      "start": 145.39,
+      "end": 146.23999999999998,
+      "text": "momento."
+    },
+    {
+      "start": 146.47,
+      "end": 149.77,
+      "text": "A descrição oficial da dupla liga a carreira"
+    },
+    {
+      "start": 149.77,
+      "end": 151.54999999999998,
+      "text": "musical à presença nas redes sociais."
+    },
+    {
+      "start": 152.25,
+      "end": 154.63,
+      "text": "Isso dá contexto ao que a imagem mostra."
+    },
+    {
+      "start": 155.23,
+      "end": 157.91,
+      "text": "Música, atenção e dinheiro fazem parte do mesmo"
+    },
+    {
+      "start": 157.91,
+      "end": 158.76,
+      "text": "caminho."
+    },
+    {
+      "start": 158.85,
+      "end": 161.05,
+      "text": "Minha leitura é que a nova Vice City"
+    },
+    {
+      "start": 161.05,
+      "end": 163.75,
+      "text": "encontra aí uma forma contemporânea de encenar"
+    },
+    {
+      "start": 163.75,
+      "end": 164.98999999999998,
+      "text": "uma obsessão antiga:"
+    },
+    {
+      "start": 165.09,
+      "end": 168.23,
+      "text": "aparecer, crescer e ser alguém."
+    },
+    {
+      "start": 169.42,
+      "end": 172.02,
+      "text": "No clássico, os anúncios de rádio já faziam"
+    },
+    {
+      "start": 172.02,
+      "end": 174.72,
+      "text": "piada com consumo, aparência e promessas de sucesso."
+    },
+    {
+      "start": 174.72,
+      "end": 177.82,
+      "text": "A Rockstar conserva um arquivo desses comerciais"
+    },
+    {
+      "start": 177.82,
+      "end": 180.74,
+      "text": "fictícios, identificado como Vice City de mil novecentos"
+    },
+    {
+      "start": 180.74,
+      "end": 181.59,
+      "text": "e oitenta e seis."
+    },
+    {
+      "start": 182.4,
+      "end": 184.32,
+      "text": "O exagero não nasceu com o celular."
+    },
+    {
+      "start": 185.08,
+      "end": 187.54,
+      "text": "O celular oferece outra maneira de colocá-lo em"
+    },
+    {
+      "start": 187.54,
+      "end": 188.39,
+      "text": "cena."
+    },
+    {
+      "start": 188.86,
+      "end": 191.46,
+      "text": "Essa comparação é mais interessante que procurar"
+    },
+    {
+      "start": 191.46,
+      "end": 193.34,
+      "text": "um objeto antigo escondido no canto."
+    },
+    {
+      "start": 194.2,
+      "end": 196.16,
+      "text": "O parentesco está no comportamento."
+    },
+    {
+      "start": 196.74,
+      "end": 198.74,
+      "text": "A cidade continua vendendo uma imagem de vida"
+    },
+    {
+      "start": 198.74,
+      "end": 201.44,
+      "text": "desejável, enquanto seus personagens tentam ganhar"
+    },
+    {
+      "start": 201.44,
+      "end": 202.42,
+      "text": "alguma coisa com ela."
+    },
+    {
+      "start": 202.88,
+      "end": 203.9,
+      "text": "Às vezes dinheiro."
+    },
+    {
+      "start": 204.57,
+      "end": 205.54,
+      "text": "Às vezes prestígio."
+    },
+    {
+      "start": 206.12,
+      "end": 207.64,
+      "text": "Às vezes só alguns segundos de atenção."
+    },
+    {
+      "start": 208.56,
+      "end": 210.84,
+      "text": "Mas, se a festa é a vitrine, o"
+    },
+    {
+      "start": 210.84,
+      "end": 212.74,
+      "text": "que acontece quando a gente olha para além"
+    },
+    {
+      "start": 212.74,
+      "end": 213.59,
+      "text": "dela?"
+    },
+    {
+      "start": 213.92,
+      "end": 216.0,
+      "text": "Uma das imagens oficiais mostra um casal numa"
+    },
+    {
+      "start": 216.0,
+      "end": 218.4,
+      "text": "varanda, acima de uma piscina, com a praia"
+    },
+    {
+      "start": 218.4,
+      "end": 219.25,
+      "text": "ao fundo."
+    },
+    {
+      "start": 219.44,
+      "end": 221.26,
+      "text": "A posição da câmera coloca a gente do"
+    },
+    {
+      "start": 221.26,
+      "end": 223.06,
+      "text": "lado de quem observa a paisagem de um"
+    },
+    {
+      "start": 223.06,
+      "end": 223.98,
+      "text": "lugar confortável."
+    },
+    {
+      "start": 224.42,
+      "end": 226.76,
+      "text": "É Vice City funcionando como promessa de férias"
+    },
+    {
+      "start": 226.76,
+      "end": 227.60999999999999,
+      "text": "caras."
+    },
+    {
+      "start": 227.86,
+      "end": 229.73999999999998,
+      "text": "Dá até para imaginar o preço do frigobar."
+    },
+    {
+      "start": 230.36,
+      "end": 232.7,
+      "text": "Imaginar, porque esse a Rockstar não mostrou."
+    },
+    {
+      "start": 233.6,
+      "end": 235.58,
+      "text": "Agora desce desse ponto de vista para a"
+    },
+    {
+      "start": 235.58,
+      "end": 236.43,
+      "text": "praia."
+    },
+    {
+      "start": 236.44,
+      "end": 239.0,
+      "text": "Há um casal caminhando, alguém procurando coisas"
+    },
+    {
+      "start": 239.0,
+      "end": 241.14,
+      "text": "na areia com um detector de metais,"
+    },
+    {
+      "start": 241.74,
+      "end": 243.78,
+      "text": "uma pessoa tomando sol em primeiro plano e"
+    },
+    {
+      "start": 243.78,
+      "end": 245.29999999999998,
+      "text": "outras ocupando o espaço ao redor."
+    },
+    {
+      "start": 245.9,
+      "end": 247.98,
+      "text": "A mesma ideia de paraíso passa a incluir"
+    },
+    {
+      "start": 247.98,
+      "end": 250.2,
+      "text": "hábitos, idades e interesses diferentes."
+    },
+    {
+      "start": 250.96,
+      "end": 252.79999999999998,
+      "text": "É esse contraste que me interessa:"
+    },
+    {
+      "start": 253.1,
+      "end": 254.6,
+      "text": "a cidade pode ser o sonho de alguém"
+    },
+    {
+      "start": 254.6,
+      "end": 256.52000000000004,
+      "text": "e o dia comum de outra pessoa."
+    },
+    {
+      "start": 257.2,
+      "end": 259.78000000000003,
+      "text": "O glamour ganha contexto quando aparecem os moradores,"
+    },
+    {
+      "start": 260.4,
+      "end": 262.4,
+      "text": "os visitantes e as pequenas distrações."
+    },
+    {
+      "start": 262.4,
+      "end": 265.62,
+      "text": "A imagem deixa de ser apenas uma paisagem"
+    },
+    {
+      "start": 265.62,
+      "end": 267.99,
+      "text": "bonita e começa a sugerir histórias que acontecem"
+    },
+    {
+      "start": 267.99,
+      "end": 269.28000000000003,
+      "text": "ao redor dos protagonistas."
+    },
+    {
+      "start": 270.08,
+      "end": 272.48,
+      "text": "O clássico já era apresentado pela Rockstar por"
+    },
+    {
+      "start": 272.48,
+      "end": 275.72,
+      "text": "seus contrastes entre brilho, ambição e degradação."
+    },
+    {
+      "start": 276.14,
+      "end": 278.34,
+      "text": "Então a novidade não é descobrir que Vice"
+    },
+    {
+      "start": 278.34,
+      "end": 279.40000000000003,
+      "text": "City tem contradições."
+    },
+    {
+      "start": 280.26,
+      "end": 283.16,
+      "text": "O retorno coloca essa identidade diante de outra"
+    },
+    {
+      "start": 283.16,
+      "end": 284.01000000000005,
+      "text": "cultura visual:"
+    },
+    {
+      "start": 284.6,
+      "end": 286.78,
+      "text": "a varanda, a rua e a tela do"
+    },
+    {
+      "start": 286.78,
+      "end": 289.48,
+      "text": "telefone disputam qual versão da cidade vamos guardar."
+    },
+    {
+      "start": 290.2,
+      "end": 292.56,
+      "text": "Por isso, minha resposta para “é a mesma"
+    },
+    {
+      "start": 292.56,
+      "end": 294.46000000000004,
+      "text": "Vice City?” tem três partes."
+    },
+    {
+      "start": 295.0,
+      "end": 297.3,
+      "text": "A identidade tropical continua reconhecível."
+    },
+    {
+      "start": 297.66,
+      "end": 300.46,
+      "text": "A cultura exibida nos materiais mudou de época."
+    },
+    {
+      "start": 300.46,
+      "end": 303.12,
+      "text": "E a memória do jogo antigo funciona como"
+    },
+    {
+      "start": 303.12,
+      "end": 305.36,
+      "text": "uma porta de entrada, sem dar conta de"
+    },
+    {
+      "start": 305.36,
+      "end": 307.40000000000003,
+      "text": "tudo o que essas novas imagens apresentam."
+    },
+    {
+      "start": 307.88,
+      "end": 310.88,
+      "text": "Eu quero reconhecer Vice City e, logo depois,"
+    },
+    {
+      "start": 311.12,
+      "end": 313.14000000000004,
+      "text": "encontrar algo que me faça olhar de novo."
+    },
+    {
+      "start": 313.86,
+      "end": 316.86,
+      "text": "A plateia filmando Real Dimez faz exatamente isso:"
+    },
+    {
+      "start": 317.56,
+      "end": 318.54,
+      "text": "o excesso é familiar,"
+    },
+    {
+      "start": 319.18,
+      "end": 321.46000000000004,
+      "text": "a maneira de exibi-lo pertence a outro momento."
+    },
+    {
+      "start": 322.22,
+      "end": 324.96,
+      "text": "Qual lembrança sua precisaria sobreviver nesse retorno:"
+    },
+    {
+      "start": 324.96,
+      "end": 328.04,
+      "text": "o rádio, a atmosfera das ruas"
+    },
+    {
+      "start": 328.04,
+      "end": 330.3,
+      "text": "ou a sensação de conquistar a cidade?"
+    }
+  ],
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start": 0.0,
+      "fromFrame": 0,
+      "text": "Na nova Vice City, a plateia sobe o celular para filmar duas artistas em cima de um carro. Essa imagem entrega a grande mudança: voltamos à cidade do excesso, mas saímos dos anos oitenta. E isso muda muito mais que a roupa."
+    },
+    {
+      "paragraph": 2,
+      "start": 14.4,
+      "fromFrame": 432,
+      "text": "Pensa na lembrança que o nome Vice City traz: palmeiras, calor, música e a camisa de Tommy Vercetti. Agora coloca, nessa lembrança, uma multidão tentando registrar o próprio espetáculo. O cenário continua reconhecível. Só que a ambição ganhou outra vitrine."
+    },
+    {
+      "paragraph": 3,
+      "start": 32.266666666666666,
+      "fromFrame": 968,
+      "text": "Vamos olhar para três coisas: o que preserva essa identidade, o que denuncia a mudança de época e qual pedaço da cidade a nostalgia costuma deixar de fora. A primeira pista está numa imagem bem simples do jogo clássico."
+    },
+    {
+      "paragraph": 4,
+      "start": 45.9,
+      "fromFrame": 1377,
+      "text": "Um carro vermelho atravessa uma avenida cercada de palmeiras, com lojas e prédios ao lado. A foto oficial não precisa de explosão para dizer onde estamos. A vegetação, a luz e o comércio já constroem o lugar. É aquela vontade de entrar no carro e sair dirigindo sem lembrar qual era a missão."
+    },
+    {
+      "paragraph": 5,
+      "start": 64.56666666666666,
+      "fromFrame": 1937,
+      "text": "O jogo chegou em dois mil e dois, mas sua história se passa em mil novecentos e oitenta e seis. São duas datas diferentes. Quando a gente pede que GTA seis recupere aquela sensação, pode estar pedindo a atmosfera dos anos oitenta ou a própria lembrança de ter jogado. E essas saudades nem sempre querem a mesma coisa."
+    },
+    {
+      "paragraph": 6,
+      "start": 84.26666666666667,
+      "fromFrame": 2528,
+      "text": "Uma imagem de Tommy com a camisa estampada, palmeiras e um prédio ao fundo resume bem essa combinação. A cidade participa da identidade do personagem. Você reconhece o conjunto antes de pensar em quantos detalhes existem na fachada. Esse é o primeiro ponto que continua funcionando no retorno."
+    },
+    {
+      "paragraph": 7,
+      "start": 102.03333333333333,
+      "fromFrame": 3061,
+      "text": "Nas imagens de GTA seis, a faixa de hotéis iluminados, as palmeiras e a vida na rua preservam uma linguagem familiar. O neon ainda cumpre seu turno. Só que reconhecer essa linguagem não transforma a nova cidade numa repetição rua por rua. A ligação que podemos enxergar aqui é de atmosfera."
+    },
+    {
+      "paragraph": 8,
+      "start": 120.73333333333333,
+      "fromFrame": 3622,
+      "text": "E existe um detalhe que torna a mudança de época impossível de ignorar: quem está segurando a câmera?"
+    },
+    {
+      "paragraph": 9,
+      "start": 127.5,
+      "fromFrame": 3825,
+      "text": "Na imagem de Real Dimez, duas artistas ocupam o capô de um carro, cercadas de gente. Há telefones erguidos, e uma das telas mostra a apresentação. A festa está acontecendo para quem está ali e também sendo enquadrada para quem vai assistir depois. Até a plateia está produzindo uma versão daquele momento."
+    },
+    {
+      "paragraph": 10,
+      "start": 146.46666666666667,
+      "fromFrame": 4394,
+      "text": "A descrição oficial da dupla liga a carreira musical à presença nas redes sociais. Isso dá contexto ao que a imagem mostra. Música, atenção e dinheiro fazem parte do mesmo caminho. Minha leitura é que a nova Vice City encontra aí uma forma contemporânea de encenar uma obsessão antiga: aparecer, crescer e ser alguém."
+    },
+    {
+      "paragraph": 11,
+      "start": 169.43333333333334,
+      "fromFrame": 5083,
+      "text": "No clássico, os anúncios de rádio já faziam piada com consumo, aparência e promessas de sucesso. A Rockstar conserva um arquivo desses comerciais fictícios, identificado como Vice City de mil novecentos e oitenta e seis. O exagero não nasceu com o celular. O celular oferece outra maneira de colocá-lo em cena."
+    },
+    {
+      "paragraph": 12,
+      "start": 188.86666666666667,
+      "fromFrame": 5666,
+      "text": "Essa comparação é mais interessante que procurar um objeto antigo escondido no canto. O parentesco está no comportamento. A cidade continua vendendo uma imagem de vida desejável, enquanto seus personagens tentam ganhar alguma coisa com ela. Às vezes dinheiro. Às vezes prestígio. Às vezes só alguns segundos de atenção."
+    },
+    {
+      "paragraph": 13,
+      "start": 208.56666666666666,
+      "fromFrame": 6257,
+      "text": "Mas, se a festa é a vitrine, o que acontece quando a gente olha para além dela?"
+    },
+    {
+      "paragraph": 14,
+      "start": 213.93333333333334,
+      "fromFrame": 6418,
+      "text": "Uma das imagens oficiais mostra um casal numa varanda, acima de uma piscina, com a praia ao fundo. A posição da câmera coloca a gente do lado de quem observa a paisagem de um lugar confortável. É Vice City funcionando como promessa de férias caras. Dá até para imaginar o preço do frigobar. Imaginar, porque esse a Rockstar não mostrou."
+    },
+    {
+      "paragraph": 15,
+      "start": 233.6,
+      "fromFrame": 7008,
+      "text": "Agora desce desse ponto de vista para a praia. Há um casal caminhando, alguém procurando coisas na areia com um detector de metais, uma pessoa tomando sol em primeiro plano e outras ocupando o espaço ao redor. A mesma ideia de paraíso passa a incluir hábitos, idades e interesses diferentes."
+    },
+    {
+      "paragraph": 16,
+      "start": 250.96666666666667,
+      "fromFrame": 7529,
+      "text": "É esse contraste que me interessa: a cidade pode ser o sonho de alguém e o dia comum de outra pessoa. O glamour ganha contexto quando aparecem os moradores, os visitantes e as pequenas distrações. A imagem deixa de ser apenas uma paisagem bonita e começa a sugerir histórias que acontecem ao redor dos protagonistas."
+    },
+    {
+      "paragraph": 17,
+      "start": 270.06666666666666,
+      "fromFrame": 8102,
+      "text": "O clássico já era apresentado pela Rockstar por seus contrastes entre brilho, ambição e degradação. Então a novidade não é descobrir que Vice City tem contradições. O retorno coloca essa identidade diante de outra cultura visual: a varanda, a rua e a tela do telefone disputam qual versão da cidade vamos guardar."
+    },
+    {
+      "paragraph": 18,
+      "start": 290.2,
+      "fromFrame": 8706,
+      "text": "Por isso, minha resposta para “é a mesma Vice City?” tem três partes. A identidade tropical continua reconhecível. A cultura exibida nos materiais mudou de época. E a memória do jogo antigo funciona como uma porta de entrada, sem dar conta de tudo o que essas novas imagens apresentam."
+    },
+    {
+      "paragraph": 19,
+      "start": 307.8666666666667,
+      "fromFrame": 9236,
+      "text": "Eu quero reconhecer Vice City e, logo depois, encontrar algo que me faça olhar de novo. A plateia filmando Real Dimez faz exatamente isso: o excesso é familiar, a maneira de exibi-lo pertence a outro momento. Qual lembrança sua precisaria sobreviver nesse retorno: o rádio, a atmosfera das ruas ou a sensação de conquistar a cidade?"
+    }
+  ]
+}

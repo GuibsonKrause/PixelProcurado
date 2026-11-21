@@ -1,0 +1,115 @@
+{
+  "id": "DIA_05_2026-11-13__story",
+  "titulo": "GTA 6: Como Funciona Jogar com Jason e Lucia",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "T2": "GTAVI_Trailer_2.mp4",
+    "LT": "GTAVI_Launch_Trailer.mp4",
+    "GTAV": "GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "HUD": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/hud_0706.jpg",
+    "MSG": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/msg_2349.jpg",
+    "LMSG": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/lucia_msg_2357.jpg",
+    "BENCH": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/supino_1720.jpg",
+    "BENCHZ": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/supino_L2R2.jpg",
+    "L01": "GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_01.jpg",
+    "L04": "GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_04.jpg",
+    "L02": "GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_02.jpg",
+    "JL01": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+    "JL02": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_02.jpg",
+    "JL04": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_04.jpg",
+    "JL07": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_07.jpg",
+    "HUDZ": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/hud_close_0706.jpg"
+  },
+  "rotulos_obrigatorios": {
+    "GTAV": "GTA V"
+  },
+  "correcoes_legenda": {},
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_DIA05_Story_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/_story/audio/narracao.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/_story/audio/palavras.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "HUDZ",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0.0,
+            1.79
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "AMANHÃ (14/11)",
+          "detalhe": "Carros, porta-malas e oficinas",
+          "midia": "EXT",
+          "inicio": 1071.0,
+          "tipo": "editorial",
+          "corte": [
+            1.79,
+            5.05
+          ]
+        },
+        {
+          "titulo": "MINUTO 18",
+          "detalhe": "O porta-malas do gameplay",
+          "midia": "EXT",
+          "inicio": 1092.6,
+          "tipo": "editorial",
+          "corte": [
+            5.05,
+            8.2
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1074.4,
+          "tipo": "editorial",
+          "corte": [
+            8.2,
+            10.11
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1063.0,
+          "tipo": "editorial",
+          "corte": [
+            10.11,
+            12.98
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 85.0,
+          "tipo": "editorial",
+          "corte": [
+            12.98,
+            15.26
+          ],
+          "sem_card": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+Meta oficial: trinta quadros por segundo.
+
+Ontem eu prometi PS cinco normal contra PS cinco Pro, trinta ou sessenta, sem torcida pra nenhum lado. Resposta curta: no dia dez de novembro, a Rockstar escreveu que o GTA seis foi feito pros consoles desta geração mirando trinta quadros por segundo. Sessenta não aparece no texto. Nem pro Pro.
+
+Em inglês, a frase é targeting thirty frames per second. Targeting é mirar. Meta não é promessa, e não é medição: é onde a Rockstar diz que apontou. Se segura trinta o tempo todo, numa perseguição cheia de carro e helicóptero, o texto não diz, e eu não vou inventar. Hoje é segunda, então todo mundo entende: meta é tipo dieta. É sincera, mas ninguém mediu ainda.
+
+Agora, o que o PS cinco Pro ganha, segundo a própria Rockstar: clareza melhorada com o PSSR e sombras com ray tracing, que o texto diz estarem disponíveis só no PS cinco Pro. Esse só no Pro é palavra deles, não minha. No mesmo dia, o blog da PlayStation repetiu a dupla.
+
+PSSR, pra quem não vive em fórum, é o upscaler por inteligência artificial do Pro. A Sony explica assim: ele analisa a imagem do jogo pixel por pixel e usa inteligência artificial pra aumentar a resolução. É tipo aquele aplicativo que melhora foto antiga. Fica bonito, mas ninguém te conta de que tamanho era a foto original.
+
+E o texto não diz que o Pro roda a sessenta. Não fala em modo desempenho, nem em modo qualidade. Não dá número de resolução pra console nenhum. O post da PlayStation também não. Dá pra procurar um sessenta escondido ali como quem procura a chave de casa atrasado. Não tem.
+
+Então, pela fonte oficial, o Pro ganha nitidez e sombra. Quadro a mais, ninguém prometeu. Se você ouviu sessenta por aí, pergunta de onde veio. Se a resposta for o primo de um amigo que conhece alguém na Rockstar, o primo já roda a sessenta. De imaginação.
+
+E antes que alguém pause este vídeo pra comparar: a imagem que tá passando aqui é ilustração. É o Olhar Estendido, um vídeo comprimido. A loja da PlayStation diz que ele foi capturado com imagens do jogo no PS cinco, sem dizer qual modelo. Então ele não prova taxa de quadros, não prova resolução e não prova PSSR.
+
+E tem um detalhe engraçado: o arquivo desse vídeo que eu tenho aqui roda a trinta quadros por segundo. Isso é propriedade do arquivo, não do jogo. Usar isso como prova é medir a velocidade de um carro pela foto dele parado no estacionamento. Por isso você não vai me ouvir dizendo olha como o Pro é mais nítido. Comparação medida entre os dois, até agora, ninguém fez.
+
+E o PS cinco normal? O texto da Rockstar fala de PS cinco, sem separar modelo: vibração de alta fidelidade no controle, áudio espacial melhorado com o Tempest três D Audio e carregamento mais rápido. E a Rockstar ainda fecha dizendo que é no PS cinco que o jogo joga melhor. Isso é frase de divulgação, não de medição.
+
+Agora, o que o texto não diz sobre o PS cinco normal: upscaler. No dia primeiro de outubro, a Sony anunciou o QSSR, um upscaling por inteligência artificial pro PS cinco normal, que já aparece como opção gráfica extra em outros jogos, como Marvel's Wolverine e Ghost of Yotei. No GTA seis? Não confirmado. O post da Sony não cita o GTA seis, e o texto da Rockstar não cita QSSR.
+
+Então, quem tem PS cinco normal não precisa entrar no dia dezenove achando que ganhou upscaler de brinde. Pode até aparecer. Mas hoje isso é torcida, e torcida nunca renderizou um pixel.
+
+Agora o Xbox, que o título deste vídeo deixou entre parênteses. O jogo sai nativo no Xbox Series X e no Series S. O Xbox Wire chama o Series X de a melhor experiência Xbox, e o Series S de o jeito mais barato de jogar nativo. Quadros por segundo de cada um? Nenhum número, nem no Xbox Wire, nem na página do jogo no site do Xbox. A meta de trinta da Rockstar vale pra geração inteira, sem separar Series X de Series S.
+
+E tem a nuvem. O jogo vai estar no Xbox Cloud Gaming, no Series X, no Series S e até no Xbox One, usando as configurações gráficas do Series S. A própria Rockstar avisa: como em todo streaming, a velocidade da conexão e outros fatores técnicos podem mexer no desempenho. Traduzindo: na nuvem, parte do teu desempenho depende do vizinho que descobriu a senha do teu wi-fi.
+
+E o Remote Play, aquele de jogar o console de casa em outra tela, tem suporte total, no PlayStation e no Xbox. É isso que o texto oficial diz sobre desempenho. Cabe numa tela de celular. As certezas que tiraram dele por aí não cabem nem num HD externo.
+
+Então, a lista honesta do que não está confirmado. Modo de sessenta quadros por segundo, em qualquer console: não confirmado. Número de resolução: não confirmado. Diferença visual medida entre o PS cinco normal e o Pro: ninguém mediu ainda. QSSR no GTA seis: não confirmado. Meta própria pro Series S: não encontrei. Ray tracing além das sombras: nenhuma fonte oficial citou.
+
+Tabela comparativa com casa decimal antes do lançamento é chute bem formatado. Eu fico com quatro frases oficiais e um bloco de não sei. Parece pouco, mas o bloco de não sei envelhece muito melhor.
+
+O que dá pra você conferir sozinho, sem acreditar em mim. Primeiro: lê o texto original da Rockstar, do dia dez de novembro. Segundo: no dia dezenove, abre o menu gráfico do jogo. Se tiver alguma opção de modo, você vê com os próprios olhos. Terceiro: espera as medições independentes depois do lançamento, de quem mede quadro, e não curtida.
+
+E conselho de compra aqui não tem. Ontem eu disse que console caro também precisa de prova. Hoje a prova é um texto curto e uma meta de trinta. O resto é contigo e com a tua carteira.
+
+E me conta aí: num GTA seis mirando trinta quadros por segundo, o que pesa mais pra você, sombra com ray tracing ou imagem mais nítida? Ou trinta já tá de bom tamanho?
+
+Amanhã, terça, dezessete de novembro, a gente sai do menu gráfico e entra na balada: vida noturna, boates e infiltração de luxo em Vice City, com ID check, Boobie Ike, terno e pistola silenciada na cobertura. Se inscreve no canal e até amanhã, que agora faltam só três dias.

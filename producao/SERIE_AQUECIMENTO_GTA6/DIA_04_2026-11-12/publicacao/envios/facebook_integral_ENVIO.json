@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-13T02:18:09.232405+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Um sujeito salta da ponte, dois caras montam um ringue no quintal e um jacaré entra numa loja. No Dia 4 do aquecimento de GTA 6, a gente passa pelas cenas mais absurdas de Leonida e volta a um detalhe pequeno: a mulher de rosa no elevador com Jason.\n\nO que o gameplay realmente mostra sobre as interações com os NPCs? E o que só dá pra testar quando o jogo sair? Tem comparação com GTA V, fauna de Grassrivers e Mount Kalaga, e o comando STUDY [R1] no HUD.\n\n00:00 Só em Leonida\n00:25 O elevador e a comparação com GTA V\n00:55 Ponte, motel e luta no quintal\n01:42 Planet Leonida Man e as redes do jogo\n02:37 Jacarés de Grassrivers e fauna de Mount Kalaga\n03:26 De Ambrosia ao Effluvia\n03:44 O que a cena do elevador mostra\n04:16 Interações e o teste do segurança\n05:02 Próximo episódio: Jason e Lucia\n\nImagens de GTA VI e GTA V: Rockstar Games. Trechos de An Extended Look, Trailer 1, Trailer 2, Launch Trailer e capturas oficiais, usados em análise e comentário.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/09d49b53b28d47318da45b71ff287aa9.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "Os NPCs do GTA 6 Têm Mais Problemas Que Você"
+      }
+    }
+  ]
+}

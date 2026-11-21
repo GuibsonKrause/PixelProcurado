@@ -1,0 +1,117 @@
+{
+  "schema_versao": 1,
+  "id": "JH01",
+  "formato": "longo_e_short",
+  "roteiro_origem": {
+    "longo": "producao/ESPECIAL_JACK_OF_HEARTS/01_NARRACAO.txt",
+    "short": "producao/ESPECIAL_JACK_OF_HEARTS/S01_NARRACAO.txt"
+  },
+  "etapa_atual": "narracao",
+  "status": "em_andamento",
+  "data_criacao": "2026-11-16T11:25:03-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "pendente",
+      "longo": {
+        "status": "validado",
+        "artefatos": {
+          "wav": "producao/ESPECIAL_JACK_OF_HEARTS/voz/narracao_normalizada.wav"
+        },
+        "medicoes": {
+          "duracao_s": 348.24
+        },
+        "executor": {
+          "model_solicitado": "claude-sonnet-5-5"
+        },
+        "atualizado_em": "2026-11-16T13:40:42-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "artefatos": {
+          "wav": "producao/ESPECIAL_JACK_OF_HEARTS/short/voz/narracao_normalizada.wav"
+        },
+        "medicoes": {
+          "duracao_s": 60.72
+        },
+        "executor": {
+          "model_solicitado": "claude-sonnet-5-5"
+        },
+        "atualizado_em": "2026-11-16T13:40:44-03:00"
+      }
+    },
+    "alinhamento": {
+      "status": "pendente",
+      "longo": {
+        "status": "validado",
+        "artefatos": {
+          "alinhamento": "producao/ESPECIAL_JACK_OF_HEARTS/voz/alinhamento_palavras.json"
+        },
+        "atualizado_em": "2026-11-16T13:40:43-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "artefatos": {
+          "alinhamento": "producao/ESPECIAL_JACK_OF_HEARTS/short/voz/alinhamento_palavras.json"
+        },
+        "atualizado_em": "2026-11-16T13:40:45-03:00"
+      }
+    },
+    "montagem": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "render": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "thumbnail": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "publicacao_pacote": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "distribuicao": {
+      "status": "pendente",
+      "longo": {
+        "status": "validado",
+        "atualizado_em": "2026-11-16T21:33:42-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "atualizado_em": "2026-11-16T21:33:44-03:00"
+      }
+    },
+    "revisao_final": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    }
+  },
+  "atualizado_em": "2026-11-16T21:33:44-03:00"
+}

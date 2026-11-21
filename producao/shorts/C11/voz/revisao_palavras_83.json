@@ -1,0 +1,44 @@
+[
+  {
+    "start": 83.0,
+    "end": 83.3,
+    "word": "Incluir",
+    "probability": 0.6729297439257304
+  },
+  {
+    "start": 83.3,
+    "end": 83.34,
+    "word": "a",
+    "probability": 0.98811274766922
+  },
+  {
+    "start": 83.34,
+    "end": 83.58,
+    "word": "chave",
+    "probability": 0.9811897575855255
+  },
+  {
+    "start": 83.58,
+    "end": 83.7,
+    "word": "da",
+    "probability": 0.9439482092857361
+  },
+  {
+    "start": 83.7,
+    "end": 83.84,
+    "word": "sua",
+    "probability": 0.9966631531715393
+  },
+  {
+    "start": 83.84,
+    "end": 84.16,
+    "word": "casa.",
+    "probability": 0.9971963167190552
+  },
+  {
+    "start": 84.66,
+    "end": 85.14,
+    "word": "Porque.",
+    "probability": 0.8291662931442261
+  }
+]

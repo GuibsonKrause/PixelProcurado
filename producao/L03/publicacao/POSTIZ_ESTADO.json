@@ -1,0 +1,45 @@
+{
+  "episode": "L03",
+  "integration_id": "cmvsctfgl0001jncj932ovibv",
+  "visibility": "public",
+  "channel": "Pixel Procurado",
+  "authorization": "Usuario pediu postar agora pelo agendador instalado.",
+  "updated_at": "2026-10-29T19:23:40.058976+00:00",
+  "video": {
+    "id": "c8332489-bbbc-44eb-9f82-4ff0ce1dc01c",
+    "name": "3d210733ae6e4e7a1d0cb461473422faa.mp4",
+    "originalName": null,
+    "path": "http://localhost:4007/uploads/2026/10/29/3d210733ae6e4e7a1d0cb461473422faa.mp4",
+    "thumbnail": null,
+    "alt": null,
+    "status": "ready"
+  },
+  "thumbnail": {
+    "id": "435189be-30e0-4cb4-a225-b68353df45f0",
+    "name": "8762dbf61e10b6b3010eece67956477b19.jpg",
+    "originalName": null,
+    "path": "http://localhost:4007/uploads/2026/10/29/8762dbf61e10b6b3010eece67956477b19.jpg",
+    "thumbnail": null,
+    "alt": null,
+    "status": "ready"
+  },
+  "creation_attempted_at": "2026-10-29T18:58:17.278001+00:00",
+  "scheduled_at": "2026-10-29T18:58:47.273976+00:00",
+  "creation_response": [
+    {
+      "postId": "cmvtwp2k90006jncj27z1e8dx",
+      "integration": "cmvsctfgl0001jncj932ovibv"
+    }
+  ],
+  "post_id": "cmvtwp2k90006jncj27z1e8dx",
+  "status": {
+    "id": "cmvtwp2k90006jncj27z1e8dx",
+    "state": "PUBLISHED",
+    "publishDate": "2026-10-29T18:58:47.273Z",
+    "releaseURL": "https://www.youtube.com/watch?v=tH56UHaRo54",
+    "releaseId": "tH56UHaRo54",
+    "error": null
+  },
+  "confirmed_published_at": "2026-10-29T19:23:40.058976+00:00",
+  "resolved_error": "❌ Failed to list posts: Request failed: API Error (502): <html>\n<head><title>502 Bad Gateway</title></head>\n<body>\n<center><h1>502 Bad Gateway</h1></center>\n<hr><center>nginx/1.22.1</center>\n</body>\n</html>"
+}

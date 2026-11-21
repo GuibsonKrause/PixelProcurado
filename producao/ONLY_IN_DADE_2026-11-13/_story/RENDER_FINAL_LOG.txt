@@ -1,0 +1,9 @@
+[short] 1080x1920 @30fps, 4 planos (16.48s); renderizar 4: planos 1..4
+Renderizando painéis Hyperframes para Pixel_Procurado_Only_In_Dade_Story_V2...
+Iniciando renderização de 4 planos (494 frames)...
+Plano 01 concluído (176 frames)
+Plano 02 concluído (104 frames)
+Plano 04 concluído (82 frames)
+Plano 03 concluído (132 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\ONLY_IN_DADE_2026-11-13\_story\exportacoes\Pixel_Procurado_Only_In_Dade_Story_V2.mp4 (49 MB)
+RENDER_EXIT=0

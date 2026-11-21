@@ -1,0 +1,310 @@
+[
+  {
+    "kind": "delete",
+    "start": 0.74,
+    "end": 0.78,
+    "asr": "a",
+    "script": ""
+  },
+  {
+    "kind": "replace",
+    "start": 3.36,
+    "end": 3.74,
+    "asr": "2",
+    "script": "dois de"
+  },
+  {
+    "kind": "replace",
+    "start": 4.06,
+    "end": 4.38,
+    "asr": "6",
+    "script": "seis"
+  },
+  {
+    "kind": "replace",
+    "start": 6.22,
+    "end": 6.52,
+    "asr": "Oxstar",
+    "script": "Rockstar"
+  },
+  {
+    "kind": "replace",
+    "start": 23.62,
+    "end": 23.78,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 33.54,
+    "end": 33.82,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 36.22,
+    "end": 36.42,
+    "asr": "ao",
+    "script": "usar o"
+  },
+  {
+    "kind": "replace",
+    "start": 36.64,
+    "end": 36.96,
+    "asr": "2",
+    "script": "dois"
+  },
+  {
+    "kind": "insert",
+    "start": 65.6,
+    "end": 65.64999999999999,
+    "asr": "",
+    "script": "a"
+  },
+  {
+    "kind": "replace",
+    "start": 86.34,
+    "end": 86.56,
+    "asr": "tava",
+    "script": "estava"
+  },
+  {
+    "kind": "replace",
+    "start": 90.38,
+    "end": 90.46,
+    "asr": "tá",
+    "script": "está"
+  },
+  {
+    "kind": "replace",
+    "start": 90.86,
+    "end": 91.3,
+    "asr": "o comando",
+    "script": "comandos"
+  },
+  {
+    "kind": "replace",
+    "start": 92.56,
+    "end": 92.82,
+    "asr": "Tá",
+    "script": "Está"
+  },
+  {
+    "kind": "replace",
+    "start": 101.02,
+    "end": 101.42,
+    "asr": "2.",
+    "script": "dois."
+  },
+  {
+    "kind": "replace",
+    "start": 115.56,
+    "end": 115.82,
+    "asr": "2",
+    "script": "dois"
+  },
+  {
+    "kind": "replace",
+    "start": 117.58,
+    "end": 117.8,
+    "asr": "no",
+    "script": "num"
+  },
+  {
+    "kind": "replace",
+    "start": 118.02,
+    "end": 118.54,
+    "asr": "5.",
+    "script": "cinco."
+  },
+  {
+    "kind": "replace",
+    "start": 120.54,
+    "end": 120.96,
+    "asr": "6 o",
+    "script": "seis um"
+  },
+  {
+    "kind": "replace",
+    "start": 128.6,
+    "end": 128.92,
+    "asr": "de",
+    "script": "diz"
+  },
+  {
+    "kind": "replace",
+    "start": 133.5,
+    "end": 133.64,
+    "asr": "tá",
+    "script": "está"
+  },
+  {
+    "kind": "replace",
+    "start": 137.4,
+    "end": 137.5,
+    "asr": "o",
+    "script": "um"
+  },
+  {
+    "kind": "insert",
+    "start": 139.36,
+    "end": 139.41000000000003,
+    "asr": "",
+    "script": "em"
+  },
+  {
+    "kind": "replace",
+    "start": 146.88,
+    "end": 147.72,
+    "asr": "da Uprestation",
+    "script": "dado ao PlayStation"
+  },
+  {
+    "kind": "replace",
+    "start": 152.16,
+    "end": 152.34,
+    "asr": "Para",
+    "script": "Pra"
+  },
+  {
+    "kind": "replace",
+    "start": 160.78,
+    "end": 160.88,
+    "asr": "ter",
+    "script": "tem"
+  },
+  {
+    "kind": "delete",
+    "start": 165.04,
+    "end": 165.2,
+    "asr": "a",
+    "script": ""
+  },
+  {
+    "kind": "delete",
+    "start": 165.9,
+    "end": 165.98,
+    "asr": "a",
+    "script": ""
+  },
+  {
+    "kind": "replace",
+    "start": 172.12,
+    "end": 172.48,
+    "asr": "Aqui lê",
+    "script": "Aquilo é"
+  },
+  {
+    "kind": "replace",
+    "start": 173.66,
+    "end": 174.38,
+    "asr": "coisa colhida,",
+    "script": "cor escolhida,"
+  },
+  {
+    "kind": "replace",
+    "start": 176.74,
+    "end": 176.88,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 177.6,
+    "end": 178.04,
+    "asr": "pústara",
+    "script": "pôster"
+  },
+  {
+    "kind": "replace",
+    "start": 200.18,
+    "end": 200.66,
+    "asr": "post é para",
+    "script": "pôster pra"
+  },
+  {
+    "kind": "replace",
+    "start": 205.2,
+    "end": 205.8,
+    "asr": "elogiava",
+    "script": "elogiar"
+  },
+  {
+    "kind": "replace",
+    "start": 207.48,
+    "end": 207.64,
+    "asr": "certa",
+    "script": "seta"
+  },
+  {
+    "kind": "replace",
+    "start": 211.2,
+    "end": 211.46,
+    "asr": "valeu",
+    "script": "vale o"
+  },
+  {
+    "kind": "replace",
+    "start": 219.52,
+    "end": 220.36,
+    "asr": "Para",
+    "script": "Pra"
+  },
+  {
+    "kind": "delete",
+    "start": 221.74,
+    "end": 221.84,
+    "asr": "o",
+    "script": ""
+  },
+  {
+    "kind": "replace",
+    "start": 222.28,
+    "end": 222.5,
+    "asr": "mostra",
+    "script": "mostre"
+  },
+  {
+    "kind": "replace",
+    "start": 229.52,
+    "end": 229.7,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 231.5,
+    "end": 231.86,
+    "asr": "2,",
+    "script": "dois,"
+  },
+  {
+    "kind": "replace",
+    "start": 245.52,
+    "end": 245.92,
+    "asr": "checagem",
+    "script": "checagens"
+  },
+  {
+    "kind": "delete",
+    "start": 249.22,
+    "end": 249.32,
+    "asr": "o",
+    "script": ""
+  },
+  {
+    "kind": "insert",
+    "start": 250.44,
+    "end": 250.49,
+    "asr": "",
+    "script": "você quer"
+  },
+  {
+    "kind": "replace",
+    "start": 250.8,
+    "end": 251.62,
+    "asr": "queremos examinar",
+    "script": "a gente examine"
+  }
+]

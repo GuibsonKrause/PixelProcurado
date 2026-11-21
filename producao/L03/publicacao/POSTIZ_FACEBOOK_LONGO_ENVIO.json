@@ -1,0 +1,32 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-03T02:58:51.784931+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Vice City mudou só nos gráficos? O celular na plateia conta outra história. 🔎\n\nNeste episódio completo, comparamos imagens promocionais do clássico com materiais oficiais de GTA VI. Neon, rádio e ambição continuam na conversa, mas as formas de viver e mostrar a cidade também mudam.\n\nA relação entre as cenas é uma interpretação editorial; não pressupõe o mesmo endereço nem uma reconstrução do mapa antigo.\n\nQual lembrança da Vice City clássica precisa sobreviver: o rádio, a atmosfera das ruas ou a sensação de conquistar a cidade?\n\nRecorte: imagens selecionadas em outubro de 2026.\nFontes: https://www.rockstargames.com/games/vicecity e https://www.rockstargames.com/VI/media\n\nImagens e trechos: Rockstar Games. Análise, gráficos e edição: Pixel Procurado. Narração sintética produzida com auxílio de IA. Análise independente, sem vínculo oficial com a Rockstar.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/c6f85fe8a2ca281764aaa5641b945652.mp4"
+            }
+          ],
+          "delay": 0,
+          "id": "cmw02jraj000bpddwewto2c3l"
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "Vice City clássica e GTA VI: o que mudou além dos gráficos"
+      }
+    }
+  ]
+}

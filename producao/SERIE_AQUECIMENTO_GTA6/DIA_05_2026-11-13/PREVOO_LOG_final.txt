@@ -1,0 +1,3 @@
+[longo] 109 planos conferidos (93 de vídeo): 0 erro(s), 0 aviso(s)
+  folhas de contato (11): C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\SERIE_AQUECIMENTO_GTA6\DIA_05_2026-11-13\montagem\prevoo  <- olhar antes do render: imagem x card x fala
+Pré-voo sem erros. Confira as folhas de contato e siga para a amostra/render.

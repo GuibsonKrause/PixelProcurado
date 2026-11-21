@@ -1,0 +1,108 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T23:47:44.004388+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Um esportivo rosa, dois ângulos. A câmera passa pela janela num vídeo e fica parada na esquina no outro. Em qual você teria jurado que era Miami? #GTA6 #GTAVI #ViceCity",
+          "image": [
+            {
+              "id": "b5ab4ee5-b66d-4d96-a2b3-6794d2456734",
+              "name": "6a0837f48f36677bc0b73a33bcced74d.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/14/6a0837f48f36677bc0b73a33bcced74d.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "Miami ou GTA 6? A Pista É o Carro Rosa",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "Only in Dade",
+            "label": "Only in Dade"
+          },
+          {
+            "value": "Only in Vice City",
+            "label": "Only in Vice City"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "realismo GTA 6",
+            "label": "realismo GTA 6"
+          },
+          {
+            "value": "Miami",
+            "label": "Miami"
+          },
+          {
+            "value": "West Coast Customs",
+            "label": "West Coast Customs"
+          },
+          {
+            "value": "Hypedrive",
+            "label": "Hypedrive"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "carros GTA 6",
+            "label": "carros GTA 6"
+          },
+          {
+            "value": "Coquette",
+            "label": "Coquette"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "a264a028-898d-4c7a-83a7-950ab0600616",
+          "name": "5e0b772fac5fb5eee9b3fec121e69bf9.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/14/5e0b772fac5fb5eee9b3fec121e69bf9.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

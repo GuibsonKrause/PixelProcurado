@@ -1,0 +1,574 @@
+{
+  "id": "C12",
+  "title": "GTA 6: você confiaria num plano de Raul Bautista?",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 84.16,
+  "frames": 2525,
+  "voice": "producao/shorts/C12/voz/narracao.wav",
+  "shots": [
+    {
+      "anchor": null,
+      "file": "videosGTAVI/GTAVI_Videos/Raul_Bautista_Video_Clip.mp4",
+      "title": "SABE ROUBAR.\nMAS SABE PARAR?",
+      "label": "RAUL BAUTISTA • GTA VI",
+      "mode": "panel",
+      "offset": 0.0,
+      "hook": true,
+      "motion": 1.0,
+      "from": 0,
+      "frames": 42,
+      "part": 0,
+      "index": 0,
+      "start": 0.0,
+      "end": 1.4,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "GANCHO • SEGUNDA BATIDA",
+      "file": "videosGTAVI/GTAVI_Videos/Raul_Bautista_Video_Clip.mp4",
+      "title": "SABE ROUBAR.\nMAS SABE PARAR?",
+      "label": "RAUL BAUTISTA • GTA VI",
+      "mode": "panel",
+      "offset": 0.0,
+      "hook": true,
+      "motion": 1.0,
+      "from": 42,
+      "frames": 70,
+      "part": 0,
+      "punch": true,
+      "index": 1,
+      "start": 1.4,
+      "end": 3.7333333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A apresentação oficial",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Raul Bautista/Raul_Bautista_03.jpg",
+      "title": "EXPERIÊNCIA + RISCO CRESCENTE.",
+      "label": "SÍNTESE DO PERFIL OFICIAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 112,
+      "frames": 108,
+      "part": 0,
+      "index": 2,
+      "start": 3.7333333333333334,
+      "end": 7.333333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A apresentação oficial [continuação 2]",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Raul Bautista/Raul_Bautista_03.jpg",
+      "title": "EXPERIÊNCIA + RISCO CRESCENTE.",
+      "label": "SÍNTESE DO PERFIL OFICIAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 220,
+      "frames": 109,
+      "hook": false,
+      "part": 1,
+      "index": 3,
+      "start": 7.333333333333333,
+      "end": 10.966666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "As duas características",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Raul Bautista/Raul_Bautista_02.jpg",
+      "title": "AS DUAS COISAS JUNTAS.",
+      "label": "LEITURA DO PERFIL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 329,
+      "frames": 155,
+      "part": 0,
+      "index": 4,
+      "start": 10.966666666666667,
+      "end": 16.133333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Quem já escapou",
+      "file": "",
+      "title": "O QUE A EXPERIÊNCIA ENSINA?",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "RECONHECER O PERIGO",
+        "OU CONFIAR DEMAIS?"
+      ],
+      "from": 484,
+      "frames": 143,
+      "part": 0,
+      "index": 5,
+      "start": 16.133333333333333,
+      "end": 20.9,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Também pode começar",
+      "file": "videosGTAVI/GTAVI_Videos/Raul_Bautista_Video_Clip.mp4",
+      "title": "SEMPRE DAR UM JEITO?",
+      "label": "RAUL • CLIPE OFICIAL",
+      "mode": "panel",
+      "offset": 0.0,
+      "motion": 1.0,
+      "from": 627,
+      "frames": 123,
+      "part": 0,
+      "index": 6,
+      "start": 20.9,
+      "end": 25.0,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O currículo aumenta",
+      "file": "",
+      "title": "O LIMITE PEDIU DEMISSÃO.",
+      "label": "HUMOR EDITORIAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "EXPERIÊNCIA NÃO É GARANTIA"
+      ],
+      "from": 750,
+      "frames": 155,
+      "part": 0,
+      "index": 7,
+      "start": 25.0,
+      "end": 30.166666666666668,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Imagina alguém",
+      "file": "",
+      "title": "UM PLANO. A CALMA DE UMA PIZZA.",
+      "label": "SITUAÇÃO INVENTADA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O RISCO CONTINUA ALI"
+      ],
+      "from": 905,
+      "frames": 166,
+      "part": 0,
+      "index": 8,
+      "start": 30.166666666666668,
+      "end": 35.7,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "A tranquilidade convence",
+      "file": "",
+      "title": "QUEM TEM ROTA DE VOLTA?",
+      "label": "SITUAÇÃO INVENTADA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O ENTREGADOR",
+        "OU A EQUIPE?"
+      ],
+      "from": 1071,
+      "frames": 116,
+      "part": 0,
+      "index": 9,
+      "start": 35.7,
+      "end": 39.56666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "A tranquilidade convence [continuação 2]",
+      "file": "",
+      "title": "QUEM TEM ROTA DE VOLTA?",
+      "label": "SITUAÇÃO INVENTADA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O ENTREGADOR",
+        "OU A EQUIPE?"
+      ],
+      "from": 1187,
+      "frames": 117,
+      "hook": false,
+      "part": 1,
+      "index": 10,
+      "start": 39.56666666666667,
+      "end": 43.46666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Essa situação",
+      "file": "",
+      "title": "ESSE PLANO FOI INVENTADO.",
+      "label": "LIMITE DO EXEMPLO",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "NÃO É MISSÃO ANUNCIADA"
+      ],
+      "from": 1304,
+      "frames": 64,
+      "part": 0,
+      "index": 11,
+      "start": 43.46666666666667,
+      "end": 45.6,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "O perfil não entrega",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Raul Bautista/Raul_Bautista_01.jpg",
+      "title": "O PERFIL NÃO ENTREGA UMA MISSÃO.",
+      "label": "LIMITES DA EVIDÊNCIA",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1368,
+      "frames": 145,
+      "part": 0,
+      "index": 12,
+      "start": 45.6,
+      "end": 50.43333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Ele permite observar",
+      "file": "",
+      "title": "UMA TENSÃO",
+      "label": "LEITURA DO PERFIL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "CAPACIDADE",
+        "CONFIANÇA",
+        "RISCO"
+      ],
+      "from": 1513,
+      "frames": 116,
+      "part": 0,
+      "index": 13,
+      "start": 50.43333333333333,
+      "end": 54.3,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Ele permite observar [continuação 2]",
+      "file": "",
+      "title": "UMA TENSÃO",
+      "label": "LEITURA DO PERFIL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "CAPACIDADE",
+        "CONFIANÇA",
+        "RISCO"
+      ],
+      "from": 1629,
+      "frames": 117,
+      "hook": false,
+      "part": 1,
+      "index": 14,
+      "start": 54.3,
+      "end": 58.2,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Uma pergunta",
+      "file": "",
+      "title": "QUEM PAGA QUANDO DÁ ERRADO?",
+      "label": "CRITÉRIO DE LEITURA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "QUEM PROPÕE?",
+        "QUEM ASSUME O CUSTO?"
+      ],
+      "from": 1746,
+      "frames": 193,
+      "part": 0,
+      "index": 15,
+      "start": 58.2,
+      "end": 64.63333333333334,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "A resposta pode",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Raul Bautista/Raul_Bautista_03.jpg",
+      "title": "A RESPOSTA MUDA A CORAGEM.",
+      "label": "LEITURA DO CANAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1939,
+      "frames": 128,
+      "part": 0,
+      "index": 16,
+      "start": 64.63333333333334,
+      "end": 68.9,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Às vezes",
+      "file": "",
+      "title": "QUEM FICOU COM A CONTA?",
+      "label": "LEITURA DO CANAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "DISCURSO",
+        "CONSEQUÊNCIA"
+      ],
+      "from": 2067,
+      "frames": 134,
+      "part": 0,
+      "index": 17,
+      "start": 68.9,
+      "end": 73.36666666666666,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Eu prestaria atenção",
+      "file": "videosGTAVI/GTAVI_Videos/Raul_Bautista_Video_Clip.mp4",
+      "title": "SABER FAZER. SABER PARAR.",
+      "label": "RAUL • CLIPE OFICIAL",
+      "mode": "panel",
+      "offset": 0.0,
+      "motion": 1.0,
+      "from": 2201,
+      "frames": 173,
+      "part": 0,
+      "index": 18,
+      "start": 73.36666666666666,
+      "end": 79.13333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Experiência pode",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Raul Bautista/Raul_Bautista_04.jpg",
+      "title": "EXPERIÊNCIA ≠ PRUDÊNCIA.",
+      "label": "LEITURA DO CANAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 2374,
+      "frames": 116,
+      "part": 0,
+      "index": 19,
+      "start": 79.13333333333334,
+      "end": 83.0,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Afinal",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Raul Bautista/Raul_Bautista_01.jpg",
+      "title": "SABE ROUBAR.\nMAS SABE PARAR?",
+      "label": "RAUL BAUTISTA • GTA VI",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "from": 2490,
+      "frames": 35,
+      "part": 0,
+      "index": 20,
+      "start": 83.0,
+      "end": 84.16666666666667,
+      "animationFrames": 18
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.09,
+      "text": "Raul sabe roubar."
+    },
+    {
+      "start": 1.7,
+      "end": 2.55,
+      "text": "Mas sabe parar?"
+    },
+    {
+      "start": 3.72,
+      "end": 6.6,
+      "text": "A apresentação oficial de GTA seis descreve"
+    },
+    {
+      "start": 6.6,
+      "end": 9.02,
+      "text": "um assaltante experiente, com disposição"
+    },
+    {
+      "start": 9.02,
+      "end": 10.31,
+      "text": "crescente pra arriscar."
+    },
+    {
+      "start": 10.98,
+      "end": 13.4,
+      "text": "As duas características podem andar juntas,"
+    },
+    {
+      "start": 13.4,
+      "end": 15.17,
+      "text": "e essa combinação merece atenção."
+    },
+    {
+      "start": 16.14,
+      "end": 18.56,
+      "text": "Quem já escapou de vários problemas pode"
+    },
+    {
+      "start": 18.56,
+      "end": 20.01,
+      "text": "aprender a reconhecer o perigo."
+    },
+    {
+      "start": 20.9,
+      "end": 23.08,
+      "text": "Também pode começar a achar que sempre"
+    },
+    {
+      "start": 23.08,
+      "end": 23.93,
+      "text": "vai dar um jeito."
+    },
+    {
+      "start": 25.0,
+      "end": 27.46,
+      "text": "O currículo aumenta, e o senso de"
+    },
+    {
+      "start": 27.46,
+      "end": 29.13,
+      "text": "limite resolve pedir demissão."
+    },
+    {
+      "start": 30.16,
+      "end": 32.54,
+      "text": "Imagina alguém apresentando um plano perigoso"
+    },
+    {
+      "start": 32.54,
+      "end": 34.24,
+      "text": "com a calma de quem está escolhendo"
+    },
+    {
+      "start": 34.24,
+      "end": 35.09,
+      "text": "uma pizza."
+    },
+    {
+      "start": 35.7,
+      "end": 37.09,
+      "text": "A tranquilidade convence."
+    },
+    {
+      "start": 37.72,
+      "end": 39.84,
+      "text": "Até você perceber que o entregador tem"
+    },
+    {
+      "start": 39.84,
+      "end": 41.76,
+      "text": "uma rota de volta mais bem definida"
+    },
+    {
+      "start": 41.76,
+      "end": 42.61,
+      "text": "que a equipe."
+    },
+    {
+      "start": 43.48,
+      "end": 44.99,
+      "text": "Essa situação é inventada."
+    },
+    {
+      "start": 45.6,
+      "end": 47.58,
+      "text": "O perfil não entrega uma missão específica"
+    },
+    {
+      "start": 47.58,
+      "end": 50.16,
+      "text": "nem autoriza colocar Jason e Lucia nesse"
+    },
+    {
+      "start": 50.16,
+      "end": 53.92,
+      "text": "plano. Ele permite observar uma tensão entre"
+    },
+    {
+      "start": 53.92,
+      "end": 54.85,
+      "text": "capacidade,"
+    },
+    {
+      "start": 55.3,
+      "end": 57.25,
+      "text": "confiança e vontade de assumir riscos."
+    },
+    {
+      "start": 58.2,
+      "end": 59.73,
+      "text": "Uma pergunta ajuda bastante:"
+    },
+    {
+      "start": 60.64,
+      "end": 61.57,
+      "text": "quem propõe a ideia"
+    },
+    {
+      "start": 62.02,
+      "end": 63.53,
+      "text": "também paga quando dá errado?"
+    },
+    {
+      "start": 64.62,
+      "end": 66.7,
+      "text": "A resposta pode mudar nossa opinião sobre"
+    },
+    {
+      "start": 66.7,
+      "end": 67.85,
+      "text": "a coragem daquela pessoa."
+    },
+    {
+      "start": 68.9,
+      "end": 71.14,
+      "text": "Às vezes o discurso parece melhor porque"
+    },
+    {
+      "start": 71.14,
+      "end": 72.11,
+      "text": "a conta ficou pra outra."
+    },
+    {
+      "start": 73.38,
+      "end": 75.3,
+      "text": "Eu prestaria atenção no tanto no que"
+    },
+    {
+      "start": 75.3,
+      "end": 77.46,
+      "text": "Raul sabe fazer quanto na hora em"
+    },
+    {
+      "start": 77.46,
+      "end": 78.26,
+      "text": "que decide parar."
+    },
+    {
+      "start": 78.26,
+      "end": 81.38,
+      "text": "A Experiência pode ser valiosa sem virar"
+    },
+    {
+      "start": 81.38,
+      "end": 82.55,
+      "text": "certificado de prudência."
+    },
+    {
+      "start": 83.0,
+      "end": 83.85,
+      "text": "Afinal..."
+    }
+  ]
+}

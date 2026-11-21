@@ -1,0 +1,22 @@
+{
+  "id": "L07",
+  "titulo": "Por Que o Rádio de GTA Não Sai da Sua Cabeça?",
+  "estado": "concluido",
+  "etapa_atual": "publicado_agendado",
+  "agendamento": {
+    "horario_alvo": "2026-11-07T12:00:00-03:00",
+    "postId": "cmw5ysacq000hkac0kp95f5u8",
+    "integrationId": "cmvsctfgl0001jncj932ovibv",
+    "canal": "YouTube (@pixelprocurado)",
+    "status": "SCHEDULED"
+  },
+  "artefatos": {
+    "video_4k": "producao/L07/exportacoes/Pixel_Procurado_L07_4K.mp4",
+    "legendas_srt": "producao/L07/exportacoes/Pixel_Procurado_L07_4K.srt",
+    "legendas_ass": "producao/L07/projeto/legendas_l07.ass",
+    "audio_normalizado": "producao/L07/voz/narracao_normalizada.wav",
+    "thumbnail_master": "producao/L07/publicacao/capa_master.png",
+    "thumbnail_youtube": "producao/L07/publicacao/capa_youtube.jpg",
+    "pacote_publicacao": "producao/L07/publicacao/"
+  }
+}

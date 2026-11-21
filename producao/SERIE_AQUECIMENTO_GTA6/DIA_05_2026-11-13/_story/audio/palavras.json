@@ -1,0 +1,284 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.24,
+    "word": "Esse",
+    "probability": 0.035
+  },
+  {
+    "start": 0.24,
+    "end": 0.52,
+    "word": "botão",
+    "probability": 0.9929
+  },
+  {
+    "start": 0.52,
+    "end": 0.66,
+    "word": "não",
+    "probability": 0.9911
+  },
+  {
+    "start": 0.66,
+    "end": 0.98,
+    "word": "troca",
+    "probability": 0.9785
+  },
+  {
+    "start": 0.98,
+    "end": 1.08,
+    "word": "de",
+    "probability": 0.9629
+  },
+  {
+    "start": 1.08,
+    "end": 1.44,
+    "word": "personagem.",
+    "probability": 0.9691
+  },
+  {
+    "start": 1.79,
+    "end": 2.31,
+    "word": "Amanhã,",
+    "probability": 0.9121
+  },
+  {
+    "start": 2.91,
+    "end": 3.25,
+    "word": "sábado,",
+    "probability": 0.891
+  },
+  {
+    "start": 3.25,
+    "end": 3.83,
+    "word": "quatorze",
+    "probability": 0.4697
+  },
+  {
+    "start": 3.83,
+    "end": 4.09,
+    "word": "de",
+    "probability": 0.9949
+  },
+  {
+    "start": 4.09,
+    "end": 4.53,
+    "word": "novembro,",
+    "probability": 0.9658
+  },
+  {
+    "start": 5.05,
+    "end": 5.13,
+    "word": "eu",
+    "probability": 0.2841
+  },
+  {
+    "start": 5.13,
+    "end": 5.23,
+    "word": "vou",
+    "probability": 0.622
+  },
+  {
+    "start": 5.23,
+    "end": 5.37,
+    "word": "abrir",
+    "probability": 0.9525
+  },
+  {
+    "start": 5.37,
+    "end": 5.47,
+    "word": "o",
+    "probability": 0.8812
+  },
+  {
+    "start": 5.47,
+    "end": 5.99,
+    "word": "porta-malas",
+    "probability": 0.6607
+  },
+  {
+    "start": 5.99,
+    "end": 6.05,
+    "word": "que",
+    "probability": 0.9697
+  },
+  {
+    "start": 6.05,
+    "end": 6.39,
+    "word": "aparece",
+    "probability": 0.9138
+  },
+  {
+    "start": 6.39,
+    "end": 6.51,
+    "word": "no",
+    "probability": 0.9332
+  },
+  {
+    "start": 6.51,
+    "end": 6.73,
+    "word": "minuto",
+    "probability": 0.6488
+  },
+  {
+    "start": 6.73,
+    "end": 7.17,
+    "word": "dezoito",
+    "probability": 0.6113
+  },
+  {
+    "start": 7.17,
+    "end": 7.35,
+    "word": "do",
+    "probability": 0.8921
+  },
+  {
+    "start": 7.35,
+    "end": 7.73,
+    "word": "gameplay",
+    "probability": 0.7414
+  },
+  {
+    "start": 7.73,
+    "end": 8.39,
+    "word": "e",
+    "probability": 0.4847
+  },
+  {
+    "start": 8.39,
+    "end": 8.51,
+    "word": "te",
+    "probability": 0.9251
+  },
+  {
+    "start": 8.51,
+    "end": 8.81,
+    "word": "mostrar",
+    "probability": 0.9455
+  },
+  {
+    "start": 8.81,
+    "end": 8.95,
+    "word": "o",
+    "probability": 0.7441
+  },
+  {
+    "start": 8.95,
+    "end": 9.03,
+    "word": "que",
+    "probability": 0.9946
+  },
+  {
+    "start": 9.03,
+    "end": 9.25,
+    "word": "muda",
+    "probability": 0.7933
+  },
+  {
+    "start": 9.25,
+    "end": 9.39,
+    "word": "nos",
+    "probability": 0.9825
+  },
+  {
+    "start": 9.39,
+    "end": 9.81,
+    "word": "carros,",
+    "probability": 0.9846
+  },
+  {
+    "start": 10.11,
+    "end": 10.23,
+    "word": "nos",
+    "probability": 0.984
+  },
+  {
+    "start": 10.23,
+    "end": 10.65,
+    "word": "rachas",
+    "probability": 0.654
+  },
+  {
+    "start": 10.65,
+    "end": 10.95,
+    "word": "e",
+    "probability": 0.9482
+  },
+  {
+    "start": 10.95,
+    "end": 11.11,
+    "word": "nas",
+    "probability": 0.4563
+  },
+  {
+    "start": 11.11,
+    "end": 11.55,
+    "word": "oficinas",
+    "probability": 0.8889
+  },
+  {
+    "start": 11.55,
+    "end": 11.99,
+    "word": "do",
+    "probability": 0.8203
+  },
+  {
+    "start": 11.99,
+    "end": 12.17,
+    "word": "GTA",
+    "probability": 0.9675
+  },
+  {
+    "start": 12.17,
+    "end": 12.63,
+    "word": "seis.",
+    "probability": 0.357
+  },
+  {
+    "start": 12.98,
+    "end": 13.36,
+    "word": "Já",
+    "probability": 0.0591
+  },
+  {
+    "start": 13.36,
+    "end": 13.46,
+    "word": "se",
+    "probability": 0.9612
+  },
+  {
+    "start": 13.46,
+    "end": 13.68,
+    "word": "inscreve",
+    "probability": 0.8782
+  },
+  {
+    "start": 13.68,
+    "end": 13.82,
+    "word": "nessa",
+    "probability": 0.8848
+  },
+  {
+    "start": 13.82,
+    "end": 14.3,
+    "word": "porra",
+    "probability": 0.8669
+  },
+  {
+    "start": 14.3,
+    "end": 14.58,
+    "word": "e",
+    "probability": 0.9793
+  },
+  {
+    "start": 14.58,
+    "end": 14.8,
+    "word": "até",
+    "probability": 0.9969
+  },
+  {
+    "start": 14.8,
+    "end": 15.14,
+    "word": "amanhã.",
+    "probability": 0.828
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-04T18:16:07.198032+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Em Vice City, a fachada do Ocean View faz a rua virar espetáculo. Em Port Gellhorn, o letreiro do Starlet Motel se destaca no entorno. O que muda na sua leitura da cena?\n\nTrecho de Leonida além de Vice City, do Pixel Procurado. Imagens oficiais de GTA VI: https://www.rockstargames.com/VI/media\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado #Shorts",
+          "image": [
+            {
+              "id": "9cc0a721-145c-4ba0-989e-05e90b3dd479",
+              "name": "f989be03dfc45743fdffb0afd5b14bd6.mp4",
+              "originalName": null,
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/f989be03dfc45743fdffb0afd5b14bd6.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "Vice City e Port Gellhorn brilham por motivos diferentes",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "Port Gellhorn",
+            "label": "Port Gellhorn"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ]
+      }
+    }
+  ]
+}

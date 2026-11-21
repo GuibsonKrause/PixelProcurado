@@ -1,0 +1,587 @@
+{
+  "schema_versao": 1,
+  "episodio": "ESPECIAL_JACK_OF_HEARTS",
+  "revisor": {
+    "modelo": "claude-opus-5-5",
+    "agent_id": "revisor-final-independente-JH01"
+  },
+  "data": "2026-11-16 (rodada 3: longo re-renderizado 16:05, plano 16 com T2 inicio 129.45)",
+  "artefatos": [
+    {
+      "caminho": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "sha256": "e318139cffc722bd2855ca0afb0e28fd97377c1655f242d30a79b84fc9ac2b42"
+    },
+    {
+      "caminho": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.srt",
+      "sha256": "56434e7f9f44856e8dc6e2a2cfba40158df189ae48eb71b7dc5f5b55527091fd"
+    },
+    {
+      "caminho": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "sha256": "2e5d156dfff795e21dddd813c3e2ef36acbb307bd3189b41d6e1fd4d45d4b10b"
+    },
+    {
+      "caminho": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.srt",
+      "sha256": "747f3a459e922dc24ba39a403247250b76de48129733238c17171c8620041a6f"
+    },
+    {
+      "caminho": "producao/ESPECIAL_JACK_OF_HEARTS/publicacao/capa_youtube.jpg",
+      "sha256": "c020d54224f59b97b6219eed279f95082526df49263533d106d1d380f96ca286"
+    },
+    {
+      "caminho": "producao/ESPECIAL_JACK_OF_HEARTS/short/publicacao/capa_youtube.jpg",
+      "sha256": "aebaeb33189cd3724f49edc0f0e7eca6664aafc1443bbf9b9a437f7220a92123"
+    }
+  ],
+  "audio_trechos_ouvidos": [
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "inicio": 0,
+      "fim": 10,
+      "observacao": "Verificado por transcricao ASR (faster-whisper small, pt) do audio extraido do MP4 final, SEM escuta humana. Palavra a palavra: \"Todo mundo vai pro mesmo lugar.\" de 0,00 a ~1,5 s (gancho de 6 palavras dentro de 3 s, voz no 1o quadro). Segue \"Terminou a primeira missao, o mapa abriu...\" igual ao roteiro. \"Jack of Hearts\" saiu como \"jack of hordes\" no ASR: conferir pronuncia na escuta humana. Pico -1,4 dBFS, sem clipping. RODADA 2: a trilha de audio dos MP4 re-renderizados foi extraida de novo (PCM 16 kHz mono) e e bit a bit identica a extracao da rodada 1 (md5 igual), entao a transcricao ASR acima vale para os arquivos atuais. RODADA 3: audio do longo re-renderizado extraido de novo e identico bit a bit (md5 do PCM igual)."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "inicio": 125,
+      "fim": 140,
+      "observacao": "Verificado por transcricao ASR (faster-whisper small, pt) do audio extraido do MP4 final, SEM escuta humana. \"...o empresario da musica local, que e ligado aos negocios dele. Isso e fato. Agora o que ninguem sabe. Onde o clube fica no mapa...\" confere com 01_NARRACAO.txt. Na passada inteira \"Boobie Ike\" virou \"Bobby Eich\": conferir pronuncia na escuta humana. RODADA 2: a trilha de audio dos MP4 re-renderizados foi extraida de novo (PCM 16 kHz mono) e e bit a bit identica a extracao da rodada 1 (md5 igual), entao a transcricao ASR acima vale para os arquivos atuais. RODADA 3: audio do longo re-renderizado extraido de novo e identico bit a bit (md5 do PCM igual)."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "inicio": 245,
+      "fim": 260,
+      "observacao": "Verificado por transcricao ASR (faster-whisper small, pt) do audio extraido do MP4 final, SEM escuta humana. \"...boa resolucao. Agora vem o pesadelo conjugal [ASR: pez da delo]. Pela primeira vez a gente controla um casal. Segundo o que a imprensa reportou, o romance entre o Jason e a Lucia e opcional...\" confere. \"pesadelo\" para escuta humana. RODADA 2: a trilha de audio dos MP4 re-renderizados foi extraida de novo (PCM 16 kHz mono) e e bit a bit identica a extracao da rodada 1 (md5 igual), entao a transcricao ASR acima vale para os arquivos atuais. RODADA 3: audio do longo re-renderizado extraido de novo e identico bit a bit (md5 do PCM igual)."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "inicio": 338.24,
+      "fim": 348.24,
+      "observacao": "Verificado por transcricao ASR (faster-whisper small, pt) do audio extraido do MP4 final, SEM escuta humana. \"...alibi oficial? Missao obrigatoria, teste de grafico ou a confissao direta. Quem tiver o melhor eu fixo. E se der certo, nao conta pra ninguem.\" Ultima palavra termina ~347,9 s (fala nao cortada; folga final curta). ASR inseriu \"tipo\" em 346,7 s: provavel respiro; confirmar na escuta. RODADA 2: a trilha de audio dos MP4 re-renderizados foi extraida de novo (PCM 16 kHz mono) e e bit a bit identica a extracao da rodada 1 (md5 igual), entao a transcricao ASR acima vale para os arquivos atuais. RODADA 3: audio do longo re-renderizado extraido de novo e identico bit a bit (md5 do PCM igual)."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "inicio": 0,
+      "fim": 348.24,
+      "observacao": "Verificado por transcricao ASR (faster-whisper small, pt) do audio extraido do MP4 final, SEM escuta humana. Passada completa comparada ao 01_NARRACAO.txt: nenhuma frase faltando ou trocada. Nomes a confirmar por escuta humana (grafia do ASR entre parenteses): Jack of Hearts (hordes/hors), Vice City (Vaissive), Tommy Vercetti (Tom Everett), Boobie Ike (Bobby Eich), Mature (Maturi), PEGI (Peguidor 18), Adults Only (adulto Sony), Hot Coffee (HotCoff), San Andreas (Sandras), Alt Tab (Outstab), Cyberpunk (Saberpunk), nudez frontal (no Desfrontal), platinar (praticar), \"E a nudez, vai ter?\" (E ha no deis). ESRB e PS5 reconhecidos. QA do render: -17,0 LUFS, pico -1,3 dBFS. RODADA 2: a trilha de audio dos MP4 re-renderizados foi extraida de novo (PCM 16 kHz mono) e e bit a bit identica a extracao da rodada 1 (md5 igual), entao a transcricao ASR acima vale para os arquivos atuais. RODADA 3: audio do longo re-renderizado extraido de novo e identico bit a bit (md5 do PCM igual)."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "inicio": 0,
+      "fim": 60.72,
+      "observacao": "Verificado por transcricao ASR (faster-whisper small, pt) do audio extraido do MP4 final, SEM escuta humana. Passada completa do Short confere com S01_NARRACAO.txt, de \"Esposa no sofa, primeira missao, dia 19, o GTA 6 abre...\" ate \"Esposa no sofa, primeira missao.\" Gancho \"Esposa no sofa.\" termina em 0,94 s. \"Jack of Hearts\" reconhecido corretamente. -16,9 LUFS, pico -1,4 dBFS. RODADA 2: a trilha de audio dos MP4 re-renderizados foi extraida de novo (PCM 16 kHz mono) e e bit a bit identica a extracao da rodada 1 (md5 igual), entao a transcricao ASR acima vale para os arquivos atuais."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "inicio": 50.72,
+      "fim": 60.72,
+      "observacao": "Verificado por transcricao ASR (faster-whisper small, pt) do audio extraido do MP4 final, SEM escuta humana. \"...cheirando a neon rosa. Agora imagina a esposa de verdade voltando em 10 minutos. Esposa no sofa, primeira missao.\" Ultima palavra ~60,3 s; loop com a abertura funciona. Pico -1,4 dBFS. RODADA 2: a trilha de audio dos MP4 re-renderizados foi extraida de novo (PCM 16 kHz mono) e e bit a bit identica a extracao da rodada 1 (md5 igual), entao a transcricao ASR acima vale para os arquivos atuais."
+    }
+  ],
+  "frames_inspecionados": [
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 0.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0000.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. RODADA 2 (quadro re-extraido do MP4 atual): Gancho corrigido: Boobie_Ike_02 sem zoom, letreiro \"Jack of Hearts\" legivel no topo (ultimas letras levemente cortadas), \"ADULT ENTERTAINMENT\" agora pequeno e escuro. Legenda \"Todo mundo vai pro mesmo lugar.\" no 1o quadro. Folha 0,5-8 s conferida: plano estavel ate 8,4 s."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 1.2,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0001.20.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. RODADA 2 (quadro re-extraido do MP4 atual): Card \"JACK OF HEARTS\" sobre o letreiro inteiro; legenda sincronizada. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 9.6,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0009.60.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"A PRIMEIRA PARADA\" sobre Jason indo ao conversivel (EXT 490); confere com a fala do primeiro carro roubado."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0015.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Jason no conversivel, legenda \"e jacare em piscina de bairro\". Sem card. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 17.8,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0017.80.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. RODADA 2 (quadro re-extraido do MP4 atual): Card corrigido: \"ENTRETENIMENTO NOTURNO / Extended Look: neon, festa e Vice City a noite\", igual ao episodio.json e coerente com a imagem (Lucia na porta do carro, EXT 1238). Plano 3 conferido de 16 a 30 s: entrada de boate, sem nudez."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 31.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0031.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"O PLANO DO VIDEO\" sobre Launch Trailer (picape sob aviao). Legenda \"quatro K. Neste video: o que\" junta duas frases."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 44.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0044.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"A TRADICAO\" (Malibu Club 2002, Vanilla Unicorn 2013) sobre Vice_City_03 aereo. Confere; legenda \"Comeca pela tradicao.\""
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0045.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Vice City aereo, legenda \"Todo jogador de GTA tem um\". OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 63.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0063.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"TESTE GRAFICO DO PS5\" sobre gameplay do conversivel (EXT 520). OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 75.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0075.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Gameplay do conversivel; legenda \"jogo custou uma fortuna, tem clima\". OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 79.2,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0079.20.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"ESTUDO DE ILUMINACAO\" sobre pista de danca escura (EXT 1225); plano abre em HUD de corrida. Sem nudez. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 91.9,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0091.90.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"IMAGINA A CENA\" (cena imaginada) sobre Lucia escolhendo roupa no quarto; nao mostra jogador/fone, mas o card sinaliza imaginacao. Aceitavel."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 102.9,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0102.90.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"ALT+TAB NO CONSOLE\" sobre Lucia em queda livre: imagem nao mostra menu/mapa (fraco, aceitavel)."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 105.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0105.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Paraquedas sobre Vice City, legenda \"No console, o Alt Tab e\". OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 114.6,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0114.60.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"BOOBIE IKE\" sobre Boobie_Ike_01 (poster \"...of Hearts\" ao fundo). Personagem certo."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 129.8,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0129.80.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"O QUE NAO FOI DIVULGADO\" sobre entrada de boate (EXT 1252). Sem dancarinas. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 135.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0135.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Corredor da boate, legenda \"o que da pra fazer la\". OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 148.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0148.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"CLASSIFICACAO ETARIA / ESRB Mature 17+ e PEGI 18, segundo a imprensa\" sobre Vice_City_10. Card correto; a fala afirma ESRB/PEGI como fato."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 161.7,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0161.70.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"O SELO ACIMA DO MATURE / Adults Only...\" sobre Vice_City_08 noturno. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 165.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0165.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Mesmo plano, legenda \"So nao avisou o tamanho do\". OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 182.5,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0182.50.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"HOT COFFEE, 2005\" sobre Vice_City_11. Fato historico correto."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 195.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0195.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Vice_City_11; legenda \"olhando o selo de canto de\". OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 197.4,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0197.40.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"TEORIA NAO E CONFIRMACAO\" sobre bar do Trailer 2 (com letterbox do trailer, nao e preto). OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 217.6,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0217.60.jpg",
+      "observacao": "RODADA 3 (re-extraido do longo atual): Plano 16 deslocado 0,45 s: card \"FISICA E SUOR SOB NEON\" sobre a TV Ammu-Nation, \"foi confirmado. E a tal fisica\". OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 225.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0225.00.jpg",
+      "observacao": "RODADA 3 (re-extraido do longo atual): Mulher de colete de obra e homem no sofa (T2). OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 233.1,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0233.10.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. RODADA 2 (quadro re-extraido do MP4 atual): Plano 17 com T1 inicio 31: card \"FESTA NA COBERTURA\" entra sobre aereo noturno de Vice City (ainda antes da festa; baixa)."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 243.2,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0243.20.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"UM CASAL NA CAMPANHA\" sobre Jason_and_Lucia_01. Personagens corretos."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 255.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0255.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Jason_and_Lucia_03 no carro; legenda \"Jason e a Lucia e opcional,\". OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 256.2,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0256.20.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"TRAICAO CONFIRMADA? / Romance opcional; nenhuma mecanica de traicao anunciada\". Confere (rumor tratado como nao confirmado)."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 267.7,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0267.70.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"HIPOTESE / Sistema de honra a la RDR2? Pura imaginacao\" sobre Jason_and_Lucia_06. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 283.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0283.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"LUCIA NO ASSALTO\" sobre Lucia mascarada (EXT 960). Confere."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 285.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0285.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Lucia mascarada com garrafa; HUD de procurado. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 296.2,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0296.20.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"E SE FOR A LUCIA? / Pergunta sem resposta oficial\" sobre Lucia_Caminos_03. Personagem certo."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 308.6,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0308.60.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"ALIBI DE MISSAO SECUNDARIA\" sobre Jason_Duval_01. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 315.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0315.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Jason na moto; legenda \"entrei la porque era uma missao\". OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 325.9,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0325.90.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"O COMBINADO DO DIA 19\" sobre Jason_and_Lucia_11. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 336.9,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0336.90.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"QUAL E O SEU ALIBI?\" sobre capa oficial animada; legenda alta fica sobre a parte inferior do logo GTA VI."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 345.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_0345.00.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Capa oficial completa; legenda \"Quem tiver o melhor eu fixo.\" sobre a arte. Sem pretos."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 215.5,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_risco_215.5.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Fim do plano 15: personagem de top de tela; legenda \"um Hot Coffee atualizado: nada disso\". Aceitavel."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 219.5,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_risco_219.5.jpg",
+      "observacao": "RODADA 3 (re-extraido do longo atual): TV Ammu-Nation (mulheres de biquini com armas dentro da TV), \"avancada de tecidos adiposos?\". Aceitavel."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 221.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_risco_221.0.jpg",
+      "observacao": "RODADA 3 (re-extraido do longo atual): Letreiro \"Phil s Ammu-Nation\" na TV. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 241.5,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_risco_241.5.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. RODADA 2 (quadro re-extraido do MP4 atual): Antes twerk/\"dumptruck\"; agora letreiro VICE ao por do sol com \"minutos. O resto e rumor.\" Nenhum post de rede social. Corrigido."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 22.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_extra_22.0.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. RODADA 2 (quadro re-extraido do MP4 atual): Plano 3 (novo card): casal saindo de carro na porta de boate. Sem nudez. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 235.5,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_extra_235.5.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. RODADA 2 (quadro re-extraido do MP4 atual): Plano 17 novo: palco de boate do Trailer 1 com card \"FESTA NA COBERTURA\" (\"verdade, no primeiro trailer, foi uma\"). Sem nudez."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 238.5,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_extra_238.5.jpg",
+      "observacao": "RODADA 3: re-extraido do longo atual, identico ao da rodada 2. RODADA 2 (quadro re-extraido do MP4 atual): Piscina na cobertura do Trailer 1 (biquini, de costas) exatamente sob \"festa de piscina numa cobertura\": imagem e fala alinhadas. Os posts \"Ay Papi\" e \"dumptruck\" sairam do plano (conferido de 229 a 244 s)."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "timecode": 0.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/short_0000.00.jpg",
+      "observacao": "Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Gancho do Short: Jason_and_Lucia_01 no miolo 16:9 com fundo desfocado; legenda \"Esposa no sofa.\" no 1o quadro. Imagem mostra o casal (nao um sofa)."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "timecode": 1.2,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/short_0001.20.jpg",
+      "observacao": "Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"ESPOSA NO SOFA\" (780 px) entrou; legenda sincronizada. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "timecode": 12.16,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/short_0012.16.jpg",
+      "observacao": "RODADA 2 (quadro re-extraido do MP4 atual): Card corrigido \"MISSAO OBRIGATORIA / Limite de velocidade respeitado, braco cruzado ao lado\" sobre gameplay do conversivel, fala \"Mas tem alguem do teu lado\". Coerente."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/short_0015.00.jpg",
+      "observacao": "RODADA 2 (quadro re-extraido do MP4 atual): Gameplay do conversivel com legenda \"Entao voce cumpre a missao obrigatoria\"; card MISSAO OBRIGATORIA ja saiu. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "timecode": 20.6,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/short_0020.60.jpg",
+      "observacao": "RODADA 2 (quadro re-extraido do MP4 atual): Card corrigido \"10 MINUTOS DE SANTIDADE\" entra junto da fala \"Dez minutos de santidade.\" Sincronizado. Folha 8-31 s conferida: sem nudez, card JACK OF HEARTS segue em 31,2 s."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "timecode": 32.4,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/short_0032.40.jpg",
+      "observacao": "Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"JACK OF HEARTS / O clube existe; o que tem la dentro ninguem sabe ao certo\" sobre Boobie_Ike_02 com letreiro visivel. Confere."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "timecode": 41.9,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/short_0041.90.jpg",
+      "observacao": "Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"E A LUCIA? / Pela primeira vez, a gente controla um casal\" sobre Jason_and_Lucia_06. Confere."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/short_0045.00.jpg",
+      "observacao": "Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Mesmo plano, sem card. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "timecode": 53.1,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/short_0053.10.jpg",
+      "observacao": "Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Card \"ESPOSA NO SOFA\" (loop) sobre Jason_and_Lucia_11. OK."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Short_V2.mp4",
+      "timecode": 60.0,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/short_0060.00.jpg",
+      "observacao": "Trecho nao alterado: quadro re-extraido do MP4 atual e identico ao da rodada 1 (diferenca media 0). Quadro final: legenda \"Primeira missao.\" Sem preto."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 216.55,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_risco_216.55.jpg",
+      "observacao": "RODADA 3 (re-extraido do longo atual): Antes residuo do pole dance; agora TV com propaganda Ammu-Nation. Assinatura de cor quadro a quadro 216,30-216,70 s: plano 15 ate 216,33 e corte direto para a TV em 216,37; nenhum quadro roxo de boate. Folha com todos os 66 quadros de 215,9 a 218,1 s conferida."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 216.4,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_v3_216.4.jpg",
+      "observacao": "RODADA 3 (re-extraido do longo atual): Primeiro quadro do plano 16: TV com propaganda Ammu-Nation, legenda \"um Hot Coffee atualizado: nada disso\". Sem pole dance."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 231.5,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_v3_231.5.jpg",
+      "observacao": "RODADA 3 (re-extraido do longo atual): Fim do plano 16 (src ~144,5): caminhao a noite na rodovia. O abraco no quarto (src ~145,5) fica fora do plano."
+    },
+    {
+      "artefato": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.mp4",
+      "timecode": 231.85,
+      "arquivo_imagem": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/longo_v3_231.85.jpg",
+      "observacao": "RODADA 3 (re-extraido do longo atual): Ultimo quadro do plano 16: caminhao com faiscas. OK."
+    }
+  ],
+  "legendas": {
+    "srt": "producao/ESPECIAL_JACK_OF_HEARTS/exportacoes/Pixel_Procurado_JH01_Longo_V2.srt",
+    "amostras": [
+      {
+        "timecode": 0.5,
+        "texto": "Todo mundo vai pro mesmo lugar.",
+        "sincronizado": true,
+        "observacao": "Legenda no 1o quadro, casa com a fala (ASR 0,0-1,5 s)."
+      },
+      {
+        "timecode": 9.0,
+        "texto": "Hearts. A Rockstar passou anos construindo",
+        "sincronizado": true,
+        "observacao": "Nome \"Jack of | Hearts\" partido entre duas legendas (baixa)."
+      },
+      {
+        "timecode": 105.0,
+        "texto": "No console, o Alt Tab é",
+        "sincronizado": true,
+        "observacao": "Sincronizada com o ASR."
+      },
+      {
+        "timecode": 150.0,
+        "texto": "saiu como Mature, dezessete mais.",
+        "sincronizado": true,
+        "observacao": "Numero por extenso (\"dezessete mais\") em vez de 17+."
+      },
+      {
+        "timecode": 174.0,
+        "texto": "Microsoft historicamente não vendem jogo com",
+        "sincronizado": true,
+        "observacao": "OK."
+      },
+      {
+        "timecode": 254.5,
+        "texto": "Jason e a Lucia é opcional,",
+        "sincronizado": true,
+        "observacao": "Casa com ASR (Jason 254,5 s / Lucia 255,1 s)."
+      },
+      {
+        "timecode": 345.0,
+        "texto": "Quem tiver o melhor eu fixo.",
+        "sincronizado": true,
+        "observacao": "ASR 343,7-344,6 s; legenda alta sobre o logo da capa."
+      },
+      {
+        "timecode": 347.5,
+        "texto": "pra ninguém.",
+        "sincronizado": true,
+        "observacao": "Ultima legenda; fala termina ~347,9 s. SRT do Short (29 cues) tambem lido: texto confere com S01_NARRACAO.txt e com o ASR."
+      }
+    ]
+  },
+  "thumbnail": {
+    "arquivo": "producao/ESPECIAL_JACK_OF_HEARTS/publicacao/capa_youtube.jpg",
+    "preview_reduzido": "producao/ESPECIAL_JACK_OF_HEARTS/revisao/capa_longo_preview_480.jpg",
+    "observacao": "Capa do longo 1280x720 vista a 480 px: \"VAI TER CLUBE?\" legivel, selo Pixel/Procurado e logo GTA VI inteiros, nada cortado; casal tipo Jason/Lucia com taco, sem nudez. Promessa coerente (pergunta, nao afirma). Capa do Short 1080x1920 (short/publicacao/capa_youtube.jpg; preview revisao/capa_short_preview_320.jpg a 320 px): \"ESPOSA NO SOFA\" legivel, logo inteira, coerente com o Short. Ambas aprovadas."
+  },
+  "problemas": [
+    {
+      "severidade": "alta",
+      "timecode": "03:36.40-03:36.73",
+      "descricao": "RODADA 2: residuo da correcao do plano 16. Os 11 primeiros quadros do plano (216,40-216,73 s) ainda sao o pole dance do Trailer 2 em contra-plongee (pernas/quadril, letreiros SINFUL SUNDAY/SEDUCTION), exatamente quando o card \"FISICA E SUOR SOB NEON\" comeca a entrar e logo apos \"um Hot Coffee atualizado\". E curto (0,37 s), mas e o mesmo conteudo que motivou a reprovacao e e o enquadramento mais explicito; tambem aparece no Longo_Vertical_IG (quadro deriv_longoIG_v2_216.5). RODADA 3: corrigido com T2 inicio 129.45. No master, 216,0-218,0 s conferido quadro a quadro (folha com os 66 quadros e assinatura de cor 216,30-216,70 s): corte direto do plano 15 para a TV Ammu-Nation em 216,37 s, sem nenhum quadro de pole dance. No Longo_Vertical_IG recodificado (1080x1920, 348,23 s, 233,3 MB), mesma checagem: sem pole dance (revisao/deriv_longoIG_v3_216.4.jpg e deriv_longoIG_v3_216.55.jpg). O fim do plano termina no caminhao, antes do abraco no quarto.",
+      "correcao": "episodio.json, longo plano 16: \"inicio\": 129 -> 129.45 (o corte para a TV esta em T2 src ~129,37; com 15,5 s o plano termina em src 144,95, antes do abraco no quarto que comeca em ~145,5). Re-renderizar so o plano 16, conferir 216,4-217,0 s quadro a quadro e recodificar o Longo_Vertical_IG.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "alta",
+      "timecode": "03:39.4-03:41.6",
+      "descricao": "LONGO plano 16 \"FISICA E SUOR SOB NEON\" (T2 inicio 124): pole dance em boate \"SINFUL SUNDAY/SEDUCTION\", camera baixa nas pernas/quadril, notas voando, sob \"fisica avancada de tecidos adiposos?\". O mesmo plano abre (03:36.4-03:37.2) com casal se beijando na cama logo apos \"um Hot Coffee atualizado\". Foco sexual: risco de anuncios limitados/restricao de idade; contraria a direcao do roteiro (sem clube com dancarinas). RODADA 2: corrigido em grande parte (T2 inicio 129): beijo e quase todo o pole dance sairam; resta um flash de 11 quadros, registrado como problema novo.",
+      "correcao": "episodio.json, longo plano 16: \"inicio\": 124 -> 129.0 (T2 src 129-144.5: TV Ammu-Nation, mulher de colete, pantano/helicoptero, jet ski, moto; conferido na folha da fonte, sem beijo nem dancarina; o abraco em quarto ~src 146 fica fora). Re-renderizar o plano 16 e conferir 216.4-231.9 quadro a quadro.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "alta",
+      "timecode": "04:00.3-04:02.0",
+      "descricao": "LONGO plano 17 \"FESTA NA COBERTURA\" (T1 inicio 35, src 35-45.1): o final pega o post \"have.a.vice.day\" com mulher fazendo twerk no capo, foco nas nadegas, texto \"...department of transport on this dumptruck\"; a legenda do video fica por cima do texto do post. Em 03:58.4-03:59.8 tambem aparece o post \"Ay Papi! Save some sugar baby for the rest of us!\". E exatamente o texto de post do trailer a evitar. RODADA 2: corrigido (T1 inicio 31); nenhum post de rede social de 231,9 a 242,0 s; o plano termina no letreiro VICE.",
+      "correcao": "episodio.json, longo plano 17: \"inicio\": 35 -> 31.0 (T1 src 31-41.1: aereo noturno, Ocean Drive, boate, ponte, piscina na cobertura src 37.3-39.9 = 03:58.2-04:00.8, alinhada com \"cabelo e luz tao bem animados\", e o letreiro VICE ate o fim; nenhum post de rede social). Re-renderizar o plano 17 e conferir o ultimo quadro (deve ser o letreiro VICE).",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "media",
+      "timecode": "00:16.6-00:21.9",
+      "descricao": "LONGO plano 3: o card renderizado \"VICE CITY EM FESTA / Primeiro trailer: festa, redes sociais e cultura local\" nao e o do episodio.json (\"ENTRETENIMENTO NOTURNO / Extended Look: neon, festa e Vice City a noite\") e atribui ao Primeiro trailer uma imagem do Extended Look. montagem/paineis_long.mov (12:19) e mais antigo que episodio.json (13:35): camada de cards velha. O defeito esta tambem no Longo_Vertical_IG. RODADA 2: corrigido; card \"ENTRETENIMENTO NOTURNO / Extended Look...\" conferido no quadro 17,8 s.",
+      "correcao": "Re-renderizar os paineis Hyperframes do longo (apagar montagem/paineis_long.mov) e o plano 3; conferir os 25 titulos/detalhes contra o episodio.json antes do render final.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "media",
+      "timecode": "Short 00:10.96-00:31.2",
+      "descricao": "SHORT: cards adiantados um bloco. \"10 MINUTOS DE SANTIDADE\" entra em 10.96 s sobre \"Mas tem alguem do teu lado, de braco cruzado\" (a frase vem em 19.4 s); \"A 200 POR HORA\" entra em 19.4 s sobre \"Dez minutos de santidade.\" com imagem de pista de danca (\"duzentos por hora\" so em ~30.5 s). RODADA 2: corrigido; MISSAO OBRIGATORIA em 10,96 s e 10 MINUTOS DE SANTIDADE em 19,4 s, sincronizados com a fala.",
+      "correcao": "episodio.json, short plano 2: titulo -> \"MISSAO OBRIGATORIA\" (detalhe \"E limite de velocidade\"); plano 3: titulo -> \"10 MINUTOS DE SANTIDADE\" (detalhe \"Ate ela sair de casa\"). Re-renderizar planos 2-3 do Short e rederivar o Short_1080.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "media",
+      "timecode": "00:00.0-00:08.4",
+      "descricao": "LONGO abertura: o zoom do Boobie_Ike_02 corta o letreiro \"Jack of Hearts\" (so \"Jac\" parcial no topo); o texto legivel no 1o quadro e \"ADULT ENTERTAINMENT\", com figurantes de top curto. A evidencia do gancho fica fraca e o primeiro quadro (zona AdSense) destaca \"adult entertainment\". RODADA 2: corrigido com movimento fixo; letreiro legivel no 1o quadro.",
+      "correcao": "episodio.json, longo plano 1: usar \"movimento\": \"fixo\" (ou \"enquadramento\": \"conter\") para mostrar o letreiro inteiro, sem destacar \"ADULT ENTERTAINMENT\". Re-renderizar o plano 1.",
+      "status": "corrigido"
+    },
+    {
+      "severidade": "media",
+      "timecode": "02:26-02:39",
+      "descricao": "Classificacao: a fala afirma como fato \"A classificacao americana, a ESRB, saiu como Mature, dezessete mais\" e \"Na Europa, o PEGI deu dezoito\"; so os descritores levam \"segundo a imprensa\". O card diz \"segundo a imprensa\" (mitiga), mas o 00_ROTEIRO_COMPLETO.md exige conferir a ficha oficial da ESRB antes de publicar e nao ha registro dessa conferencia. RODADA 2: aceito como ressalva baixa pelo coordenador, que informou que a ficha oficial esrb.org/ratings/41627/grand-theft-auto-vi/ lista M 17+ com os descritores; PEGI 18 segue como \"segundo a imprensa\" no card. Fonte nao reconferida por este revisor.",
+      "correcao": "Conferir a ficha oficial ESRB/PEGI antes de publicar e registrar a fonte. Se nao der para confirmar, regravar como \"Segundo a imprensa, a ESRB deu Mature 17+ e o PEGI deu 18\".",
+      "status": "aceito"
+    },
+    {
+      "severidade": "media",
+      "timecode": null,
+      "descricao": "Derivados conferidos por ffprobe e 2 quadros cada (fora de artefatos para nao exigir cobertura integral; a revisao integral vale para os masters 4K): Short_1080 1080x1920 h264 30 fps, 60,73 s = original, 43,0 MB, quadros 5 s e 42 s (revisao/deriv_short1080_0005.00.jpg, deriv_short1080_0042.00.jpg) sem metade verde, legenda e card inteiros: OK. Longo_Vertical_IG 1080x1920, 348,24 s = original, 233,2 MB < 300 MB, quadros 20 s e 230 s (revisao/deriv_longoIG_0020.00.jpg, deriv_longoIG_0230.00.jpg) sem metade verde. LONGO VERTICAL IG: legenda com ~30 px em 1080 de largura e detalhe dos cards ilegivel no celular; o fundo desfocado mostra o fantasma da legenda. Herda tambem os dois problemas altos e o card velho. Tecnicamente ok: 1080x1920, 348.24 s, 233 MB. RODADA 2: aceito pelo coordenador (legenda pequena no vertical). Derivado recodificado (1080x1920, 348,23 s, 233,2 MB); quadros 216,5 s e 238,5 s (revisao/deriv_longoIG_v2_*) mostram as correcoes do master, inclusive o flash residual do pole dance em 216,5 s. Short_1080 recodificado (1080x1920, 60,73 s, 43,0 MB); quadros 12 s e 20,5 s (revisao/deriv_short1080_v2_*) mostram os cards novos, sem metade verde. RODADA 3: o flash residual do pole dance tambem saiu do vertical IG.",
+      "correcao": "Rederivar depois das correcoes, com legenda ASS propria para o vertical (fonte maior, fora do miolo), como no L05.",
+      "status": "aceito"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "varios",
+      "descricao": "Legendas com numeros por extenso: \"dois mil e dois/treze/cinco\", \"GTA cinco/seis\", \"quatro K\", \"dezessete mais\", \"PEGI deu dezoito\", \"Baldur's Gate tres\", \"Red Dead Redemption dois\"; no Short \"Dia dezenove, o GTA seis\", \"duzentos por hora\", \"quinze minutos\". RODADA 2: aceito como baixa pelo coordenador.",
+      "correcao": "Usar correcoes_legenda ou pos-processo para numerais (2002, GTA 5, GTA 6, 4K, 17+, 18, BG3, RDR2, 19, 200, 15).",
+      "status": "aceito"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "00:07.3-00:09.6 e 00:29.8",
+      "descricao": "Cortes ruins de legenda: \"pro neon rosa do Jack of\" | \"Hearts. A Rockstar...\" parte o nome; \"quatro K. Neste video: o que\" junta duas frases.",
+      "correcao": "Quebrar a legenda no fim da frase e nao separar nomes proprios.",
+      "status": "aberto"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "05:35.7-05:48.2",
+      "descricao": "A legenda alta do plano final fica sobre a parte inferior do logo da capa oficial.",
+      "correcao": "Reduzir a margem da legenda_alta ou usar a legenda padrao (ha espaco abaixo da capa).",
+      "status": "aberto"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "03:53.1",
+      "descricao": "O card \"FESTA NA COBERTURA\" entra sobre o aereo noturno e o palco de boate do Trailer 1; a piscina so aparece em ~03:58.",
+      "correcao": "Aceitavel; opcionalmente trocar o detalhe do card para algo neutro.",
+      "status": "aberto"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": null,
+      "descricao": "Pronuncias duvidosas no ASR (sem escuta humana): Jack of Hearts, Boobie Ike, Tommy Vercetti, Mature, PEGI, Adults Only, Hot Coffee, San Andreas, Alt Tab, Cyberpunk, \"pesadelo\", \"platinar\".",
+      "correcao": "Escuta humana desses trechos antes de publicar.",
+      "status": "aberto"
+    }
+  ],
+  "resultado": "aprovado_com_ressalvas"
+}

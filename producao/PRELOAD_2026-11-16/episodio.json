@@ -1,0 +1,280 @@
+{
+  "id": "PRELOAD_2026_11_16",
+  "titulo": "GTA 6: o Pre-Load Chegou",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "gsap": "producao/L08/montagem/hyperframes_long/gsap.min.js",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "PL": "GTAVI_Pre-Load_Now.mp4",
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "FIM": "_catalogo/quadros/Pre-Load_Now_final_24s.png"
+  },
+  "rotulos_obrigatorios": {},
+  "correcoes_legenda": {},
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_PreLoad_Short_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "limite_mb": 280,
+      "voz": "producao/PRELOAD_2026-11-16/audio/narracao_normalizada.wav",
+      "alinhamento": "producao/PRELOAD_2026-11-16/audio/palavras_alinhadas.json",
+      "planos": [
+        {
+          "titulo": "FALTAM 3 DIAS",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 22.0,
+          "tipo": "data",
+          "corte": [
+            0,
+            2.7
+          ]
+        },
+        {
+          "titulo": "TRAILER DE 29 S",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 7.0,
+          "tipo": "tag",
+          "corte": [
+            2.7,
+            7.2
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 15.0,
+          "tipo": "tag",
+          "corte": [
+            7.2,
+            12.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 9.0,
+          "tipo": "tag",
+          "corte": [
+            12.9,
+            14.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 3.0,
+          "tipo": "tag",
+          "corte": [
+            14.9,
+            16.1
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 5.0,
+          "tipo": "tag",
+          "corte": [
+            16.1,
+            17.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 11.0,
+          "tipo": "tag",
+          "corte": [
+            17.9,
+            19.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 19.0,
+          "tipo": "tag",
+          "corte": [
+            19.9,
+            22.3
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 490,
+          "tipo": "tag",
+          "corte": [
+            22.3,
+            28.7
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 21.0,
+          "tipo": "tag",
+          "corte": [
+            28.7,
+            31.0
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "19 NOV 2026",
+          "detalhe": "Pre-order now",
+          "midia": "FIM",
+          "inicio": 0,
+          "tipo": "data",
+          "corte": [
+            31.0,
+            36.2
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "PS5 E XBOX SERIES X|S",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 22.0,
+          "tipo": "tag",
+          "corte": [
+            36.2,
+            40.6
+          ]
+        },
+        {
+          "titulo": "CAPTURED ON PS5",
+          "detalhe": "",
+          "midia": "FIM",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            40.6,
+            44.6
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1590,
+          "tipo": "tag",
+          "corte": [
+            44.6,
+            49.8
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "PC: NENHUMA PALAVRA",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 980,
+          "tipo": "tag",
+          "corte": [
+            49.8,
+            55.9
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PL",
+          "inicio": 13.0,
+          "tipo": "tag",
+          "corte": [
+            55.9,
+            60.3
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "19/11/2026",
+          "detalhe": "Confira a fonte oficial",
+          "midia": "PL",
+          "inicio": 23.0,
+          "tipo": "data",
+          "corte": [
+            60.3,
+            65.92
+          ],
+          "legenda_alta": true
+        }
+      ]
+    }
+  },
+  "publicacao": {
+    "canais": {
+      "youtube": "cmvsctfgl0001jncj932ovibv",
+      "facebook": "cmvzyur290001pddwolrt33em",
+      "instagram": "cmvzyw7vj0003pddwkgtivv8i"
+    },
+    "data_padrao": "2026-11-16T23:00:00Z",
+    "estado": "producao/PRELOAD_2026-11-16/publicacao/POSTIZ_ESTADO.json",
+    "pasta_envio": "producao/PRELOAD_2026-11-16/publicacao/envios",
+    "tags_youtube": [
+      "GTA 6",
+      "GTA VI",
+      "GTA 6 pré-load",
+      "GTA 6 pre-load",
+      "GTA 6 PC",
+      "GTA 6 19 de novembro",
+      "GTA 6 trailer",
+      "Pixel Procurado"
+    ],
+    "youtube_visibilidade": "public",
+    "textos": {
+      "short": "A Rockstar soltou o trailer do pré-load de GTA 6: 29 segundos, cartela PRE-LOAD NOW e a data de 19 de novembro de 2026 na tela final. O vídeo cita PS5 e Xbox Series X|S e a nota \"Captured on PS5\". Sobre PC, nenhuma palavra: quem joga no computador segue esperando um anúncio próprio. Confira a data e a disponibilidade na fonte oficial da Rockstar.\n\nFonte: trailer oficial \"Pre-Load Now\", Rockstar Games. Imagens de GTA VI: Rockstar Games. Narração com voz sintética.\n\nSeu console já está pronto para o pré-load? Conta aqui.\n\n#GTA6 #GTAVI #PreLoad"
+    },
+    "pecas": [
+      {
+        "chave": "youtube_short",
+        "rede": "youtube",
+        "tipo": "post",
+        "midia": "producao/PRELOAD_2026-11-16/exportacoes/Pixel_Procurado_PreLoad_Short_V2.mp4",
+        "texto": "short",
+        "titulo": "GTA 6: Pré-Load Chegou! E o PC?",
+        "capa": "producao/PRELOAD_2026-11-16/publicacao/thumbnail_vertical/capa_youtube.jpg"
+      },
+      {
+        "chave": "instagram_reel",
+        "rede": "instagram",
+        "tipo": "post",
+        "midia": "producao/PRELOAD_2026-11-16/exportacoes/Pixel_Procurado_PreLoad_Short_V2.mp4",
+        "texto": "short",
+        "capa": "producao/PRELOAD_2026-11-16/publicacao/thumbnail_vertical/capa_youtube.jpg"
+      },
+      {
+        "chave": "facebook_reel",
+        "rede": "facebook",
+        "tipo": "post",
+        "midia": "producao/PRELOAD_2026-11-16/exportacoes/Pixel_Procurado_PreLoad_Short_V2.mp4",
+        "texto": "short",
+        "titulo": "GTA 6: Pré-Load Chegou! E o PC?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "id": "C07",
+  "title": "GTA V e GTA 6: o detalhe está ao redor do carro",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 71.0,
+  "frames": 2130,
+  "voice": "producao/shorts/C07/voz/narracao.wav",
+  "shots": [
+    {
+      "anchor": null,
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "title": "O DETALHE ESTÁ\nFORA DO CARRO.",
+      "label": "GTA VI • OLHE AO REDOR",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "from": 0,
+      "frames": 67,
+      "part": 0,
+      "index": 0,
+      "start": 0.0,
+      "end": 2.2333333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Na imagem de GTA",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "title": "MOTO. GENTE. PILARES PINTADOS.",
+      "label": "SCREENSHOT • QUADRO INTEIRO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 67,
+      "frames": 204,
+      "part": 0,
+      "index": 1,
+      "start": 2.2333333333333334,
+      "end": 9.033333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O cenário quase",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "title": "O BAIRRO ENTRA NA CONVERSA.",
+      "label": "DETALHE DA MESMA IMAGEM",
+      "mode": "panel",
+      "offset": 0,
+      "crop": [
+        0,
+        0,
+        0.52,
+        1
+      ],
+      "from": 271,
+      "frames": 109,
+      "part": 0,
+      "index": 2,
+      "start": 9.033333333333333,
+      "end": 12.666666666666666,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Compare com",
+      "file": "producao/shorts/_acervo/GTA_V_Cheetah_2012.jpg",
+      "title": "AGORA: CHEETAH EM GTA V.",
+      "label": "GTA V • DIVULGAÇÃO DE 2012",
+      "mode": "panel",
+      "offset": 0,
+      "from": 380,
+      "frames": 161,
+      "part": 0,
+      "index": 3,
+      "start": 12.666666666666666,
+      "end": 18.033333333333335,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A traseira ocupa",
+      "file": "producao/shorts/_acervo/GTA_V_Cheetah_2012.jpg",
+      "title": "A TRASEIRA DOMINA O QUADRO.",
+      "label": "GTA V • MESMA FOTO PROMOCIONAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 541,
+      "frames": 74,
+      "part": 0,
+      "index": 4,
+      "start": 18.033333333333335,
+      "end": 20.5,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Aerofólio",
+      "file": "producao/shorts/_acervo/GTA_V_Cheetah_2012.jpg",
+      "title": "A ESTRELA É O CARRO.",
+      "label": "GTA V • MESMA FOTO PROMOCIONAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 615,
+      "frames": 146,
+      "part": 0,
+      "index": 5,
+      "start": 20.5,
+      "end": 25.366666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Na cena de Vice City",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "title": "CARRO + GENTE + RUA.",
+      "label": "GTA VI • SCREENSHOT",
+      "mode": "panel",
+      "offset": 0,
+      "from": 761,
+      "frames": 202,
+      "part": 0,
+      "index": 6,
+      "start": 25.366666666666667,
+      "end": 32.1,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O lugar ajuda",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "title": "VONTADE DE ESTAR ALI.",
+      "label": "GTA VI • DETALHE DO BAIRRO",
+      "mode": "panel",
+      "offset": 0,
+      "crop": [
+        0.48,
+        0,
+        0.52,
+        1
+      ],
+      "from": 963,
+      "frames": 169,
+      "part": 0,
+      "index": 7,
+      "start": 32.1,
+      "end": 37.733333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Recortar só",
+      "file": "",
+      "title": "CADÊ OS CONVIDADOS?",
+      "label": "COMPARAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "FOTO DO CHURRASCO",
+        "SÓ A CHURRASQUEIRA"
+      ],
+      "from": 1132,
+      "frames": 195,
+      "part": 0,
+      "index": 8,
+      "start": 37.733333333333334,
+      "end": 44.233333333333334,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Você até entende",
+      "file": "",
+      "title": "O EQUIPAMENTO NÃO É O EVENTO",
+      "label": "COMPARAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O RECORTE PERDE CONTEXTO"
+      ],
+      "from": 1327,
+      "frames": 134,
+      "part": 0,
+      "index": 9,
+      "start": 44.233333333333334,
+      "end": 48.7,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Isso não prova",
+      "file": "",
+      "title": "COMPOSIÇÃO ≠ BENCHMARK",
+      "label": "LIMITES DA EVIDÊNCIA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "NÃO MEDE DENSIDADE GERAL",
+        "NÃO COMPARA DESEMPENHO"
+      ],
+      "from": 1461,
+      "frames": 135,
+      "part": 0,
+      "index": 10,
+      "start": 48.7,
+      "end": 53.2,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "São imagens promocionais",
+      "file": "producao/shorts/_acervo/GTA_V_Cheetah_2012.jpg",
+      "title": "DOIS ENQUADRAMENTOS.",
+      "label": "GTA V • DIVULGAÇÃO HISTÓRICA",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1596,
+      "frames": 90,
+      "part": 0,
+      "index": 11,
+      "start": 53.2,
+      "end": 56.2,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A comparação aqui",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "title": "O QUE CADA FOTO DESTACA.",
+      "label": "GTA VI • SCREENSHOT",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1686,
+      "frames": 121,
+      "part": 0,
+      "index": 12,
+      "start": 56.2,
+      "end": 60.233333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Uma concentra",
+      "file": "producao/shorts/_acervo/GTA_V_Cheetah_2012.jpg",
+      "title": "O OLHAR NO CARRO.",
+      "label": "GTA V • DIVULGAÇÃO DE 2012",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1807,
+      "frames": 61,
+      "part": 0,
+      "index": 13,
+      "start": 60.233333333333334,
+      "end": 62.266666666666666,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A outra abre",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "title": "CARRO, PESSOAS E BAIRRO.",
+      "label": "GTA VI • QUADRO INTEIRO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1868,
+      "frames": 125,
+      "part": 0,
+      "index": 14,
+      "start": 62.266666666666666,
+      "end": 66.43333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Volta à imagem",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "title": "ACOMPANHE AS BORDAS.",
+      "label": "GTA VI • ANÁLISE DA MESMA IMAGEM",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1993,
+      "frames": 112,
+      "part": 0,
+      "index": 15,
+      "start": 66.43333333333334,
+      "end": 70.16666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Porque",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "title": "O DETALHE ESTÁ\nFORA DO CARRO.",
+      "label": "GTA VI • OLHE AO REDOR",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "from": 2105,
+      "frames": 25,
+      "part": 0,
+      "index": 16,
+      "start": 70.16666666666667,
+      "end": 71.0,
+      "animationFrames": 18
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.47,
+      "text": "O detalhe está fora do carro."
+    },
+    {
+      "start": 2.22,
+      "end": 4.27,
+      "text": "Na imagem de GTA seis, tem moto,"
+    },
+    {
+      "start": 4.58,
+      "end": 5.45,
+      "text": "gente empinando,"
+    },
+    {
+      "start": 5.82,
+      "end": 7.84,
+      "text": "outros veículos e pilares pintados sob o"
+    },
+    {
+      "start": 7.84,
+      "end": 8.69,
+      "text": "viaduto."
+    },
+    {
+      "start": 9.02,
+      "end": 10.7,
+      "text": "O cenário quase encosta no seu ombro"
+    },
+    {
+      "start": 10.7,
+      "end": 12.07,
+      "text": "pedindo pra entrar na conversa."
+    },
+    {
+      "start": 12.66,
+      "end": 14.68,
+      "text": "Compare com a foto promocional do Cheetah"
+    },
+    {
+      "start": 14.68,
+      "end": 16.96,
+      "text": "em GTA cinco, divulgada em dois mil"
+    },
+    {
+      "start": 16.96,
+      "end": 17.81,
+      "text": "e doze."
+    },
+    {
+      "start": 18.02,
+      "end": 19.95,
+      "text": "A traseira ocupa boa parte do quadro."
+    },
+    {
+      "start": 20.38,
+      "end": 22.32,
+      "text": "Aerofólio e fumaça junto dos pneus"
+    },
+    {
+      "start": 22.32,
+      "end": 24.1,
+      "text": "deixam bem claro quem é a estrela"
+    },
+    {
+      "start": 24.1,
+      "end": 24.95,
+      "text": "daquela imagem."
+    },
+    {
+      "start": 25.36,
+      "end": 26.57,
+      "text": "Na cena de Vice City,"
+    },
+    {
+      "start": 26.92,
+      "end": 28.09,
+      "text": "o automóvel vem pra frente,"
+    },
+    {
+      "start": 28.54,
+      "end": 30.54,
+      "text": "mas divide espaço com gente e com"
+    },
+    {
+      "start": 30.54,
+      "end": 31.41,
+      "text": "a identidade da rua."
+    },
+    {
+      "start": 32.1,
+      "end": 33.74,
+      "text": "O lugar ajuda a despertar a vontade"
+    },
+    {
+      "start": 33.74,
+      "end": 34.73,
+      "text": "de estar ali,"
+    },
+    {
+      "start": 35.42,
+      "end": 36.97,
+      "text": "além da vontade de dirigir."
+    },
+    {
+      "start": 37.74,
+      "end": 39.72,
+      "text": "Recortar só a lataria seria como tirar"
+    },
+    {
+      "start": 39.72,
+      "end": 41.62,
+      "text": "a foto de um churrasco e apagar"
+    },
+    {
+      "start": 41.62,
+      "end": 43.47,
+      "text": "os convidados pra avaliar a churrasqueira."
+    },
+    {
+      "start": 44.22,
+      "end": 45.47,
+      "text": "Você até entende o equipamento."
+    },
+    {
+      "start": 46.22,
+      "end": 47.85,
+      "text": "Perdeu um pedaço considerável do evento."
+    },
+    {
+      "start": 48.7,
+      "end": 50.22,
+      "text": "Isso não prova a quantidade de pessoas"
+    },
+    {
+      "start": 50.22,
+      "end": 52.14,
+      "text": "em todo o jogo nem permite comparar"
+    },
+    {
+      "start": 52.14,
+      "end": 52.99,
+      "text": "a desempenho."
+    },
+    {
+      "start": 53.2,
+      "end": 54.94,
+      "text": "São imagens promocionais com enquadramentos"
+    },
+    {
+      "start": 54.94,
+      "end": 55.79,
+      "text": "diferentes."
+    },
+    {
+      "start": 56.2,
+      "end": 58.02,
+      "text": "A comparação aqui é sobre o que"
+    },
+    {
+      "start": 58.02,
+      "end": 59.61,
+      "text": "cada foto escolheu destacar."
+    },
+    {
+      "start": 60.22,
+      "end": 61.69,
+      "text": "Uma concentra o olhar no carro."
+    },
+    {
+      "start": 62.28,
+      "end": 64.02,
+      "text": "A outra abre espaço pra relação entre"
+    },
+    {
+      "start": 64.02,
+      "end": 65.81,
+      "text": "carro, pessoas e bairro."
+    },
+    {
+      "start": 66.42,
+      "end": 67.88,
+      "text": "Volta à imagem e acompanha as bordas"
+    },
+    {
+      "start": 67.88,
+      "end": 69.21,
+      "text": "antes de ampliar os faróis."
+    },
+    {
+      "start": 70.18,
+      "end": 71.0,
+      "text": "Porque..."
+    }
+  ]
+}

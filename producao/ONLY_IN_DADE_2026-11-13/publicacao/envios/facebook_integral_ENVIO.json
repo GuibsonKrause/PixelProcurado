@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T23:48:50.652941+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Um esportivo rosa aparece em dois vídeos da Only in Dade. No primeiro, a câmera passa pela janela de um carro. No segundo, o comboio cruza uma esquina. Coloquei os dois clipes lado a lado com os carros que a West Coast Customs construiu de verdade para a campanha do GTA VI.\n\n00:00 A filmagem que parece Miami\n00:23 O truque da câmera de celular\n00:40 Os seis carros que saíram do jogo\n01:22 A esquina e o carro rosa\n02:06 Como a Rockstar já usava essa linguagem\n02:35 Dá pra reproduzir a cena no jogo?\n\nClipes comentados: ONLY in DADE, 11 e 12 de novembro.\nhttps://www.instagram.com/reel/DfnFSzaOLO_/\nhttps://www.instagram.com/reels/Dfppo43hwnB/\n\nComparativo das réplicas: Hypedrive, West Coast Customs e Rockstar Games.\nhttps://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars\n\n#GTA6 #GTAVI #ViceCity",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/0f07d59f3817482c9f6be255a08ec0cc.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "Miami ou GTA 6? O Carro Rosa Entregou"
+      }
+    }
+  ]
+}

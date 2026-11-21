@@ -1,0 +1,600 @@
+{
+  "id": "C03",
+  "title": "GTA 6: olhe atrás do abraço de Jason e Lucia",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 75.76,
+  "frames": 2273,
+  "voice": "producao/shorts/C03/voz/narracao.wav",
+  "shots": [
+    {
+      "anchor": null,
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "ESSE ABRAÇO TEM\nPOLÍCIA NO FUNDO.",
+      "label": "GTA VI • OLHE O QUADRO",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "ring": [
+        0.76,
+        0.34,
+        0.24,
+        0.57
+      ],
+      "from": 0,
+      "frames": 74,
+      "part": 0,
+      "index": 0,
+      "start": 0.0,
+      "end": 2.466666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "No recorte",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "O SOL ENTRE OS ROSTOS.",
+      "label": "RECORTE EDITORIAL",
+      "mode": "panel",
+      "offset": 0,
+      "crop": [
+        0.25,
+        0,
+        0.5,
+        1
+      ],
+      "from": 74,
+      "frames": 105,
+      "part": 0,
+      "index": 1,
+      "start": 2.466666666666667,
+      "end": 5.966666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Parece que falta",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "A PESSOA CERTA…",
+      "label": "ANÁLISE VISUAL",
+      "mode": "panel",
+      "offset": 0,
+      "crop": [
+        0.3,
+        0.05,
+        0.42,
+        0.8
+      ],
+      "from": 179,
+      "frames": 113,
+      "part": 0,
+      "index": 2,
+      "start": 5.966666666666667,
+      "end": 9.733333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A pessoa certa veio",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "…O CONTEXTO COMPLICADO.",
+      "label": "QUADRO INTEIRO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 292,
+      "frames": 98,
+      "part": 0,
+      "index": 3,
+      "start": 9.733333333333333,
+      "end": 13.0,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Na arte inteira",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "BARCOS DA POLÍCIA.",
+      "label": "DETALHE DA MESMA IMAGEM",
+      "mode": "panel",
+      "offset": 0,
+      "ring": [
+        0.01,
+        0.46,
+        0.24,
+        0.49
+      ],
+      "from": 390,
+      "frames": 72,
+      "part": 0,
+      "index": 4,
+      "start": 13.0,
+      "end": 15.4,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "e um helicóptero",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "E UM HELICÓPTERO.",
+      "label": "DETALHE DA MESMA IMAGEM",
+      "mode": "panel",
+      "offset": 0,
+      "ring": [
+        0.72,
+        0.01,
+        0.25,
+        0.3
+      ],
+      "from": 462,
+      "frames": 43,
+      "part": 0,
+      "index": 5,
+      "start": 15.4,
+      "end": 16.833333333333332,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Esses elementos",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "AFETO + PERIGO.",
+      "label": "COMPOSIÇÃO VISUAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 505,
+      "frames": 133,
+      "part": 0,
+      "index": 6,
+      "start": 16.833333333333332,
+      "end": 21.266666666666666,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O romance continua",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "O ENTORNO MUDA O ABRAÇO.",
+      "label": "QUADRO INTEIRO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 638,
+      "frames": 90,
+      "part": 0,
+      "index": 7,
+      "start": 21.266666666666666,
+      "end": 24.266666666666666,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "É como escolher",
+      "file": "",
+      "title": "A FOTO DA VIAGEM",
+      "label": "COMPARAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "FOTO PERFEITA",
+        "GUINCHO FORA DO RECORTE"
+      ],
+      "from": 728,
+      "frames": 179,
+      "part": 0,
+      "index": 8,
+      "start": 24.266666666666666,
+      "end": 30.233333333333334,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "O momento bonito",
+      "file": "",
+      "title": "O MOMENTO ACONTECEU.",
+      "label": "COMPARAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O RECORTE MOSTRA UMA PARTE"
+      ],
+      "from": 907,
+      "frames": 124,
+      "part": 0,
+      "index": 9,
+      "start": 30.233333333333334,
+      "end": 34.36666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "E o guincho",
+      "file": "",
+      "title": "O GUINCHO TAMBÉM FOI.",
+      "label": "COMPARAÇÃO HIPOTÉTICA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "PARTICIPAÇÃO ESPECIAL NAS FÉRIAS"
+      ],
+      "from": 1031,
+      "frames": 89,
+      "part": 0,
+      "index": 10,
+      "start": 34.36666666666667,
+      "end": 37.333333333333336,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "Aqui, a leitura",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "A POSIÇÃO CONTA.",
+      "label": "ANÁLISE DA COMPOSIÇÃO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1120,
+      "frames": 123,
+      "part": 0,
+      "index": 11,
+      "start": 37.333333333333336,
+      "end": 41.43333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O casal ocupa",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "O CASAL NO CENTRO.",
+      "label": "ANÁLISE VISUAL",
+      "mode": "panel",
+      "offset": 0,
+      "crop": [
+        0.25,
+        0,
+        0.5,
+        1
+      ],
+      "from": 1243,
+      "frames": 70,
+      "part": 0,
+      "index": 12,
+      "start": 41.43333333333333,
+      "end": 43.766666666666666,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "a perseguição sugerida",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "PRESSÃO NO ENTORNO.",
+      "label": "QUADRO INTEIRO",
+      "mode": "panel",
+      "offset": 0,
+      "ring": [
+        0.76,
+        0.34,
+        0.24,
+        0.57
+      ],
+      "from": 1313,
+      "frames": 126,
+      "part": 0,
+      "index": 13,
+      "start": 43.766666666666666,
+      "end": 47.96666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Isso não revela",
+      "file": "",
+      "title": "O QUADRO NÃO REVELA",
+      "label": "LIMITES DA EVIDÊNCIA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "QUANDO ACONTECE",
+        "QUEM TRAI QUEM",
+        "A PRÓXIMA MISSÃO"
+      ],
+      "from": 1439,
+      "frames": 167,
+      "part": 0,
+      "index": 14,
+      "start": 47.96666666666667,
+      "end": 53.53333333333333,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "O detalhe interessante",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "PRÓXIMOS. SOB PRESSÃO.",
+      "label": "CONTRASTE VISUAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1606,
+      "frames": 203,
+      "part": 0,
+      "index": 15,
+      "start": 53.53333333333333,
+      "end": 60.3,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Ao fechar",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "RECORTE:\nMAIS AFETO.",
+      "label": "RECORTE EDITORIAL",
+      "mode": "panel",
+      "offset": 0,
+      "crop": [
+        0.25,
+        0,
+        0.5,
+        1
+      ],
+      "from": 1809,
+      "frames": 93,
+      "part": 0,
+      "index": 16,
+      "start": 60.3,
+      "end": 63.4,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Ao abrir",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "O PERIGO ENTRA NA IMAGEM.",
+      "label": "QUADRO INTEIRO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1902,
+      "frames": 109,
+      "part": 0,
+      "index": 17,
+      "start": 63.4,
+      "end": 67.03333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Antes de usar",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "CONFIRA O QUADRO INTEIRO.",
+      "label": "CRITÉRIO DE LEITURA",
+      "mode": "panel",
+      "offset": 0,
+      "from": 2011,
+      "frames": 144,
+      "part": 0,
+      "index": 18,
+      "start": 67.03333333333333,
+      "end": 71.83333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O recorte pode",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "O RECORTE MUDA A PERGUNTA.",
+      "label": "ANÁLISE VISUAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 2155,
+      "frames": 90,
+      "part": 0,
+      "index": 19,
+      "start": 71.83333333333333,
+      "end": 74.83333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Porque",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+      "title": "ESSE ABRAÇO TEM\nPOLÍCIA NO FUNDO.",
+      "label": "GTA VI • OLHE O QUADRO",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "ring": [
+        0.76,
+        0.34,
+        0.24,
+        0.57
+      ],
+      "from": 2245,
+      "frames": 28,
+      "part": 0,
+      "index": 20,
+      "start": 74.83333333333333,
+      "end": 75.76666666666667,
+      "animationFrames": 18
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.73,
+      "text": "Esse abraço tem polícia no fundo."
+    },
+    {
+      "start": 2.48,
+      "end": 4.64,
+      "text": "No recorte, temos o casal e o"
+    },
+    {
+      "start": 4.64,
+      "end": 5.67,
+      "text": "sol entre os rostos."
+    },
+    {
+      "start": 5.98,
+      "end": 7.72,
+      "text": "Parece que falta só uma legenda sobre"
+    },
+    {
+      "start": 7.72,
+      "end": 8.97,
+      "text": "encontrar a pessoa certa."
+    },
+    {
+      "start": 9.72,
+      "end": 11.32,
+      "text": "A pessoa certa veio com um contexto"
+    },
+    {
+      "start": 11.32,
+      "end": 12.33,
+      "text": "bem complicado."
+    },
+    {
+      "start": 13.0,
+      "end": 15.4,
+      "text": "Na arte inteira, aparecem barcos da polícia"
+    },
+    {
+      "start": 15.4,
+      "end": 16.25,
+      "text": "e um helicóptero."
+    },
+    {
+      "start": 16.84,
+      "end": 19.12,
+      "text": "Esses elementos dividem espaço com o casal"
+    },
+    {
+      "start": 19.12,
+      "end": 20.75,
+      "text": "e mudam o clima do abraço."
+    },
+    {
+      "start": 21.26,
+      "end": 23.86,
+      "text": "O romance continua ali, cercado por sinais"
+    },
+    {
+      "start": 23.86,
+      "end": 26.34,
+      "text": "de perigo. É como escolher a foto"
+    },
+    {
+      "start": 26.34,
+      "end": 28.38,
+      "text": "perfeita de uma viagem e cortar o"
+    },
+    {
+      "start": 28.38,
+      "end": 29.91,
+      "text": "guincho que estava buscando seu carro."
+    },
+    {
+      "start": 30.24,
+      "end": 31.55,
+      "text": "O momento bonito aconteceu."
+    },
+    {
+      "start": 32.0,
+      "end": 33.67,
+      "text": "Só não conta a história inteira."
+    },
+    {
+      "start": 34.36,
+      "end": 36.06,
+      "text": "E o guincho também participou bastante das"
+    },
+    {
+      "start": 36.06,
+      "end": 36.91,
+      "text": "férias."
+    },
+    {
+      "start": 37.32,
+      "end": 39.72,
+      "text": "Aqui, a leitura vem da posição dos"
+    },
+    {
+      "start": 39.72,
+      "end": 40.85,
+      "text": "elementos no desenho."
+    },
+    {
+      "start": 41.42,
+      "end": 43.09,
+      "text": "O casal ocupa o centro;"
+    },
+    {
+      "start": 43.76,
+      "end": 45.86,
+      "text": "a perseguição sugerida pelo entorno coloca"
+    },
+    {
+      "start": 45.86,
+      "end": 47.31,
+      "text": "a pressão nessa proximidade."
+    },
+    {
+      "start": 47.96,
+      "end": 50.21,
+      "text": "Isso não revela quando uma cena acontece,"
+    },
+    {
+      "start": 50.54,
+      "end": 52.42,
+      "text": "quem trai alguém ou qual missão vem"
+    },
+    {
+      "start": 52.42,
+      "end": 53.27,
+      "text": "depois."
+    },
+    {
+      "start": 53.52,
+      "end": 56.07,
+      "text": "O detalhe interessante é o contraste:"
+    },
+    {
+      "start": 56.44,
+      "end": 58.94,
+      "text": "duas pessoas próximas, com um mundo complicado"
+    },
+    {
+      "start": 58.94,
+      "end": 59.79,
+      "text": "ao redor."
+    },
+    {
+      "start": 60.3,
+      "end": 62.42,
+      "text": "Ao fechar o recorte, você destaca o"
+    },
+    {
+      "start": 62.42,
+      "end": 63.27,
+      "text": "afeto."
+    },
+    {
+      "start": 63.4,
+      "end": 64.25,
+      "text": "Ao abrir,"
+    },
+    {
+      "start": 64.34,
+      "end": 66.29,
+      "text": "deixa o perigo participar da mesma imagem."
+    },
+    {
+      "start": 67.02,
+      "end": 68.82,
+      "text": "Antes de usar essa arte como prova"
+    },
+    {
+      "start": 68.82,
+      "end": 69.71,
+      "text": "de uma teoria,"
+    },
+    {
+      "start": 70.2,
+      "end": 71.31,
+      "text": "confere o quadro inteiro."
+    },
+    {
+      "start": 71.84,
+      "end": 73.54,
+      "text": "O recorte pode mudar bastante a pergunta"
+    },
+    {
+      "start": 73.54,
+      "end": 74.39,
+      "text": "que você faz."
+    },
+    {
+      "start": 74.84,
+      "end": 75.69,
+      "text": "Porque..."
+    }
+  ]
+}

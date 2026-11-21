@@ -1,0 +1,16 @@
+[short] 20 planos conferidos (18 de vídeo): 0 erro(s), 12 aviso(s)
+  AVISO INFO selo persistente cobre 2 plano(s) de rótulo obrigatório: [5, 6]
+  AVISO planos 1 e 13 repetem trecho de JAN (0.4–5.9s)
+  AVISO planos 13 e 2 repetem trecho de JAN (2.7–3.5s)
+  AVISO planos 15 e 3 repetem trecho de JAN (6.3–9.0s)
+  AVISO planos 4 e 19 repetem trecho de JAN (14.4–15.7s)
+  AVISO planos 7 e 9 repetem trecho de ESQ (1.05–4.7s)
+  AVISO planos 9 e 14 repetem trecho de ESQ (2.45–3.7s)
+  AVISO planos 11 e 16 repetem trecho de ESQ (11.3–11.4s)
+  AVISO planos 16 e 12 repetem trecho de ESQ (12.1–13.8s)
+  AVISO planos 17 e 20 repetem trecho de ESQ (18.8–20.7s)
+  AVISO planos 20 e 8 repetem trecho de ESQ (19.5–21.1s)
+  AVISO planos 8 e 18 repetem trecho de ESQ (21.4–23.8s)
+  folhas de contato (2): C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\ONLY_IN_DADE_2026-11-13\_reel\montagem\prevoo  <- olhar antes do render: imagem x card x fala
+Pré-voo sem erros. Confira as folhas de contato e siga para a amostra/render.
+PREVOO_EXIT=0

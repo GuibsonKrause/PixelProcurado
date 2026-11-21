@@ -1,0 +1,5 @@
+A — Vice City: você sente saudade do jogo ou daquela época?
+B — Vice City: saudade de 1986 ou de 2002?
+C — A plateia de Vice City mudou — e isso diz muito
+
+A é a recomendação inicial. As alternativas são hipóteses editoriais; não são resultados de teste A/B.

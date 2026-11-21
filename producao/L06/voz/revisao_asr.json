@@ -1,0 +1,992 @@
+[
+  {
+    "kind": "replace",
+    "start": 4.38,
+    "end": 4.76,
+    "asr": "ponta no",
+    "script": "pântano",
+    "asr_indices": [
+      10,
+      12
+    ],
+    "script_indices": [
+      10,
+      11
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 8.98,
+    "end": 9.38,
+    "asr": "quies",
+    "script": "Keys,",
+    "asr_indices": [
+      19,
+      20
+    ],
+    "script_indices": [
+      18,
+      19
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 11.48,
+    "end": 12.04,
+    "asr": "Grass Reapers",
+    "script": "Grassrivers,",
+    "asr_indices": [
+      25,
+      27
+    ],
+    "script_indices": [
+      24,
+      25
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 17.26,
+    "end": 17.78,
+    "asr": "tracuridade",
+    "script": "tranquilidade",
+    "asr_indices": [
+      41,
+      42
+    ],
+    "script_indices": [
+      39,
+      40
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 18.02,
+    "end": 18.52,
+    "asr": "acompanha uma",
+    "script": "acompanhou a",
+    "asr_indices": [
+      43,
+      45
+    ],
+    "script_indices": [
+      41,
+      43
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 20.14,
+    "end": 20.52,
+    "asr": "Para",
+    "script": "Pra",
+    "asr_indices": [
+      48,
+      49
+    ],
+    "script_indices": [
+      46,
+      47
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 27.66,
+    "end": 27.94,
+    "asr": "passa.",
+    "script": "passam.",
+    "asr_indices": [
+      71,
+      72
+    ],
+    "script_indices": [
+      69,
+      70
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 28.92,
+    "end": 29.28,
+    "asr": "um aparece",
+    "script": "uma parece",
+    "asr_indices": [
+      73,
+      75
+    ],
+    "script_indices": [
+      71,
+      73
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 36.82,
+    "end": 37.12,
+    "asr": "quies.",
+    "script": "Keys.",
+    "asr_indices": [
+      97,
+      98
+    ],
+    "script_indices": [
+      95,
+      96
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 40.58,
+    "end": 41.08,
+    "asr": "de corta ao",
+    "script": "cortam o",
+    "asr_indices": [
+      105,
+      108
+    ],
+    "script_indices": [
+      103,
+      105
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 42.16,
+    "end": 42.62,
+    "asr": "hidroviau",
+    "script": "hidroavião",
+    "asr_indices": [
+      111,
+      112
+    ],
+    "script_indices": [
+      108,
+      109
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 52.5,
+    "end": 52.64,
+    "asr": "ser",
+    "script": "só",
+    "asr_indices": [
+      142,
+      143
+    ],
+    "script_indices": [
+      139,
+      140
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 53.68,
+    "end": 54.0,
+    "asr": "através",
+    "script": "atrás",
+    "asr_indices": [
+      147,
+      148
+    ],
+    "script_indices": [
+      144,
+      145
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 54.54,
+    "end": 54.68,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      150,
+      151
+    ],
+    "script_indices": [
+      147,
+      148
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 64.34,
+    "end": 64.54,
+    "asr": "num",
+    "script": "no",
+    "asr_indices": [
+      179,
+      180
+    ],
+    "script_indices": [
+      176,
+      177
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 72.88,
+    "end": 73.04,
+    "asr": "sol",
+    "script": "só",
+    "asr_indices": [
+      203,
+      204
+    ],
+    "script_indices": [
+      200,
+      201
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 73.18,
+    "end": 73.42,
+    "asr": "pediu",
+    "script": "pedir o",
+    "asr_indices": [
+      205,
+      206
+    ],
+    "script_indices": [
+      202,
+      204
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 84.12,
+    "end": 84.38,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      235,
+      236
+    ],
+    "script_indices": [
+      233,
+      234
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 85.92,
+    "end": 86.08,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      241,
+      242
+    ],
+    "script_indices": [
+      239,
+      240
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 88.04,
+    "end": 88.28,
+    "asr": "quis",
+    "script": "Keys",
+    "asr_indices": [
+      246,
+      247
+    ],
+    "script_indices": [
+      244,
+      245
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 88.82,
+    "end": 89.32,
+    "asr": "a Grass Rivers.",
+    "script": "Grassrivers.",
+    "asr_indices": [
+      249,
+      252
+    ],
+    "script_indices": [
+      247,
+      248
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 91.0,
+    "end": 91.22,
+    "asr": "ela esse",
+    "script": "hélice",
+    "asr_indices": [
+      255,
+      257
+    ],
+    "script_indices": [
+      251,
+      252
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 91.64,
+    "end": 91.96,
+    "asr": "parece",
+    "script": "aparece",
+    "asr_indices": [
+      258,
+      259
+    ],
+    "script_indices": [
+      253,
+      254
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 96.78,
+    "end": 97.18,
+    "asr": "passarei elas",
+    "script": "passarelas",
+    "asr_indices": [
+      273,
+      275
+    ],
+    "script_indices": [
+      268,
+      269
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 103.62,
+    "end": 104.06,
+    "asr": "quis",
+    "script": "Keys,",
+    "asr_indices": [
+      289,
+      290
+    ],
+    "script_indices": [
+      283,
+      284
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 109.82,
+    "end": 110.08,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      307,
+      308
+    ],
+    "script_indices": [
+      301,
+      302
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 116.2,
+    "end": 116.94,
+    "asr": "um nocial ou",
+    "script": "anunciar uma",
+    "asr_indices": [
+      328,
+      331
+    ],
+    "script_indices": [
+      322,
+      324
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 119.54,
+    "end": 119.6,
+    "asr": "a",
+    "script": "",
+    "asr_indices": [
+      339,
+      340
+    ],
+    "script_indices": [
+      332,
+      332
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 126.16,
+    "end": 126.3,
+    "asr": "na",
+    "script": "",
+    "asr_indices": [
+      357,
+      358
+    ],
+    "script_indices": [
+      349,
+      349
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 131.72,
+    "end": 132.28,
+    "asr": "Vecis",
+    "script": "Vice",
+    "asr_indices": [
+      370,
+      371
+    ],
+    "script_indices": [
+      361,
+      362
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 133.46,
+    "end": 133.92,
+    "asr": "como faixadas",
+    "script": "com fachadas",
+    "asr_indices": [
+      375,
+      377
+    ],
+    "script_indices": [
+      366,
+      368
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 148.82,
+    "end": 149.14,
+    "asr": "d 'água.",
+    "script": "d'água.",
+    "asr_indices": [
+      415,
+      417
+    ],
+    "script_indices": [
+      406,
+      407
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 158.78,
+    "end": 159.34,
+    "asr": "cotidiana",
+    "script": "cotidiano",
+    "asr_indices": [
+      439,
+      440
+    ],
+    "script_indices": [
+      429,
+      430
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 170.68,
+    "end": 170.9,
+    "asr": "aquele",
+    "script": "naquele",
+    "asr_indices": [
+      475,
+      476
+    ],
+    "script_indices": [
+      465,
+      466
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 171.62,
+    "end": 171.82,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      478,
+      479
+    ],
+    "script_indices": [
+      468,
+      469
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 173.8,
+    "end": 174.84,
+    "asr": "Portugal ou vão usar",
+    "script": "Port Gellhorn usa",
+    "asr_indices": [
+      482,
+      486
+    ],
+    "script_indices": [
+      472,
+      475
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 176.48,
+    "end": 176.94,
+    "asr": "letredo",
+    "script": "letreiro",
+    "asr_indices": [
+      489,
+      490
+    ],
+    "script_indices": [
+      478,
+      479
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 177.08,
+    "end": 177.5,
+    "asr": "Stalic",
+    "script": "Starlet",
+    "asr_indices": [
+      491,
+      492
+    ],
+    "script_indices": [
+      480,
+      481
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 178.08,
+    "end": 178.18,
+    "asr": "a",
+    "script": "",
+    "asr_indices": [
+      494,
+      495
+    ],
+    "script_indices": [
+      483,
+      483
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 187.98,
+    "end": 188.26,
+    "asr": "letredo",
+    "script": "letreiro",
+    "asr_indices": [
+      521,
+      522
+    ],
+    "script_indices": [
+      509,
+      510
+    ]
+  },
+  {
+    "kind": "insert",
+    "start": 194.2,
+    "end": 194.66,
+    "asr": "",
+    "script": "a",
+    "asr_indices": [
+      538,
+      538
+    ],
+    "script_indices": [
+      526,
+      527
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 196.44,
+    "end": 196.54,
+    "asr": "o",
+    "script": "um",
+    "asr_indices": [
+      547,
+      548
+    ],
+    "script_indices": [
+      536,
+      537
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 201.6,
+    "end": 201.74,
+    "asr": "O",
+    "script": "Um",
+    "asr_indices": [
+      561,
+      562
+    ],
+    "script_indices": [
+      550,
+      551
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 217.3,
+    "end": 217.6,
+    "asr": "eliminação",
+    "script": "iluminação",
+    "asr_indices": [
+      598,
+      599
+    ],
+    "script_indices": [
+      587,
+      588
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 231.3,
+    "end": 231.46,
+    "asr": "no",
+    "script": "num",
+    "asr_indices": [
+      644,
+      645
+    ],
+    "script_indices": [
+      633,
+      634
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 235.34,
+    "end": 235.8,
+    "asr": "A",
+    "script": "",
+    "asr_indices": [
+      659,
+      660
+    ],
+    "script_indices": [
+      648,
+      648
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 236.54,
+    "end": 236.68,
+    "asr": "a",
+    "script": "",
+    "asr_indices": [
+      661,
+      662
+    ],
+    "script_indices": [
+      649,
+      649
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 237.0,
+    "end": 237.18,
+    "asr": "a",
+    "script": "",
+    "asr_indices": [
+      664,
+      665
+    ],
+    "script_indices": [
+      651,
+      651
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 237.7,
+    "end": 237.96,
+    "asr": "ajuda",
+    "script": "ajudam",
+    "asr_indices": [
+      667,
+      668
+    ],
+    "script_indices": [
+      653,
+      654
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 246.86,
+    "end": 247.46,
+    "asr": "Calabaga",
+    "script": "Kalaga",
+    "asr_indices": [
+      690,
+      691
+    ],
+    "script_indices": [
+      676,
+      677
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 256.46,
+    "end": 257.42,
+    "asr": "porte aletreiro ou",
+    "script": "poste e letreiro, o",
+    "asr_indices": [
+      713,
+      716
+    ],
+    "script_indices": [
+      699,
+      703
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 265.74,
+    "end": 265.9,
+    "asr": "cova",
+    "script": "curva",
+    "asr_indices": [
+      743,
+      744
+    ],
+    "script_indices": [
+      730,
+      731
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 272.16,
+    "end": 272.58,
+    "asr": "um apausa",
+    "script": "uma pausa",
+    "asr_indices": [
+      763,
+      765
+    ],
+    "script_indices": [
+      750,
+      752
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 274.38,
+    "end": 274.74,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      769,
+      770
+    ],
+    "script_indices": [
+      756,
+      757
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 275.26,
+    "end": 275.48,
+    "asr": "outro",
+    "script": "o",
+    "asr_indices": [
+      772,
+      773
+    ],
+    "script_indices": [
+      759,
+      760
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 279.74,
+    "end": 279.88,
+    "asr": "na",
+    "script": "da",
+    "asr_indices": [
+      781,
+      782
+    ],
+    "script_indices": [
+      768,
+      769
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 281.2,
+    "end": 281.46,
+    "asr": "quis",
+    "script": "Keys,",
+    "asr_indices": [
+      785,
+      786
+    ],
+    "script_indices": [
+      772,
+      773
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 282.9,
+    "end": 283.66,
+    "asr": "Gras Reavers,",
+    "script": "Grassrivers,",
+    "asr_indices": [
+      791,
+      793
+    ],
+    "script_indices": [
+      778,
+      779
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 283.88,
+    "end": 284.1,
+    "asr": "mato",
+    "script": "mata",
+    "asr_indices": [
+      794,
+      795
+    ],
+    "script_indices": [
+      780,
+      781
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 285.16,
+    "end": 285.9,
+    "asr": "Vai se cite e",
+    "script": "Vice City",
+    "asr_indices": [
+      796,
+      800
+    ],
+    "script_indices": [
+      782,
+      784
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 286.9,
+    "end": 287.52,
+    "asr": "Pot de Elrond",
+    "script": "Port Gellhorn",
+    "asr_indices": [
+      803,
+      806
+    ],
+    "script_indices": [
+      787,
+      789
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 289.5,
+    "end": 290.28,
+    "asr": "Ambrose apesa",
+    "script": "Ambrosia pesa",
+    "asr_indices": [
+      810,
+      812
+    ],
+    "script_indices": [
+      793,
+      795
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 291.98,
+    "end": 292.46,
+    "asr": "Calabaga",
+    "script": "Kalaga",
+    "asr_indices": [
+      816,
+      817
+    ],
+    "script_indices": [
+      799,
+      800
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 301.42,
+    "end": 302.04,
+    "asr": "Gras Reavers.",
+    "script": "Grassrivers.",
+    "asr_indices": [
+      838,
+      840
+    ],
+    "script_indices": [
+      821,
+      822
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 303.54,
+    "end": 303.74,
+    "asr": "quis,",
+    "script": "Keys,",
+    "asr_indices": [
+      844,
+      845
+    ],
+    "script_indices": [
+      826,
+      827
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 304.38,
+    "end": 304.68,
+    "asr": "Rihuana.",
+    "script": "a iguana.",
+    "asr_indices": [
+      846,
+      847
+    ],
+    "script_indices": [
+      828,
+      830
+    ]
+  }
+]

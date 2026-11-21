@@ -1,0 +1,80 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-16T14:39:12.285274+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "A Rockstar soltou o trailer do pré-load de GTA 6: 29 segundos, cartela PRE-LOAD NOW e a data de 19 de novembro de 2026 na tela final. O vídeo cita PS5 e Xbox Series X|S e a nota \"Captured on PS5\". Sobre PC, nenhuma palavra: quem joga no computador segue esperando um anúncio próprio. Confira a data e a disponibilidade na fonte oficial da Rockstar.\n\nFonte: trailer oficial \"Pre-Load Now\", Rockstar Games. Imagens de GTA VI: Rockstar Games. Narração com voz sintética.\n\nSeu console já está pronto para o pré-load? Conta aqui.\n\n#GTA6 #GTAVI #PreLoad",
+          "image": [
+            {
+              "id": "cb668a56-15c2-4ad3-91ac-0ebe80f9a523",
+              "name": "3fc23f888753ccdf831d7485d78ade6e.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/16/3fc23f888753ccdf831d7485d78ade6e.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: Pré-Load Chegou! E o PC?",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "GTA 6 pré-load",
+            "label": "GTA 6 pré-load"
+          },
+          {
+            "value": "GTA 6 pre-load",
+            "label": "GTA 6 pre-load"
+          },
+          {
+            "value": "GTA 6 PC",
+            "label": "GTA 6 PC"
+          },
+          {
+            "value": "GTA 6 19 de novembro",
+            "label": "GTA 6 19 de novembro"
+          },
+          {
+            "value": "GTA 6 trailer",
+            "label": "GTA 6 trailer"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "2a056814-27a2-4dc4-84ab-9cb1ad924f1d",
+          "name": "fe1dbda39216ca3ab570aed148c6430f.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/16/fe1dbda39216ca3ab570aed148c6430f.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

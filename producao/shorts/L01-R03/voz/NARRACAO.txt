@@ -1,0 +1,11 @@
+Uma paisagem enorme pode caber numa conclusão pequena demais.
+
+Você olha uma imagem de GTA seis, vê destinos diferentes e tenta calcular o tamanho do mapa. Parece intuitivo: quanto mais lugares, maior o mundo. Só que uma lista de cenários não informa automaticamente as distâncias que existem entre eles.
+
+Mas o problema começa ainda antes da medida. A imagem pode mostrar um lugar sem revelar suas fronteiras. O que ficou fora do quadro continua fora do quadro. Completar essa parte com imaginação pode servir para uma teoria, desde que não vire uma escala apresentada como fato.
+
+Agora acrescente os prédios: enxergar uma fachada também não confirma que o jogador poderá entrar. Presença visual e acesso são perguntas diferentes. A mesma cena pode sustentar a descrição de um edifício e deixar sem resposta tudo o que acontece atrás da porta.
+
+Só que existe uma maneira simples de melhorar a análise. Para cada afirmação, procure a evidência correspondente. Distância precisa de medida ou demonstração adequada. Acesso precisa de indicação ou demonstração de acesso. Uma imagem bonita não responde a todas essas perguntas ao mesmo tempo.
+
+O ganho é perceber exatamente o que foi revelado e onde começa a expectativa. Lugares variados já despertam curiosidade; não precisamos acrescentar quilômetros inventados. Quando a promessa cresce além da evidência, lembre que...

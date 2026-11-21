@@ -1,0 +1,122 @@
+{
+  "schema_versao": 1,
+  "id": "POS_LANCAMENTO_2026-11-21",
+  "formato": "longo_e_short",
+  "roteiro_origem": {
+    "longo": "producao/POS_LANCAMENTO_2026-11-21/01_NARRACAO.txt",
+    "short": "producao/POS_LANCAMENTO_2026-11-21/SHORT_NARRACAO.txt"
+  },
+  "etapa_atual": "montagem",
+  "status": "em_andamento",
+  "data_criacao": "2026-11-21T02:47:40-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "validado",
+      "longo": {
+        "status": "validado",
+        "arquivo": "producao/POS_LANCAMENTO_2026-11-21/audio/narracao_master_aprovado.wav",
+        "duracao_s": 436.16,
+        "medicoes": {
+          "lufs": -16.9,
+          "tpk": -1.5
+        },
+        "gancho_s": 2.0,
+        "atualizado_em": "2026-11-21T05:29:56-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "arquivo": "producao/POS_LANCAMENTO_2026-11-21/audio/short_master_aprovado.wav",
+        "duracao_s": 50.0,
+        "gancho_s": 3.0,
+        "atualizado_em": "2026-11-21T05:29:59-03:00"
+      },
+      "atualizado_em": "2026-11-21T05:30:02-03:00"
+    },
+    "alinhamento": {
+      "status": "validado",
+      "longo": {
+        "status": "validado",
+        "arquivo": "producao/POS_LANCAMENTO_2026-11-21/audio/palavras_roteiro_alinhadas.json",
+        "ancoradas": 0.898,
+        "atualizado_em": "2026-11-21T05:30:05-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "arquivo": "producao/POS_LANCAMENTO_2026-11-21/audio/short_palavras_roteiro_alinhadas.json",
+        "ancoradas": 0.876,
+        "atualizado_em": "2026-11-21T05:30:07-03:00"
+      },
+      "atualizado_em": "2026-11-21T05:30:12-03:00"
+    },
+    "montagem": {
+      "status": "em_andamento",
+      "longo": {
+        "status": "validado",
+        "atualizado_em": "2026-11-21T08:25:53-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "atualizado_em": "2026-11-21T08:25:55-03:00"
+      },
+      "atualizado_em": "2026-11-21T05:30:17-03:00"
+    },
+    "render": {
+      "status": "pendente",
+      "longo": {
+        "status": "validado",
+        "arquivo": "exportacoes/Pixel_Procurado_POS_LANCAMENTO_Longo_V2.mp4",
+        "atualizado_em": "2026-11-21T08:25:56-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "arquivo": "exportacoes/Pixel_Procurado_POS_LANCAMENTO_Short_V2.mp4",
+        "atualizado_em": "2026-11-21T08:25:57-03:00"
+      }
+    },
+    "thumbnail": {
+      "status": "pendente",
+      "longo": {
+        "status": "validado",
+        "arquivo": "publicacao/capas/capa_longo.jpg",
+        "atualizado_em": "2026-11-21T08:25:59-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "arquivo": "publicacao/capas/capa_short.jpg",
+        "atualizado_em": "2026-11-21T08:26:01-03:00"
+      }
+    },
+    "publicacao_pacote": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "distribuicao": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "youtube": "https://www.youtube.com/watch?v=v1AwYOar4hI",
+      "atualizado_em": "2026-11-21T14:23:52-03:00"
+    },
+    "revisao_final": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "arquivo": "producao/POS_LANCAMENTO_2026-11-21/REVISAO_FINAL.json",
+      "atualizado_em": "2026-11-21T14:03:11-03:00"
+    }
+  },
+  "atualizado_em": "2026-11-21T14:23:52-03:00"
+}

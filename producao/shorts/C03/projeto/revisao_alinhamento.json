@@ -1,0 +1,175 @@
+{
+  "corrections": [
+    {
+      "op": "replace",
+      "start": 7.12,
+      "end": 7.46,
+      "script": "legenda",
+      "asr": "regenda",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 14.86,
+      "end": 14.98,
+      "script": "da",
+      "asr": "na",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 45.86,
+      "end": 46.08,
+      "script": "",
+      "asr": "a",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 65.02,
+      "end": 65.62,
+      "script": "participar",
+      "asr": "participado",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 72.48,
+      "end": 72.78,
+      "script": "mudar",
+      "asr": "montar",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 74.84,
+      "end": 75.22,
+      "script": "Porque...",
+      "asr": "Por quê?",
+      "decision": "short orthographic/contextual correction"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "No recorte",
+      "script_index": 6,
+      "time": 2.466666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Parece que falta",
+      "script_index": 17,
+      "time": 5.966666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A pessoa certa veio",
+      "script_index": 28,
+      "time": 9.733333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Na arte inteira",
+      "script_index": 37,
+      "time": 13.0,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "e um helicóptero",
+      "script_index": 44,
+      "time": 15.4,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Esses elementos",
+      "script_index": 47,
+      "time": 16.833333333333332,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O romance continua",
+      "script_index": 60,
+      "time": 21.266666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "É como escolher",
+      "script_index": 69,
+      "time": 24.266666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O momento bonito",
+      "script_index": 87,
+      "time": 30.233333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "E o guincho",
+      "script_index": 97,
+      "time": 34.36666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Aqui, a leitura",
+      "script_index": 105,
+      "time": 37.333333333333336,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O casal ocupa",
+      "script_index": 115,
+      "time": 41.43333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "a perseguição sugerida",
+      "script_index": 120,
+      "time": 43.766666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Isso não revela",
+      "script_index": 129,
+      "time": 47.96666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O detalhe interessante",
+      "script_index": 144,
+      "time": 53.53333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Ao fechar",
+      "script_index": 159,
+      "time": 60.3,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Ao abrir",
+      "script_index": 167,
+      "time": 63.4,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Antes de usar",
+      "script_index": 176,
+      "time": 67.03333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O recorte pode",
+      "script_index": 190,
+      "time": 71.83333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Porque",
+      "script_index": 200,
+      "time": 74.83333333333333,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

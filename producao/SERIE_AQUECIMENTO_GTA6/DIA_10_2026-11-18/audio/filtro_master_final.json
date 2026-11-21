@@ -1,0 +1,18 @@
+{
+  "source": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\narracao_bruta.wav",
+  "filter": "loudnorm=I=-16:TP=-1.6:LRA=11:linear=false:measured_I=-20.67:measured_TP=-1.29:measured_LRA=3.90:measured_thresh=-31.53:offset=1.46,volume=0.8dB,aresample=192000,alimiter=limit=0.831764:level=false:latency=true",
+  "output": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\narracao_master_aprovado.wav",
+  "start": "2026-11-18T11:42:12.738533-03:00",
+  "raw_loudnorm": {
+    "input_i": "-20.67",
+    "input_tp": "-1.29",
+    "input_lra": "3.90",
+    "input_thresh": "-31.53",
+    "output_i": "-17.46",
+    "output_tp": "-1.60",
+    "output_lra": "3.00",
+    "output_thresh": "-28.27",
+    "normalization_type": "dynamic",
+    "target_offset": "1.46"
+  }
+}

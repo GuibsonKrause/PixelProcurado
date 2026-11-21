@@ -1,0 +1,32 @@
+{
+  "youtube_feed": {
+    "file": "producao\\L05\\exportacoes\\Pixel_Procurado_L05_4K.mp4",
+    "integration": "cmvsctfgl0001jncj932ovibv",
+    "scheduled_at": "2026-11-03T12:00:00-03:00",
+    "exists": true
+  },
+  "facebook_feed": {
+    "file": "producao\\L05\\social\\L05_Facebook_1080p.mp4",
+    "integration": "cmvzyur290001pddwolrt33em",
+    "scheduled_at": "2026-11-03T12:00:00-03:00",
+    "exists": true
+  },
+  "instagram_feed": {
+    "file": "producao\\L05\\social\\L05_Instagram_integral_1080x1920.mp4",
+    "integration": "cmvzyw7vj0003pddwkgtivv8i",
+    "scheduled_at": "2026-11-03T12:00:00-03:00",
+    "exists": true
+  },
+  "facebook_story": {
+    "file": "producao\\L05\\social\\L05_Story_1080x1920.mp4",
+    "integration": "cmvzyur290001pddwolrt33em",
+    "scheduled_at": "2026-11-03T12:00:00-03:00",
+    "exists": true
+  },
+  "instagram_story": {
+    "file": "producao\\L05\\social\\L05_Story_1080x1920.mp4",
+    "integration": "cmvzyw7vj0003pddwkgtivv8i",
+    "scheduled_at": "2026-11-03T12:00:00-03:00",
+    "exists": true
+  }
+}

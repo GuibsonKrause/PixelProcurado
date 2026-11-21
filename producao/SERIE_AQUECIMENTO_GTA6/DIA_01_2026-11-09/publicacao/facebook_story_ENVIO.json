@@ -1,0 +1,30 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-11T03:07:42.223070+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "settings": {
+        "__type": "facebook",
+        "post_type": "story"
+      },
+      "value": [
+        {
+          "content": "O detalhe está no HUD. Veja a análise completa no Pixel Procurado.",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/398a4e59f8b24dd99fbcc3ee9ad0d38a.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ]
+    }
+  ]
+}

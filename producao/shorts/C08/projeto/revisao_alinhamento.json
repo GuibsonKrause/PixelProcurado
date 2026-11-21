@@ -1,0 +1,195 @@
+{
+  "corrections": [
+    {
+      "op": "replace",
+      "start": 0.9,
+      "end": 1.24,
+      "script": "iguana",
+      "asr": "igona",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 6.96,
+      "end": 7.12,
+      "script": "está",
+      "asr": "tá",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 17.4,
+      "end": 17.76,
+      "script": "Falta",
+      "asr": "Fota",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "delete",
+      "start": 30.48,
+      "end": 30.48,
+      "script": "o",
+      "asr": "",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 40.42,
+      "end": 40.94,
+      "script": "continuaria lá,",
+      "asr": "continua ali,",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 43.04,
+      "end": 43.14,
+      "script": "faz",
+      "asr": "vai",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 59.88,
+      "end": 60.04,
+      "script": "está",
+      "asr": "tá",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 63.62,
+      "end": 63.7,
+      "script": "a",
+      "asr": "é",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 66.38,
+      "end": 66.5,
+      "script": "tanto",
+      "asr": "tanta",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 71.24,
+      "end": 72.1,
+      "script": "Afinal...",
+      "asr": "Na final...",
+      "decision": "short orthographic/contextual correction"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "Pelo menos",
+      "script_index": 6,
+      "time": 2.8666666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "ela está no asfalto",
+      "script_index": 16,
+      "time": 6.433333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A gente chega",
+      "script_index": 34,
+      "time": 12.6,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Falta só pedir",
+      "script_index": 47,
+      "time": 17.4,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O detalhe funciona",
+      "script_index": 62,
+      "time": 21.733333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Você não vê",
+      "script_index": 71,
+      "time": 25.433333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Encontra um animal",
+      "script_index": 78,
+      "time": 27.033333333333335,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Agora imagina",
+      "script_index": 97,
+      "time": 33.166666666666664,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "É um exercício",
+      "script_index": 105,
+      "time": 36.46666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A rua continuaria",
+      "script_index": 114,
+      "time": 40.06666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Isso não confirma",
+      "script_index": 133,
+      "time": 45.766666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A foto mostra",
+      "script_index": 149,
+      "time": 50.8,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O comportamento",
+      "script_index": 155,
+      "time": 53.06666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "por mais convincente",
+      "script_index": 161,
+      "time": 54.833333333333336,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A graça está",
+      "script_index": 170,
+      "time": 59.13333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Entre tanta água",
+      "script_index": 186,
+      "time": 65.33333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "foi o sujeito",
+      "script_index": 194,
+      "time": 67.33333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Afinal",
+      "script_index": 205,
+      "time": 71.23333333333333,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

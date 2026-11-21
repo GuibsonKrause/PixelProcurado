@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-15T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Mão dada no GTA 6 é R2, não R3. Pausei o gameplay quadro a quadro e li 11 detalhes com minuto e segundo: a geladeira com menu e panfleto, o tênis na borda da banheira, DRINK, EAT e SMOKE no mesmo botão, o binóculo, a porta de clube e o HUD de troca. Hipótese vem marcada. Domingo 15/11, faltam 4 dias para 19/11. Qual você procura primeiro? Amanhã: PS5 contra PS5 Pro. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/0515e3c824434c46b44e123ab3e70b8c.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: 11 Detalhes do Gameplay Que Você Só Lê Pausando"
+      }
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+1
+00:00:00,000 --> 00:00:02,080
+Seu videogame acabou de pedir arrego.
+
+2
+00:00:02,800 --> 00:00:05,420
+Desde ontem, dez de novembro, faltando
+
+3
+00:00:05,420 --> 00:00:07,640
+oito dias pro lançamento, a Rockstar
+
+4
+00:00:07,640 --> 00:00:09,140
+liberou o pré-load oficial do GTA
+
+5
+00:00:09,140 --> 00:00:11,675
+seis. São até duzentos e doze
+
+6
+00:00:11,675 --> 00:00:13,420
+gigas entrando a seco no seu
+
+7
+00:00:13,420 --> 00:00:16,020
+console. Só que enquanto metade da
+
+8
+00:00:16,020 --> 00:00:17,740
+internet tá chorando porque teve que
+
+9
+00:00:17,740 --> 00:00:19,220
+apagar três jogos pra abrir espaço,
+
+10
+00:00:20,020 --> 00:00:21,480
+quase ninguém entendeu por que esse
+
+11
+00:00:21,480 --> 00:00:22,640
+arquivo é tão ignorante.
+
+12
+00:00:23,220 --> 00:00:25,340
+E não, não é preguiça de
+
+13
+00:00:25,340 --> 00:00:26,620
+otimização igual no Call of Duty.
+
+14
+00:00:27,580 --> 00:00:29,300
+Existe uma sequência de dois minutos
+
+15
+00:00:29,300 --> 00:00:30,740
+e vinte segundos no vídeo de
+
+16
+00:00:30,740 --> 00:00:32,520
+gameplay, entre o minuto seis e
+
+17
+00:00:32,520 --> 00:00:33,480
+trinta e o minuto oito e
+
+18
+00:00:33,480 --> 00:00:36,060
+cinquenta, que entrega o verdadeiro motivo
+
+19
+00:00:36,060 --> 00:00:38,200
+desses duzentos e doze gigas e
+
+20
+00:00:38,200 --> 00:00:39,680
+esconde uma armadilha que vai travar
+
+21
+00:00:39,680 --> 00:00:41,140
+o console de muita gente na
+
+22
+00:00:41,140 --> 00:00:42,200
+meia-noite do dia dezenove.
+
+23
+00:00:43,240 --> 00:00:44,940
+Pensa no absurdo da evolução.
+
+24
+00:00:45,740 --> 00:00:47,800
+Quando o GTA cinco saiu lá
+
+25
+00:00:47,800 --> 00:00:49,180
+em dois mil e treze, a
+
+26
+00:00:49,180 --> 00:00:51,007
+instalação pedia dezoito gigas.
+
+27
+00:00:51,007 --> 00:00:53,860
+Dezoito. Cabia num pendrive de brinde
+
+28
+00:00:53,860 --> 00:00:55,860
+de feira, e mesmo assim você
+
+29
+00:00:55,860 --> 00:00:57,640
+ficava quatro minutos olhando pra tela
+
+30
+00:00:57,640 --> 00:00:59,400
+das nuvens enquanto o PlayStation três
+
+31
+00:00:59,400 --> 00:01:01,800
+fazia barulho de liquidificador batendo gelo.
+
+32
+00:01:02,500 --> 00:01:03,760
+Agora corta pra hoje.
+
+33
+00:01:04,400 --> 00:01:05,680
+Você liga o console pra baixar
+
+34
+00:01:05,680 --> 00:01:06,860
+o GTA seis e dá de
+
+35
+00:01:06,860 --> 00:01:08,120
+cara com duzentos e doze gigas.
+
+36
+00:01:08,980 --> 00:01:10,000
+Para o cara que deixou o
+
+37
+00:01:10,000 --> 00:01:12,200
+SSD original de fábrica lotado de
+
+38
+00:01:12,200 --> 00:01:13,620
+jogo que ele jura que um
+
+39
+00:01:13,620 --> 00:01:15,880
+dia vai zerar, hoje é dia
+
+40
+00:01:15,880 --> 00:01:17,940
+de velório. Vai rodar o futebol,
+
+41
+00:01:17,940 --> 00:01:19,220
+vai rodar o jogo de tiro,
+
+42
+00:01:19,400 --> 00:01:20,580
+vai rodar até o jogo do
+
+43
+00:01:20,580 --> 00:01:21,230
+filho se bobear.
+
+44
+00:01:22,520 --> 00:01:25,100
+Mas vamos separar as coisas sem
+
+45
+00:01:25,100 --> 00:01:27,280
+passar pano. Nos últimos anos, a
+
+46
+00:01:27,280 --> 00:01:28,928
+indústria acostumou a gente a baixar
+
+47
+00:01:28,928 --> 00:01:30,440
+duzentos gigas pra jogar em três
+
+48
+00:01:30,440 --> 00:01:32,960
+corredores fechados porque a empresa teve
+
+49
+00:01:32,960 --> 00:01:35,080
+preguiça de comprimir textura de roupinha
+
+50
+00:01:35,080 --> 00:01:36,420
+brilhante e arma colorida.
+
+51
+00:01:37,800 --> 00:01:39,360
+No GTA seis, a conta é
+
+52
+00:01:39,360 --> 00:01:41,340
+outra. A Rockstar não tá usando
+
+53
+00:01:41,340 --> 00:01:43,280
+duzentos e doze gigas pra guardar
+
+54
+00:01:43,280 --> 00:01:44,160
+fantasia de boneco.
+
+55
+00:01:44,160 --> 00:01:46,040
+Ela tá usando pra acabar com
+
+56
+00:01:46,040 --> 00:01:47,260
+a maior mentira dos jogos de
+
+57
+00:01:47,260 --> 00:01:49,260
+mundo aberto: o prédio de isopor.
+
+58
+00:01:49,760 --> 00:01:51,512
+No GTA antigo, noventa e nove
+
+59
+00:01:51,512 --> 00:01:53,300
+por cento da cidade era fachada
+
+60
+00:01:53,300 --> 00:01:55,220
+falsa. Você batia o carro num
+
+61
+00:01:55,220 --> 00:01:56,760
+prédio de trinta andares e era
+
+62
+00:01:56,760 --> 00:01:58,500
+só um caixote oco com janela
+
+63
+00:01:58,500 --> 00:01:59,320
+pintada por fora.
+
+64
+00:02:00,160 --> 00:02:01,920
+Agora olha o que tá dentro
+
+65
+00:02:01,920 --> 00:02:03,580
+desses duzentos e doze gigas no
+
+66
+00:02:03,580 --> 00:02:04,260
+vídeo de gameplay.
+
+67
+00:02:05,060 --> 00:02:07,060
+No minuto seis e trinta, a
+
+68
+00:02:07,060 --> 00:02:08,720
+câmera entra no apartamento da Lucia.
+
+69
+00:02:09,340 --> 00:02:11,300
+Repara na quantidade de objetos únicos
+
+70
+00:02:11,460 --> 00:02:13,620
+num único imóvel: fita de LED
+
+71
+00:02:13,620 --> 00:02:15,940
+atrás da cama, torneira da banheira
+
+72
+00:02:15,940 --> 00:02:17,340
+funcionando no minuto seis e cinquenta,
+
+73
+00:02:18,260 --> 00:02:21,100
+penteadeira com lâmpada acesa, geladeira lotada
+
+74
+00:02:21,100 --> 00:02:22,880
+de ímã e recado colado com
+
+75
+00:02:22,880 --> 00:02:24,120
+botão pra abrir no minuto sete
+
+76
+00:02:24,120 --> 00:02:26,180
+e vinte, e uma televisão passando
+
+77
+00:02:26,180 --> 00:02:27,980
+documentário da vida selvagem em tempo
+
+78
+00:02:27,980 --> 00:02:28,660
+real na sala.
+
+79
+00:02:29,540 --> 00:02:30,560
+Acha que é só na casa
+
+80
+00:02:30,560 --> 00:02:33,020
+dos protagonistas? Pula pro minuto vinte
+
+81
+00:02:33,020 --> 00:02:33,670
+e um e quarenta.
+
+82
+00:02:34,240 --> 00:02:35,560
+O Jason pega o elevador num
+
+83
+00:02:35,560 --> 00:02:37,420
+prédio comercial, sai num andar em
+
+84
+00:02:37,420 --> 00:02:38,900
+reforma cheio de lona plástica no
+
+85
+00:02:38,900 --> 00:02:40,520
+piso e entra numa sala de
+
+86
+00:02:40,520 --> 00:02:42,640
+diretoria com uma maquete acesa em
+
+87
+00:02:42,640 --> 00:02:43,290
+cima da mesa.
+
+88
+00:02:43,920 --> 00:02:45,260
+E olha pela janela de vidro
+
+89
+00:02:45,260 --> 00:02:46,760
+atrás dos caras no minuto vinte
+
+90
+00:02:46,760 --> 00:02:48,480
+e dois e trinta: a cidade
+
+91
+00:02:48,480 --> 00:02:50,360
+inteira continua rodando lá embaixo, no
+
+92
+00:02:50,360 --> 00:02:52,280
+vigésimo andar, sem embaçar o fundo.
+
+93
+00:02:53,220 --> 00:02:55,220
+Cada textura de carpete, cada reflexo
+
+94
+00:02:55,220 --> 00:02:57,140
+de vidro e cada cômodo acessível
+
+95
+00:02:57,140 --> 00:02:58,760
+sem tela preta cobra o seu
+
+96
+00:02:58,760 --> 00:02:59,440
+preço em gigabytes.
+
+97
+00:03:00,440 --> 00:03:02,020
+O segundo motivo pra esse download
+
+98
+00:03:02,020 --> 00:03:03,760
+parecer um tijolo é que você
+
+99
+00:03:03,760 --> 00:03:05,160
+não tá baixando uma cidade.
+
+100
+00:03:05,820 --> 00:03:07,740
+Você tá baixando seis ecossistemas que
+
+101
+00:03:07,740 --> 00:03:08,580
+não têm nada a ver um
+
+102
+00:03:08,580 --> 00:03:09,230
+com o outro.
+
+103
+00:03:09,760 --> 00:03:11,400
+No GTA cinco, fora de Los
+
+104
+00:03:11,400 --> 00:03:12,900
+Santos, o resto do mapa era
+
+105
+00:03:12,900 --> 00:03:15,140
+basicamente mato seco, areia e pedra.
+
+106
+00:03:15,820 --> 00:03:17,360
+Dava pra reciclar a mesma textura
+
+107
+00:03:17,360 --> 00:03:18,680
+de terra marrom por dez quilômetros.
+
+108
+00:03:19,820 --> 00:03:21,900
+Em Leonida, essa malandragem não funciona.
+
+109
+00:03:22,820 --> 00:03:24,420
+Você sai dos prédios espelhados de
+
+110
+00:03:24,420 --> 00:03:26,140
+Vice City e desce pras pontes
+
+111
+00:03:26,140 --> 00:03:28,280
+de Leonida Keys, com recife de
+
+112
+00:03:28,280 --> 00:03:29,920
+coral e vida marinha debaixo d'água.
+
+113
+00:03:30,600 --> 00:03:32,420
+Entra em Grassrivers e o jogo
+
+114
+00:03:32,420 --> 00:03:35,120
+precisa carregar pântano alagado, vegetação densa
+
+115
+00:03:35,120 --> 00:03:37,020
+e física de barco deslizando no
+
+116
+00:03:37,020 --> 00:03:39,260
+lodo. Sobe pra Port Gellhorn e
+
+117
+00:03:39,260 --> 00:03:42,400
+Ambrosia e entra lamaçal pesado, fumaça
+
+118
+00:03:42,400 --> 00:03:44,660
+de usina industrial e subúrbio sujo.
+
+119
+00:03:45,440 --> 00:03:47,200
+Vai pro norte em Mount Kalaga
+
+120
+00:03:47,640 --> 00:03:48,960
+e o cenário vira desfiladeiro de
+
+121
+00:03:48,960 --> 00:03:51,240
+pedra, floresta fechada e rio de
+
+122
+00:03:51,240 --> 00:03:53,700
+correnteza. Olha o salto de paraquedas
+
+123
+00:03:53,700 --> 00:03:55,080
+no minuto dezoito e cinquenta do
+
+124
+00:03:55,080 --> 00:03:57,300
+gameplay. Quando a Lucia pula do
+
+125
+00:03:57,300 --> 00:03:59,360
+topo daquele prédio, o jogo desenha
+
+126
+00:03:59,360 --> 00:04:01,440
+a baía inteira, as pontes, a
+
+127
+00:04:01,440 --> 00:04:03,260
+espuma dos barcos na água e
+
+128
+00:04:03,260 --> 00:04:04,540
+o horizonte de prédios ao mesmo
+
+129
+00:04:04,540 --> 00:04:07,100
+tempo, sem jogar aquela neblina safada
+
+130
+00:04:07,100 --> 00:04:07,860
+pra esconder o fundo.
+
+131
+00:04:08,620 --> 00:04:10,540
+E tem uma parte gigantesca desses
+
+132
+00:04:10,540 --> 00:04:12,140
+duzentos e doze gigas que você
+
+133
+00:04:12,140 --> 00:04:14,020
+nem vê, mas escuta o tempo
+
+134
+00:04:14,020 --> 00:04:16,710
+todo. Áudio sem compressão porca pesa
+
+135
+00:04:16,710 --> 00:04:19,320
+uma tonelada. São dezenas de rádios,
+
+136
+00:04:19,520 --> 00:04:21,100
+a trilha original inteira assinada pelo
+
+137
+00:04:21,100 --> 00:04:24,000
+Justice, barulho individual de motor, vento
+
+138
+00:04:24,000 --> 00:04:25,980
+batendo na água e milhares de
+
+139
+00:04:25,980 --> 00:04:26,960
+linhas de diálogo de rua.
+
+140
+00:04:27,860 --> 00:04:29,800
+Repara no restaurante de cobertura no
+
+141
+00:04:29,800 --> 00:04:31,900
+minuto dez do gameplay, ou na
+
+142
+00:04:31,900 --> 00:04:33,473
+praia lotada no minuto dezoito e
+
+143
+00:04:33,473 --> 00:04:36,840
+trinta. Acabou aquele exército de gêmeos
+
+144
+00:04:36,840 --> 00:04:38,420
+trigêmeos que andava na calçada usando
+
+145
+00:04:38,420 --> 00:04:39,240
+a mesma camiseta.
+
+146
+00:04:40,260 --> 00:04:42,080
+Cada mesa daquele terraço tem gente
+
+147
+00:04:42,080 --> 00:04:44,260
+com corpo diferente, roupa com caimento
+
+148
+00:04:44,260 --> 00:04:46,340
+próprio, óculos refletindo o sol e
+
+149
+00:04:46,340 --> 00:04:49,300
+conversa separada. Tudo isso precisa estar
+
+150
+00:04:49,300 --> 00:04:50,600
+pronto pra pular na tela em
+
+151
+00:04:50,600 --> 00:04:52,860
+milissegundos. E é exatamente aí que
+
+152
+00:04:52,860 --> 00:04:54,587
+entra aquela sequência do minuto seis
+
+153
+00:04:54,587 --> 00:04:56,280
+e trinta ao oito e cinquenta
+
+154
+00:04:56,280 --> 00:04:57,400
+que eu prometi lá no início.
+
+155
+00:04:58,260 --> 00:04:59,780
+Olha o que acontece entre o
+
+156
+00:04:59,780 --> 00:05:01,180
+minuto seis e trinta e o
+
+157
+00:05:01,180 --> 00:05:02,720
+minuto oito e cinquenta do gameplay.
+
+158
+00:05:03,540 --> 00:05:05,440
+O Jason tá dentro daquele apartamento
+
+159
+00:05:05,440 --> 00:05:08,040
+abarrotado de detalhes, passa pela cozinha,
+
+160
+00:05:08,520 --> 00:05:10,200
+sai pro pátio do prédio, entra
+
+161
+00:05:10,200 --> 00:05:12,460
+no conversível vermelho estacionado na garagem
+
+162
+00:05:12,460 --> 00:05:14,360
+e já desemboca direto numa avenida
+
+163
+00:05:14,360 --> 00:05:15,380
+cheia de carro e caminhão.
+
+164
+00:05:16,180 --> 00:05:17,480
+Pra tirar você de um interior
+
+165
+00:05:17,480 --> 00:05:19,080
+daquele nível e te jogar no
+
+166
+00:05:19,080 --> 00:05:20,780
+trânsito pesado a sessenta por hora
+
+167
+00:05:20,780 --> 00:05:23,020
+sem travar e sem esconder carregamento
+
+168
+00:05:23,020 --> 00:05:24,960
+atrás de tela preta, o jogo
+
+169
+00:05:24,960 --> 00:05:26,460
+depende cem por cento da velocidade
+
+170
+00:05:26,460 --> 00:05:28,960
+bruta do SSD interno do console
+
+171
+00:05:28,960 --> 00:05:30,960
+lendo esses duzentos e doze gigas
+
+172
+00:05:30,960 --> 00:05:33,620
+sem engasgar. E aqui estão as
+
+173
+00:05:33,620 --> 00:05:35,040
+duas burrices que vão fazer muita
+
+174
+00:05:35,040 --> 00:05:36,500
+gente perder a noite de estreia
+
+175
+00:05:36,500 --> 00:05:40,000
+no dia dezenove: Primeira: achar que
+
+176
+00:05:40,000 --> 00:05:41,772
+pode baixar esses duzentos e doze
+
+177
+00:05:41,772 --> 00:05:44,280
+gigas num HD externo USB pra
+
+178
+00:05:44,280 --> 00:05:46,760
+economizar espaço. No PlayStation cinco e
+
+179
+00:05:46,760 --> 00:05:48,880
+no Xbox Series, disco USB só
+
+180
+00:05:48,880 --> 00:05:51,040
+serve como depósito morto pra jogo
+
+181
+00:05:51,040 --> 00:05:53,660
+dessa geração. Se você baixar lá
+
+182
+00:05:53,660 --> 00:05:55,540
+hoje, na meia-noite do dia dezenove
+
+183
+00:05:56,060 --> 00:05:57,380
+o console vai te proibir de
+
+184
+00:05:57,380 --> 00:05:58,700
+abrir o jogo e você vai
+
+185
+00:05:58,700 --> 00:06:00,595
+perder quase uma hora copiando duzentos
+
+186
+00:06:00,595 --> 00:06:02,320
+e doze gigas de volta pro
+
+187
+00:06:02,320 --> 00:06:04,240
+SSD interno enquanto todo mundo já
+
+188
+00:06:04,240 --> 00:06:08,120
+tá jogando. Segunda: limpar a conta
+
+189
+00:06:08,120 --> 00:06:09,840
+exata de duzentos e doze gigas
+
+190
+00:06:09,840 --> 00:06:11,320
+e deixar o SSD no osso,
+
+191
+00:06:11,320 --> 00:06:12,580
+com zero espaço livre.
+
+192
+00:06:13,420 --> 00:06:14,700
+Quando o jogo destravar no dia
+
+193
+00:06:14,700 --> 00:06:16,520
+dezenove, o sistema precisa de uma
+
+194
+00:06:16,520 --> 00:06:18,440
+folga extra pra descompactar a chave
+
+195
+00:06:18,440 --> 00:06:20,380
+de lançamento e instalar o pacote
+
+196
+00:06:20,380 --> 00:06:21,680
+de atualização do primeiro dia.
+
+197
+00:06:22,540 --> 00:06:23,893
+Deixa pelo menos uns vinte e
+
+198
+00:06:23,893 --> 00:06:25,540
+cinco a trinta gigas sobrando além
+
+199
+00:06:25,540 --> 00:06:26,960
+do pré-load se você não quiser
+
+200
+00:06:26,960 --> 00:06:28,020
+dar de cara com erro de
+
+201
+00:06:28,020 --> 00:06:30,025
+instalação à meia-noite.
+
+202
+00:06:30,025 --> 00:06:32,730
+Arruma esse espaço hoje no SSD
+
+203
+00:06:32,730 --> 00:06:34,650
+interno, porque a partir do momento
+
+204
+00:06:34,650 --> 00:06:35,950
+em que você pisar nessa rua,
+
+205
+00:06:36,470 --> 00:06:37,610
+o seu problema deixa de ser
+
+206
+00:06:37,610 --> 00:06:39,670
+armazenamento e passa a usar farda.
+
+207
+00:06:40,410 --> 00:06:42,050
+No próximo vídeo, eu vou te
+
+208
+00:06:42,050 --> 00:06:43,243
+mostrar o que o frame onze
+
+209
+00:06:43,243 --> 00:06:45,170
+e cinquenta do gameplay confirmou em
+
+210
+00:06:45,170 --> 00:06:47,790
+silêncio: o retorno das seis estrelas
+
+211
+00:06:47,790 --> 00:06:49,610
+de procurado e o truque sujo
+
+212
+00:06:49,610 --> 00:06:50,970
+da garagem coberta que você vai
+
+213
+00:06:50,970 --> 00:06:52,090
+ter que usar pra polícia de
+
+214
+00:06:52,090 --> 00:06:53,870
+Leonida não te trancar na cadeia.
+
+215
+00:06:54,670 --> 00:06:56,150
+Então já se inscreve nessa porra
+
+216
+00:06:56,150 --> 00:06:56,890
+e até amanhã.
+

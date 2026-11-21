@@ -1,0 +1,58 @@
+[
+  {
+    "block": 1,
+    "start": 0,
+    "end": 47.6,
+    "duration": 47.6,
+    "source": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\tts_blocos\\B01_narracao.wav",
+    "sha256": "ba5dca728e9ae4f9f24a70f7c13769ab1b7456c065c1c1948d15ed82844bb1af"
+  },
+  {
+    "block": 2,
+    "start": 47.78,
+    "end": 99.86,
+    "duration": 52.08,
+    "source": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\tts_blocos\\B02_narracao.wav",
+    "sha256": "40605825287e8a60afab17fba7e42456f997afac535a9df35bfc327aeeb9dc7c"
+  },
+  {
+    "block": 3,
+    "start": 100.04,
+    "end": 163.8,
+    "duration": 63.76,
+    "source": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\tts_blocos\\B03_narracao.wav",
+    "sha256": "fd29e9f5e8fbc3c349fdfd21f2603d23b776c2bf84e939ba80f17c6eceeefea3"
+  },
+  {
+    "block": 4,
+    "start": 163.98,
+    "end": 225.38,
+    "duration": 61.4,
+    "source": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\tts_blocos\\B04_narracao.wav",
+    "sha256": "10352b5497cb0f76b5ff5afd4144cb419562cc657bd9b3a9c0c87698f3f8a931"
+  },
+  {
+    "block": 5,
+    "start": 225.56,
+    "end": 287.2,
+    "duration": 61.64,
+    "source": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\tts_blocos\\B05_narracao.wav",
+    "sha256": "3de84babf208a95dce45e8928adef599364002386ff222e9016948cd1e1700a2"
+  },
+  {
+    "block": 6,
+    "start": 287.38,
+    "end": 343.02,
+    "duration": 55.64,
+    "source": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\tts_blocos\\B06_narracao.wav",
+    "sha256": "c4332c36fd5974a2c58c74de6cfe11569ee6d614c86523858425c80ac303e705"
+  },
+  {
+    "block": 7,
+    "start": 343.2,
+    "end": 385.48,
+    "duration": 42.28,
+    "source": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\tts_blocos\\B07_narracao.wav",
+    "sha256": "8dbe9d0842ea5e365a301bd31bb459b9e1a634b0dcaa6549abb271d0393a7362"
+  }
+]

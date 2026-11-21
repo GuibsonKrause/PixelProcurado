@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixel Procurado Gemini TTS"
+  short_description: "Narrações do canal com voz personalizada Gemini"
+  default_prompt: "Use $pixel-procurado-gemini-tts para gerar e validar a narração solicitada do Pixel Procurado."

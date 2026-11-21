@@ -1,0 +1,32 @@
+{
+  "master_sha256": "5dd1b491627948635b5f6b2702b4bdd20a14ef9b37340400209c9f58b6fe497b",
+  "assets": {
+    "facebook_integral": {
+      "duration": 310.83,
+      "width": 1920,
+      "height": 1080,
+      "h264": true,
+      "aac": true,
+      "sha256": "ef890ce07cbb5238a6169e20558340abbffb71780bceb0da93665ecce811b46b",
+      "full_decode_pass": true
+    },
+    "youtube_short": {
+      "duration": 66.2,
+      "width": 1080,
+      "height": 1920,
+      "h264": true,
+      "aac": true,
+      "sha256": "036cd23e5d26c7f08750e5f21cacd5cd621ef2feaaaf60ca6cbbc86379a58280",
+      "full_decode_pass": true
+    },
+    "instagram_reel": {
+      "duration": 66.2,
+      "width": 1080,
+      "height": 1920,
+      "h264": true,
+      "aac": true,
+      "sha256": "036cd23e5d26c7f08750e5f21cacd5cd621ef2feaaaf60ca6cbbc86379a58280",
+      "full_decode_pass": true
+    }
+  }
+}

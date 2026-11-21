@@ -1,0 +1,1424 @@
+{
+  "duracao_final_s": 377.72,
+  "palavras_roteiro": 1068,
+  "palavras_asr": 1066,
+  "paragrafos": 20,
+  "divergencias": [
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas.",
+      "asr": "porta -malas.",
+      "start": 1.18
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas do",
+      "asr": "porta -malas no",
+      "start": 3.62
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezoito",
+      "asr": "18",
+      "start": 4.46
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Abri.",
+      "asr": "Abrir.",
+      "start": 5.9
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "estepe.",
+      "asr": "step.",
+      "start": 9.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezoito",
+      "asr": "18",
+      "start": 11.22
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "doze,",
+      "asr": "12,",
+      "start": 11.86
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Buffalo",
+      "asr": "um bufo allow",
+      "start": 16.2
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "de óculos",
+      "asr": "Dióculos",
+      "start": 26.48
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "moletom,",
+      "asr": "monetom,",
+      "start": 27.52
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas",
+      "asr": "porta -malas",
+      "start": 33.0
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "cinquenta e um",
+      "asr": "51",
+      "start": 40.08
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "trunk.",
+      "asr": "Trunks,",
+      "start": 43.62
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas.",
+      "asr": "porta -malas.",
+      "start": 44.84
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "a",
+      "start": 49.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quatorze",
+      "asr": "14",
+      "start": 52.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "para o",
+      "start": 55.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas.",
+      "asr": "porta -malas,",
+      "start": 58.68
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "seis.",
+      "asr": "6.",
+      "start": 61.62
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "uma",
+      "asr": "um",
+      "start": 69.04
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Começa",
+      "asr": "Comece",
+      "start": 71.92
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para a",
+      "start": 82.48
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quinze e trinta:",
+      "asr": "15 .30.",
+      "start": 84.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quinze e cinquenta,",
+      "asr": "15 .50,",
+      "start": 90.36
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "da",
+      "asr": "na",
+      "start": 91.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "numa",
+      "asr": "em uma",
+      "start": 92.52
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Lucia desce,",
+      "asr": "luz se adece",
+      "start": 97.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "bandana",
+      "asr": "banana",
+      "start": 98.64
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "a",
+      "start": 109.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "numa van",
+      "asr": "em um avão",
+      "start": 111.14
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "um",
+      "start": 112.22
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Burrito",
+      "asr": "borrito",
+      "start": 112.88
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "van",
+      "asr": "vã",
+      "start": 115.62
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 126.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Lucia larga o",
+      "asr": "luz se alarga ao",
+      "start": 128.82
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "van.",
+      "asr": "vã.",
+      "start": 130.88
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Comparsa,",
+      "asr": "Compaça,",
+      "start": 136.64
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "trocar",
+      "asr": "troca",
+      "start": 140.64
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "o",
+      "start": 145.52
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "bufê.",
+      "asr": "bife.",
+      "start": 160.34
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezessete e cinquenta:",
+      "asr": "17 .50.",
+      "start": 164.38
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "conversível",
+      "asr": "comecível",
+      "start": 165.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Lucia no",
+      "asr": "luz sendo um",
+      "start": 168.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Jason",
+      "asr": "diesel",
+      "start": 170.72
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra aba",
+      "asr": "praba",
+      "start": 173.76
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Lucia desce",
+      "asr": "luz se adessa",
+      "start": 183.68
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "We",
+      "asr": "ouí",
+      "start": 187.32
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "a",
+      "start": 190.14
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Conserta",
+      "asr": "Com certa",
+      "start": 191.64
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "para-choque.",
+      "asr": "para choque.",
+      "start": 193.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "conversível",
+      "asr": "comecível",
+      "start": 194.56
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Jason",
+      "asr": "diesel",
+      "start": 196.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "oito e treze,",
+      "asr": "8 .13,",
+      "start": 197.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Sentinel",
+      "asr": "cento, não,",
+      "start": 200.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "oito e vinte e sete",
+      "asr": "8 .27",
+      "start": 203.04
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "recolhe",
+      "asr": "recole",
+      "start": 204.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "oito",
+      "asr": "8",
+      "start": 208.48
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezoito e quarenta e um.",
+      "asr": "18 .41.",
+      "start": 211.48
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Mesma",
+      "asr": "Mesmo a",
+      "start": 214.86
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "sorteado",
+      "asr": "sortiado",
+      "start": 218.94
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "seis: abrir",
+      "asr": "6. Abre",
+      "start": 227.54
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "a",
+      "asr": "",
+      "start": 240.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezessete e quarenta e dois",
+      "asr": "17 .42",
+      "start": 241.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "grade,",
+      "asr": "Crade,",
+      "start": 243.98
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezesseis",
+      "asr": "16",
+      "start": 245.16
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "vinte e vinte e um",
+      "asr": "20 .21",
+      "start": 248.04
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "seis",
+      "asr": "6",
+      "start": 249.6
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezoito e trinta e cinco,",
+      "asr": "18 .35.",
+      "start": 263.12
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "ilegal.",
+      "asr": "legal.",
+      "start": 267.42
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "a",
+      "start": 270.4
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nem",
+      "asr": "na",
+      "start": 271.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Ilegal,",
+      "asr": "E legal",
+      "start": 272.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "honestidade:",
+      "asr": "na estidade.",
+      "start": 277.84
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Rideout",
+      "asr": "Ride Out",
+      "start": 287.28
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "o",
+      "start": 289.82
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "naipe",
+      "asr": "nipes",
+      "start": 291.82
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "prancheta",
+      "asr": "pranchita",
+      "start": 299.1
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Ganado Retro Build,",
+      "asr": "ganada RetroBuild.",
+      "start": 301.84
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quatro três quatro",
+      "asr": "434",
+      "start": 305.92
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "ferro-velho, peças",
+      "asr": "ferro velho. Pestas",
+      "start": 312.16
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "prancheta em",
+      "asr": "pranchita e",
+      "start": 316.26
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "a",
+      "start": 317.5
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dá pra",
+      "asr": "ir lá para",
+      "start": 327.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 328.38
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Pay and",
+      "asr": "Pain",
+      "start": 330.98
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "terno.",
+      "asr": "terninho.",
+      "start": 332.14
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro dia dezenove, três",
+      "asr": "o Projeto 19, 3",
+      "start": 333.72
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Um: olha",
+      "asr": "1. Olhe",
+      "start": 336.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 339.1
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Dois:",
+      "asr": "2.",
+      "start": 340.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 341.9
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Três:",
+      "asr": "3.",
+      "start": 345.02
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas",
+      "asr": "cotamalas",
+      "start": 349.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Cinquenta",
+      "asr": "50",
+      "start": 353.42
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "a",
+      "asr": "",
+      "start": 354.7
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "E me conta aí:",
+      "asr": "",
+      "start": 356.4
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezenove,",
+      "asr": "19,",
+      "start": 356.94
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "com ele",
+      "asr": "-coira",
+      "start": 359.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quinze",
+      "asr": "15",
+      "start": 361.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quadro",
+      "asr": "quadra",
+      "start": 363.76
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quadro",
+      "asr": "quadra",
+      "start": 364.32
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "onze",
+      "asr": "11",
+      "start": 365.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 367.84
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 369.9
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dez.",
+      "asr": "10.",
+      "start": 373.72
+    }
+  ],
+  "possiveis_omissoes": [
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas.",
+      "asr": "porta -malas.",
+      "start": 1.18
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas do",
+      "asr": "porta -malas no",
+      "start": 3.62
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Abri.",
+      "asr": "Abrir.",
+      "start": 5.9
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "estepe.",
+      "asr": "step.",
+      "start": 9.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Buffalo",
+      "asr": "um bufo allow",
+      "start": 16.2
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "de óculos",
+      "asr": "Dióculos",
+      "start": 26.48
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "moletom,",
+      "asr": "monetom,",
+      "start": 27.52
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas",
+      "asr": "porta -malas",
+      "start": 33.0
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "trunk.",
+      "asr": "Trunks,",
+      "start": 43.62
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas.",
+      "asr": "porta -malas.",
+      "start": 44.84
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "a",
+      "start": 49.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "para o",
+      "start": 55.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas.",
+      "asr": "porta -malas,",
+      "start": 58.68
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "uma",
+      "asr": "um",
+      "start": 69.04
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Começa",
+      "asr": "Comece",
+      "start": 71.92
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para a",
+      "start": 82.48
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "da",
+      "asr": "na",
+      "start": 91.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "numa",
+      "asr": "em uma",
+      "start": 92.52
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Lucia desce,",
+      "asr": "luz se adece",
+      "start": 97.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "bandana",
+      "asr": "banana",
+      "start": 98.64
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "a",
+      "start": 109.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "numa van",
+      "asr": "em um avão",
+      "start": 111.14
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "um",
+      "start": 112.22
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Burrito",
+      "asr": "borrito",
+      "start": 112.88
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "van",
+      "asr": "vã",
+      "start": 115.62
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 126.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Lucia larga o",
+      "asr": "luz se alarga ao",
+      "start": 128.82
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "van.",
+      "asr": "vã.",
+      "start": 130.88
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Comparsa,",
+      "asr": "Compaça,",
+      "start": 136.64
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "trocar",
+      "asr": "troca",
+      "start": 140.64
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "o",
+      "start": 145.52
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "bufê.",
+      "asr": "bife.",
+      "start": 160.34
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "conversível",
+      "asr": "comecível",
+      "start": 165.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Lucia no",
+      "asr": "luz sendo um",
+      "start": 168.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Jason",
+      "asr": "diesel",
+      "start": 170.72
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra aba",
+      "asr": "praba",
+      "start": 173.76
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Lucia desce",
+      "asr": "luz se adessa",
+      "start": 183.68
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "We",
+      "asr": "ouí",
+      "start": 187.32
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "a",
+      "start": 190.14
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Conserta",
+      "asr": "Com certa",
+      "start": 191.64
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "para-choque.",
+      "asr": "para choque.",
+      "start": 193.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "conversível",
+      "asr": "comecível",
+      "start": 194.56
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Jason",
+      "asr": "diesel",
+      "start": 196.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Sentinel",
+      "asr": "cento, não,",
+      "start": 200.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "recolhe",
+      "asr": "recole",
+      "start": 204.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Mesma",
+      "asr": "Mesmo a",
+      "start": 214.86
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "sorteado",
+      "asr": "sortiado",
+      "start": 218.94
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "seis: abrir",
+      "asr": "6. Abre",
+      "start": 227.54
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "grade,",
+      "asr": "Crade,",
+      "start": 243.98
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "ilegal.",
+      "asr": "legal.",
+      "start": 267.42
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "a",
+      "start": 270.4
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "nem",
+      "asr": "na",
+      "start": 271.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Ilegal,",
+      "asr": "E legal",
+      "start": 272.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "honestidade:",
+      "asr": "na estidade.",
+      "start": 277.84
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Rideout",
+      "asr": "Ride Out",
+      "start": 287.28
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "o",
+      "start": 289.82
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "naipe",
+      "asr": "nipes",
+      "start": 291.82
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "prancheta",
+      "asr": "pranchita",
+      "start": 299.1
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Ganado Retro Build,",
+      "asr": "ganada RetroBuild.",
+      "start": 301.84
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "ferro-velho, peças",
+      "asr": "ferro velho. Pestas",
+      "start": 312.16
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "prancheta em",
+      "asr": "pranchita e",
+      "start": 316.26
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "",
+      "asr": "a",
+      "start": 317.5
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dá pra",
+      "asr": "ir lá para",
+      "start": 327.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 328.38
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Pay and",
+      "asr": "Pain",
+      "start": 330.98
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "terno.",
+      "asr": "terninho.",
+      "start": 332.14
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro dia dezenove, três",
+      "asr": "o Projeto 19, 3",
+      "start": 333.72
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Um: olha",
+      "asr": "1. Olhe",
+      "start": 336.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 339.1
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 341.9
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "porta-malas",
+      "asr": "cotamalas",
+      "start": 349.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "com ele",
+      "asr": "-coira",
+      "start": 359.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quadro",
+      "asr": "quadra",
+      "start": 363.76
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quadro",
+      "asr": "quadra",
+      "start": 364.32
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 367.84
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 369.9
+    }
+  ],
+  "tags_faladas": [],
+  "palavras_baixa_confianca": [
+    {
+      "word": "step.",
+      "start": 9.42,
+      "probability": 0.2844
+    },
+    {
+      "word": "tá",
+      "start": 14.22,
+      "probability": 0.4453
+    },
+    {
+      "word": "um",
+      "start": 16.2,
+      "probability": 0.2753
+    },
+    {
+      "word": "bufo",
+      "start": 16.4,
+      "probability": 0.4841
+    },
+    {
+      "word": "allow",
+      "start": 16.52,
+      "probability": 0.3023
+    },
+    {
+      "word": "disso",
+      "start": 25.04,
+      "probability": 0.3832
+    },
+    {
+      "word": "monetom,",
+      "start": 27.52,
+      "probability": 0.4034
+    },
+    {
+      "word": "porta",
+      "start": 33.0,
+      "probability": 0.4132
+    },
+    {
+      "word": "e",
+      "start": 41.16,
+      "probability": 0.3621
+    },
+    {
+      "word": "King",
+      "start": 42.88,
+      "probability": 0.0691
+    },
+    {
+      "word": "of",
+      "start": 43.44,
+      "probability": 0.4795
+    },
+    {
+      "word": "Então,",
+      "start": 49.92,
+      "probability": 0.0996
+    },
+    {
+      "word": "cinco",
+      "start": 54.62,
+      "probability": 0.4614
+    },
+    {
+      "word": "6.",
+      "start": 61.62,
+      "probability": 0.2705
+    },
+    {
+      "word": "Comece",
+      "start": 71.92,
+      "probability": 0.1538
+    },
+    {
+      "word": "tá",
+      "start": 88.56,
+      "probability": 0.3962
+    },
+    {
+      "word": "No",
+      "start": 89.64,
+      "probability": 0.3221
+    },
+    {
+      "word": "sedã",
+      "start": 91.74,
+      "probability": 0.3707
+    },
+    {
+      "word": "em",
+      "start": 92.52,
+      "probability": 0.2721
+    },
+    {
+      "word": "de",
+      "start": 98.34,
+      "probability": 0.3502
+    },
+    {
+      "word": "nesse",
+      "start": 99.86,
+      "probability": 0.4434
+    },
+    {
+      "word": "em",
+      "start": 111.14,
+      "probability": 0.3135
+    },
+    {
+      "word": "um",
+      "start": 111.3,
+      "probability": 0.3538
+    },
+    {
+      "word": "declasse",
+      "start": 112.52,
+      "probability": 0.4373
+    },
+    {
+      "word": "A",
+      "start": 115.2,
+      "probability": 0.1106
+    },
+    {
+      "word": "vã",
+      "start": 115.62,
+      "probability": 0.3073
+    },
+    {
+      "word": "para",
+      "start": 126.66,
+      "probability": 0.3271
+    },
+    {
+      "word": "tem",
+      "start": 135.18,
+      "probability": 0.2358
+    },
+    {
+      "word": "Se",
+      "start": 139.48,
+      "probability": 0.0367
+    },
+    {
+      "word": "o",
+      "start": 145.52,
+      "probability": 0.3261
+    },
+    {
+      "word": "Pay",
+      "start": 146.84,
+      "probability": 0.3422
+    },
+    {
+      "word": "and",
+      "start": 147.14,
+      "probability": 0.1883
+    },
+    {
+      "word": "serve",
+      "start": 162.48,
+      "probability": 0.421
+    },
+    {
+      "word": "luz",
+      "start": 168.42,
+      "probability": 0.1055
+    },
+    {
+      "word": "um",
+      "start": 168.64,
+      "probability": 0.4841
+    },
+    {
+      "word": "diesel",
+      "start": 170.72,
+      "probability": 0.2147
+    },
+    {
+      "word": "Um",
+      "start": 175.28,
+      "probability": 0.4146
+    },
+    {
+      "word": "se",
+      "start": 183.84,
+      "probability": 0.3462
+    },
+    {
+      "word": "adessa",
+      "start": 183.96,
+      "probability": 0.4224
+    },
+    {
+      "word": "ouí",
+      "start": 187.32,
+      "probability": 0.4491
+    },
+    {
+      "word": "repairs",
+      "start": 187.92,
+      "probability": 0.4878
+    },
+    {
+      "word": "É",
+      "start": 189.46,
+      "probability": 0.0211
+    },
+    {
+      "word": "diesel",
+      "start": 196.24,
+      "probability": 0.031
+    },
+    {
+      "word": "pra",
+      "start": 206.0,
+      "probability": 0.4691
+    },
+    {
+      "word": "Não",
+      "start": 217.94,
+      "probability": 0.062
+    },
+    {
+      "word": "Pra",
+      "start": 224.4,
+      "probability": 0.3048
+    },
+    {
+      "word": "No",
+      "start": 247.26,
+      "probability": 0.2573
+    },
+    {
+      "word": "20",
+      "start": 248.04,
+      "probability": 0.3062
+    },
+    {
+      "word": "6",
+      "start": 249.6,
+      "probability": 0.4038
+    },
+    {
+      "word": "na",
+      "start": 271.42,
+      "probability": 0.3805
+    },
+    {
+      "word": "E",
+      "start": 274.82,
+      "probability": 0.0954
+    },
+    {
+      "word": "na",
+      "start": 277.84,
+      "probability": 0.452
+    },
+    {
+      "word": "gameplay",
+      "start": 279.84,
+      "probability": 0.2737
+    },
+    {
+      "word": "o",
+      "start": 289.82,
+      "probability": 0.3895
+    },
+    {
+      "word": "pranchita",
+      "start": 299.1,
+      "probability": 0.4562
+    },
+    {
+      "word": "pranchita",
+      "start": 316.26,
+      "probability": 0.2864
+    },
+    {
+      "word": "e",
+      "start": 316.68,
+      "probability": 0.2909
+    },
+    {
+      "word": "Nem",
+      "start": 326.4,
+      "probability": 0.0391
+    },
+    {
+      "word": "ir",
+      "start": 327.28,
+      "probability": 0.3661
+    },
+    {
+      "word": "cor",
+      "start": 327.92,
+      "probability": 0.2825
+    },
+    {
+      "word": "Pain",
+      "start": 330.98,
+      "probability": 0.1273
+    },
+    {
+      "word": "o",
+      "start": 333.72,
+      "probability": 0.2393
+    },
+    {
+      "word": "para",
+      "start": 367.84,
+      "probability": 0.3276
+    },
+    {
+      "word": "andar",
+      "start": 372.3,
+      "probability": 0.4931
+    },
+    {
+      "word": "mão",
+      "start": 372.84,
+      "probability": 0.3874
+    }
+  ]
+}

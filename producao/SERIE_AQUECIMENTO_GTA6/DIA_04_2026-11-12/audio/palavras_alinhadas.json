@@ -1,0 +1,5606 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.36,
+    "word": "Você",
+    "probability": 0.3779
+  },
+  {
+    "start": 0.36,
+    "end": 0.42,
+    "word": "é",
+    "probability": 0.9875
+  },
+  {
+    "start": 0.42,
+    "end": 0.64,
+    "word": "normal",
+    "probability": 0.9189
+  },
+  {
+    "start": 0.64,
+    "end": 0.98,
+    "word": "perto",
+    "probability": 0.9818
+  },
+  {
+    "start": 0.98,
+    "end": 1.18,
+    "word": "de",
+    "probability": 0.9692
+  },
+  {
+    "start": 1.18,
+    "end": 1.6,
+    "word": "Leonida.",
+    "probability": 0.5603
+  },
+  {
+    "start": 2.36,
+    "end": 2.88,
+    "word": "Faltam",
+    "probability": 0.8288
+  },
+  {
+    "start": 2.88,
+    "end": 3.28,
+    "word": "exatamente",
+    "probability": 0.9813
+  },
+  {
+    "start": 3.28,
+    "end": 3.68,
+    "word": "sete",
+    "probability": 0.7177
+  },
+  {
+    "start": 3.68,
+    "end": 3.96,
+    "word": "dias",
+    "probability": 0.9959
+  },
+  {
+    "start": 3.96,
+    "end": 4.12,
+    "word": "pro",
+    "probability": 0.3188
+  },
+  {
+    "start": 4.12,
+    "end": 4.36,
+    "word": "lançamento",
+    "probability": 0.987
+  },
+  {
+    "start": 4.36,
+    "end": 4.58,
+    "word": "do",
+    "probability": 0.4998
+  },
+  {
+    "start": 4.58,
+    "end": 4.72,
+    "word": "GTA",
+    "probability": 0.8016
+  },
+  {
+    "start": 4.72,
+    "end": 5.2,
+    "word": "seis",
+    "probability": 0.4263
+  },
+  {
+    "start": 5.2,
+    "end": 5.64,
+    "word": "no",
+    "probability": 0.6403
+  },
+  {
+    "start": 5.64,
+    "end": 5.74,
+    "word": "dia",
+    "probability": 0.993
+  },
+  {
+    "start": 5.74,
+    "end": 6.06,
+    "word": "dezenove",
+    "probability": 0.9844
+  },
+  {
+    "start": 6.06,
+    "end": 6.2,
+    "word": "de",
+    "probability": 0.993
+  },
+  {
+    "start": 6.2,
+    "end": 6.66,
+    "word": "novembro,",
+    "probability": 0.9666
+  },
+  {
+    "start": 6.9,
+    "end": 7.54,
+    "word": "e",
+    "probability": 0.9541
+  },
+  {
+    "start": 7.54,
+    "end": 7.6,
+    "word": "se",
+    "probability": 0.978
+  },
+  {
+    "start": 7.6,
+    "end": 7.8,
+    "word": "você",
+    "probability": 0.9713
+  },
+  {
+    "start": 7.8,
+    "end": 7.96,
+    "word": "ainda",
+    "probability": 0.9983
+  },
+  {
+    "start": 7.96,
+    "end": 8.16,
+    "word": "acha",
+    "probability": 0.9924
+  },
+  {
+    "start": 8.16,
+    "end": 8.28,
+    "word": "que",
+    "probability": 0.9985
+  },
+  {
+    "start": 8.28,
+    "end": 8.36,
+    "word": "os",
+    "probability": 0.9862
+  },
+  {
+    "start": 8.36,
+    "end": 8.7,
+    "word": "pedestres",
+    "probability": 0.8388
+  },
+  {
+    "start": 8.7,
+    "end": 8.82,
+    "word": "do",
+    "probability": 0.9757
+  },
+  {
+    "start": 8.82,
+    "end": 9.08,
+    "word": "jogo",
+    "probability": 0.9972
+  },
+  {
+    "start": 9.08,
+    "end": 9.38,
+    "word": "são",
+    "probability": 0.9938
+  },
+  {
+    "start": 9.38,
+    "end": 9.62,
+    "word": "aqueles",
+    "probability": 0.9772
+  },
+  {
+    "start": 9.62,
+    "end": 10.1,
+    "word": "bonecos",
+    "probability": 0.9665
+  },
+  {
+    "start": 10.1,
+    "end": 10.34,
+    "word": "sem",
+    "probability": 0.9867
+  },
+  {
+    "start": 10.34,
+    "end": 10.6,
+    "word": "alma",
+    "probability": 0.9618
+  },
+  {
+    "start": 10.6,
+    "end": 10.86,
+    "word": "que",
+    "probability": 0.6959
+  },
+  {
+    "start": 10.86,
+    "end": 11.24,
+    "word": "só",
+    "probability": 0.9471
+  },
+  {
+    "start": 11.24,
+    "end": 11.5,
+    "word": "andam",
+    "probability": 0.9842
+  },
+  {
+    "start": 11.5,
+    "end": 11.68,
+    "word": "em",
+    "probability": 0.9749
+  },
+  {
+    "start": 11.68,
+    "end": 11.82,
+    "word": "linha",
+    "probability": 0.9616
+  },
+  {
+    "start": 11.82,
+    "end": 12.14,
+    "word": "reta",
+    "probability": 0.993
+  },
+  {
+    "start": 12.14,
+    "end": 12.44,
+    "word": "esperando",
+    "probability": 0.9292
+  },
+  {
+    "start": 12.44,
+    "end": 12.78,
+    "word": "você",
+    "probability": 0.9866
+  },
+  {
+    "start": 12.78,
+    "end": 13.0,
+    "word": "passar",
+    "probability": 0.9603
+  },
+  {
+    "start": 13.0,
+    "end": 13.24,
+    "word": "por",
+    "probability": 0.9982
+  },
+  {
+    "start": 13.24,
+    "end": 13.42,
+    "word": "cima",
+    "probability": 0.9974
+  },
+  {
+    "start": 13.42,
+    "end": 13.58,
+    "word": "com",
+    "probability": 0.99
+  },
+  {
+    "start": 13.58,
+    "end": 13.88,
+    "word": "o",
+    "probability": 0.5604
+  },
+  {
+    "start": 13.88,
+    "end": 13.88,
+    "word": "carro,",
+    "probability": 0.9993
+  },
+  {
+    "start": 14.42,
+    "end": 15.18,
+    "word": "você",
+    "probability": 0.7039
+  },
+  {
+    "start": 15.18,
+    "end": 15.28,
+    "word": "ainda",
+    "probability": 0.9859
+  },
+  {
+    "start": 15.28,
+    "end": 15.42,
+    "word": "não",
+    "probability": 0.9772
+  },
+  {
+    "start": 15.42,
+    "end": 15.8,
+    "word": "entendeu",
+    "probability": 0.9858
+  },
+  {
+    "start": 15.8,
+    "end": 16.42,
+    "word": "o",
+    "probability": 0.9648
+  },
+  {
+    "start": 16.42,
+    "end": 16.52,
+    "word": "que",
+    "probability": 0.9762
+  },
+  {
+    "start": 16.52,
+    "end": 16.64,
+    "word": "é",
+    "probability": 0.9555
+  },
+  {
+    "start": 16.64,
+    "end": 16.72,
+    "word": "o",
+    "probability": 0.9789
+  },
+  {
+    "start": 16.72,
+    "end": 16.9,
+    "word": "estado",
+    "probability": 0.9675
+  },
+  {
+    "start": 16.9,
+    "end": 17.04,
+    "word": "de",
+    "probability": 0.9918
+  },
+  {
+    "start": 17.04,
+    "end": 17.44,
+    "word": "Leonida.",
+    "probability": 0.984
+  },
+  {
+    "start": 18.5,
+    "end": 18.74,
+    "word": "A",
+    "probability": 0.9092
+  },
+  {
+    "start": 18.74,
+    "end": 19.06,
+    "word": "Rockstar",
+    "probability": 0.8292
+  },
+  {
+    "start": 19.06,
+    "end": 19.4,
+    "word": "pegou",
+    "probability": 0.9889
+  },
+  {
+    "start": 19.4,
+    "end": 19.86,
+    "word": "décadas",
+    "probability": 0.959
+  },
+  {
+    "start": 19.86,
+    "end": 20.02,
+    "word": "de",
+    "probability": 0.9966
+  },
+  {
+    "start": 20.02,
+    "end": 20.36,
+    "word": "notícias",
+    "probability": 0.9787
+  },
+  {
+    "start": 20.36,
+    "end": 21.04,
+    "word": "bizarras",
+    "probability": 0.9825
+  },
+  {
+    "start": 21.04,
+    "end": 21.16,
+    "word": "da",
+    "probability": 0.4395
+  },
+  {
+    "start": 21.16,
+    "end": 21.46,
+    "word": "Flórida",
+    "probability": 0.5585
+  },
+  {
+    "start": 21.46,
+    "end": 21.8,
+    "word": "real",
+    "probability": 0.7859
+  },
+  {
+    "start": 21.8,
+    "end": 22.32,
+    "word": "e",
+    "probability": 0.8957
+  },
+  {
+    "start": 22.32,
+    "end": 22.48,
+    "word": "usou",
+    "probability": 0.9891
+  },
+  {
+    "start": 22.48,
+    "end": 22.62,
+    "word": "essa",
+    "probability": 0.99
+  },
+  {
+    "start": 22.62,
+    "end": 23.04,
+    "word": "energia",
+    "probability": 0.9993
+  },
+  {
+    "start": 23.04,
+    "end": 23.26,
+    "word": "pra",
+    "probability": 0.7334
+  },
+  {
+    "start": 23.26,
+    "end": 23.58,
+    "word": "montar",
+    "probability": 0.9847
+  },
+  {
+    "start": 23.58,
+    "end": 23.72,
+    "word": "um",
+    "probability": 0.9474
+  },
+  {
+    "start": 23.72,
+    "end": 24.16,
+    "word": "hospício",
+    "probability": 0.9019
+  },
+  {
+    "start": 24.16,
+    "end": 24.32,
+    "word": "a",
+    "probability": 0.904
+  },
+  {
+    "start": 24.32,
+    "end": 24.46,
+    "word": "céu",
+    "probability": 0.7331
+  },
+  {
+    "start": 24.46,
+    "end": 24.78,
+    "word": "aberto.",
+    "probability": 0.7671
+  },
+  {
+    "start": 25.34,
+    "end": 25.82,
+    "word": "E",
+    "probability": 0.2913
+  },
+  {
+    "start": 25.82,
+    "end": 26.04,
+    "word": "repara",
+    "probability": 0.699
+  },
+  {
+    "start": 26.04,
+    "end": 26.24,
+    "word": "nessa",
+    "probability": 0.8993
+  },
+  {
+    "start": 26.24,
+    "end": 26.5,
+    "word": "cena",
+    "probability": 0.9733
+  },
+  {
+    "start": 26.5,
+    "end": 26.64,
+    "word": "de",
+    "probability": 0.9844
+  },
+  {
+    "start": 26.64,
+    "end": 26.86,
+    "word": "dez",
+    "probability": 0.8928
+  },
+  {
+    "start": 26.86,
+    "end": 27.22,
+    "word": "segundos",
+    "probability": 0.9709
+  },
+  {
+    "start": 27.22,
+    "end": 27.48,
+    "word": "dentro",
+    "probability": 0.9631
+  },
+  {
+    "start": 27.48,
+    "end": 27.68,
+    "word": "do",
+    "probability": 0.9818
+  },
+  {
+    "start": 27.68,
+    "end": 28.04,
+    "word": "elevador",
+    "probability": 0.9958
+  },
+  {
+    "start": 28.04,
+    "end": 28.16,
+    "word": "no",
+    "probability": 0.806
+  },
+  {
+    "start": 28.16,
+    "end": 28.42,
+    "word": "minuto",
+    "probability": 0.8995
+  },
+  {
+    "start": 28.42,
+    "end": 28.78,
+    "word": "nove",
+    "probability": 0.9492
+  },
+  {
+    "start": 28.78,
+    "end": 29.02,
+    "word": "e",
+    "probability": 0.6559
+  },
+  {
+    "start": 29.02,
+    "end": 29.3,
+    "word": "quarenta",
+    "probability": 0.9367
+  },
+  {
+    "start": 29.3,
+    "end": 29.54,
+    "word": "do",
+    "probability": 0.8679
+  },
+  {
+    "start": 29.54,
+    "end": 29.72,
+    "word": "gameplay.",
+    "probability": 0.5053
+  },
+  {
+    "start": 30.6,
+    "end": 30.84,
+    "word": "A",
+    "probability": 0.9727
+  },
+  {
+    "start": 30.84,
+    "end": 31.06,
+    "word": "porta",
+    "probability": 0.9911
+  },
+  {
+    "start": 31.06,
+    "end": 31.52,
+    "word": "demora",
+    "probability": 0.9918
+  },
+  {
+    "start": 31.52,
+    "end": 31.7,
+    "word": "a",
+    "probability": 0.8751
+  },
+  {
+    "start": 31.7,
+    "end": 31.86,
+    "word": "abrir,",
+    "probability": 0.9603
+  },
+  {
+    "start": 32.3,
+    "end": 32.36,
+    "word": "e",
+    "probability": 0.9725
+  },
+  {
+    "start": 32.36,
+    "end": 32.44,
+    "word": "o",
+    "probability": 0.9487
+  },
+  {
+    "start": 32.44,
+    "end": 32.58,
+    "word": "jeito",
+    "probability": 0.9893
+  },
+  {
+    "start": 32.58,
+    "end": 32.8,
+    "word": "como",
+    "probability": 0.8526
+  },
+  {
+    "start": 32.8,
+    "end": 32.88,
+    "word": "a",
+    "probability": 0.6936
+  },
+  {
+    "start": 32.88,
+    "end": 33.06,
+    "word": "mulher",
+    "probability": 0.9943
+  },
+  {
+    "start": 33.06,
+    "end": 33.2,
+    "word": "de",
+    "probability": 0.988
+  },
+  {
+    "start": 33.2,
+    "end": 33.46,
+    "word": "rosa",
+    "probability": 0.9833
+  },
+  {
+    "start": 33.46,
+    "end": 33.64,
+    "word": "se",
+    "probability": 0.9955
+  },
+  {
+    "start": 33.64,
+    "end": 34.04,
+    "word": "posiciona",
+    "probability": 0.994
+  },
+  {
+    "start": 34.04,
+    "end": 34.12,
+    "word": "ao",
+    "probability": 0.8567
+  },
+  {
+    "start": 34.12,
+    "end": 34.22,
+    "word": "lado",
+    "probability": 0.9961
+  },
+  {
+    "start": 34.22,
+    "end": 34.38,
+    "word": "do",
+    "probability": 0.8816
+  },
+  {
+    "start": 34.38,
+    "end": 34.66,
+    "word": "Jason",
+    "probability": 0.9088
+  },
+  {
+    "start": 34.66,
+    "end": 35.32,
+    "word": "já",
+    "probability": 0.9122
+  },
+  {
+    "start": 35.32,
+    "end": 35.56,
+    "word": "rende",
+    "probability": 0.9755
+  },
+  {
+    "start": 35.56,
+    "end": 35.76,
+    "word": "mais",
+    "probability": 0.9825
+  },
+  {
+    "start": 35.76,
+    "end": 36.16,
+    "word": "tensão",
+    "probability": 0.9169
+  },
+  {
+    "start": 36.16,
+    "end": 36.28,
+    "word": "que",
+    "probability": 0.9245
+  },
+  {
+    "start": 36.28,
+    "end": 36.36,
+    "word": "em",
+    "probability": 0.9252
+  },
+  {
+    "start": 36.36,
+    "end": 36.56,
+    "word": "muito",
+    "probability": 0.3045
+  },
+  {
+    "start": 36.56,
+    "end": 37.1,
+    "word": "tiroteio.",
+    "probability": 0.9266
+  },
+  {
+    "start": 37.86,
+    "end": 38.24,
+    "word": "No",
+    "probability": 0.8075
+  },
+  {
+    "start": 38.24,
+    "end": 38.44,
+    "word": "GTA",
+    "probability": 0.7407
+  },
+  {
+    "start": 38.44,
+    "end": 38.82,
+    "word": "cinco,",
+    "probability": 0.4506
+  },
+  {
+    "start": 38.86,
+    "end": 39.24,
+    "word": "todo",
+    "probability": 0.6687
+  },
+  {
+    "start": 39.24,
+    "end": 39.72,
+    "word": "habitante",
+    "probability": 0.9515
+  },
+  {
+    "start": 39.72,
+    "end": 39.88,
+    "word": "de",
+    "probability": 0.982
+  },
+  {
+    "start": 39.88,
+    "end": 40.06,
+    "word": "Los",
+    "probability": 0.8164
+  },
+  {
+    "start": 40.06,
+    "end": 40.24,
+    "word": "Santos",
+    "probability": 0.9446
+  },
+  {
+    "start": 40.24,
+    "end": 40.74,
+    "word": "funcionava",
+    "probability": 0.9953
+  },
+  {
+    "start": 40.74,
+    "end": 41.04,
+    "word": "igual",
+    "probability": 0.9787
+  },
+  {
+    "start": 41.04,
+    "end": 41.42,
+    "word": "um",
+    "probability": 0.8521
+  },
+  {
+    "start": 41.42,
+    "end": 42.24,
+    "word": "liquidificador",
+    "probability": 0.9349
+  },
+  {
+    "start": 42.24,
+    "end": 42.42,
+    "word": "de",
+    "probability": 0.9843
+  },
+  {
+    "start": 42.42,
+    "end": 42.6,
+    "word": "duas",
+    "probability": 0.6927
+  },
+  {
+    "start": 42.6,
+    "end": 43.16,
+    "word": "velocidades:",
+    "probability": 0.9865
+  },
+  {
+    "start": 43.98,
+    "end": 44.2,
+    "word": "o",
+    "probability": 0.3597
+  },
+  {
+    "start": 44.2,
+    "end": 44.4,
+    "word": "cara",
+    "probability": 0.965
+  },
+  {
+    "start": 44.4,
+    "end": 44.72,
+    "word": "andava",
+    "probability": 0.9865
+  },
+  {
+    "start": 44.72,
+    "end": 45.06,
+    "word": "olhando",
+    "probability": 0.9939
+  },
+  {
+    "start": 45.06,
+    "end": 45.32,
+    "word": "pro",
+    "probability": 0.4857
+  },
+  {
+    "start": 45.32,
+    "end": 45.56,
+    "word": "nada",
+    "probability": 0.9582
+  },
+  {
+    "start": 45.84,
+    "end": 46.28,
+    "word": "repetindo",
+    "probability": 0.9905
+  },
+  {
+    "start": 46.28,
+    "end": 46.46,
+    "word": "as",
+    "probability": 0.9804
+  },
+  {
+    "start": 46.46,
+    "end": 46.72,
+    "word": "mesmas",
+    "probability": 0.9615
+  },
+  {
+    "start": 46.72,
+    "end": 46.98,
+    "word": "duas",
+    "probability": 0.9595
+  },
+  {
+    "start": 46.98,
+    "end": 47.54,
+    "word": "frases",
+    "probability": 0.8653
+  },
+  {
+    "start": 47.54,
+    "end": 48.4,
+    "word": "gravadas,",
+    "probability": 0.9817
+  },
+  {
+    "start": 48.72,
+    "end": 48.78,
+    "word": "ou",
+    "probability": 0.9661
+  },
+  {
+    "start": 48.78,
+    "end": 48.96,
+    "word": "ele",
+    "probability": 0.8712
+  },
+  {
+    "start": 48.96,
+    "end": 49.2,
+    "word": "saía",
+    "probability": 0.689
+  },
+  {
+    "start": 49.2,
+    "end": 49.6,
+    "word": "correndo",
+    "probability": 0.9866
+  },
+  {
+    "start": 49.6,
+    "end": 49.78,
+    "word": "dando",
+    "probability": 0.4741
+  },
+  {
+    "start": 49.78,
+    "end": 50.28,
+    "word": "gritinho",
+    "probability": 0.7612
+  },
+  {
+    "start": 50.28,
+    "end": 50.44,
+    "word": "quando",
+    "probability": 0.9567
+  },
+  {
+    "start": 50.44,
+    "end": 50.72,
+    "word": "você",
+    "probability": 0.7182
+  },
+  {
+    "start": 50.72,
+    "end": 51.14,
+    "word": "esbarrava",
+    "probability": 0.725
+  },
+  {
+    "start": 51.14,
+    "end": 51.24,
+    "word": "no",
+    "probability": 0.8885
+  },
+  {
+    "start": 51.24,
+    "end": 51.42,
+    "word": "ombro",
+    "probability": 0.7396
+  },
+  {
+    "start": 51.42,
+    "end": 51.64,
+    "word": "dele.",
+    "probability": 0.9642
+  },
+  {
+    "start": 52.46,
+    "end": 52.74,
+    "word": "O",
+    "probability": 0.1411
+  },
+  {
+    "start": 52.74,
+    "end": 52.98,
+    "word": "mundo",
+    "probability": 0.9056
+  },
+  {
+    "start": 52.98,
+    "end": 53.18,
+    "word": "só",
+    "probability": 0.9695
+  },
+  {
+    "start": 53.18,
+    "end": 53.78,
+    "word": "existia",
+    "probability": 0.9903
+  },
+  {
+    "start": 53.78,
+    "end": 54.0,
+    "word": "quando",
+    "probability": 0.9524
+  },
+  {
+    "start": 54.0,
+    "end": 54.4,
+    "word": "você",
+    "probability": 0.9926
+  },
+  {
+    "start": 54.4,
+    "end": 54.8,
+    "word": "fazia",
+    "probability": 0.9439
+  },
+  {
+    "start": 54.8,
+    "end": 54.98,
+    "word": "alguma",
+    "probability": 0.8508
+  },
+  {
+    "start": 54.98,
+    "end": 55.28,
+    "word": "coisa.",
+    "probability": 0.9975
+  },
+  {
+    "start": 56.08,
+    "end": 56.64,
+    "word": "Agora",
+    "probability": 0.8567
+  },
+  {
+    "start": 56.9,
+    "end": 57.2,
+    "word": "olha",
+    "probability": 0.9165
+  },
+  {
+    "start": 57.2,
+    "end": 57.3,
+    "word": "o",
+    "probability": 0.9667
+  },
+  {
+    "start": 57.3,
+    "end": 57.32,
+    "word": "que",
+    "probability": 0.9984
+  },
+  {
+    "start": 57.32,
+    "end": 57.86,
+    "word": "acontece",
+    "probability": 0.9958
+  },
+  {
+    "start": 57.86,
+    "end": 58.28,
+    "word": "entre",
+    "probability": 0.9157
+  },
+  {
+    "start": 58.28,
+    "end": 58.38,
+    "word": "o",
+    "probability": 0.9098
+  },
+  {
+    "start": 58.38,
+    "end": 58.64,
+    "word": "minuto",
+    "probability": 0.8218
+  },
+  {
+    "start": 58.64,
+    "end": 59.12,
+    "word": "nove",
+    "probability": 0.8114
+  },
+  {
+    "start": 59.12,
+    "end": 59.86,
+    "word": "e",
+    "probability": 0.8
+  },
+  {
+    "start": 59.86,
+    "end": 59.9,
+    "word": "o",
+    "probability": 0.4826
+  },
+  {
+    "start": 59.9,
+    "end": 60.1,
+    "word": "minuto",
+    "probability": 0.9581
+  },
+  {
+    "start": 60.1,
+    "end": 60.32,
+    "word": "nove",
+    "probability": 0.9734
+  },
+  {
+    "start": 60.32,
+    "end": 60.46,
+    "word": "e",
+    "probability": 0.254
+  },
+  {
+    "start": 60.46,
+    "end": 60.613,
+    "word": "trinta",
+    "probability": 0.9515
+  },
+  {
+    "start": 60.613,
+    "end": 60.767,
+    "word": "e",
+    "probability": 0.9515
+  },
+  {
+    "start": 60.767,
+    "end": 60.92,
+    "word": "cinco",
+    "probability": 0.9515
+  },
+  {
+    "start": 60.92,
+    "end": 61.2,
+    "word": "do",
+    "probability": 0.8131
+  },
+  {
+    "start": 61.2,
+    "end": 61.38,
+    "word": "gameplay",
+    "probability": 0.8017
+  },
+  {
+    "start": 61.38,
+    "end": 61.7,
+    "word": "de",
+    "probability": 0.5514
+  },
+  {
+    "start": 61.7,
+    "end": 61.86,
+    "word": "GTA",
+    "probability": 0.6472
+  },
+  {
+    "start": 61.86,
+    "end": 62.22,
+    "word": "seis,",
+    "probability": 0.5533
+  },
+  {
+    "start": 62.72,
+    "end": 63.04,
+    "word": "sem",
+    "probability": 0.8618
+  },
+  {
+    "start": 63.04,
+    "end": 63.16,
+    "word": "o",
+    "probability": 0.599
+  },
+  {
+    "start": 63.16,
+    "end": 63.48,
+    "word": "jogador",
+    "probability": 0.9949
+  },
+  {
+    "start": 63.48,
+    "end": 63.82,
+    "word": "precisar",
+    "probability": 0.6074
+  },
+  {
+    "start": 63.82,
+    "end": 63.96,
+    "word": "dar",
+    "probability": 0.9773
+  },
+  {
+    "start": 63.96,
+    "end": 64.22,
+    "word": "um",
+    "probability": 0.9827
+  },
+  {
+    "start": 64.22,
+    "end": 64.5,
+    "word": "único",
+    "probability": 0.9422
+  },
+  {
+    "start": 64.5,
+    "end": 64.8,
+    "word": "tiro.",
+    "probability": 0.9943
+  },
+  {
+    "start": 65.78,
+    "end": 66.34,
+    "word": "No",
+    "probability": 0.9397
+  },
+  {
+    "start": 66.34,
+    "end": 66.58,
+    "word": "minuto",
+    "probability": 0.9957
+  },
+  {
+    "start": 66.58,
+    "end": 66.8,
+    "word": "nove",
+    "probability": 0.9682
+  },
+  {
+    "start": 66.8,
+    "end": 67.54,
+    "word": "cravado,",
+    "probability": 0.8741
+  },
+  {
+    "start": 67.54,
+    "end": 68.1,
+    "word": "tem",
+    "probability": 0.5296
+  },
+  {
+    "start": 68.1,
+    "end": 68.18,
+    "word": "um",
+    "probability": 0.9814
+  },
+  {
+    "start": 68.18,
+    "end": 68.56,
+    "word": "cidadão",
+    "probability": 0.9948
+  },
+  {
+    "start": 68.56,
+    "end": 68.66,
+    "word": "de",
+    "probability": 0.9936
+  },
+  {
+    "start": 68.66,
+    "end": 68.98,
+    "word": "bermuda",
+    "probability": 0.8176
+  },
+  {
+    "start": 68.98,
+    "end": 69.32,
+    "word": "rosa",
+    "probability": 0.9822
+  },
+  {
+    "start": 69.32,
+    "end": 69.76,
+    "word": "saltando",
+    "probability": 0.9819
+  },
+  {
+    "start": 69.76,
+    "end": 69.98,
+    "word": "lá",
+    "probability": 0.8629
+  },
+  {
+    "start": 69.98,
+    "end": 70.08,
+    "word": "de",
+    "probability": 0.9545
+  },
+  {
+    "start": 70.08,
+    "end": 70.24,
+    "word": "cima",
+    "probability": 0.9986
+  },
+  {
+    "start": 70.24,
+    "end": 70.36,
+    "word": "de",
+    "probability": 0.997
+  },
+  {
+    "start": 70.36,
+    "end": 70.44,
+    "word": "uma",
+    "probability": 0.9887
+  },
+  {
+    "start": 70.44,
+    "end": 70.74,
+    "word": "ponte.",
+    "probability": 0.9979
+  },
+  {
+    "start": 71.64,
+    "end": 71.98,
+    "word": "Vinte",
+    "probability": 0.3641
+  },
+  {
+    "start": 71.98,
+    "end": 72.22,
+    "word": "segundos",
+    "probability": 0.9599
+  },
+  {
+    "start": 72.22,
+    "end": 72.62,
+    "word": "depois,",
+    "probability": 0.9964
+  },
+  {
+    "start": 73.22,
+    "end": 73.4,
+    "word": "no",
+    "probability": 0.9841
+  },
+  {
+    "start": 73.4,
+    "end": 73.72,
+    "word": "pátio",
+    "probability": 0.6316
+  },
+  {
+    "start": 73.72,
+    "end": 73.82,
+    "word": "de",
+    "probability": 0.9861
+  },
+  {
+    "start": 73.82,
+    "end": 73.9,
+    "word": "um",
+    "probability": 0.9488
+  },
+  {
+    "start": 73.9,
+    "end": 74.12,
+    "word": "motel",
+    "probability": 0.7117
+  },
+  {
+    "start": 74.12,
+    "end": 74.56,
+    "word": "barato,",
+    "probability": 0.9986
+  },
+  {
+    "start": 74.56,
+    "end": 74.76,
+    "word": "tem",
+    "probability": 0.7052
+  },
+  {
+    "start": 74.76,
+    "end": 74.88,
+    "word": "uma",
+    "probability": 0.9962
+  },
+  {
+    "start": 74.88,
+    "end": 75.34,
+    "word": "senhora",
+    "probability": 0.9899
+  },
+  {
+    "start": 75.34,
+    "end": 75.48,
+    "word": "de",
+    "probability": 0.9951
+  },
+  {
+    "start": 75.48,
+    "end": 75.74,
+    "word": "rosa",
+    "probability": 0.9945
+  },
+  {
+    "start": 75.74,
+    "end": 76.28,
+    "word": "discutindo",
+    "probability": 0.9734
+  },
+  {
+    "start": 76.28,
+    "end": 76.44,
+    "word": "no",
+    "probability": 0.9493
+  },
+  {
+    "start": 76.44,
+    "end": 76.74,
+    "word": "meio",
+    "probability": 0.9971
+  },
+  {
+    "start": 76.74,
+    "end": 76.88,
+    "word": "do",
+    "probability": 0.969
+  },
+  {
+    "start": 76.88,
+    "end": 77.44,
+    "word": "asfalto,",
+    "probability": 0.9919
+  },
+  {
+    "start": 77.62,
+    "end": 77.84,
+    "word": "com",
+    "probability": 0.9913
+  },
+  {
+    "start": 77.84,
+    "end": 77.94,
+    "word": "as",
+    "probability": 0.9965
+  },
+  {
+    "start": 77.94,
+    "end": 78.08,
+    "word": "coisas",
+    "probability": 0.9875
+  },
+  {
+    "start": 78.08,
+    "end": 78.46,
+    "word": "jogadas",
+    "probability": 0.9968
+  },
+  {
+    "start": 78.46,
+    "end": 78.6,
+    "word": "no",
+    "probability": 0.9209
+  },
+  {
+    "start": 78.6,
+    "end": 78.88,
+    "word": "chão.",
+    "probability": 0.9861
+  },
+  {
+    "start": 79.82,
+    "end": 80.06,
+    "word": "No",
+    "probability": 0.8888
+  },
+  {
+    "start": 80.06,
+    "end": 80.36,
+    "word": "minuto",
+    "probability": 0.87
+  },
+  {
+    "start": 80.36,
+    "end": 80.6,
+    "word": "nove",
+    "probability": 0.9115
+  },
+  {
+    "start": 80.6,
+    "end": 80.78,
+    "word": "e",
+    "probability": 0.0758
+  },
+  {
+    "start": 80.78,
+    "end": 81.12,
+    "word": "trinta,",
+    "probability": 0.9713
+  },
+  {
+    "start": 81.12,
+    "end": 81.42,
+    "word": "você",
+    "probability": 0.8779
+  },
+  {
+    "start": 81.42,
+    "end": 81.64,
+    "word": "olha",
+    "probability": 0.9239
+  },
+  {
+    "start": 81.64,
+    "end": 81.82,
+    "word": "por",
+    "probability": 0.8365
+  },
+  {
+    "start": 81.82,
+    "end": 82.08,
+    "word": "cima",
+    "probability": 0.9938
+  },
+  {
+    "start": 82.08,
+    "end": 82.28,
+    "word": "do",
+    "probability": 0.9585
+  },
+  {
+    "start": 82.28,
+    "end": 82.46,
+    "word": "muro",
+    "probability": 0.755
+  },
+  {
+    "start": 82.46,
+    "end": 82.6,
+    "word": "de",
+    "probability": 0.9894
+  },
+  {
+    "start": 82.6,
+    "end": 82.74,
+    "word": "uma",
+    "probability": 0.9906
+  },
+  {
+    "start": 82.74,
+    "end": 83.0,
+    "word": "casa",
+    "probability": 0.998
+  },
+  {
+    "start": 83.0,
+    "end": 83.14,
+    "word": "no",
+    "probability": 0.961
+  },
+  {
+    "start": 83.14,
+    "end": 83.62,
+    "word": "subúrbio",
+    "probability": 0.7465
+  },
+  {
+    "start": 83.62,
+    "end": 84.32,
+    "word": "e",
+    "probability": 0.4275
+  },
+  {
+    "start": 84.32,
+    "end": 84.44,
+    "word": "tem",
+    "probability": 0.9952
+  },
+  {
+    "start": 84.44,
+    "end": 84.64,
+    "word": "dois",
+    "probability": 0.7973
+  },
+  {
+    "start": 84.64,
+    "end": 85.28,
+    "word": "marmanjos",
+    "probability": 0.321
+  },
+  {
+    "start": 85.28,
+    "end": 85.46,
+    "word": "sem",
+    "probability": 0.5393
+  },
+  {
+    "start": 85.46,
+    "end": 85.82,
+    "word": "camisa",
+    "probability": 0.9933
+  },
+  {
+    "start": 85.82,
+    "end": 86.26,
+    "word": "brincando",
+    "probability": 0.9211
+  },
+  {
+    "start": 86.26,
+    "end": 86.44,
+    "word": "de",
+    "probability": 0.9903
+  },
+  {
+    "start": 86.44,
+    "end": 86.66,
+    "word": "luta",
+    "probability": 0.9732
+  },
+  {
+    "start": 86.66,
+    "end": 87.02,
+    "word": "livre",
+    "probability": 0.9888
+  },
+  {
+    "start": 87.02,
+    "end": 87.54,
+    "word": "num",
+    "probability": 0.7836
+  },
+  {
+    "start": 87.54,
+    "end": 87.84,
+    "word": "ringue",
+    "probability": 0.8959
+  },
+  {
+    "start": 87.84,
+    "end": 88.24,
+    "word": "remendado",
+    "probability": 0.8714
+  },
+  {
+    "start": 88.24,
+    "end": 88.44,
+    "word": "com",
+    "probability": 0.9852
+  },
+  {
+    "start": 88.44,
+    "end": 88.8,
+    "word": "colchão",
+    "probability": 0.851
+  },
+  {
+    "start": 88.8,
+    "end": 89.16,
+    "word": "podre,",
+    "probability": 0.8693
+  },
+  {
+    "start": 89.94,
+    "end": 90.46,
+    "word": "enquanto",
+    "probability": 0.96
+  },
+  {
+    "start": 90.46,
+    "end": 90.74,
+    "word": "três",
+    "probability": 0.6729
+  },
+  {
+    "start": 90.74,
+    "end": 91.18,
+    "word": "velhos",
+    "probability": 0.862
+  },
+  {
+    "start": 91.18,
+    "end": 91.64,
+    "word": "assistem",
+    "probability": 0.9832
+  },
+  {
+    "start": 91.64,
+    "end": 91.74,
+    "word": "de",
+    "probability": 0.9829
+  },
+  {
+    "start": 91.74,
+    "end": 92.36,
+    "word": "camarote",
+    "probability": 0.7299
+  },
+  {
+    "start": 92.36,
+    "end": 92.72,
+    "word": "tomando",
+    "probability": 0.9384
+  },
+  {
+    "start": 92.72,
+    "end": 93.24,
+    "word": "cerveja.",
+    "probability": 0.8924
+  },
+  {
+    "start": 94.02,
+    "end": 94.32,
+    "word": "A",
+    "probability": 0.8888
+  },
+  {
+    "start": 94.32,
+    "end": 94.5,
+    "word": "cidade",
+    "probability": 0.9912
+  },
+  {
+    "start": 94.5,
+    "end": 94.78,
+    "word": "não",
+    "probability": 0.9067
+  },
+  {
+    "start": 94.78,
+    "end": 94.92,
+    "word": "tá",
+    "probability": 0.8387
+  },
+  {
+    "start": 94.92,
+    "end": 95.26,
+    "word": "esperando",
+    "probability": 0.9802
+  },
+  {
+    "start": 95.26,
+    "end": 95.5,
+    "word": "você",
+    "probability": 0.9924
+  },
+  {
+    "start": 95.5,
+    "end": 95.82,
+    "word": "apertar",
+    "probability": 0.9916
+  },
+  {
+    "start": 95.82,
+    "end": 96.14,
+    "word": "start",
+    "probability": 0.4688
+  },
+  {
+    "start": 96.14,
+    "end": 96.24,
+    "word": "pra",
+    "probability": 0.149
+  },
+  {
+    "start": 96.24,
+    "end": 96.68,
+    "word": "acontecer.",
+    "probability": 0.9947
+  },
+  {
+    "start": 97.36,
+    "end": 97.54,
+    "word": "Os",
+    "probability": 0.8974
+  },
+  {
+    "start": 97.54,
+    "end": 97.76,
+    "word": "caras",
+    "probability": 0.9614
+  },
+  {
+    "start": 97.76,
+    "end": 97.88,
+    "word": "já",
+    "probability": 0.9886
+  },
+  {
+    "start": 97.88,
+    "end": 98.0,
+    "word": "têm",
+    "probability": 0.4799
+  },
+  {
+    "start": 98.0,
+    "end": 98.16,
+    "word": "mais",
+    "probability": 0.9955
+  },
+  {
+    "start": 98.16,
+    "end": 98.5,
+    "word": "problema",
+    "probability": 0.8911
+  },
+  {
+    "start": 98.5,
+    "end": 98.66,
+    "word": "na",
+    "probability": 0.9839
+  },
+  {
+    "start": 98.66,
+    "end": 99.0,
+    "word": "cabeça",
+    "probability": 0.9974
+  },
+  {
+    "start": 99.0,
+    "end": 99.28,
+    "word": "numa",
+    "probability": 0.873
+  },
+  {
+    "start": 99.28,
+    "end": 99.64,
+    "word": "terça-feira",
+    "probability": 0.9427
+  },
+  {
+    "start": 99.64,
+    "end": 99.94,
+    "word": "à",
+    "probability": 0.98
+  },
+  {
+    "start": 99.94,
+    "end": 100.3,
+    "word": "tarde",
+    "probability": 0.6223
+  },
+  {
+    "start": 100.3,
+    "end": 100.48,
+    "word": "do",
+    "probability": 0.9338
+  },
+  {
+    "start": 100.48,
+    "end": 100.66,
+    "word": "que",
+    "probability": 0.9987
+  },
+  {
+    "start": 100.66,
+    "end": 101.04,
+    "word": "você",
+    "probability": 0.8748
+  },
+  {
+    "start": 101.04,
+    "end": 101.16,
+    "word": "na",
+    "probability": 0.9863
+  },
+  {
+    "start": 101.16,
+    "end": 101.4,
+    "word": "missão",
+    "probability": 0.9853
+  },
+  {
+    "start": 101.4,
+    "end": 101.76,
+    "word": "principal.",
+    "probability": 0.9959
+  },
+  {
+    "start": 102.82,
+    "end": 103.28,
+    "word": "Sabe",
+    "probability": 0.9352
+  },
+  {
+    "start": 103.28,
+    "end": 103.44,
+    "word": "aquela",
+    "probability": 0.9768
+  },
+  {
+    "start": 103.44,
+    "end": 103.88,
+    "word": "brincadeira",
+    "probability": 0.9862
+  },
+  {
+    "start": 103.88,
+    "end": 104.3,
+    "word": "famosa",
+    "probability": 0.9949
+  },
+  {
+    "start": 104.3,
+    "end": 104.42,
+    "word": "da",
+    "probability": 0.984
+  },
+  {
+    "start": 104.42,
+    "end": 104.66,
+    "word": "internet",
+    "probability": 0.951
+  },
+  {
+    "start": 104.66,
+    "end": 105.2,
+    "word": "americana",
+    "probability": 0.9913
+  },
+  {
+    "start": 105.2,
+    "end": 105.46,
+    "word": "de",
+    "probability": 0.8944
+  },
+  {
+    "start": 105.46,
+    "end": 105.98,
+    "word": "digitar",
+    "probability": 0.9152
+  },
+  {
+    "start": 105.98,
+    "end": 106.82,
+    "word": "homem",
+    "probability": 0.6307
+  },
+  {
+    "start": 106.82,
+    "end": 106.92,
+    "word": "da",
+    "probability": 0.9759
+  },
+  {
+    "start": 106.92,
+    "end": 107.4,
+    "word": "Flórida",
+    "probability": 0.8613
+  },
+  {
+    "start": 107.4,
+    "end": 108.0,
+    "word": "mais",
+    "probability": 0.7444
+  },
+  {
+    "start": 108.0,
+    "end": 108.14,
+    "word": "o",
+    "probability": 0.9622
+  },
+  {
+    "start": 108.14,
+    "end": 108.32,
+    "word": "dia",
+    "probability": 0.9305
+  },
+  {
+    "start": 108.32,
+    "end": 108.44,
+    "word": "do",
+    "probability": 0.9866
+  },
+  {
+    "start": 108.44,
+    "end": 108.56,
+    "word": "seu",
+    "probability": 0.9964
+  },
+  {
+    "start": 108.56,
+    "end": 109.04,
+    "word": "aniversário",
+    "probability": 0.9912
+  },
+  {
+    "start": 109.04,
+    "end": 109.2,
+    "word": "no",
+    "probability": 0.9459
+  },
+  {
+    "start": 109.2,
+    "end": 109.5,
+    "word": "Google",
+    "probability": 0.8306
+  },
+  {
+    "start": 109.92,
+    "end": 110.16,
+    "word": "pra",
+    "probability": 0.7146
+  },
+  {
+    "start": 110.16,
+    "end": 110.3,
+    "word": "ver",
+    "probability": 0.9915
+  },
+  {
+    "start": 110.3,
+    "end": 110.52,
+    "word": "qual",
+    "probability": 0.9833
+  },
+  {
+    "start": 110.52,
+    "end": 111.28,
+    "word": "barbaridade",
+    "probability": 0.9274
+  },
+  {
+    "start": 111.28,
+    "end": 111.44,
+    "word": "um",
+    "probability": 0.8221
+  },
+  {
+    "start": 111.44,
+    "end": 111.74,
+    "word": "sujeito",
+    "probability": 0.9731
+  },
+  {
+    "start": 111.74,
+    "end": 112.06,
+    "word": "aprontou",
+    "probability": 0.9375
+  },
+  {
+    "start": 112.06,
+    "end": 112.28,
+    "word": "naquele",
+    "probability": 0.9499
+  },
+  {
+    "start": 112.28,
+    "end": 112.54,
+    "word": "dia?",
+    "probability": 0.9982
+  },
+  {
+    "start": 113.2,
+    "end": 113.5,
+    "word": "A",
+    "probability": 0.2987
+  },
+  {
+    "start": 113.5,
+    "end": 113.8,
+    "word": "Rockstar",
+    "probability": 0.5885
+  },
+  {
+    "start": 113.8,
+    "end": 114.12,
+    "word": "levou",
+    "probability": 0.9679
+  },
+  {
+    "start": 114.12,
+    "end": 114.28,
+    "word": "essa",
+    "probability": 0.8999
+  },
+  {
+    "start": 114.28,
+    "end": 114.66,
+    "word": "piada",
+    "probability": 0.8799
+  },
+  {
+    "start": 114.66,
+    "end": 115.12,
+    "word": "pras",
+    "probability": 0.8486
+  },
+  {
+    "start": 115.12,
+    "end": 115.22,
+    "word": "redes",
+    "probability": 0.6725
+  },
+  {
+    "start": 115.22,
+    "end": 115.62,
+    "word": "sociais",
+    "probability": 0.9964
+  },
+  {
+    "start": 115.62,
+    "end": 115.86,
+    "word": "de",
+    "probability": 0.9819
+  },
+  {
+    "start": 115.86,
+    "end": 116.24,
+    "word": "Leonida.",
+    "probability": 0.6686
+  },
+  {
+    "start": 116.78,
+    "end": 117.22,
+    "word": "Olha",
+    "probability": 0.8334
+  },
+  {
+    "start": 117.22,
+    "end": 117.32,
+    "word": "o",
+    "probability": 0.9938
+  },
+  {
+    "start": 117.32,
+    "end": 117.7,
+    "word": "perfil",
+    "probability": 0.9958
+  },
+  {
+    "start": 117.7,
+    "end": 118.28,
+    "word": "Planet",
+    "probability": 0.6011
+  },
+  {
+    "start": 118.28,
+    "end": 118.82,
+    "word": "Leonida",
+    "probability": 0.876
+  },
+  {
+    "start": 118.82,
+    "end": 119.08,
+    "word": "Man",
+    "probability": 0.6997
+  },
+  {
+    "start": 119.4,
+    "end": 119.6,
+    "word": "que",
+    "probability": 0.9872
+  },
+  {
+    "start": 119.6,
+    "end": 119.86,
+    "word": "aparece",
+    "probability": 0.9573
+  },
+  {
+    "start": 119.86,
+    "end": 120.08,
+    "word": "no",
+    "probability": 0.7068
+  },
+  {
+    "start": 120.08,
+    "end": 120.32,
+    "word": "primeiro",
+    "probability": 0.8868
+  },
+  {
+    "start": 120.32,
+    "end": 120.66,
+    "word": "trailer,",
+    "probability": 0.9139
+  },
+  {
+    "start": 121.2,
+    "end": 121.3,
+    "word": "no",
+    "probability": 0.4154
+  },
+  {
+    "start": 121.3,
+    "end": 121.6,
+    "word": "segundo",
+    "probability": 0.3355
+  },
+  {
+    "start": 121.6,
+    "end": 121.9,
+    "word": "cinquenta.",
+    "probability": 0.573
+  },
+  {
+    "start": 122.84,
+    "end": 123.0,
+    "word": "É",
+    "probability": 0.9722
+  },
+  {
+    "start": 123.0,
+    "end": 123.1,
+    "word": "um",
+    "probability": 0.9851
+  },
+  {
+    "start": 123.1,
+    "end": 123.44,
+    "word": "tiozão",
+    "probability": 0.9539
+  },
+  {
+    "start": 123.44,
+    "end": 123.62,
+    "word": "sem",
+    "probability": 0.9783
+  },
+  {
+    "start": 123.62,
+    "end": 124.08,
+    "word": "camisa,",
+    "probability": 0.9927
+  },
+  {
+    "start": 124.36,
+    "end": 124.72,
+    "word": "debaixo",
+    "probability": 0.929
+  },
+  {
+    "start": 124.72,
+    "end": 124.82,
+    "word": "de",
+    "probability": 0.9966
+  },
+  {
+    "start": 124.82,
+    "end": 124.9,
+    "word": "um",
+    "probability": 0.9941
+  },
+  {
+    "start": 124.9,
+    "end": 125.34,
+    "word": "temporal,",
+    "probability": 0.9653
+  },
+  {
+    "start": 126.02,
+    "end": 126.28,
+    "word": "dando",
+    "probability": 0.8485
+  },
+  {
+    "start": 126.28,
+    "end": 126.68,
+    "word": "perdido",
+    "probability": 0.7524
+  },
+  {
+    "start": 126.68,
+    "end": 126.84,
+    "word": "numa",
+    "probability": 0.5846
+  },
+  {
+    "start": 126.84,
+    "end": 127.24,
+    "word": "viatura",
+    "probability": 0.9793
+  },
+  {
+    "start": 127.24,
+    "end": 127.56,
+    "word": "a",
+    "probability": 0.3987
+  },
+  {
+    "start": 127.56,
+    "end": 127.86,
+    "word": "pé",
+    "probability": 0.9939
+  },
+  {
+    "start": 127.86,
+    "end": 128.22,
+    "word": "no",
+    "probability": 0.6289
+  },
+  {
+    "start": 128.22,
+    "end": 128.48,
+    "word": "pátio",
+    "probability": 0.4588
+  },
+  {
+    "start": 128.48,
+    "end": 128.58,
+    "word": "de",
+    "probability": 0.786
+  },
+  {
+    "start": 128.58,
+    "end": 128.68,
+    "word": "um",
+    "probability": 0.9899
+  },
+  {
+    "start": 128.68,
+    "end": 129.22,
+    "word": "posto",
+    "probability": 0.9087
+  },
+  {
+    "start": 129.22,
+    "end": 129.26,
+    "word": "de",
+    "probability": 0.9915
+  },
+  {
+    "start": 129.26,
+    "end": 129.66,
+    "word": "gasolina",
+    "probability": 0.983
+  },
+  {
+    "start": 129.66,
+    "end": 130.36,
+    "word": "enquanto",
+    "probability": 0.7273
+  },
+  {
+    "start": 130.36,
+    "end": 130.66,
+    "word": "alguém",
+    "probability": 0.9955
+  },
+  {
+    "start": 130.66,
+    "end": 130.94,
+    "word": "filma",
+    "probability": 0.7621
+  },
+  {
+    "start": 130.94,
+    "end": 131.1,
+    "word": "da",
+    "probability": 0.3243
+  },
+  {
+    "start": 131.1,
+    "end": 131.48,
+    "word": "janela.",
+    "probability": 0.9845
+  },
+  {
+    "start": 132.98,
+    "end": 133.28,
+    "word": "Corta",
+    "probability": 0.7629
+  },
+  {
+    "start": 133.28,
+    "end": 133.4,
+    "word": "pra",
+    "probability": 0.2199
+  },
+  {
+    "start": 133.4,
+    "end": 133.62,
+    "word": "festa",
+    "probability": 0.9914
+  },
+  {
+    "start": 133.62,
+    "end": 133.78,
+    "word": "na",
+    "probability": 0.9803
+  },
+  {
+    "start": 133.78,
+    "end": 134.02,
+    "word": "lama:",
+    "probability": 0.8181
+  },
+  {
+    "start": 134.66,
+    "end": 134.8,
+    "word": "tem",
+    "probability": 0.9807
+  },
+  {
+    "start": 134.8,
+    "end": 135.28,
+    "word": "caminhonete",
+    "probability": 0.773
+  },
+  {
+    "start": 135.28,
+    "end": 135.78,
+    "word": "gigante",
+    "probability": 0.9956
+  },
+  {
+    "start": 135.78,
+    "end": 136.26,
+    "word": "atolada",
+    "probability": 0.8088
+  },
+  {
+    "start": 136.26,
+    "end": 136.44,
+    "word": "com",
+    "probability": 0.9497
+  },
+  {
+    "start": 136.44,
+    "end": 136.8,
+    "word": "metade",
+    "probability": 0.9937
+  },
+  {
+    "start": 136.8,
+    "end": 136.98,
+    "word": "do",
+    "probability": 0.9881
+  },
+  {
+    "start": 136.98,
+    "end": 137.32,
+    "word": "bairro",
+    "probability": 0.9966
+  },
+  {
+    "start": 137.32,
+    "end": 137.62,
+    "word": "dentro",
+    "probability": 0.973
+  },
+  {
+    "start": 137.62,
+    "end": 137.82,
+    "word": "da",
+    "probability": 0.9907
+  },
+  {
+    "start": 137.82,
+    "end": 138.18,
+    "word": "poça.",
+    "probability": 0.8244
+  },
+  {
+    "start": 139.06,
+    "end": 139.38,
+    "word": "Volta",
+    "probability": 0.9764
+  },
+  {
+    "start": 139.38,
+    "end": 139.54,
+    "word": "pra",
+    "probability": 0.742
+  },
+  {
+    "start": 139.54,
+    "end": 140.02,
+    "word": "rodovia",
+    "probability": 0.8294
+  },
+  {
+    "start": 140.02,
+    "end": 140.14,
+    "word": "de",
+    "probability": 0.5548
+  },
+  {
+    "start": 140.14,
+    "end": 140.26,
+    "word": "Vice",
+    "probability": 0.8008
+  },
+  {
+    "start": 140.26,
+    "end": 140.66,
+    "word": "City:",
+    "probability": 0.9516
+  },
+  {
+    "start": 140.66,
+    "end": 141.54,
+    "word": "tem",
+    "probability": 0.0695
+  },
+  {
+    "start": 141.54,
+    "end": 142.04,
+    "word": "passageira",
+    "probability": 0.9
+  },
+  {
+    "start": 142.04,
+    "end": 142.52,
+    "word": "dançando",
+    "probability": 0.9918
+  },
+  {
+    "start": 142.52,
+    "end": 142.7,
+    "word": "no",
+    "probability": 0.9641
+  },
+  {
+    "start": 142.7,
+    "end": 142.98,
+    "word": "teto",
+    "probability": 0.9612
+  },
+  {
+    "start": 142.98,
+    "end": 143.12,
+    "word": "de",
+    "probability": 0.9756
+  },
+  {
+    "start": 143.12,
+    "end": 143.2,
+    "word": "um",
+    "probability": 0.9817
+  },
+  {
+    "start": 143.2,
+    "end": 143.48,
+    "word": "carro",
+    "probability": 0.9988
+  },
+  {
+    "start": 143.86,
+    "end": 143.98,
+    "word": "no",
+    "probability": 0.9923
+  },
+  {
+    "start": 143.98,
+    "end": 144.3,
+    "word": "meio",
+    "probability": 0.9956
+  },
+  {
+    "start": 144.3,
+    "end": 144.46,
+    "word": "do",
+    "probability": 0.9797
+  },
+  {
+    "start": 144.46,
+    "end": 144.84,
+    "word": "trânsito.",
+    "probability": 0.9863
+  },
+  {
+    "start": 145.68,
+    "end": 145.82,
+    "word": "Se",
+    "probability": 0.9921
+  },
+  {
+    "start": 145.82,
+    "end": 145.88,
+    "word": "o",
+    "probability": 0.9881
+  },
+  {
+    "start": 145.88,
+    "end": 146.0,
+    "word": "jogo",
+    "probability": 0.9978
+  },
+  {
+    "start": 146.0,
+    "end": 146.38,
+    "word": "conseguir",
+    "probability": 0.969
+  },
+  {
+    "start": 146.38,
+    "end": 146.72,
+    "word": "espalhar",
+    "probability": 0.8546
+  },
+  {
+    "start": 146.72,
+    "end": 146.92,
+    "word": "esse",
+    "probability": 0.8956
+  },
+  {
+    "start": 146.92,
+    "end": 147.14,
+    "word": "tipo",
+    "probability": 0.9753
+  },
+  {
+    "start": 147.14,
+    "end": 147.24,
+    "word": "de",
+    "probability": 0.9977
+  },
+  {
+    "start": 147.24,
+    "end": 147.76,
+    "word": "encontro",
+    "probability": 0.9939
+  },
+  {
+    "start": 147.76,
+    "end": 148.26,
+    "word": "fora",
+    "probability": 0.8148
+  },
+  {
+    "start": 148.26,
+    "end": 148.44,
+    "word": "das",
+    "probability": 0.9046
+  },
+  {
+    "start": 148.44,
+    "end": 148.64,
+    "word": "cenas",
+    "probability": 0.9944
+  },
+  {
+    "start": 148.64,
+    "end": 149.26,
+    "word": "preparadas,",
+    "probability": 0.9931
+  },
+  {
+    "start": 149.94,
+    "end": 150.02,
+    "word": "a",
+    "probability": 0.9758
+  },
+  {
+    "start": 150.02,
+    "end": 150.24,
+    "word": "melhor",
+    "probability": 0.9903
+  },
+  {
+    "start": 150.24,
+    "end": 150.68,
+    "word": "diversão",
+    "probability": 0.9039
+  },
+  {
+    "start": 150.68,
+    "end": 150.82,
+    "word": "vai",
+    "probability": 0.9743
+  },
+  {
+    "start": 150.82,
+    "end": 151.0,
+    "word": "ser",
+    "probability": 0.9734
+  },
+  {
+    "start": 151.0,
+    "end": 151.18,
+    "word": "parar",
+    "probability": 0.9734
+  },
+  {
+    "start": 151.18,
+    "end": 151.28,
+    "word": "na",
+    "probability": 0.9849
+  },
+  {
+    "start": 151.28,
+    "end": 151.74,
+    "word": "esquina",
+    "probability": 0.9948
+  },
+  {
+    "start": 151.74,
+    "end": 151.92,
+    "word": "e",
+    "probability": 0.9696
+  },
+  {
+    "start": 151.92,
+    "end": 152.22,
+    "word": "deixar",
+    "probability": 0.9921
+  },
+  {
+    "start": 152.22,
+    "end": 152.76,
+    "word": "Leonida",
+    "probability": 0.199
+  },
+  {
+    "start": 152.76,
+    "end": 153.18,
+    "word": "trabalhar.",
+    "probability": 0.9849
+  },
+  {
+    "start": 154.0,
+    "end": 154.16,
+    "word": "O",
+    "probability": 0.9807
+  },
+  {
+    "start": 154.16,
+    "end": 154.6,
+    "word": "caos",
+    "probability": 0.9584
+  },
+  {
+    "start": 154.6,
+    "end": 155.36,
+    "word": "estaciona",
+    "probability": 0.8396
+  },
+  {
+    "start": 155.36,
+    "end": 155.46,
+    "word": "na",
+    "probability": 0.9796
+  },
+  {
+    "start": 155.46,
+    "end": 155.64,
+    "word": "sua",
+    "probability": 0.9953
+  },
+  {
+    "start": 155.64,
+    "end": 155.98,
+    "word": "frente",
+    "probability": 0.999
+  },
+  {
+    "start": 155.98,
+    "end": 156.52,
+    "word": "sem",
+    "probability": 0.4865
+  },
+  {
+    "start": 156.52,
+    "end": 156.64,
+    "word": "pedir",
+    "probability": 0.9166
+  },
+  {
+    "start": 156.64,
+    "end": 157.12,
+    "word": "licença.",
+    "probability": 0.9807
+  },
+  {
+    "start": 157.84,
+    "end": 158.3,
+    "word": "E",
+    "probability": 0.92
+  },
+  {
+    "start": 158.3,
+    "end": 158.42,
+    "word": "quando",
+    "probability": 0.973
+  },
+  {
+    "start": 158.42,
+    "end": 158.68,
+    "word": "você",
+    "probability": 0.9929
+  },
+  {
+    "start": 158.68,
+    "end": 158.9,
+    "word": "sai",
+    "probability": 0.9898
+  },
+  {
+    "start": 158.9,
+    "end": 159.02,
+    "word": "do",
+    "probability": 0.9917
+  },
+  {
+    "start": 159.02,
+    "end": 159.48,
+    "word": "asfalto",
+    "probability": 0.9913
+  },
+  {
+    "start": 159.9,
+    "end": 160.14,
+    "word": "achando",
+    "probability": 0.9991
+  },
+  {
+    "start": 160.14,
+    "end": 160.26,
+    "word": "que",
+    "probability": 0.9966
+  },
+  {
+    "start": 160.26,
+    "end": 160.38,
+    "word": "vai",
+    "probability": 0.9788
+  },
+  {
+    "start": 160.38,
+    "end": 160.5,
+    "word": "ter",
+    "probability": 0.9956
+  },
+  {
+    "start": 160.5,
+    "end": 160.78,
+    "word": "paz",
+    "probability": 0.9637
+  },
+  {
+    "start": 160.78,
+    "end": 160.92,
+    "word": "no",
+    "probability": 0.9874
+  },
+  {
+    "start": 160.92,
+    "end": 161.22,
+    "word": "mato,",
+    "probability": 0.9882
+  },
+  {
+    "start": 161.76,
+    "end": 161.88,
+    "word": "a",
+    "probability": 0.982
+  },
+  {
+    "start": 161.88,
+    "end": 162.12,
+    "word": "cadeia",
+    "probability": 0.9933
+  },
+  {
+    "start": 162.12,
+    "end": 162.54,
+    "word": "alimentar",
+    "probability": 0.9965
+  },
+  {
+    "start": 162.54,
+    "end": 162.72,
+    "word": "de",
+    "probability": 0.9811
+  },
+  {
+    "start": 162.72,
+    "end": 163.02,
+    "word": "Red",
+    "probability": 0.1915
+  },
+  {
+    "start": 163.02,
+    "end": 163.3,
+    "word": "Dead",
+    "probability": 0.8515
+  },
+  {
+    "start": 163.3,
+    "end": 163.56,
+    "word": "e",
+    "probability": 0.8837
+  },
+  {
+    "start": 163.56,
+    "end": 163.86,
+    "word": "Redemption",
+    "probability": 0.9877
+  },
+  {
+    "start": 163.86,
+    "end": 164.24,
+    "word": "dois",
+    "probability": 0.977
+  },
+  {
+    "start": 164.24,
+    "end": 164.88,
+    "word": "entra",
+    "probability": 0.5026
+  },
+  {
+    "start": 164.88,
+    "end": 165.04,
+    "word": "na",
+    "probability": 0.9858
+  },
+  {
+    "start": 165.04,
+    "end": 165.44,
+    "word": "conversa",
+    "probability": 0.9966
+  },
+  {
+    "start": 165.44,
+    "end": 165.58,
+    "word": "sem",
+    "probability": 0.9852
+  },
+  {
+    "start": 165.58,
+    "end": 166.02,
+    "word": "vaselina.",
+    "probability": 0.5396
+  },
+  {
+    "start": 166.62,
+    "end": 167.14,
+    "word": "Olha",
+    "probability": 0.5718
+  },
+  {
+    "start": 167.14,
+    "end": 167.4,
+    "word": "a",
+    "probability": 0.956
+  },
+  {
+    "start": 167.4,
+    "end": 167.54,
+    "word": "foto",
+    "probability": 0.9642
+  },
+  {
+    "start": 167.54,
+    "end": 168.04,
+    "word": "oficial",
+    "probability": 0.9941
+  },
+  {
+    "start": 168.04,
+    "end": 168.24,
+    "word": "de",
+    "probability": 0.9488
+  },
+  {
+    "start": 168.24,
+    "end": 168.82,
+    "word": "Grassrivers:",
+    "probability": 0.8832
+  },
+  {
+    "start": 169.36,
+    "end": 169.76,
+    "word": "tem",
+    "probability": 0.9312
+  },
+  {
+    "start": 169.76,
+    "end": 169.86,
+    "word": "um",
+    "probability": 0.9205
+  },
+  {
+    "start": 169.86,
+    "end": 170.2,
+    "word": "jacaré",
+    "probability": 0.8864
+  },
+  {
+    "start": 170.2,
+    "end": 170.32,
+    "word": "do",
+    "probability": 0.8548
+  },
+  {
+    "start": 170.32,
+    "end": 170.72,
+    "word": "tamanho",
+    "probability": 0.9908
+  },
+  {
+    "start": 170.72,
+    "end": 170.96,
+    "word": "de",
+    "probability": 0.9433
+  },
+  {
+    "start": 170.96,
+    "end": 171.1,
+    "word": "um",
+    "probability": 0.9241
+  },
+  {
+    "start": 171.1,
+    "end": 171.37,
+    "word": "Uno",
+    "probability": 0.6029
+  },
+  {
+    "start": 171.37,
+    "end": 171.64,
+    "word": "mille",
+    "probability": 0.6029
+  },
+  {
+    "start": 171.64,
+    "end": 171.78,
+    "word": "ali",
+    "probability": 0.9343
+  },
+  {
+    "start": 171.78,
+    "end": 171.92,
+    "word": "do",
+    "probability": 0.9837
+  },
+  {
+    "start": 171.92,
+    "end": 172.12,
+    "word": "lado",
+    "probability": 0.9757
+  },
+  {
+    "start": 172.12,
+    "end": 172.3,
+    "word": "do",
+    "probability": 0.99
+  },
+  {
+    "start": 172.3,
+    "end": 172.68,
+    "word": "barco.",
+    "probability": 0.9882
+  },
+  {
+    "start": 173.36,
+    "end": 173.64,
+    "word": "No",
+    "probability": 0.9617
+  },
+  {
+    "start": 173.64,
+    "end": 173.86,
+    "word": "primeiro",
+    "probability": 0.9872
+  },
+  {
+    "start": 173.86,
+    "end": 174.24,
+    "word": "trailer,",
+    "probability": 0.9838
+  },
+  {
+    "start": 174.24,
+    "end": 174.74,
+    "word": "tem",
+    "probability": 0.6377
+  },
+  {
+    "start": 174.74,
+    "end": 174.96,
+    "word": "outro",
+    "probability": 0.7815
+  },
+  {
+    "start": 174.96,
+    "end": 175.28,
+    "word": "entrando",
+    "probability": 0.9249
+  },
+  {
+    "start": 175.28,
+    "end": 175.48,
+    "word": "numa",
+    "probability": 0.7557
+  },
+  {
+    "start": 175.48,
+    "end": 175.92,
+    "word": "loja.",
+    "probability": 0.9768
+  },
+  {
+    "start": 177.22,
+    "end": 177.52,
+    "word": "Até",
+    "probability": 0.6221
+  },
+  {
+    "start": 177.52,
+    "end": 177.6,
+    "word": "o",
+    "probability": 0.9934
+  },
+  {
+    "start": 177.6,
+    "end": 177.92,
+    "word": "jacaré",
+    "probability": 0.9885
+  },
+  {
+    "start": 177.92,
+    "end": 178.12,
+    "word": "faz",
+    "probability": 0.9699
+  },
+  {
+    "start": 178.12,
+    "end": 178.32,
+    "word": "compra",
+    "probability": 0.9467
+  },
+  {
+    "start": 178.32,
+    "end": 178.46,
+    "word": "de",
+    "probability": 0.9788
+  },
+  {
+    "start": 178.46,
+    "end": 178.64,
+    "word": "última",
+    "probability": 0.9897
+  },
+  {
+    "start": 178.64,
+    "end": 178.88,
+    "word": "hora",
+    "probability": 0.997
+  },
+  {
+    "start": 178.88,
+    "end": 179.04,
+    "word": "nessa",
+    "probability": 0.6347
+  },
+  {
+    "start": 179.04,
+    "end": 179.36,
+    "word": "porra.",
+    "probability": 0.9857
+  },
+  {
+    "start": 180.42,
+    "end": 180.94,
+    "word": "Lá",
+    "probability": 0.9106
+  },
+  {
+    "start": 180.94,
+    "end": 181.06,
+    "word": "no",
+    "probability": 0.994
+  },
+  {
+    "start": 181.06,
+    "end": 181.32,
+    "word": "norte,",
+    "probability": 0.8309
+  },
+  {
+    "start": 181.32,
+    "end": 181.48,
+    "word": "as",
+    "probability": 0.8851
+  },
+  {
+    "start": 181.48,
+    "end": 181.86,
+    "word": "imagens",
+    "probability": 0.9945
+  },
+  {
+    "start": 181.86,
+    "end": 182.0,
+    "word": "de",
+    "probability": 0.9807
+  },
+  {
+    "start": 182.0,
+    "end": 182.25,
+    "word": "Mount",
+    "probability": 0.2375
+  },
+  {
+    "start": 182.25,
+    "end": 182.5,
+    "word": "Kalaga",
+    "probability": 0.9698
+  },
+  {
+    "start": 182.5,
+    "end": 182.9,
+    "word": "mostram",
+    "probability": 0.9825
+  },
+  {
+    "start": 182.9,
+    "end": 183.54,
+    "word": "cervos",
+    "probability": 0.6194
+  },
+  {
+    "start": 183.54,
+    "end": 183.68,
+    "word": "na",
+    "probability": 0.9774
+  },
+  {
+    "start": 183.68,
+    "end": 183.9,
+    "word": "beira",
+    "probability": 0.9969
+  },
+  {
+    "start": 183.9,
+    "end": 184.06,
+    "word": "da",
+    "probability": 0.9791
+  },
+  {
+    "start": 184.06,
+    "end": 184.38,
+    "word": "água",
+    "probability": 0.984
+  },
+  {
+    "start": 184.38,
+    "end": 184.64,
+    "word": "e",
+    "probability": 0.8912
+  },
+  {
+    "start": 184.64,
+    "end": 185.08,
+    "word": "caçadores",
+    "probability": 0.9782
+  },
+  {
+    "start": 185.08,
+    "end": 185.26,
+    "word": "na",
+    "probability": 0.9825
+  },
+  {
+    "start": 185.26,
+    "end": 185.6,
+    "word": "trilha.",
+    "probability": 0.9955
+  },
+  {
+    "start": 186.4,
+    "end": 186.86,
+    "word": "No",
+    "probability": 0.9703
+  },
+  {
+    "start": 186.86,
+    "end": 187.08,
+    "word": "minuto",
+    "probability": 0.9529
+  },
+  {
+    "start": 187.08,
+    "end": 187.347,
+    "word": "sete",
+    "probability": 0.8439
+  },
+  {
+    "start": 187.347,
+    "end": 187.613,
+    "word": "e",
+    "probability": 0.8439
+  },
+  {
+    "start": 187.613,
+    "end": 187.88,
+    "word": "cinquenta",
+    "probability": 0.6356
+  },
+  {
+    "start": 187.88,
+    "end": 188.1,
+    "word": "do",
+    "probability": 0.632
+  },
+  {
+    "start": 188.1,
+    "end": 188.2,
+    "word": "gameplay,",
+    "probability": 0.754
+  },
+  {
+    "start": 188.2,
+    "end": 188.8,
+    "word": "aparece",
+    "probability": 0.9369
+  },
+  {
+    "start": 188.8,
+    "end": 189.02,
+    "word": "um",
+    "probability": 0.992
+  },
+  {
+    "start": 189.02,
+    "end": 189.38,
+    "word": "cervo",
+    "probability": 0.9194
+  },
+  {
+    "start": 189.38,
+    "end": 189.58,
+    "word": "até",
+    "probability": 0.9792
+  },
+  {
+    "start": 189.58,
+    "end": 189.72,
+    "word": "na",
+    "probability": 0.989
+  },
+  {
+    "start": 189.72,
+    "end": 190.0,
+    "word": "TV",
+    "probability": 0.7569
+  },
+  {
+    "start": 190.0,
+    "end": 190.24,
+    "word": "dentro",
+    "probability": 0.8334
+  },
+  {
+    "start": 190.24,
+    "end": 190.42,
+    "word": "do",
+    "probability": 0.9935
+  },
+  {
+    "start": 190.42,
+    "end": 190.64,
+    "word": "jogo.",
+    "probability": 0.9978
+  },
+  {
+    "start": 191.54,
+    "end": 192.02,
+    "word": "No",
+    "probability": 0.2566
+  },
+  {
+    "start": 192.02,
+    "end": 192.14,
+    "word": "GTA",
+    "probability": 0.8742
+  },
+  {
+    "start": 192.14,
+    "end": 192.62,
+    "word": "cinco,",
+    "probability": 0.7647
+  },
+  {
+    "start": 193.02,
+    "end": 193.14,
+    "word": "a",
+    "probability": 0.9666
+  },
+  {
+    "start": 193.14,
+    "end": 193.26,
+    "word": "vida",
+    "probability": 0.9216
+  },
+  {
+    "start": 193.26,
+    "end": 193.7,
+    "word": "selvagem",
+    "probability": 0.8577
+  },
+  {
+    "start": 193.7,
+    "end": 194.02,
+    "word": "servia",
+    "probability": 0.9538
+  },
+  {
+    "start": 194.02,
+    "end": 194.56,
+    "word": "basicamente",
+    "probability": 0.9692
+  },
+  {
+    "start": 194.56,
+    "end": 194.7,
+    "word": "pra",
+    "probability": 0.6716
+  },
+  {
+    "start": 194.7,
+    "end": 194.9,
+    "word": "você",
+    "probability": 0.8641
+  },
+  {
+    "start": 194.9,
+    "end": 195.46,
+    "word": "atropelar",
+    "probability": 0.9778
+  },
+  {
+    "start": 195.46,
+    "end": 195.56,
+    "word": "um",
+    "probability": 0.9616
+  },
+  {
+    "start": 195.56,
+    "end": 195.98,
+    "word": "coiote",
+    "probability": 0.8475
+  },
+  {
+    "start": 195.98,
+    "end": 196.12,
+    "word": "na",
+    "probability": 0.8747
+  },
+  {
+    "start": 196.12,
+    "end": 196.4,
+    "word": "estrada",
+    "probability": 0.9749
+  },
+  {
+    "start": 196.4,
+    "end": 196.62,
+    "word": "sem",
+    "probability": 0.9558
+  },
+  {
+    "start": 196.62,
+    "end": 197.04,
+    "word": "querer.",
+    "probability": 0.5353
+  },
+  {
+    "start": 197.88,
+    "end": 198.36,
+    "word": "Em",
+    "probability": 0.944
+  },
+  {
+    "start": 198.36,
+    "end": 198.8,
+    "word": "Leonida,",
+    "probability": 0.6153
+  },
+  {
+    "start": 199.14,
+    "end": 199.32,
+    "word": "se",
+    "probability": 0.9705
+  },
+  {
+    "start": 199.32,
+    "end": 199.38,
+    "word": "eu",
+    "probability": 0.9576
+  },
+  {
+    "start": 199.38,
+    "end": 199.46,
+    "word": "vou",
+    "probability": 0.3067
+  },
+  {
+    "start": 199.46,
+    "end": 199.82,
+    "word": "capotar",
+    "probability": 0.9456
+  },
+  {
+    "start": 199.82,
+    "end": 199.92,
+    "word": "o",
+    "probability": 0.9562
+  },
+  {
+    "start": 199.92,
+    "end": 200.04,
+    "word": "carro",
+    "probability": 0.7411
+  },
+  {
+    "start": 200.04,
+    "end": 200.18,
+    "word": "numa",
+    "probability": 0.8823
+  },
+  {
+    "start": 200.18,
+    "end": 200.56,
+    "word": "vala",
+    "probability": 0.5268
+  },
+  {
+    "start": 200.56,
+    "end": 200.8,
+    "word": "de",
+    "probability": 0.9875
+  },
+  {
+    "start": 200.8,
+    "end": 201.26,
+    "word": "Grassrivers",
+    "probability": 0.3278
+  },
+  {
+    "start": 201.26,
+    "end": 201.42,
+    "word": "à",
+    "probability": 0.3586
+  },
+  {
+    "start": 201.42,
+    "end": 201.62,
+    "word": "noite,",
+    "probability": 0.9982
+  },
+  {
+    "start": 202.5,
+    "end": 203.18,
+    "word": "eu",
+    "probability": 0.735
+  },
+  {
+    "start": 203.18,
+    "end": 203.3,
+    "word": "vou",
+    "probability": 0.9914
+  },
+  {
+    "start": 203.3,
+    "end": 203.44,
+    "word": "olhar",
+    "probability": 0.9896
+  },
+  {
+    "start": 203.44,
+    "end": 203.66,
+    "word": "duas",
+    "probability": 0.967
+  },
+  {
+    "start": 203.66,
+    "end": 203.92,
+    "word": "vezes",
+    "probability": 0.9963
+  },
+  {
+    "start": 203.92,
+    "end": 204.22,
+    "word": "pra",
+    "probability": 0.8201
+  },
+  {
+    "start": 204.22,
+    "end": 204.3,
+    "word": "água",
+    "probability": 0.7911
+  },
+  {
+    "start": 204.3,
+    "end": 204.48,
+    "word": "antes",
+    "probability": 0.9752
+  },
+  {
+    "start": 204.48,
+    "end": 204.56,
+    "word": "de",
+    "probability": 0.9961
+  },
+  {
+    "start": 204.56,
+    "end": 204.76,
+    "word": "tentar",
+    "probability": 0.9744
+  },
+  {
+    "start": 204.76,
+    "end": 205.0,
+    "word": "nadar",
+    "probability": 0.9852
+  },
+  {
+    "start": 205.0,
+    "end": 205.18,
+    "word": "até",
+    "probability": 0.9893
+  },
+  {
+    "start": 205.18,
+    "end": 205.26,
+    "word": "a",
+    "probability": 0.9574
+  },
+  {
+    "start": 205.26,
+    "end": 205.52,
+    "word": "pista.",
+    "probability": 0.9988
+  },
+  {
+    "start": 206.8,
+    "end": 207.1,
+    "word": "E",
+    "probability": 0.9242
+  },
+  {
+    "start": 207.1,
+    "end": 207.4,
+    "word": "cada",
+    "probability": 0.9832
+  },
+  {
+    "start": 207.4,
+    "end": 207.82,
+    "word": "bairro",
+    "probability": 0.9725
+  },
+  {
+    "start": 207.82,
+    "end": 208.08,
+    "word": "parece",
+    "probability": 0.981
+  },
+  {
+    "start": 208.08,
+    "end": 208.28,
+    "word": "ter",
+    "probability": 0.9776
+  },
+  {
+    "start": 208.28,
+    "end": 208.34,
+    "word": "o",
+    "probability": 0.8741
+  },
+  {
+    "start": 208.34,
+    "end": 208.42,
+    "word": "seu",
+    "probability": 0.9935
+  },
+  {
+    "start": 208.42,
+    "end": 208.8,
+    "word": "próprio",
+    "probability": 0.9967
+  },
+  {
+    "start": 208.8,
+    "end": 209.2,
+    "word": "pavio.",
+    "probability": 0.8814
+  },
+  {
+    "start": 209.66,
+    "end": 209.92,
+    "word": "Olha",
+    "probability": 0.2196
+  },
+  {
+    "start": 209.92,
+    "end": 210.06,
+    "word": "as",
+    "probability": 0.9902
+  },
+  {
+    "start": 210.06,
+    "end": 210.36,
+    "word": "imagens",
+    "probability": 0.9918
+  },
+  {
+    "start": 210.36,
+    "end": 210.5,
+    "word": "de",
+    "probability": 0.9223
+  },
+  {
+    "start": 210.5,
+    "end": 210.84,
+    "word": "Ambrosia:",
+    "probability": 0.6541
+  },
+  {
+    "start": 211.2,
+    "end": 211.38,
+    "word": "tem",
+    "probability": 0.9721
+  },
+  {
+    "start": 211.38,
+    "end": 211.82,
+    "word": "comboio",
+    "probability": 0.8813
+  },
+  {
+    "start": 211.82,
+    "end": 211.9,
+    "word": "de",
+    "probability": 0.9892
+  },
+  {
+    "start": 211.9,
+    "end": 212.22,
+    "word": "moto",
+    "probability": 0.9605
+  },
+  {
+    "start": 212.22,
+    "end": 212.4,
+    "word": "e",
+    "probability": 0.984
+  },
+  {
+    "start": 212.4,
+    "end": 212.58,
+    "word": "até",
+    "probability": 0.9871
+  },
+  {
+    "start": 212.58,
+    "end": 213.04,
+    "word": "passageiro",
+    "probability": 0.8953
+  },
+  {
+    "start": 213.04,
+    "end": 213.22,
+    "word": "com",
+    "probability": 0.3886
+  },
+  {
+    "start": 213.22,
+    "end": 213.4,
+    "word": "fuzil",
+    "probability": 0.3886
+  },
+  {
+    "start": 213.4,
+    "end": 213.62,
+    "word": "na",
+    "probability": 0.8879
+  },
+  {
+    "start": 213.62,
+    "end": 213.96,
+    "word": "garupa.",
+    "probability": 0.8861
+  },
+  {
+    "start": 214.5,
+    "end": 214.82,
+    "word": "Agora",
+    "probability": 0.9813
+  },
+  {
+    "start": 214.82,
+    "end": 215.52,
+    "word": "entra",
+    "probability": 0.1508
+  },
+  {
+    "start": 215.52,
+    "end": 215.7,
+    "word": "no",
+    "probability": 0.9725
+  },
+  {
+    "start": 215.7,
+    "end": 216.1,
+    "word": "Effluvia,",
+    "probability": 0.4767
+  },
+  {
+    "start": 216.42,
+    "end": 216.48,
+    "word": "em",
+    "probability": 0.8954
+  },
+  {
+    "start": 216.48,
+    "end": 216.64,
+    "word": "Vice",
+    "probability": 0.1362
+  },
+  {
+    "start": 216.64,
+    "end": 217.02,
+    "word": "City,",
+    "probability": 0.9777
+  },
+  {
+    "start": 217.16,
+    "end": 217.26,
+    "word": "no",
+    "probability": 0.7688
+  },
+  {
+    "start": 217.26,
+    "end": 217.6,
+    "word": "minuto",
+    "probability": 0.5244
+  },
+  {
+    "start": 217.6,
+    "end": 217.78,
+    "word": "dez",
+    "probability": 0.8938
+  },
+  {
+    "start": 217.78,
+    "end": 217.96,
+    "word": "e",
+    "probability": 0.8938
+  },
+  {
+    "start": 217.96,
+    "end": 218.14,
+    "word": "dez",
+    "probability": 0.5253
+  },
+  {
+    "start": 218.14,
+    "end": 218.3,
+    "word": "do",
+    "probability": 0.7048
+  },
+  {
+    "start": 218.3,
+    "end": 218.54,
+    "word": "gameplay:",
+    "probability": 0.9371
+  },
+  {
+    "start": 219.78,
+    "end": 220.34,
+    "word": "muda",
+    "probability": 0.2749
+  },
+  {
+    "start": 220.34,
+    "end": 220.52,
+    "word": "a",
+    "probability": 0.8864
+  },
+  {
+    "start": 220.52,
+    "end": 220.8,
+    "word": "música,",
+    "probability": 0.9068
+  },
+  {
+    "start": 221.26,
+    "end": 221.52,
+    "word": "muda",
+    "probability": 0.8616
+  },
+  {
+    "start": 221.52,
+    "end": 221.62,
+    "word": "a",
+    "probability": 0.9908
+  },
+  {
+    "start": 221.62,
+    "end": 222.06,
+    "word": "postura",
+    "probability": 0.9657
+  },
+  {
+    "start": 222.06,
+    "end": 222.18,
+    "word": "da",
+    "probability": 0.9549
+  },
+  {
+    "start": 222.18,
+    "end": 222.64,
+    "word": "turma,",
+    "probability": 0.6414
+  },
+  {
+    "start": 222.64,
+    "end": 222.76,
+    "word": "e",
+    "probability": 0.815
+  },
+  {
+    "start": 222.76,
+    "end": 223.04,
+    "word": "cada",
+    "probability": 0.9706
+  },
+  {
+    "start": 223.04,
+    "end": 223.34,
+    "word": "mesa",
+    "probability": 0.6045
+  },
+  {
+    "start": 223.34,
+    "end": 223.72,
+    "word": "parece",
+    "probability": 0.9672
+  },
+  {
+    "start": 223.72,
+    "end": 223.98,
+    "word": "no",
+    "probability": 0.9783
+  },
+  {
+    "start": 223.98,
+    "end": 224.16,
+    "word": "meio",
+    "probability": 0.9975
+  },
+  {
+    "start": 224.16,
+    "end": 224.32,
+    "word": "da",
+    "probability": 0.9898
+  },
+  {
+    "start": 224.32,
+    "end": 224.68,
+    "word": "própria",
+    "probability": 0.9857
+  },
+  {
+    "start": 224.68,
+    "end": 224.94,
+    "word": "fofoca.",
+    "probability": 0.4615
+  },
+  {
+    "start": 224.94,
+    "end": 225.2,
+    "word": "E",
+    "probability": 0.4615
+  },
+  {
+    "start": 225.82,
+    "end": 226.38,
+    "word": "isso",
+    "probability": 0.5559
+  },
+  {
+    "start": 226.38,
+    "end": 226.62,
+    "word": "traz",
+    "probability": 0.9826
+  },
+  {
+    "start": 226.62,
+    "end": 226.74,
+    "word": "a",
+    "probability": 0.9496
+  },
+  {
+    "start": 226.74,
+    "end": 226.88,
+    "word": "gente",
+    "probability": 0.9985
+  },
+  {
+    "start": 226.88,
+    "end": 227.04,
+    "word": "de",
+    "probability": 0.9654
+  },
+  {
+    "start": 227.04,
+    "end": 227.3,
+    "word": "volta",
+    "probability": 0.9979
+  },
+  {
+    "start": 227.3,
+    "end": 227.56,
+    "word": "pra",
+    "probability": 0.5127
+  },
+  {
+    "start": 227.56,
+    "end": 227.76,
+    "word": "aquela",
+    "probability": 0.9819
+  },
+  {
+    "start": 227.76,
+    "end": 228.04,
+    "word": "mulher",
+    "probability": 0.7485
+  },
+  {
+    "start": 228.04,
+    "end": 228.2,
+    "word": "de",
+    "probability": 0.3759
+  },
+  {
+    "start": 228.2,
+    "end": 228.36,
+    "word": "vestido",
+    "probability": 0.3759
+  },
+  {
+    "start": 228.36,
+    "end": 228.76,
+    "word": "rosa",
+    "probability": 0.9411
+  },
+  {
+    "start": 228.76,
+    "end": 229.68,
+    "word": "dentro",
+    "probability": 0.6202
+  },
+  {
+    "start": 229.68,
+    "end": 229.86,
+    "word": "do",
+    "probability": 0.8089
+  },
+  {
+    "start": 229.86,
+    "end": 230.28,
+    "word": "elevador",
+    "probability": 0.9977
+  },
+  {
+    "start": 230.28,
+    "end": 230.5,
+    "word": "no",
+    "probability": 0.6115
+  },
+  {
+    "start": 230.5,
+    "end": 230.74,
+    "word": "minuto",
+    "probability": 0.9094
+  },
+  {
+    "start": 230.74,
+    "end": 230.947,
+    "word": "nove",
+    "probability": 0.9362
+  },
+  {
+    "start": 230.947,
+    "end": 231.153,
+    "word": "e",
+    "probability": 0.9362
+  },
+  {
+    "start": 231.153,
+    "end": 231.36,
+    "word": "quarenta.",
+    "probability": 0.6688
+  },
+  {
+    "start": 232.5,
+    "end": 232.84,
+    "word": "Olha",
+    "probability": 0.7213
+  },
+  {
+    "start": 232.84,
+    "end": 232.98,
+    "word": "com",
+    "probability": 0.949
+  },
+  {
+    "start": 232.98,
+    "end": 233.32,
+    "word": "atenção",
+    "probability": 0.8972
+  },
+  {
+    "start": 233.32,
+    "end": 233.68,
+    "word": "pros",
+    "probability": 0.8686
+  },
+  {
+    "start": 233.68,
+    "end": 233.78,
+    "word": "dois",
+    "probability": 0.9033
+  },
+  {
+    "start": 233.78,
+    "end": 234.16,
+    "word": "quadros",
+    "probability": 0.9833
+  },
+  {
+    "start": 234.16,
+    "end": 234.24,
+    "word": "do",
+    "probability": 0.6931
+  },
+  {
+    "start": 234.24,
+    "end": 234.52,
+    "word": "minuto",
+    "probability": 0.984
+  },
+  {
+    "start": 234.52,
+    "end": 235.3,
+    "word": "nove",
+    "probability": 0.9798
+  },
+  {
+    "start": 235.3,
+    "end": 235.6,
+    "word": "e",
+    "probability": 0.9602
+  },
+  {
+    "start": 235.6,
+    "end": 235.72,
+    "word": "quarenta",
+    "probability": 0.9799
+  },
+  {
+    "start": 235.72,
+    "end": 235.84,
+    "word": "e",
+    "probability": 0.9799
+  },
+  {
+    "start": 235.84,
+    "end": 235.96,
+    "word": "nove",
+    "probability": 0.9799
+  },
+  {
+    "start": 235.96,
+    "end": 236.08,
+    "word": "e",
+    "probability": 0.9845
+  },
+  {
+    "start": 236.08,
+    "end": 236.2,
+    "word": "cinquenta",
+    "probability": 0.9845
+  },
+  {
+    "start": 236.2,
+    "end": 236.46,
+    "word": "do",
+    "probability": 0.9266
+  },
+  {
+    "start": 236.46,
+    "end": 236.74,
+    "word": "gameplay.",
+    "probability": 0.8547
+  },
+  {
+    "start": 237.68,
+    "end": 237.86,
+    "word": "O",
+    "probability": 0.8645
+  },
+  {
+    "start": 237.86,
+    "end": 238.1,
+    "word": "Jason",
+    "probability": 0.9668
+  },
+  {
+    "start": 238.1,
+    "end": 238.42,
+    "word": "tá",
+    "probability": 0.8195
+  },
+  {
+    "start": 238.42,
+    "end": 238.56,
+    "word": "num",
+    "probability": 0.554
+  },
+  {
+    "start": 238.56,
+    "end": 238.9,
+    "word": "elevador",
+    "probability": 0.994
+  },
+  {
+    "start": 238.9,
+    "end": 239.44,
+    "word": "apertado",
+    "probability": 0.9984
+  },
+  {
+    "start": 239.44,
+    "end": 239.62,
+    "word": "com",
+    "probability": 0.7708
+  },
+  {
+    "start": 239.62,
+    "end": 239.76,
+    "word": "uma",
+    "probability": 0.9029
+  },
+  {
+    "start": 239.76,
+    "end": 239.96,
+    "word": "mulher",
+    "probability": 0.9967
+  },
+  {
+    "start": 239.96,
+    "end": 240.11,
+    "word": "de",
+    "probability": 0.9796
+  },
+  {
+    "start": 240.11,
+    "end": 240.26,
+    "word": "vestido",
+    "probability": 0.9796
+  },
+  {
+    "start": 240.26,
+    "end": 240.62,
+    "word": "rosa",
+    "probability": 0.9959
+  },
+  {
+    "start": 240.62,
+    "end": 241.04,
+    "word": "encostada",
+    "probability": 0.9141
+  },
+  {
+    "start": 241.04,
+    "end": 241.2,
+    "word": "na",
+    "probability": 0.9842
+  },
+  {
+    "start": 241.2,
+    "end": 241.6,
+    "word": "parede.",
+    "probability": 0.9914
+  },
+  {
+    "start": 242.44,
+    "end": 242.9,
+    "word": "Dá",
+    "probability": 0.9772
+  },
+  {
+    "start": 242.9,
+    "end": 243.06,
+    "word": "pra",
+    "probability": 0.6722
+  },
+  {
+    "start": 243.06,
+    "end": 243.54,
+    "word": "acompanhar",
+    "probability": 0.9973
+  },
+  {
+    "start": 243.54,
+    "end": 243.66,
+    "word": "a",
+    "probability": 0.989
+  },
+  {
+    "start": 243.66,
+    "end": 243.94,
+    "word": "postura",
+    "probability": 0.9937
+  },
+  {
+    "start": 243.94,
+    "end": 244.26,
+    "word": "dela",
+    "probability": 0.9771
+  },
+  {
+    "start": 244.26,
+    "end": 244.54,
+    "word": "até",
+    "probability": 0.9866
+  },
+  {
+    "start": 244.54,
+    "end": 244.68,
+    "word": "a",
+    "probability": 0.9647
+  },
+  {
+    "start": 244.68,
+    "end": 244.84,
+    "word": "porta",
+    "probability": 0.998
+  },
+  {
+    "start": 244.84,
+    "end": 245.14,
+    "word": "abrir",
+    "probability": 0.9344
+  },
+  {
+    "start": 245.14,
+    "end": 245.26,
+    "word": "no",
+    "probability": 0.985
+  },
+  {
+    "start": 245.26,
+    "end": 245.48,
+    "word": "minuto",
+    "probability": 0.9957
+  },
+  {
+    "start": 245.48,
+    "end": 245.7,
+    "word": "nove",
+    "probability": 0.9879
+  },
+  {
+    "start": 245.7,
+    "end": 245.92,
+    "word": "e",
+    "probability": 0.9879
+  },
+  {
+    "start": 245.92,
+    "end": 246.14,
+    "word": "cinquenta.",
+    "probability": 0.9925
+  },
+  {
+    "start": 246.92,
+    "end": 247.44,
+    "word": "Os",
+    "probability": 0.0294
+  },
+  {
+    "start": 247.44,
+    "end": 247.74,
+    "word": "óculos",
+    "probability": 0.9897
+  },
+  {
+    "start": 247.74,
+    "end": 248.22,
+    "word": "escondem",
+    "probability": 0.9749
+  },
+  {
+    "start": 248.22,
+    "end": 248.36,
+    "word": "os",
+    "probability": 0.9651
+  },
+  {
+    "start": 248.36,
+    "end": 248.6,
+    "word": "olhos,",
+    "probability": 0.9912
+  },
+  {
+    "start": 248.68,
+    "end": 248.92,
+    "word": "então",
+    "probability": 0.9275
+  },
+  {
+    "start": 248.92,
+    "end": 249.56,
+    "word": "a",
+    "probability": 0.8012
+  },
+  {
+    "start": 249.56,
+    "end": 249.7,
+    "word": "cena",
+    "probability": 0.9719
+  },
+  {
+    "start": 249.7,
+    "end": 249.88,
+    "word": "deixa",
+    "probability": 0.9392
+  },
+  {
+    "start": 249.88,
+    "end": 250.04,
+    "word": "uma",
+    "probability": 0.9154
+  },
+  {
+    "start": 250.04,
+    "end": 250.48,
+    "word": "pergunta:",
+    "probability": 0.9778
+  },
+  {
+    "start": 251.3,
+    "end": 251.52,
+    "word": "será",
+    "probability": 0.9108
+  },
+  {
+    "start": 251.52,
+    "end": 251.68,
+    "word": "que",
+    "probability": 0.9946
+  },
+  {
+    "start": 251.68,
+    "end": 251.76,
+    "word": "o",
+    "probability": 0.9947
+  },
+  {
+    "start": 251.76,
+    "end": 251.92,
+    "word": "jogo",
+    "probability": 0.9964
+  },
+  {
+    "start": 251.92,
+    "end": 252.38,
+    "word": "reage",
+    "probability": 0.9468
+  },
+  {
+    "start": 252.38,
+    "end": 252.52,
+    "word": "ao",
+    "probability": 0.9482
+  },
+  {
+    "start": 252.52,
+    "end": 252.7,
+    "word": "jeito",
+    "probability": 0.993
+  },
+  {
+    "start": 252.7,
+    "end": 252.88,
+    "word": "que",
+    "probability": 0.9841
+  },
+  {
+    "start": 252.88,
+    "end": 253.08,
+    "word": "você",
+    "probability": 0.9669
+  },
+  {
+    "start": 253.08,
+    "end": 253.5,
+    "word": "ocupa",
+    "probability": 0.9849
+  },
+  {
+    "start": 253.5,
+    "end": 253.96,
+    "word": "o",
+    "probability": 0.9558
+  },
+  {
+    "start": 253.96,
+    "end": 254.3,
+    "word": "espaço,",
+    "probability": 0.9908
+  },
+  {
+    "start": 254.3,
+    "end": 255.1,
+    "word": "ou",
+    "probability": 0.3245
+  },
+  {
+    "start": 255.1,
+    "end": 255.26,
+    "word": "é",
+    "probability": 0.9668
+  },
+  {
+    "start": 255.26,
+    "end": 255.38,
+    "word": "a",
+    "probability": 0.8923
+  },
+  {
+    "start": 255.38,
+    "end": 255.76,
+    "word": "atuação",
+    "probability": 0.9831
+  },
+  {
+    "start": 255.76,
+    "end": 256.0,
+    "word": "daquela",
+    "probability": 0.8664
+  },
+  {
+    "start": 256.0,
+    "end": 256.28,
+    "word": "cena?",
+    "probability": 0.9978
+  },
+  {
+    "start": 257.08,
+    "end": 257.52,
+    "word": "Soma",
+    "probability": 0.7514
+  },
+  {
+    "start": 257.52,
+    "end": 257.92,
+    "word": "isso",
+    "probability": 0.9802
+  },
+  {
+    "start": 257.92,
+    "end": 258.22,
+    "word": "com",
+    "probability": 0.9425
+  },
+  {
+    "start": 258.22,
+    "end": 258.32,
+    "word": "os",
+    "probability": 0.9765
+  },
+  {
+    "start": 258.32,
+    "end": 258.62,
+    "word": "botões",
+    "probability": 0.9897
+  },
+  {
+    "start": 258.62,
+    "end": 258.76,
+    "word": "de",
+    "probability": 0.9815
+  },
+  {
+    "start": 258.76,
+    "end": 259.14,
+    "word": "interação",
+    "probability": 0.9086
+  },
+  {
+    "start": 259.14,
+    "end": 259.28,
+    "word": "que",
+    "probability": 0.9762
+  },
+  {
+    "start": 259.28,
+    "end": 259.62,
+    "word": "aparecem",
+    "probability": 0.667
+  },
+  {
+    "start": 259.62,
+    "end": 259.74,
+    "word": "no",
+    "probability": 0.9738
+  },
+  {
+    "start": 259.74,
+    "end": 259.94,
+    "word": "canto",
+    "probability": 0.7426
+  },
+  {
+    "start": 259.94,
+    "end": 260.02,
+    "word": "da",
+    "probability": 0.9955
+  },
+  {
+    "start": 260.02,
+    "end": 260.3,
+    "word": "tela.",
+    "probability": 0.9975
+  },
+  {
+    "start": 261.1,
+    "end": 261.32,
+    "word": "No",
+    "probability": 0.928
+  },
+  {
+    "start": 261.32,
+    "end": 261.54,
+    "word": "minuto",
+    "probability": 0.9364
+  },
+  {
+    "start": 261.54,
+    "end": 261.82,
+    "word": "um,",
+    "probability": 0.8751
+  },
+  {
+    "start": 261.82,
+    "end": 262.34,
+    "word": "tem",
+    "probability": 0.8171
+  },
+  {
+    "start": 262.34,
+    "end": 262.44,
+    "word": "uma",
+    "probability": 0.9544
+  },
+  {
+    "start": 262.44,
+    "end": 262.66,
+    "word": "opção",
+    "probability": 0.9963
+  },
+  {
+    "start": 262.66,
+    "end": 262.76,
+    "word": "de",
+    "probability": 0.9963
+  },
+  {
+    "start": 262.76,
+    "end": 263.34,
+    "word": "conversa.",
+    "probability": 0.9962
+  },
+  {
+    "start": 263.68,
+    "end": 263.98,
+    "word": "No",
+    "probability": 0.9671
+  },
+  {
+    "start": 263.98,
+    "end": 264.22,
+    "word": "minuto",
+    "probability": 0.9967
+  },
+  {
+    "start": 264.22,
+    "end": 264.64,
+    "word": "dois,",
+    "probability": 0.9923
+  },
+  {
+    "start": 264.64,
+    "end": 265.1,
+    "word": "o",
+    "probability": 0.7462
+  },
+  {
+    "start": 265.1,
+    "end": 265.44,
+    "word": "comando",
+    "probability": 0.9908
+  },
+  {
+    "start": 265.44,
+    "end": 265.6,
+    "word": "pra",
+    "probability": 0.8138
+  },
+  {
+    "start": 265.6,
+    "end": 265.94,
+    "word": "estudar",
+    "probability": 0.9839
+  },
+  {
+    "start": 265.94,
+    "end": 266.04,
+    "word": "o",
+    "probability": 0.9762
+  },
+  {
+    "start": 266.04,
+    "end": 266.34,
+    "word": "cachorro",
+    "probability": 0.9803
+  },
+  {
+    "start": 266.34,
+    "end": 266.68,
+    "word": "aparece",
+    "probability": 0.9104
+  },
+  {
+    "start": 266.68,
+    "end": 266.86,
+    "word": "no",
+    "probability": 0.9814
+  },
+  {
+    "start": 266.86,
+    "end": 267.02,
+    "word": "R",
+    "probability": 0.8717
+  },
+  {
+    "start": 267.02,
+    "end": 267.18,
+    "word": "um.",
+    "probability": 0.8717
+  },
+  {
+    "start": 268.28,
+    "end": 268.8,
+    "word": "Sabe",
+    "probability": 0.974
+  },
+  {
+    "start": 268.8,
+    "end": 268.9,
+    "word": "o",
+    "probability": 0.9853
+  },
+  {
+    "start": 268.9,
+    "end": 268.94,
+    "word": "que",
+    "probability": 0.9963
+  },
+  {
+    "start": 268.94,
+    "end": 269.06,
+    "word": "isso",
+    "probability": 0.5735
+  },
+  {
+    "start": 269.06,
+    "end": 269.52,
+    "word": "significa",
+    "probability": 0.9949
+  },
+  {
+    "start": 269.52,
+    "end": 269.68,
+    "word": "na",
+    "probability": 0.9569
+  },
+  {
+    "start": 269.68,
+    "end": 270.12,
+    "word": "prática",
+    "probability": 0.9914
+  },
+  {
+    "start": 270.12,
+    "end": 270.84,
+    "word": "quando",
+    "probability": 0.6729
+  },
+  {
+    "start": 270.84,
+    "end": 271.02,
+    "word": "você",
+    "probability": 0.9808
+  },
+  {
+    "start": 271.02,
+    "end": 271.32,
+    "word": "começar",
+    "probability": 0.8983
+  },
+  {
+    "start": 271.32,
+    "end": 271.42,
+    "word": "a",
+    "probability": 0.9886
+  },
+  {
+    "start": 271.42,
+    "end": 271.56,
+    "word": "jogar",
+    "probability": 0.9952
+  },
+  {
+    "start": 271.56,
+    "end": 271.74,
+    "word": "no",
+    "probability": 0.9466
+  },
+  {
+    "start": 271.74,
+    "end": 271.86,
+    "word": "dia",
+    "probability": 0.9963
+  },
+  {
+    "start": 271.86,
+    "end": 272.22,
+    "word": "dezenove?",
+    "probability": 0.9471
+  },
+  {
+    "start": 273.28,
+    "end": 273.76,
+    "word": "Meu",
+    "probability": 0.0187
+  },
+  {
+    "start": 273.76,
+    "end": 274.24,
+    "word": "primeiro",
+    "probability": 0.73
+  },
+  {
+    "start": 274.24,
+    "end": 274.58,
+    "word": "teste",
+    "probability": 0.8185
+  },
+  {
+    "start": 274.58,
+    "end": 274.74,
+    "word": "vai",
+    "probability": 0.6277
+  },
+  {
+    "start": 274.74,
+    "end": 274.84,
+    "word": "ser",
+    "probability": 0.8252
+  },
+  {
+    "start": 274.84,
+    "end": 275.08,
+    "word": "chegar",
+    "probability": 0.6211
+  },
+  {
+    "start": 275.08,
+    "end": 275.3,
+    "word": "perto",
+    "probability": 0.9779
+  },
+  {
+    "start": 275.3,
+    "end": 275.46,
+    "word": "de",
+    "probability": 0.9809
+  },
+  {
+    "start": 275.46,
+    "end": 275.52,
+    "word": "um",
+    "probability": 0.5712
+  },
+  {
+    "start": 275.52,
+    "end": 275.86,
+    "word": "segurança",
+    "probability": 0.9267
+  },
+  {
+    "start": 275.86,
+    "end": 276.1,
+    "word": "com",
+    "probability": 0.9465
+  },
+  {
+    "start": 276.1,
+    "end": 276.16,
+    "word": "a",
+    "probability": 0.6016
+  },
+  {
+    "start": 276.16,
+    "end": 276.3,
+    "word": "mão",
+    "probability": 0.9946
+  },
+  {
+    "start": 276.3,
+    "end": 276.72,
+    "word": "vazia",
+    "probability": 0.9924
+  },
+  {
+    "start": 276.72,
+    "end": 277.36,
+    "word": "e",
+    "probability": 0.4457
+  },
+  {
+    "start": 277.36,
+    "end": 277.54,
+    "word": "depois",
+    "probability": 0.9888
+  },
+  {
+    "start": 277.54,
+    "end": 277.82,
+    "word": "voltar",
+    "probability": 0.9
+  },
+  {
+    "start": 277.82,
+    "end": 278.2,
+    "word": "segurando",
+    "probability": 0.903
+  },
+  {
+    "start": 278.2,
+    "end": 278.4,
+    "word": "uma",
+    "probability": 0.984
+  },
+  {
+    "start": 278.4,
+    "end": 278.64,
+    "word": "arma.",
+    "probability": 0.7443
+  },
+  {
+    "start": 279.36,
+    "end": 279.78,
+    "word": "Quero",
+    "probability": 0.8968
+  },
+  {
+    "start": 279.78,
+    "end": 279.94,
+    "word": "ver",
+    "probability": 0.9976
+  },
+  {
+    "start": 279.94,
+    "end": 280.06,
+    "word": "se",
+    "probability": 0.996
+  },
+  {
+    "start": 280.06,
+    "end": 280.28,
+    "word": "muda",
+    "probability": 0.9097
+  },
+  {
+    "start": 280.28,
+    "end": 280.34,
+    "word": "o",
+    "probability": 0.9337
+  },
+  {
+    "start": 280.34,
+    "end": 280.58,
+    "word": "olhar,",
+    "probability": 0.9887
+  },
+  {
+    "start": 281.16,
+    "end": 281.38,
+    "word": "se",
+    "probability": 0.9788
+  },
+  {
+    "start": 281.38,
+    "end": 281.68,
+    "word": "muda",
+    "probability": 0.9927
+  },
+  {
+    "start": 281.68,
+    "end": 282.0,
+    "word": "a",
+    "probability": 0.9971
+  },
+  {
+    "start": 282.0,
+    "end": 282.48,
+    "word": "postura",
+    "probability": 0.9922
+  },
+  {
+    "start": 282.48,
+    "end": 283.16,
+    "word": "e",
+    "probability": 0.2977
+  },
+  {
+    "start": 283.16,
+    "end": 283.18,
+    "word": "se",
+    "probability": 0.9909
+  },
+  {
+    "start": 283.18,
+    "end": 283.46,
+    "word": "aparece",
+    "probability": 0.9536
+  },
+  {
+    "start": 283.46,
+    "end": 283.7,
+    "word": "alguma",
+    "probability": 0.9693
+  },
+  {
+    "start": 283.7,
+    "end": 283.98,
+    "word": "opção",
+    "probability": 0.996
+  },
+  {
+    "start": 283.98,
+    "end": 284.08,
+    "word": "de",
+    "probability": 0.9947
+  },
+  {
+    "start": 284.08,
+    "end": 284.58,
+    "word": "conversa",
+    "probability": 0.9938
+  },
+  {
+    "start": 284.58,
+    "end": 284.7,
+    "word": "antes",
+    "probability": 0.9612
+  },
+  {
+    "start": 284.7,
+    "end": 284.86,
+    "word": "do",
+    "probability": 0.8712
+  },
+  {
+    "start": 284.86,
+    "end": 285.3,
+    "word": "alerta.",
+    "probability": 0.9941
+  },
+  {
+    "start": 286.16,
+    "end": 286.48,
+    "word": "Se",
+    "probability": 0.9699
+  },
+  {
+    "start": 286.48,
+    "end": 286.56,
+    "word": "der",
+    "probability": 0.6237
+  },
+  {
+    "start": 286.56,
+    "end": 286.68,
+    "word": "pra",
+    "probability": 0.5266
+  },
+  {
+    "start": 286.68,
+    "end": 287.04,
+    "word": "baixar",
+    "probability": 0.9685
+  },
+  {
+    "start": 287.04,
+    "end": 287.16,
+    "word": "a",
+    "probability": 0.8497
+  },
+  {
+    "start": 287.16,
+    "end": 287.46,
+    "word": "fervura",
+    "probability": 0.905
+  },
+  {
+    "start": 287.46,
+    "end": 287.66,
+    "word": "sem",
+    "probability": 0.971
+  },
+  {
+    "start": 287.66,
+    "end": 287.94,
+    "word": "gastar",
+    "probability": 0.9944
+  },
+  {
+    "start": 287.94,
+    "end": 288.06,
+    "word": "uma",
+    "probability": 0.9691
+  },
+  {
+    "start": 288.06,
+    "end": 288.46,
+    "word": "bala,",
+    "probability": 0.9757
+  },
+  {
+    "start": 288.66,
+    "end": 288.9,
+    "word": "melhor.",
+    "probability": 0.8341
+  },
+  {
+    "start": 289.92,
+    "end": 290.22,
+    "word": "Se",
+    "probability": 0.985
+  },
+  {
+    "start": 290.22,
+    "end": 290.34,
+    "word": "der",
+    "probability": 0.9646
+  },
+  {
+    "start": 290.34,
+    "end": 290.72,
+    "word": "merda,",
+    "probability": 0.9928
+  },
+  {
+    "start": 291.2,
+    "end": 291.2,
+    "word": "a",
+    "probability": 0.88
+  },
+  {
+    "start": 291.2,
+    "end": 291.32,
+    "word": "gente",
+    "probability": 0.9986
+  },
+  {
+    "start": 291.32,
+    "end": 291.5,
+    "word": "volta",
+    "probability": 0.9735
+  },
+  {
+    "start": 291.5,
+    "end": 291.76,
+    "word": "aqui",
+    "probability": 0.9147
+  },
+  {
+    "start": 291.76,
+    "end": 291.88,
+    "word": "e",
+    "probability": 0.9631
+  },
+  {
+    "start": 291.88,
+    "end": 292.06,
+    "word": "conta.",
+    "probability": 0.9954
+  },
+  {
+    "start": 294.42,
+    "end": 294.62,
+    "word": "E",
+    "probability": 0.7694
+  },
+  {
+    "start": 294.62,
+    "end": 294.74,
+    "word": "num",
+    "probability": 0.8976
+  },
+  {
+    "start": 294.74,
+    "end": 295.0,
+    "word": "estado",
+    "probability": 0.9799
+  },
+  {
+    "start": 295.0,
+    "end": 295.2,
+    "word": "onde",
+    "probability": 0.8621
+  },
+  {
+    "start": 295.2,
+    "end": 295.4,
+    "word": "até",
+    "probability": 0.8804
+  },
+  {
+    "start": 295.4,
+    "end": 295.5,
+    "word": "o",
+    "probability": 0.9806
+  },
+  {
+    "start": 295.5,
+    "end": 295.92,
+    "word": "vizinho",
+    "probability": 0.9658
+  },
+  {
+    "start": 295.92,
+    "end": 296.04,
+    "word": "do",
+    "probability": 0.9882
+  },
+  {
+    "start": 296.04,
+    "end": 296.52,
+    "word": "elevador",
+    "probability": 0.9981
+  },
+  {
+    "start": 296.52,
+    "end": 296.72,
+    "word": "te",
+    "probability": 0.3279
+  },
+  {
+    "start": 296.72,
+    "end": 297.06,
+    "word": "mede",
+    "probability": 0.869
+  },
+  {
+    "start": 297.06,
+    "end": 297.18,
+    "word": "de",
+    "probability": 0.9786
+  },
+  {
+    "start": 297.18,
+    "end": 297.44,
+    "word": "cima",
+    "probability": 0.9992
+  },
+  {
+    "start": 297.44,
+    "end": 297.58,
+    "word": "a",
+    "probability": 0.6495
+  },
+  {
+    "start": 297.58,
+    "end": 297.9,
+    "word": "baixo,",
+    "probability": 0.997
+  },
+  {
+    "start": 298.14,
+    "end": 298.8,
+    "word": "tentar",
+    "probability": 0.9568
+  },
+  {
+    "start": 298.8,
+    "end": 299.34,
+    "word": "sobreviver",
+    "probability": 0.9846
+  },
+  {
+    "start": 299.74,
+    "end": 299.98,
+    "word": "sozinho",
+    "probability": 0.9924
+  },
+  {
+    "start": 300.36,
+    "end": 300.46,
+    "word": "é",
+    "probability": 0.8472
+  },
+  {
+    "start": 300.46,
+    "end": 300.64,
+    "word": "pedir",
+    "probability": 0.9747
+  },
+  {
+    "start": 300.64,
+    "end": 300.78,
+    "word": "pra",
+    "probability": 0.9488
+  },
+  {
+    "start": 300.78,
+    "end": 300.92,
+    "word": "tomar",
+    "probability": 0.9887
+  },
+  {
+    "start": 300.92,
+    "end": 301.16,
+    "word": "tiro",
+    "probability": 0.6616
+  },
+  {
+    "start": 301.16,
+    "end": 301.44,
+    "word": "pelas",
+    "probability": 0.9946
+  },
+  {
+    "start": 301.44,
+    "end": 301.8,
+    "word": "costas.",
+    "probability": 0.9974
+  },
+  {
+    "start": 302.92,
+    "end": 303.36,
+    "word": "Amanhã,",
+    "probability": 0.7778
+  },
+  {
+    "start": 303.6,
+    "end": 304.05,
+    "word": "sexta-feira",
+    "probability": 0.9881
+  },
+  {
+    "start": 304.05,
+    "end": 304.5,
+    "word": "treze",
+    "probability": 0.9818
+  },
+  {
+    "start": 304.5,
+    "end": 304.64,
+    "word": "de",
+    "probability": 0.9889
+  },
+  {
+    "start": 304.64,
+    "end": 305.1,
+    "word": "novembro,",
+    "probability": 0.9486
+  },
+  {
+    "start": 305.1,
+    "end": 305.6,
+    "word": "eu",
+    "probability": 0.5616
+  },
+  {
+    "start": 305.6,
+    "end": 305.7,
+    "word": "vou",
+    "probability": 0.9596
+  },
+  {
+    "start": 305.7,
+    "end": 305.78,
+    "word": "te",
+    "probability": 0.9951
+  },
+  {
+    "start": 305.78,
+    "end": 306.04,
+    "word": "mostrar",
+    "probability": 0.9916
+  },
+  {
+    "start": 306.04,
+    "end": 306.24,
+    "word": "o",
+    "probability": 0.983
+  },
+  {
+    "start": 306.24,
+    "end": 306.52,
+    "word": "atalho",
+    "probability": 0.8967
+  },
+  {
+    "start": 306.52,
+    "end": 306.66,
+    "word": "da",
+    "probability": 0.9865
+  },
+  {
+    "start": 306.66,
+    "end": 307.08,
+    "word": "Lucia",
+    "probability": 0.874
+  },
+  {
+    "start": 307.08,
+    "end": 307.26,
+    "word": "que",
+    "probability": 0.8264
+  },
+  {
+    "start": 307.26,
+    "end": 307.54,
+    "word": "aparece",
+    "probability": 0.9884
+  },
+  {
+    "start": 307.54,
+    "end": 307.76,
+    "word": "no",
+    "probability": 0.8762
+  },
+  {
+    "start": 307.76,
+    "end": 307.88,
+    "word": "L",
+    "probability": 0.7337
+  },
+  {
+    "start": 307.88,
+    "end": 308.14,
+    "word": "dois,",
+    "probability": 0.7059
+  },
+  {
+    "start": 308.64,
+    "end": 308.86,
+    "word": "as",
+    "probability": 0.6021
+  },
+  {
+    "start": 308.86,
+    "end": 309.08,
+    "word": "cenas",
+    "probability": 0.9432
+  },
+  {
+    "start": 309.08,
+    "end": 309.26,
+    "word": "de",
+    "probability": 0.9913
+  },
+  {
+    "start": 309.26,
+    "end": 309.68,
+    "word": "treino",
+    "probability": 0.9704
+  },
+  {
+    "start": 309.68,
+    "end": 310.0,
+    "word": "e",
+    "probability": 0.9478
+  },
+  {
+    "start": 310.0,
+    "end": 310.08,
+    "word": "o",
+    "probability": 0.9057
+  },
+  {
+    "start": 310.08,
+    "end": 310.42,
+    "word": "alerta",
+    "probability": 0.8231
+  },
+  {
+    "start": 310.42,
+    "end": 310.54,
+    "word": "que",
+    "probability": 0.9844
+  },
+  {
+    "start": 310.54,
+    "end": 310.66,
+    "word": "ela",
+    "probability": 0.9817
+  },
+  {
+    "start": 310.66,
+    "end": 310.84,
+    "word": "dá",
+    "probability": 0.9077
+  },
+  {
+    "start": 310.84,
+    "end": 311.04,
+    "word": "pelo",
+    "probability": 0.936
+  },
+  {
+    "start": 311.04,
+    "end": 311.48,
+    "word": "rádio",
+    "probability": 0.9472
+  },
+  {
+    "start": 311.48,
+    "end": 312.02,
+    "word": "no",
+    "probability": 0.8112
+  },
+  {
+    "start": 312.02,
+    "end": 312.24,
+    "word": "meio",
+    "probability": 0.9987
+  },
+  {
+    "start": 312.24,
+    "end": 312.4,
+    "word": "da",
+    "probability": 0.9967
+  },
+  {
+    "start": 312.4,
+    "end": 312.76,
+    "word": "missão.",
+    "probability": 0.9922
+  },
+  {
+    "start": 313.3,
+    "end": 313.52,
+    "word": "Já",
+    "probability": 0.2362
+  },
+  {
+    "start": 313.52,
+    "end": 313.62,
+    "word": "se",
+    "probability": 0.9722
+  },
+  {
+    "start": 313.62,
+    "end": 313.88,
+    "word": "inscreve",
+    "probability": 0.9537
+  },
+  {
+    "start": 313.88,
+    "end": 314.06,
+    "word": "nessa",
+    "probability": 0.9079
+  },
+  {
+    "start": 314.06,
+    "end": 314.52,
+    "word": "porra",
+    "probability": 0.9921
+  },
+  {
+    "start": 314.52,
+    "end": 314.74,
+    "word": "e",
+    "probability": 0.6433
+  },
+  {
+    "start": 314.74,
+    "end": 314.88,
+    "word": "até",
+    "probability": 0.9913
+  },
+  {
+    "start": 314.88,
+    "end": 315.16,
+    "word": "amanhã.",
+    "probability": 0.9954
+  }
+]

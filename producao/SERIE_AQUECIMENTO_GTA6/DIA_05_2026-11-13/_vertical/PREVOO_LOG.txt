@@ -1,0 +1,3 @@
+[short] 109 planos conferidos (93 de vídeo): 0 erro(s), 0 aviso(s)
+Pré-voo sem erros. Confira as folhas de contato e siga para a amostra/render.
+PREVOO_EXIT=0

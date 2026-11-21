@@ -1,0 +1,258 @@
+{
+  "id": "DIA_06_2026-11-14__reel",
+  "titulo": "GTA 6: O Que Tem no Porta-Malas do Minuto 18",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "T2": "GTAVI_Trailer_2.mp4",
+    "LT": "GTAVI_Launch_Trailer.mp4",
+    "TRUNK": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_porta_malas_interior.jpg",
+    "F1812": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1812.jpg",
+    "BUFFALO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_buffalo_tampa.jpg",
+    "CARTAZ": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_cartaz_celular.jpg",
+    "F1824": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1824.jpg",
+    "F2024": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_2024.jpg",
+    "ICO1556": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_icones_15_56.jpg",
+    "ICO1557": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_icones_15_57.jpg",
+    "BURRITO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_burrito_1612.jpg",
+    "PLACA0828": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_placa_0828.jpg",
+    "PLACA1841": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_placa_1841.jpg",
+    "SLIMJIM": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CROP_0606_SLIM_JIM_triangulo.jpg",
+    "PERNAS": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_pernas_topete.jpg",
+    "LIVE51": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_live_51k.jpg",
+    "CHAT": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_chat_king_of_trunk.jpg",
+    "EST1826": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_estrelas_18_26.jpg",
+    "EST1827": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_estrelas_18_27.jpg",
+    "EST1530": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_estrelas_15_30.jpg",
+    "F1558": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1558.jpg",
+    "F1750": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1750.jpg",
+    "RARMAS": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_175050_roda_armas.jpg",
+    "RITENS": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_175130_roda_itens_FACE_WRAP.jpg",
+    "F1753": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1753.jpg",
+    "F1843": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/EXT_1843.jpg",
+    "DUPLO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CR_duplo_hud_progress_lap.jpg",
+    "PAY": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/montagem/referencias/CARTELA_PAY_N_SPRAY.jpg",
+    "RIDEOUT1": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_RIDEOUT_CUSTOMS_01.jpg",
+    "RIDEOUT2": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_RIDEOUT_CUSTOMS_02.jpg",
+    "RIDEOUT3": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_RIDEOUT_CUSTOMS_03.jpg",
+    "GANADO": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01.jpg",
+    "WYMAN": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.jpg",
+    "SAFEHOUSE": "GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_01.jpg"
+  },
+  "rotulos_obrigatorios": {
+    "GTAV": "GTA V",
+    "T1": "TRAILER 1",
+    "T2": "TRAILER 2",
+    "LT": "LAUNCH TRAILER",
+    "RIDEOUT1": "ULTIMATE EDITION",
+    "RIDEOUT2": "ULTIMATE EDITION",
+    "RIDEOUT3": "ULTIMATE EDITION",
+    "GANADO": "ULTIMATE EDITION",
+    "WYMAN": "ULTIMATE EDITION",
+    "SAFEHOUSE": "ULTIMATE EDITION"
+  },
+  "correcoes_legenda": {
+    "buffalo": "Buffalo",
+    "sentinel": "Sentinel",
+    "burrito": "Burrito",
+    "declasse": "Declasse",
+    "ganado": "Ganado",
+    "rideout": "Rideout",
+    "albany": "Albany",
+    "wyman": "Wyman",
+    "zekes": "Zekes",
+    "pay": "Pay",
+    "spray": "Spray",
+    "leonida": "Leonida",
+    "seis": "6",
+    "gta": "GTA",
+    "ultimate": "Ultimate",
+    "edition": "Edition"
+  },
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_DIA06_Reel_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/_reel/audio/narracao.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_06_2026-11-14/_reel/audio/palavras.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "TRUNK",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0,
+            2.4
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 918.0,
+          "tipo": "editorial",
+          "corte": [
+            2.4,
+            10.72
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "18:12",
+          "detalhe": "Porta-malas do Buffalo",
+          "midia": "F1812",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            10.72,
+            15.9
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "BUFFALO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            15.9,
+            19.0
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PERNAS",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            19.0,
+            23.02
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "3 SEGUNDOS DEPOIS",
+          "detalhe": "18:15 • de pé, filmando",
+          "midia": "EXT",
+          "inicio": 1095.0,
+          "tipo": "editorial",
+          "corte": [
+            23.02,
+            30.0
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1104.0,
+          "tipo": "editorial",
+          "corte": [
+            30.0,
+            34.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "F1824",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            34.2,
+            36.3
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "LIVE 51K",
+          "detalhe": "18:24 • duas estrelas acesas",
+          "midia": "LIVE51",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            36.3,
+            40.5
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "REI DO PORTA-MALAS",
+          "detalhe": "KING OF TRUNK!!! no chat",
+          "midia": "CHAT",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            40.5,
+            45.5
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 48.0,
+          "tipo": "editorial",
+          "corte": [
+            45.5,
+            48.46
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 43.86,
+          "tipo": "editorial",
+          "corte": [
+            48.46,
+            50.06
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 529.86,
+          "tipo": "editorial",
+          "corte": [
+            50.06,
+            53.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "LARGA OU FOGE?",
+          "detalhe": "Comenta • episódio completo no canal",
+          "midia": "EXT",
+          "inicio": 533.2,
+          "tipo": "editorial",
+          "corte": [
+            53.4,
+            56.23
+          ]
+        }
+      ]
+    }
+  }
+}

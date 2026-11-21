@@ -1,0 +1,16 @@
+Validando short: Pixel_Procurado_Only_In_Dade_Story_V2.mp4...
+{
+  "arquivo": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\ONLY_IN_DADE_2026-11-13\\_story\\exportacoes\\Pixel_Procurado_Only_In_Dade_Story_V2.mp4",
+  "dimensoes": "1080x1920",
+  "fps": 30.0,
+  "quadros": 494,
+  "quadros_esperados": 494,
+  "video_s": 16.466667,
+  "audio_s": 16.48,
+  "lufs": -16.8,
+  "peak_dbfs": -1.4,
+  "intervalos_pretos": 0,
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\ONLY_IN_DADE_2026-11-13\\_story\\montagem\\short_v2_qa.jpg"
+}
+Validação concluída com sucesso.
+QA_EXIT=0

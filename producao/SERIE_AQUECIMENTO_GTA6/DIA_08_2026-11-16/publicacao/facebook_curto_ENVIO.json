@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-16T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Meta oficial do GTA 6: 30 quadros por segundo. A Rockstar escreveu que mira 30 fps nos consoles e que o PS5 Pro tem PSSR e sombras com ray tracing. 60 fps, modo desempenho e resolução: não confirmado. A imagem é ilustração. Vídeo completo no canal. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/751616a517b44467be7e70cb3148d20e.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA 6: A Meta Oficial É 30 FPS"
+      }
+    }
+  ]
+}

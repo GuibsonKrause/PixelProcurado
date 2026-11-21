@@ -1,0 +1,59 @@
+{
+  "schema_versao": 1,
+  "id": "DIA_02_2026-11-10",
+  "formato": "longo",
+  "roteiro_origem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_02_2026-11-10/01_NARRACAO_PUBLICACAO_2026-11-11.txt",
+  "etapa_atual": "montagem",
+  "status": "em_andamento",
+  "data_criacao": "2026-11-11T00:32:53-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "validado",
+      "medicoes": {
+        "duracao_s": 416.89
+      },
+      "artefatos": {
+        "wav": "audio/narracao_normalizada.wav"
+      },
+      "atualizado_em": "2026-11-11T00:41:03-03:00"
+    },
+    "alinhamento": {
+      "status": "validado",
+      "artefatos": {
+        "palavras": "audio/palavras_alinhadas.json"
+      },
+      "medicoes": {
+        "palavras": 1242
+      },
+      "atualizado_em": "2026-11-11T00:41:07-03:00"
+    },
+    "montagem": {
+      "status": "pendente"
+    },
+    "render": {
+      "status": "pendente"
+    },
+    "thumbnail": {
+      "status": "validado",
+      "artefatos": {
+        "a": "thumbnail_A/capa_youtube.jpg",
+        "b": "thumbnail_B/capa_youtube.jpg"
+      },
+      "atualizado_em": "2026-11-11T01:28:30-03:00"
+    },
+    "publicacao_pacote": {
+      "status": "validado",
+      "artefatos": {
+        "pasta": "publicacao"
+      },
+      "atualizado_em": "2026-11-11T01:28:33-03:00"
+    },
+    "distribuicao": {
+      "status": "pendente"
+    },
+    "revisao_final": {
+      "status": "pendente"
+    }
+  },
+  "atualizado_em": "2026-11-11T01:28:33-03:00"
+}

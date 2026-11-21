@@ -1,0 +1,1358 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.68,
+    "text": "O preço da mensalidade da Starlink despencou galera, uma promoção de 30% de desconto",
+    "words": [
+      {
+        "word": " O",
+        "start": 0.0,
+        "end": 0.42
+      },
+      {
+        "word": " preço",
+        "start": 0.42,
+        "end": 0.42
+      },
+      {
+        "word": " da",
+        "start": 0.42,
+        "end": 0.6
+      },
+      {
+        "word": " mensalidade",
+        "start": 0.6,
+        "end": 1.14
+      },
+      {
+        "word": " da",
+        "start": 1.14,
+        "end": 1.32
+      },
+      {
+        "word": " Starlink",
+        "start": 1.32,
+        "end": 1.76
+      },
+      {
+        "word": " despencou",
+        "start": 1.76,
+        "end": 2.54
+      },
+      {
+        "word": " galera,",
+        "start": 2.54,
+        "end": 2.76
+      },
+      {
+        "word": " uma",
+        "start": 3.66,
+        "end": 3.84
+      },
+      {
+        "word": " promoção",
+        "start": 3.84,
+        "end": 4.3
+      },
+      {
+        "word": " de",
+        "start": 4.3,
+        "end": 4.46
+      },
+      {
+        "word": " 30",
+        "start": 4.46,
+        "end": 4.78
+      },
+      {
+        "word": "%",
+        "start": 4.78,
+        "end": 5.06
+      },
+      {
+        "word": " de",
+        "start": 5.06,
+        "end": 5.24
+      },
+      {
+        "word": " desconto",
+        "start": 5.24,
+        "end": 5.68
+      }
+    ]
+  },
+  {
+    "start": 5.68,
+    "end": 10.16,
+    "text": "Primeiro eu vou falar sobre os planos residenciais, se você usar no sua casa",
+    "words": [
+      {
+        "word": " Primeiro",
+        "start": 5.68,
+        "end": 6.8
+      },
+      {
+        "word": " eu",
+        "start": 6.8,
+        "end": 6.96
+      },
+      {
+        "word": " vou",
+        "start": 6.96,
+        "end": 6.98
+      },
+      {
+        "word": " falar",
+        "start": 6.98,
+        "end": 7.1
+      },
+      {
+        "word": " sobre",
+        "start": 7.1,
+        "end": 7.62
+      },
+      {
+        "word": " os",
+        "start": 7.62,
+        "end": 8.24
+      },
+      {
+        "word": " planos",
+        "start": 8.24,
+        "end": 8.5
+      },
+      {
+        "word": " residenciais,",
+        "start": 8.5,
+        "end": 9.12
+      },
+      {
+        "word": " se",
+        "start": 9.12,
+        "end": 9.3
+      },
+      {
+        "word": " você",
+        "start": 9.3,
+        "end": 9.42
+      },
+      {
+        "word": " usar",
+        "start": 9.42,
+        "end": 9.6
+      },
+      {
+        "word": " no",
+        "start": 9.6,
+        "end": 9.66
+      },
+      {
+        "word": " sua",
+        "start": 9.66,
+        "end": 9.82
+      },
+      {
+        "word": " casa",
+        "start": 9.82,
+        "end": 10.16
+      }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 19.9,
+    "text": "Aquele plano MAX que antes era R$249,00, agora caiu para R$174,00 por mês",
+    "words": [
+      {
+        "word": " Aquele",
+        "start": 11.2,
+        "end": 11.84
+      },
+      {
+        "word": " plano",
+        "start": 11.84,
+        "end": 12.06
+      },
+      {
+        "word": " MAX",
+        "start": 12.06,
+        "end": 12.42
+      },
+      {
+        "word": " que",
+        "start": 12.42,
+        "end": 13.54
+      },
+      {
+        "word": " antes",
+        "start": 13.54,
+        "end": 13.74
+      },
+      {
+        "word": " era",
+        "start": 13.74,
+        "end": 13.92
+      },
+      {
+        "word": " R",
+        "start": 13.92,
+        "end": 14.02
+      },
+      {
+        "word": "$249",
+        "start": 14.02,
+        "end": 14.98
+      },
+      {
+        "word": ",00,",
+        "start": 14.98,
+        "end": 15.8
+      },
+      {
+        "word": " agora",
+        "start": 15.8,
+        "end": 16.06
+      },
+      {
+        "word": " caiu",
+        "start": 16.06,
+        "end": 16.72
+      },
+      {
+        "word": " para",
+        "start": 16.72,
+        "end": 16.92
+      },
+      {
+        "word": " R",
+        "start": 16.92,
+        "end": 17.62
+      },
+      {
+        "word": "$174",
+        "start": 17.62,
+        "end": 19.14
+      },
+      {
+        "word": ",00",
+        "start": 19.14,
+        "end": 19.32
+      },
+      {
+        "word": " por",
+        "start": 19.32,
+        "end": 19.5
+      },
+      {
+        "word": " mês",
+        "start": 19.5,
+        "end": 19.9
+      }
+    ]
+  },
+  {
+    "start": 19.9,
+    "end": 28.48,
+    "text": "E a Starlink sai por R$49,00, a Starlink Mini com um roteador que eles manda mais",
+    "words": [
+      {
+        "word": " E",
+        "start": 19.9,
+        "end": 20.88
+      },
+      {
+        "word": " a",
+        "start": 20.88,
+        "end": 21.38
+      },
+      {
+        "word": " Starlink",
+        "start": 21.38,
+        "end": 22.12
+      },
+      {
+        "word": " sai",
+        "start": 22.12,
+        "end": 22.34
+      },
+      {
+        "word": " por",
+        "start": 22.34,
+        "end": 22.5
+      },
+      {
+        "word": " R",
+        "start": 22.5,
+        "end": 22.66
+      },
+      {
+        "word": "$49",
+        "start": 22.66,
+        "end": 23.04
+      },
+      {
+        "word": ",00,",
+        "start": 23.04,
+        "end": 23.4
+      },
+      {
+        "word": " a",
+        "start": 23.6,
+        "end": 23.8
+      },
+      {
+        "word": " Starlink",
+        "start": 23.8,
+        "end": 24.22
+      },
+      {
+        "word": " Mini",
+        "start": 24.22,
+        "end": 24.6
+      },
+      {
+        "word": " com",
+        "start": 24.6,
+        "end": 25.36
+      },
+      {
+        "word": " um",
+        "start": 25.36,
+        "end": 25.54
+      },
+      {
+        "word": " roteador",
+        "start": 25.54,
+        "end": 26.06
+      },
+      {
+        "word": " que",
+        "start": 26.06,
+        "end": 27.74
+      },
+      {
+        "word": " eles",
+        "start": 27.74,
+        "end": 27.88
+      },
+      {
+        "word": " manda",
+        "start": 27.88,
+        "end": 28.16
+      },
+      {
+        "word": " mais",
+        "start": 28.16,
+        "end": 28.48
+      }
+    ]
+  },
+  {
+    "start": 29.32,
+    "end": 35.48,
+    "text": "Aquele plano de R$100,00 para usar em casa antes era R$189,00 e agora está R$132,00",
+    "words": [
+      {
+        "word": " Aquele",
+        "start": 29.32,
+        "end": 29.8
+      },
+      {
+        "word": " plano",
+        "start": 29.8,
+        "end": 30.02
+      },
+      {
+        "word": " de",
+        "start": 30.02,
+        "end": 30.22
+      },
+      {
+        "word": " R",
+        "start": 30.22,
+        "end": 30.4
+      },
+      {
+        "word": "$100",
+        "start": 30.4,
+        "end": 30.4
+      },
+      {
+        "word": ",00",
+        "start": 30.4,
+        "end": 30.66
+      },
+      {
+        "word": " para",
+        "start": 30.66,
+        "end": 30.86
+      },
+      {
+        "word": " usar",
+        "start": 30.86,
+        "end": 31.08
+      },
+      {
+        "word": " em",
+        "start": 31.08,
+        "end": 31.2
+      },
+      {
+        "word": " casa",
+        "start": 31.2,
+        "end": 31.56
+      },
+      {
+        "word": " antes",
+        "start": 31.56,
+        "end": 31.96
+      },
+      {
+        "word": " era",
+        "start": 31.96,
+        "end": 32.16
+      },
+      {
+        "word": " R",
+        "start": 32.16,
+        "end": 32.3
+      },
+      {
+        "word": "$189",
+        "start": 32.3,
+        "end": 33.02
+      },
+      {
+        "word": ",00",
+        "start": 33.02,
+        "end": 33.22
+      },
+      {
+        "word": " e",
+        "start": 33.22,
+        "end": 33.94
+      },
+      {
+        "word": " agora",
+        "start": 33.94,
+        "end": 34.1
+      },
+      {
+        "word": " está",
+        "start": 34.1,
+        "end": 34.3
+      },
+      {
+        "word": " R",
+        "start": 34.3,
+        "end": 34.42
+      },
+      {
+        "word": "$132",
+        "start": 34.42,
+        "end": 35.3
+      },
+      {
+        "word": ",00",
+        "start": 35.3,
+        "end": 35.54
+      }
+    ]
+  },
+  {
+    "start": 36.32,
+    "end": 39.48,
+    "text": "Aí o equipamento sai a R$299,00",
+    "words": [
+      {
+        "word": " Aí",
+        "start": 36.32,
+        "end": 36.72
+      },
+      {
+        "word": " o",
+        "start": 36.72,
+        "end": 37.28
+      },
+      {
+        "word": " equipamento",
+        "start": 37.28,
+        "end": 37.74
+      },
+      {
+        "word": " sai",
+        "start": 37.74,
+        "end": 38.02
+      },
+      {
+        "word": " a",
+        "start": 38.02,
+        "end": 38.2
+      },
+      {
+        "word": " R",
+        "start": 38.2,
+        "end": 38.24
+      },
+      {
+        "word": "$299",
+        "start": 38.24,
+        "end": 38.58
+      },
+      {
+        "word": ",00",
+        "start": 38.58,
+        "end": 39.48
+      }
+    ]
+  },
+  {
+    "start": 40.58,
+    "end": 43.42,
+    "text": "Agora, para quem quer usar no carro, no plano Viagem",
+    "words": [
+      {
+        "word": " Agora,",
+        "start": 40.58,
+        "end": 41.06
+      },
+      {
+        "word": " para",
+        "start": 41.06,
+        "end": 41.54
+      },
+      {
+        "word": " quem",
+        "start": 41.54,
+        "end": 41.68
+      },
+      {
+        "word": " quer",
+        "start": 41.68,
+        "end": 41.86
+      },
+      {
+        "word": " usar",
+        "start": 41.86,
+        "end": 42.0
+      },
+      {
+        "word": " no",
+        "start": 42.0,
+        "end": 42.16
+      },
+      {
+        "word": " carro,",
+        "start": 42.16,
+        "end": 42.46
+      },
+      {
+        "word": " no",
+        "start": 42.64,
+        "end": 42.64
+      },
+      {
+        "word": " plano",
+        "start": 42.64,
+        "end": 42.8
+      },
+      {
+        "word": " Viagem",
+        "start": 42.8,
+        "end": 43.42
+      }
+    ]
+  },
+  {
+    "start": 44.04,
+    "end": 51.06,
+    "text": "Aquele plano de R$100,00 que era R$339,00 agora teve uma redução e está R$237,30",
+    "words": [
+      {
+        "word": " Aquele",
+        "start": 44.04,
+        "end": 44.52
+      },
+      {
+        "word": " plano",
+        "start": 44.52,
+        "end": 44.76
+      },
+      {
+        "word": " de",
+        "start": 44.76,
+        "end": 44.98
+      },
+      {
+        "word": " R",
+        "start": 44.98,
+        "end": 45.1
+      },
+      {
+        "word": "$100",
+        "start": 45.1,
+        "end": 45.14
+      },
+      {
+        "word": ",00",
+        "start": 45.14,
+        "end": 45.42
+      },
+      {
+        "word": " que",
+        "start": 45.42,
+        "end": 45.66
+      },
+      {
+        "word": " era",
+        "start": 45.66,
+        "end": 45.82
+      },
+      {
+        "word": " R",
+        "start": 45.82,
+        "end": 46.02
+      },
+      {
+        "word": "$339",
+        "start": 46.02,
+        "end": 46.86
+      },
+      {
+        "word": ",00",
+        "start": 46.86,
+        "end": 47.74
+      },
+      {
+        "word": " agora",
+        "start": 47.74,
+        "end": 48.02
+      },
+      {
+        "word": " teve",
+        "start": 48.02,
+        "end": 48.38
+      },
+      {
+        "word": " uma",
+        "start": 48.38,
+        "end": 48.72
+      },
+      {
+        "word": " redução",
+        "start": 48.72,
+        "end": 49.18
+      },
+      {
+        "word": " e",
+        "start": 49.18,
+        "end": 49.48
+      },
+      {
+        "word": " está",
+        "start": 49.48,
+        "end": 49.6
+      },
+      {
+        "word": " R",
+        "start": 49.6,
+        "end": 49.7
+      },
+      {
+        "word": "$237",
+        "start": 49.7,
+        "end": 50.58
+      },
+      {
+        "word": ",30",
+        "start": 50.58,
+        "end": 51.06
+      }
+    ]
+  },
+  {
+    "start": 51.94,
+    "end": 57.06,
+    "text": "O equipamento sai a R$299,00 e o plano Inlimitado que antes era R$619,00",
+    "words": [
+      {
+        "word": " O",
+        "start": 51.94,
+        "end": 52.5
+      },
+      {
+        "word": " equipamento",
+        "start": 52.5,
+        "end": 52.84
+      },
+      {
+        "word": " sai",
+        "start": 52.84,
+        "end": 53.06
+      },
+      {
+        "word": " a",
+        "start": 53.06,
+        "end": 53.08
+      },
+      {
+        "word": " R",
+        "start": 53.08,
+        "end": 53.14
+      },
+      {
+        "word": "$299",
+        "start": 53.14,
+        "end": 53.52
+      },
+      {
+        "word": ",00",
+        "start": 53.52,
+        "end": 54.5
+      },
+      {
+        "word": " e",
+        "start": 54.5,
+        "end": 54.6
+      },
+      {
+        "word": " o",
+        "start": 54.6,
+        "end": 54.7
+      },
+      {
+        "word": " plano",
+        "start": 54.7,
+        "end": 54.86
+      },
+      {
+        "word": " Inlimitado",
+        "start": 54.86,
+        "end": 55.46
+      },
+      {
+        "word": " que",
+        "start": 55.46,
+        "end": 55.64
+      },
+      {
+        "word": " antes",
+        "start": 55.64,
+        "end": 55.84
+      },
+      {
+        "word": " era",
+        "start": 55.84,
+        "end": 56.0
+      },
+      {
+        "word": " R",
+        "start": 56.0,
+        "end": 56.18
+      },
+      {
+        "word": "$619",
+        "start": 56.18,
+        "end": 56.84
+      },
+      {
+        "word": ",00",
+        "start": 56.84,
+        "end": 57.12
+      }
+    ]
+  },
+  {
+    "start": 57.66,
+    "end": 61.76,
+    "text": "Agora teve uma redução que está R$433,30",
+    "words": [
+      {
+        "word": " Agora",
+        "start": 57.66,
+        "end": 57.92
+      },
+      {
+        "word": " teve",
+        "start": 57.92,
+        "end": 58.22
+      },
+      {
+        "word": " uma",
+        "start": 58.22,
+        "end": 58.34
+      },
+      {
+        "word": " redução",
+        "start": 58.34,
+        "end": 58.78
+      },
+      {
+        "word": " que",
+        "start": 58.78,
+        "end": 59.06
+      },
+      {
+        "word": " está",
+        "start": 59.06,
+        "end": 59.24
+      },
+      {
+        "word": " R",
+        "start": 59.24,
+        "end": 59.44
+      },
+      {
+        "word": "$433",
+        "start": 59.44,
+        "end": 60.38
+      },
+      {
+        "word": ",30",
+        "start": 60.38,
+        "end": 61.76
+      }
+    ]
+  },
+  {
+    "start": 62.54,
+    "end": 64.62,
+    "text": "A antena sai a R$299,00 também",
+    "words": [
+      {
+        "word": " A",
+        "start": 62.54,
+        "end": 63.1
+      },
+      {
+        "word": " antena",
+        "start": 63.1,
+        "end": 63.36
+      },
+      {
+        "word": " sai",
+        "start": 63.36,
+        "end": 63.58
+      },
+      {
+        "word": " a",
+        "start": 63.58,
+        "end": 63.66
+      },
+      {
+        "word": " R",
+        "start": 63.66,
+        "end": 63.72
+      },
+      {
+        "word": "$299",
+        "start": 63.72,
+        "end": 64.18
+      },
+      {
+        "word": ",00",
+        "start": 64.18,
+        "end": 64.34
+      },
+      {
+        "word": " também",
+        "start": 64.34,
+        "end": 64.62
+      }
+    ]
+  },
+  {
+    "start": 64.62,
+    "end": 74.12,
+    "text": "Então abaixou muito o preço, essa promoção para quem compara",
+    "words": [
+      {
+        "word": " Então",
+        "start": 64.62,
+        "end": 65.64
+      },
+      {
+        "word": " abaixou",
+        "start": 65.64,
+        "end": 66.68
+      },
+      {
+        "word": " muito",
+        "start": 66.68,
+        "end": 66.96
+      },
+      {
+        "word": " o",
+        "start": 66.96,
+        "end": 67.14
+      },
+      {
+        "word": " preço,",
+        "start": 67.14,
+        "end": 67.24
+      },
+      {
+        "word": " essa",
+        "start": 67.76,
+        "end": 68.26
+      },
+      {
+        "word": " promoção",
+        "start": 68.26,
+        "end": 68.82
+      },
+      {
+        "word": " para",
+        "start": 68.82,
+        "end": 69.98
+      },
+      {
+        "word": " quem",
+        "start": 69.98,
+        "end": 70.22
+      },
+      {
+        "word": " compara",
+        "start": 70.22,
+        "end": 74.12
+      }
+    ]
+  },
+  {
+    "start": 74.12,
+    "end": 80.46,
+    "text": "A partir agora não vale para quem já tem e é válida até 30 de novembro",
+    "words": [
+      {
+        "word": " A",
+        "start": 74.12,
+        "end": 74.46
+      },
+      {
+        "word": " partir",
+        "start": 74.46,
+        "end": 75.26
+      },
+      {
+        "word": " agora",
+        "start": 75.26,
+        "end": 75.62
+      },
+      {
+        "word": " não",
+        "start": 75.62,
+        "end": 76.18
+      },
+      {
+        "word": " vale",
+        "start": 76.18,
+        "end": 76.44
+      },
+      {
+        "word": " para",
+        "start": 76.44,
+        "end": 76.62
+      },
+      {
+        "word": " quem",
+        "start": 76.62,
+        "end": 76.78
+      },
+      {
+        "word": " já",
+        "start": 76.78,
+        "end": 76.98
+      },
+      {
+        "word": " tem",
+        "start": 76.98,
+        "end": 77.24
+      },
+      {
+        "word": " e",
+        "start": 77.24,
+        "end": 78.52
+      },
+      {
+        "word": " é",
+        "start": 78.52,
+        "end": 78.96
+      },
+      {
+        "word": " válida",
+        "start": 78.96,
+        "end": 79.24
+      },
+      {
+        "word": " até",
+        "start": 79.24,
+        "end": 79.48
+      },
+      {
+        "word": " 30",
+        "start": 79.48,
+        "end": 79.8
+      },
+      {
+        "word": " de",
+        "start": 79.8,
+        "end": 80.0
+      },
+      {
+        "word": " novembro",
+        "start": 80.0,
+        "end": 80.46
+      }
+    ]
+  },
+  {
+    "start": 80.46,
+    "end": 86.6,
+    "text": "Então se você tiver interesse em contato comigo, porque se você comprar comigo, a instalação é garantida",
+    "words": [
+      {
+        "word": " Então",
+        "start": 80.46,
+        "end": 81.22
+      },
+      {
+        "word": " se",
+        "start": 81.22,
+        "end": 81.34
+      },
+      {
+        "word": " você",
+        "start": 81.34,
+        "end": 81.52
+      },
+      {
+        "word": " tiver",
+        "start": 81.52,
+        "end": 81.68
+      },
+      {
+        "word": " interesse",
+        "start": 81.68,
+        "end": 82.16
+      },
+      {
+        "word": " em",
+        "start": 82.16,
+        "end": 82.46
+      },
+      {
+        "word": " contato",
+        "start": 82.46,
+        "end": 82.8
+      },
+      {
+        "word": " comigo,",
+        "start": 82.8,
+        "end": 83.14
+      },
+      {
+        "word": " porque",
+        "start": 83.38,
+        "end": 83.46
+      },
+      {
+        "word": " se",
+        "start": 83.46,
+        "end": 83.6
+      },
+      {
+        "word": " você",
+        "start": 83.6,
+        "end": 83.76
+      },
+      {
+        "word": " comprar",
+        "start": 83.76,
+        "end": 84.04
+      },
+      {
+        "word": " comigo,",
+        "start": 84.04,
+        "end": 84.42
+      },
+      {
+        "word": " a",
+        "start": 85.02,
+        "end": 85.48
+      },
+      {
+        "word": " instalação",
+        "start": 85.48,
+        "end": 85.96
+      },
+      {
+        "word": " é",
+        "start": 85.96,
+        "end": 86.08
+      },
+      {
+        "word": " garantida",
+        "start": 86.08,
+        "end": 86.6
+      }
+    ]
+  },
+  {
+    "start": 108.8,
+    "end": 114.84,
+    "text": "Se você comprar comigo, você recebe R$200,00 em crédito para descontar na sua mensalidade na sua conta",
+    "words": [
+      {
+        "word": " Se",
+        "start": 108.8,
+        "end": 109.28
+      },
+      {
+        "word": " você",
+        "start": 109.28,
+        "end": 109.46
+      },
+      {
+        "word": " comprar",
+        "start": 109.46,
+        "end": 109.82
+      },
+      {
+        "word": " comigo,",
+        "start": 109.82,
+        "end": 110.08
+      },
+      {
+        "word": " você",
+        "start": 110.3,
+        "end": 110.38
+      },
+      {
+        "word": " recebe",
+        "start": 110.38,
+        "end": 110.76
+      },
+      {
+        "word": " R",
+        "start": 110.76,
+        "end": 110.96
+      },
+      {
+        "word": "$200",
+        "start": 110.96,
+        "end": 111.08
+      },
+      {
+        "word": ",00",
+        "start": 111.08,
+        "end": 111.34
+      },
+      {
+        "word": " em",
+        "start": 111.34,
+        "end": 111.56
+      },
+      {
+        "word": " crédito",
+        "start": 111.56,
+        "end": 111.96
+      },
+      {
+        "word": " para",
+        "start": 111.96,
+        "end": 112.18
+      },
+      {
+        "word": " descontar",
+        "start": 112.18,
+        "end": 112.78
+      },
+      {
+        "word": " na",
+        "start": 112.78,
+        "end": 112.9
+      },
+      {
+        "word": " sua",
+        "start": 112.9,
+        "end": 113.04
+      },
+      {
+        "word": " mensalidade",
+        "start": 113.04,
+        "end": 113.66
+      },
+      {
+        "word": " na",
+        "start": 113.66,
+        "end": 114.26
+      },
+      {
+        "word": " sua",
+        "start": 114.26,
+        "end": 114.46
+      },
+      {
+        "word": " conta",
+        "start": 114.46,
+        "end": 114.84
+      }
+    ]
+  },
+  {
+    "start": 115.74,
+    "end": 132.52,
+    "text": "Se você comprar comigo, você ganha R$200,00 em crédito para descontar na mensalidade na sua conta",
+    "words": [
+      {
+        "word": " Se",
+        "start": 115.74,
+        "end": 116.3
+      },
+      {
+        "word": " você",
+        "start": 116.3,
+        "end": 116.48
+      },
+      {
+        "word": " comprar",
+        "start": 116.48,
+        "end": 116.7
+      },
+      {
+        "word": " comigo,",
+        "start": 116.7,
+        "end": 117.02
+      },
+      {
+        "word": " você",
+        "start": 117.28,
+        "end": 117.3
+      },
+      {
+        "word": " ganha",
+        "start": 117.3,
+        "end": 118.0
+      },
+      {
+        "word": " R",
+        "start": 118.0,
+        "end": 118.12
+      },
+      {
+        "word": "$200",
+        "start": 118.12,
+        "end": 120.0
+      },
+      {
+        "word": ",00",
+        "start": 120.0,
+        "end": 120.28
+      },
+      {
+        "word": " em",
+        "start": 120.28,
+        "end": 120.34
+      },
+      {
+        "word": " crédito",
+        "start": 120.34,
+        "end": 120.8
+      },
+      {
+        "word": " para",
+        "start": 120.8,
+        "end": 121.0
+      },
+      {
+        "word": " descontar",
+        "start": 121.0,
+        "end": 130.98
+      },
+      {
+        "word": " na",
+        "start": 130.98,
+        "end": 131.26
+      },
+      {
+        "word": " mensalidade",
+        "start": 131.26,
+        "end": 131.86
+      },
+      {
+        "word": " na",
+        "start": 131.86,
+        "end": 132.02
+      },
+      {
+        "word": " sua",
+        "start": 132.02,
+        "end": 132.18
+      },
+      {
+        "word": " conta",
+        "start": 132.18,
+        "end": 132.52
+      }
+    ]
+  },
+  {
+    "start": 133.28,
+    "end": 134.52,
+    "text": "Chama com ela",
+    "words": [
+      {
+        "word": " Chama",
+        "start": 133.28,
+        "end": 133.68
+      },
+      {
+        "word": " com",
+        "start": 133.68,
+        "end": 133.88
+      },
+      {
+        "word": " ela",
+        "start": 133.88,
+        "end": 134.52
+      }
+    ]
+  },
+  {
+    "start": 138.82,
+    "end": 139.96,
+    "text": "Entra em conta até agora mesmo",
+    "words": [
+      {
+        "word": " Entra",
+        "start": 138.82,
+        "end": 139.22
+      },
+      {
+        "word": " em",
+        "start": 139.22,
+        "end": 139.3
+      },
+      {
+        "word": " conta",
+        "start": 139.3,
+        "end": 139.42
+      },
+      {
+        "word": " até",
+        "start": 139.42,
+        "end": 139.54
+      },
+      {
+        "word": " agora",
+        "start": 139.54,
+        "end": 139.7
+      },
+      {
+        "word": " mesmo",
+        "start": 139.7,
+        "end": 139.96
+      }
+    ]
+  }
+]

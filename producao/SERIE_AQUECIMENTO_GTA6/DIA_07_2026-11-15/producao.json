@@ -1,0 +1,154 @@
+{
+  "schema_versao": 1,
+  "id": "DIA_07",
+  "formato": "longo_e_short",
+  "roteiro_origem": {
+    "longo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/01_NARRACAO.txt",
+    "short": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/01_NARRACAO.txt"
+  },
+  "etapa_atual": "concluido",
+  "status": "validado",
+  "data_criacao": "2026-11-13T11:15:30-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "wav": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/audio/narracao_normalizada.wav"
+      },
+      "medicoes": {
+        "duracao_s": 383.84,
+        "lufs": -16.9
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "atualizado_em": "2026-11-13T12:34:35-03:00"
+    },
+    "alinhamento": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "palavras": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/audio/palavras_alinhadas.json"
+      },
+      "medicoes": {
+        "palavras": 1071
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "atualizado_em": "2026-11-13T12:34:37-03:00"
+    },
+    "montagem": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "medicoes": {
+        "planos_longo": 100
+      },
+      "atualizado_em": "2026-11-14T00:47:09-03:00",
+      "artefatos": {
+        "episodio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/episodio.json"
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      }
+    },
+    "render": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "longo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/exportacoes/Pixel_Procurado_DIA07_Longo_V2.mp4",
+        "vertical": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/_vertical/exportacoes/Pixel_Procurado_DIA07_Vertical_V2.mp4",
+        "reel": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/_reel/exportacoes/Pixel_Procurado_DIA07_Reel_V2.mp4",
+        "story": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/_story/exportacoes/Pixel_Procurado_DIA07_Story_V2.mp4"
+      },
+      "medicoes": {
+        "quadros_longo": 11514
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "atualizado_em": "2026-11-14T00:47:15-03:00"
+    },
+    "thumbnail": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "capa_A": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/publicacao/capas/capa_longo_A.jpg",
+        "capa_B": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/publicacao/capas/capa_longo_B.jpg"
+      },
+      "atualizado_em": "2026-11-14T00:47:21-03:00"
+    },
+    "publicacao_pacote": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "pacote": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/publicacao/PACOTE.md"
+      },
+      "atualizado_em": "2026-11-14T00:47:33-03:00"
+    },
+    "distribuicao": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "estado": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/publicacao/POSTIZ_ESTADO.json"
+      },
+      "medicoes": {
+        "pecas_em_QUEUE": 10
+      },
+      "atualizado_em": "2026-11-14T00:57:49-03:00"
+    },
+    "revisao_final": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "revisao": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/REVISAO_FINAL.json"
+      },
+      "executor": {
+        "model_solicitado": "opus"
+      },
+      "atualizado_em": "2026-11-14T00:57:54-03:00"
+    }
+  },
+  "atualizado_em": "2026-11-14T00:57:54-03:00"
+}

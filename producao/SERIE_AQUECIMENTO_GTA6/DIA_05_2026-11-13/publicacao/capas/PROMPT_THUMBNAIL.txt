@@ -1,0 +1,6 @@
+Capas do Dia 5 (13/11/2026) - MONTAGEM EDITORIAL sobre material oficial, sem geracao por IA (custo Gemini: R$0, 0 imagens).
+Metodo: bases 16:9 e 9:16 montadas por masters/gerar_bases.py (deslocamento, blur/escurecimento nas bordas, sem redesenhar rostos); texto, selo e logo GTA VI oficial pelo compose_thumbnail.py (py -3.12).
+A (CRIME / A DOIS): videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_02.jpg (imagem oficial: cofre, dinheiro voando, dois armados). Mesma imagem usada no video (plano JL02).
+B (ELA / AVISOU): quadro do Extended Look em ~23:49, producao/.../montagem/referencias/msg_2349.jpg (mensagem 'Lucia: GUYS EVERYWHERE'), clareado (brilho x1.9) para leitura em celular.
+Observacao: existe outro arquivo homonimo (GTAVI_Artwork_Wallpapers/Jason_and_Lucia_02, arte ilustrada no pier) - NAO usado.
+Nenhuma capa e captura nova; ambas sao montagens editoriais.

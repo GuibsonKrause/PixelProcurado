@@ -1,0 +1,109 @@
+{
+  "id": "TRUQUE_NZ_2026_11_15_STORY",
+  "gsap": "producao/L08/montagem/hyperframes_long/gsap.min.js",
+  "titulo": "GTA 6 às 8h da Manhã: o Truque da Nova Zelândia Funciona?",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "T2": "GTAVI_Trailer_2.mp4",
+    "LT": "GTAVI_Launch_Trailer.mp4"
+  },
+  "rotulos_obrigatorios": {},
+  "correcoes_legenda": {},
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_Truque_NZ_Story_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/TRUQUE_NZ_2026-11-15/_story/audio/narracao.wav",
+      "alinhamento": "producao/TRUQUE_NZ_2026-11-15/_story/audio/palavras.json",
+      "planos": [
+        {
+          "titulo": "08:00",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1569.95,
+          "tipo": "data",
+          "corte": [
+            0.0,
+            2.34
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 510,
+          "tipo": "tag",
+          "corte": [
+            2.34,
+            5.71
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "16 H ANTES",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 513.77,
+          "tipo": "data",
+          "corte": [
+            5.71,
+            8.58
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1596,
+          "tipo": "tag",
+          "corte": [
+            8.58,
+            13.1
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 750,
+          "tipo": "tag",
+          "corte": [
+            13.1,
+            16.08
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "UTC+13",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 753.38,
+          "tipo": "data",
+          "corte": [
+            16.08,
+            19.5
+          ]
+        },
+        {
+          "titulo": "UTC−3 = 16 H",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 757.2,
+          "tipo": "data",
+          "corte": [
+            19.5,
+            22.4
+          ]
+        }
+      ]
+    }
+  }
+}

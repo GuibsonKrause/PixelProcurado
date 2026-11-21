@@ -1,0 +1,199 @@
+{
+  "corrections": [
+    {
+      "op": "replace",
+      "start": 3.16,
+      "end": 3.7,
+      "script": "dois mil e dois,",
+      "asr": "2002,",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 5.5,
+      "end": 6.14,
+      "script": "mil novecentos e oitenta e seis.",
+      "asr": "1986.",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 14.58,
+      "end": 14.82,
+      "script": "Ou",
+      "asr": "Qual",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "delete",
+      "start": 15.4,
+      "end": 15.4,
+      "script": "em",
+      "asr": "",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 38.82,
+      "end": 39.22,
+      "script": "seis,",
+      "asr": "VI,",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 39.78,
+      "end": 39.92,
+      "script": "excesso",
+      "asr": "acesso",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 42.9,
+      "end": 43.2,
+      "script": "Dimez",
+      "asr": "diamonds",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 43.7,
+      "end": 43.92,
+      "script": "sobre",
+      "asr": "sob",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 52.54,
+      "end": 52.84,
+      "script": "guardar",
+      "asr": "acordar",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 65.11,
+      "end": 65.53,
+      "script": "devolva",
+      "asr": "devolve",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 69.35,
+      "end": 69.91,
+      "script": "reencontrar",
+      "asr": "encontrar",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 73.69,
+      "end": 74.17,
+      "script": "a nostalgia",
+      "asr": "não saudia",
+      "decision": "short orthographic/contextual correction"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "Vice City saiu",
+      "script_index": 6,
+      "time": 2.1666666666666665,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Você pode lembrar",
+      "script_index": 35,
+      "time": 10.933333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Ou daquela tarde",
+      "script_index": 45,
+      "time": 14.566666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Hoje, às vezes",
+      "script_index": 56,
+      "time": 18.7,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Por isso, pedir",
+      "script_index": 69,
+      "time": 23.333333333333332,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A Rockstar pode",
+      "script_index": 79,
+      "time": 27.133333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Restaurar sua tarde",
+      "script_index": 85,
+      "time": 29.633333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Nas imagens",
+      "script_index": 104,
+      "time": 37.666666666666664,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "As Real Dimez",
+      "script_index": 115,
+      "time": 42.56666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A vontade de aparecer",
+      "script_index": 126,
+      "time": 47.1,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Todo mundo quer",
+      "script_index": 140,
+      "time": 51.833333333333336,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A cidade mudou",
+      "script_index": 152,
+      "time": 58.06666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Dá pra reconhecer",
+      "script_index": 158,
+      "time": 61.0,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Talvez o mais",
+      "script_index": 180,
+      "time": 68.0,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Até a nostalgia",
+      "script_index": 194,
+      "time": 73.36666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Afinal",
+      "script_index": 205,
+      "time": 77.0,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

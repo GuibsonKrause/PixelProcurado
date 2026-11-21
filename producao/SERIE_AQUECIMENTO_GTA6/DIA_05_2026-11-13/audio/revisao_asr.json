@@ -1,0 +1,1049 @@
+{
+  "duracao_final_s": 370.12,
+  "palavras_roteiro": 1135,
+  "palavras_asr": 1133,
+  "paragrafos": 20,
+  "divergencias": [
+    {
+      "tipo": "replace",
+      "roteiro": "Olha",
+      "asr": "Olhe",
+      "start": 2.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "sete",
+      "asr": "7",
+      "start": 4.38
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá",
+      "asr": "está",
+      "start": 6.36
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "duas",
+      "asr": "dos",
+      "start": 8.92
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "L dois.",
+      "asr": "L2.",
+      "start": 12.44
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "L dois",
+      "asr": "L2",
+      "start": 26.7
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 27.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra assumir",
+      "asr": "para sumir",
+      "start": 29.06
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "seis",
+      "asr": "6",
+      "start": 33.1
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "por",
+      "start": 33.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "sexta-feira treze",
+      "asr": "ascesta -feira 13",
+      "start": 34.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Uma no",
+      "asr": "O mono",
+      "start": 45.18
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "uma na",
+      "asr": "o mono",
+      "start": 46.86
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "uma no",
+      "asr": "o mono",
+      "start": 48.2
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "muda o rumo",
+      "asr": "mudam como",
+      "start": 50.98
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "cinco,",
+      "asr": "5,",
+      "start": 52.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "ou",
+      "asr": "e o",
+      "start": 58.72
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "cueca",
+      "asr": "coecca",
+      "start": 68.32
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 71.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 75.54
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "o",
+      "start": 77.14
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "seis,",
+      "asr": "6,",
+      "start": 83.04
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "o",
+      "asr": "um",
+      "start": 84.98
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quatorze",
+      "asr": "14",
+      "start": 89.12
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quarenta e dois.",
+      "asr": "42.",
+      "start": 89.78
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "mascarado",
+      "asr": "mas carado",
+      "start": 97.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quinze",
+      "asr": "15",
+      "start": 105.88
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "vinte",
+      "asr": "20,",
+      "start": 106.5
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "para o",
+      "start": 107.82
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "acesas",
+      "asr": "acisas",
+      "start": 108.96
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "a",
+      "start": 111.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quinze",
+      "asr": "15",
+      "start": 113.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "trinta,",
+      "asr": "30,",
+      "start": 114.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "corpo pra",
+      "asr": "copo para",
+      "start": 119.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "das",
+      "asr": "da",
+      "start": 119.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pra",
+      "asr": "para",
+      "start": 120.32
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "segura o",
+      "asr": "seguro",
+      "start": 140.32
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "para o",
+      "start": 145.12
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "para o",
+      "start": 146.64
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pro",
+      "asr": "para o",
+      "start": 148.44
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "folga.",
+      "asr": "foga.",
+      "start": 149.0
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezessete e vinte.",
+      "asr": "17 -20,",
+      "start": 149.94
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "deitada",
+      "asr": "leitada",
+      "start": 151.6
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "supino,",
+      "asr": "supeno,",
+      "start": 152.12
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Gainz",
+      "asr": "Gens",
+      "start": 154.04
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "parado",
+      "asr": "parada",
+      "start": 155.88
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "L dois",
+      "asr": "R2",
+      "start": 160.4
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "R dois",
+      "asr": "R2",
+      "start": 161.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "gatilho",
+      "asr": "gatilha",
+      "start": 163.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "minijogo",
+      "asr": "mini jogo",
+      "start": 168.92
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "indicador",
+      "asr": "de cador",
+      "start": 171.56
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Pra",
+      "asr": "Para",
+      "start": 175.26
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "San Andreas,",
+      "asr": "saandras,",
+      "start": 176.3
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "o CJ",
+      "asr": "Um CD",
+      "start": 179.0
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "cinco,",
+      "asr": "V,",
+      "start": 184.12
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "a",
+      "start": 186.0
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "fôlego e",
+      "asr": "folha ou",
+      "start": 187.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "seis",
+      "asr": "VI",
+      "start": 189.68
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "crescendo",
+      "asr": "cresceram",
+      "start": 192.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezenove.",
+      "asr": "19.",
+      "start": 201.28
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "o",
+      "start": 204.54
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "a esfriar a",
+      "asr": "na",
+      "start": 206.52
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "O",
+      "start": 220.6
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "o",
+      "start": 223.78
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "vinte",
+      "asr": "23",
+      "start": 227.2
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "três e cinquenta,",
+      "asr": "50,",
+      "start": 227.9
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Jason",
+      "asr": "dia 1",
+      "start": 228.68
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "num",
+      "asr": "no",
+      "start": 229.68
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "segurando um",
+      "asr": "segura no",
+      "start": 231.72
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Poucos",
+      "asr": "Por",
+      "start": 238.88
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "digitando",
+      "asr": "dita -no",
+      "start": 246.0
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "alvo",
+      "asr": "halvo",
+      "start": 247.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dez",
+      "asr": "10",
+      "start": 249.54
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "Isso",
+      "asr": "",
+      "start": 253.42
+    },
+    {
+      "tipo": "insert",
+      "roteiro": "",
+      "asr": "essa é a",
+      "start": 254.76
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "vinte",
+      "asr": "24",
+      "start": 261.28
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quatro e dez,",
+      "asr": "10,",
+      "start": 262.2
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "pelos",
+      "asr": "pros",
+      "start": 263.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "abrir",
+      "asr": "abre",
+      "start": 265.92
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "derrubar",
+      "asr": "derruba",
+      "start": 267.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "vinte",
+      "asr": "24",
+      "start": 268.84
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quatro e vinte e dois.",
+      "asr": "22.",
+      "start": 269.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "menu",
+      "asr": "menos",
+      "start": 279.46
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "ser troca",
+      "asr": "se trocar",
+      "start": 283.74
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "cinco.",
+      "asr": "5.",
+      "start": 289.16
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "afirmar",
+      "asr": "firmar",
+      "start": 290.8
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Jason.",
+      "asr": "Jesus.",
+      "start": 292.7
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "joalheria,",
+      "asr": "joelheria,",
+      "start": 300.42
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Jason vira",
+      "asr": "Jesus ouvir",
+      "start": 301.24
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "com o fuzil",
+      "asr": "confusir",
+      "start": 302.66
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "balcão.",
+      "asr": "Alcão.",
+      "start": 306.4
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "tá ali",
+      "asr": "está lhe",
+      "start": 307.6
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Trevor",
+      "asr": "trevo",
+      "start": 313.6
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezenove.",
+      "asr": "19.",
+      "start": 320.4
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "mensagem",
+      "asr": "avançado",
+      "start": 321.86
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Dez",
+      "asr": "10",
+      "start": 325.02
+    },
+    {
+      "tipo": "delete",
+      "roteiro": "e",
+      "asr": "",
+      "start": 326.32
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "Ignorar parceira",
+      "asr": "Ignora a passeira",
+      "start": 331.96
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "avisa",
+      "asr": "a viso",
+      "start": 333.02
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "cofre",
+      "asr": "copo",
+      "start": 336.98
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "igual naquela",
+      "asr": "Ignora aquela",
+      "start": 337.92
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quatorze",
+      "asr": "14",
+      "start": 357.88
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "aparece",
+      "asr": "aparecem",
+      "start": 360.68
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "dezoito",
+      "asr": "18",
+      "start": 361.36
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "seis.",
+      "asr": "VI.",
+      "start": 366.8
+    }
+  ],
+  "possiveis_omissoes": [
+    {
+      "tipo": "replace",
+      "roteiro": "quarenta e dois.",
+      "asr": "42.",
+      "start": 89.78
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "a esfriar a",
+      "asr": "na",
+      "start": 206.52
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "três e cinquenta,",
+      "asr": "50,",
+      "start": 227.9
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quatro e dez,",
+      "asr": "10,",
+      "start": 262.2
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "quatro e vinte e dois.",
+      "asr": "22.",
+      "start": 269.58
+    },
+    {
+      "tipo": "replace",
+      "roteiro": "com o fuzil",
+      "asr": "confusir",
+      "start": 302.66
+    }
+  ],
+  "tags_faladas": [],
+  "palavras_baixa_confianca": [
+    {
+      "word": "Esse",
+      "start": 0.0,
+      "probability": 0.035
+    },
+    {
+      "word": "sexta-feira",
+      "start": 34.8,
+      "probability": 0.1645
+    },
+    {
+      "word": "treze",
+      "start": 35.28,
+      "probability": 0.1645
+    },
+    {
+      "word": "Rockstar",
+      "start": 39.74,
+      "probability": 0.4165
+    },
+    {
+      "word": "Uma",
+      "start": 45.18,
+      "probability": 0.0265
+    },
+    {
+      "word": "no",
+      "start": 45.62,
+      "probability": 0.0265
+    },
+    {
+      "word": "uma",
+      "start": 46.86,
+      "probability": 0.2906
+    },
+    {
+      "word": "na",
+      "start": 46.96,
+      "probability": 0.2906
+    },
+    {
+      "word": "meio",
+      "start": 48.36,
+      "probability": 0.1365
+    },
+    {
+      "word": "muda",
+      "start": 50.98,
+      "probability": 0.1526
+    },
+    {
+      "word": "o",
+      "start": 51.15,
+      "probability": 0.1526
+    },
+    {
+      "word": "rumo",
+      "start": 51.33,
+      "probability": 0.1526
+    },
+    {
+      "word": "Às",
+      "start": 66.12,
+      "probability": 0.2718
+    },
+    {
+      "word": "numa",
+      "start": 69.42,
+      "probability": 0.4203
+    },
+    {
+      "word": "Os",
+      "start": 72.74,
+      "probability": 0.0245
+    },
+    {
+      "word": "GTA",
+      "start": 82.9,
+      "probability": 0.0436
+    },
+    {
+      "word": "seis,",
+      "start": 83.04,
+      "probability": 0.1888
+    },
+    {
+      "word": "o",
+      "start": 88.76,
+      "probability": 0.3895
+    },
+    {
+      "word": "e",
+      "start": 89.54,
+      "probability": 0.1264
+    },
+    {
+      "word": "tá",
+      "start": 92.72,
+      "probability": 0.3921
+    },
+    {
+      "word": "O",
+      "start": 95.64,
+      "probability": 0.3542
+    },
+    {
+      "word": "sedã",
+      "start": 107.34,
+      "probability": 0.1351
+    },
+    {
+      "word": "o",
+      "start": 116.36,
+      "probability": 0.3664
+    },
+    {
+      "word": "tá",
+      "start": 123.0,
+      "probability": 0.1548
+    },
+    {
+      "word": "Se",
+      "start": 143.18,
+      "probability": 0.1612
+    },
+    {
+      "word": "folga.",
+      "start": 149.0,
+      "probability": 0.233
+    },
+    {
+      "word": "Lucia",
+      "start": 151.36,
+      "probability": 0.0485
+    },
+    {
+      "word": "L",
+      "start": 160.4,
+      "probability": 0.4386
+    },
+    {
+      "word": "dois",
+      "start": 160.6,
+      "probability": 0.4386
+    },
+    {
+      "word": "e",
+      "start": 170.18,
+      "probability": 0.2411
+    },
+    {
+      "word": "Pra",
+      "start": 175.26,
+      "probability": 0.4181
+    },
+    {
+      "word": "San",
+      "start": 176.3,
+      "probability": 0.1718
+    },
+    {
+      "word": "Andreas,",
+      "start": 176.55,
+      "probability": 0.1718
+    },
+    {
+      "word": "o",
+      "start": 179.0,
+      "probability": 0.3064
+    },
+    {
+      "word": "CJ",
+      "start": 179.26,
+      "probability": 0.3064
+    },
+    {
+      "word": "cinco,",
+      "start": 184.12,
+      "probability": 0.3772
+    },
+    {
+      "word": "fôlego",
+      "start": 187.28,
+      "probability": 0.428
+    },
+    {
+      "word": "e",
+      "start": 187.49,
+      "probability": 0.428
+    },
+    {
+      "word": "o",
+      "start": 195.0,
+      "probability": 0.4495
+    },
+    {
+      "word": "tá",
+      "start": 195.14,
+      "probability": 0.2337
+    },
+    {
+      "word": "Se",
+      "start": 197.54,
+      "probability": 0.2905
+    },
+    {
+      "word": "muda",
+      "start": 198.16,
+      "probability": 0.4438
+    },
+    {
+      "word": "a",
+      "start": 206.52,
+      "probability": 0.2504
+    },
+    {
+      "word": "esfriar",
+      "start": 206.62,
+      "probability": 0.2504
+    },
+    {
+      "word": "a",
+      "start": 206.72,
+      "probability": 0.2504
+    },
+    {
+      "word": "do",
+      "start": 210.42,
+      "probability": 0.3611
+    },
+    {
+      "word": "tá",
+      "start": 216.7,
+      "probability": 0.4396
+    },
+    {
+      "word": "No",
+      "start": 226.04,
+      "probability": 0.3266
+    },
+    {
+      "word": "e",
+      "start": 227.72,
+      "probability": 0.311
+    },
+    {
+      "word": "Jason",
+      "start": 228.68,
+      "probability": 0.082
+    },
+    {
+      "word": "tá",
+      "start": 228.9,
+      "probability": 0.1824
+    },
+    {
+      "word": "segundos",
+      "start": 239.08,
+      "probability": 0.2683
+    },
+    {
+      "word": "de",
+      "start": 242.2,
+      "probability": 0.2957
+    },
+    {
+      "word": "na",
+      "start": 248.06,
+      "probability": 0.3258
+    },
+    {
+      "word": "Isso",
+      "start": 253.42,
+      "probability": 0.0
+    },
+    {
+      "word": "é",
+      "start": 254.32,
+      "probability": 0.2089
+    },
+    {
+      "word": "pelo",
+      "start": 256.76,
+      "probability": 0.0531
+    },
+    {
+      "word": "pelos",
+      "start": 263.74,
+      "probability": 0.1334
+    },
+    {
+      "word": "até",
+      "start": 265.58,
+      "probability": 0.4262
+    },
+    {
+      "word": "Agora,",
+      "start": 276.12,
+      "probability": 0.276
+    },
+    {
+      "word": "vídeo",
+      "start": 278.94,
+      "probability": 0.0774
+    },
+    {
+      "word": "menu",
+      "start": 279.46,
+      "probability": 0.4137
+    },
+    {
+      "word": "nem",
+      "start": 280.22,
+      "probability": 0.4358
+    },
+    {
+      "word": "Jason",
+      "start": 301.24,
+      "probability": 0.3235
+    },
+    {
+      "word": "vira",
+      "start": 301.46,
+      "probability": 0.3235
+    },
+    {
+      "word": "Ninguém",
+      "start": 306.72,
+      "probability": 0.4405
+    },
+    {
+      "word": "lê.",
+      "start": 323.86,
+      "probability": 0.3541
+    },
+    {
+      "word": "Dez",
+      "start": 325.02,
+      "probability": 0.3018
+    },
+    {
+      "word": "e",
+      "start": 326.32,
+      "probability": 0.0
+    },
+    {
+      "word": "igual",
+      "start": 337.92,
+      "probability": 0.35
+    },
+    {
+      "word": "naquela",
+      "start": 338.15,
+      "probability": 0.35
+    },
+    {
+      "word": "eu",
+      "start": 359.68,
+      "probability": 0.2841
+    },
+    {
+      "word": "seis.",
+      "start": 366.8,
+      "probability": 0.357
+    },
+    {
+      "word": "Já",
+      "start": 367.96,
+      "probability": 0.0591
+    }
+  ]
+}

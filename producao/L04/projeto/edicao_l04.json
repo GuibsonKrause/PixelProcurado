@@ -1,0 +1,2173 @@
+{
+  "episode": "L04",
+  "title": "GTA 6: tem gameplay no Trailer 2? Três dúvidas resolvidas",
+  "duration": 260.36,
+  "frames": 7811,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "logicalWidth": 1920,
+  "logicalHeight": 1080,
+  "voice": "producao/L04/voz/narracao_normalizada.wav",
+  "alignment": "producao/L04/voz/palavras_alinhadas.json",
+  "pathBase": "project-root",
+  "contractVersion": "L04-1920-logical-v1",
+  "status": "final-direction",
+  "alignmentStatus": "validated-input",
+  "shots": [
+    {
+      "anchor": "INÍCIO",
+      "anchorWordIndex": 0,
+      "fromFrame": 0,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 28,
+      "label": "GAMEPLAY OU CINEMA?",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Abrir com a questão e responder imediatamente",
+      "frames": 176,
+      "start": 0.0,
+      "end": 5.866666666666666,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A Rockstar descreve metade",
+      "anchorWordIndex": 15,
+      "fromFrame": 176,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "TRAILER 2 / DECLARAÇÃO OFICIAL",
+      "graphic": "headline",
+      "title": "50% gameplay\n50% cenas prontas",
+      "sub": "Composição informada pela Rockstar • não classifica cada plano",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "A Rockstar descreve metade",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 161,
+      "start": 5.866666666666666,
+      "end": 11.233333333333333,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "O problema é quando a gente pausa",
+      "anchorWordIndex": 31,
+      "fromFrame": 337,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 65,
+      "label": "A CÂMERA NÃO RESOLVE SOZINHA",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "O problema é quando a gente pausa",
+      "frames": 198,
+      "start": 11.233333333333333,
+      "end": 17.833333333333332,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "E eu entendo a empolgação",
+      "anchorWordIndex": 54,
+      "fromFrame": 535,
+      "kind": "video",
+      "file": "producao/L04/midia/L04_Trailer2_agua_05x.mp4",
+      "offset": 0,
+      "label": "EMPOLGAÇÃO / LUZ NA ÁGUA",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games • Velocidade 0,5× (edição)",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "E eu entendo a empolgação",
+      "frames": 208,
+      "start": 17.833333333333332,
+      "end": 24.766666666666666,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Mas dá pra aproveitar o trailer",
+      "anchorWordIndex": 73,
+      "fromFrame": 743,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "TRÊS CHECAGENS",
+      "graphic": "list",
+      "title": "O que a imagem prova?",
+      "sub": "",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Mas dá pra aproveitar o trailer",
+      "items": [
+        "Gameplay ou cena pronta?",
+        "Captura ou plataforma?",
+        "Ilustração ou screenshot?"
+      ],
+      "stage": 3,
+      "frames": 327,
+      "start": 24.766666666666666,
+      "end": 35.666666666666664,
+      "cues": [
+        107,
+        171,
+        221
+      ],
+      "animate": true,
+      "animationFrames": 241
+    },
+    {
+      "anchor": "Vamos usar o Trailer dois",
+      "anchorWordIndex": 101,
+      "fromFrame": 1070,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 12,
+      "label": "RECORTE DESTE VÍDEO / TRAILER 2",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Vamos usar o Trailer dois",
+      "frames": 162,
+      "start": 35.666666666666664,
+      "end": 41.06666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Começa pela câmera atrás",
+      "anchorWordIndex": 117,
+      "fromFrame": 1232,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 24.8,
+      "label": "CÂMERA / UMA PISTA",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Começa pela câmera atrás",
+      "frames": 84,
+      "start": 41.06666666666667,
+      "end": 43.86666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Esse ângulo lembra",
+      "anchorWordIndex": 123,
+      "fromFrame": 1316,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 25,
+      "label": "ENQUADRAMENTO NÃO CONFIRMA CONTROLE",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Esse ângulo lembra",
+      "frames": 105,
+      "start": 43.86666666666667,
+      "end": 47.36666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Só que uma cena pronta",
+      "anchorWordIndex": 134,
+      "fromFrame": 1421,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 44,
+      "label": "TRAILER 2 / MATERIAL OFICIAL",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Só que uma cena pronta",
+      "frames": 117,
+      "start": 47.36666666666667,
+      "end": 51.266666666666666,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A câmera dá uma pista",
+      "anchorWordIndex": 145,
+      "fromFrame": 1538,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "LEITURA DA EVIDÊNCIA",
+      "graphic": "headline",
+      "title": "Ângulo ≠ controle",
+      "sub": "Quem decidiu a ação?",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "A câmera dá uma pista",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 164,
+      "start": 51.266666666666666,
+      "end": 56.733333333333334,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Foto de anúncio de apartamento",
+      "anchorWordIndex": 160,
+      "fromFrame": 1702,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HUMOR / ANALOGIA",
+      "graphic": "headline",
+      "title": "O ângulo vende.",
+      "sub": "ANALOGIA • anúncio de apartamento",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Foto de anúncio de apartamento",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 193,
+      "start": 56.733333333333334,
+      "end": 63.166666666666664,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Você visita e precisa escolher",
+      "anchorWordIndex": 178,
+      "fromFrame": 1895,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HUMOR / ANALOGIA",
+      "graphic": "headline",
+      "title": "Geladeira\nou cozinha?",
+      "sub": "ANALOGIA • o enquadramento pode enganar",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Você visita e precisa escolher",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 174,
+      "start": 63.166666666666664,
+      "end": 68.96666666666667,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Com o trailer a pergunta",
+      "anchorWordIndex": 191,
+      "fromFrame": 2069,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 31,
+      "label": "O QUE A IMAGEM MOSTRA?",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Com o trailer a pergunta",
+      "frames": 149,
+      "start": 68.96666666666667,
+      "end": 73.93333333333334,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Pensa numa cena",
+      "anchorWordIndex": 204,
+      "fromFrame": 2218,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HIPÓTESE / AÇÃO VISÍVEL",
+      "graphic": "headline",
+      "title": "Entrar → sentar → sair",
+      "sub": "EXEMPLO HIPOTÉTICO • nenhuma mecânica confirmada",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Pensa numa cena",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 211,
+      "start": 73.93333333333334,
+      "end": 80.96666666666667,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Mas isso sozinho",
+      "anchorWordIndex": 224,
+      "fromFrame": 2429,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HIPÓTESE / ESCOLHA DO JOGADOR",
+      "graphic": "headline",
+      "title": "Hora? Destino?",
+      "sub": "EXEMPLO HIPOTÉTICO • quem escolheu?",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Mas isso sozinho",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 231,
+      "start": 80.96666666666667,
+      "end": 88.66666666666667,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "O exemplo é hipotético",
+      "anchorWordIndex": 246,
+      "fromFrame": 2660,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HIPÓTESE / NÃO É CONFIRMAÇÃO",
+      "graphic": "headline",
+      "title": "Ação na tela\n≠ liberdade de decidir",
+      "sub": "Exemplo explicativo, sem atribuir comandos a um plano real",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "O exemplo é hipotético",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 285,
+      "start": 88.66666666666667,
+      "end": 98.16666666666667,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "A declaração da Rockstar",
+      "anchorWordIndex": 273,
+      "fromFrame": 2945,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 75,
+      "label": "MISTURA CONFIRMADA / TRAILER 2",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "A declaração da Rockstar",
+      "frames": 98,
+      "start": 98.16666666666667,
+      "end": 101.43333333333334,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Ela não identifica",
+      "anchorWordIndex": 283,
+      "fromFrame": 3043,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 105,
+      "label": "CLASSIFICAÇÃO CENA A CENA / NÃO INFORMADA",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Ela não identifica",
+      "frames": 112,
+      "start": 101.43333333333334,
+      "end": 105.16666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Então dá pra dizer",
+      "anchorWordIndex": 293,
+      "fromFrame": 3155,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "TRAILER 2 / RESPOSTA CONFIRMADA",
+      "graphic": "headline",
+      "title": "Tem gameplay.",
+      "sub": "Identificar cada plano exige evidência adicional.",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Então dá pra dizer",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 232,
+      "start": 105.16666666666667,
+      "end": 112.9,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Agora olha o detalhe",
+      "anchorWordIndex": 314,
+      "fromFrame": 3387,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "01 / APARELHO DA CAPTURA",
+      "graphic": "headline",
+      "title": "Capturado no PS5",
+      "sub": "Trailer 2 • captura dentro do jogo",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Agora olha o detalhe",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 194,
+      "start": 112.9,
+      "end": 119.36666666666666,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Isso faz de GTA seis",
+      "anchorWordIndex": 331,
+      "fromFrame": 3581,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "02 / PLATAFORMAS ANUNCIADAS",
+      "graphic": "headline",
+      "title": "Exclusivo? Não.",
+      "sub": "Página oficial: PlayStation 5 e Xbox Series X|S",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Isso faz de GTA seis",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 249,
+      "start": 119.36666666666666,
+      "end": 127.66666666666667,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Uma informação diz",
+      "anchorWordIndex": 352,
+      "fromFrame": 3830,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "DUAS PERGUNTAS DIFERENTES",
+      "graphic": "list",
+      "title": "Captura ≠ exclusividade",
+      "sub": "",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Uma informação diz",
+      "items": [
+        "Gravação: PlayStation 5",
+        "Plataformas: PS5 + Xbox Series X|S"
+      ],
+      "stage": 2,
+      "frames": 256,
+      "start": 127.66666666666667,
+      "end": 136.2,
+      "cues": [
+        0,
+        98
+      ],
+      "animate": true,
+      "animationFrames": 118
+    },
+    {
+      "anchor": "Gravar um churrasco",
+      "anchorWordIndex": 375,
+      "fromFrame": 4086,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HUMOR / ANALOGIA",
+      "graphic": "headline",
+      "title": "Gravou no iPhone…",
+      "sub": "…a linguiça não virou exclusiva.",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Gravar um churrasco",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 159,
+      "start": 136.2,
+      "end": 141.5,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Embora vender o pão",
+      "anchorWordIndex": 389,
+      "fromFrame": 4245,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HUMOR / ANALOGIA",
+      "graphic": "headline",
+      "title": "Pão de alho\nvendido à parte.",
+      "sub": "ANALOGIA / HUMOR",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Embora vender o pão",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 143,
+      "start": 141.5,
+      "end": 146.26666666666668,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "O destaque dado",
+      "anchorWordIndex": 402,
+      "fromFrame": 4388,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "PÁGINA OFICIAL / PLATAFORMAS",
+      "graphic": "headline",
+      "title": "Veja a lista completa.",
+      "sub": "PlayStation 5 • Xbox Series X|S",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "O destaque dado",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 270,
+      "start": 146.26666666666668,
+      "end": 155.26666666666668,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Eu quero jogar GTA",
+      "anchorWordIndex": 428,
+      "fromFrame": 4658,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 32,
+      "label": "QUERO JOGAR / NÃO DEFENDER MARCA",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Eu quero jogar GTA",
+      "frames": 155,
+      "start": 155.26666666666668,
+      "end": 160.43333333333334,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "E tem uma terceira",
+      "anchorWordIndex": 441,
+      "fromFrame": 4813,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "03 / ORIGEM DA IMAGEM",
+      "graphic": "headline",
+      "title": "Ilustração\nou captura?",
+      "sub": "Biblioteca oficial: categorias diferentes",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "E tem uma terceira",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 204,
+      "start": 160.43333333333334,
+      "end": 167.23333333333332,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Olha a arte de Jason",
+      "anchorWordIndex": 461,
+      "fromFrame": 5017,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "offset": 0,
+      "label": "ILUSTRAÇÃO / ARTWORK",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Biblioteca de mídia • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Olha a arte de Jason",
+      "frames": 147,
+      "start": 167.23333333333332,
+      "end": 172.13333333333333,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Aquilo é um desenho",
+      "anchorWordIndex": 476,
+      "fromFrame": 5164,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "offset": 0,
+      "label": "ILUSTRAÇÃO / ARTWORK",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Biblioteca de mídia • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.035
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Aquilo é um desenho",
+      "frames": 129,
+      "start": 172.13333333333333,
+      "end": 176.43333333333334,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Foi feito pra ficar bonito",
+      "anchorWordIndex": 485,
+      "fromFrame": 5293,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "offset": 0,
+      "label": "ILUSTRAÇÃO / PÔSTER E PAPEL DE PAREDE",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Biblioteca de mídia • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1.035,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Foi feito pra ficar bonito",
+      "frames": 97,
+      "start": 176.43333333333334,
+      "end": 179.66666666666666,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Agora compara com a imagem",
+      "anchorWordIndex": 496,
+      "fromFrame": 5390,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+      "offset": 0,
+      "label": "CAPTURA DE TELA / SCREENSHOT",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Biblioteca de mídia • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Agora compara com a imagem",
+      "frames": 213,
+      "start": 179.66666666666666,
+      "end": 186.76666666666668,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Esse é outro tipo",
+      "anchorWordIndex": 519,
+      "fromFrame": 5603,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+      "offset": 0,
+      "label": "CAPTURA DE TELA / OUTRA CATEGORIA",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Biblioteca de mídia • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Esse é outro tipo",
+      "frames": 120,
+      "start": 186.76666666666668,
+      "end": 190.76666666666668,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Se a pergunta é sobre",
+      "anchorWordIndex": 533,
+      "fromFrame": 5723,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+      "offset": 0,
+      "label": "CAPTURA / DETALHES DESTE QUADRO",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Biblioteca de mídia • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1.025,
+        1.04
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Se a pergunta é sobre",
+      "frames": 168,
+      "start": 190.76666666666668,
+      "end": 196.36666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O desenho mostra",
+      "anchorWordIndex": 550,
+      "fromFrame": 5891,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Artwork_Wallpapers/Jason_and_Lucia_01/Jason_and_Lucia_01_landscape.jpg",
+      "offset": 0,
+      "label": "ILUSTRAÇÃO / REPRESENTAÇÃO ARTÍSTICA",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Biblioteca de mídia • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "O desenho mostra",
+      "frames": 100,
+      "start": 196.36666666666667,
+      "end": 199.7,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Usar o pôster",
+      "anchorWordIndex": 559,
+      "fromFrame": 5991,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HUMOR / ANALOGIA",
+      "graphic": "headline",
+      "title": "Planta do apartamento\n≠ ventilação",
+      "sub": "ANALOGIA • representação e comportamento",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Usar o pôster",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 217,
+      "start": 199.7,
+      "end": 206.93333333333334,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Tem uma seta desenhada",
+      "anchorWordIndex": 581,
+      "fromFrame": 6208,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "HUMOR / ANALOGIA",
+      "graphic": "headline",
+      "title": "Uma seta.\nUm vento maravilhoso.",
+      "sub": "ANALOGIA / HUMOR",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Tem uma seta desenhada",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 112,
+      "start": 206.93333333333334,
+      "end": 210.66666666666666,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "E vale o cuidado",
+      "anchorWordIndex": 590,
+      "fromFrame": 6320,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+      "offset": 0,
+      "label": "CAPTURA / UM INSTANTE",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Biblioteca de mídia • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.02
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "E vale o cuidado",
+      "frames": 141,
+      "start": 210.66666666666666,
+      "end": 215.36666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Sozinha ela não demonstra",
+      "anchorWordIndex": 604,
+      "fromFrame": 6461,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "LIMITE DA EVIDÊNCIA",
+      "graphic": "headline",
+      "title": "Um quadro\n≠ desempenho",
+      "sub": "Movimento e resposta ao controle exigem outro material.",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "Sozinha ela não demonstra",
+      "layout": {
+        "side": "left",
+        "top": 280,
+        "width": 1500
+      },
+      "frames": 125,
+      "start": 215.36666666666667,
+      "end": 219.53333333333333,
+      "animate": true,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Pra isso a gente precisa",
+      "anchorWordIndex": 618,
+      "fromFrame": 6586,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 139,
+      "label": "TRAILER 2 / IMAGEM EM MOVIMENTO",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Pra isso a gente precisa",
+      "frames": 154,
+      "start": 219.53333333333333,
+      "end": 224.66666666666666,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Gostar da imagem é fácil",
+      "anchorWordIndex": 630,
+      "fromFrame": 6740,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 151,
+      "label": "ORIGEM + FUNÇÃO DA IMAGEM",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Gostar da imagem é fácil",
+      "frames": 189,
+      "start": 224.66666666666666,
+      "end": 230.96666666666667,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "No Trailer dois a Rockstar",
+      "anchorWordIndex": 649,
+      "fromFrame": 6929,
+      "kind": "graphic",
+      "file": "",
+      "offset": 0,
+      "label": "TRÊS CHECAGENS / RESPOSTAS",
+      "graphic": "list",
+      "title": "Antes de distribuir certeza",
+      "sub": "",
+      "source": "PIXEL PROCURADO • GRÁFICO EDITORIAL",
+      "presentation": "graphic",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "editorial-graphic",
+      "editorialPurpose": "No Trailer dois a Rockstar",
+      "items": [
+        "Trailer 2 mistura gameplay e cenas prontas",
+        "Captura: PS5 • plataformas incluem Xbox",
+        "Artwork e screenshot têm funções diferentes"
+      ],
+      "stage": 3,
+      "frames": 532,
+      "start": 230.96666666666667,
+      "end": 248.7,
+      "cues": [
+        0,
+        151,
+        308
+      ],
+      "animate": true,
+      "animationFrames": 328
+    },
+    {
+      "anchor": "Qual detalhe do material",
+      "anchorWordIndex": 693,
+      "fromFrame": 7461,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 117,
+      "label": "QUAL DETALHE VOCÊ QUER EXAMINAR?",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Qual detalhe do material",
+      "frames": 169,
+      "start": 248.7,
+      "end": 254.33333333333334,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Aqui é o Pixel Procurado",
+      "anchorWordIndex": 710,
+      "fromFrame": 7630,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 128,
+      "label": "PIXEL PROCURADO / A PISTA VEM COM A FONTE",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Aqui é o Pixel Procurado",
+      "frames": 96,
+      "start": 254.33333333333334,
+      "end": 257.53333333333336,
+      "animate": false,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Só traz a prudência",
+      "anchorWordIndex": 720,
+      "fromFrame": 7726,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 155,
+      "label": "TRAGA A PRUDÊNCIA DE VOLTA",
+      "graphic": "",
+      "title": "",
+      "sub": "",
+      "source": "GTA VI • Trailer 2 • Rockstar Games",
+      "presentation": "full",
+      "zoom": [
+        1,
+        1.025
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "captionPosition": "bottom",
+      "panelSide": "left",
+      "evidence": "official-material",
+      "editorialPurpose": "Só traz a prudência",
+      "frames": 85,
+      "start": 257.53333333333336,
+      "end": 260.3666666666667,
+      "animate": false,
+      "animationFrames": 1
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "Essa cena é gameplay ou cinema?"
+    },
+    {
+      "start": 2.92,
+      "end": 5.0,
+      "text": "O Trailer dois de GTA seis tem gameplay,"
+    },
+    {
+      "start": 5.0,
+      "end": 8.72,
+      "text": "sim. A Rockstar descreve metade como gameplay e"
+    },
+    {
+      "start": 8.72,
+      "end": 10.32,
+      "text": "metade como cenas em que a gente só"
+    },
+    {
+      "start": 10.32,
+      "end": 13.02,
+      "text": "assiste. O problema é quando a gente pausa"
+    },
+    {
+      "start": 13.02,
+      "end": 15.26,
+      "text": "numa imagem bonita e sai dali com uma"
+    },
+    {
+      "start": 15.26,
+      "end": 17.18,
+      "text": "certeza que nem o diretor do jogo assinou."
+    },
+    {
+      "start": 17.84,
+      "end": 19.42,
+      "text": "E eu entendo a empolgação."
+    },
+    {
+      "start": 20.24,
+      "end": 22.68,
+      "text": "GTA mostra uma luz bonita na água e"
+    },
+    {
+      "start": 22.68,
+      "end": 24.220000000000002,
+      "text": "a nossa prudência sai pra fumar."
+    },
+    {
+      "start": 24.76,
+      "end": 27.58,
+      "text": "Mas dá pra aproveitar o trailer e separar"
+    },
+    {
+      "start": 27.58,
+      "end": 30.94,
+      "text": "três coisas: o que é gameplay, onde o"
+    },
+    {
+      "start": 30.94,
+      "end": 33.54,
+      "text": "jogo vai sair e qual imagem realmente serve"
+    },
+    {
+      "start": 33.54,
+      "end": 34.96,
+      "text": "pra discutir os gráficos."
+    },
+    {
+      "start": 35.66,
+      "end": 37.800000000000004,
+      "text": "Vamos ao Trailer dois pra entender isso,"
+    },
+    {
+      "start": 38.02,
+      "end": 40.120000000000005,
+      "text": "sem misturar com os outros vídeos da divulgação."
+    },
+    {
+      "start": 41.08,
+      "end": 43.300000000000004,
+      "text": "Começa pela câmera atrás do personagem."
+    },
+    {
+      "start": 43.88,
+      "end": 45.76,
+      "text": "Esse ângulo lembra o que a gente vê"
+    },
+    {
+      "start": 45.76,
+      "end": 46.92,
+      "text": "quando está jogando."
+    },
+    {
+      "start": 47.38,
+      "end": 49.6,
+      "text": "Só que uma cena pronta também pode usar"
+    },
+    {
+      "start": 49.6,
+      "end": 50.45,
+      "text": "a mesma posição."
+    },
+    {
+      "start": 51.26,
+      "end": 52.36,
+      "text": "A câmera dá uma pista;"
+    },
+    {
+      "start": 52.96,
+      "end": 55.12,
+      "text": "sozinha, não confirma que alguém estava no controle"
+    },
+    {
+      "start": 55.12,
+      "end": 58.58,
+      "text": "naquele momento. Foto de anúncio de apartamento também"
+    },
+    {
+      "start": 58.58,
+      "end": 61.58,
+      "text": "faz isso. Pelo ângulo, parece que dá pra"
+    },
+    {
+      "start": 61.58,
+      "end": 62.7,
+      "text": "jogar futebol na sala."
+    },
+    {
+      "start": 63.16,
+      "end": 64.96,
+      "text": "Você visita e precisa escolher:"
+    },
+    {
+      "start": 65.34,
+      "end": 67.72,
+      "text": "abre a geladeira ou fica dentro da cozinha."
+    },
+    {
+      "start": 68.98,
+      "end": 71.02,
+      "text": "Com o trailer, a pergunta é outra:"
+    },
+    {
+      "start": 71.66,
+      "end": 73.28,
+      "text": "o que aquela imagem realmente mostra?"
+    },
+    {
+      "start": 73.92,
+      "end": 76.0,
+      "text": "Pensa numa cena de alguém entrando no carro."
+    },
+    {
+      "start": 76.64,
+      "end": 79.02,
+      "text": "Você vê a porta abrir, o personagem sentar"
+    },
+    {
+      "start": 79.02,
+      "end": 80.17999999999999,
+      "text": "e o carro sair."
+    },
+    {
+      "start": 80.98,
+      "end": 83.34,
+      "text": "Mas isso, sozinho, não mostra se o jogador"
+    },
+    {
+      "start": 83.34,
+      "end": 86.24,
+      "text": "escolheu a hora de entrar, o destino ou"
+    },
+    {
+      "start": 86.24,
+      "end": 87.78,
+      "text": "se estava só assistindo à sequência."
+    },
+    {
+      "start": 88.66,
+      "end": 89.89999999999999,
+      "text": "O exemplo é hipotético."
+    },
+    {
+      "start": 90.14,
+      "end": 92.08,
+      "text": "A gente não está confirmando comandos daquele trecho."
+    },
+    {
+      "start": 92.56,
+      "end": 94.82,
+      "text": "Está separando a ação que aparece na tela"
+    },
+    {
+      "start": 94.82,
+      "end": 97.33999999999999,
+      "text": "da liberdade de decidir o que acontece."
+    },
+    {
+      "start": 98.16,
+      "end": 100.84,
+      "text": "A declaração da Rockstar confirma a mistura no"
+    },
+    {
+      "start": 100.84,
+      "end": 103.94,
+      "text": "Trailer dois. Ela não identifica, cena por cena,"
+    },
+    {
+      "start": 103.94,
+      "end": 104.88,
+      "text": "qual parte é qual."
+    },
+    {
+      "start": 105.18,
+      "end": 107.33999999999999,
+      "text": "Então dá pra dizer que ele tem gameplay."
+    },
+    {
+      "start": 108.14,
+      "end": 110.58,
+      "text": "Pra classificar cada trecho, precisa de mais do"
+    },
+    {
+      "start": 110.58,
+      "end": 111.88,
+      "text": "que a posição da câmera."
+    },
+    {
+      "start": 112.9,
+      "end": 114.69999999999999,
+      "text": "Agora olha o detalhe da gravação:"
+    },
+    {
+      "start": 115.22,
+      "end": 117.25999999999999,
+      "text": "o Trailer dois foi capturado dentro do jogo,"
+    },
+    {
+      "start": 117.58,
+      "end": 118.64,
+      "text": "num PlayStation cinco."
+    },
+    {
+      "start": 119.38,
+      "end": 121.62,
+      "text": "Isso faz de GTA seis um exclusivo do"
+    },
+    {
+      "start": 121.62,
+      "end": 125.24,
+      "text": "PS5? Não. A página oficial também lista Xbox"
+    },
+    {
+      "start": 125.24,
+      "end": 127.05999999999999,
+      "text": "Series X e Series S."
+    },
+    {
+      "start": 127.68,
+      "end": 130.08,
+      "text": "Uma informação diz qual aparelho foi usado pra"
+    },
+    {
+      "start": 130.08,
+      "end": 133.34,
+      "text": "gravar. A outra diz em quais consoles o"
+    },
+    {
+      "start": 133.34,
+      "end": 134.19,
+      "text": "jogo está anunciado."
+    },
+    {
+      "start": 134.66,
+      "end": 135.79999999999998,
+      "text": "São duas perguntas diferentes."
+    },
+    {
+      "start": 136.2,
+      "end": 138.78,
+      "text": "Gravar um churrasco com um iPhone não transforma"
+    },
+    {
+      "start": 138.78,
+      "end": 140.98,
+      "text": "a linguiça em exclusiva da Apple."
+    },
+    {
+      "start": 141.5,
+      "end": 144.06,
+      "text": "Embora vender o pão de alho separado fosse"
+    },
+    {
+      "start": 144.06,
+      "end": 145.2,
+      "text": "bem coerente com a marca."
+    },
+    {
+      "start": 146.28,
+      "end": 148.38,
+      "text": "O destaque dado ao PlayStation pode chamar mais"
+    },
+    {
+      "start": 148.38,
+      "end": 151.18,
+      "text": "atenção. Só que o nome do Xbox continua"
+    },
+    {
+      "start": 151.18,
+      "end": 153.84,
+      "text": "ali. Pra resolver essa dúvida, basta olhar a"
+    },
+    {
+      "start": 153.84,
+      "end": 156.4,
+      "text": "lista completa. Eu quero jogar GTA."
+    },
+    {
+      "start": 156.9,
+      "end": 158.88,
+      "text": "Defender multinacional de graça já é um segundo"
+    },
+    {
+      "start": 158.88,
+      "end": 161.92,
+      "text": "emprego. E tem uma terceira confusão que a"
+    },
+    {
+      "start": 161.92,
+      "end": 164.07999999999998,
+      "text": "própria biblioteca da Rockstar ajuda a evitar:"
+    },
+    {
+      "start": 164.56,
+      "end": 166.68,
+      "text": "misturar ilustração com imagem do jogo."
+    },
+    {
+      "start": 167.24,
+      "end": 169.14,
+      "text": "Olha a arte de Jason e Lucia junto"
+    },
+    {
+      "start": 169.14,
+      "end": 171.57999999999998,
+      "text": "do carro, com palmeiras e céu rosa."
+    },
+    {
+      "start": 172.12,
+      "end": 173.22,
+      "text": "Aquilo é um desenho."
+    },
+    {
+      "start": 173.5,
+      "end": 175.73999999999998,
+      "text": "Tem cor escolhida, traço, composição."
+    },
+    {
+      "start": 176.42,
+      "end": 178.14,
+      "text": "Foi feito pra ficar bonito como pôster e"
+    },
+    {
+      "start": 178.14,
+      "end": 178.98999999999998,
+      "text": "papel de parede."
+    },
+    {
+      "start": 179.68,
+      "end": 181.66,
+      "text": "Agora compara com a imagem dos dois em"
+    },
+    {
+      "start": 181.66,
+      "end": 183.7,
+      "text": "primeiro plano e a cidade ao fundo, que"
+    },
+    {
+      "start": 183.7,
+      "end": 186.0,
+      "text": "aparece na categoria de capturas de tela."
+    },
+    {
+      "start": 186.76,
+      "end": 187.78,
+      "text": "Esse é outro tipo de material."
+    },
+    {
+      "start": 188.5,
+      "end": 190.42,
+      "text": "A biblioteca separa os dois por um motivo."
+    },
+    {
+      "start": 190.76,
+      "end": 192.58,
+      "text": "Se a pergunta é sobre a aparência do"
+    },
+    {
+      "start": 192.58,
+      "end": 195.52,
+      "text": "jogo, a captura permite observar os detalhes daquele"
+    },
+    {
+      "start": 195.52,
+      "end": 198.48,
+      "text": "quadro. O desenho mostra como o artista representou"
+    },
+    {
+      "start": 198.48,
+      "end": 201.14,
+      "text": "os personagens. Usar o pôster pra avaliar os"
+    },
+    {
+      "start": 201.14,
+      "end": 203.82,
+      "text": "gráficos seria como o corretor mostrar a planta"
+    },
+    {
+      "start": 203.82,
+      "end": 206.34,
+      "text": "do apartamento e a gente elogiar a ventilação."
+    },
+    {
+      "start": 206.92,
+      "end": 208.32,
+      "text": "Tem uma seta desenhada."
+    },
+    {
+      "start": 208.42,
+      "end": 209.88,
+      "text": "Deve entrar um vento maravilhoso."
+    },
+    {
+      "start": 210.68,
+      "end": 212.29999999999998,
+      "text": "E vale o cuidado do outro lado:"
+    },
+    {
+      "start": 212.78,
+      "end": 214.9,
+      "text": "uma captura de tela mostra um instante."
+    },
+    {
+      "start": 215.38,
+      "end": 217.58,
+      "text": "Sozinha, ela não demonstra como o jogo roda"
+    },
+    {
+      "start": 217.58,
+      "end": 219.52,
+      "text": "em movimento ou responde ao controle."
+    },
+    {
+      "start": 219.52,
+      "end": 222.28,
+      "text": "Pra isso, a gente precisa olhar material que"
+    },
+    {
+      "start": 222.28,
+      "end": 223.84,
+      "text": "mostre justamente essas coisas."
+    },
+    {
+      "start": 224.66,
+      "end": 226.22,
+      "text": "Gostar da imagem é fácil."
+    },
+    {
+      "start": 226.54,
+      "end": 228.56,
+      "text": "Saber o que ela prova exige olhar de"
+    },
+    {
+      "start": 228.56,
+      "end": 230.29999999999998,
+      "text": "onde veio e pra que serve."
+    },
+    {
+      "start": 230.98,
+      "end": 233.64,
+      "text": "No Trailer dois, a Rockstar confirmou a mistura"
+    },
+    {
+      "start": 233.64,
+      "end": 235.5,
+      "text": "de gameplay e cenas prontas."
+    },
+    {
+      "start": 236.0,
+      "end": 238.44,
+      "text": "O PS5 foi o aparelho da gravação, e"
+    },
+    {
+      "start": 238.44,
+      "end": 240.57999999999998,
+      "text": "o Xbox também está na lista de plataformas."
+    },
+    {
+      "start": 241.22,
+      "end": 244.56,
+      "text": "Na biblioteca, desenho e captura ficam separados."
+    },
+    {
+      "start": 245.1,
+      "end": 247.54,
+      "text": "Três checagens simples antes de sair distribuindo"
+    },
+    {
+      "start": 247.54,
+      "end": 250.44,
+      "text": "certeza. Qual detalhe do material oficial você quer"
+    },
+    {
+      "start": 250.44,
+      "end": 252.51999999999998,
+      "text": "que a gente examine no próximo vídeo?"
+    },
+    {
+      "start": 252.96,
+      "end": 253.85999999999999,
+      "text": "Manda nos comentários."
+    },
+    {
+      "start": 254.34,
+      "end": 255.7,
+      "text": "Aqui é o Pixel Procurado."
+    },
+    {
+      "start": 256.14,
+      "end": 257.32000000000005,
+      "text": "A gente pode se empolgar."
+    },
+    {
+      "start": 257.52,
+      "end": 259.12,
+      "text": "Só traz a prudência de volta antes de"
+    },
+    {
+      "start": 259.12,
+      "end": 260.06,
+      "text": "apertar publicar."
+    }
+  ],
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "start": 0.0,
+      "text": "Essa cena é gameplay ou cinema? O Trailer dois de GTA seis tem gameplay, sim. A Rockstar descreve metade como gameplay e metade como cenas em que a gente só assiste. O problema é quando a gente pausa numa imagem bonita e sai dali com uma certeza que nem o diretor do jogo assinou."
+    },
+    {
+      "paragraph": 2,
+      "start": 17.84,
+      "text": "E eu entendo a empolgação. GTA mostra uma luz bonita na água e a nossa prudência sai pra fumar."
+    },
+    {
+      "paragraph": 3,
+      "start": 24.76,
+      "text": "Mas dá pra aproveitar o trailer e separar três coisas: o que é gameplay, onde o jogo vai sair e qual imagem realmente serve pra discutir os gráficos. Vamos usar o Trailer dois pra entender isso, sem misturar com os outros vídeos da divulgação."
+    },
+    {
+      "paragraph": 4,
+      "start": 41.08,
+      "text": "Começa pela câmera atrás do personagem. Esse ângulo lembra o que a gente vê quando está jogando. Só que uma cena pronta também pode usar a mesma posição. A câmera dá uma pista; sozinha, não confirma que alguém estava no controle naquele momento."
+    },
+    {
+      "paragraph": 5,
+      "start": 56.74,
+      "text": "Foto de anúncio de apartamento também faz isso. Pelo ângulo, parece que dá pra jogar futebol na sala. Você visita e precisa escolher: abre a geladeira ou fica dentro da cozinha."
+    },
+    {
+      "paragraph": 6,
+      "start": 68.98,
+      "text": "Com o trailer, a pergunta é outra: o que aquela imagem realmente mostra?"
+    },
+    {
+      "paragraph": 7,
+      "start": 73.92,
+      "text": "Pensa numa cena de alguém entrando no carro. Você vê a porta abrir, o personagem sentar e o carro sair. Mas isso, sozinho, não mostra se o jogador escolheu a hora de entrar, o destino ou se estava só assistindo à sequência."
+    },
+    {
+      "paragraph": 8,
+      "start": 88.66,
+      "text": "O exemplo é hipotético. A gente não está confirmando comandos daquele trecho. Está separando a ação que aparece na tela da liberdade de decidir o que acontece."
+    },
+    {
+      "paragraph": 9,
+      "start": 98.16,
+      "text": "A declaração da Rockstar confirma a mistura no Trailer dois. Ela não identifica, cena por cena, qual parte é qual. Então dá pra dizer que ele tem gameplay. Pra classificar cada trecho, precisa de mais do que a posição da câmera."
+    },
+    {
+      "paragraph": 10,
+      "start": 112.9,
+      "text": "Agora olha o detalhe da gravação: o Trailer dois foi capturado dentro do jogo, num PlayStation cinco."
+    },
+    {
+      "paragraph": 11,
+      "start": 119.38,
+      "text": "Isso faz de GTA seis um exclusivo do PS5? Não. A página oficial também lista Xbox Series X e Series S."
+    },
+    {
+      "paragraph": 12,
+      "start": 127.68,
+      "text": "Uma informação diz qual aparelho foi usado pra gravar. A outra diz em quais consoles o jogo está anunciado. São duas perguntas diferentes."
+    },
+    {
+      "paragraph": 13,
+      "start": 136.2,
+      "text": "Gravar um churrasco com um iPhone não transforma a linguiça em exclusiva da Apple. Embora vender o pão de alho separado fosse bem coerente com a marca."
+    },
+    {
+      "paragraph": 14,
+      "start": 146.28,
+      "text": "O destaque dado ao PlayStation pode chamar mais atenção. Só que o nome do Xbox continua ali. Pra resolver essa dúvida, basta olhar a lista completa."
+    },
+    {
+      "paragraph": 15,
+      "start": 155.26,
+      "text": "Eu quero jogar GTA. Defender multinacional de graça já é um segundo emprego."
+    },
+    {
+      "paragraph": 16,
+      "start": 160.42,
+      "text": "E tem uma terceira confusão que a própria biblioteca da Rockstar ajuda a evitar: misturar ilustração com imagem do jogo."
+    },
+    {
+      "paragraph": 17,
+      "start": 167.24,
+      "text": "Olha a arte de Jason e Lucia junto do carro, com palmeiras e céu rosa. Aquilo é um desenho. Tem cor escolhida, traço, composição. Foi feito pra ficar bonito como pôster e papel de parede."
+    },
+    {
+      "paragraph": 18,
+      "start": 179.68,
+      "text": "Agora compara com a imagem dos dois em primeiro plano e a cidade ao fundo, que aparece na categoria de capturas de tela. Esse é outro tipo de material. A biblioteca separa os dois por um motivo."
+    },
+    {
+      "paragraph": 19,
+      "start": 190.76,
+      "text": "Se a pergunta é sobre a aparência do jogo, a captura permite observar os detalhes daquele quadro. O desenho mostra como o artista representou os personagens."
+    },
+    {
+      "paragraph": 20,
+      "start": 199.7,
+      "text": "Usar o pôster pra avaliar os gráficos seria como o corretor mostrar a planta do apartamento e a gente elogiar a ventilação."
+    },
+    {
+      "paragraph": 21,
+      "start": 206.92,
+      "text": "Tem uma seta desenhada. Deve entrar um vento maravilhoso."
+    },
+    {
+      "paragraph": 22,
+      "start": 210.68,
+      "text": "E vale o cuidado do outro lado: uma captura de tela mostra um instante. Sozinha, ela não demonstra como o jogo roda em movimento ou responde ao controle. Pra isso, a gente precisa olhar material que mostre justamente essas coisas."
+    },
+    {
+      "paragraph": 23,
+      "start": 224.66,
+      "text": "Gostar da imagem é fácil. Saber o que ela prova exige olhar de onde veio e pra que serve."
+    },
+    {
+      "paragraph": 24,
+      "start": 230.98,
+      "text": "No Trailer dois, a Rockstar confirmou a mistura de gameplay e cenas prontas. O PS5 foi o aparelho da gravação, e o Xbox também está na lista de plataformas. Na biblioteca, desenho e captura ficam separados. Três checagens simples antes de sair distribuindo certeza."
+    },
+    {
+      "paragraph": 25,
+      "start": 248.7,
+      "text": "Qual detalhe do material oficial você quer que a gente examine no próximo vídeo? Manda nos comentários. Aqui é o Pixel Procurado. A gente pode se empolgar. Só traz a prudência de volta antes de apertar publicar."
+    }
+  ]
+}

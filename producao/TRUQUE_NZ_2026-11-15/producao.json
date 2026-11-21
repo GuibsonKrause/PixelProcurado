@@ -1,0 +1,180 @@
+{
+  "schema_versao": 1,
+  "id": "TRUQUE_NZ_2026_11_15",
+  "formato": "longo_e_short",
+  "roteiro_origem": {
+    "longo": "producao/TRUQUE_NZ_2026-11-15/01_NARRACAO.txt",
+    "short": "producao/TRUQUE_NZ_2026-11-15/SHORT_NARRACAO.txt"
+  },
+  "etapa_atual": "concluido",
+  "status": "validado",
+  "data_criacao": "2026-11-15T18:41:59-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "validado",
+      "longo": {
+        "status": "validado",
+        "executor": {
+          "model_solicitado": "sonnet"
+        },
+        "medicoes": {
+          "duracao_s": 389.28,
+          "lufs": -16.7,
+          "gancho_s": 2.34
+        },
+        "atualizado_em": "2026-11-15T19:24:32-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "executor": {
+          "model_solicitado": "sonnet"
+        },
+        "medicoes": {
+          "duracao_s": 75.16,
+          "lufs": -17.1,
+          "gancho_s": 2.34
+        },
+        "atualizado_em": "2026-11-15T19:24:38-03:00"
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "atualizado_em": "2026-11-15T19:50:10-03:00"
+    },
+    "alinhamento": {
+      "status": "validado",
+      "longo": {
+        "status": "validado",
+        "executor": {
+          "model_solicitado": "sonnet"
+        },
+        "atualizado_em": "2026-11-15T19:24:43-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "executor": {
+          "model_solicitado": "sonnet"
+        },
+        "atualizado_em": "2026-11-15T19:24:53-03:00"
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "atualizado_em": "2026-11-15T19:50:17-03:00"
+    },
+    "montagem": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "atualizado_em": "2026-11-15T21:48:04-03:00",
+      "medicoes": {
+        "planos_longo": 98,
+        "planos_short": 25
+      }
+    },
+    "render": {
+      "status": "validado",
+      "longo": {
+        "status": "validado",
+        "executor": {
+          "model_solicitado": "sonnet"
+        },
+        "medicoes": {
+          "resolucao": "3840x2160",
+          "fps": 30,
+          "tamanho_mb": 754,
+          "qa": "validar_v2_ok"
+        },
+        "atualizado_em": "2026-11-15T21:48:29-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "executor": {
+          "model_solicitado": "sonnet"
+        },
+        "medicoes": {
+          "resolucao": "1080x1920",
+          "fps": 30,
+          "tamanho_mb": 41,
+          "qa": "validar_v2_ok"
+        },
+        "atualizado_em": "2026-11-15T21:48:30-03:00"
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "atualizado_em": "2026-11-15T22:09:07-03:00"
+    },
+    "thumbnail": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "medicoes": {
+        "capas": 2
+      },
+      "atualizado_em": "2026-11-15T19:50:56-03:00"
+    },
+    "publicacao_pacote": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "executor": {
+        "model_solicitado": "sonnet"
+      },
+      "atualizado_em": "2026-11-15T22:09:07-03:00",
+      "plano_postiz": "PLANO_POSTIZ_LOG.txt"
+    },
+    "distribuicao": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "estado": "producao/TRUQUE_NZ_2026-11-15/publicacao/POSTIZ_ESTADO.json"
+      },
+      "medicoes": {
+        "publicadas": 8,
+        "postiz_error": 1
+      },
+      "atualizado_em": "2026-11-16T00:02:45-03:00"
+    },
+    "revisao_final": {
+      "status": "validado",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      },
+      "artefatos": {
+        "relatorio": "producao/TRUQUE_NZ_2026-11-15/REVISAO_FINAL.json"
+      },
+      "executor": {
+        "model_solicitado": "opus"
+      },
+      "atualizado_em": "2026-11-16T00:02:44-03:00"
+    }
+  },
+  "atualizado_em": "2026-11-16T00:02:45-03:00"
+}

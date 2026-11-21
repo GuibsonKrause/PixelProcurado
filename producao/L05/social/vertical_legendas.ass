@@ -1,0 +1,142 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Arial,48,&H00FFFFFF,&H00FFFFFF,&H00181311,&H00181311,-1,0,0,0,100,100,0,0,1,2,0,8,80,80,1240,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.10,Main,,0,0,0,,O carro distrai.
+Dialogue: 0,0:00:01.42,0:00:02.27,Main,,0,0,0,,Olha a rua.
+Dialogue: 0,0:00:02.86,0:00:05.46,Main,,0,0,0,,Na foto de GTA seis, tem moto\Nempinando
+Dialogue: 0,0:00:05.46,0:00:07.52,Main,,0,0,0,,e pilares pintados atrás do carro\Nazul.
+Dialogue: 0,0:00:08.16,0:00:09.64,Main,,0,0,0,,A graça também está no bairro.
+Dialogue: 0,0:00:10.24,0:00:12.32,Main,,0,0,0,,Olhar só a lataria é deixar metade\Nda
+Dialogue: 0,0:00:12.32,0:00:13.56,Main,,0,0,0,,conversa fora do quadro.
+Dialogue: 0,0:00:14.28,0:00:17.26,Main,,0,0,0,,Vamos comparar seis fotos oficiais,\Nem três pares:
+Dialogue: 0,0:00:17.66,0:00:19.94,Main,,0,0,0,,praia, carros e vista aérea.
+Dialogue: 0,0:00:20.54,0:00:22.74,Main,,0,0,0,,Dá pra perceber bastante coisa sem\Ntransformar um
+Dialogue: 0,0:00:22.74,0:00:24.30,Main,,0,0,0,,print numa disputa de console.
+Dialogue: 0,0:00:25.32,0:00:27.40,Main,,0,0,0,,Começa pelo ciclista de GTA cinco.
+Dialogue: 0,0:00:27.90,0:00:30.78,Main,,0,0,0,,A imagem saiu na galeria Transport,\Nem dois
+Dialogue: 0,0:00:30.78,0:00:31.63,Main,,0,0,0,,mil e doze.
+Dialogue: 0,0:00:31.92,0:00:34.46,Main,,0,0,0,,A câmera fica baixa, perto da roda.
+Dialogue: 0,0:00:34.76,0:00:37.30,Main,,0,0,0,,O píer e a roda-gigante aparecem ao\Nfundo,
+Dialogue: 0,0:00:37.30,0:00:38.36,Main,,0,0,0,,com uma luz quente.
+Dialogue: 0,0:00:39.02,0:00:40.84,Main,,0,0,0,,Você bate o olho e entende a ação:
+Dialogue: 0,0:00:41.22,0:00:42.74,Main,,0,0,0,,alguém pedalando por aquela praia.
+Dialogue: 0,0:00:43.48,0:00:45.32,Main,,0,0,0,,O lugar ajuda a contar a cena.
+Dialogue: 0,0:00:46.02,0:00:48.72,Main,,0,0,0,,O píer dá uma referência, o ângulo\Npassa
+Dialogue: 0,0:00:48.74,0:00:50.86,Main,,0,0,0,,movimento e a bicicleta segura o\Nolhar.
+Dialogue: 0,0:00:51.46,0:00:54.60,Main,,0,0,0,,A fotografia escolheu um assunto\Nprincipal e deixou
+Dialogue: 0,0:00:54.60,0:00:55.68,Main,,0,0,0,,o resto trabalhar junto.
+Dialogue: 0,0:00:56.46,0:00:57.78,Main,,0,0,0,,É uma imagem direta.
+Dialogue: 0,0:00:58.32,0:01:00.42,Main,,0,0,0,,Você não precisa fazer um censo da\Nareia
+Dialogue: 0,0:01:00.42,0:01:01.64,Main,,0,0,0,,pra entender o que ela quer mostrar.
+Dialogue: 0,0:01:02.00,0:01:04.34,Main,,0,0,0,,Agora muda pra praia de Vice City.
+Dialogue: 0,0:01:04.72,0:01:06.92,Main,,0,0,0,,Tem uma pessoa tomando sol mais\Nperto da
+Dialogue: 0,0:01:06.92,0:01:10.76,Main,,0,0,0,,câmera, um casal andando, outras\Npessoas espalhadas
+Dialogue: 0,0:01:10.76,0:01:13.52,Main,,0,0,0,,e o homem com detector perto do\Nposto
+Dialogue: 0,0:01:13.52,0:01:17.30,Main,,0,0,0,,de salva-vidas. Seu olhar consegue\Nfazer várias paradas.
+Dialogue: 0,0:01:18.02,0:01:19.96,Main,,0,0,0,,O detector é um detalhe ótimo.
+Dialogue: 0,0:01:20.46,0:01:22.58,Main,,0,0,0,,Ele sugere uma atividade diferente\Nno meio do
+Dialogue: 0,0:01:22.58,0:01:25.30,Main,,0,0,0,,passeio. A gente olha e já imagina o
+Dialogue: 0,0:01:25.30,0:01:28.14,Main,,0,0,0,,sujeito esperando encontrar uma\Njoia, enquanto a
+Dialogue: 0,0:01:28.14,0:01:30.16,Main,,0,0,0,,praia oferece a décima tampinha do\Ndia.
+Dialogue: 0,0:01:30.76,0:01:33.76,Main,,0,0,0,,Essa história é nossa imaginação\Ntrabalhando em cima
+Dialogue: 0,0:01:33.76,0:01:35.80,Main,,0,0,0,,do objeto, não uma missão anunciada.
+Dialogue: 0,0:01:36.52,0:01:38.08,Main,,0,0,0,,O que está visível é suficiente:
+Dialogue: 0,0:01:38.88,0:01:41.76,Main,,0,0,0,,pessoas com poses e ocupações\Ndiferentes dentro do
+Dialogue: 0,0:01:41.76,0:01:45.48,Main,,0,0,0,,mesmo quadro. Na foto do ciclista,\Nacompanhamos uma
+Dialogue: 0,0:01:45.48,0:01:50.12,Main,,0,0,0,,ação. Nessa praia, exploramos várias\Npequenas situações.
+Dialogue: 0,0:01:50.76,0:01:52.70,Main,,0,0,0,,Essa é a diferença que estamos\Ncomparando.
+Dialogue: 0,0:01:53.28,0:01:55.40,Main,,0,0,0,,Ela não prova que GTA seis inteiro\Ntem
+Dialogue: 0,0:01:55.40,0:01:58.12,Main,,0,0,0,,determinada quantidade de pessoas ou\Nque a praia
+Dialogue: 0,0:01:58.12,0:01:59.90,Main,,0,0,0,,de GTA cinco sempre fica vazia.
+Dialogue: 0,0:02:00.06,0:02:02.48,Main,,0,0,0,,São fotos escolhidas pra divulgação.
+Dialogue: 0,0:02:03.12,0:02:06.12,Main,,0,0,0,,Elas mostram o que cada\Nenquadramento decidiu destacar.
+Dialogue: 0,0:02:06.82,0:02:08.08,Main,,0,0,0,,E com os carros?
+Dialogue: 0,0:02:08.68,0:02:10.96,Main,,0,0,0,,A imagem do Cheetah em GTA cinco\Nchega
+Dialogue: 0,0:02:10.96,0:02:12.20,Main,,0,0,0,,bem perto da traseira.
+Dialogue: 0,0:02:12.68,0:02:15.44,Main,,0,0,0,,O aerofólio chama atenção, tem\Nfumaça junto dos
+Dialogue: 0,0:02:15.44,0:02:17.40,Main,,0,0,0,,pneus, e a rua fica atrás.
+Dialogue: 0,0:02:18.06,0:02:19.50,Main,,0,0,0,,A máquina domina o quadro.
+Dialogue: 0,0:02:20.00,0:02:21.84,Main,,0,0,0,,Tem cara de anúncio de carro que\Nmostra
+Dialogue: 0,0:02:21.84,0:02:24.44,Main,,0,0,0,,três minutos de escapamento e\Nesquece de mencionar
+Dialogue: 0,0:02:24.44,0:02:25.29,Main,,0,0,0,,o valor do seguro.
+Dialogue: 0,0:02:25.90,0:02:27.76,Main,,0,0,0,,A função ali é fazer você querer\Ndirigir.
+Dialogue: 0,0:02:27.76,0:02:31.00,Main,,0,0,0,,E a imagem consegue passar essa\Nvontade mesmo
+Dialogue: 0,0:02:31.00,0:02:31.90,Main,,0,0,0,,sem som de motor.
+Dialogue: 0,0:02:32.86,0:02:35.40,Main,,0,0,0,,Na foto de GTA seis, o carro azul
+Dialogue: 0,0:02:35.40,0:02:36.50,Main,,0,0,0,,também vem pra frente.
+Dialogue: 0,0:02:36.74,0:02:38.90,Main,,0,0,0,,Só que o entorno insiste em\Nparticipar:
+Dialogue: 0,0:02:39.76,0:02:43.82,Main,,0,0,0,,tem moto, gente empinando, outros\Nveículos, fios
+Dialogue: 0,0:02:43.82,0:02:46.12,Main,,0,0,0,,e um viaduto com pilares pintados.
+Dialogue: 0,0:02:46.68,0:02:48.80,Main,,0,0,0,,A rua dá trabalho pra quem tenta\Nolhar
+Dialogue: 0,0:02:48.80,0:02:49.96,Main,,0,0,0,,só a lataria.
+Dialogue: 0,0:02:50.96,0:02:53.66,Main,,0,0,0,,Os murais ocupam bastante espaço e\Najudam a
+Dialogue: 0,0:02:53.66,0:02:55.06,Main,,0,0,0,,dar personalidade ao lugar.
+Dialogue: 0,0:02:56.02,0:02:57.96,Main,,0,0,0,,As pessoas e as motos também sugerem\Num
+Dialogue: 0,0:02:57.96,0:03:00.98,Main,,0,0,0,,encontro, uma vida em volta dos\Nveículos.
+Dialogue: 0,0:03:01.84,0:03:04.66,Main,,0,0,0,,Minha leitura é que a imagem vende\Ntanto
+Dialogue: 0,0:03:04.66,0:03:06.96,Main,,0,0,0,,a vontade de conhecer aquela rua\Nquanto a
+Dialogue: 0,0:03:06.96,0:03:08.02,Main,,0,0,0,,de entrar naquele carro.
+Dialogue: 0,0:03:09.10,0:03:11.52,Main,,0,0,0,,Se você recorta só o automóvel,\Nperde essa
+Dialogue: 0,0:03:11.52,0:03:14.00,Main,,0,0,0,,conversa. É como mostrar a foto de\Num
+Dialogue: 0,0:03:14.00,0:03:16.48,Main,,0,0,0,,churrasco e cortar todo mundo pra\Nanalisar a
+Dialogue: 0,0:03:16.48,0:03:19.46,Main,,0,0,0,,churrasqueira. O equipamento pode\Nser ótimo.
+Dialogue: 0,0:03:20.12,0:03:21.92,Main,,0,0,0,,Mas você acabou de remover o motivo\Nde
+Dialogue: 0,0:03:21.92,0:03:24.78,Main,,0,0,0,,estar ali. Isso não diminui a imagem\Ndo
+Dialogue: 0,0:03:24.78,0:03:26.98,Main,,0,0,0,,Cheetah. Ela está fazendo outra\Ncoisa.
+Dialogue: 0,0:03:27.66,0:03:29.24,Main,,0,0,0,,Uma coloca a máquina no centro;
+Dialogue: 0,0:03:29.66,0:03:31.72,Main,,0,0,0,,a outra dá mais espaço à relação\Nentre
+Dialogue: 0,0:03:31.72,0:03:33.48,Main,,0,0,0,,carro, gente e bairro.
+Dialogue: 0,0:03:34.14,0:03:35.12,Main,,0,0,0,,Agora vamos subir.
+Dialogue: 0,0:03:35.90,0:03:38.88,Main,,0,0,0,,Na terceira foto de GTA cinco, um\Njato
+Dialogue: 0,0:03:38.88,0:03:41.02,Main,,0,0,0,,ocupa boa parte do quadro sobre as\Nluzes
+Dialogue: 0,0:03:41.02,0:03:43.86,Main,,0,0,0,,da cidade. O avião fica próximo, e o
+Dialogue: 0,0:03:43.86,0:03:45.22,Main,,0,0,0,,cenário passa embaixo dele.
+Dialogue: 0,0:03:45.86,0:03:48.44,Main,,0,0,0,,Mesmo com muita coisa ao fundo, o\Nveículo
+Dialogue: 0,0:03:48.44,0:03:49.40,Main,,0,0,0,,conduz nosso olhar.
+Dialogue: 0,0:03:50.00,0:03:52.38,Main,,0,0,0,,Na imagem de GTA seis, o helicóptero\Naparece
+Dialogue: 0,0:03:52.38,0:03:54.02,Main,,0,0,0,,menor perto dos edifícios.
+Dialogue: 0,0:03:54.58,0:03:57.45,Main,,0,0,0,,Há água, barcos e luzes, com um\Nprédio
+Dialogue: 0,0:03:57.45,0:03:58.36,Main,,0,0,0,,ocupando a lateral.
+Dialogue: 0,0:03:59.10,0:04:01.34,Main,,0,0,0,,A cidade ganha mais espaço, e a\Naeronave
+Dialogue: 0,0:04:01.34,0:04:03.34,Main,,0,0,0,,ajuda a gente a perceber a relação\Nentre
+Dialogue: 0,0:04:03.34,0:04:06.26,Main,,0,0,0,,as partes. Pensa numa foto de\Nviagem:
+Dialogue: 0,0:04:06.86,0:04:09.02,Main,,0,0,0,,em uma, você ocupa quase tudo e\Nsobra
+Dialogue: 0,0:04:09.02,0:04:10.90,Main,,0,0,0,,um monumento atrás da sua orelha.
+Dialogue: 0,0:04:11.62,0:04:13.62,Main,,0,0,0,,Na outra, alguém dá dois passos pra\Ntrás
+Dialogue: 0,0:04:13.62,0:04:15.56,Main,,0,0,0,,e finalmente mostra onde você está.
+Dialogue: 0,0:04:16.10,0:04:18.28,Main,,0,0,0,,Nenhuma das fotos mede o tamanho da\Ncidade.
+Dialogue: 0,0:04:18.66,0:04:20.64,Main,,0,0,0,,O fotógrafo só mudou a prioridade.
+Dialogue: 0,0:04:21.42,0:04:23.92,Main,,0,0,0,,É esse cuidado que também vale pros\Nmapas.
+Dialogue: 0,0:04:24.56,0:04:27.38,Main,,0,0,0,,Um helicóptero pequeno na foto não\Ndemonstra quantos
+Dialogue: 0,0:04:27.38,0:04:28.68,Main,,0,0,0,,quilômetros existem no jogo.
+Dialogue: 0,0:04:29.24,0:04:31.48,Main,,0,0,0,,Assim como um jato enorme na imagem\Nnão
+Dialogue: 0,0:04:31.48,0:04:33.74,Main,,0,0,0,,significa que o resto do mundo\Nacabou logo
+Dialogue: 0,0:04:33.74,0:04:34.62,Main,,0,0,0,,depois da asa.
+Dialogue: 0,0:04:35.34,0:04:37.16,Main,,0,0,0,,E comparar os gráficos?
+Dialogue: 0,0:04:37.80,0:04:39.82,Main,,0,0,0,,Essas fotos não formam um teste\Njusto de
+Dialogue: 0,0:04:39.82,0:04:41.44,Main,,0,0,0,,desempenho ou qualidade final.
+Dialogue: 0,0:04:41.44,0:04:43.98,Main,,0,0,0,,O material de GTA cinco é divulgação\Nde
+Dialogue: 0,0:04:43.98,0:04:44.83,Main,,0,0,0,,dois mil e doze.
+Dialogue: 0,0:04:45.28,0:04:47.94,Main,,0,0,0,,Os enquadramentos, a luz e as\Nsituações são
+Dialogue: 0,0:04:47.94,0:04:50.98,Main,,0,0,0,,diferentes. Dá pra analisar as\Nimagens sem fingir
+Dialogue: 0,0:04:50.98,0:04:52.94,Main,,0,0,0,,que colocamos os dois jogos numa\Nbancada.
+Dialogue: 0,0:04:53.78,0:04:56.04,Main,,0,0,0,,O que os três pares mostram bem é
+Dialogue: 0,0:04:56.04,0:04:57.56,Main,,0,0,0,,uma mudança no caminho do olhar.
+Dialogue: 0,0:04:58.30,0:05:00.74,Main,,0,0,0,,O ciclista e as pequenas situações\Nda praia.
+Dialogue: 0,0:05:01.50,0:05:03.10,Main,,0,0,0,,O carro e a rua ao redor.
+Dialogue: 0,0:05:04.12,0:05:05.44,Main,,0,0,0,,A aeronave e a cidade.
+Dialogue: 0,0:05:06.04,0:05:08.40,Main,,0,0,0,,Nas imagens de GTA seis que\Nescolhemos, o
+Dialogue: 0,0:05:08.40,0:05:10.40,Main,,0,0,0,,cenário participa bastante da\Nconversa.
+Dialogue: 0,0:05:11.42,0:05:13.56,Main,,0,0,0,,Qual desses lugares faria você\Nesquecer a missão
+Dialogue: 0,0:05:14.15,0:05:15.00,Main,,0,0,0,,por alguns minutos:
+Dialogue: 0,0:05:15.50,0:05:17.72,Main,,0,0,0,,a praia, o encontro de carros ou a
+Dialogue: 0,0:05:17.72,0:05:18.57,Main,,0,0,0,,orla vista do alto?
+Dialogue: 0,0:05:19.66,0:05:21.28,Main,,0,0,0,,Eu começaria olhando as bordas da\Nfoto.
+Dialogue: 0,0:05:21.94,0:05:24.54,Main,,0,0,0,,O carro já conseguiu toda a atenção\Nque precisava.

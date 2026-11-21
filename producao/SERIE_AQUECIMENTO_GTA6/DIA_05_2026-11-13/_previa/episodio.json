@@ -1,0 +1,1350 @@
+{
+  "id": "DIA_05_2026-11-13__previa",
+  "titulo": "GTA 6: Como Funciona Jogar com Jason e Lucia",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "T2": "GTAVI_Trailer_2.mp4",
+    "LT": "GTAVI_Launch_Trailer.mp4",
+    "GTAV": "GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "HUD": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/hud_0706.jpg",
+    "MSG": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/msg_2349.jpg",
+    "LMSG": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/lucia_msg_2357.jpg",
+    "BENCH": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/supino_1720.jpg",
+    "BENCHZ": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/supino_L2R2.jpg",
+    "L01": "GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_01.jpg",
+    "L04": "GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_04.jpg",
+    "L02": "GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_02.jpg",
+    "JL01": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+    "JL02": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_02.jpg",
+    "JL04": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_04.jpg",
+    "JL07": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_07.jpg",
+    "HUDZ": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/montagem/referencias/hud_close_0706.jpg",
+    "JL03": "GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_03.jpg"
+  },
+  "rotulos_obrigatorios": {
+    "GTAV": "GTA V"
+  },
+  "correcoes_legenda": {},
+  "formatos": {
+    "longo": {
+      "stem": "Pixel_Procurado_DIA05_Previa_V2",
+      "resolucao": [
+        960,
+        540
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/audio/narracao_normalizada.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_05_2026-11-13/audio/palavras_alinhadas.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "HUDZ",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0.0,
+            2.66
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 426,
+          "tipo": "editorial",
+          "corte": [
+            2.66,
+            5.92
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 398,
+          "tipo": "editorial",
+          "corte": [
+            5.92,
+            10.18
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "LUCIA [L2]",
+          "detalhe": "HURRY no canto • 07:06",
+          "midia": "HUD",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            10.18,
+            13.48
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 432,
+          "tipo": "editorial",
+          "corte": [
+            13.48,
+            17.66
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 436.2,
+          "tipo": "editorial",
+          "corte": [
+            17.66,
+            21.6
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 440.1,
+          "tipo": "editorial",
+          "corte": [
+            21.6,
+            25.68
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "L2 = INTERAGIR",
+          "detalhe": "Hipótese: não é troca de personagem",
+          "midia": "EXT",
+          "inicio": 388,
+          "tipo": "editorial",
+          "corte": [
+            25.68,
+            32.6
+          ]
+        },
+        {
+          "titulo": "SEXTA-FEIRA 13",
+          "detalhe": "13/11 • faltam 6 dias",
+          "midia": "T1",
+          "inicio": 69,
+          "tipo": "data",
+          "corte": [
+            32.6,
+            35.0
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 75.6,
+          "tipo": "editorial",
+          "corte": [
+            35.0,
+            37.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "LT",
+          "inicio": 42,
+          "tipo": "editorial",
+          "corte": [
+            37.9,
+            40.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "LT",
+          "inicio": 27,
+          "tipo": "editorial",
+          "corte": [
+            40.9,
+            43.18
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "3 CENAS",
+          "detalhe": "Carro • academia • festa",
+          "midia": "EXT",
+          "inicio": 1004,
+          "tipo": "tag",
+          "corte": [
+            43.18,
+            45.18
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 876.5,
+          "tipo": "editorial",
+          "corte": [
+            45.18,
+            46.5
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "LT",
+          "inicio": 57.15,
+          "tipo": "editorial",
+          "corte": [
+            46.5,
+            47.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1263,
+          "tipo": "editorial",
+          "corte": [
+            47.9,
+            49.28
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "2 PALAVRAS",
+          "detalhe": "A mensagem que muda a missão",
+          "midia": "MSG",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            49.28,
+            52.56
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Michael • Franklin • Trevor",
+          "midia": "GTAV",
+          "inicio": 52.5,
+          "tipo": "tag",
+          "corte": [
+            52.56,
+            55.66
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "A troca de personagem",
+          "midia": "GTAV",
+          "inicio": 56.0,
+          "tipo": "tag",
+          "corte": [
+            55.66,
+            59.0
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Câmera de satélite",
+          "midia": "GTAV",
+          "inicio": 130.0,
+          "tipo": "tag",
+          "corte": [
+            59.0,
+            63.68
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Desce em outro canto do mapa",
+          "midia": "GTAV",
+          "inicio": 136.0,
+          "tipo": "tag",
+          "corte": [
+            63.68,
+            66.5
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Trevor de cueca",
+          "midia": "GTAV",
+          "inicio": 261.9,
+          "tipo": "tag",
+          "corte": [
+            66.5,
+            70.5
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Trevor no meio do nada",
+          "midia": "GTAV",
+          "inicio": 183.2,
+          "tipo": "tag",
+          "corte": [
+            70.5,
+            72.74
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Os golpes",
+          "midia": "GTAV",
+          "inicio": 245.0,
+          "tipo": "tag",
+          "corte": [
+            72.74,
+            76.74
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Grupo de família",
+          "midia": "GTAV",
+          "inicio": 63.5,
+          "tipo": "tag",
+          "corte": [
+            76.74,
+            79.54
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Dinheiro na mesa",
+          "midia": "GTAV",
+          "inicio": 256.6,
+          "tipo": "tag",
+          "corte": [
+            79.54,
+            82.74
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 88.25,
+          "tipo": "editorial",
+          "corte": [
+            82.74,
+            84.04
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JL03",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            84.04,
+            85.88
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 66.0,
+          "tipo": "editorial",
+          "corte": [
+            85.88,
+            88.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "14:42",
+          "detalhe": "Depois do tiroteio na rua",
+          "midia": "EXT",
+          "inicio": 878.0,
+          "tipo": "editorial",
+          "corte": [
+            88.4,
+            91.16
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 858.0,
+          "tipo": "editorial",
+          "corte": [
+            91.16,
+            93.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 882.0,
+          "tipo": "editorial",
+          "corte": [
+            93.9,
+            95.96
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 884.1,
+          "tipo": "editorial",
+          "corte": [
+            95.96,
+            97.96
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 894.0,
+          "tipo": "editorial",
+          "corte": [
+            97.96,
+            100.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 902.0,
+          "tipo": "editorial",
+          "corte": [
+            100.9,
+            102.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 908.0,
+          "tipo": "editorial",
+          "corte": [
+            102.9,
+            106.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "15:20",
+          "detalhe": "Sedã sai do túnel • estrelas",
+          "midia": "EXT",
+          "inicio": 918.0,
+          "tipo": "editorial",
+          "corte": [
+            106.4,
+            110.92
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 922.52,
+          "tipo": "editorial",
+          "corte": [
+            110.92,
+            113.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "15:30",
+          "detalhe": "Câmera atrás do carro",
+          "midia": "EXT",
+          "inicio": 929.6,
+          "tipo": "editorial",
+          "corte": [
+            113.2,
+            117.5
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 933.9,
+          "tipo": "editorial",
+          "corte": [
+            117.5,
+            121.48
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 940.0,
+          "tipo": "editorial",
+          "corte": [
+            121.48,
+            123.7
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 886.2,
+          "tipo": "editorial",
+          "corte": [
+            123.7,
+            126.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 942.3,
+          "tipo": "editorial",
+          "corte": [
+            126.4,
+            129.84
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 850.0,
+          "tipo": "editorial",
+          "corte": [
+            129.84,
+            132.6
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 63.0,
+          "tipo": "editorial",
+          "corte": [
+            132.6,
+            135.66
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 945.8,
+          "tipo": "editorial",
+          "corte": [
+            135.66,
+            138.64
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 890.0,
+          "tipo": "editorial",
+          "corte": [
+            138.64,
+            141.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 853.0,
+          "tipo": "editorial",
+          "corte": [
+            141.2,
+            144.0
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 11.6,
+          "tipo": "editorial",
+          "corte": [
+            144.0,
+            146.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1030.0,
+          "tipo": "editorial",
+          "corte": [
+            146.9,
+            149.7
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "17:20",
+          "detalhe": "Lucia no supino • GAINZ",
+          "midia": "EXT",
+          "inicio": 1038.8,
+          "tipo": "editorial",
+          "corte": [
+            149.7,
+            153.0
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "BENCH",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            153.0,
+            157.62
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "L2 + R2",
+          "detalhe": "Um gatilho por braço? (hipótese)",
+          "midia": "BENCHZ",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            157.62,
+            165.56
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 38.5,
+          "tipo": "editorial",
+          "corte": [
+            165.56,
+            168.06
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1039.0,
+          "tipo": "editorial",
+          "corte": [
+            168.06,
+            170.86
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "BENCH",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            170.86,
+            175.26
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "SAN ANDREAS",
+          "detalhe": "Lembrança de 2004 (imagem: GTA VI)",
+          "midia": "T1",
+          "inicio": 2.9,
+          "tipo": "editorial",
+          "corte": [
+            175.26,
+            178.28
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1042.3,
+          "tipo": "editorial",
+          "corte": [
+            178.28,
+            181.0
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 14.9,
+          "tipo": "editorial",
+          "corte": [
+            181.0,
+            183.78
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Barras de atributo",
+          "midia": "GTAV",
+          "inicio": 205.0,
+          "tipo": "tag",
+          "corte": [
+            183.78,
+            187.28
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Fôlego, força e direção",
+          "midia": "GTAV",
+          "inicio": 170.0,
+          "tipo": "tag",
+          "corte": [
+            187.28,
+            190.0
+          ]
+        },
+        {
+          "titulo": "SEM MEDIDOR",
+          "detalhe": "GTA 6: nada de força na tela",
+          "midia": "L02",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            190.0,
+            194.3
+          ]
+        },
+        {
+          "titulo": "CONFIRMADO",
+          "detalhe": "No vídeo: só o supino",
+          "midia": "BENCH",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            194.3,
+            197.54
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1033.4,
+          "tipo": "editorial",
+          "corte": [
+            197.54,
+            199.8
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "19 DE NOVEMBRO",
+          "detalhe": "Só no lançamento",
+          "midia": "EXT",
+          "inicio": 1599.0,
+          "tipo": "data",
+          "corte": [
+            199.8,
+            202.66
+          ]
+        },
+        {
+          "titulo": "FOTO OFICIAL",
+          "detalhe": "Lucia no saco de pancada",
+          "midia": "L01",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            202.66,
+            207.74
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 38.2,
+          "tipo": "editorial",
+          "corte": [
+            207.74,
+            211.5
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1045.1,
+          "tipo": "editorial",
+          "corte": [
+            211.5,
+            214.8
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1546.0,
+          "tipo": "editorial",
+          "corte": [
+            214.8,
+            218.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "CORREÇÃO",
+          "detalhe": "Não é rádio, é mensagem",
+          "midia": "EXT",
+          "inicio": 1395.8,
+          "tipo": "editorial",
+          "corte": [
+            218.9,
+            222.96
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1415.0,
+          "tipo": "editorial",
+          "corte": [
+            222.96,
+            226.04
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1421.2,
+          "tipo": "editorial",
+          "corte": [
+            226.04,
+            231.72
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "GUYS EVERYWHERE",
+          "detalhe": "Mensagem da Lucia • 23:50",
+          "midia": "EXT",
+          "inicio": 1426.9,
+          "tipo": "tag",
+          "corte": [
+            231.72,
+            236.6
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1439.5,
+          "tipo": "editorial",
+          "corte": [
+            236.6,
+            238.88
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1433.6,
+          "tipo": "editorial",
+          "corte": [
+            238.88,
+            245.42
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "SALA SEGURA",
+          "detalhe": "10+ caras • armas automáticas • explosivos • cara de militar",
+          "midia": "LMSG",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            245.42,
+            252.22
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1442.0,
+          "tipo": "editorial",
+          "corte": [
+            252.22,
+            255.84
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1418.2,
+          "tipo": "editorial",
+          "corte": [
+            255.84,
+            258.2
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1382.0,
+          "tipo": "editorial",
+          "corte": [
+            258.2,
+            260.56
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "24:10",
+          "detalhe": "Lucia anda agachada",
+          "midia": "EXT",
+          "inicio": 1450.6,
+          "tipo": "editorial",
+          "corte": [
+            260.56,
+            263.06
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1453.1,
+          "tipo": "editorial",
+          "corte": [
+            263.06,
+            265.58
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1455.7,
+          "tipo": "editorial",
+          "corte": [
+            265.58,
+            267.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "24:22",
+          "detalhe": "Porta da escada de incêndio",
+          "midia": "EXT",
+          "inicio": 1460.9,
+          "tipo": "editorial",
+          "corte": [
+            267.9,
+            270.74
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Troca por satélite",
+          "midia": "GTAV",
+          "inicio": 142.5,
+          "tipo": "tag",
+          "corte": [
+            270.74,
+            273.04
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1472.8,
+          "tipo": "editorial",
+          "corte": [
+            273.04,
+            276.46
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "SEM MENU DE TROCA",
+          "detalhe": "Nem roda de personagens",
+          "midia": "EXT",
+          "inicio": 1488.0,
+          "tipo": "editorial",
+          "corte": [
+            276.46,
+            280.12
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1491.7,
+          "tipo": "editorial",
+          "corte": [
+            280.12,
+            282.76
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "TROCA LIVRE?",
+          "detalhe": "Ou missão roteirizada? Ainda não se sabe",
+          "midia": "EXT",
+          "inicio": 1494.4,
+          "tipo": "editorial",
+          "corte": [
+            282.76,
+            287.28
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Golpes do GTA V",
+          "midia": "GTAV",
+          "inicio": 250.0,
+          "tipo": "tag",
+          "corte": [
+            287.28,
+            289.96
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JL07",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            289.96,
+            292.82
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 899.0,
+          "tipo": "editorial",
+          "corte": [
+            292.82,
+            294.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1386.0,
+          "tipo": "editorial",
+          "corte": [
+            294.4,
+            295.5
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1463.8,
+          "tipo": "editorial",
+          "corte": [
+            295.5,
+            297.24
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JL01",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            297.24,
+            300.16
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "JOALHERIA",
+          "detalhe": "Imagem oficial: Jason vira, Lucia mira",
+          "midia": "JL04",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            300.16,
+            306.62
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 712.0,
+          "tipo": "editorial",
+          "corte": [
+            306.62,
+            312.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "Trevor: o caos",
+          "midia": "GTAV",
+          "inicio": 148.2,
+          "tipo": "tag",
+          "corte": [
+            312.9,
+            315.74
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "L04",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            315.74,
+            319.1
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "19 DE NOVEMBRO",
+          "detalhe": "Dia 19: leia a mensagem",
+          "midia": "LT",
+          "inicio": 82.0,
+          "tipo": "data",
+          "corte": [
+            319.1,
+            321.3
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "MSG",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            321.3,
+            323.38
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1445.65,
+          "tipo": "editorial",
+          "corte": [
+            323.38,
+            328.3
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1405.0,
+          "tipo": "editorial",
+          "corte": [
+            328.3,
+            331.18
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1408.0,
+          "tipo": "editorial",
+          "corte": [
+            331.18,
+            335.8
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "IMAGEM OFICIAL",
+          "detalhe": "Cofre, dinheiro voando, dois armados",
+          "midia": "JL02",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            335.8,
+            341.95
+          ]
+        },
+        {
+          "titulo": "JASON OU LUCIA?",
+          "detalhe": "Comenta aí",
+          "midia": "EXT",
+          "inicio": 1013.8,
+          "tipo": "editorial",
+          "corte": [
+            341.95,
+            347.05
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 976.5,
+          "tipo": "editorial",
+          "corte": [
+            347.05,
+            351.43
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 998.6,
+          "tipo": "editorial",
+          "corte": [
+            351.43,
+            356.65
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "AMANHÃ (14/11)",
+          "detalhe": "Carros, porta-malas e oficinas",
+          "midia": "EXT",
+          "inicio": 1071.6,
+          "tipo": "editorial",
+          "corte": [
+            356.65,
+            359.53
+          ]
+        },
+        {
+          "titulo": "MINUTO 18",
+          "detalhe": "O porta-malas do gameplay",
+          "midia": "EXT",
+          "inicio": 1092.6,
+          "tipo": "editorial",
+          "corte": [
+            359.53,
+            364.67
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1063.0,
+          "tipo": "editorial",
+          "corte": [
+            364.67,
+            366.23
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1076.4,
+          "tipo": "editorial",
+          "corte": [
+            366.23,
+            368.23
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 85.0,
+          "tipo": "editorial",
+          "corte": [
+            368.23,
+            370.59
+          ],
+          "sem_card": true,
+          "legenda_alta": 900
+        }
+      ]
+    }
+  }
+}

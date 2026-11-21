@@ -1,0 +1,108 @@
+=== AMOSTRA 0-25
+[longo] 3840x2160 @30fps, 98 planos (389.28s); renderizar 8: planos 1..8
+Renderizando painéis Hyperframes para Pixel_Procurado_Truque_NZ_Longo_V2...
+Iniciando renderização de 8 planos (843 frames)...
+Plano 01 concluído (79 frames)
+Plano 02 concluído (77 frames)
+Plano 03 concluído (132 frames)
+Plano 04 concluído (96 frames)
+Plano 05 concluído (104 frames)
+Plano 06 concluído (79 frames)
+Plano 07 concluído (128 frames)
+Plano 08 concluído (148 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\amostra\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4 (307 MB)
+RENDER_EXIT=0
+Validando longo: Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4...
+{
+  "arquivo": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\amostra\\exportacoes\\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4",
+  "dimensoes": "3840x2160",
+  "fps": 30.0,
+  "quadros": 843,
+  "quadros_esperados": 843,
+  "video_s": 28.1,
+  "audio_s": 28.1,
+  "lufs": -16.9,
+  "peak_dbfs": -1.5,
+  "intervalos_pretos": 0,
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\amostra\\montagem\\long_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+QA_EXIT=0
+=== AMOSTRA 86-100
+[longo] 3840x2160 @30fps, 98 planos (389.28s); renderizar 6: planos 21..26
+Iniciando renderização de 6 planos (621 frames)...
+Plano 22 concluído (128 frames)
+Plano 21 concluído (166 frames)
+Plano 23 concluído (86 frames)
+Plano 24 concluído (69 frames)
+Plano 25 concluído (80 frames)
+Plano 26 concluído (92 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\amostra\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4 (118 MB)
+RENDER_EXIT=0
+Validando longo: Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4...
+{
+  "arquivo": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\amostra\\exportacoes\\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4",
+  "dimensoes": "3840x2160",
+  "fps": 30.0,
+  "quadros": 621,
+  "quadros_esperados": 621,
+  "video_s": 20.7,
+  "audio_s": 20.7,
+  "lufs": -17.1,
+  "peak_dbfs": -1.4,
+  "intervalos_pretos": 0,
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\amostra\\montagem\\long_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+QA_EXIT=0
+=== AMOSTRA 145-153
+[longo] 3840x2160 @30fps, 98 planos (389.28s); renderizar 3: planos 37..39
+Iniciando renderização de 3 planos (459 frames)...
+Plano 38 concluído (195 frames)
+Plano 37 concluído (152 frames)
+Plano 39 concluído (112 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\amostra\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4 (103 MB)
+RENDER_EXIT=0
+Validando longo: Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4...
+{
+  "arquivo": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\amostra\\exportacoes\\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4",
+  "dimensoes": "3840x2160",
+  "fps": 30.0,
+  "quadros": 459,
+  "quadros_esperados": 459,
+  "video_s": 15.3,
+  "audio_s": 15.3,
+  "lufs": -16.1,
+  "peak_dbfs": -1.4,
+  "intervalos_pretos": 0,
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\amostra\\montagem\\long_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+QA_EXIT=0
+=== AMOSTRA 366-389
+[longo] 3840x2160 @30fps, 98 planos (389.28s); renderizar 5: planos 94..98
+Iniciando renderização de 5 planos (703 frames)...
+Plano 95 concluído (115 frames)
+Plano 94 concluído (115 frames)
+Plano 96 concluído (88 frames)
+Plano 98 concluído (155 frames)
+Plano 97 concluído (230 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\TRUQUE_NZ_2026-11-15\amostra\exportacoes\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4 (147 MB)
+RENDER_EXIT=0
+Validando longo: Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4...
+{
+  "arquivo": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\amostra\\exportacoes\\Pixel_Procurado_Truque_NZ_Longo_V2_amostra.mp4",
+  "dimensoes": "3840x2160",
+  "fps": 30.0,
+  "quadros": 703,
+  "quadros_esperados": 703,
+  "video_s": 23.433333,
+  "audio_s": 23.433,
+  "lufs": -16.2,
+  "peak_dbfs": -1.4,
+  "intervalos_pretos": 0,
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\TRUQUE_NZ_2026-11-15\\amostra\\montagem\\long_v2_qa_amostra.jpg"
+}
+Validação concluída com sucesso.
+QA_EXIT=0
+ALL_AMOSTRAS_DONE

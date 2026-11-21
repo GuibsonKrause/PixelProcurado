@@ -1,0 +1,138 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.4,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0.12,
+      0.05,
+      0.55,
+      0.9
+    ],
+    "highlight": null
+  },
+  {
+    "start": 1.4,
+    "end": 3.867,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0.12,
+      0.05,
+      0.55,
+      0.9
+    ],
+    "highlight": null
+  },
+  {
+    "start": 3.867,
+    "end": 8.667,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason Duval/Jason_Duval_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 8.667,
+    "end": 10.333,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_09.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 35.9,
+    "end": 40.267,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_12.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 40.267,
+    "end": 44.033,
+    "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+    "source": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+    "source_start": 121.0,
+    "motion_seconds": 2.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 44.033,
+    "end": 50.333,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_11.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 61.833,
+    "end": 66.467,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_03.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 66.467,
+    "end": 70.933,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_13.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 70.933,
+    "end": 77.167,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason Duval/Jason_Duval_02.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 77.167,
+    "end": 78.1,
+    "file": "videosGTAVI/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_01.jpg",
+    "source": "https://www.rockstargames.com/VI/media",
+    "source_start": 0,
+    "motion_seconds": null,
+    "treatment": "panel",
+    "crop": [
+      0.12,
+      0.05,
+      0.55,
+      0.9
+    ],
+    "highlight": null
+  }
+]

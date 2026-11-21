@@ -1,0 +1,31 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-03T12:00:00-03:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "O carro distrai. Olha a rua. 🔎\n\nSeis fotos oficiais de GTA V e GTA VI, três pares: praia, carros e vista aérea. Analisamos como o enquadramento conduz nosso olhar e como o cenário participa da imagem. É uma leitura de composição de imagens promocionais, sem medir desempenho, densidade de NPCs ou tamanho do mapa.\n\nQual lugar faria você esquecer a missão: praia, encontro de carros ou orla vista do alto?\n\nGTA V: divulgação de 2012. Fontes: https://www.rockstargames.com/newswire/article/89k8a5545o2k8k/transport.html e https://www.rockstargames.com/VI/media\n\nImagens: Rockstar Games. Análise e edição: Pixel Procurado. Narração sintética com auxílio de IA. Análise independente.\n\n#GTA6 #GTAV #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/8d5fc2a17a61eb1fcdda5bdf96ba34ca.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "GTA V e GTA VI: três diferenças que estas imagens revelam"
+      }
+    }
+  ]
+}

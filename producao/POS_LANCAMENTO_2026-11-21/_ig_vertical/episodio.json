@@ -1,0 +1,1118 @@
+{
+ "id": "POS_LANCAMENTO_2026-11-21_ig_vertical",
+ "titulo": "GTA 6 Lançou: As Teorias Que Acertamos (e as Que Quebraram a Cara)",
+ "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+ "pasta_fontes": ".",
+ "gsap": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/hyperframes_long/gsap.min.js",
+ "midias": {
+  "URSO": "videosGTAVI/_live/2026-11-19/alanzoka/alanzoka_20261119_030270/clip.mp4",
+  "ATEND": "videosGTAVI/_live/2026-11-19/alanzoka/alanzoka_20261119_001270/clip.mp4",
+  "FEED": "videosGTAVI/_live/2026-11-21/cellbit/cellbit_20261121_002472/clip.mp4",
+  "VIAT": "videosGTAVI/_live/2026-11-20/alanzoka/alanzoka_20261120_004852/clip.mp4",
+  "CARR": "videosGTAVI/_live/2026-11-21/cellbit/cellbit_20261121_002142/clip.mp4",
+  "ICON": "videosGTAVI/_live/2026-11-19/alanzoka/alanzoka_20261119_021087/clip.mp4",
+  "MOVEL": "videosGTAVI/_live/2026-11-18/alanzoka/alanzoka_20261118_031357/clip_narrado.mp4",
+  "HIDRO": "videosGTAVI/_live/2026-11-19/alanzoka/alanzoka_20261119_014996/clip.mp4",
+  "TRILHO": "videosGTAVI/_live/2026-11-19/alanzoka/alanzoka_20261119_031440/clip.mp4",
+  "ARO": "videosGTAVI/_live/2026-11-20/alanzoka/alanzoka_20261120_023998/clip.mp4",
+  "BATIDA": "videosGTAVI/_live/2026-11-18/alanzoka/alanzoka_20261118_014433/clip_narrado.mp4",
+  "CENTRO": "videosGTAVI/_live/2026-11-20/alanzoka/alanzoka_20261120_007672/clip.mp4",
+  "PANT": "videosGTAVI/_live/2026-11-18/alanzoka/alanzoka_20261118_034907/clip_narrado.mp4",
+  "EXT": "videosGTAVI/GTAVI_An_Extended_Look.mp4"
+ },
+ "rotulos_obrigatorios": {
+  "URSO": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "ATEND": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "FEED": "GAMEPLAY PÓS-LANÇAMENTO · LIVE CELLBIT",
+  "VIAT": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "CARR": "GAMEPLAY PÓS-LANÇAMENTO · LIVE CELLBIT",
+  "ICON": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "MOVEL": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "HIDRO": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "TRILHO": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "ARO": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "BATIDA": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "CENTRO": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "PANT": "GAMEPLAY PÓS-LANÇAMENTO · LIVE ALANZOKA",
+  "EXT": "PRÉ-LANÇAMENTO · GAMEPLAY OFICIAL"
+ },
+ "correcoes_legenda": {
+  "leonida": "Leonida",
+  "cellbit": "Cellbit",
+  "rockstar": "Rockstar"
+ },
+ "formatos": {
+  "short": {
+   "stem": "Pixel_Procurado_POS_LANCAMENTO_Vertical_Instagram_V2",
+   "resolucao": [
+    1080,
+    1920
+   ],
+   "fps": 60,
+   "voz": "producao/POS_LANCAMENTO_2026-11-21/audio/narracao_master_aprovado.wav",
+   "alinhamento": "producao/POS_LANCAMENTO_2026-11-21/audio/palavras_roteiro_alinhadas.json",
+   "limite_mb": 300,
+   "fonte_legenda": "roteiro_alinhado",
+   "planos": [
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "URSO",
+     "inicio": 6,
+     "tipo": "editorial",
+     "corte": [
+      0.0,
+      2.02
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "EXT",
+     "inicio": 507,
+     "tipo": "editorial",
+     "corte": [
+      2.02,
+      12.26
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ]
+    },
+    {
+     "titulo": "APOSTA × REALIDADE",
+     "detalhe": "10 dias de série × jogo lançado em 19/11",
+     "midia": "VIAT",
+     "inicio": 2,
+     "tipo": "editorial",
+     "corte": [
+      12.26,
+      18.88
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "ICON",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      18.88,
+      25.78
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "GAMEPLAY REAL",
+     "detalhe": "Lives de alanzoka e Cellbit · áudio original removido",
+     "midia": "HIDRO",
+     "inicio": 46,
+     "tipo": "editorial",
+     "corte": [
+      25.78,
+      34.36
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "VIAT",
+     "inicio": 9,
+     "tipo": "editorial",
+     "corte": [
+      34.36,
+      38.7
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "PANT",
+     "inicio": 0,
+     "tipo": "editorial",
+     "corte": [
+      38.7,
+      42.28
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "METACRITIC",
+     "detalhe": "Crítica 99 (150+ análises) · jogadores perto de 5",
+     "midia": "ATEND",
+     "inicio": 30,
+     "tipo": "data",
+     "corte": [
+      42.28,
+      55.1
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "TRILHO",
+     "inicio": 4,
+     "tipo": "editorial",
+     "corte": [
+      55.1,
+      63.74
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "APOSTA 1 · CONFIRMADA",
+     "detalhe": "Leonida não espera você apertar start",
+     "midia": "PANT",
+     "inicio": 47,
+     "tipo": "editorial",
+     "corte": [
+      63.74,
+      74.16
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "URSO",
+     "inicio": 9,
+     "tipo": "editorial",
+     "corte": [
+      74.16,
+      85.7
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "ATEND",
+     "inicio": 10,
+     "tipo": "editorial",
+     "corte": [
+      85.7,
+      99.72
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "FEED",
+     "inicio": 8,
+     "tipo": "editorial",
+     "corte": [
+      99.72,
+      105.1
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      484,
+      0,
+      1436,
+      808
+     ]
+    },
+    {
+     "titulo": "LEONIDA TEM REDE SOCIAL",
+     "detalhe": "Post patrocinado e comentário de “flagrado”",
+     "midia": "FEED",
+     "inicio": 14,
+     "tipo": "editorial",
+     "corte": [
+      105.1,
+      113.92
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      484,
+      0,
+      1436,
+      808
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "FEED",
+     "inicio": 41,
+     "tipo": "editorial",
+     "corte": [
+      113.92,
+      116.52
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      484,
+      0,
+      1436,
+      808
+     ]
+    },
+    {
+     "titulo": "APOSTA 2 · CONFIRMADA",
+     "detalhe": "A polícia não nasce do chão",
+     "midia": "EXT",
+     "inicio": 925,
+     "tipo": "editorial",
+     "corte": [
+      116.52,
+      124.28
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "VIAT",
+     "inicio": 18,
+     "tipo": "editorial",
+     "corte": [
+      124.28,
+      131.98
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "VIAT",
+     "inicio": 36,
+     "tipo": "editorial",
+     "corte": [
+      131.98,
+      136.16
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "mascaras": [
+      [
+       1476,
+       476,
+       440,
+       332
+      ]
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "CARR",
+     "inicio": 30,
+     "tipo": "editorial",
+     "corte": [
+      136.16,
+      141.68
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      484,
+      0,
+      1436,
+      808
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "CARR",
+     "inicio": 7.5,
+     "tipo": "editorial",
+     "corte": [
+      141.68,
+      145.18
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      484,
+      0,
+      1436,
+      808
+     ]
+    },
+    {
+     "titulo": "DIA 06: HIPÓTESE",
+     "detalhe": "Os ícones estão no jogo · o significado segue em aberto",
+     "midia": "ICON",
+     "inicio": 18,
+     "tipo": "editorial",
+     "corte": [
+      145.18,
+      158.02
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "mascaras": [
+      [
+       1476,
+       476,
+       440,
+       332
+      ]
+     ]
+    },
+    {
+     "titulo": "APOSTA 3 · CONFIRMADA",
+     "detalhe": "Jason e Lucia dividem a vida, não só o golpe",
+     "midia": "EXT",
+     "inicio": 1015,
+     "tipo": "editorial",
+     "corte": [
+      158.02,
+      167.62
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "MOVEL",
+     "inicio": 2,
+     "tipo": "editorial",
+     "corte": [
+      167.62,
+      183.04
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "HIDRO",
+     "inicio": 2,
+     "tipo": "editorial",
+     "corte": [
+      183.04,
+      198.4
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "EXT",
+     "inicio": 775,
+     "tipo": "editorial",
+     "corte": [
+      198.4,
+      212.86
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ]
+    },
+    {
+     "titulo": "SÓ 30 FPS",
+     "detalhe": "Todos os consoles, inclusive PS5 Pro · sem modo desempenho",
+     "midia": "TRILHO",
+     "inicio": 35,
+     "tipo": "data",
+     "corte": [
+      212.86,
+      224.76
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "TRILHO",
+     "inicio": 19,
+     "tipo": "editorial",
+     "corte": [
+      224.76,
+      232.7
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "RELATOS DE JOGADORES",
+     "detalhe": "Quedas, travamentos, softlock · sem confirmação da Rockstar",
+     "midia": "BATIDA",
+     "inicio": 46,
+     "tipo": "editorial",
+     "corte": [
+      232.7,
+      250.9
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "GAMESPOT: 10/10",
+     "detalhe": "Mesmo assim criticou exigências de progressão",
+     "midia": "MOVEL",
+     "inicio": 25,
+     "tipo": "data",
+     "corte": [
+      250.9,
+      260.08
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "CARR",
+     "inicio": 45,
+     "tipo": "editorial",
+     "corte": [
+      260.08,
+      265.36
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      484,
+      0,
+      1436,
+      808
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "ARO",
+     "inicio": 44,
+     "tipo": "editorial",
+     "corte": [
+      265.36,
+      271.92
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "TRILHO",
+     "inicio": 13,
+     "tipo": "editorial",
+     "corte": [
+      271.92,
+      276.18
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "ARO",
+     "inicio": 51,
+     "tipo": "editorial",
+     "corte": [
+      276.18,
+      285.82
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "BATIDA",
+     "inicio": 10,
+     "tipo": "editorial",
+     "corte": [
+      285.82,
+      297.84
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "REVIEW BOMB?",
+     "detalhe": "Reclamação legítima e protesto no mesmo número",
+     "midia": "CENTRO",
+     "inicio": 22,
+     "tipo": "editorial",
+     "corte": [
+      297.84,
+      312.16
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "VIAT",
+     "inicio": 50,
+     "tipo": "editorial",
+     "corte": [
+      312.16,
+      316.74
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "US$ 3,79 BI NO 1º DIA",
+     "detalhe": "Estimativa da Rockstar · GTA V: ~US$ 800 mi (2013)",
+     "midia": "HIDRO",
+     "inicio": 18,
+     "tipo": "data",
+     "corte": [
+      316.74,
+      332.32
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "EDITORAS SEGURARAM DATAS?",
+     "detalhe": "Segundo a Bloomberg, antes do lançamento",
+     "midia": "VIAT",
+     "inicio": 55,
+     "tipo": "editorial",
+     "corte": [
+      332.32,
+      348.32
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "LEITURA MINHA",
+     "detalhe": "Análise do canal, não fonte",
+     "midia": "CARR",
+     "inicio": 12.5,
+     "tipo": "editorial",
+     "corte": [
+      348.32,
+      358.32
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      484,
+      0,
+      1436,
+      808
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "URSO",
+     "inicio": 21,
+     "tipo": "editorial",
+     "corte": [
+      358.32,
+      359.68
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "ATEND",
+     "inicio": 26,
+     "tipo": "editorial",
+     "corte": [
+      359.68,
+      361.32
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "FEED",
+     "inicio": 30,
+     "tipo": "editorial",
+     "corte": [
+      361.32,
+      363.58
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      484,
+      0,
+      1436,
+      808
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "MOVEL",
+     "inicio": 42,
+     "tipo": "editorial",
+     "corte": [
+      363.58,
+      369.82
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "O RECADO",
+     "detalhe": "Ubisoft, EA, CD Projekt: o público viu um mundo que reage",
+     "midia": "ICON",
+     "inicio": 35,
+     "tipo": "editorial",
+     "corte": [
+      369.82,
+      384.88
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "ARO",
+     "inicio": 14,
+     "tipo": "editorial",
+     "corte": [
+      384.88,
+      397.58
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "A RÉGUA SUBIU",
+     "detalhe": "Alvo enorme · e duas desculpas: 30 fps e bugs",
+     "midia": "BATIDA",
+     "inicio": 30,
+     "tipo": "editorial",
+     "corte": [
+      397.58,
+      405.48
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "VEREDITO",
+     "detalhe": "Mundo, dupla e espetáculo: sim · fluidez: cobrou caro",
+     "midia": "TRILHO",
+     "inicio": 47,
+     "tipo": "editorial",
+     "corte": [
+      405.48,
+      417.46
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "",
+     "detalhe": "",
+     "midia": "URSO",
+     "inicio": 30,
+     "tipo": "editorial",
+     "corte": [
+      417.46,
+      425.12
+     ],
+     "sem_card": true,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    },
+    {
+     "titulo": "SE IMPRESSIONOU?",
+     "detalhe": "Ou esperava mais? Responde nos comentários",
+     "midia": "CENTRO",
+     "inicio": 40,
+     "tipo": "editorial",
+     "corte": [
+      425.12,
+      436.16
+     ],
+     "sem_card": false,
+     "card_posicao": [
+      150,
+      190
+     ],
+     "recorte": [
+      0,
+      0,
+      1440,
+      810
+     ]
+    }
+   ]
+  }
+ }
+}

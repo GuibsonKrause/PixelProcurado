@@ -1,0 +1,309 @@
+{
+  "version": 1,
+  "items": {
+    "youtube_longo": {
+      "r2_key_0": "publicacoes/eff3f8ac2b744ec4a2fd84bb346beaff.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/eff3f8ac2b744ec4a2fd84bb346beaff.mp4"
+        }
+      ],
+      "capa_obj": {
+        "id": "2573d030-7344-4298-9cce-d3b4001a6f44",
+        "name": "764d0ed76d2c96ad9f3bbe14c518450f.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/11/764d0ed76d2c96ad9f3bbe14c518450f.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-11T18:50:21.368058+00:00",
+      "post_id": "cmwch4y7y0001pnalri6zo8z9",
+      "enviado_em": "2026-11-11T18:50:21.368058+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=SHlcrvJaJYE",
+        "releaseId": "SHlcrvJaJYE",
+        "publishDate": "2026-11-11T18:50:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "youtube_short": {
+      "medias": [
+        {
+          "id": "a0a77728-1d49-489e-96b4-e14dedfc70af",
+          "name": "0b94d1c968c10d82641c4578fb262e64.mp4",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/11/0b94d1c968c10d82641c4578fb262e64.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "capa_obj": {
+        "id": "5e37f97e-75be-4eca-a246-9650add497af",
+        "name": "8a78e16c66dfc2fe667cfaf5f9b4210e4.jpg",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/11/8a78e16c66dfc2fe667cfaf5f9b4210e4.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-11T18:50:36.251292+00:00",
+      "post_id": "cmwch59jx0002pnalruxd7ob6",
+      "enviado_em": "2026-11-11T18:50:36.251292+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=2HLc-I1jDk0",
+        "releaseId": "2HLc-I1jDk0",
+        "publishDate": "2026-11-11T18:50:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_integral": {
+      "r2_key_0": "publicacoes/0c9c67bef4a74440b8cd1915cb373b8c.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/0c9c67bef4a74440b8cd1915cb373b8c.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-11T18:54:33.315818+00:00",
+      "post_id": "cmwchadod0003pnalv5bbfofa",
+      "enviado_em": "2026-11-11T18:54:33.315818+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/reel/1125618206883981",
+        "releaseId": "1125618206883981",
+        "publishDate": "2026-11-11T18:54:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_curto": {
+      "r2_key_0": "publicacoes/dd1f651b2a94461c83d205f1475f301a.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/dd1f651b2a94461c83d205f1475f301a.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-11T18:55:00.744598+00:00",
+      "post_id": "cmwchaxne0004pnal13ei1hou",
+      "enviado_em": "2026-11-11T18:55:00.744598+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/reel/29602552112765181",
+        "releaseId": "29602552112765181",
+        "publishDate": "2026-11-11T18:55:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_story": {
+      "r2_key_0": "publicacoes/f8c48c747a4c404aae52ba08b4b28ef0.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/f8c48c747a4c404aae52ba08b4b28ef0.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-11T18:55:14.181086+00:00",
+      "post_id": "cmwchbbmg0005pnalwndd2m86",
+      "enviado_em": "2026-11-11T18:55:14.181086+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/stories/1555129623303507",
+        "releaseId": "1555129623303507",
+        "publishDate": "2026-11-11T18:55:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "facebook_multifoto": {
+      "r2_key_0": "publicacoes/9f447766e0be493ebf928469aecbd10a.jpg",
+      "r2_key_1": "publicacoes/6bd526424b344b1eb424853729d50b3c.jpg",
+      "r2_key_2": "publicacoes/1658f31211ba432ebb8b27ded54db33c.jpg",
+      "r2_key_3": "publicacoes/55e54d4c224d4d68866826936cc2faf4.jpg",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/9f447766e0be493ebf928469aecbd10a.jpg"
+        },
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/6bd526424b344b1eb424853729d50b3c.jpg"
+        },
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/1658f31211ba432ebb8b27ded54db33c.jpg"
+        },
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/55e54d4c224d4d68866826936cc2faf4.jpg"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-11T18:55:31.408986+00:00",
+      "post_id": "cmwchbltk0006pnalebgu6hid",
+      "enviado_em": "2026-11-11T18:55:31.408986+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/1174364174913578/posts/1181786007504728",
+        "releaseId": "519695118166323_1181786007504728",
+        "publishDate": "2026-11-11T18:55:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_integral": {
+      "r2_key_capa": "publicacoes/d128701a0eaa4e8db2d4ef962a77e858.jpg",
+      "capa_obj": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d128701a0eaa4e8db2d4ef962a77e858.jpg"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-11T20:54:13.375306+00:00",
+      "modo": "agora",
+      "r2_key_0": "publicacoes/b11742ac8ce64f539b95a9486d2b57d6.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/b11742ac8ce64f539b95a9486d2b57d6.mp4"
+        }
+      ],
+      "post_id": "cmwclk8v9000rpnalt3ra3z1v",
+      "enviado_em": "2026-11-11T20:54:13.375306+00:00",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/DfnY7oGBlR8/",
+        "releaseId": "18044484320852244",
+        "publishDate": "2026-11-11T20:54:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_reel": {
+      "r2_key_0": "publicacoes/a65eb9a519254ea9acbb904249391637.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/a65eb9a519254ea9acbb904249391637.mp4"
+        }
+      ],
+      "r2_key_capa": "publicacoes/a46cfcc7b3b7467ebadf1d5cc37987d3.jpg",
+      "capa_obj": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/a46cfcc7b3b7467ebadf1d5cc37987d3.jpg"
+      },
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-11T18:59:07.287210+00:00",
+      "post_id": "cmwchg8jm000cpnaly9mm0ztr",
+      "enviado_em": "2026-11-11T18:59:07.287210+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/DfnLsy2BNK1/",
+        "releaseId": "18079332722744239",
+        "publishDate": "2026-11-11T18:59:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_story": {
+      "r2_key_0": "publicacoes/bfa048fd3b2d4182b06326482347e125.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/bfa048fd3b2d4182b06326482347e125.mp4"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-11T18:59:27.384425+00:00",
+      "post_id": "cmwchgndh000dpnalngcvh2p1",
+      "enviado_em": "2026-11-11T18:59:27.384425+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/stories/pixelprocurado/4028239730218800047",
+        "releaseId": "17966811774255198",
+        "publishDate": "2026-11-11T18:59:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_carrossel": {
+      "r2_key_0": "publicacoes/540dda7fab5449679053ea3c951fdb26.jpg",
+      "r2_key_1": "publicacoes/4ed5d854a93b44a0ab2b291263c68acd.jpg",
+      "r2_key_2": "publicacoes/524d5441001a4e28ab7c41175e41a7f2.jpg",
+      "r2_key_3": "publicacoes/dd39a1e2574b41d597a496007226a171.jpg",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/540dda7fab5449679053ea3c951fdb26.jpg"
+        },
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/4ed5d854a93b44a0ab2b291263c68acd.jpg"
+        },
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/524d5441001a4e28ab7c41175e41a7f2.jpg"
+        },
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/dd39a1e2574b41d597a496007226a171.jpg"
+        }
+      ],
+      "capa_anexada": false,
+      "tentativa_em": "2026-11-11T18:59:40.281766+00:00",
+      "post_id": "cmwchgxv9000fpnalnah8zynn",
+      "enviado_em": "2026-11-11T18:59:40.281766+00:00",
+      "modo": "agora",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/p/DfnLtjdHAm7/",
+        "releaseId": "18062111219554074",
+        "publishDate": "2026-11-11T18:59:00.000Z",
+        "error": null
+      },
+      "r2_limpo": true
+    },
+    "instagram_integral_tentativa1": {
+      "r2_key_0": "publicacoes/84cb4870d16e41329f779d6e7bd3c5f7.mp4",
+      "medias": [
+        {
+          "id": "",
+          "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/84cb4870d16e41329f779d6e7bd3c5f7.mp4"
+        }
+      ],
+      "capa_anexada": true,
+      "tentativa_em": "2026-11-11T18:58:29.251335+00:00",
+      "post_id": "cmwchfenk000apnalt1g91uk5",
+      "enviado_em": "2026-11-11T18:58:29.251335+00:00",
+      "modo": "agora",
+      "erro": "Instagram recusou 832 MB (limite citado: 300MB, 25Mbps)",
+      "remote": {
+        "state": "ERROR",
+        "releaseURL": null,
+        "releaseId": null,
+        "publishDate": "2026-11-11T18:58:00.000Z",
+        "error": "Instagram failed to upload the video. If it exceeds Instagram's limits (300MB, 1920px width, 25Mbps bitrate), export a smaller version and try again"
+      }
+    }
+  }
+}

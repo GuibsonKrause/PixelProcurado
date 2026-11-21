@@ -1,0 +1,212 @@
+[
+  {
+    "start": 0,
+    "end": 0.38,
+    "word": "A",
+    "probability": 0.3831
+  },
+  {
+    "start": 0.38,
+    "end": 0.56,
+    "word": "meia",
+    "probability": 0.8813
+  },
+  {
+    "start": 0.56,
+    "end": 0.74,
+    "word": "-noite",
+    "probability": 0.795
+  },
+  {
+    "start": 0.74,
+    "end": 0.86,
+    "word": "não",
+    "probability": 0.9537
+  },
+  {
+    "start": 0.86,
+    "end": 1.1,
+    "word": "chega",
+    "probability": 0.956
+  },
+  {
+    "start": 1.1,
+    "end": 1.74,
+    "word": "junto,",
+    "probability": 0.968
+  },
+  {
+    "start": 2.04,
+    "end": 2.28,
+    "word": "amanhã",
+    "probability": 0.9779
+  },
+  {
+    "start": 2.28,
+    "end": 2.36,
+    "word": "é",
+    "probability": 0.6737
+  },
+  {
+    "start": 2.36,
+    "end": 2.38,
+    "word": "o",
+    "probability": 0.9336
+  },
+  {
+    "start": 2.38,
+    "end": 2.78,
+    "word": "lançamento",
+    "probability": 0.9931
+  },
+  {
+    "start": 2.78,
+    "end": 2.96,
+    "word": "de",
+    "probability": 0.8361
+  },
+  {
+    "start": 2.96,
+    "end": 3.2,
+    "word": "GTA",
+    "probability": 0.9841
+  },
+  {
+    "start": 3.2,
+    "end": 3.7,
+    "word": "VI,",
+    "probability": 0.2224
+  },
+  {
+    "start": 4.04,
+    "end": 4.12,
+    "word": "mas",
+    "probability": 0.9679
+  },
+  {
+    "start": 4.12,
+    "end": 4.3,
+    "word": "um",
+    "probability": 0.5325
+  },
+  {
+    "start": 4.3,
+    "end": 4.58,
+    "word": "relógio",
+    "probability": 0.9957
+  },
+  {
+    "start": 4.58,
+    "end": 4.72,
+    "word": "de",
+    "probability": 0.9731
+  },
+  {
+    "start": 4.72,
+    "end": 4.86,
+    "word": "outro",
+    "probability": 0.9834
+  },
+  {
+    "start": 4.86,
+    "end": 5.16,
+    "word": "país",
+    "probability": 0.9889
+  },
+  {
+    "start": 5.16,
+    "end": 5.38,
+    "word": "pode",
+    "probability": 0.9866
+  },
+  {
+    "start": 5.38,
+    "end": 5.7,
+    "word": "colocar",
+    "probability": 0.995
+  },
+  {
+    "start": 5.7,
+    "end": 6.18,
+    "word": "spoilers",
+    "probability": 0.7771
+  },
+  {
+    "start": 6.18,
+    "end": 6.4,
+    "word": "no",
+    "probability": 0.9104
+  },
+  {
+    "start": 6.4,
+    "end": 6.56,
+    "word": "seu",
+    "probability": 0.986
+  },
+  {
+    "start": 6.56,
+    "end": 6.84,
+    "word": "caminho",
+    "probability": 0.9916
+  },
+  {
+    "start": 6.84,
+    "end": 7.18,
+    "word": "antes",
+    "probability": 0.9692
+  },
+  {
+    "start": 7.18,
+    "end": 7.4,
+    "word": "da",
+    "probability": 0.9273
+  },
+  {
+    "start": 7.4,
+    "end": 7.54,
+    "word": "sua",
+    "probability": 0.8201
+  },
+  {
+    "start": 7.54,
+    "end": 7.76,
+    "word": "primeira",
+    "probability": 0.9829
+  },
+  {
+    "start": 7.76,
+    "end": 8.2,
+    "word": "partida.",
+    "probability": 0.9974
+  },
+  {
+    "start": 9.54,
+    "end": 10.02,
+    "word": "Então,",
+    "probability": 0.95
+  },
+  {
+    "start": 10.64,
+    "end": 10.78,
+    "word": "vamos",
+    "probability": 0.9643
+  },
+  {
+    "start": 10.78,
+    "end": 11.14,
+    "word": "preparar",
+    "probability": 0.9909
+  },
+  {
+    "start": 11.14,
+    "end": 11.28,
+    "word": "a",
+    "probability": 0.9862
+  },
+  {
+    "start": 11.28,
+    "end": 11.92,
+    "word": "largada.",
+    "probability": 0.9986
+  }
+]

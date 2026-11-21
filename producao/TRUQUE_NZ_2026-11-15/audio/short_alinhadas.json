@@ -1,0 +1,1325 @@
+[
+ {
+  "start": 0.0,
+  "end": 0.6,
+  "word": "GTA",
+  "paragrafo": 1,
+  "status": "exato"
+ },
+ {
+  "start": 0.6,
+  "end": 1.24,
+  "word": "6",
+  "paragrafo": 1,
+  "status": "estimado"
+ },
+ {
+  "start": 1.7,
+  "end": 2.0,
+  "word": "às",
+  "paragrafo": 1,
+  "status": "exato"
+ },
+ {
+  "start": 2.0,
+  "end": 2.113,
+  "word": "oito",
+  "paragrafo": 1,
+  "status": "estimado"
+ },
+ {
+  "start": 2.113,
+  "end": 2.227,
+  "word": "da",
+  "paragrafo": 1,
+  "status": "estimado"
+ },
+ {
+  "start": 2.227,
+  "end": 2.34,
+  "word": "manhã.",
+  "paragrafo": 1,
+  "status": "estimado"
+ },
+ {
+  "start": 2.34,
+  "end": 2.78,
+  "word": "De",
+  "paragrafo": 2,
+  "status": "exato"
+ },
+ {
+  "start": 2.78,
+  "end": 4.28,
+  "word": "quarta,",
+  "paragrafo": 2,
+  "status": "exato"
+ },
+ {
+  "start": 4.82,
+  "end": 4.92,
+  "word": "dia",
+  "paragrafo": 2,
+  "status": "exato"
+ },
+ {
+  "start": 4.92,
+  "end": 5.71,
+  "word": "dezoito.",
+  "paragrafo": 2,
+  "status": "estimado"
+ },
+ {
+  "start": 5.71,
+  "end": 6.5,
+  "word": "Dezesseis",
+  "paragrafo": 2,
+  "status": "estimado"
+ },
+ {
+  "start": 6.5,
+  "end": 6.76,
+  "word": "horas",
+  "paragrafo": 2,
+  "status": "exato"
+ },
+ {
+  "start": 6.76,
+  "end": 7.04,
+  "word": "antes",
+  "paragrafo": 2,
+  "status": "exato"
+ },
+ {
+  "start": 7.04,
+  "end": 7.2,
+  "word": "do",
+  "paragrafo": 2,
+  "status": "exato"
+ },
+ {
+  "start": 7.2,
+  "end": 7.44,
+  "word": "Brasil.",
+  "paragrafo": 2,
+  "status": "exato"
+ },
+ {
+  "start": 8.58,
+  "end": 8.86,
+  "word": "A",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 8.86,
+  "end": 9.12,
+  "word": "Rockstar",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 9.12,
+  "end": 9.58,
+  "word": "confirmou",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 9.58,
+  "end": 9.7,
+  "word": "que",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 9.7,
+  "end": 9.76,
+  "word": "o",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 9.76,
+  "end": 9.9,
+  "word": "jogo",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 9.9,
+  "end": 10.28,
+  "word": "sai",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 10.28,
+  "end": 10.56,
+  "word": "à",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 10.56,
+  "end": 11.12,
+  "word": "meia-noite",
+  "paragrafo": 3,
+  "status": "estimado"
+ },
+ {
+  "start": 11.12,
+  "end": 11.26,
+  "word": "do",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 11.26,
+  "end": 11.44,
+  "word": "horário",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 11.44,
+  "end": 11.76,
+  "word": "local",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 12.0,
+  "end": 12.18,
+  "word": "de",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 12.18,
+  "end": 12.36,
+  "word": "cada",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 12.36,
+  "end": 12.72,
+  "word": "país.",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 13.1,
+  "end": 13.36,
+  "word": "E",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 13.36,
+  "end": 13.44,
+  "word": "a",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 13.44,
+  "end": 13.78,
+  "word": "meia-noite",
+  "paragrafo": 3,
+  "status": "estimado"
+ },
+ {
+  "start": 13.78,
+  "end": 13.96,
+  "word": "chega",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 13.96,
+  "end": 14.32,
+  "word": "primeiro",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 14.32,
+  "end": 14.74,
+  "word": "na",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 14.74,
+  "end": 14.92,
+  "word": "Nova",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 14.92,
+  "end": 15.42,
+  "word": "Zelândia.",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 16.08,
+  "end": 16.3,
+  "word": "Eles",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 16.3,
+  "end": 16.62,
+  "word": "ficam",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 16.62,
+  "end": 16.98,
+  "word": "treze",
+  "paragrafo": 3,
+  "status": "estimado"
+ },
+ {
+  "start": 16.98,
+  "end": 17.22,
+  "word": "horas",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 17.22,
+  "end": 17.38,
+  "word": "à",
+  "paragrafo": 3,
+  "status": "estimado"
+ },
+ {
+  "start": 17.38,
+  "end": 17.54,
+  "word": "frente",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 17.54,
+  "end": 17.72,
+  "word": "do",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 17.72,
+  "end": 17.9,
+  "word": "horário",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 17.9,
+  "end": 18.36,
+  "word": "universal,",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 18.8,
+  "end": 18.94,
+  "word": "a",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 18.94,
+  "end": 19.14,
+  "word": "gente",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 19.14,
+  "end": 19.58,
+  "word": "fica",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 19.58,
+  "end": 19.8,
+  "word": "três",
+  "paragrafo": 3,
+  "status": "estimado"
+ },
+ {
+  "start": 19.8,
+  "end": 20.04,
+  "word": "atrás.",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 20.86,
+  "end": 21.26,
+  "word": "Dezesseis",
+  "paragrafo": 3,
+  "status": "estimado"
+ },
+ {
+  "start": 21.26,
+  "end": 21.44,
+  "word": "de",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 21.44,
+  "end": 21.76,
+  "word": "diferença.",
+  "paragrafo": 3,
+  "status": "exato"
+ },
+ {
+  "start": 22.54,
+  "end": 23.1,
+  "word": "No",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 23.1,
+  "end": 23.32,
+  "word": "Xbox,",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 23.78,
+  "end": 23.84,
+  "word": "o",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 23.84,
+  "end": 24.1,
+  "word": "truque",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 24.1,
+  "end": 24.22,
+  "word": "é",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 24.22,
+  "end": 24.36,
+  "word": "de",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 24.36,
+  "end": 24.7,
+  "word": "graça.",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 25.34,
+  "end": 25.9,
+  "word": "Configurações,",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 26.1,
+  "end": 26.52,
+  "word": "Sistema,",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 26.96,
+  "end": 27.36,
+  "word": "Idioma",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 27.36,
+  "end": 27.6,
+  "word": "e",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 27.6,
+  "end": 28.2,
+  "word": "localização.",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 28.2,
+  "end": 28.8,
+  "word": "Troca",
+  "paragrafo": 4,
+  "status": "estimado"
+ },
+ {
+  "start": 28.8,
+  "end": 29.4,
+  "word": "pra",
+  "paragrafo": 4,
+  "status": "estimado"
+ },
+ {
+  "start": 29.4,
+  "end": 29.54,
+  "word": "Nova",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 29.54,
+  "end": 30.08,
+  "word": "Zelândia",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 30.08,
+  "end": 30.28,
+  "word": "e",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 30.28,
+  "end": 30.7,
+  "word": "reinicia.",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 31.46,
+  "end": 31.76,
+  "word": "É",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 31.76,
+  "end": 31.82,
+  "word": "o",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 31.82,
+  "end": 31.94,
+  "word": "único",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 31.94,
+  "end": 32.2,
+  "word": "jeito",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 32.2,
+  "end": 32.36,
+  "word": "de",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 32.36,
+  "end": 32.44,
+  "word": "se",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 32.44,
+  "end": 32.56,
+  "word": "mudar",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 32.56,
+  "end": 32.8,
+  "word": "pra",
+  "paragrafo": 4,
+  "status": "estimado"
+ },
+ {
+  "start": 32.8,
+  "end": 32.98,
+  "word": "lá",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 32.98,
+  "end": 33.12,
+  "word": "sem",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 33.12,
+  "end": 33.34,
+  "word": "pagar",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 33.34,
+  "end": 34.14,
+  "word": "passagem.",
+  "paragrafo": 4,
+  "status": "exato"
+ },
+ {
+  "start": 34.42,
+  "end": 34.56,
+  "word": "No",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 34.56,
+  "end": 34.78,
+  "word": "PlayStation",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 34.78,
+  "end": 35.26,
+  "word": "5,",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 35.6,
+  "end": 35.8,
+  "word": "não.",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 36.6,
+  "end": 36.94,
+  "word": "A",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 36.94,
+  "end": 37.18,
+  "word": "região",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 37.18,
+  "end": 37.4,
+  "word": "fica",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 37.4,
+  "end": 37.88,
+  "word": "presa",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 37.88,
+  "end": 37.98,
+  "word": "na",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 37.98,
+  "end": 38.26,
+  "word": "conta",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 38.26,
+  "end": 38.42,
+  "word": "da",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 38.42,
+  "end": 39.02,
+  "word": "PSN,",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 39.02,
+  "end": 39.36,
+  "word": "e",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 39.36,
+  "end": 39.46,
+  "word": "a",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 39.46,
+  "end": 39.64,
+  "word": "Sony",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 39.64,
+  "end": 39.78,
+  "word": "não",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 39.78,
+  "end": 39.98,
+  "word": "deixa",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 39.98,
+  "end": 40.26,
+  "word": "mudar.",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 40.98,
+  "end": 41.28,
+  "word": "Tem",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 41.28,
+  "end": 41.38,
+  "word": "que",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 41.38,
+  "end": 41.56,
+  "word": "criar",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 41.56,
+  "end": 41.68,
+  "word": "uma",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 41.68,
+  "end": 41.96,
+  "word": "conta",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 41.96,
+  "end": 42.62,
+  "word": "neozelandesa,",
+  "paragrafo": 5,
+  "status": "estimado"
+ },
+ {
+  "start": 43.16,
+  "end": 43.62,
+  "word": "colocar",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 43.62,
+  "end": 44.38,
+  "word": "saldo",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 44.38,
+  "end": 44.52,
+  "word": "com",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 44.52,
+  "end": 44.82,
+  "word": "gift",
+  "paragrafo": 5,
+  "status": "estimado"
+ },
+ {
+  "start": 44.82,
+  "end": 45.0,
+  "word": "card",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 45.0,
+  "end": 45.18,
+  "word": "de",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 45.18,
+  "end": 45.36,
+  "word": "lá",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 45.36,
+  "end": 45.96,
+  "word": "e",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 45.96,
+  "end": 46.3,
+  "word": "comprar",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 46.3,
+  "end": 46.42,
+  "word": "o",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 46.42,
+  "end": 46.6,
+  "word": "jogo",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 46.6,
+  "end": 46.7,
+  "word": "de",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 46.7,
+  "end": 46.96,
+  "word": "novo.",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 47.36,
+  "end": 47.78,
+  "word": "Quase",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 47.78,
+  "end": 47.967,
+  "word": "cento",
+  "paragrafo": 5,
+  "status": "estimado"
+ },
+ {
+  "start": 47.967,
+  "end": 48.153,
+  "word": "e",
+  "paragrafo": 5,
+  "status": "estimado"
+ },
+ {
+  "start": 48.153,
+  "end": 48.34,
+  "word": "quarenta",
+  "paragrafo": 5,
+  "status": "estimado"
+ },
+ {
+  "start": 48.34,
+  "end": 48.84,
+  "word": "dólares",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 48.84,
+  "end": 49.58,
+  "word": "neozelandeses",
+  "paragrafo": 5,
+  "status": "estimado"
+ },
+ {
+  "start": 49.58,
+  "end": 49.9,
+  "word": "por",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 49.9,
+  "end": 50.58,
+  "word": "dezesseis",
+  "paragrafo": 5,
+  "status": "estimado"
+ },
+ {
+  "start": 50.58,
+  "end": 50.88,
+  "word": "horas.",
+  "paragrafo": 5,
+  "status": "exato"
+ },
+ {
+  "start": 51.76,
+  "end": 52.32,
+  "word": "E",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 52.32,
+  "end": 52.38,
+  "word": "o",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 52.38,
+  "end": 52.8,
+  "word": "detalhe.",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 53.54,
+  "end": 53.82,
+  "word": "Ninguém",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 53.82,
+  "end": 54.3,
+  "word": "confirmou",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 54.3,
+  "end": 54.4,
+  "word": "que",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 54.4,
+  "end": 54.8,
+  "word": "funciona.",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 55.52,
+  "end": 55.8,
+  "word": "Nem",
+  "paragrafo": 6,
+  "status": "estimado"
+ },
+ {
+  "start": 55.8,
+  "end": 55.88,
+  "word": "a",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 55.88,
+  "end": 56.26,
+  "word": "Rockstar,",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 56.76,
+  "end": 56.86,
+  "word": "nem",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 56.86,
+  "end": 56.92,
+  "word": "a",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 56.92,
+  "end": 57.3,
+  "word": "Microsoft.",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 58.06,
+  "end": 58.38,
+  "word": "Se",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 58.98,
+  "end": 59.06,
+  "word": "a",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 59.06,
+  "end": 59.077,
+  "word": "trava",
+  "paragrafo": 6,
+  "status": "estimado"
+ },
+ {
+  "start": 59.077,
+  "end": 59.093,
+  "word": "olhar",
+  "paragrafo": 6,
+  "status": "estimado"
+ },
+ {
+  "start": 59.093,
+  "end": 59.11,
+  "word": "pra",
+  "paragrafo": 6,
+  "status": "estimado"
+ },
+ {
+  "start": 59.06,
+  "end": 59.42,
+  "word": "loja",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 59.6,
+  "end": 59.72,
+  "word": "em",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 59.72,
+  "end": 59.86,
+  "word": "vez",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 59.86,
+  "end": 60.0,
+  "word": "do",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 60.0,
+  "end": 60.34,
+  "word": "console,",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 60.84,
+  "end": 61.0,
+  "word": "o",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 61.0,
+  "end": 61.46,
+  "word": "cadeado",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 61.46,
+  "end": 61.74,
+  "word": "fica.",
+  "paragrafo": 6,
+  "status": "exato"
+ },
+ {
+  "start": 62.82,
+  "end": 63.14,
+  "word": "Então",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 63.14,
+  "end": 63.24,
+  "word": "é",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 63.24,
+  "end": 63.44,
+  "word": "assim.",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 64.08,
+  "end": 64.16,
+  "word": "No",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 64.16,
+  "end": 64.48,
+  "word": "Xbox,",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 65.18,
+  "end": 65.46,
+  "word": "testa,",
+  "paragrafo": 7,
+  "status": "estimado"
+ },
+ {
+  "start": 65.78,
+  "end": 66.0,
+  "word": "que",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 66.0,
+  "end": 66.14,
+  "word": "não",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 66.14,
+  "end": 66.38,
+  "word": "custa",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 66.38,
+  "end": 66.6,
+  "word": "nada.",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 67.1,
+  "end": 67.34,
+  "word": "No",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 67.34,
+  "end": 67.66,
+  "word": "PlayStation,",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 68.16,
+  "end": 68.48,
+  "word": "pensa",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 68.48,
+  "end": 68.64,
+  "word": "duas",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 68.64,
+  "end": 68.94,
+  "word": "vezes.",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 69.86,
+  "end": 70.1,
+  "word": "E",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 70.1,
+  "end": 70.28,
+  "word": "não",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 70.28,
+  "end": 70.56,
+  "word": "pede",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 70.56,
+  "end": 70.86,
+  "word": "folga",
+  "paragrafo": 7,
+  "status": "estimado"
+ },
+ {
+  "start": 70.86,
+  "end": 71.16,
+  "word": "contando",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 71.16,
+  "end": 71.3,
+  "word": "com",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 71.3,
+  "end": 71.54,
+  "word": "isso.",
+  "paragrafo": 7,
+  "status": "exato"
+ },
+ {
+  "start": 72.44,
+  "end": 72.74,
+  "word": "Mas",
+  "paragrafo": 8,
+  "status": "exato"
+ },
+ {
+  "start": 72.74,
+  "end": 72.84,
+  "word": "se",
+  "paragrafo": 8,
+  "status": "exato"
+ },
+ {
+  "start": 72.84,
+  "end": 72.9,
+  "word": "der",
+  "paragrafo": 8,
+  "status": "exato"
+ },
+ {
+  "start": 72.9,
+  "end": 73.2,
+  "word": "certo,",
+  "paragrafo": 8,
+  "status": "exato"
+ },
+ {
+  "start": 73.5,
+  "end": 73.56,
+  "word": "na",
+  "paragrafo": 8,
+  "status": "exato"
+ },
+ {
+  "start": 73.56,
+  "end": 73.8,
+  "word": "quarta",
+  "paragrafo": 8,
+  "status": "exato"
+ },
+ {
+  "start": 73.8,
+  "end": 74.0,
+  "word": "vai",
+  "paragrafo": 8,
+  "status": "exato"
+ },
+ {
+  "start": 74.0,
+  "end": 74.14,
+  "word": "ter",
+  "paragrafo": 8,
+  "status": "exato"
+ },
+ {
+  "start": 74.14,
+  "end": 74.52,
+  "word": "brasileiro",
+  "paragrafo": 8,
+  "status": "exato"
+ },
+ {
+  "start": 74.52,
+  "end": 74.88,
+  "word": "jogando",
+  "paragrafo": 8,
+  "status": "exato"
+ }
+]

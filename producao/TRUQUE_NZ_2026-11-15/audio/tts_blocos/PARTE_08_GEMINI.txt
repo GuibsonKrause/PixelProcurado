@@ -1,0 +1,3 @@
+Segundo problema, a volta. A página de ajuda da Microsoft lista, entre os motivos pra uma troca de região falhar, você já ter trocado nos últimos três meses. A passagem de volta pode demorar. O saldo da conta não muda de país junto. E a loja passa a aparecer em dólar neozelandês enquanto você estiver por lá.
+
+Terceiro, o contrato. O acordo de serviços da Microsoft pede pra você não burlar restrição de disponibilidade por região. A gente não encontrou nenhum caso documentado de banimento por causa disso. Mas tá escrito, e quem decide é ela.

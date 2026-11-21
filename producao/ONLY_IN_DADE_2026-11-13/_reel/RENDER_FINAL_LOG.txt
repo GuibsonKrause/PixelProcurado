@@ -1,0 +1,25 @@
+[short] 1080x1920 @30fps, 20 planos (66.35s); renderizar 20: planos 1..20
+Renderizando painéis Hyperframes para Pixel_Procurado_Only_In_Dade_Reel_V2...
+Iniciando renderização de 20 planos (1992 frames)...
+Plano 02 concluído (104 frames)
+Plano 01 concluído (176 frames)
+Plano 04 concluído (82 frames)
+Plano 03 concluído (132 frames)
+Plano 05 concluído (88 frames)
+Plano 06 concluído (92 frames)
+Plano 07 concluído (141 frames)
+Plano 09 concluído (80 frames)
+Plano 08 concluído (128 frames)
+Plano 10 concluído (89 frames)
+Plano 11 concluído (58 frames)
+Plano 12 concluído (75 frames)
+Plano 13 concluído (92 frames)
+Plano 14 concluído (93 frames)
+Plano 15 concluído (83 frames)
+Plano 16 concluído (74 frames)
+Plano 18 concluído (105 frames)
+Plano 17 concluído (140 frames)
+Plano 20 concluído (69 frames)
+Plano 19 concluído (91 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\ONLY_IN_DADE_2026-11-13\_reel\exportacoes\Pixel_Procurado_Only_In_Dade_Reel_V2.mp4 (251 MB)
+RENDER_EXIT=0

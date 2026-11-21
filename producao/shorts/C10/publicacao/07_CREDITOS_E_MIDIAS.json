@@ -1,0 +1,101 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.4,
+    "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "source": "https://www.youtube.com/watch?v=N-xHcvug3WI",
+    "source_start": 148.0,
+    "motion_seconds": 5.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 1.4,
+    "end": 3.233,
+    "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "source": "https://www.youtube.com/watch?v=N-xHcvug3WI",
+    "source_start": 148.0,
+    "motion_seconds": 5.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 10.833,
+    "end": 14.933,
+    "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "source": "https://www.youtube.com/watch?v=N-xHcvug3WI",
+    "source_start": 154.0,
+    "motion_seconds": 5.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 14.933,
+    "end": 20.433,
+    "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "source": "https://www.youtube.com/watch?v=N-xHcvug3WI",
+    "source_start": 151.0,
+    "motion_seconds": 5.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 31.567,
+    "end": 37.067,
+    "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "source": "https://www.youtube.com/watch?v=N-xHcvug3WI",
+    "source_start": 154.0,
+    "motion_seconds": 3.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 48.967,
+    "end": 54.933,
+    "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "source": "https://www.youtube.com/watch?v=N-xHcvug3WI",
+    "source_start": 154.0,
+    "motion_seconds": 5.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 66.967,
+    "end": 71.133,
+    "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "source": "https://www.youtube.com/watch?v=N-xHcvug3WI",
+    "source_start": 148.0,
+    "motion_seconds": 5.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 71.133,
+    "end": 75.3,
+    "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "source": "https://www.youtube.com/watch?v=N-xHcvug3WI",
+    "source_start": 152.16666666666666,
+    "motion_seconds": 0.833333333333333,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  },
+  {
+    "start": 80.533,
+    "end": 81.733,
+    "file": "videosGTAVI/GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "source": "https://www.youtube.com/watch?v=N-xHcvug3WI",
+    "source_start": 148.0,
+    "motion_seconds": 5.0,
+    "treatment": "panel",
+    "crop": null,
+    "highlight": null
+  }
+]

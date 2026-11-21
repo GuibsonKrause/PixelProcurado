@@ -1,0 +1,30 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-04T19:52:20.495546+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Episódio completo | Leonida além de Vice City.\n\nDo mar aberto das Keys ao pântano de Grassrivers, passando pelas luzes de Vice City e Port Gellhorn, pela indústria de Ambrosia e pelas montanhas de Kalaga. O que muda no seu olhar a cada paisagem?\n\nAnálise visual das imagens promocionais de GTA VI. Imagens: Rockstar Games. Narração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://cad-ken-currencies-prescription.trycloudflare.com/ccb8910d97aa3fb6e88d3ddafed58bddd086ccf5/L06.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

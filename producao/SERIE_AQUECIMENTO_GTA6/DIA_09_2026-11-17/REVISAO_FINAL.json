@@ -1,0 +1,915 @@
+{
+  "schema_versao": 1,
+  "episodio": "DIA_09_2026-11-17",
+  "revisor": {
+    "modelo": "claude-opus-5-5",
+    "agent_id": "revisor-final-independente-dia09-v3"
+  },
+  "data": "2026-11-17",
+  "artefatos": [
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/exportacoes/Pixel_Procurado_DIA09_Longo_V2.mp4",
+      "sha256": "2a2421c3f5a9e6fd24d5e27f97a4be3ae4946ce07335fc98b410a0c1620132bf"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/exportacoes/Pixel_Procurado_DIA09_Longo_V2.srt",
+      "sha256": "28938ad35f73c0d03f31b388ae6fd8ce22c5f44e8564a921b3f974526adf57f2"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_vertical/exportacoes/Pixel_Procurado_DIA09_Vertical_V2.srt",
+      "sha256": "28938ad35f73c0d03f31b388ae6fd8ce22c5f44e8564a921b3f974526adf57f2"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_reel/exportacoes/Pixel_Procurado_DIA09_Reel_V2.srt",
+      "sha256": "39e5531ac82e499efe8ff5b17a42a7d35be834cffbacd958339d4581be51c2a8"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_story/exportacoes/Pixel_Procurado_DIA09_Story_V2.srt",
+      "sha256": "e299850999dd44b32294b0e1082478ae1542a7c488910e199c1bd7d7df8827e3"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/capas/capa_longo_A.jpg",
+      "sha256": "1bddbceb43ceb0a168b92b260deb8f11ed8d6c2bfb5e170de163d9ecec4df213"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/capas/capa_longo_B.jpg",
+      "sha256": "3911d4ac5e964e3beaa4d0bf79dc7a4a012a89671816a55350e46e187aad363c"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/capas/capa_vertical_A.jpg",
+      "sha256": "1428a59a49e85be3ef41b5f5b10a115764c3bf0523c81da44008b597d3247355"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/capas/capa_vertical_B.jpg",
+      "sha256": "09f7124d3477b582a7d0151983b2dbb13993d06f07bc848f488b8f0509a741fc"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/01.jpg",
+      "sha256": "cc88248aefcd98fd97cb30309fcaf730fc8d805355501ce1da27dc52a78be8e2"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/02.jpg",
+      "sha256": "c7da0d539ff34e8a0a93f9659f7eb84a196bb6338cad7744c68d6748caca0981"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/03.jpg",
+      "sha256": "fc4192a81646612049e0717db7ec6b7d68629203c4da6cf0b72520e85fc947d6"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/04.jpg",
+      "sha256": "e78939c338d86034162e48c3f861327b61f63a0cc3d9ccdf08ff4a3372c0f80b"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/01_TITULO_A.txt",
+      "sha256": "faf7a0865753d2be3de86d9198ec1d3255b61733b3d2fcf1a346f1c4004c0cc5"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/02_TITULO_B.txt",
+      "sha256": "c1552400b8b4806cf5da66067e38f4ab6e0fb0df37f6ee0904cfa4e0c7cafd6c"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/03_DESCRICAO.txt",
+      "sha256": "b60747b5ef14b09c0479724e6af7aa42a928d47d90e1dd94160583cd77d63132"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/04_TAGS.txt",
+      "sha256": "9eb69eec1c78cb5862e17b07ec8fc798a601c789e916d5bc0793220d17d6649f"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/05_COMENTARIO_FIXADO.txt",
+      "sha256": "a4ce610c7019c3780c403cc7504e1a2ee05bc9423eb987c188a24faa1d3f913d"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/publicacao_secao.json",
+      "sha256": "23022165e84b6889f1267fcf888fc0853371344cdf976549f6ccfde5b70e0fbb"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/FONTES.md",
+      "sha256": "84bd436624d2c5159f3a60e3e0b1d0cb3904d5d9b51eb0d169cbc9bf61191782"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/montagem/referencias/QUADROS.md",
+      "sha256": "bcb8e037fe75982f6eefb386960ad193d01055902826d02d9ccf359cb873e758"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/01_NARRACAO.txt",
+      "sha256": "25dbee0e8e971837c32d634254dee7b591fd0326af82f4dcca10b80c683ba9e4"
+    }
+  ],
+  "audio_trechos_ouvidos": [
+    {
+      "inicio": 0,
+      "fim": 10,
+      "observacao": "NÃO OUVIDO POR HUMANO: conferido por ASR (faster-whisper small, áudio decodificado do MP4 final; revisao_final/v3/asr_longo.txt): 'Vice City pede documento na porta. Placa de Neon Over 21 Only, ID check. Sim, o jogo mais esperado da década tem segurança de balada.' Voz desde 0,00 s; gancho de 6 palavras termina em 2,40 s; sem vinheta. OK."
+    },
+    {
+      "inicio": 10,
+      "fim": 25,
+      "observacao": "NÃO OUVIDO POR HUMANO: ASR small + medium (asr_trechos_medium_small.json). Par. 2: 'Hoje é o dia 9... ontem eu prometi balada, Boobie Ike, terno e pistola silenciada na cobertura. Vou entregar quase tudo. Uma palavra dessa lista eu conferi no quadro e não ba[te] direito. Já chego nela.' O medium ouve 'silenciada' corretamente (small: 'acedenciada'). OK."
+    },
+    {
+      "inicio": 36.8,
+      "fim": 41.0,
+      "observacao": "NÃO OUVIDO POR HUMANO: ASR small 'eu levo' / medium 'ele eu vou' no lugar de 'Ele errou.' (39,9-40,3 s). Os dois modelos erram a mesma palavra curta: pode ser só articulação rápida, mas precisa de escuta humana (ver problemas). O ASR do bloco 1 limpo (asr_blocos.json) ouviu 'Ele errou.' corretamente."
+    },
+    {
+      "inicio": 117.3,
+      "fim": 140.0,
+      "observacao": "NÃO OUVIDO POR HUMANO: ASR. 'As Real Dimez são Bae-Luxe e Roxy' (medium ouve 'Roxy'; small full ouviu 'Rockstar', erro do ASR). '...esperam que o raio caia duas vezes no mesmo lugar. Na arte oficial do Dre'Quan aparecem duas mulheres de top brilhante numa pista de luz rosa. Eu não vou dizer que são elas. A arte não tem legenda...' Bate com o roteiro."
+    },
+    {
+      "inicio": 210.3,
+      "fim": 215.3,
+      "observacao": "NÃO OUVIDO POR HUMANO: 'Dá a entender entrada de evento. Dá a entender, não afirmo.' O medium ouve 'não afirma'; o small (2 passadas) ouve 'eu afirmo'. Sentido depende do 'não': registrar para escuta humana em 213,0-214,4 (baixa, o medium confirma a palavra). Desempate: o ASR do bloco TTS limpo (audio/tts_blocos/asr_blocos.json, bloco 4, não regerado depois) também ouve 'dá a entender, não afirma'."
+    },
+    {
+      "inicio": 245.0,
+      "fim": 262.0,
+      "observacao": "NÃO OUVIDO POR HUMANO: BLOCO 5 regerado. Small e medium: 'A Rockstar não legendou, então eu também não. Mais pra frente, outra festa, essa azul, com escada, gente dançando, um careca de terno e no meio dela, um homem de máscara no rosto. Esse é o último quadro...' 'Rockstar' (247,38) e 'careca' (255,30) agora corretos nos dois modelos. Problema anterior CORRIGIDO."
+    },
+    {
+      "inicio": 303.0,
+      "fim": 347.3,
+      "observacao": "NÃO OUVIDO POR HUMANO: par. 17-18 por ASR: 'Agora, a promessa de ontem. Pistola silenciada na cobertura. Eu fui conferir. A pistola silenciada existe. Por volta dos 25 minutos e 37 segundos. Uma pistola com silenciador aparece caída no chão. Com o cano comprido bem visível. O que o vídeo não mostra é quem usou. Nem se foi essa a arma dos tiros anteriores... Acerto no susto não é fonte. Cobertura também é palpite. O que existe nos quadros é um andar [de] escritório[s], uma escada com aviso de acesso ao telhado e um andar em obra com barreira amarela. [Chamar] isso de cobertura é gentileza minha, e gentileza não é fonte.' Fatos batem com FONTES. Small e medium ouvem 'Te amar isso' em 342,1-342,6 (ver problemas)."
+    },
+    {
+      "inicio": 281.5,
+      "fim": 288.0,
+      "observacao": "NÃO OUVIDO POR HUMANO: ASR medium no trecho: 'Em seguida, homens de máscara de alérgico branco, com o fuzil, no corredor.' (small: 'de alerco branco. Confusio'). 'com fuzil' confirmado; 'e jaleco' sai como 'de alérgico' nos dois modelos (284,5-285,2): provável limite do ASR, incluído na lista de escuta humana."
+    },
+    {
+      "inicio": 360.0,
+      "fim": 380.0,
+      "observacao": "NÃO OUVIDO POR HUMANO: ASR: '...cortando do telhado para a cidade à noite. Depois para um prédio com piscina e gente tomando sol. E depois para uma cabine [de] DJ com as mãos para o alto. Da noite armada pro sol e para a pista em dois cortes. Prefiro [o] corte à explicação. Então, o que eu não sei.' OK."
+    },
+    {
+      "inicio": 380.0,
+      "fim": 401.5,
+      "observacao": "NÃO OUVIDO POR HUMANO: par. 21 por ASR: 'Se a festa é do Jack of Hearts. Quem são os mascarados. Quem usou a pistola silenciada. Se existe missão. E como funciona a porta com documento, se barra, se é jogo, se é só enfeite. Sobre o ID check, a única fonte que eu tenho é o cartaz. Isso eu coloco na lista de não confirmado...' 'cartaz' correto. OK."
+    },
+    {
+      "inicio": 401.5,
+      "fim": 416.77,
+      "observacao": "NÃO OUVIDO POR HUMANO: final por ASR: 'Amanhã, quarta, 18 de novembro, véspera do lançamento. Protocolo tático das últimas 24 horas. E me conta aí, se a porta pedisse o documento, [você] entrava ou ficava na fila? Se inscreve no canal e até amanhã, que agora faltam só dois dias.' 'dias' termina em 416,22; vídeo acaba em 416,77 sem preto. Data e contagem corretas (terça 17/11 -> faltam 2 dias para 19/11)."
+    }
+  ],
+  "frames_inspecionados": [
+    {
+      "timecode": 0.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0000.00.jpg",
+      "observacao": "Prancha v3/prancha_L_00.jpg. Plano 1 (EXT / An Extended Look · 17:33); legenda queimada \"Vice City pede documento na porta.\" igual ao SRT. Quadro 0: porta OVER 21 ONLY / ID Check / logo JOH Jack of Hearts com a legenda do gancho já na tela; sem preto, sem vinheta. Gancho de 6 palavras em 0-2,40 s. OK."
+    },
+    {
+      "timecode": 1.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0001.00.jpg",
+      "observacao": "Prancha v3/prancha_L_00.jpg. Plano 1 (EXT / An Extended Look · 17:33); legenda queimada \"Vice City pede documento na porta.\" igual ao SRT. Card VÍDEO OFICIAL 17:33 entrou sobre a porta; homem de jaqueta verde não identificado por nome. OK."
+    },
+    {
+      "timecode": 3.82,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0003.82.jpg",
+      "observacao": "Prancha v3/prancha_L_00.jpg. Plano 2 (EXT / An Extended Look · 17:35); legenda queimada \"Placa de neon: \"over twenty-one only,\" igual ao SRT. Card 17:35, dois homens na porta, em 'Placa de neon: over twenty-one only'. Cartaz visível ao fundo. OK."
+    },
+    {
+      "timecode": 7.82,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0007.82.jpg",
+      "observacao": "Prancha v3/prancha_L_00.jpg. Plano 3 (EXT / An Extended Look · 21:38); legenda queimada \"ID check\". Sim, o jogo mais\" igual ao SRT. Card 21:38: homem de blazer oliva no elevador, de costas; nenhum nome atribuído (só 'o cara de blazer' no roteiro). Ligação solta com 'ID check. Sim, o jogo mais', aceitável como prévia."
+    },
+    {
+      "timecode": 13.82,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0013.82.jpg",
+      "observacao": "Prancha v3/prancha_L_00.jpg. Plano 4 (EXT / An Extended Look · 21:00); legenda queimada \"eu prometi balada, Boobie Ike, terno\" igual ao SRT. Card 21:00, hall da festa com homem de chapéu e mulher de vestido, em 'eu prometi balada, Boobie Ike, terno'. OK."
+    },
+    {
+      "timecode": 15,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0015.00.jpg",
+      "observacao": "Prancha v3/prancha_L_00.jpg. Plano 4 (EXT / An Extended Look · 21:00); legenda queimada \"eu prometi balada, Boobie Ike, terno\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 19.82,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0019.82.jpg",
+      "observacao": "Prancha v3/prancha_L_00.jpg. Plano 5 (EXT / An Extended Look · 24:55); sem legenda (intervalo entre cues no SRT). Card 24:55: escritório escuro, homem agachado e um corpo caído no chão à direita, pequeno e escuro; pausa entre frases (sem legenda). Já aceito na revisão anterior (baixa)."
+    },
+    {
+      "timecode": 25.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0025.50.jpg",
+      "observacao": "Prancha v3/prancha_L_00.jpg. Plano 6 (C03_REGRAS); legenda queimada \"Combinado de hoje, igual aos outros\" igual ao SRT. Cartela C03 REGRAS DE HOJE (relayout): texto no terço superior; legenda queimada no rodapé SEM colisão. Texto bate com o par. 3. OK (corrigido)."
+    },
+    {
+      "timecode": 29.4,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0029.40.jpg",
+      "observacao": "Prancha v3/prancha_L_00.jpg. Plano 6 (C03_REGRAS); legenda queimada \"a imagem oficial mostra e o\" igual ao SRT. C03 no meio: legenda 'a imagem oficial mostra e o' abaixo do texto, sem colisão. OK."
+    },
+    {
+      "timecode": 33.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0033.30.jpg",
+      "observacao": "Prancha v3/prancha_L_01.jpg. Plano 6 (C03_REGRAS); sem legenda (intervalo entre cues no SRT). C03 no fim (pausa, sem legenda). Corte limpo para a arte B03. OK."
+    },
+    {
+      "timecode": 34.88,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0034.88.jpg",
+      "observacao": "Prancha v3/prancha_L_01.jpg. Plano 7 (B03 / Rockstar Games); legenda queimada \"Nome de personagem só entra quando\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 42.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0042.00.jpg",
+      "observacao": "Prancha v3/prancha_L_01.jpg. Plano 8 (EXT / An Extended Look · 17:33); legenda queimada \"Ele errou. Embaixo do cartaz aparece\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 45,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0045.00.jpg",
+      "observacao": "Prancha v3/prancha_L_01.jpg. Plano 8 (EXT / An Extended Look · 17:33); legenda queimada \"um logo: J O H, Jack\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 46.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0046.50.jpg",
+      "observacao": "Prancha v3/prancha_L_01.jpg. Plano 9 (B04 / Rockstar Games); legenda queimada \"of Hearts. Será que é do\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 49.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0049.50.jpg",
+      "observacao": "Prancha v3/prancha_L_01.jpg. Plano 10 (C04_JOH); legenda queimada \"Boobie Ike? A página oficial dele\" igual ao SRT. Cartela C04 TAGLINE (relayout): rodapé 'rockstargames.com/VI/boobie · consulta 17/11/2026' legível ACIMA da legenda. Tagline igual a F1. Problema médio da revisão anterior CORRIGIDO."
+    },
+    {
+      "timecode": 53,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0053.00.jpg",
+      "observacao": "Prancha v3/prancha_L_01.jpg. Plano 10 (C04_JOH); legenda queimada \"about heart, the Jack of Hearts\".\" igual ao SRT. C04 no meio: legenda 'about heart, the Jack of Hearts' abaixo do rodapé, sem sobrepor. OK."
+    },
+    {
+      "timecode": 56.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0056.50.jpg",
+      "observacao": "Prancha v3/prancha_L_01.jpg. Plano 10 (C04_JOH); legenda queimada \"Agora, que o letreiro do trailer\" igual ao SRT. C04 no fim: rodapé legível, legenda 'Agora, que o letreiro do trailer' sem colisão. OK."
+    },
+    {
+      "timecode": 58.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0058.00.jpg",
+      "observacao": "Prancha v3/prancha_L_01.jpg. Plano 11 (B02 / Rockstar Games); legenda queimada \"seja o mesmo lugar do perfil\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 66.1,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0066.10.jpg",
+      "observacao": "Prancha v3/prancha_L_02.jpg. Plano 12 (B04 / Rockstar Games); legenda queimada \"Boobie Ike, segundo a Rockstar, é\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 74.93,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0074.93.jpg",
+      "observacao": "Prancha v3/prancha_L_02.jpg. Plano 13 (B03 / Rockstar Games); legenda queimada \"strip e um estúdio de gravação.\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 75,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0075.00.jpg",
+      "observacao": "Prancha v3/prancha_L_02.jpg. Plano 13 (B03 / Rockstar Games); legenda queimada \"strip e um estúdio de gravação.\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 83.76,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0083.76.jpg",
+      "observacao": "Prancha v3/prancha_L_02.jpg. Plano 14 (B01 / Rockstar Games); legenda queimada \"poltrona, de óculos escuros, com um\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 92.58,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0092.58.jpg",
+      "observacao": "Prancha v3/prancha_L_02.jpg. Plano 15 (D03 / Rockstar Games); legenda queimada \"e advogado. O negócio que mais\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 101.33,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0101.33.jpg",
+      "observacao": "Prancha v3/prancha_L_02.jpg. Plano 16 (D02 / Rockstar Games); sem legenda (intervalo entre cues no SRT). Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 105,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0105.00.jpg",
+      "observacao": "Prancha v3/prancha_L_02.jpg. Plano 16 (D02 / Rockstar Games); legenda queimada \"mais malandro que gangster.\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 110.08,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0110.08.jpg",
+      "observacao": "Prancha v3/prancha_L_02.jpg. Plano 17 (D04 / Rockstar Games); legenda queimada \"do Boobie, mas assinou as Real\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 118.82,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0118.82.jpg",
+      "observacao": "Prancha v3/prancha_L_02.jpg. Plano 18 (D03 / Rockstar Games); legenda queimada \"As Real Dimez são Bae-Luxe e\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 126.82,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0126.82.jpg",
+      "observacao": "Prancha v3/prancha_L_03.jpg. Plano 19 (D01 / Rockstar Games); legenda queimada \"raio caia duas vezes no mesmo\" igual ao SRT. Arte D01 (duas mulheres de top brilhante) em 'raio caia duas vezes no mesmo' (frase das Real Dimez), ~1 s antes de 'Na arte oficial do Dre'Quan'. O roteiro nega a identificação logo depois. Baixa, já aceita."
+    },
+    {
+      "timecode": 133.82,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0133.82.jpg",
+      "observacao": "Prancha v3/prancha_L_03.jpg. Plano 20 (D04 / Rockstar Games); legenda queimada \"Eu não vou dizer que são\" igual ao SRT. Arte do estúdio (camisa MANATEES) em 'Eu não vou dizer que são elas'; as mulheres já saíram. OK."
+    },
+    {
+      "timecode": 135,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0135.00.jpg",
+      "observacao": "Prancha v3/prancha_L_03.jpg. Plano 20 (D04 / Rockstar Games); legenda queimada \"elas. A arte não tem legenda,\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 140.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0140.80.jpg",
+      "observacao": "Prancha v3/prancha_L_03.jpg. Plano 21 (C08_CITACAO); legenda queimada \"Numa página oficial de Vice City\" igual ao SRT. Cartela C08 (relayout): rodapé 'Tradução livre · rockstargames.com/VI/vice-city · 17/11/2026' legível acima da legenda. Problema médio anterior CORRIGIDO."
+    },
+    {
+      "timecode": 144.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0144.30.jpg",
+      "observacao": "Prancha v3/prancha_L_03.jpg. Plano 21 (C08_CITACAO); legenda queimada \"do perfil do Boobie, e ela\" igual ao SRT. C08 no meio: sem colisão. Frase bate com F5. OK."
+    },
+    {
+      "timecode": 147.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0147.80.jpg",
+      "observacao": "Prancha v3/prancha_L_03.jpg. Plano 21 (C08_CITACAO); legenda queimada \"dinheiro do clube paga o estúdio,\" igual ao SRT. C08 no fim: legenda 'dinheiro do clube paga o estúdio,' abaixo do rodapé. OK."
+    },
+    {
+      "timecode": 149.28,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0149.28.jpg",
+      "observacao": "Prancha v3/prancha_L_03.jpg. Plano 22 (B01 / Rockstar Games); legenda queimada \"e o dinheiro da droga paga\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 157.22,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0157.22.jpg",
+      "observacao": "Prancha v3/prancha_L_03.jpg. Plano 23 (VC07 / Rockstar Games); legenda queimada \"graça. Essa é a arte oficial\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 165,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0165.00.jpg",
+      "observacao": "Prancha v3/prancha_L_03.jpg. Plano 23 (VC07 / Rockstar Games); legenda queimada \"frase só: quando o sol se\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 166.57,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0166.57.jpg",
+      "observacao": "Prancha v3/prancha_L_04.jpg. Plano 24 (D02 / Rockstar Games); legenda queimada \"apaga e o neon acende, todo\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 175.92,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0175.92.jpg",
+      "observacao": "Prancha v3/prancha_L_04.jpg. Plano 25 (EXT / An Extended Look · 10:00); legenda queimada \"de cardápio. Mas Vice City também\" igual ao SRT. Card 10:00 terraço de dia com prompt HOLD HANDS visível, em 'Mas Vice City também'. OK."
+    },
+    {
+      "timecode": 181.42,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0181.42.jpg",
+      "observacao": "Prancha v3/prancha_L_04.jpg. Plano 26 (EXT / An Extended Look · 10:12); legenda queimada \"Olhar Estendido: bar aberto, sol, camisa\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 186.92,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0186.92.jpg",
+      "observacao": "Prancha v3/prancha_L_04.jpg. Plano 27 (EXT / An Extended Look · 10:50); legenda queimada \"O letreiro parece dizer Effluvia, e\" igual ao SRT. Card 10:50 letreiro Effluvia legível em 'O letreiro parece dizer Effluvia'. OK."
+    },
+    {
+      "timecode": 192.42,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0192.42.jpg",
+      "observacao": "Prancha v3/prancha_L_04.jpg. Plano 28 (EXT / An Extended Look · 11:08); legenda queimada \"prova nada. De dia, o luxo\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 195,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0195.00.jpg",
+      "observacao": "Prancha v3/prancha_L_04.jpg. Plano 28 (EXT / An Extended Look · 11:08); legenda queimada \"À noite, a conta chega.\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 197.94,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0197.94.jpg",
+      "observacao": "Prancha v3/prancha_L_04.jpg. Plano 29 (EXT / An Extended Look · 21:07); legenda queimada \"Agora a noite do vídeo.\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 207.24,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0207.24.jpg",
+      "observacao": "Prancha v3/prancha_L_04.jpg. Plano 30 (EXT / An Extended Look · 21:16); legenda queimada \"dele tem um de chapéu e\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 216.54,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0216.54.jpg",
+      "observacao": "Prancha v3/prancha_L_04.jpg. Plano 31 (EXT / An Extended Look · 21:45); legenda queimada \"Depois vem o elevador.\" igual ao SRT. Card 21:45: homem de blazer oliva diante do elevador em 'Depois vem o elevador.' OK."
+    },
+    {
+      "timecode": 225.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0225.00.jpg",
+      "observacao": "Prancha v3/prancha_L_05.jpg. Plano 32 (EXT / An Extended Look · 21:58); legenda queimada \"ainda não explicou: a imagem só\" igual ao SRT. Card 21:58: andar escuro logo após o elevador em 'a imagem só [mostra elevador]'. Descompasso leve já aceito (baixa)."
+    },
+    {
+      "timecode": 233.46,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0233.46.jpg",
+      "observacao": "Prancha v3/prancha_L_05.jpg. Plano 33 (EXT / An Extended Look · 22:05); legenda queimada \"errado. Andar de cima: escuro, meio\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 240.06,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0240.06.jpg",
+      "observacao": "Prancha v3/prancha_L_05.jpg. Plano 34 (EXT / An Extended Look · 22:12); legenda queimada \"perto de uma maquete de prédio\" igual ao SRT. Card 22:12: maquete de prédio iluminada, laptop e homem de blazer rosa, em 'perto de uma maquete de prédio'. OK."
+    },
+    {
+      "timecode": 248.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0248.50.jpg",
+      "observacao": "Prancha v3/prancha_L_05.jpg. Plano 34 (EXT / An Extended Look · 22:12); legenda queimada \"escuro. A Rockstar não legendou, então\" igual ao SRT. BLOCO 5 regerado: sala da maquete em 'escuro. A Rockstar não legendou, então'. ASR small e medium agora ouvem 'A Rockstar' (antes 'Oxstar'). Problema anterior CORRIGIDO."
+    },
+    {
+      "timecode": 249.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0249.80.jpg",
+      "observacao": "Prancha v3/prancha_L_05.jpg. Plano 34 (EXT / An Extended Look · 22:12); sem legenda (intervalo entre cues no SRT). Fim do plano 34 (pausa); corte para a festa azul em 250,32 junto de 'Mais pra frente'. OK."
+    },
+    {
+      "timecode": 251.32,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0251.32.jpg",
+      "observacao": "Prancha v3/prancha_L_05.jpg. Plano 35 (EXT / An Extended Look · 22:55); legenda queimada \"Mais pra frente, outra festa, essa\" igual ao SRT. Card 22:55 festa azul com escada em 'Mais pra frente, outra festa, essa'. OK."
+    },
+    {
+      "timecode": 252.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0252.50.jpg",
+      "observacao": "Prancha v3/prancha_L_05.jpg. Plano 35 (EXT / An Extended Look · 22:55); legenda queimada \"Mais pra frente, outra festa, essa\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 255,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0255.00.jpg",
+      "observacao": "Prancha v3/prancha_L_05.jpg. Plano 35 (EXT / An Extended Look · 22:55); legenda queimada \"azul, com escada, gente dançando, um\" igual ao SRT. Close do careca de terno (EXT ~22:59) em 'azul, com escada, gente dançando, um' -> 'careca de terno' (ASR 255,30-256,36 ouve 'careca'). Imagem = fala; problema 'caraca' anterior CORRIGIDO."
+    },
+    {
+      "timecode": 257.54,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0257.54.jpg",
+      "observacao": "Prancha v3/prancha_L_05.jpg. Plano 36 (EXT / An Extended Look · 23:12); legenda queimada \"dela, um homem de máscara no\" igual ao SRT. Card 23:12: senhor de gravata-borboleta em 'dela, um homem de máscara no'; os mascarados de respirador e macacão branco com fuzil entram em ~259,0 (ver L_0259.00), 0,7 s depois de 'rosto' (258,32). Baixa, aceito."
+    },
+    {
+      "timecode": 258.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0258.00.jpg",
+      "observacao": "Prancha v3/prancha_L_06.jpg. Plano 36 (EXT / An Extended Look · 23:12); legenda queimada \"dela, um homem de máscara no\" igual ao SRT. Mesmo plano (senhor de gravata-borboleta) em 'um homem de máscara no'; mascarados entram em 259,0. Baixa, aceito."
+    },
+    {
+      "timecode": 259.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0259.00.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 36 (EXT / An Extended Look · 23:12); legenda queimada \"rosto. Esse é o último quadro\" igual ao SRT. Plano 36 (EXT ~23:19): homens de máscara/respirador e macacão branco com fuzil no elevador, em 'rosto. Esse é o último quadro'. Confirma 'homem de máscara no rosto' ~0,7 s após a fala. OK."
+    },
+    {
+      "timecode": 260.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0260.00.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 36 (EXT / An Extended Look · 23:12); legenda queimada \"rosto. Esse é o último quadro\" igual ao SRT. Mascarados armados avançando, homem de terno de costas. Sem tiro nem ferimento. OK."
+    },
+    {
+      "timecode": 261.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0261.00.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 36 (EXT / An Extended Look · 23:12); legenda queimada \"em que a balada ainda parece\" igual ao SRT. Mascarados de macacão branco com fuzil em 'em que a balada ainda parece'. Confronto, sem ferimento. Aceitável."
+    },
+    {
+      "timecode": 262.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0262.30.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 36 (EXT / An Extended Look · 23:12); legenda queimada \"só balada. Porque no quadro seguinte\" igual ao SRT. Mascarado com fuzil no corredor em 'só balada. Porque no quadro seguinte'. Aceitável."
+    },
+    {
+      "timecode": 263.76,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0263.76.jpg",
+      "observacao": "Prancha v3/prancha_L_06.jpg. Plano 37 (EXT / An Extended Look · 23:38); legenda queimada \"só balada. Porque no quadro seguinte\" igual ao SRT. Card 23:38: HUD de munição 13/78 e escritório escuro em 'só balada. Porque no quadro seguinte'. Imagem = fala. OK."
+    },
+    {
+      "timecode": 270.31,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0270.31.jpg",
+      "observacao": "Prancha v3/prancha_L_06.jpg. Plano 38 (EXT / An Extended Look · 23:45); legenda queimada \"tiroteio. Uma mensagem na tela, de\" igual ao SRT. Card 23:45: tiroteio; corpo e manchas de sangue no chão ao fundo em 'tiroteio. Uma mensagem na tela'. Fala é sobre o tiroteio. Baixa, aceito."
+    },
+    {
+      "timecode": 276.86,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0276.86.jpg",
+      "observacao": "Prancha v3/prancha_L_06.jpg. Plano 39 (EXT / An Extended Look · 23:53); legenda queimada \"Outra menciona uma sala segura.\" igual ao SRT. Card 23:53 sobre a mensagem 'Lucia: After Czr, he's in saferoom' em 'Outra menciona uma sala segura.' Card cobre parte da mensagem ~1,5 s. Aceitável."
+    },
+    {
+      "timecode": 283.4,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0283.40.jpg",
+      "observacao": "Prancha v3/prancha_L_06.jpg. Plano 40 (EXT / An Extended Look · 24:00); legenda queimada \"Em seguida, homens de máscara e\" igual ao SRT. Card 24:00: close da mulher no escritório em 'Em seguida, homens de máscara e'; os mascarados só aparecem a partir de ~285,8 (L_0286.00). Descompasso de ~2,5 s. Baixa, aceito."
+    },
+    {
+      "timecode": 285,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0285.00.jpg",
+      "observacao": "Prancha v3/prancha_L_06.jpg. Plano 40 (EXT / An Extended Look · 24:00); legenda queimada \"jaleco branco com fuzil, no corredor\" igual ao SRT. Ainda o close da mulher em 'jaleco branco com fuzil, no corredor'. Mesmo descompasso (baixa)."
+    },
+    {
+      "timecode": 286.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0286.00.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 40 (EXT / An Extended Look · 24:00); legenda queimada \"jaleco branco com fuzil, no corredor\" igual ao SRT. Plano 40 (EXT ~24:05,6): homem de máscara e jaleco branco com rádio, em 'jaleco branco com fuzil, no corredor'. Imagem = fala. OK."
+    },
+    {
+      "timecode": 287.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0287.00.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 40 (EXT / An Extended Look · 24:00); legenda queimada \"jaleco branco com fuzil, no corredor\" igual ao SRT. Mesmo mascarado de jaleco branco. OK."
+    },
+    {
+      "timecode": 288.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0288.00.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 40 (EXT / An Extended Look · 24:00); legenda queimada \"jaleco branco com fuzil, no corredor\" igual ao SRT. Mascarado de jaleco branco com arma no corredor ao fundo. OK."
+    },
+    {
+      "timecode": 288.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0288.90.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 40 (EXT / An Extended Look · 24:00); legenda queimada \"e no elevador.\" igual ao SRT. Portas do elevador fechadas em 'e no elevador.' OK."
+    },
+    {
+      "timecode": 289.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0289.50.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 41 (EXT / An Extended Look · 24:10); sem legenda (intervalo entre cues no SRT). Card 24:10: dois mascarados de branco no elevador, sem corpo nem sangue visíveis (o relance de corpo da revisão anterior não aparece neste quadro). OK."
+    },
+    {
+      "timecode": 290.12,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0290.12.jpg",
+      "observacao": "Prancha v3/prancha_L_06.jpg. Plano 41 (EXT / An Extended Look · 24:10); legenda queimada \"Quem são? Não confirmado.\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 294.42,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0294.42.jpg",
+      "observacao": "Prancha v3/prancha_L_06.jpg. Plano 42 (EXT / An Extended Look · 24:32); legenda queimada \"A única placa legível é \"floor\" igual ao SRT. Card 24:32: placa FLOOR 26 grande e legível em 'A única placa legível é floor'. OK."
+    },
+    {
+      "timecode": 296.92,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0296.92.jpg",
+      "observacao": "Prancha v3/prancha_L_06.jpg. Plano 43 (EXT / An Extended Look · 24:14); legenda queimada \"twenty-six\": andar vinte e seis.\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 304.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0304.20.jpg",
+      "observacao": "Prancha v3/prancha_L_07.jpg. Plano 44 (C17_CORRECAO); legenda queimada \"Agora, a promessa de ontem.\" igual ao SRT. Cartela C17 CONFERI NO QUADRO (relayout): 'Pistola silenciada: existe (25:37) / Quem usou: não confirmado / Cobertura: não confirmado' + rodapé 'Quadro de 25:37 do vídeo oficial An Extended Look' legível, sem colisão. Bate com FONTES. Problema médio anterior CORRIGIDO."
+    },
+    {
+      "timecode": 307,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0307.00.jpg",
+      "observacao": "Prancha v3/prancha_L_07.jpg. Plano 44 (C17_CORRECAO); legenda queimada \"Pistola silenciada na cobertura: eu fui\" igual ao SRT. C17 no meio: legenda 'Pistola silenciada na cobertura: eu fui' sob o rodapé, sem sobrepor. OK."
+    },
+    {
+      "timecode": 309.7,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0309.70.jpg",
+      "observacao": "Prancha v3/prancha_L_07.jpg. Plano 44 (C17_CORRECAO); legenda queimada \"conferir. A pistola silenciada existe: por\" igual ao SRT. C17 no fim: sem colisão. OK."
+    },
+    {
+      "timecode": 311.22,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0311.22.jpg",
+      "observacao": "Prancha v3/prancha_L_07.jpg. Plano 45 (EXT / An Extended Look · 25:03); legenda queimada \"conferir. A pistola silenciada existe: por\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 315,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0315.00.jpg",
+      "observacao": "Prancha v3/prancha_L_07.jpg. Plano 45 (EXT / An Extended Look · 25:03); legenda queimada \"e trinta e sete segundos, uma\" igual ao SRT. Fim do plano 45 (25:03): HUD mostra aviso de coleta 'DUKE 556 ASSAULT RIFLE' em 'e trinta e sete segundos, uma'. Não contradiz a fala. OK."
+    },
+    {
+      "timecode": 316.12,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0316.12.jpg",
+      "observacao": "Prancha v3/prancha_L_07.jpg. Plano 46 (EXT / An Extended Look · 25:35); legenda queimada \"pistola com silenciador aparece caída no\" igual ao SRT. Card 25:35: mulher e barreira amarela em 'pistola com silenciador aparece caída no'; o still da pistola entra em 318,9 junto de 'chão, com o cano comprido'. Aceitável."
+    },
+    {
+      "timecode": 319.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0319.90.jpg",
+      "observacao": "Prancha v3/prancha_L_07.jpg. Plano 47 (Q2537 / An Extended Look · 25:37); legenda queimada \"visível. O que o vídeo não\" igual ao SRT. Card 25:37: still Q2537, pistola com silenciador caída no chão, grande, em 'visível. O que o vídeo não'. Confere com FONTES (EXT 25:36,8-25:38,5) e com a fala 'aparece caída no chão'. OK."
+    },
+    {
+      "timecode": 324.12,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0324.12.jpg",
+      "observacao": "Prancha v3/prancha_L_07.jpg. Plano 48 (EXT / An Extended Look · 25:11); legenda queimada \"foi essa a arma dos tiros\" igual ao SRT. Card 25:11: braço de jaleco branco disparando pistola em 'foi essa a arma dos tiros' (o roteiro diz que não se sabe). OK."
+    },
+    {
+      "timecode": 333.34,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0333.34.jpg",
+      "observacao": "Prancha v3/prancha_L_07.jpg. Plano 49 (EXT / An Extended Look · 24:48); legenda queimada \"Cobertura também é palpite.\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 337.74,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0337.74.jpg",
+      "observacao": "Prancha v3/prancha_L_08.jpg. Plano 50 (EXT / An Extended Look · 25:23); legenda queimada \"um andar de escritórios, uma escada\" igual ao SRT. Card 25:23: porta NOTICE ROOF ACCESS e escada em 'um andar de escritórios, uma escada'. OK."
+    },
+    {
+      "timecode": 339.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0339.00.jpg",
+      "observacao": "Prancha v3/prancha_L_08.jpg. Plano 51 (EXT / An Extended Look · 25:33); legenda queimada \"com aviso de acesso ao telhado\" igual ao SRT. Pela timeline o corte para o plano 51 é em 338,94, mas este quadro ainda mostra a escada do plano 50 (transição de ~0,1 s). Em 'com aviso de acesso ao telhado'. OK."
+    },
+    {
+      "timecode": 339.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0339.20.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 51 (EXT / An Extended Look · 25:33); legenda queimada \"com aviso de acesso ao telhado\" igual ao SRT. Início do plano 51 (EXT 25:33,1): mulher engatinhando e, à esquerda, uma pessoa de jaqueta bege deitada de costas no chão, parcialmente sob o card (zoom em v3/zoom_L_0339.20.jpg: sem sangue visível). Dura ~0,7 s. Baixa, aberto (melhor que antes: sem jaleco ensanguentado em primeiro plano)."
+    },
+    {
+      "timecode": 339.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0339.50.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 51 (EXT / An Extended Look · 25:33); legenda queimada \"com aviso de acesso ao telhado\" igual ao SRT. Plano 51: idem, pessoa caída à esquerda ainda visível; sem sangue. Baixa."
+    },
+    {
+      "timecode": 339.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0339.80.jpg",
+      "observacao": "Prancha v3/prancha_extra_L.jpg. Plano 51 (EXT / An Extended Look · 25:33); legenda queimada \"e um andar em obra com\" igual ao SRT. Plano 51: a pessoa caída sai pela borda esquerda; mulher e barreira amarela. Aceitável."
+    },
+    {
+      "timecode": 339.94,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0339.94.jpg",
+      "observacao": "Prancha v3/prancha_L_08.jpg. Plano 51 (EXT / An Extended Look · 25:33); legenda queimada \"e um andar em obra com\" igual ao SRT. Plano 51 (EXT 25:33,1) em 'e um andar em obra com': mulher engatinhando, barreira amarela ao fundo; a pessoa caída já saiu do quadro. A esganadura/jaleco ensanguentado da 1ª versão não aparece; resta o relance de 339,0-339,8 (baixa)."
+    },
+    {
+      "timecode": 340.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0340.00.jpg",
+      "observacao": "Prancha v3/prancha_L_08.jpg. Plano 51 (EXT / An Extended Look · 25:33); legenda queimada \"e um andar em obra com\" igual ao SRT. Plano 51: mulher e barreira amarela; sem corpo. OK."
+    },
+    {
+      "timecode": 341.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0341.00.jpg",
+      "observacao": "Prancha v3/prancha_L_08.jpg. Plano 51 (EXT / An Extended Look · 25:33); legenda queimada \"barreira amarela. Chamar isso de cobertura\" igual ao SRT. Plano 51 em 'barreira amarela. Chamar isso de cobertura'. Andar em obra interno (não telhado) = fala. OK."
+    },
+    {
+      "timecode": 342.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0342.00.jpg",
+      "observacao": "Prancha v3/prancha_L_08.jpg. Plano 51 (EXT / An Extended Look · 25:33); legenda queimada \"barreira amarela. Chamar isso de cobertura\" igual ao SRT. Plano 51: idem, sem corpo, sem sangue. OK."
+    },
+    {
+      "timecode": 343.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0343.00.jpg",
+      "observacao": "Prancha v3/prancha_L_08.jpg. Plano 51 (EXT / An Extended Look · 25:33); legenda queimada \"barreira amarela. Chamar isso de cobertura\" igual ao SRT. Plano 51: mulher se abaixa junto à barreira. OK."
+    },
+    {
+      "timecode": 344.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0344.00.jpg",
+      "observacao": "Prancha v3/prancha_L_08.jpg. Plano 51 (EXT / An Extended Look · 25:33); legenda queimada \"é gentileza minha, e gentileza não\" igual ao SRT. Fim do plano 51 (EXT ~25:38): a pistola com silenciador reaparece no chão, mão da mulher pegando-a, em 'é gentileza minha'. Repetição de passagem, coerente com FONTES ('recolhida logo depois'). OK."
+    },
+    {
+      "timecode": 345,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0345.00.jpg",
+      "observacao": "Prancha v3/prancha_L_08.jpg. Plano 52 (EXT / An Extended Look · 24:53); legenda queimada \"é gentileza minha, e gentileza não\" igual ao SRT. Card 24:53: escritório com HUD em 'é gentileza minha, e gentileza não'. OK."
+    },
+    {
+      "timecode": 345.34,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0345.34.jpg",
+      "observacao": "Prancha v3/prancha_L_09.jpg. Plano 52 (EXT / An Extended Look · 24:53); legenda queimada \"é gentileza minha, e gentileza não\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 348.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0348.30.jpg",
+      "observacao": "Prancha v3/prancha_L_09.jpg. Plano 53 (EXT / An Extended Look · 21:30); sem legenda (intervalo entre cues no SRT). Card 21:30: homem de blazer oliva no elevador com mulher, na pausa antes de 'Dá pra seguir um blazer verde-oliva'. Roteiro não identifica ninguém por roupa ('figurino não é identidade'). OK."
+    },
+    {
+      "timecode": 355.46,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0355.46.jpg",
+      "observacao": "Prancha v3/prancha_L_09.jpg. Plano 54 (EXT / An Extended Look · 23:30); legenda queimada \"é figurino, e figurino não é\" igual ao SRT. Card 23:30: corredor armado em 'é figurino, e figurino não é'. OK."
+    },
+    {
+      "timecode": 364.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0364.30.jpg",
+      "observacao": "Prancha v3/prancha_L_09.jpg. Plano 55 (EXT / An Extended Look · 25:45); legenda queimada \"do telhado pra cidade à noite,\" igual ao SRT. Card 25:45 cidade à noite em 'do telhado pra cidade à noite'. OK."
+    },
+    {
+      "timecode": 369.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0369.90.jpg",
+      "observacao": "Prancha v3/prancha_L_09.jpg. Plano 56 (EXT / An Extended Look · 25:54); legenda queimada \"pra uma cabine de DJ com\" igual ao SRT. Card 25:54: cabine de DJ com mãos para o alto em 'pra uma cabine de DJ com'. OK."
+    },
+    {
+      "timecode": 371.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0371.90.jpg",
+      "observacao": "Prancha v3/prancha_L_09.jpg. Plano 57 (VC07 / Rockstar Games); sem legenda (intervalo entre cues no SRT). Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 375,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0375.00.jpg",
+      "observacao": "Prancha v3/prancha_L_09.jpg. Plano 57 (VC07 / Rockstar Games); legenda queimada \"pra pista em dois cortes.\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 378,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0378.00.jpg",
+      "observacao": "Prancha v3/prancha_L_09.jpg. Plano 58 (C21_NAOCONF); legenda queimada \"Então, o que eu não sei:\" igual ao SRT. Cartela C21 NÃO CONFIRMADO (relayout): os 5 itens, inclusive 'Como funciona o ID check', acima da legenda. Problema médio anterior CORRIGIDO."
+    },
+    {
+      "timecode": 382,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0382.00.jpg",
+      "observacao": "Prancha v3/prancha_L_09.jpg. Plano 58 (C21_NAOCONF); legenda queimada \"of Hearts. Quem são os mascarados.\" igual ao SRT. C21 no meio: legenda 'of Hearts. Quem são os mascarados.' abaixo do 5º item, sem colisão. OK."
+    },
+    {
+      "timecode": 386,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0386.00.jpg",
+      "observacao": "Prancha v3/prancha_L_10.jpg. Plano 58 (C21_NAOCONF); legenda queimada \"Se existe missão.\" igual ao SRT. C21 no fim: sem colisão. OK."
+    },
+    {
+      "timecode": 387.42,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0387.42.jpg",
+      "observacao": "Prancha v3/prancha_L_10.jpg. Plano 59 (EXT / An Extended Look · 17:33); legenda queimada \"E como funciona a porta com\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 393.34,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0393.34.jpg",
+      "observacao": "Prancha v3/prancha_L_10.jpg. Plano 60 (QPORTA / An Extended Look · 17:34); legenda queimada \"ID check, a única fonte que\" igual ao SRT. Card 17:34: still QPORTA (OVER 21 ONLY / ID) em 'ID check, a única fonte que'. OK."
+    },
+    {
+      "timecode": 396.54,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0396.54.jpg",
+      "observacao": "Prancha v3/prancha_L_10.jpg. Plano 61 (B02 / Rockstar Games); legenda queimada \"Isso eu coloco na lista de\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 402,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0402.00.jpg",
+      "observacao": "Prancha v3/prancha_L_10.jpg. Plano 62 (C22_DIA10); legenda queimada \"Amanhã, quarta, dezoito de novembro, véspera\" igual ao SRT. Cartela C22 AMANHÃ: DIA 10 / Véspera do lançamento / As últimas 24 horas / GTA 6 · 19 de novembro de 2026; data correta; legenda sem colisão. OK."
+    },
+    {
+      "timecode": 405,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0405.00.jpg",
+      "observacao": "Prancha v3/prancha_L_10.jpg. Plano 62 (C22_DIA10); legenda queimada \"do lançamento: o protocolo tático das\" igual ao SRT. C22 meio. OK."
+    },
+    {
+      "timecode": 408.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0408.50.jpg",
+      "observacao": "Prancha v3/prancha_L_10.jpg. Plano 62 (C22_DIA10); legenda queimada \"E me conta aí: se a\" igual ao SRT. C22 fim, legenda 'E me conta aí: se a' abaixo. OK."
+    },
+    {
+      "timecode": 409.98,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0409.98.jpg",
+      "observacao": "Prancha v3/prancha_L_10.jpg. Plano 63 (D03 / Rockstar Games); legenda queimada \"porta pedisse documento, você entrava ou\" igual ao SRT. Imagem coerente com a fala; card/legenda sem colisão. OK."
+    },
+    {
+      "timecode": 416.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/L_0416.50.jpg",
+      "observacao": "Prancha v3/prancha_L_10.jpg. Plano 63 (D03 / Rockstar Games); legenda queimada \"dias.\" igual ao SRT. Último quadro: arte D03 com a legenda 'dias.'; sem preto no fim. OK."
+    }
+  ],
+  "legendas": {
+    "srt": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/exportacoes/Pixel_Procurado_DIA09_Longo_V2.srt",
+    "amostras": [
+      {
+        "timecode": 15.0,
+        "texto": "eu prometi balada, Boobie Ike, terno",
+        "sincronizado": true,
+        "observacao": "Cue 13,68-16,38; ASR 'eu'@13,68, 'terno'@16,04. Queimada igual (v3/L_0015.00.jpg)."
+      },
+      {
+        "timecode": 74.93,
+        "texto": "strip e um estúdio de gravação.",
+        "sincronizado": true,
+        "observacao": "Cue 74,22-76,18; ASR 'strip'@74,24, 'gravação'@75,68. Queimada igual (L_0074.93)."
+      },
+      {
+        "timecode": 207.24,
+        "texto": "dele tem um de chapéu e",
+        "sincronizado": true,
+        "observacao": "Cue 207,06-208,58; ASR 'dele'@207,06. Queimada igual (L_0207.24)."
+      },
+      {
+        "timecode": 248.5,
+        "texto": "escuro. A Rockstar não legendou, então",
+        "sincronizado": true,
+        "observacao": "Cue 246,30-248,82; ASR 'escuro'@246,30, 'Rockstar'@247,38, 'então'@248,54. Bloco 5 novo; queimada igual (L_0248.50)."
+      },
+      {
+        "timecode": 258.0,
+        "texto": "dela, um homem de máscara no",
+        "sincronizado": true,
+        "observacao": "Cue 256,80-258,32; ASR 'dela'@256,80, 'no'@258,20. Queimada igual (L_0258.00)."
+      },
+      {
+        "timecode": 319.9,
+        "texto": "visível. O que o vídeo não",
+        "sincronizado": true,
+        "observacao": "Cue 319,40-321,32; ASR 'visível'@319,40, 'não'@321,16. Queimada igual sobre o still da pistola (L_0319.90)."
+      },
+      {
+        "timecode": 382.0,
+        "texto": "of Hearts. Quem são os mascarados.",
+        "sincronizado": true,
+        "observacao": "Cue 380,42-382,66; ASR 'of'@380,42, 'mascarados'@382,12. Queimada abaixo da C21 sem colisão (L_0382.00)."
+      },
+      {
+        "timecode": 405.0,
+        "texto": "do lançamento: o protocolo tático das",
+        "sincronizado": true,
+        "observacao": "Cue 403,96-406,18; ASR 'do'@403,94, 'das'@405,98. Queimada sob a C22 (L_0405.00)."
+      }
+    ]
+  },
+  "thumbnail": {
+    "arquivo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/capas/capa_longo_B.jpg",
+    "preview_reduzido": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/preview_capa_longo_B.jpg",
+    "observacao": "Capa B longo (1280x720; preview revisao_final/v3/preview_capa_longo_B.jpg com 640 px): 'PEDE / DOCUMENTO' em branco/amarelo sobre quadro REAL do vídeo oficial (porta OVER 21 ONLY / ID Check / JOH Jack of Hearts), logo GTA VI inteira e selo PIXEL / PROCURADO. Legível em miniatura; coerente com o título A 'Vice City Pede Documento na Porta: o Que o Vídeo Oficial Mostra da Noite do GTA 6' e com o combinado 'só imagem oficial'. publicacao_secao.json agora aponta capa_longo_B (YouTube longo) e capa_vertical_B (Short, IG integral, IG Reel): problema médio anterior CORRIGIDO. Vertical B (preview_capa_vertical_B.jpg, 360 px): 'PEDE DOCUMENTO' legível, logo inteira, JOH Jack of Hearts grande; o selo 'ID Check' fica atrás do painel de texto (só 'OVER 21 ONLY' aparece), aceitável. Capa A (IA, 'DINHEIRO SEM LEI') não está mais ligada a nenhuma peça. Carrossel 01-04 (preview_carrossel.jpg): textos batem com FONTES (pistola com silenciador no chão por volta de 25:37; quem usou não confirmado), rodapés 1/4..4/4."
+  },
+  "verificacoes_complementares": {
+    "vertical": {
+      "observacao": "Pixel_Procurado_DIA09_Vertical_V2.mp4 (1080x1920, 416,77 s): 16:9 centralizado com fundo desfocado, card e legenda abaixo do quadro. Frames v3/V_*.jpg (1, 15, 29.4 C03, 53 C04, 100, 144.3 C08, 207, 258, 307 C17, 321 pistola, 342 corte 25:33 sem corpo, 382 C21, 405 C22, 416.5 fim) em prancha_V_00/01: nenhuma legenda sobre as cartelas (legenda fica fora da faixa 16:9). O fundo desfocado atrás das cartelas mostra o texto da própria cartela borrado (estético, baixa). Áudio MD5 idêntico ao longo (738e95db3403204fe932b137f8b348ef); SRT com 209 cues = longo. Extra: V_0339.30 (início do plano 51) mostra o mesmo relance da pessoa caída à esquerda.",
+      "arquivo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_vertical/exportacoes/Pixel_Procurado_DIA09_Vertical_V2.mp4",
+      "sha256": "96fa23f72a6b8d10745bbca5fc031b76be3d9bf0e69c204004742959e34bac83",
+      "frames": [
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0001.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0015.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0029.40.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0053.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0100.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0144.30.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0207.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0258.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0307.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0321.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0339.30.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0342.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0382.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0405.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/V_0416.50.jpg"
+      ]
+    },
+    "reel": {
+      "observacao": "Pixel_Procurado_DIA09_Reel_V2.mp4 (64,30 s, par. 1-4): frames v3/R_*.jpg (0, 1, 8, 15, 22, 29.4 C03, 33.3, 40, 46, 53 C04, 56.5, 63.8) em prancha_R_00/01: abertura no quadro 0 com legenda do gancho; C03/C04 com rodapé legível e legenda abaixo; fim em arte B02 sem preto. ASR (asr_reel.txt) = par. 1-4 do roteiro até 'Achar não é fonte' (63,74).",
+      "arquivo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_reel/exportacoes/Pixel_Procurado_DIA09_Reel_V2.mp4",
+      "sha256": "d359e8f7e3b54b45c503d118c3f1c2d988271573822cc692b4ba79e089a33fc6",
+      "frames": [
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0000.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0001.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0008.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0015.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0022.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0029.40.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0033.30.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0040.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0046.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0053.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0056.50.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/R_0063.80.jpg"
+      ]
+    },
+    "story": {
+      "observacao": "Pixel_Procurado_DIA09_Story_V2.mp4 (15,10 s, par. 22): frames v3/S_*.jpg (0, 0.5, 3, 6, 9, 12, 14.9) em prancha_S_00: C22 AMANHÃ: DIA 10 com legenda abaixo, depois arte D03 e 'dias.' no fim. ASR (asr_story.txt) = par. 22 completo; ataque suave (RMS 0,0005 nos primeiros 25 ms).",
+      "arquivo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_story/exportacoes/Pixel_Procurado_DIA09_Story_V2.mp4",
+      "sha256": "b6e805ec3c18aa205bb042976d5aa02cc6a4398086038edd4c18ff6b3cfd2e4f",
+      "frames": [
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/S_0000.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/S_0000.50.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/S_0003.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/S_0006.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/S_0009.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/S_0012.00.jpg",
+        "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/revisao_final/v3/S_0014.90.jpg"
+      ]
+    },
+    "textos": {
+      "observacao": "01_TITULO_A agora diz 'Vídeo Oficial' (problema baixa anterior CORRIGIDO). Descrição, meta_longo, short, story e carrossel citam terça 17/11 e 'faltam 2 dias para 19/11' (short corrigido); pistola 'aparece caída no chão por volta de 25:37' e 'quem usou / cobertura: não confirmado' coerentes com FONTES. Capítulos da descrição (0:24, 0:41, 1:05, 1:31, 1:57, 2:20, 2:36, 2:54, 3:16, 3:35, 3:52, 4:10, 4:22, 4:42, 5:03, 5:32, 6:01, 6:17, 6:41) conferidos contra os cortes do episodio.json (24,88; 41,0; 65,1; 91,58; 117,82; 140,28; 156,22; 174,92; 196,94; 215,54; 232,46; 250,32; 262,76; 282,4; 303,72; 332,34; 363,3; 377,42; 401,48). Nenhuma identificação de personagem por roupa no roteiro nem nos textos."
+    },
+    "cards": {
+      "observacao": "cards.json da pasta é da renderização anterior (15:56) e não bate com o vídeo atual a partir de 175 s; os inícios atuais (corte+0,5 s dos planos com card) estão em revisao_final/v3_cards_atual.json e todos têm frame inspecionado."
+    },
+    "observacao_validador": "Só o MP4 longo está em artefatos (o validador exige cobertura total para cada vídeo listado); vertical, reel e story ficam com sha256 registrado aqui, mas o validador NÃO detecta se eles mudarem. REVISAO_FINAL_modelo.json e cards.json da pasta são da renderização anterior."
+  },
+  "problemas": [
+    {
+      "severidade": "baixa",
+      "timecode": "213.0-214.4; 342.1-342.6; 39.9-40.3; 284.5-285.2",
+      "status": "aberto",
+      "descricao": "Possíveis falhas de pronúncia NÃO OUVIDAS POR HUMANO (legendas corretas): (1) PRIORIDADE: 'Dá a entender, não afirmo' — o small ouve 'eu afirmo' (inverteria o sentido), mas o medium e o ASR do bloco 4 limpo ouvem 'não afirma'; (2) 'Chamar isso de cobertura' ouvido como 'Te amar isso' por small e medium; (3) 'Ele errou.' ouvido como 'eu levo'/'ele eu vou' (o ASR do bloco 1 limpo ouviu certo); (4) 'máscara e jaleco branco' ouvido como 'de alérgico branco'.",
+      "correcao": "Ouvir 3:33,0-3:34,4 antes de publicar; depois 5:42,1-5:42,6, 0:39,9-0:40,3 e 4:44,5-4:45,2. Só se a troca for audível, regerar o bloco TTS do parágrafo, reconcatenar, normalizar e revalidar só o trecho."
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "338.94-339.8",
+      "status": "aberto",
+      "descricao": "No início do novo corte 25:33 (plano 51), uma pessoa de jaqueta bege aparece deitada de costas no chão à esquerda, parcialmente sob o card, por ~0,7 s, em fala neutra ('com aviso de acesso ao telhado'). Sem sangue visível (zoom v3/zoom_L_0339.20.jpg). Muito mais leve que a versão anterior (jaleco ensanguentado), mas o corte não eliminou o corpo por completo. Mesmo quadro no vertical (V_0339.30).",
+      "correcao": "Opcional: inicio do plano 51 em ~1533,9 (mesmo corte [338.94, 344.34]) e re-render; não bloqueia."
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "282.4-285.8",
+      "status": "aceito",
+      "descricao": "Em 'Em seguida, homens de máscara e jaleco branco com fuzil' o plano 40 começa com ~2,5 s do close da mulher (24:00); os mascarados de jaleco branco aparecem a partir de ~285,8.",
+      "correcao": "Opcional: inicio do plano 40 ~2 s depois."
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "19.3-20.5",
+      "status": "aceito",
+      "descricao": "Card 24:55 em pausa neutra: homem agachado e corpo caído pequeno e escuro à direita.",
+      "correcao": "Nenhuma (já aceito)."
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "269.3-271",
+      "status": "aceito",
+      "descricao": "Tiroteio 23:45 com corpo e manchas de sangue ao fundo, em fala sobre o tiroteio.",
+      "correcao": "Nenhuma."
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "125.8-127.5",
+      "status": "aceito",
+      "descricao": "Arte D01 (duas mulheres) entra ainda na frase das Real Dimez (~1 s); o roteiro nega a identificação em seguida.",
+      "correcao": "Opcional numa v3."
+    },
+    {
+      "severidade": "baixa",
+      "timecode": "256.5-258.3",
+      "status": "aceito",
+      "descricao": "Em 'um homem de máscara no rosto' o plano mostra o senhor de gravata-borboleta; o mascarado entra ~1 s depois.",
+      "correcao": "Nenhuma."
+    },
+    {
+      "severidade": "baixa",
+      "timecode": null,
+      "status": "aberto",
+      "descricao": "FONTES.md F5 ainda cita '/VI/vice-city e /VI/jason' para a frase do dinheiro do clube/droga; a cartela C08 e o roteiro dizem página de Vice City.",
+      "correcao": "Fixar em FONTES.md a URL exata; não exige mudança no vídeo."
+    },
+    {
+      "severidade": "baixa",
+      "timecode": null,
+      "status": "aberto",
+      "descricao": "data_padrao em episodio.json/publicacao_secao.json continua 2026-11-17T21:00:00Z (18h SP), horário já passado; a publicação foi autorizada para agora.",
+      "correcao": "Coordenador ajustar a data/hora de envio antes de distribuir (fora do escopo da revisão de conteúdo)."
+    },
+    {
+      "severidade": "baixa",
+      "timecode": null,
+      "status": "aberto",
+      "descricao": "cards.json da pasta está desatualizado (inícios da renderização anterior); quem rodar o validador com --cards cards.json verá falsos alertas a partir de 175 s.",
+      "correcao": "Usar revisao_final/v3_cards_atual.json (ou regravar cards.json com esses valores)."
+    },
+    {
+      "severidade": "baixa",
+      "timecode": null,
+      "status": "aberto",
+      "descricao": "Risco de virada do dia: a narração, as cartelas e os textos dizem 'hoje terça 17/11', 'amanhã quarta 18/11' e 'faltam 2 dias'. Se a publicação passar de 00:00 (horário de São Paulo) de 18/11, o áudio e as cartelas ficam errados.",
+      "correcao": "Publicar ainda em 17/11 (horário de SP) ou não publicar o longo/story com esse texto após a meia-noite."
+    }
+  ],
+  "resultado": "aprovado_com_ressalvas"
+}

@@ -1,0 +1,141 @@
+{
+  "schema_versao": 1,
+  "id": "DIA_10_2026-11-18",
+  "formato": "longo_e_short",
+  "roteiro_origem": {
+    "longo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/01_NARRACAO.txt",
+    "short": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/05_REEL_NARRACAO.txt"
+  },
+  "etapa_atual": "montagem",
+  "status": "em_andamento",
+  "data_criacao": "2026-11-18T01:27:05-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "validado",
+      "longo": {
+        "status": "validado",
+        "executor": {
+          "model_solicitado": "gpt-6.1-sol",
+          "reasoning_effort_solicitado": "low",
+          "agent_id": "/root/verificacao_inicial"
+        },
+        "artefatos": {
+          "relatorio_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/QA_AUDIO.json"
+        },
+        "atualizado_em": "2026-11-18T11:49:41-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "executor": {
+          "model_solicitado": "gpt-6.1-sol",
+          "reasoning_effort_solicitado": "low",
+          "agent_id": "/root/verificacao_inicial"
+        },
+        "artefatos": {
+          "relatorio_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/QA_AUDIO.json"
+        },
+        "atualizado_em": "2026-11-18T11:49:44-03:00"
+      },
+      "executor": {
+        "model_solicitado": "gpt-6.1-sol",
+        "reasoning_effort_solicitado": "low",
+        "agent_id": "/root/verificacao_inicial"
+      },
+      "atualizado_em": "2026-11-18T11:49:46-03:00",
+      "medicoes": {
+        "bloqueio": "timeout_B02_duas_tentativas_sem_WAV",
+        "retomada": "2026-11-18T09:51:14-03:00"
+      },
+      "artefatos": {
+        "relatorio_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/QA_AUDIO.json",
+        "master": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/narracao_master_aprovado.wav"
+      }
+    },
+    "alinhamento": {
+      "status": "validado",
+      "longo": {
+        "status": "validado",
+        "executor": {
+          "model_solicitado": "gpt-6.1-sol",
+          "reasoning_effort_solicitado": "low",
+          "agent_id": "/root/verificacao_inicial"
+        },
+        "artefatos": {
+          "relatorio_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/QA_AUDIO.json"
+        },
+        "atualizado_em": "2026-11-18T11:49:48-03:00"
+      },
+      "short": {
+        "status": "validado",
+        "executor": {
+          "model_solicitado": "gpt-6.1-sol",
+          "reasoning_effort_solicitado": "low",
+          "agent_id": "/root/verificacao_inicial"
+        },
+        "artefatos": {
+          "relatorio_audio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/QA_AUDIO.json"
+        },
+        "atualizado_em": "2026-11-18T11:49:49-03:00"
+      },
+      "artefatos": {
+        "master": "producao/SERIE_AQUECIMENTO_GTA6/DIA_10_2026-11-18/audio/narracao_master_aprovado.wav"
+      },
+      "atualizado_em": "2026-11-18T11:49:52-03:00"
+    },
+    "montagem": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "render": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "thumbnail": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "publicacao_pacote": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "distribuicao": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    },
+    "revisao_final": {
+      "status": "pendente",
+      "longo": {
+        "status": "pendente"
+      },
+      "short": {
+        "status": "pendente"
+      }
+    }
+  },
+  "atualizado_em": "2026-11-18T11:49:52-03:00"
+}

@@ -1,0 +1,373 @@
+[
+  {
+    "kind": "replace",
+    "start": 4.38,
+    "end": 4.76,
+    "asr": "ponta no",
+    "script": "pântano"
+  },
+  {
+    "kind": "replace",
+    "start": 8.98,
+    "end": 9.38,
+    "asr": "quies",
+    "script": "Keys,"
+  },
+  {
+    "kind": "replace",
+    "start": 11.48,
+    "end": 12.04,
+    "asr": "Grass Reapers",
+    "script": "Grassrivers,"
+  },
+  {
+    "kind": "replace",
+    "start": 17.26,
+    "end": 17.78,
+    "asr": "tracuridade",
+    "script": "tranquilidade"
+  },
+  {
+    "kind": "replace",
+    "start": 18.02,
+    "end": 18.52,
+    "asr": "acompanha uma",
+    "script": "acompanhou a"
+  },
+  {
+    "kind": "replace",
+    "start": 20.14,
+    "end": 20.52,
+    "asr": "Para",
+    "script": "Pra"
+  },
+  {
+    "kind": "replace",
+    "start": 27.66,
+    "end": 27.94,
+    "asr": "passa.",
+    "script": "passam."
+  },
+  {
+    "kind": "replace",
+    "start": 28.92,
+    "end": 29.28,
+    "asr": "um aparece",
+    "script": "uma parece"
+  },
+  {
+    "kind": "replace",
+    "start": 36.82,
+    "end": 37.12,
+    "asr": "quies.",
+    "script": "Keys."
+  },
+  {
+    "kind": "replace",
+    "start": 40.58,
+    "end": 41.08,
+    "asr": "de corta ao",
+    "script": "cortam o"
+  },
+  {
+    "kind": "replace",
+    "start": 42.16,
+    "end": 42.62,
+    "asr": "hidroviau",
+    "script": "hidroavião"
+  },
+  {
+    "kind": "replace",
+    "start": 52.5,
+    "end": 52.64,
+    "asr": "ser",
+    "script": "só"
+  },
+  {
+    "kind": "replace",
+    "start": 53.68,
+    "end": 54.0,
+    "asr": "através",
+    "script": "atrás"
+  },
+  {
+    "kind": "replace",
+    "start": 54.54,
+    "end": 54.68,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 64.34,
+    "end": 64.54,
+    "asr": "num",
+    "script": "no"
+  },
+  {
+    "kind": "replace",
+    "start": 72.88,
+    "end": 73.04,
+    "asr": "sol",
+    "script": "só"
+  },
+  {
+    "kind": "replace",
+    "start": 73.18,
+    "end": 73.42,
+    "asr": "pediu",
+    "script": "pedir o"
+  },
+  {
+    "kind": "replace",
+    "start": 84.12,
+    "end": 84.38,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 85.92,
+    "end": 86.08,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 88.04,
+    "end": 88.28,
+    "asr": "quis",
+    "script": "Keys"
+  },
+  {
+    "kind": "replace",
+    "start": 88.82,
+    "end": 89.32,
+    "asr": "a Grass Rivers.",
+    "script": "Grassrivers."
+  },
+  {
+    "kind": "replace",
+    "start": 91.0,
+    "end": 91.22,
+    "asr": "ela esse",
+    "script": "hélice"
+  },
+  {
+    "kind": "replace",
+    "start": 91.64,
+    "end": 91.96,
+    "asr": "parece",
+    "script": "aparece"
+  },
+  {
+    "kind": "replace",
+    "start": 96.78,
+    "end": 97.18,
+    "asr": "passarei elas",
+    "script": "passarelas"
+  },
+  {
+    "kind": "replace",
+    "start": 103.62,
+    "end": 104.06,
+    "asr": "quis",
+    "script": "Keys,"
+  },
+  {
+    "kind": "replace",
+    "start": 109.82,
+    "end": 110.08,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 116.2,
+    "end": 116.94,
+    "asr": "um nocial ou",
+    "script": "anunciar uma"
+  },
+  {
+    "kind": "delete",
+    "start": 119.54,
+    "end": 119.6,
+    "asr": "a",
+    "script": ""
+  },
+  {
+    "kind": "delete",
+    "start": 126.16,
+    "end": 126.3,
+    "asr": "na",
+    "script": ""
+  },
+  {
+    "kind": "replace",
+    "start": 131.72,
+    "end": 132.28,
+    "asr": "Vecis",
+    "script": "Vice"
+  },
+  {
+    "kind": "replace",
+    "start": 133.46,
+    "end": 133.92,
+    "asr": "como faixadas",
+    "script": "com fachadas"
+  },
+  {
+    "kind": "replace",
+    "start": 148.82,
+    "end": 149.14,
+    "asr": "d 'água.",
+    "script": "d'água."
+  },
+  {
+    "kind": "replace",
+    "start": 158.78,
+    "end": 159.34,
+    "asr": "cotidiana",
+    "script": "cotidiano"
+  },
+  {
+    "kind": "replace",
+    "start": 170.68,
+    "end": 170.9,
+    "asr": "aquele",
+    "script": "naquele"
+  },
+  {
+    "kind": "replace",
+    "start": 171.62,
+    "end": 171.82,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "delete",
+    "start": 177.84,
+    "end": 178.02,
+    "asr": "a",
+    "script": ""
+  },
+  {
+    "kind": "replace",
+    "start": 188.51,
+    "end": 188.79,
+    "asr": "letredo",
+    "script": "letreiro"
+  },
+  {
+    "kind": "insert",
+    "start": 194.73,
+    "end": 194.78,
+    "asr": "",
+    "script": "a"
+  },
+  {
+    "kind": "replace",
+    "start": 196.97,
+    "end": 197.07,
+    "asr": "o",
+    "script": "um"
+  },
+  {
+    "kind": "replace",
+    "start": 202.13,
+    "end": 202.27,
+    "asr": "O",
+    "script": "Um"
+  },
+  {
+    "kind": "replace",
+    "start": 217.83,
+    "end": 218.13,
+    "asr": "eliminação",
+    "script": "iluminação"
+  },
+  {
+    "kind": "replace",
+    "start": 231.83,
+    "end": 231.99,
+    "asr": "no",
+    "script": "num"
+  },
+  {
+    "kind": "delete",
+    "start": 246.53,
+    "end": 246.58,
+    "asr": "o",
+    "script": ""
+  },
+  {
+    "kind": "replace",
+    "start": 267.16,
+    "end": 267.32,
+    "asr": "cova",
+    "script": "curva"
+  },
+  {
+    "kind": "replace",
+    "start": 273.58,
+    "end": 274.0,
+    "asr": "um apausa",
+    "script": "uma pausa"
+  },
+  {
+    "kind": "replace",
+    "start": 275.8,
+    "end": 276.16,
+    "asr": "para",
+    "script": "pra"
+  },
+  {
+    "kind": "replace",
+    "start": 276.68,
+    "end": 276.9,
+    "asr": "outro",
+    "script": "o"
+  },
+  {
+    "kind": "replace",
+    "start": 281.16,
+    "end": 281.3,
+    "asr": "na",
+    "script": "da"
+  },
+  {
+    "kind": "replace",
+    "start": 293.6,
+    "end": 293.96,
+    "asr": "apesa",
+    "script": "pesa"
+  },
+  {
+    "kind": "insert",
+    "start": 296.88,
+    "end": 296.93,
+    "asr": "",
+    "script": "a"
+  },
+  {
+    "kind": "replace",
+    "start": 305.28,
+    "end": 305.9,
+    "asr": "Gras Reavers.",
+    "script": "Grassrivers."
+  },
+  {
+    "kind": "replace",
+    "start": 307.4,
+    "end": 307.6,
+    "asr": "quis,",
+    "script": "Keys,"
+  },
+  {
+    "kind": "replace",
+    "start": 308.24,
+    "end": 308.54,
+    "asr": "Rihuana.",
+    "script": "a iguana."
+  }
+]

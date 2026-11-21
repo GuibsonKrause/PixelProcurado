@@ -1,0 +1,52 @@
+{
+  "status": "preparado_aguardando_master_e_QA",
+  "descricao_efetiva_para_publicar": "publicacao/03_DESCRICAO.txt",
+  "descricao_inclui_capitulos_no_arquivo": true,
+  "fonte_oficial_instalacao_212gb": "https://support.rockstargames.com/articles/M6h7B5fJZMwG1dnzQkt4Z/grand-theft-auto-vi-installation-requirements",
+  "data_publicacao": "2026-11-10",
+  "titulos_ab": [
+    {
+      "variante": "A",
+      "titulo": "GTA 6: esqueça o jeito de jogar GTA 5 | Análise do gameplay",
+      "thumbnail": "ESQUECE O GTA 5",
+      "hipotese": "Contraste entre hábitos de GTA V e interações observadas no gameplay."
+    },
+    {
+      "variante": "B",
+      "titulo": "GTA 6: esse botão muda sua fuga | Análise do gameplay oficial",
+      "thumbnail": "QUAL BOTÃO?",
+      "hipotese": "Curiosidade sobre a escolha exibida no HUD do carro vermelho."
+    }
+  ],
+  "descricao": "Esquece a bazuca na cueca. O gameplay oficial de GTA VI mostra interações no prédio, armas recolhidas no chão, combate em corredores e duas opções na porta do carro vermelho. Neste episódio do Pixel Procurado, analisamos o que essas imagens sugerem para quem vem de GTA V.\n\nAnálise das imagens do gameplay oficial: as conclusões editoriais sobre comportamento, dificuldade e consequências são interpretações do vídeo, sem teste jogável próprio.\n\nFontes oficiais:\nRockstar — An Extended Look: https://www.rockstargames.com/VI/an-extended-look\nRockstar Support — pré-load e lançamento: https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s?pubDate=20261107\nRockstar Support — requisitos de instalação, até 212 GB conforme aparelho: https://support.rockstargames.com/articles/M6h7B5fJZMwG1dnzQkt4Z/grand-theft-auto-vi-installation-requirements\n\nPré-load: 10 de novembro. Lançamento: 19 de novembro de 2026. A instalação pode ocupar até 212 GB, dependendo do aparelho; consulte as orientações da sua plataforma.\n\nInscreva-se para acompanhar a série de aquecimento do GTA 6.\n\n#GTA6 #GTAVI #PixelProcurado\n\nCapítulos:\n00:00 Esqueça os hábitos de GTA 5\n00:59 A primeira entrada no prédio\n01:57 Laboratório e malote\n02:24 Armas e inventário\n03:01 Fumaça, cobertura e ângulos\n03:32 Do corredor ao escuro\n03:57 Infiltração no escritório\n04:37 O HUD do carro vermelho\n05:44 Pré-load e próximo episódio\n\nCapa: montagem editorial criada com referência ao gameplay.\n",
+  "tags": [
+    "GTA 6",
+    "GTA VI",
+    "GTA 6 gameplay",
+    "GTA 6 gameplay oficial",
+    "GTA 6 análise",
+    "GTA VI português",
+    "GTA 6 Jason Lucia",
+    "Leonida",
+    "Rockstar Games",
+    "GTA 6 preload",
+    "GTA 6 212 GB",
+    "Pixel Procurado"
+  ],
+  "comentario_fixado": "Na porta do carro vermelho: você iria de Smash Window ou Slim Jim? Aqui é análise das imagens oficiais — comenta qual detalhe do gameplay mais mudou sua expectativa.",
+  "capitulos": "00:00 Esqueça os hábitos de GTA 5\n00:59 A primeira entrada no prédio\n01:57 Laboratório e malote\n02:24 Armas e inventário\n03:01 Fumaça, cobertura e ângulos\n03:32 Do corredor ao escuro\n03:57 Infiltração no escritório\n04:37 O HUD do carro vermelho\n05:44 Pré-load e próximo episódio",
+  "observacoes": [
+    "Um único upload por peça: variante B não é segundo vídeo. Teste A/B de título/capa depende das capacidades verificadas da plataforma.",
+    "Publicação bloqueada até revisão independente final aprovada.",
+    "Não inventar capítulos antes do áudio/alinhamento final."
+  ],
+  "capitulos_status": "Tempos derivados da voz final HUD; confirmar contra master renderizado antes de envio.",
+  "configuracoes": {
+    "categoria": "Gaming",
+    "jogo": "Grand Theft Auto VI",
+    "idioma": "pt-BR",
+    "made_for_kids": "no",
+    "restricao_etaria": "avaliar conteúdo final, sem aplicar 18+ automaticamente",
+    "ab": "Principal operará teste nativo no mesmo upload; Postiz não oferece AB"
+  }
+}

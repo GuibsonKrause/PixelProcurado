@@ -1,0 +1,39 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-11T05:04:38.262269+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmwa9e6ie0001pna8wkbk1x2e"
+      },
+      "settings": {
+        "__type": "tiktok",
+        "title": "GTA 6: esqueça o jeito de jogar GTA 5 | Análise do gameplay",
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "duet": false,
+        "stitch": false,
+        "comment": true,
+        "autoAddMusic": "no",
+        "brand_content_toggle": false,
+        "brand_organic_toggle": false,
+        "video_made_with_ai": true,
+        "content_posting_method": "DIRECT_POST"
+      },
+      "value": [
+        {
+          "content": "Episódio gravado para 10/11/2026, data em que começou o pré-load.\n\nEsquece a bazuca na cueca. O gameplay oficial de GTA VI mostra interações no prédio, armas recolhidas no chão, combate em corredores e duas opções na porta do carro vermelho. Neste episódio do Pixel Procurado, analisamos o que essas imagens sugerem para quem vem de GTA V.\n\nAnálise das imagens do gameplay oficial: as conclusões editoriais sobre comportamento, dificuldade e consequências são interpretações do vídeo, sem teste jogável próprio.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/be92e641c09d496aa4197033330abba0.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ]
+    }
+  ]
+}

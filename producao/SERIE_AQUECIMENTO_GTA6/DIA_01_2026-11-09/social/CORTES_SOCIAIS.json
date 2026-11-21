@@ -1,0 +1,40 @@
+{
+  "reel": {
+    "name": "DIA01_Reel_HUD",
+    "slices": [
+      [
+        24.1,
+        30.033333333333335
+      ],
+      [
+        287.96666666666664,
+        344.6333333333333
+      ]
+    ],
+    "title": "GTA 6: círculo ou triângulo? Leia o HUD antes de fugir",
+    "description": "Duas opções reais na porta do carro: Smash Window e Slim Jim. Análise das imagens oficiais, sem teste jogável próprio. Episódio completo no canal Pixel Procurado. #GTA6 #GTAVI #PixelProcurado",
+    "duration": 62.60000000000002,
+    "status": "preparado_aguardando_render_e_QA",
+    "thumbnail": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\capa_vertical_hud.png",
+    "intentional_reprise": "HUD no gancho e na explicação; sem loop de ação"
+  },
+  "story": {
+    "name": "DIA01_Story_HUD",
+    "slices": [
+      [
+        24.1,
+        30.033333333333335
+      ],
+      [
+        333.73333333333335,
+        344.6333333333333
+      ]
+    ],
+    "title": "Qual botão você escolheria?",
+    "description": "O detalhe está no HUD. Veja a análise completa no Pixel Procurado.",
+    "duration": 16.83333333333331,
+    "status": "preparado_aguardando_render_e_QA",
+    "thumbnail": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\capa_vertical_hud.png",
+    "intentional_reprise": "HUD no gancho e na explicação; sem loop de ação"
+  }
+}

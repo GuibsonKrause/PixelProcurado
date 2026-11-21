@@ -1,0 +1,1098 @@
+[
+ {
+  "word": "Essas",
+  "paragraph": 1,
+  "start": 0.0,
+  "end": 0.34,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "teorias",
+  "paragraph": 1,
+  "start": 0.34,
+  "end": 0.8,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "pareciam",
+  "paragraph": 1,
+  "start": 0.8,
+  "end": 1.24,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "mentira.",
+  "paragraph": 1,
+  "start": 1.24,
+  "end": 1.6,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Agora",
+  "paragraph": 1,
+  "start": 2.04,
+  "end": 2.54,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "tão",
+  "paragraph": 1,
+  "start": 2.54,
+  "end": 2.84,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "no",
+  "paragraph": 1,
+  "start": 2.84,
+  "end": 3.0,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "jogo.",
+  "paragraph": 1,
+  "start": 3.0,
+  "end": 3.3,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Um:",
+  "paragraph": 2,
+  "start": 3.3,
+  "end": 4.78,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "os",
+  "paragraph": 2,
+  "start": 4.78,
+  "end": 4.86,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "moradores",
+  "paragraph": 2,
+  "start": 4.86,
+  "end": 5.24,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "de",
+  "paragraph": 2,
+  "start": 5.24,
+  "end": 5.44,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Leonida",
+  "paragraph": 2,
+  "start": 5.44,
+  "end": 5.96,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "não",
+  "paragraph": 2,
+  "start": 5.96,
+  "end": 6.12,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "esperam",
+  "paragraph": 2,
+  "start": 6.12,
+  "end": 6.48,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "você.",
+  "paragraph": 2,
+  "start": 6.48,
+  "end": 6.74,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Tem",
+  "paragraph": 2,
+  "start": 7.14,
+  "end": 7.32,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "urso-polar",
+  "paragraph": 2,
+  "start": 7.32,
+  "end": 7.84,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "no",
+  "paragraph": 2,
+  "start": 7.84,
+  "end": 7.94,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "meio",
+  "paragraph": 2,
+  "start": 7.94,
+  "end": 8.1,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "da",
+  "paragraph": 2,
+  "start": 8.1,
+  "end": 8.22,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "rodovia",
+  "paragraph": 2,
+  "start": 8.22,
+  "end": 8.68,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "e",
+  "paragraph": 2,
+  "start": 8.68,
+  "end": 8.98,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "uma",
+  "paragraph": 2,
+  "start": 8.98,
+  "end": 9.12,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "roda",
+  "paragraph": 2,
+  "start": 9.12,
+  "end": 9.36,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "de",
+  "paragraph": 2,
+  "start": 9.36,
+  "end": 9.5,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "gente",
+  "paragraph": 2,
+  "start": 9.5,
+  "end": 9.64,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "querendo",
+  "paragraph": 2,
+  "start": 9.64,
+  "end": 10.0,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "fazer",
+  "paragraph": 2,
+  "start": 10.0,
+  "end": 10.18,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "carinho",
+  "paragraph": 2,
+  "start": 10.18,
+  "end": 10.54,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "no",
+  "paragraph": 2,
+  "start": 10.54,
+  "end": 10.64,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "bicho.",
+  "paragraph": 2,
+  "start": 10.64,
+  "end": 10.88,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Dois:",
+  "paragraph": 3,
+  "start": 10.88,
+  "end": 12.28,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "a",
+  "paragraph": 3,
+  "start": 12.28,
+  "end": 12.38,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "polícia",
+  "paragraph": 3,
+  "start": 12.38,
+  "end": 12.7,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "não",
+  "paragraph": 3,
+  "start": 12.7,
+  "end": 12.86,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "nasce",
+  "paragraph": 3,
+  "start": 12.86,
+  "end": 13.18,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "do",
+  "paragraph": 3,
+  "start": 13.18,
+  "end": 13.3,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "chão.",
+  "paragraph": 3,
+  "start": 13.3,
+  "end": 13.52,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "A",
+  "paragraph": 3,
+  "start": 14.02,
+  "end": 14.14,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Lucia",
+  "paragraph": 3,
+  "start": 14.14,
+  "end": 14.42,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "abre",
+  "paragraph": 3,
+  "start": 14.42,
+  "end": 14.68,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "o",
+  "paragraph": 3,
+  "start": 14.68,
+  "end": 14.82,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "porta-malas",
+  "paragraph": 3,
+  "start": 14.82,
+  "end": 15.18,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "de",
+  "paragraph": 3,
+  "start": 15.18,
+  "end": 15.3,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "uma",
+  "paragraph": 3,
+  "start": 15.3,
+  "end": 15.36,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "viatura",
+  "paragraph": 3,
+  "start": 15.36,
+  "end": 15.78,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "e",
+  "paragraph": 3,
+  "start": 15.78,
+  "end": 16.4,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "a",
+  "paragraph": 3,
+  "start": 16.4,
+  "end": 16.46,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "estrela",
+  "paragraph": 3,
+  "start": 16.46,
+  "end": 16.76,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "só",
+  "paragraph": 3,
+  "start": 16.76,
+  "end": 16.94,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "acende",
+  "paragraph": 3,
+  "start": 16.94,
+  "end": 17.12,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "depois,",
+  "paragraph": 3,
+  "start": 17.12,
+  "end": 17.52,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "quando",
+  "paragraph": 3,
+  "start": 17.9,
+  "end": 18.08,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "ela",
+  "paragraph": 3,
+  "start": 18.08,
+  "end": 18.2,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "já",
+  "paragraph": 3,
+  "start": 18.2,
+  "end": 18.36,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "tá",
+  "paragraph": 3,
+  "start": 18.36,
+  "end": 18.46,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "correndo",
+  "paragraph": 3,
+  "start": 18.46,
+  "end": 18.78,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "na",
+  "paragraph": 3,
+  "start": 18.78,
+  "end": 18.9,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "calçada.",
+  "paragraph": 3,
+  "start": 18.9,
+  "end": 19.3,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Três:",
+  "paragraph": 4,
+  "start": 19.3,
+  "end": 20.62,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "Leonida",
+  "paragraph": 4,
+  "start": 20.62,
+  "end": 21.06,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "tem",
+  "paragraph": 4,
+  "start": 21.06,
+  "end": 21.2,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "rede",
+  "paragraph": 4,
+  "start": 21.2,
+  "end": 21.44,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "social",
+  "paragraph": 4,
+  "start": 21.44,
+  "end": 21.62,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "própria,",
+  "paragraph": 4,
+  "start": 21.62,
+  "end": 22.14,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "com",
+  "paragraph": 4,
+  "start": 22.56,
+  "end": 22.74,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "comentário",
+  "paragraph": 4,
+  "start": 22.82,
+  "end": 23.22,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "sobre",
+  "paragraph": 4,
+  "start": 23.22,
+  "end": 23.46,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "homem",
+  "paragraph": 4,
+  "start": 23.58,
+  "end": 23.7,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "de",
+  "paragraph": 4,
+  "start": 23.7,
+  "end": 23.84,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Leonida",
+  "paragraph": 4,
+  "start": 23.84,
+  "end": 24.28,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "flagrado",
+  "paragraph": 4,
+  "start": 24.28,
+  "end": 24.7,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "fazendo",
+  "paragraph": 4,
+  "start": 24.7,
+  "end": 24.98,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "besteira.",
+  "paragraph": 4,
+  "start": 24.98,
+  "end": 25.44,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "O",
+  "paragraph": 4,
+  "start": 25.94,
+  "end": 26.1,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Florida",
+  "paragraph": 4,
+  "start": 26.1,
+  "end": 26.506,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "Man",
+  "paragraph": 4,
+  "start": 26.506,
+  "end": 26.68,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "virou",
+  "paragraph": 4,
+  "start": 26.68,
+  "end": 27.0,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "mecânica.",
+  "paragraph": 4,
+  "start": 27.0,
+  "end": 27.48,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Quatro:",
+  "paragraph": 5,
+  "start": 27.48,
+  "end": 29.14,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "Jason",
+  "paragraph": 5,
+  "start": 29.14,
+  "end": 29.52,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "e",
+  "paragraph": 5,
+  "start": 29.52,
+  "end": 29.72,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Lucia",
+  "paragraph": 5,
+  "start": 29.72,
+  "end": 30.04,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "dividem",
+  "paragraph": 5,
+  "start": 30.04,
+  "end": 30.52,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "a",
+  "paragraph": 5,
+  "start": 30.52,
+  "end": 30.64,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "casa.",
+  "paragraph": 5,
+  "start": 30.64,
+  "end": 30.92,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "Inclusive",
+  "paragraph": 5,
+  "start": 31.38,
+  "end": 31.82,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "o",
+  "paragraph": 5,
+  "start": 31.82,
+  "end": 31.98,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "sofrimento",
+  "paragraph": 5,
+  "start": 31.98,
+  "end": 32.36,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "de",
+  "paragraph": 5,
+  "start": 32.36,
+  "end": 32.52,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "montar",
+  "paragraph": 5,
+  "start": 32.52,
+  "end": 32.82,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "móvel.",
+  "paragraph": 5,
+  "start": 32.82,
+  "end": 33.14,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "E",
+  "paragraph": 6,
+  "start": 33.96,
+  "end": 34.24,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "a",
+  "paragraph": 6,
+  "start": 34.24,
+  "end": 34.32,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "teoria",
+  "paragraph": 6,
+  "start": 34.32,
+  "end": 34.66,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "que",
+  "paragraph": 6,
+  "start": 34.66,
+  "end": 34.84,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "ninguém",
+  "paragraph": 6,
+  "start": 34.84,
+  "end": 35.08,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "queria",
+  "paragraph": 6,
+  "start": 35.08,
+  "end": 35.4,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "ver",
+  "paragraph": 6,
+  "start": 35.4,
+  "end": 35.54,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "confirmada:",
+  "paragraph": 6,
+  "start": 35.54,
+  "end": 36.1,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "trinta",
+  "paragraph": 6,
+  "start": 36.1,
+  "end": 36.8,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "quadros",
+  "paragraph": 6,
+  "start": 36.8,
+  "end": 37.32,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "por",
+  "paragraph": 6,
+  "start": 37.32,
+  "end": 37.46,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "segundo",
+  "paragraph": 6,
+  "start": 37.46,
+  "end": 37.86,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "em",
+  "paragraph": 6,
+  "start": 37.86,
+  "end": 38.02,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "todos",
+  "paragraph": 6,
+  "start": 38.02,
+  "end": 38.2,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "os",
+  "paragraph": 6,
+  "start": 38.2,
+  "end": 38.38,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "consoles,",
+  "paragraph": 6,
+  "start": 38.38,
+  "end": 38.78,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "sem",
+  "paragraph": 6,
+  "start": 38.78,
+  "end": 39.42,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "modo",
+  "paragraph": 6,
+  "start": 39.42,
+  "end": 39.66,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "desempenho.",
+  "paragraph": 6,
+  "start": 39.66,
+  "end": 40.26,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "A",
+  "paragraph": 7,
+  "start": 40.88,
+  "end": 41.0,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "crítica",
+  "paragraph": 7,
+  "start": 41.0,
+  "end": 41.34,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "deu",
+  "paragraph": 7,
+  "start": 41.34,
+  "end": 41.584,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "noventa",
+  "paragraph": 7,
+  "start": 41.584,
+  "end": 42.153,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "e",
+  "paragraph": 7,
+  "start": 42.153,
+  "end": 42.235,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "nove.",
+  "paragraph": 7,
+  "start": 42.235,
+  "end": 42.56,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "Os",
+  "paragraph": 7,
+  "start": 42.56,
+  "end": 42.58,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "jogadores,",
+  "paragraph": 7,
+  "start": 42.58,
+  "end": 43.02,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "perto",
+  "paragraph": 7,
+  "start": 43.02,
+  "end": 43.8,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "de",
+  "paragraph": 7,
+  "start": 43.8,
+  "end": 44.0,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "cinco.",
+  "paragraph": 7,
+  "start": 44.0,
+  "end": 45.1,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "Então",
+  "paragraph": 8,
+  "start": 45.1,
+  "end": 45.44,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "me",
+  "paragraph": 8,
+  "start": 45.44,
+  "end": 45.58,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "responde:",
+  "paragraph": 8,
+  "start": 45.58,
+  "end": 46.04,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "valeu",
+  "paragraph": 8,
+  "start": 46.36,
+  "end": 46.72,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "o",
+  "paragraph": 8,
+  "start": 46.72,
+  "end": 46.78,
+  "source": "roteiro_alinhado",
+  "estimated": true
+ },
+ {
+  "word": "hype,",
+  "paragraph": 8,
+  "start": 46.78,
+  "end": 46.96,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "ou",
+  "paragraph": 8,
+  "start": 47.5,
+  "end": 47.64,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "essas",
+  "paragraph": 8,
+  "start": 47.64,
+  "end": 47.76,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "teorias",
+  "paragraph": 8,
+  "start": 47.76,
+  "end": 48.2,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "pareciam",
+  "paragraph": 8,
+  "start": 48.2,
+  "end": 48.7,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "mentira",
+  "paragraph": 8,
+  "start": 48.7,
+  "end": 49.04,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "por",
+  "paragraph": 8,
+  "start": 49.04,
+  "end": 49.22,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "um",
+  "paragraph": 8,
+  "start": 49.22,
+  "end": 49.32,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ },
+ {
+  "word": "motivo?",
+  "paragraph": 8,
+  "start": 49.32,
+  "end": 49.52,
+  "source": "roteiro_alinhado",
+  "estimated": false
+ }
+]

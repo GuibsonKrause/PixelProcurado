@@ -1,0 +1,116 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-11T18:50:36.251292+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "O pré-load do GTA 6 pede até 212 GB. Dois erros que podem te custar a noite de estreia: baixar no HD externo USB e deixar o SSD sem folga. Análise das imagens do gameplay oficial. Lançamento: 19/11/2026. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "a0a77728-1d49-489e-96b4-e14dedfc70af",
+              "name": "0b94d1c968c10d82641c4578fb262e64.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/11/0b94d1c968c10d82641c4578fb262e64.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: 2 erros do pré-load de 212 GB #shorts",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "GTA 6 pré-load",
+            "label": "GTA 6 pré-load"
+          },
+          {
+            "value": "GTA 6 preload",
+            "label": "GTA 6 preload"
+          },
+          {
+            "value": "GTA 6 212 GB",
+            "label": "GTA 6 212 GB"
+          },
+          {
+            "value": "tamanho GTA 6",
+            "label": "tamanho GTA 6"
+          },
+          {
+            "value": "quantos GB GTA 6",
+            "label": "quantos GB GTA 6"
+          },
+          {
+            "value": "GTA 6 PS5",
+            "label": "GTA 6 PS5"
+          },
+          {
+            "value": "GTA 6 Xbox Series",
+            "label": "GTA 6 Xbox Series"
+          },
+          {
+            "value": "GTA 6 SSD",
+            "label": "GTA 6 SSD"
+          },
+          {
+            "value": "GTA 6 download",
+            "label": "GTA 6 download"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "GTA 6 Leonida",
+            "label": "GTA 6 Leonida"
+          },
+          {
+            "value": "GTA 6 Lucia Jason",
+            "label": "GTA 6 Lucia Jason"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "GTA 6 lançamento 19 de novembro",
+            "label": "GTA 6 lançamento 19 de novembro"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "5e37f97e-75be-4eca-a246-9650add497af",
+          "name": "8a78e16c66dfc2fe667cfaf5f9b4210e4.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/11/8a78e16c66dfc2fe667cfaf5f9b4210e4.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

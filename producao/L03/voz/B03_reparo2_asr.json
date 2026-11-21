@@ -1,0 +1,140 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.4,
+    "word": "Minha",
+    "probability": 0.7771
+  },
+  {
+    "start": 0.4,
+    "end": 0.88,
+    "word": "leitura",
+    "probability": 0.9929
+  },
+  {
+    "start": 0.88,
+    "end": 1.18,
+    "word": "é",
+    "probability": 0.9732
+  },
+  {
+    "start": 1.18,
+    "end": 1.3,
+    "word": "que",
+    "probability": 0.9943
+  },
+  {
+    "start": 1.3,
+    "end": 1.4,
+    "word": "a",
+    "probability": 0.9645
+  },
+  {
+    "start": 1.4,
+    "end": 1.54,
+    "word": "nova",
+    "probability": 0.9351
+  },
+  {
+    "start": 1.54,
+    "end": 1.82,
+    "word": "Vice",
+    "probability": 0.4896
+  },
+  {
+    "start": 1.82,
+    "end": 2.2,
+    "word": "City",
+    "probability": 0.5177
+  },
+  {
+    "start": 2.2,
+    "end": 2.5,
+    "word": "encontra",
+    "probability": 0.7679
+  },
+  {
+    "start": 2.5,
+    "end": 2.78,
+    "word": "em",
+    "probability": 0.2016
+  },
+  {
+    "start": 2.78,
+    "end": 2.94,
+    "word": "uma",
+    "probability": 0.9763
+  },
+  {
+    "start": 2.94,
+    "end": 3.36,
+    "word": "forma",
+    "probability": 0.9969
+  },
+  {
+    "start": 3.36,
+    "end": 4.24,
+    "word": "contemporânea",
+    "probability": 0.9953
+  },
+  {
+    "start": 4.24,
+    "end": 4.44,
+    "word": "de",
+    "probability": 0.9816
+  },
+  {
+    "start": 4.44,
+    "end": 4.9,
+    "word": "ensinar",
+    "probability": 0.9251
+  },
+  {
+    "start": 4.9,
+    "end": 5.08,
+    "word": "uma",
+    "probability": 0.9462
+  },
+  {
+    "start": 5.08,
+    "end": 5.58,
+    "word": "obsessão",
+    "probability": 0.8983
+  },
+  {
+    "start": 5.58,
+    "end": 6.04,
+    "word": "antiga,",
+    "probability": 0.9923
+  },
+  {
+    "start": 6.24,
+    "end": 7.2,
+    "word": "aparecer,",
+    "probability": 0.9708
+  },
+  {
+    "start": 7.8,
+    "end": 8.4,
+    "word": "crescer",
+    "probability": 0.9976
+  },
+  {
+    "start": 8.4,
+    "end": 8.9,
+    "word": "e",
+    "probability": 0.9561
+  },
+  {
+    "start": 8.9,
+    "end": 9.08,
+    "word": "ser",
+    "probability": 0.9911
+  },
+  {
+    "start": 9.08,
+    "end": 9.28,
+    "word": "alguém.",
+    "probability": 0.9974
+  }
+]

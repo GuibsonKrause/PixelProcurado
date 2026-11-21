@@ -1,0 +1,119 @@
+{
+  "corrections": [
+    {
+      "op": "insert",
+      "start": 74.54,
+      "end": 74.78,
+      "script": "",
+      "asr": "no",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "insert",
+      "start": 78.26,
+      "end": 79.14,
+      "script": "",
+      "asr": "A",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "A apresentação oficial",
+      "script_index": 6,
+      "time": 3.7333333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "As duas características",
+      "script_index": 21,
+      "time": 10.966666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Quem já escapou",
+      "script_index": 32,
+      "time": 16.133333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Também pode começar",
+      "script_index": 44,
+      "time": 20.9,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O currículo aumenta",
+      "script_index": 55,
+      "time": 25.0,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Imagina alguém",
+      "script_index": 66,
+      "time": 30.166666666666668,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A tranquilidade convence",
+      "script_index": 81,
+      "time": 35.7,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Essa situação",
+      "script_index": 101,
+      "time": 43.46666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O perfil não entrega",
+      "script_index": 105,
+      "time": 45.6,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Ele permite observar",
+      "script_index": 120,
+      "time": 50.43333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Uma pergunta",
+      "script_index": 133,
+      "time": 58.2,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A resposta pode",
+      "script_index": 146,
+      "time": 64.63333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Às vezes",
+      "script_index": 157,
+      "time": 68.9,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Eu prestaria atenção",
+      "script_index": 169,
+      "time": 73.36666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Experiência pode",
+      "script_index": 185,
+      "time": 79.13333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Afinal",
+      "script_index": 194,
+      "time": 83.0,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

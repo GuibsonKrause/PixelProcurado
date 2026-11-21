@@ -1,0 +1,13 @@
+{
+  "status": "preparadas_aguardando_QA",
+  "carrossel": [
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\carrossel_01.jpg",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\carrossel_02.jpg",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\carrossel_03.jpg",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\carrossel_04.jpg"
+  ],
+  "capa_vertical": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_01_2026-11-09\\social\\capa_vertical_hud.png",
+  "fonte_frame_segundos": 364.9,
+  "captura_autentica": true,
+  "envio_confirmado": false
+}

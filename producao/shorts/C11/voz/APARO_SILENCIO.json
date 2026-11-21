@@ -1,0 +1,7 @@
+{
+  "before": 88.84,
+  "after": 85.65,
+  "method": "PCM sample trim, no resynthesis or renormalization",
+  "authorization": "Coordinator: independent review found 3.3s silent tail after Porque; preserve whole word and short breath",
+  "backup": "producao\\shorts\\C11\\historico\\antes_revisao_20261031\\narracao_revisada_antes_aparo.wav"
+}

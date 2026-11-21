@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T23:50:53.949555+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "Um esportivo rosa aparece em dois vídeos da Only in Dade. No primeiro, a câmera passa pela janela de um carro. No segundo, o comboio cruza uma esquina. Coloquei os dois clipes lado a lado com os carros que a West Coast Customs construiu de verdade para a campanha do GTA VI.\n\n00:00 A filmagem que parece Miami\n00:23 O truque da câmera de celular\n00:40 Os seis carros que saíram do jogo\n01:22 A esquina e o carro rosa\n02:06 Como a Rockstar já usava essa linguagem\n02:35 Dá pra reproduzir a cena no jogo?\n\nClipes comentados: ONLY in DADE, 11 e 12 de novembro.\nhttps://www.instagram.com/reel/DfnFSzaOLO_/\nhttps://www.instagram.com/reels/Dfppo43hwnB/\n\nComparativo das réplicas: Hypedrive, West Coast Customs e Rockstar Games.\nhttps://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars\n\n#GTA6 #GTAVI #ViceCity",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/61f72d17a6cd4f35b578134ca24e427e.mp4",
+              "thumbnail": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d7ae55a78d9143d0be4091e4e34211f0.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

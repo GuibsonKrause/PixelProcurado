@@ -1,0 +1,1105 @@
+{
+  "id": "DIA_04_2026-11-12__vertical",
+  "titulo": "Os NPCs do GTA 6 Têm Mais Problemas Que Você",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "T1": "GTAVI_Trailer_1.mp4",
+    "T2": "GTAVI_Trailer_2.mp4",
+    "LT": "GTAVI_Launch_Trailer.mp4",
+    "GTAV": "GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4",
+    "PONTE": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/salto_0900.jpg",
+    "MOTEL": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/motel_0920.jpg",
+    "LUTA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/luta_0931.jpg",
+    "ELEV40": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/elevador_0940.jpg",
+    "ELEV50": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/elevador_0950.jpg",
+    "TETO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/teto_0045.jpg",
+    "PLANET": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/planet_0050_margem.jpg",
+    "LOJA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/jacare_loja_0048.jpg",
+    "GRASS1": "GTAVI_Screenshots/Places/Grassrivers/Grassrivers_01.jpg",
+    "GRASS2": "GTAVI_Screenshots/Places/Grassrivers/Grassrivers_02.jpg",
+    "GRASS3": "GTAVI_Screenshots/Places/Grassrivers/Grassrivers_03.jpg",
+    "GRASS4": "GTAVI_Screenshots/Places/Grassrivers/Grassrivers_04.jpg",
+    "GRASS5": "GTAVI_Screenshots/Places/Grassrivers/Grassrivers_05.jpg",
+    "MT3": "GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_03.jpg",
+    "MT5": "GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_05.jpg",
+    "AMB1": "GTAVI_Screenshots/Places/Ambrosia/Ambrosia_01.jpg",
+    "AMB3": "GTAVI_Screenshots/Places/Ambrosia/Ambrosia_03.jpg",
+    "AMB6": "GTAVI_Screenshots/Places/Ambrosia/Ambrosia_06.jpg",
+    "CERVOTV": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/cervo_tv_0750.jpg",
+    "CACHORRO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/montagem/referencias/cachorro_0200.jpg"
+  },
+  "rotulos_obrigatorios": {
+    "GTAV": "GTA V"
+  },
+  "correcoes_legenda": {},
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_DIA04_Vertical_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/audio/narracao_normalizada.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/audio/palavras_alinhadas.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 42,
+          "tipo": "editorial",
+          "corte": [
+            0,
+            1.8
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "FALTAM 7 DIAS",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 800,
+          "tipo": "tag",
+          "corte": [
+            1.8,
+            5.733
+          ]
+        },
+        {
+          "titulo": "19 DE NOVEMBRO",
+          "detalhe": "Data de lançamento",
+          "midia": "EXT",
+          "inicio": 1599,
+          "tipo": "data",
+          "corte": [
+            5.733,
+            9.8
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1108,
+          "tipo": "editorial",
+          "corte": [
+            9.8,
+            13.867
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 998,
+          "tipo": "editorial",
+          "corte": [
+            13.867,
+            17.967
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 63.7,
+          "tipo": "editorial",
+          "corte": [
+            17.967,
+            20.333
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 57.3,
+          "tipo": "editorial",
+          "corte": [
+            20.333,
+            22.7
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1228,
+          "tipo": "editorial",
+          "corte": [
+            22.7,
+            25.067
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 573.3,
+          "tipo": "editorial",
+          "corte": [
+            25.067,
+            28.433
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "09:40",
+          "detalhe": "Elevador no gameplay",
+          "midia": "EXT",
+          "inicio": 577.6,
+          "tipo": "editorial",
+          "corte": [
+            28.433,
+            30.633
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 593,
+          "tipo": "editorial",
+          "corte": [
+            30.633,
+            34.033
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 33,
+          "tipo": "editorial",
+          "corte": [
+            34.033,
+            37.467
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "",
+          "midia": "GTAV",
+          "inicio": 71.3,
+          "tipo": "tag",
+          "corte": [
+            37.467,
+            41.067
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "",
+          "midia": "GTAV",
+          "inicio": 76,
+          "tipo": "tag",
+          "corte": [
+            41.067,
+            46
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "",
+          "midia": "GTAV",
+          "inicio": 22,
+          "tipo": "tag",
+          "corte": [
+            46,
+            50.933
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "",
+          "midia": "GTAV",
+          "inicio": 216,
+          "tipo": "tag",
+          "corte": [
+            50.933,
+            55.85
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 526,
+          "tipo": "editorial",
+          "corte": [
+            55.85,
+            57.867
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "09:00–09:35",
+          "detalhe": "An Extended Look",
+          "midia": "EXT",
+          "inicio": 532,
+          "tipo": "editorial",
+          "corte": [
+            57.867,
+            61.067
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 491,
+          "tipo": "editorial",
+          "corte": [
+            61.067,
+            65.6
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "09:00",
+          "detalhe": "Salto da ponte",
+          "midia": "EXT",
+          "inicio": 538,
+          "tipo": "editorial",
+          "corte": [
+            65.6,
+            68.3
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "PONTE",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            68.3,
+            71.633
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "09:20",
+          "detalhe": "Pátio do motel",
+          "midia": "EXT",
+          "inicio": 555.5,
+          "tipo": "editorial",
+          "corte": [
+            71.633,
+            75.4
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "MOTEL",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            75.4,
+            79.15
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 567.15,
+          "tipo": "editorial",
+          "corte": [
+            79.15,
+            80.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "09:30",
+          "detalhe": "Luta no quintal",
+          "midia": "LUTA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            80.4,
+            87.067
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 480,
+          "tipo": "editorial",
+          "corte": [
+            87.067,
+            93.633
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1088,
+          "tipo": "editorial",
+          "corte": [
+            93.633,
+            96.433
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1058,
+          "tipo": "editorial",
+          "corte": [
+            96.433,
+            99.233
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1560,
+          "tipo": "editorial",
+          "corte": [
+            99.233,
+            102
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 33.5,
+          "tipo": "editorial",
+          "corte": [
+            102,
+            104.367
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 45.4,
+          "tipo": "editorial",
+          "corte": [
+            104.367,
+            106.767
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 51,
+          "tipo": "editorial",
+          "corte": [
+            106.767,
+            110.367
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1262,
+          "tipo": "editorial",
+          "corte": [
+            110.367,
+            116.5
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1118,
+          "tipo": "editorial",
+          "corte": [
+            116.5,
+            121.3
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "TRAILER 1 • 00:50",
+          "detalhe": "Planet Leonida Man",
+          "midia": "PLANET",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            121.3,
+            126.767
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1210,
+          "tipo": "editorial",
+          "corte": [
+            126.767,
+            132.233
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 54.8,
+          "tipo": "editorial",
+          "corte": [
+            132.233,
+            134.033
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "AMB6",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            134.033,
+            139.067
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "TETO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            139.067,
+            142.167
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 24,
+          "tipo": "editorial",
+          "corte": [
+            142.167,
+            145.267
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 758,
+          "tipo": "editorial",
+          "corte": [
+            145.267,
+            149.333
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1028,
+          "tipo": "editorial",
+          "corte": [
+            149.333,
+            153.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1098,
+          "tipo": "editorial",
+          "corte": [
+            153.4,
+            157.467
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T1",
+          "inicio": 18.7,
+          "tipo": "editorial",
+          "corte": [
+            157.467,
+            160.167
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "GRASS5",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            160.167,
+            163.267
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "T2",
+          "inicio": 138.5,
+          "tipo": "editorial",
+          "corte": [
+            163.267,
+            166.333
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "GRASS1",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            166.333,
+            170
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "GRASS3",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            170,
+            173.633
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "LOJA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            173.633,
+            179.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "MT5",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            179.9,
+            184.633
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "MT3",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            184.633,
+            186.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "07:50",
+          "detalhe": "TV dentro do jogo",
+          "midia": "CERVOTV",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            186.4,
+            191.1
+          ]
+        },
+        {
+          "titulo": "GTA V",
+          "detalhe": "",
+          "midia": "GTAV",
+          "inicio": 167,
+          "tipo": "tag",
+          "corte": [
+            191.1,
+            197.867
+          ]
+        },
+        {
+          "titulo": "CENÁRIO IMAGINADO",
+          "detalhe": "",
+          "midia": "GRASS4",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            197.867,
+            200.633
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "GRASS2",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            200.633,
+            203.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1048,
+          "tipo": "editorial",
+          "corte": [
+            203.4,
+            206.167
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 748.7,
+          "tipo": "editorial",
+          "corte": [
+            206.167,
+            209.433
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "AMB1",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            209.433,
+            212.567
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "AMB3",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            212.567,
+            215.533
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "10:10",
+          "detalhe": "Effluvia, Vice City",
+          "midia": "EXT",
+          "inicio": 608,
+          "tipo": "editorial",
+          "corte": [
+            215.533,
+            218.667
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 640.3,
+          "tipo": "editorial",
+          "corte": [
+            218.667,
+            221.8
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 647.6,
+          "tipo": "editorial",
+          "corte": [
+            221.8,
+            224.933
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 598,
+          "tipo": "editorial",
+          "corte": [
+            224.933,
+            230.267
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 580.15,
+          "tipo": "editorial",
+          "corte": [
+            230.267,
+            231.933
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "09:40",
+          "detalhe": "",
+          "midia": "ELEV40",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            231.933,
+            235.833
+          ]
+        },
+        {
+          "titulo": "09:50",
+          "detalhe": "",
+          "midia": "ELEV50",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            235.833,
+            238.1
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 582,
+          "tipo": "editorial",
+          "corte": [
+            238.1,
+            241.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 586.1,
+          "tipo": "editorial",
+          "corte": [
+            241.4,
+            244.667
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "09:50",
+          "detalhe": "A porta se abre",
+          "midia": "EXT",
+          "inicio": 590.15,
+          "tipo": "editorial",
+          "corte": [
+            244.667,
+            246.933
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 99,
+          "tipo": "editorial",
+          "corte": [
+            246.933,
+            251.667
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "REAÇÃO OU ATUAÇÃO?",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 107,
+          "tipo": "tag",
+          "corte": [
+            251.667,
+            256.667
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 51,
+          "tipo": "editorial",
+          "corte": [
+            256.667,
+            261.1
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "01:00",
+          "detalhe": "Opção de conversa",
+          "midia": "EXT",
+          "inicio": 58.6,
+          "tipo": "editorial",
+          "corte": [
+            261.1,
+            263.667
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 118.7,
+          "tipo": "editorial",
+          "corte": [
+            263.667,
+            265.7
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "02:00 • STUDY [R1]",
+          "detalhe": "Interação com o cachorro",
+          "midia": "CACHORRO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            265.7,
+            267.733
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1567,
+          "tipo": "tag",
+          "corte": [
+            267.733,
+            271.5
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "19 DE NOVEMBRO",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1570.8,
+          "tipo": "tag",
+          "corte": [
+            271.5,
+            275.3
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1268.2,
+          "tipo": "editorial",
+          "corte": [
+            275.3,
+            277.833
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "TESTE PROPOSTO",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1408,
+          "tipo": "tag",
+          "corte": [
+            277.833,
+            281.7
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1418.5,
+          "tipo": "editorial",
+          "corte": [
+            281.7,
+            285.567
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1328,
+          "tipo": "editorial",
+          "corte": [
+            285.567,
+            289.433
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 848,
+          "tipo": "editorial",
+          "corte": [
+            289.433,
+            293.233
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1299,
+          "tipo": "editorial",
+          "corte": [
+            293.233,
+            296.267
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 318,
+          "tipo": "editorial",
+          "corte": [
+            296.267,
+            299.3
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 804,
+          "tipo": "editorial",
+          "corte": [
+            299.3,
+            302.367
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "AMANHÃ • 13 DE NOVEMBRO",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 902,
+          "tipo": "tag",
+          "corte": [
+            302.367,
+            306.233
+          ]
+        },
+        {
+          "titulo": "LUCIA [L2]",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 428.3,
+          "tipo": "tag",
+          "corte": [
+            306.233,
+            308.867
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1039.2,
+          "tipo": "editorial",
+          "corte": [
+            308.867,
+            310.067
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1438.3,
+          "tipo": "editorial",
+          "corte": [
+            310.067,
+            313.533
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "LT",
+          "inicio": 80,
+          "tipo": "editorial",
+          "corte": [
+            313.533,
+            315.46
+          ],
+          "sem_card": true
+        }
+      ]
+    }
+  }
+}

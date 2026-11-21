@@ -1,0 +1,53 @@
+{
+  "source_sha256": "b286b951c08767d4266dd398b5872c5ac35b6b64b95a17adf1f7a82fb92a0665",
+  "source": "producao\\L05\\exportacoes\\Pixel_Procurado_L05_4K.mp4",
+  "story_end": 24.45,
+  "captions_sha256": "2ddb3bd433cf0d62f9fb3c7cfe79800b58deeee87a0cec29481e88f59b36893c",
+  "caption_fontsize": 48,
+  "assets": {
+    "facebook_feed": {
+      "duration": 324.87,
+      "width": 1920,
+      "height": 1080,
+      "h264": true,
+      "aac": true,
+      "file": "producao\\L05\\social\\L05_Facebook_1080p.mp4",
+      "signature": "638a62306d421c59cc763f849d4fee47550dcbb0a663ade59cc8a1ad302d8acd",
+      "sha256": "e4dae61fecf5afd229f579f4808c96ab93695fcf2af780488d3fb956ba308e6e",
+      "full_decode_pass": true
+    },
+    "instagram_feed": {
+      "duration": 324.87,
+      "width": 1080,
+      "height": 1920,
+      "h264": true,
+      "aac": true,
+      "file": "producao\\L05\\social\\L05_Instagram_integral_1080x1920.mp4",
+      "signature": "6416a4ff605ef7c82e2c1a5cb03c07d510e1c4d7ec53e610a4c5729814e46814",
+      "sha256": "d23a2976db329ca90c15665135ddd29f16d43e526dba9c21960a765150e4189e",
+      "full_decode_pass": true
+    },
+    "facebook_story": {
+      "duration": 24.47,
+      "width": 1080,
+      "height": 1920,
+      "h264": true,
+      "aac": true,
+      "file": "producao\\L05\\social\\L05_Story_1080x1920.mp4",
+      "signature": "b675a819eae9ffafb573d9c5ca3b5dd2544f7ad6893686d7671853599d07c9bd",
+      "sha256": "57367db3aaffd45e1f184c1a25bf4d9a2d987fd026335a26e11fe6b1b482b523",
+      "full_decode_pass": true
+    },
+    "instagram_story": {
+      "duration": 24.47,
+      "width": 1080,
+      "height": 1920,
+      "h264": true,
+      "aac": true,
+      "file": "producao\\L05\\social\\L05_Story_1080x1920.mp4",
+      "signature": "b675a819eae9ffafb573d9c5ca3b5dd2544f7ad6893686d7671853599d07c9bd",
+      "sha256": "57367db3aaffd45e1f184c1a25bf4d9a2d987fd026335a26e11fe6b1b482b523",
+      "full_decode_pass": true
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "L06",
+  "roteiro_origem": "producao/L06/01_NARRACAO.txt",
+  "estado": "validado_e_publicado",
+  "etapa_atual": "concluido",
+  "executor": "/root/produzir_l06",
+  "artefatos": {
+    "mp4": "producao/L06/exportacoes/Pixel_Procurado_L06_4K.mp4",
+    "sha256_mp4": "5dd1b491627948635b5f6b2702b4bdd20a14ef9b37340400209c9f58b6fe497b",
+    "revisao_independente": "producao/L06/REVISAO_INDEPENDENTE.md"
+  },
+  "distribuicao": {
+    "executor": "/root/social_l06",
+    "autorizacao": "Publicar L06 nos formatos compatíveis de todas as redes conectadas ao Postiz",
+    "canais": ["youtube", "facebook", "instagram"],
+    "estado": "PUBLISHED",
+    "total_confirmado": 9,
+    "instagram_integral": "https://www.instagram.com/reel/DfVQOHwhDAQ/",
+    "recibo": "producao/L06/social/POSTIZ_ESTADO.json"
+  }
+}

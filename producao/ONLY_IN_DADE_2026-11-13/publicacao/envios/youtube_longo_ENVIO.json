@@ -1,0 +1,108 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T23:47:21.572205+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Um esportivo rosa aparece em dois vídeos da Only in Dade. No primeiro, a câmera passa pela janela de um carro. No segundo, o comboio cruza uma esquina. Coloquei os dois clipes lado a lado com os carros que a West Coast Customs construiu de verdade para a campanha do GTA VI.\n\n00:00 A filmagem que parece Miami\n00:23 O truque da câmera de celular\n00:40 Os seis carros que saíram do jogo\n01:22 A esquina e o carro rosa\n02:06 Como a Rockstar já usava essa linguagem\n02:35 Dá pra reproduzir a cena no jogo?\n\nClipes comentados: ONLY in DADE, 11 e 12 de novembro.\nhttps://www.instagram.com/reel/DfnFSzaOLO_/\nhttps://www.instagram.com/reels/Dfppo43hwnB/\n\nComparativo das réplicas: Hypedrive, West Coast Customs e Rockstar Games.\nhttps://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars\n\n#GTA6 #GTAVI #ViceCity",
+          "image": [
+            {
+              "id": "3381309e-7f7d-4d84-8a61-a77bc8aea24e",
+              "name": "be756ed44356c82df5cd6c78f2ec3e83.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/14/be756ed44356c82df5cd6c78f2ec3e83.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "Miami ou GTA 6? O Carro Rosa Entregou",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "Only in Dade",
+            "label": "Only in Dade"
+          },
+          {
+            "value": "Only in Vice City",
+            "label": "Only in Vice City"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "realismo GTA 6",
+            "label": "realismo GTA 6"
+          },
+          {
+            "value": "Miami",
+            "label": "Miami"
+          },
+          {
+            "value": "West Coast Customs",
+            "label": "West Coast Customs"
+          },
+          {
+            "value": "Hypedrive",
+            "label": "Hypedrive"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "carros GTA 6",
+            "label": "carros GTA 6"
+          },
+          {
+            "value": "Coquette",
+            "label": "Coquette"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          }
+        ],
+        "thumbnail": {
+          "id": "3c9de200-2b5e-493b-8a4e-3215165d4933",
+          "name": "1020736d16f56951108b9fae8ddccea7e1.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/14/1020736d16f56951108b9fae8ddccea7e1.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

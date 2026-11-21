@@ -1,0 +1,812 @@
+{
+  "episode": "L06",
+  "items": {
+    "youtube_longo": {
+      "identity": {
+        "payload": {
+          "integration": {
+            "id": "cmvsctfgl0001jncj932ovibv"
+          },
+          "value": [
+            {
+              "content": "Nas Keys, o olhar vai até o horizonte. Em Grassrivers, a mata esconde o que vem depois da curva.\nAs imagens oficiais de GTA 6 mostram seis lugares de Leonida com climas bem diferentes.\n\nDa iguana na rua ao caiaque sob a ponte, a gente compara como luz, vegetação, arquitetura e pessoas mudam a sensação de cada lugar. É uma leitura do material divulgado pela Rockstar, com observações sobre as imagens e a atmosfera que elas passam.\n\nSe você pudesse escolher a primeira parada em Leonida, onde iria? Conta também qual detalhe te fez escolher.\n\nCAPÍTULOS\n00:00 O contraste de Leonida\n00:35 Leonida Keys e a iguana\n01:27 Grassrivers entre água e mata\n02:11 Vice City do neon ao viaduto\n02:53 Port Gellhorn e o Starlet Motel\n03:31 Ambrosia, indústria e lama\n04:05 Mount Kalaga, estrada e rio\n04:39 Seis lugares, seis climas\n\nFONTES\nRockstar Games — GTA VI e vídeos oficiais: https://www.rockstargames.com/VI\nRockstar Games — galeria oficial de capturas: https://www.rockstargames.com/VI/media/screenshots\nRockstar Games — Only in Leonida: https://www.rockstargames.com/VI/only-in-leonida\n\nCréditos: imagens e vídeos de GTA VI por Rockstar Games. Análise, edição e gráficos por Pixel Procurado. Narração sintetizada com Gemini TTS e voz personalizada. Capa ilustrativa gerada com IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+              "image": [
+                {
+                  "id": "",
+                  "path": "PENDING"
+                }
+              ],
+              "delay": 0
+            }
+          ],
+          "settings": {
+            "__type": "youtube",
+            "title": "GTA 6 além de Vice City: seis lugares, seis climas",
+            "type": "public",
+            "selfDeclaredMadeForKids": "no",
+            "tags": [
+              {
+                "value": "GTA 6",
+                "label": "GTA 6"
+              },
+              {
+                "value": "GTA VI",
+                "label": "GTA VI"
+              },
+              {
+                "value": "GTAVI",
+                "label": "GTAVI"
+              },
+              {
+                "value": "Leonida",
+                "label": "Leonida"
+              },
+              {
+                "value": "Leonida Keys",
+                "label": "Leonida Keys"
+              },
+              {
+                "value": "Grassrivers",
+                "label": "Grassrivers"
+              },
+              {
+                "value": "Grass Rivers",
+                "label": "Grass Rivers"
+              },
+              {
+                "value": "Vice City",
+                "label": "Vice City"
+              },
+              {
+                "value": "Port Gellhorn",
+                "label": "Port Gellhorn"
+              },
+              {
+                "value": "Ambrosia",
+                "label": "Ambrosia"
+              },
+              {
+                "value": "Mount Kalaga",
+                "label": "Mount Kalaga"
+              },
+              {
+                "value": "Rockstar Games",
+                "label": "Rockstar Games"
+              },
+              {
+                "value": "Pixel Procurado",
+                "label": "Pixel Procurado"
+              }
+            ],
+            "thumbnail": {
+              "id": "",
+              "path": "PENDING"
+            }
+          }
+        },
+        "media_sha256": [
+          "5dd1b491627948635b5f6b2702b4bdd20a14ef9b37340400209c9f58b6fe497b"
+        ],
+        "thumbnail_sha256": "7c36c450cdc3f4275ddab60f25325c61319af3c4b65c076a71a7cf96b2d23076"
+      },
+      "uploads": [
+        {
+          "id": "5c981520-b3fc-486c-9846-8fa1f90eb8bf",
+          "name": "22090bb2f42ef32db7c842e372410fdd4.mp4",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/22090bb2f42ef32db7c842e372410fdd4.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "thumbnail": {
+        "id": "74ceba43-df45-425d-825d-91ecf9db3b16",
+        "name": "810eb94b7d371fa42e4a6c64a6f1df64b.jpg",
+        "originalName": null,
+        "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/810eb94b7d371fa42e4a6c64a6f1df64b.jpg",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "creation_attempted_at": "2026-11-04T18:16:00.004674+00:00",
+      "response": [
+        {
+          "postId": "cmw2ftt0o001rmm97jqf01hw2",
+          "integration": "cmvsctfgl0001jncj932ovibv"
+        }
+      ],
+      "post_id": "cmw2ftt0o001rmm97jqf01hw2",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=f6QmeXdLFPE",
+        "releaseId": "f6QmeXdLFPE",
+        "error": null,
+        "publishDate": "2026-11-04T18:16:00.000Z"
+      }
+    },
+    "youtube_short": {
+      "identity": {
+        "payload": {
+          "integration": {
+            "id": "cmvsctfgl0001jncj932ovibv"
+          },
+          "value": [
+            {
+              "content": "Em Vice City, a fachada do Ocean View faz a rua virar espetáculo. Em Port Gellhorn, o letreiro do Starlet Motel se destaca no entorno. O que muda na sua leitura da cena?\n\nTrecho de Leonida além de Vice City, do Pixel Procurado. Imagens oficiais de GTA VI: https://www.rockstargames.com/VI/media\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado #Shorts",
+              "image": [
+                {
+                  "id": "",
+                  "path": "PENDING"
+                }
+              ],
+              "delay": 0
+            }
+          ],
+          "settings": {
+            "__type": "youtube",
+            "title": "Vice City e Port Gellhorn brilham por motivos diferentes",
+            "type": "public",
+            "selfDeclaredMadeForKids": "no",
+            "tags": [
+              {
+                "value": "GTA 6",
+                "label": "GTA 6"
+              },
+              {
+                "value": "GTA VI",
+                "label": "GTA VI"
+              },
+              {
+                "value": "Vice City",
+                "label": "Vice City"
+              },
+              {
+                "value": "Port Gellhorn",
+                "label": "Port Gellhorn"
+              },
+              {
+                "value": "Pixel Procurado",
+                "label": "Pixel Procurado"
+              }
+            ]
+          }
+        },
+        "media_sha256": [
+          "036cd23e5d26c7f08750e5f21cacd5cd621ef2feaaaf60ca6cbbc86379a58280"
+        ],
+        "thumbnail_sha256": null
+      },
+      "uploads": [
+        {
+          "id": "9cc0a721-145c-4ba0-989e-05e90b3dd479",
+          "name": "f989be03dfc45743fdffb0afd5b14bd6.mp4",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/f989be03dfc45743fdffb0afd5b14bd6.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "creation_attempted_at": "2026-11-04T18:16:07.198032+00:00",
+      "response": [
+        {
+          "postId": "cmw2ftyw9001smm97ownvqfs0",
+          "integration": "cmvsctfgl0001jncj932ovibv"
+        }
+      ],
+      "post_id": "cmw2ftyw9001smm97ownvqfs0",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.youtube.com/watch?v=Bzrm0rS8blY",
+        "releaseId": "Bzrm0rS8blY",
+        "error": null,
+        "publishDate": "2026-11-04T18:16:00.000Z"
+      }
+    },
+    "facebook_integral": {
+      "identity": {
+        "payload": {
+          "integration": {
+            "id": "cmvzyur290001pddwolrt33em"
+          },
+          "value": [
+            {
+              "content": "Leonida muda de clima sem mudar de estado. Nas Keys, o olhar vai até o horizonte. Em Grassrivers, a vegetação esconde o que vem depois. A Rockstar usa a paisagem para criar sensações diferentes em cada região. Qual seria a sua primeira parada?\n\nAnálise visual de material promocional de GTA VI. Imagens: Rockstar Games. Fonte: https://www.rockstargames.com/VI/media\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+              "image": [
+                {
+                  "id": "",
+                  "path": "PENDING"
+                }
+              ],
+              "delay": 0
+            }
+          ],
+          "settings": {
+            "__type": "facebook",
+            "post_type": "post",
+            "title": "GTA 6 além de Vice City: seis lugares, seis climas"
+          }
+        },
+        "media_sha256": [
+          "ef890ce07cbb5238a6169e20558340abbffb71780bceb0da93665ecce811b46b"
+        ],
+        "thumbnail_sha256": null
+      },
+      "uploads": [
+        {
+          "id": "5398f6f2-ef5f-4c6b-87e9-c2d4fa87c540",
+          "name": "06f340e47ad38fa5832f810839e67c7c1.mp4",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/06f340e47ad38fa5832f810839e67c7c1.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "creation_attempted_at": "2026-11-04T18:16:23.684823+00:00",
+      "response": [
+        {
+          "postId": "cmw2fubd8001tmm970ax3intj",
+          "integration": "cmvzyur290001pddwolrt33em"
+        }
+      ],
+      "post_id": "cmw2fubd8001tmm970ax3intj",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/reel/1865357834818846",
+        "releaseId": "1865357834818846",
+        "error": null,
+        "publishDate": "2026-11-04T18:16:00.000Z"
+      }
+    },
+    "facebook_story": {
+      "identity": {
+        "payload": {
+          "integration": {
+            "id": "cmvzyur290001pddwolrt33em"
+          },
+          "value": [
+            {
+              "content": "Do horizonte ao pântano | Pixel Procurado L06",
+              "image": [
+                {
+                  "id": "",
+                  "path": "PENDING"
+                }
+              ],
+              "delay": 0
+            }
+          ],
+          "settings": {
+            "__type": "facebook",
+            "post_type": "story"
+          }
+        },
+        "media_sha256": [
+          "529b2a9b4609e96fa33afb27fe0475a05c6ca30388056f5cc62d22a9f2fba10b"
+        ],
+        "thumbnail_sha256": null
+      },
+      "uploads": [
+        {
+          "id": "b3bb0ddf-f156-47c7-bcba-5db93adfe12a",
+          "name": "90de8318964a1089b837e5cb55db57e1b.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/90de8318964a1089b837e5cb55db57e1b.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "creation_attempted_at": "2026-11-04T18:16:28.638511+00:00",
+      "response": [
+        {
+          "postId": "cmw2fuf2m001umm97tnugi4qi",
+          "integration": "cmvzyur290001pddwolrt33em"
+        }
+      ],
+      "post_id": "cmw2fuf2m001umm97tnugi4qi",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/stories/1292015400069235",
+        "releaseId": "1292015400069235",
+        "error": null,
+        "publishDate": "2026-11-04T18:16:00.000Z"
+      }
+    },
+    "facebook_multifoto": {
+      "identity": {
+        "payload": {
+          "integration": {
+            "id": "cmvzyur290001pddwolrt33em"
+          },
+          "value": [
+            {
+              "content": "Leonida em três contrastes: horizonte e vegetação, dois jeitos de iluminar a cidade, indústria e montanha. Veja os seis lugares lado a lado. Qual seria a sua primeira parada?\n\nImagens: Rockstar Games. Leitura visual do material promocional de GTA VI. Fonte: https://www.rockstargames.com/VI/media\n\n#GTA6 #PixelProcurado",
+              "image": [
+                {
+                  "id": "",
+                  "path": "PENDING"
+                },
+                {
+                  "id": "",
+                  "path": "PENDING"
+                },
+                {
+                  "id": "",
+                  "path": "PENDING"
+                },
+                {
+                  "id": "",
+                  "path": "PENDING"
+                }
+              ],
+              "delay": 0
+            }
+          ],
+          "settings": {
+            "__type": "facebook",
+            "post_type": "post"
+          }
+        },
+        "media_sha256": [
+          "41ac9e34879ab70fc46c11ad88f0c71ccaff9d4d92e9cc54b8a0c68ebb7baadb",
+          "d7f6b53ff85bf76258d0eeb0d96a15e5a5246cecc958b2895d237de5cc35933b",
+          "f7aa71b188b2375c0cd093a8e7d34fbe61ac55a06d671b939764dbd82b5cb05f",
+          "0d2dbe85fed3f20201dda7559ddc0420d2f48b3812bf2d5c3eec858b3fe86663"
+        ],
+        "thumbnail_sha256": null
+      },
+      "uploads": [
+        {
+          "id": "9bbac9cd-6faa-4608-b7e0-9e78280effed",
+          "name": "56e10c06aa159cf246a21eb7fde239afa.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/56e10c06aa159cf246a21eb7fde239afa.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        },
+        {
+          "id": "6a250ced-df5e-4f02-b468-a57ca2b5a22a",
+          "name": "58c44a01f9724720325a719caee71fc4.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/58c44a01f9724720325a719caee71fc4.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        },
+        {
+          "id": "ffa46f26-7a37-4c58-9d24-43689417ff78",
+          "name": "76268ee295bfd349b14f92e6abc62ccb.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/76268ee295bfd349b14f92e6abc62ccb.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        },
+        {
+          "id": "4a3a77c8-e63d-4f82-b15a-dc8672b4de58",
+          "name": "25342bd25811a27be9c4ff65e1075d12e.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/25342bd25811a27be9c4ff65e1075d12e.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "creation_attempted_at": "2026-11-04T18:16:42.604672+00:00",
+      "response": [
+        {
+          "postId": "cmw2fuqfm001vmm97umtr3geh",
+          "integration": "cmvzyur290001pddwolrt33em"
+        }
+      ],
+      "post_id": "cmw2fuqfm001vmm97umtr3geh",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.facebook.com/1174364174913578/posts/1174364578246871",
+        "releaseId": "519695118166323_1174364578246871",
+        "error": null,
+        "publishDate": "2026-11-04T18:16:00.000Z"
+      }
+    },
+    "instagram_reel": {
+      "identity": {
+        "payload": {
+          "integration": {
+            "id": "cmvzyw7vj0003pddwkgtivv8i"
+          },
+          "value": [
+            {
+              "content": "Em Vice City, a fachada do Ocean View faz a rua virar espetáculo. Em Port Gellhorn, o letreiro do Starlet Motel se destaca no entorno. O que muda na sua leitura da cena?\n\nTrecho de Leonida além de Vice City, do Pixel Procurado. Imagens oficiais de GTA VI: https://www.rockstargames.com/VI/media\nNarração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+              "image": [
+                {
+                  "id": "",
+                  "path": "PENDING"
+                }
+              ],
+              "delay": 0
+            }
+          ],
+          "settings": {
+            "__type": "instagram",
+            "post_type": "post"
+          }
+        },
+        "media_sha256": [
+          "036cd23e5d26c7f08750e5f21cacd5cd621ef2feaaaf60ca6cbbc86379a58280"
+        ],
+        "thumbnail_sha256": null
+      },
+      "uploads": [
+        {
+          "id": "9cc0a721-145c-4ba0-989e-05e90b3dd479",
+          "name": "f989be03dfc45743fdffb0afd5b14bd6.mp4",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/f989be03dfc45743fdffb0afd5b14bd6.mp4",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "creation_attempted_at": "2026-11-04T18:16:46.014292+00:00",
+      "response": [
+        {
+          "postId": "cmw2fusz6001wmm97hiftjt60",
+          "integration": "cmvzyw7vj0003pddwkgtivv8i"
+        }
+      ],
+      "post_id": "cmw2fusz6001wmm97hiftjt60",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/DfVFT6bCFQM/",
+        "releaseId": "18135825985671011",
+        "error": null,
+        "publishDate": "2026-11-04T18:16:00.000Z"
+      }
+    },
+    "instagram_story": {
+      "identity": {
+        "payload": {
+          "integration": {
+            "id": "cmvzyw7vj0003pddwkgtivv8i"
+          },
+          "value": [
+            {
+              "content": "Do horizonte ao pântano | Pixel Procurado L06",
+              "image": [
+                {
+                  "id": "",
+                  "path": "PENDING"
+                }
+              ],
+              "delay": 0
+            }
+          ],
+          "settings": {
+            "__type": "instagram",
+            "post_type": "story"
+          }
+        },
+        "media_sha256": [
+          "529b2a9b4609e96fa33afb27fe0475a05c6ca30388056f5cc62d22a9f2fba10b"
+        ],
+        "thumbnail_sha256": null
+      },
+      "uploads": [
+        {
+          "id": "b3bb0ddf-f156-47c7-bcba-5db93adfe12a",
+          "name": "90de8318964a1089b837e5cb55db57e1b.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/90de8318964a1089b837e5cb55db57e1b.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "creation_attempted_at": "2026-11-04T18:16:49.247626+00:00",
+      "response": [
+        {
+          "postId": "cmw2fuv5k001xmm97duwyvlnz",
+          "integration": "cmvzyw7vj0003pddwkgtivv8i"
+        }
+      ],
+      "post_id": "cmw2fuv5k001xmm97duwyvlnz",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/stories/pixelprocurado/4023144753563177396",
+        "releaseId": "18032871713885517",
+        "error": null,
+        "publishDate": "2026-11-04T18:16:00.000Z"
+      }
+    },
+    "instagram_carrossel": {
+      "identity": {
+        "payload": {
+          "integration": {
+            "id": "cmvzyw7vj0003pddwkgtivv8i"
+          },
+          "value": [
+            {
+              "content": "Leonida em três contrastes: horizonte e vegetação, dois jeitos de iluminar a cidade, indústria e montanha. Veja os seis lugares lado a lado. Qual seria a sua primeira parada?\n\nImagens: Rockstar Games. Leitura visual do material promocional de GTA VI. Fonte: https://www.rockstargames.com/VI/media\n\n#GTA6 #PixelProcurado",
+              "image": [
+                {
+                  "id": "",
+                  "path": "PENDING",
+                  "alt": "Capa Leonida além de Vice City. Imagens de Leonida Keys e Grassrivers."
+                },
+                {
+                  "id": "",
+                  "path": "PENDING",
+                  "alt": "Horizonte aberto nas Leonida Keys e margens fechadas pela vegetação em Grassrivers."
+                },
+                {
+                  "id": "",
+                  "path": "PENDING",
+                  "alt": "Fachadas iluminadas de Vice City e o letreiro de motel em Port Gellhorn."
+                },
+                {
+                  "id": "",
+                  "path": "PENDING",
+                  "alt": "Linhas industriais em Ambrosia e estrada ao lado dos paredões em Mount Kalaga."
+                }
+              ],
+              "delay": 0
+            }
+          ],
+          "settings": {
+            "__type": "instagram",
+            "post_type": "post"
+          }
+        },
+        "media_sha256": [
+          "41ac9e34879ab70fc46c11ad88f0c71ccaff9d4d92e9cc54b8a0c68ebb7baadb",
+          "d7f6b53ff85bf76258d0eeb0d96a15e5a5246cecc958b2895d237de5cc35933b",
+          "f7aa71b188b2375c0cd093a8e7d34fbe61ac55a06d671b939764dbd82b5cb05f",
+          "0d2dbe85fed3f20201dda7559ddc0420d2f48b3812bf2d5c3eec858b3fe86663"
+        ],
+        "thumbnail_sha256": null
+      },
+      "uploads": [
+        {
+          "id": "9bbac9cd-6faa-4608-b7e0-9e78280effed",
+          "name": "56e10c06aa159cf246a21eb7fde239afa.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/56e10c06aa159cf246a21eb7fde239afa.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        },
+        {
+          "id": "6a250ced-df5e-4f02-b468-a57ca2b5a22a",
+          "name": "58c44a01f9724720325a719caee71fc4.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/58c44a01f9724720325a719caee71fc4.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        },
+        {
+          "id": "ffa46f26-7a37-4c58-9d24-43689417ff78",
+          "name": "76268ee295bfd349b14f92e6abc62ccb.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/76268ee295bfd349b14f92e6abc62ccb.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        },
+        {
+          "id": "4a3a77c8-e63d-4f82-b15a-dc8672b4de58",
+          "name": "25342bd25811a27be9c4ff65e1075d12e.jpg",
+          "originalName": null,
+          "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/25342bd25811a27be9c4ff65e1075d12e.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      ],
+      "creation_attempted_at": "2026-11-04T18:16:53.600101+00:00",
+      "response": [
+        {
+          "postId": "cmw2fuzf1001ymm9764grqpgl",
+          "integration": "cmvzyw7vj0003pddwkgtivv8i"
+        }
+      ],
+      "post_id": "cmw2fuzf1001ymm9764grqpgl",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/p/DfVFPTvnGdW/",
+        "releaseId": "18223131115341928",
+        "error": null,
+        "publishDate": "2026-11-04T18:16:00.000Z"
+      }
+    },
+    "instagram_integral": {
+      "previous_attempts": [
+        {
+          "identity": {
+            "payload": {
+              "integration": {
+                "id": "cmvzyw7vj0003pddwkgtivv8i"
+              },
+              "value": [
+                {
+                  "content": "Episódio completo | Leonida além de Vice City.\n\nDo mar aberto das Keys ao pântano de Grassrivers, passando pelas luzes de Vice City e Port Gellhorn, pela indústria de Ambrosia e pelas montanhas de Kalaga. O que muda no seu olhar a cada paisagem?\n\nAnálise visual das imagens promocionais de GTA VI. Imagens: Rockstar Games. Narração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+                  "image": [
+                    {
+                      "id": "",
+                      "path": "PENDING"
+                    }
+                  ],
+                  "delay": 0
+                }
+              ],
+              "settings": {
+                "__type": "instagram",
+                "post_type": "post"
+              }
+            },
+            "media_sha256": [
+              "7f901fb877656e27466d8e19d10fa73cfa92d3855d77bff787f6b3274dbffe7e"
+            ],
+            "thumbnail_sha256": null
+          },
+          "uploads": [
+            {
+              "id": "9961c58c-f5a9-44b9-8ab3-930335729e77",
+              "name": "1c10f37cf0d5a6f54fea8121dee15d128.mp4",
+              "originalName": null,
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/1c10f37cf0d5a6f54fea8121dee15d128.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "creation_attempted_at": "2026-11-04T19:36:08.814848+00:00",
+          "response": [
+            {
+              "postId": "cmw2iovgy001zmm97d0u771lm",
+              "integration": "cmvzyw7vj0003pddwkgtivv8i"
+            }
+          ],
+          "post_id": "cmw2iovgy001zmm97d0u771lm",
+          "remote": {
+            "state": "ERROR",
+            "releaseURL": null,
+            "releaseId": null,
+            "error": "Instagram Video download failed",
+            "publishDate": "2026-11-04T19:36:00.000Z"
+          }
+        }
+      ],
+      "identity": {
+        "payload": {
+          "integration": {
+            "id": "cmvzyw7vj0003pddwkgtivv8i"
+          },
+          "value": [
+            {
+              "content": "Episódio completo | Leonida além de Vice City.\n\nDo mar aberto das Keys ao pântano de Grassrivers, passando pelas luzes de Vice City e Port Gellhorn, pela indústria de Ambrosia e pelas montanhas de Kalaga. O que muda no seu olhar a cada paisagem?\n\nAnálise visual das imagens promocionais de GTA VI. Imagens: Rockstar Games. Narração sintética com auxílio de IA.\n\n#GTA6 #GTAVI #PixelProcurado",
+              "image": [
+                {
+                  "id": "",
+                  "path": "PENDING"
+                }
+              ],
+              "delay": 0
+            }
+          ],
+          "settings": {
+            "__type": "instagram",
+            "post_type": "post"
+          }
+        },
+        "media_sha256": [
+          "2521f616178e44bb9581d277d9f4a436f9050ba06f551abd3d087c83944f7546"
+        ],
+        "thumbnail_sha256": null
+      },
+      "uploads": [],
+      "creation_attempted_at": "2026-11-04T19:52:20.495546+00:00",
+      "response": [
+        {
+          "postId": "cmw2j9os90020mm97h5y7l57w",
+          "integration": "cmvzyw7vj0003pddwkgtivv8i"
+        }
+      ],
+      "post_id": "cmw2j9os90020mm97h5y7l57w",
+      "remote": {
+        "state": "PUBLISHED",
+        "releaseURL": "https://www.instagram.com/reel/DfVQOHwhDAQ/",
+        "releaseId": "18100710884090183",
+        "error": null,
+        "publishDate": "2026-11-04T19:52:00.000Z"
+      }
+    }
+  },
+  "media_by_sha256": {
+    "5dd1b491627948635b5f6b2702b4bdd20a14ef9b37340400209c9f58b6fe497b": {
+      "id": "5c981520-b3fc-486c-9846-8fa1f90eb8bf",
+      "name": "22090bb2f42ef32db7c842e372410fdd4.mp4",
+      "originalName": null,
+      "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/22090bb2f42ef32db7c842e372410fdd4.mp4",
+      "thumbnail": null,
+      "alt": null,
+      "status": "ready"
+    },
+    "036cd23e5d26c7f08750e5f21cacd5cd621ef2feaaaf60ca6cbbc86379a58280": {
+      "id": "9cc0a721-145c-4ba0-989e-05e90b3dd479",
+      "name": "f989be03dfc45743fdffb0afd5b14bd6.mp4",
+      "originalName": null,
+      "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/f989be03dfc45743fdffb0afd5b14bd6.mp4",
+      "thumbnail": null,
+      "alt": null,
+      "status": "ready"
+    },
+    "ef890ce07cbb5238a6169e20558340abbffb71780bceb0da93665ecce811b46b": {
+      "id": "5398f6f2-ef5f-4c6b-87e9-c2d4fa87c540",
+      "name": "06f340e47ad38fa5832f810839e67c7c1.mp4",
+      "originalName": null,
+      "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/06f340e47ad38fa5832f810839e67c7c1.mp4",
+      "thumbnail": null,
+      "alt": null,
+      "status": "ready"
+    },
+    "529b2a9b4609e96fa33afb27fe0475a05c6ca30388056f5cc62d22a9f2fba10b": {
+      "id": "b3bb0ddf-f156-47c7-bcba-5db93adfe12a",
+      "name": "90de8318964a1089b837e5cb55db57e1b.jpg",
+      "originalName": null,
+      "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/90de8318964a1089b837e5cb55db57e1b.jpg",
+      "thumbnail": null,
+      "alt": null,
+      "status": "ready"
+    },
+    "41ac9e34879ab70fc46c11ad88f0c71ccaff9d4d92e9cc54b8a0c68ebb7baadb": {
+      "id": "9bbac9cd-6faa-4608-b7e0-9e78280effed",
+      "name": "56e10c06aa159cf246a21eb7fde239afa.jpg",
+      "originalName": null,
+      "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/56e10c06aa159cf246a21eb7fde239afa.jpg",
+      "thumbnail": null,
+      "alt": null,
+      "status": "ready"
+    },
+    "d7f6b53ff85bf76258d0eeb0d96a15e5a5246cecc958b2895d237de5cc35933b": {
+      "id": "6a250ced-df5e-4f02-b468-a57ca2b5a22a",
+      "name": "58c44a01f9724720325a719caee71fc4.jpg",
+      "originalName": null,
+      "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/58c44a01f9724720325a719caee71fc4.jpg",
+      "thumbnail": null,
+      "alt": null,
+      "status": "ready"
+    },
+    "f7aa71b188b2375c0cd093a8e7d34fbe61ac55a06d671b939764dbd82b5cb05f": {
+      "id": "ffa46f26-7a37-4c58-9d24-43689417ff78",
+      "name": "76268ee295bfd349b14f92e6abc62ccb.jpg",
+      "originalName": null,
+      "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/76268ee295bfd349b14f92e6abc62ccb.jpg",
+      "thumbnail": null,
+      "alt": null,
+      "status": "ready"
+    },
+    "0d2dbe85fed3f20201dda7559ddc0420d2f48b3812bf2d5c3eec858b3fe86663": {
+      "id": "4a3a77c8-e63d-4f82-b15a-dc8672b4de58",
+      "name": "25342bd25811a27be9c4ff65e1075d12e.jpg",
+      "originalName": null,
+      "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/25342bd25811a27be9c4ff65e1075d12e.jpg",
+      "thumbnail": null,
+      "alt": null,
+      "status": "ready"
+    },
+    "7f901fb877656e27466d8e19d10fa73cfa92d3855d77bff787f6b3274dbffe7e": {
+      "id": "9961c58c-f5a9-44b9-8ab3-930335729e77",
+      "name": "1c10f37cf0d5a6f54fea8121dee15d128.mp4",
+      "originalName": null,
+      "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/04/1c10f37cf0d5a6f54fea8121dee15d128.mp4",
+      "thumbnail": null,
+      "alt": null,
+      "status": "ready"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "status": "VALIDADO_TECNICO_COM_RESSALVAS_ASR",
+  "reported_at": "2026-11-18T11:43:03.434335-03:00",
+  "model": "gemini-3.8-flash-tts",
+  "voice": "voice_iagtq1gnk2br",
+  "human_listening": "NÃO OUVIDO POR HUMANO",
+  "valid_container_only": {
+    "B01": {
+      "duration": 47.6,
+      "rate": 24000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 1142400,
+      "bytes": 2292508
+    }
+  },
+  "completed_blocks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "missing_blocks": [],
+  "attempts": [
+    {
+      "process": "initial_batch",
+      "start": "2026-11-18T01:33:31-03:00",
+      "stop": "2026-11-18T02:00:49-03:00",
+      "B01": "WAV returned",
+      "B02": "request inconclusive; no WAV; process stopped after >25min",
+      "B03_to_B07": "not reached"
+    },
+    {
+      "block": 2,
+      "attempt": 2,
+      "start": "2026-11-18T02:03:52.707290",
+      "end": "2026-11-18T02:09:55.456384",
+      "pid": 67860,
+      "exit_code": 1,
+      "deadline_exceeded": true,
+      "wav_exists": false,
+      "cost": "indeterminado; API nao retorna valor monetario"
+    }
+  ],
+  "api_requests_actual": "desconhecidos; SDK pode retry automaticamente",
+  "monetary_cost": "desconhecido; timeout remoto pode ter custo",
+  "no_429_observed": true,
+  "sdk_evidence": ".venv-gemini/Lib/site-packages/google/genai/_gaos/interactions.py:59 timeout seconds; :429 timeout_ms; :495 retry config",
+  "medium": {
+    "source": "Systran/faster-whisper-medium via faster_whisper.utils.download_model",
+    "snapshot": "08e178d48790749d25932bbc082711ddcfdfbc4f",
+    "path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\.course-tools\\models\\models--Systran--faster-whisper-medium\\snapshots\\08e178d48790749d25932bbc082711ddcfdfbc4f\\model.bin",
+    "resolved_path": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\.course-tools\\models\\blobs\\4f\\4f4fbde9ef3dc7957f5a4474dd7399bf1d4f87ff951e6e4ce5c366d2ad91f427",
+    "bytes": 1527906378,
+    "sha256": "9B45E1009DCC4AB601EFF815B61D80E60CE3FD8C74C1A14F4A282258286B51AE"
+  },
+  "not_done": [
+    "human subjective listening"
+  ],
+  "next_action": "Áudio, alinhamento e cortes validados em 18/11/2026 às 11:43:03 BRT. Prosseguir com configuração, pré-voo, revisão independente e amostras antes dos renders finais. Preservar incertezas ASR e NÃO OUVIDO POR HUMANO; não repetir TTS/ASR sem evidência nova.",
+  "master": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\narracao_master_aprovado.wav",
+  "master_sha256": "888038a15e0a2731987504534092af97b1f7bba4f25b59161ddf1e77eb47d060",
+  "measurements": {
+    "duration": 385.48,
+    "rate": 48000,
+    "channels": 1,
+    "sample_width_bytes": 2,
+    "integrated_lufs": -16.3,
+    "true_peak_dbtp": -1.6,
+    "asr_small_words": 1036,
+    "asr_medium_words": 1046,
+    "timebase_identical_to_asr_reference": true,
+    "samples": 18503040
+  },
+  "retomada_attempts": [
+    {
+      "block": 2,
+      "cycle": "retomada0950",
+      "attempt_in_cycle": 1,
+      "start": "2026-11-18T09:59:49.337117-03:00",
+      "end": "2026-11-18T10:01:21.552114-03:00",
+      "pid": 32800,
+      "exit_code": 0,
+      "deadline_seconds": 240,
+      "deadline_exceeded": false,
+      "wav_exists": true,
+      "requests_sdk_actual": "desconhecidos",
+      "cost": "desconhecido"
+    },
+    {
+      "block": 3,
+      "cycle": "retomada0950",
+      "attempt_in_cycle": 1,
+      "start": "2026-11-18T10:01:21.607405-03:00",
+      "end": "2026-11-18T10:02:44.942145-03:00",
+      "pid": 10488,
+      "exit_code": 0,
+      "deadline_seconds": 240,
+      "deadline_exceeded": false,
+      "wav_exists": true,
+      "requests_sdk_actual": "desconhecidos",
+      "cost": "desconhecido"
+    },
+    {
+      "block": 4,
+      "cycle": "retomada0950",
+      "attempt_in_cycle": 1,
+      "start": "2026-11-18T10:02:45.035158-03:00",
+      "end": "2026-11-18T10:04:22.238421-03:00",
+      "pid": 68824,
+      "exit_code": 0,
+      "deadline_seconds": 240,
+      "deadline_exceeded": false,
+      "wav_exists": true,
+      "requests_sdk_actual": "desconhecidos",
+      "cost": "desconhecido"
+    },
+    {
+      "block": 5,
+      "cycle": "retomada0950",
+      "attempt_in_cycle": 1,
+      "start": "2026-11-18T10:04:22.280542-03:00",
+      "end": "2026-11-18T10:05:50.000999-03:00",
+      "pid": 52428,
+      "exit_code": 0,
+      "deadline_seconds": 240,
+      "deadline_exceeded": false,
+      "wav_exists": true,
+      "requests_sdk_actual": "desconhecidos",
+      "cost": "desconhecido"
+    },
+    {
+      "block": 6,
+      "cycle": "retomada0950",
+      "attempt_in_cycle": 1,
+      "start": "2026-11-18T10:05:50.032486-03:00",
+      "end": "2026-11-18T10:07:10.405428-03:00",
+      "pid": 45148,
+      "exit_code": 0,
+      "deadline_seconds": 240,
+      "deadline_exceeded": false,
+      "wav_exists": true,
+      "requests_sdk_actual": "desconhecidos",
+      "cost": "desconhecido"
+    },
+    {
+      "block": 7,
+      "cycle": "retomada0950",
+      "attempt_in_cycle": 1,
+      "start": "2026-11-18T10:07:10.435447-03:00",
+      "end": "2026-11-18T10:08:23.152366-03:00",
+      "pid": 63404,
+      "exit_code": 0,
+      "deadline_seconds": 240,
+      "deadline_exceeded": false,
+      "wav_exists": true,
+      "requests_sdk_actual": "desconhecidos",
+      "cost": "desconhecido"
+    }
+  ],
+  "alignment": "palavras_alinhadas.json (recognized medium words; proper names orthography only)",
+  "anchors": "ancoras_paragrafos.json",
+  "cuts": {
+    "reel": [
+      47.78,
+      99.86
+    ],
+    "story": [
+      0,
+      12.35
+    ],
+    "dur": 385.48,
+    "master": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\narracao_master_aprovado.wav",
+    "story_silence": [
+      12.02,
+      12.68
+    ],
+    "reel_paragraphs": [
+      4,
+      5,
+      6
+    ],
+    "story_paragraphs": [
+      1
+    ],
+    "qa_sample_exact": true,
+    "reel_wav": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\reel_narracao_aprovada.wav",
+    "story_wav": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_10_2026-11-18\\audio\\story_narracao_aprovada.wav"
+  },
+  "critical_facts": "Both ASR:19Nov;18Nov;8h;16h offset;18h video;10h elapsed;6h remaining;10Nov preload;20Nov bonus;Day11 tomorrow.",
+  "review_clips": "revisao/trechos_asr.json",
+  "uncertainties": [
+    "Greenwich/ASR granite; proper spelling correction only",
+    "imagens/margens ~242s",
+    "numa arte / nao acha / num action ~293s",
+    "ansiedade / a cidade de / a sociedade de ~321s",
+    "Shitzu Squalo phonetic segmentation ASR ~253s"
+  ]
+}

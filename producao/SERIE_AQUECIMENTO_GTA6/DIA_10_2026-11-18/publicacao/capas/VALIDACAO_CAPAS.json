@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "variante": "longo_A",
+      "resolucao": [
+        1280,
+        720
+      ],
+      "bytes_jpg": 127352
+    },
+    {
+      "variante": "longo_B",
+      "resolucao": [
+        1280,
+        720
+      ],
+      "bytes_jpg": 129527
+    },
+    {
+      "variante": "vertical_A",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "bytes_jpg": 309496
+    },
+    {
+      "variante": "vertical_B",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "bytes_jpg": 313413
+    }
+  ],
+  "inspecao_visual": {
+    "data": "2026-11-18T02:24:08-03:00",
+    "folha": "folha_capas.jpg",
+    "visto": true,
+    "frases_legiveis": true,
+    "olhos_preservados": true,
+    "logo_visivel": true
+  },
+  "revisao_independente_final": "pendente",
+  "upload": false
+}

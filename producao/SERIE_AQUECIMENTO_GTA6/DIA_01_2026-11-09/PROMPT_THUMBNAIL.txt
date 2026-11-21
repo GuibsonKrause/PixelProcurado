@@ -1,0 +1,6 @@
+Modo: imagegen integrado; arte-base sem texto/logo, montagem editorial referenciada ao frame genuíno364.9s.
+Prompt: Cinematic editorial YouTube thumbnail base art16:9. Same man in plain off-white tee and backwards olive cap beside driver door of dark-red classic muscle car in sunlit Florida parking lot. Close-up window/handle and concentrated upper body on right; left45percent dark graphite negative space. Warm yellow rim light, realistic game promotional textures. No HUD, invented button icons, text, logo, watermark, weapons or broken glass. Do not reproduce mural lettering.
+
+Identidade aplicada deterministicamente com compose_thumbnail.py e logo oficial GTA VI.
+A: ESQUECE / O GTA5. B: QUAL / BOTÃO?
+Mesma arte, layout e cores; variante altera apenas frase para comparação mais clara. Não são capturas do jogo nem material oficial.

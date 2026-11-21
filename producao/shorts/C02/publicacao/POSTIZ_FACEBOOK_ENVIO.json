@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-03T01:12:29.068287+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyur290001pddwolrt33em"
+      },
+      "value": [
+        {
+          "content": "Jason e Lucia podem querer uma vida melhor e discordar do caminho. 🎮\n\nSossego e controle parecem combinar… até uma oportunidade aumentar o risco para os dois. Essa é uma leitura dos perfis e da premissa de GTA 6, não uma missão confirmada nem uma previsão de traição.\n\nQuem você acha que hesitaria primeiro: Jason ou Lucia?\n\nFontes: https://www.rockstargames.com/VI/only-in-leonida e https://www.rockstargames.com/VI/trailer-2\n\nImagens: Rockstar Games. Análise e edição: Pixel Procurado. Narração sintética: Gemini TTS.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/01/381e77363510b1cae4dd2226a75ae8c43.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "facebook",
+        "post_type": "post",
+        "title": "Jason e Lucia: o mesmo sonho pode virar conflito em GTA 6"
+      }
+    }
+  ]
+}

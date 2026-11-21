@@ -1,0 +1,476 @@
+[
+  {
+    "type": "replace",
+    "ref": "meia-noite",
+    "asr": "meia -noite",
+    "time": 0.28
+  },
+  {
+    "type": "delete",
+    "ref": "é",
+    "asr": "",
+    "time": 2.22
+  },
+  {
+    "type": "replace",
+    "ref": "seis,",
+    "asr": "VI,",
+    "time": 3.08
+  },
+  {
+    "type": "replace",
+    "ref": "vinte e quatro",
+    "asr": "24",
+    "time": 15.14
+  },
+  {
+    "type": "replace",
+    "ref": "tá",
+    "asr": "está",
+    "time": 30.3
+  },
+  {
+    "type": "replace",
+    "ref": "seis",
+    "asr": "VI",
+    "time": 33.36
+  },
+  {
+    "type": "replace",
+    "ref": "dezenove",
+    "asr": "19",
+    "time": 34.2
+  },
+  {
+    "type": "replace",
+    "ref": "meia-noite",
+    "asr": "meia -noite",
+    "time": 35.52
+  },
+  {
+    "type": "replace",
+    "ref": "cinco",
+    "asr": "5",
+    "time": 36.48
+  },
+  {
+    "type": "replace",
+    "ref": "meia-noite",
+    "asr": "meia -noite",
+    "time": 44.54
+  },
+  {
+    "type": "replace",
+    "ref": "instante",
+    "asr": "estante",
+    "time": 45.98
+  },
+  {
+    "type": "delete",
+    "ref": "antes.",
+    "asr": "",
+    "time": 49.22
+  },
+  {
+    "type": "replace",
+    "ref": "meia-noite",
+    "asr": "meia -noite",
+    "time": 52.44
+  },
+  {
+    "type": "replace",
+    "ref": "dezenove",
+    "asr": "19",
+    "time": 53.06
+  },
+  {
+    "type": "replace",
+    "ref": "oito",
+    "asr": "8",
+    "time": 54.72
+  },
+  {
+    "type": "replace",
+    "ref": "dezoito",
+    "asr": "18",
+    "time": 55.78
+  },
+  {
+    "type": "replace",
+    "ref": "dezesseis",
+    "asr": "16",
+    "time": 58.48
+  },
+  {
+    "type": "replace",
+    "ref": "o",
+    "asr": "um",
+    "time": 63.24
+  },
+  {
+    "type": "replace",
+    "ref": "Às dezoito",
+    "asr": "Há 18",
+    "time": 66.1
+  },
+  {
+    "type": "replace",
+    "ref": "dezoito",
+    "asr": "18",
+    "time": 67.14
+  },
+  {
+    "type": "replace",
+    "ref": "para",
+    "asr": "por",
+    "time": 69.48
+  },
+  {
+    "type": "replace",
+    "ref": "há dez",
+    "asr": "a 10",
+    "time": 72.66
+  },
+  {
+    "type": "replace",
+    "ref": "seis",
+    "asr": "6",
+    "time": 74.5
+  },
+  {
+    "type": "replace",
+    "ref": "a meia-noite.",
+    "asr": "meia -noite.",
+    "time": 75.14
+  },
+  {
+    "type": "replace",
+    "ref": "conseguiram",
+    "asr": "conseguem",
+    "time": 78.98
+  },
+  {
+    "type": "insert",
+    "ref": "",
+    "asr": "as",
+    "time": 85.06
+  },
+  {
+    "type": "replace",
+    "ref": "silencie",
+    "asr": "Selencie em",
+    "time": 86.36
+  },
+  {
+    "type": "replace",
+    "ref": "houver essa",
+    "asr": "houvesse a",
+    "time": 87.8
+  },
+  {
+    "type": "replace",
+    "ref": "reduzem",
+    "asr": "reduz",
+    "time": 92.98
+  },
+  {
+    "type": "replace",
+    "ref": "pra",
+    "asr": "para",
+    "time": 101.16
+  },
+  {
+    "type": "insert",
+    "ref": "",
+    "asr": "a",
+    "time": 104.48
+  },
+  {
+    "type": "replace",
+    "ref": "Pra estas",
+    "asr": "Para essas",
+    "time": 134.46
+  },
+  {
+    "type": "replace",
+    "ref": "Pedir ao algoritmo pra",
+    "asr": "Pidei algo ou ritmo para",
+    "time": 139.92
+  },
+  {
+    "type": "replace",
+    "ref": "segredo",
+    "asr": "a segreda",
+    "time": 141.3
+  },
+  {
+    "type": "replace",
+    "ref": "pra",
+    "asr": "para",
+    "time": 143.1
+  },
+  {
+    "type": "delete",
+    "ref": "a",
+    "asr": "",
+    "time": 153.32
+  },
+  {
+    "type": "insert",
+    "ref": "",
+    "asr": "lançado",
+    "time": 158.7
+  },
+  {
+    "type": "replace",
+    "ref": "dez",
+    "asr": "10",
+    "time": 168.66
+  },
+  {
+    "type": "replace",
+    "ref": "à meia-noite",
+    "asr": "Há meia noite",
+    "time": 169.98
+  },
+  {
+    "type": "replace",
+    "ref": "cinco",
+    "asr": "5",
+    "time": 171.24
+  },
+  {
+    "type": "replace",
+    "ref": "Greenwich",
+    "asr": "granite",
+    "time": 173.1
+  },
+  {
+    "type": "replace",
+    "ref": "Ter o",
+    "asr": "Teu",
+    "time": 178.68
+  },
+  {
+    "type": "replace",
+    "ref": "há",
+    "asr": "tem",
+    "time": 193.6
+  },
+  {
+    "type": "replace",
+    "ref": "noventa e nove por cento",
+    "asr": "99 %",
+    "time": 198.84
+  },
+  {
+    "type": "delete",
+    "ref": "o",
+    "asr": "",
+    "time": 210.32
+  },
+  {
+    "type": "replace",
+    "ref": "exigir",
+    "asr": "exerir",
+    "time": 215.18
+  },
+  {
+    "type": "replace",
+    "ref": "separa",
+    "asr": "separe",
+    "time": 231.22
+  },
+  {
+    "type": "replace",
+    "ref": "Pra",
+    "asr": "Para",
+    "time": 237.64
+  },
+  {
+    "type": "replace",
+    "ref": "uma",
+    "asr": "a",
+    "time": 241.14
+  },
+  {
+    "type": "replace",
+    "ref": "imagens",
+    "asr": "margens",
+    "time": 241.82
+  },
+  {
+    "type": "replace",
+    "ref": "recomendação",
+    "asr": "recomeração",
+    "time": 244.84
+  },
+  {
+    "type": "delete",
+    "ref": "a",
+    "asr": "",
+    "time": 248.44
+  },
+  {
+    "type": "replace",
+    "ref": "Grotti Cheetah",
+    "asr": "Grotch Tita,",
+    "time": 249.68
+  },
+  {
+    "type": "replace",
+    "ref": "noventa e cinco",
+    "asr": "95,",
+    "time": 251.06
+  },
+  {
+    "type": "replace",
+    "ref": "Shitzu",
+    "asr": "Ashitsu",
+    "time": 252.78
+  },
+  {
+    "type": "replace",
+    "ref": "descreve",
+    "asr": "de escreve",
+    "time": 255.0
+  },
+  {
+    "type": "replace",
+    "ref": "o Vintage Vice City",
+    "asr": "ouvindo a device sit",
+    "time": 266.54
+  },
+  {
+    "type": "replace",
+    "ref": "o",
+    "asr": "ou",
+    "time": 270.72
+  },
+  {
+    "type": "replace",
+    "ref": "vinte",
+    "asr": "20",
+    "time": 274.98
+  },
+  {
+    "type": "replace",
+    "ref": "Stanier,",
+    "asr": "estânea,",
+    "time": 277.3
+  },
+  {
+    "type": "replace",
+    "ref": "numa arte",
+    "asr": "não acha",
+    "time": 293.44
+  },
+  {
+    "type": "replace",
+    "ref": "procure",
+    "asr": "procura",
+    "time": 307.56
+  },
+  {
+    "type": "insert",
+    "ref": "",
+    "asr": "e",
+    "time": 314.22
+  },
+  {
+    "type": "replace",
+    "ref": "Nossa",
+    "asr": "Nosso",
+    "time": 315.82
+  },
+  {
+    "type": "replace",
+    "ref": "Apertar",
+    "asr": "Aperta",
+    "time": 318.92
+  },
+  {
+    "type": "replace",
+    "ref": "trinta",
+    "asr": "30",
+    "time": 319.9
+  },
+  {
+    "type": "replace",
+    "ref": "ansiedade em",
+    "asr": "a cidade de",
+    "time": 321.14
+  },
+  {
+    "type": "replace",
+    "ref": "ao",
+    "asr": "ou",
+    "time": 324.06
+  },
+  {
+    "type": "delete",
+    "ref": "a",
+    "asr": "",
+    "time": 326.02
+  },
+  {
+    "type": "replace",
+    "ref": "pra",
+    "asr": "para",
+    "time": 327.54
+  },
+  {
+    "type": "insert",
+    "ref": "",
+    "asr": "a",
+    "time": 330.1
+  },
+  {
+    "type": "insert",
+    "ref": "",
+    "asr": "a",
+    "time": 331.0
+  },
+  {
+    "type": "replace",
+    "ref": "pra",
+    "asr": "para",
+    "time": 332.3
+  },
+  {
+    "type": "replace",
+    "ref": "meia-noite",
+    "asr": "meia -noite",
+    "time": 357.74
+  },
+  {
+    "type": "delete",
+    "ref": "o",
+    "asr": "",
+    "time": 367.08
+  },
+  {
+    "type": "replace",
+    "ref": "onze",
+    "asr": "11,",
+    "time": 367.28
+  },
+  {
+    "type": "replace",
+    "ref": "do",
+    "asr": "no",
+    "time": 369.7
+  },
+  {
+    "type": "replace",
+    "ref": "entrar",
+    "asr": "Entra",
+    "time": 379.92
+  },
+  {
+    "type": "replace",
+    "ref": "Deixa",
+    "asr": "Deixe",
+    "time": 383.18
+  }
+]

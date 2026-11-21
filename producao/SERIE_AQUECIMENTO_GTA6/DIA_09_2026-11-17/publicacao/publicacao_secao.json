@@ -1,0 +1,123 @@
+{
+ "canais": {
+  "youtube": "cmvsctfgl0001jncj932ovibv",
+  "facebook": "cmvzyur290001pddwolrt33em",
+  "instagram": "cmvzyw7vj0003pddwkgtivv8i"
+ },
+ "data_padrao": "2026-11-17T21:00:00.000Z",
+ "estado": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/POSTIZ_ESTADO.json",
+ "pasta_envio": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao",
+ "tags_youtube": [
+  "GTA 6",
+  "GTA VI",
+  "Grand Theft Auto VI",
+  "GTA 6 Vice City",
+  "GTA 6 Boobie Ike",
+  "GTA 6 Jack of Hearts",
+  "GTA 6 trailer",
+  "GTA 6 An Extended Look",
+  "GTA 6 Rockstar",
+  "GTA 6 19 de novembro",
+  "GTA 6 aquecimento",
+  "Real Dimez",
+  "Pixel Procurado"
+ ],
+ "youtube_visibilidade": "public",
+ "textos": {
+  "longo": "No Dia 9 do aquecimento (terça, 17/11, faltando 2 dias para 19 de novembro), eu conferi quadro a quadro o que o vídeo oficial An Extended Look mostra da noite de Vice City: o cartaz de ID check, o logo do Jack of Hearts, a festa, o elevador e o tiroteio no andar de cima. E li o que a Rockstar escreveu nas páginas oficiais de Boobie Ike, Dre'Quan e Real Dimez.\n\nOntem eu prometi balada, Boobie Ike, terno e pistola silenciada na cobertura. Resultado da conferência: o cartaz de ID check está lá; o terno aparece; e uma pistola com silenciador aparece caída no chão por volta de 25:37 do vídeo oficial. Quem usou, e se aquele andar é uma cobertura, não está confirmado.\n\nCapítulos:\n0:00 A porta: Vice City pede documento\n0:24 As regras de hoje\n0:41 Jack of Hearts: o que o cartaz diz\n1:05 Boobie Ike segundo a Rockstar\n1:31 Dre'Quan e a Only Raw Records\n1:57 Real Dimez\n2:20 A frase da página de Vice City\n2:36 Arte oficial de uma noite em Vice City\n2:54 O terraço de dia\n3:16 O hall da festa\n3:35 O elevador\n3:52 O andar de cima\n4:10 A festa azul\n4:22 A virada: tiroteio\n4:42 Os mascarados\n5:03 A promessa de ontem: a pistola\n5:32 Cobertura e terno\n6:01 Os cortes finais do vídeo\n6:17 O que eu não sei\n6:41 Amanhã: Dia 10\n\nFontes oficiais (consulta em 17/11/2026):\n- Rockstar Games, Boobie Ike: https://www.rockstargames.com/VI/boobie\n- Rockstar Games, Dre'Quan, Real Dimez e Only Raw Records: https://www.rockstargames.com/VI/dimez\n- Rockstar Games, Vice City: https://www.rockstargames.com/VI/vice-city\n- Rockstar Games, Jason: https://www.rockstargames.com/VI/jason\n- Vídeo oficial An Extended Look (Rockstar Games)\n\nCombinado do canal: só descrevo o que a imagem oficial mostra e o que a Rockstar escreveu. Hipótese vem como hipótese; o que não tem fonte fica como não confirmado. Não é conselho de compra. Imagens e vídeos do jogo: Rockstar Games. A narração é gerada por voz sintética.\n\nAmanhã: Dia 10, o protocolo das últimas 24 horas antes do lançamento. Se inscreve no canal.\n\n#GTA6 #GTAVI #ViceCity #BoobieIke #PixelProcurado",
+  "meta_longo": "Vice City pede documento na porta: o cartaz de ID check, o logo do Jack of Hearts, a festa, o elevador e o tiroteio, como aparecem no vídeo oficial An Extended Look. Boobie Ike, Dre'Quan e Real Dimez segundo a Rockstar. Uma pistola com silenciador aparece no chão por volta de 25:37; quem usou e se é cobertura: não confirmado. Terça 17/11, faltam 2 dias para 19/11. #GTA6 #GTAVI #ViceCity #PixelProcurado",
+  "short": "Vice City pede documento na porta. A Rockstar descreve Boobie Ike como dono de imóveis, um clube de strip e um estúdio. No vídeo oficial: festa, elevador, tiroteio e uma pistola com silenciador no chão (25:37). Quem usou: não confirmado. Vídeo completo no canal. Faltam 2 dias para 19/11. #GTA6 #GTAVI #PixelProcurado",
+  "story": "Dia 9 no ar: Vice City pede documento na porta. Amanhã, quarta 18/11: Dia 10, o protocolo das últimas 24 horas. Faltam 2 dias para 19/11.",
+  "carrossel": "Vice City pede documento na porta. Deslize: o que a Rockstar escreveu sobre Boobie Ike, o que o vídeo oficial mostra e o que não está confirmado. Não é conselho de compra. Vídeo completo no canal. Faltam 2 dias para 19/11. #GTA6 #GTAVI #PixelProcurado"
+ },
+ "pecas": [
+  {
+   "chave": "youtube_longo",
+   "rede": "youtube",
+   "tipo": "post",
+   "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/exportacoes/Pixel_Procurado_DIA09_Longo_V2.mp4",
+   "texto": "longo",
+   "titulo": "Vice City Pede Documento na Porta: o Que o Vídeo Oficial Mostra da Noite do GTA 6",
+   "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/capas/capa_longo_B.jpg"
+  },
+  {
+   "chave": "youtube_short",
+   "rede": "youtube",
+   "tipo": "post",
+   "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_reel/exportacoes/Pixel_Procurado_DIA09_Reel_V2.mp4",
+   "texto": "short",
+   "titulo": "GTA 6: Vice City Pede Documento #shorts",
+   "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/capas/capa_vertical_B.jpg"
+  },
+  {
+   "chave": "facebook_integral",
+   "rede": "facebook",
+   "tipo": "post",
+   "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/exportacoes/Pixel_Procurado_DIA09_Longo_V2.mp4",
+   "texto": "meta_longo",
+   "titulo": "Vice City Pede Documento na Porta: o Que o Vídeo Oficial Mostra da Noite do GTA 6"
+  },
+  {
+   "chave": "facebook_curto",
+   "rede": "facebook",
+   "tipo": "post",
+   "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_reel/exportacoes/Pixel_Procurado_DIA09_Reel_V2.mp4",
+   "texto": "short",
+   "titulo": "GTA 6: Vice City Pede Documento"
+  },
+  {
+   "chave": "facebook_story",
+   "rede": "facebook",
+   "tipo": "story",
+   "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_story/exportacoes/Pixel_Procurado_DIA09_Story_V2.mp4",
+   "texto": "story"
+  },
+  {
+   "chave": "instagram_integral",
+   "rede": "instagram",
+   "tipo": "post",
+   "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_vertical/exportacoes/Pixel_Procurado_DIA09_Vertical_V2.mp4",
+   "texto": "meta_longo",
+   "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/capas/capa_vertical_B.jpg"
+  },
+  {
+   "chave": "instagram_reel",
+   "rede": "instagram",
+   "tipo": "post",
+   "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_reel/exportacoes/Pixel_Procurado_DIA09_Reel_V2.mp4",
+   "texto": "short",
+   "capa": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/capas/capa_vertical_B.jpg"
+  },
+  {
+   "chave": "instagram_story",
+   "rede": "instagram",
+   "tipo": "story",
+   "midia": "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/_story/exportacoes/Pixel_Procurado_DIA09_Story_V2.mp4",
+   "texto": "story"
+  },
+  {
+   "chave": "facebook_multifoto",
+   "rede": "facebook",
+   "tipo": "post",
+   "midia": [
+    "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/01.jpg",
+    "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/02.jpg",
+    "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/03.jpg",
+    "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/04.jpg"
+   ],
+   "texto": "carrossel"
+  },
+  {
+   "chave": "instagram_carrossel",
+   "rede": "instagram",
+   "tipo": "post",
+   "midia": [
+    "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/01.jpg",
+    "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/02.jpg",
+    "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/03.jpg",
+    "producao/SERIE_AQUECIMENTO_GTA6/DIA_09_2026-11-17/publicacao/carrossel/04.jpg"
+   ],
+   "texto": "carrossel"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+L03 — A MESMA / SENSAÇÃO?
+
+Método: uma geração com ferramenta integrada image_gen, sem texto ou logo. Composição posterior determinística em Pillow/Python 3.12. Montagem editorial ilustrada, não captura oficial, gameplay, comparação do mesmo endereço nem evidência de mecânica. Figuras anônimas simbolizam o espetáculo filmado; não retratam Real Dimez ou outras personagens oficiais.
+
+PROMPT EXATO
+Use case: stylized-concept.
+Asset type: text-free base illustration for a Brazilian video essay YouTube thumbnail, landscape 16:9, 1920x1080.
+Primary request: A striking cinematic editorial illustration contrasting the nostalgic tropical 1980s atmosphere of Vice City with contemporary phone-mediated spectacle. This is clearly expressive editorial concept artwork, never official gameplay or a purported new screenshot.
+Composition: the leftmost 45 percent is mostly deep graphite negative space with faint palm shadows, reserved for later headline. In the right half, a large upright modern smartphone held naturally by a single anonymous hand occupies the main foreground and fills roughly 45 percent of image height, its complete rectangular silhouette clearly readable. On the phone screen are only TWO small anonymous female performer silhouettes standing atop the hood of a parked car, with several spectators below holding tiny illuminated phones; make it recognizable as a performance being filmed, not a photo app interface. Behind the large phone, an evocative night boulevard of tall palms and pink/turquoise Art Deco neon hotels recedes into warm sunset haze. In the lower-middle background, one small red boxy 1980s convertible recalls the classic era. Different evocative motifs within an editorial collage, not a before-after comparison or a reconstruction of one address. Keep upper-right 22 percent quiet for a logo to be added later.
+Style: premium illustrated game editorial cover, painterly edges, tactile film grain, strong graphic silhouettes, crisp foreground phone, stylized rather than photorealistic, selective vivid neon against charcoal shadows.
+Lighting: warm sunset on the boulevard, pink and cyan rims around phone, deep shadow left.
+Constraints: NO words, letters, logos, watermarks, interface labels, arrows, numbers or signage text anywhere. No named or recognizable game characters. No guns. No excessive detail, no nudity. The phone hand has natural anatomy. Do not fill the left negative space. One dominant focal object, unmistakably the smartphone filming the street spectacle.
+
+Frase aplicada: A MESMA / SENSAÇÃO?
+Identificação de comparação: VICE CITY: CLÁSSICA × NOVA
+Marca: PIXEL / PROCURADO; logo oficial GTA VI do asset aprovado da skill.
+Direção: preservar a tensão entre memória tropical do clássico e cultura do celular descrita no roteiro, sem afirmar retorno de Tommy ou reconstrução do mapa. Branco e amarelo #FFD33D, fundo grafite, celular como assunto dominante.

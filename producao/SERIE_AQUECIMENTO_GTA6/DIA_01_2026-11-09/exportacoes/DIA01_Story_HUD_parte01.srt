@@ -1,0 +1,23 @@
+1
+00:00:00,007 --> 00:00:01,787
+No primeiro dia de jogo, gravar essa
+
+2
+00:00:01,787 --> 00:00:03,147
+regra já salva a sua pele:
+
+3
+00:00:03,787 --> 00:00:05,227
+círculo é pra quando a rua já
+
+4
+00:00:05,227 --> 00:00:05,967
+tá pegando fogo;
+
+5
+00:00:06,707 --> 00:00:08,367
+triângulo é pra quando você quer sair
+
+6
+00:00:08,367 --> 00:00:09,887
+vivo sem chamar a cavalaria.

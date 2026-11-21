@@ -1,0 +1,157 @@
+[
+  {
+    "time": 0.58,
+    "recognized": "que é",
+    "script": "quer"
+  },
+  {
+    "time": 4.42,
+    "recognized": "VI,",
+    "script": "seis,"
+  },
+  {
+    "time": 9.34,
+    "recognized": "representações",
+    "script": "apresentações"
+  },
+  {
+    "time": 23.02,
+    "recognized": "quiz.",
+    "script": "Keys."
+  },
+  {
+    "time": 28.9,
+    "recognized": "continua",
+    "script": "continuou"
+  },
+  {
+    "time": 34.58,
+    "recognized": "Queria",
+    "script": "Querer"
+  },
+  {
+    "time": 50.08,
+    "recognized": "do",
+    "script": "de"
+  },
+  {
+    "time": 93.96,
+    "recognized": "está",
+    "script": "estar"
+  },
+  {
+    "time": 107.02,
+    "recognized": "o",
+    "script": "a"
+  },
+  {
+    "time": 108.5,
+    "recognized": "o",
+    "script": ""
+  },
+  {
+    "time": 123.94,
+    "recognized": "associá -la",
+    "script": "associá-la"
+  },
+  {
+    "time": 126.9,
+    "recognized": "desdeços",
+    "script": "desejos"
+  },
+  {
+    "time": 133.76,
+    "recognized": "",
+    "script": "uma"
+  },
+  {
+    "time": 138.62,
+    "recognized": "mais",
+    "script": "mas"
+  },
+  {
+    "time": 144.06,
+    "recognized": "via",
+    "script": "vê"
+  },
+  {
+    "time": 150.44,
+    "recognized": "para",
+    "script": "podem"
+  },
+  {
+    "time": 153.42,
+    "recognized": "ser",
+    "script": "cena"
+  },
+  {
+    "time": 183.32,
+    "recognized": "Acentar",
+    "script": "aceitar"
+  },
+  {
+    "time": 188.02,
+    "recognized": "o",
+    "script": ""
+  },
+  {
+    "time": 190.66,
+    "recognized": "um",
+    "script": "o"
+  },
+  {
+    "time": 192.84,
+    "recognized": "a",
+    "script": ""
+  },
+  {
+    "time": 203.82,
+    "recognized": "consola",
+    "script": "com o sol"
+  },
+  {
+    "time": 218.0,
+    "recognized": "sinópsis.",
+    "script": "sinopse."
+  },
+  {
+    "time": 220.06,
+    "recognized": "faz a tensão",
+    "script": "me chama atenção"
+  },
+  {
+    "time": 247.8,
+    "recognized": "exita",
+    "script": "hesita"
+  },
+  {
+    "time": 249.7,
+    "recognized": "tem em",
+    "script": "teme"
+  },
+  {
+    "time": 252.8,
+    "recognized": "com a tela.",
+    "script": "cautela."
+  },
+  {
+    "time": 263.44,
+    "recognized": "ele",
+    "script": "de"
+  },
+  {
+    "time": 268.72,
+    "recognized": "6",
+    "script": "seis"
+  },
+  {
+    "time": 272.9,
+    "recognized": "faz",
+    "script": "faça"
+  },
+  {
+    "time": 279.8,
+    "recognized": "sobre",
+    "script": "sob"
+  }
+]

@@ -1,0 +1,337 @@
+{
+  "id": "DIA_07_2026-11-15__reel",
+  "titulo": "GTA 6: 11 Detalhes do Gameplay Que Você Só Lê Pausando",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "CRporta0718": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_porta_0718.jpg",
+    "CRnuvemchuva": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_nuvem_chuva.jpg",
+    "CRretratoscoracao": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_retratos_coracao.jpg",
+    "CRholdcasal": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_hold_casal.jpg",
+    "CRholdprompt": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_hold_prompt.jpg",
+    "CRfridgeprompt": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_fridge_prompt.jpg",
+    "CRmenu": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_menu.jpg",
+    "CRmenuverde": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_menu_verde.jpg",
+    "CRporta": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_porta.jpg",
+    "CRcachorro": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_cachorro.jpg",
+    "CRpanfleto": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_panfleto.jpg",
+    "CRcervejas": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_cervejas.jpg",
+    "CRtenis": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_tenis.jpg",
+    "CRtorneira": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_torneira.jpg",
+    "CRbocal": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_bocal.jpg",
+    "CRtvsuco": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_tv_suco.jpg",
+    "CRbarra": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_barra.jpg",
+    "CRbanco": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_banco.jpg",
+    "CRdrink": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_drink.jpg",
+    "CReat": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_eat.jpg",
+    "CRhomem0904": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_homem_0904.jpg",
+    "CRfundo0904": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_fundo_0904.jpg",
+    "CRsmoke": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_smoke.jpg",
+    "CRzoomprompt": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_zoom_prompt.jpg",
+    "CRvrjanela": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_vr_janela.jpg",
+    "CRvrrosto": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_vr_rosto.jpg",
+    "CRvrmaos": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_vr_maos.jpg",
+    "CRover21": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_over21.jpg",
+    "CRletra": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_letra.jpg",
+    "CRseguranca": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_seguranca.jpg",
+    "CRretratos": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_retratos.jpg",
+    "CRcarinhas": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_carinhas.jpg",
+    "CRtrocaamplo": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_troca_amplo.jpg",
+    "CRsatelite": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_satelite.jpg",
+    "CRchaoconcreto": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_chao_concreto.jpg",
+    "EXT0643": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0643.jpg",
+    "EXT0715": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0715.jpg",
+    "EXT0716": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0716.jpg",
+    "EXT0719": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0719.jpg",
+    "EXT0720": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0720.jpg",
+    "EXT0723": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0723.jpg",
+    "EXT0725": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0725.jpg",
+    "EXT0732": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0732.jpg",
+    "EXT0904": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0904.jpg",
+    "EXT0950": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0950.jpg",
+    "EXT1000": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_1000.jpg",
+    "EXT1220": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_1220.jpg",
+    "EXT1727": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_1727.jpg",
+    "EXT1734": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_1734.jpg",
+    "EXT1857": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_1857.jpg",
+    "CARTELAULTIMO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_ULTIMO.jpg",
+    "CARTELAICONES": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_ICONES.jpg",
+    "CARTELAALVO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_ALVO.jpg",
+    "CARTELATRIANGULO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_TRIANGULO.jpg",
+    "CARTELASEMTEXTO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_SEM_TEXTO.jpg",
+    "CARTELAHIPOTESE": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_HIPOTESE.jpg",
+    "CARTELASOBOTAO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_SO_BOTAO.jpg",
+    "CARTELAQUINTA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_QUINTA.jpg",
+    "COLAGEM11": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/COLAGEM_11.jpg",
+    "COLAGEMVICIOS": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/COLAGEM_VICIOS.jpg",
+    "DIVIDIDADRINKEAT": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/DIVIDIDA_DRINK_EAT.jpg",
+    "DIVIDIDABINOCULOHEADSET": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/DIVIDIDA_BINOCULO_HEADSET.jpg",
+    "MINIATURASTV": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/MINIATURAS_TV.jpg",
+    "DESFOQUE2527": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/DESFOQUE_2527.jpg"
+  },
+  "correcoes_legenda": {
+    "r": "R",
+    "hold": "HOLD",
+    "hands": "HANDS",
+    "fridge": "FRIDGE",
+    "drink": "DRINK",
+    "drop": "DROP",
+    "eat": "EAT",
+    "smoke": "SMOKE",
+    "zoom": "ZOOM",
+    "id": "ID",
+    "check": "Check",
+    "over": "OVER",
+    "only": "ONLY",
+    "logger": "Logger",
+    "lavazas": "Lavazas",
+    "blitz": "Blitz",
+    "berry": "Berry",
+    "green": "Green",
+    "smoothie": "Smoothie",
+    "beer": "Beer",
+    "fleeca": "Fleeca",
+    "lombank": "Lombank",
+    "frugality": "Frugality",
+    "fools": "Fools",
+    "leonida": "Leonida",
+    "rockstar": "Rockstar",
+    "gta": "GTA",
+    "ps": "PS"
+  },
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_DIA07_Reel_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/_reel/audio/narracao.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/_reel/audio/palavras.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRholdcasal",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0.0,
+            2.96
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "PROMESSA DO DIA 6",
+          "detalhe": "mão dada + geladeira",
+          "midia": "EXT0950",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            2.96,
+            6.58
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRporta0718",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            6.58,
+            12.16
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "HOLD HANDS • R2",
+          "detalhe": "09:50 • casal no terraço",
+          "midia": "EXT",
+          "inicio": 591.0,
+          "tipo": "editorial",
+          "corte": [
+            12.16,
+            24.33
+          ]
+        },
+        {
+          "titulo": "R3 → R2",
+          "detalhe": "09:50 • minha anotação errou",
+          "midia": "CRholdprompt",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            24.33,
+            28.17
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 603.2,
+          "tipo": "editorial",
+          "corte": [
+            28.17,
+            30.97
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0715",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            30.97,
+            32.78
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 436.35,
+          "tipo": "editorial",
+          "corte": [
+            32.78,
+            34.18
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0716",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            34.18,
+            38.06
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "FRIDGE • △",
+          "detalhe": "07:16 • prompt no triângulo",
+          "midia": "CRfridgeprompt",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            38.06,
+            41.2
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 438.15,
+          "tipo": "editorial",
+          "corte": [
+            41.2,
+            43.02
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "MENU DA GELADEIRA",
+          "detalhe": "07:18 • Logger Beer, Lavazas Beer, Blitz Berry",
+          "midia": "CRmenu",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            43.02,
+            47.4
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "BLITZ GREEN: APAGADO",
+          "detalhe": "07:19 • último item do menu, esmaecido",
+          "midia": "CRmenuverde",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            47.4,
+            50.53
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRporta",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            50.53,
+            54.7
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRcachorro",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            54.7,
+            56.49
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRpanfleto",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            56.49,
+            60.74
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ECONOMIZAR É COISA DE TROUXA",
+          "detalhe": "tradução livre do panfleto",
+          "midia": "EXT0719",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            60.74,
+            64.52
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "VÍDEO COMPLETO NO CANAL",
+          "detalhe": "11 detalhes que você só lê pausando",
+          "midia": "CRcervejas",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            64.52,
+            67.35
+          ],
+          "movimento": "fixo"
+        }
+      ]
+    }
+  }
+}

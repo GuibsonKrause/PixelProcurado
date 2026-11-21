@@ -1,0 +1,43 @@
+{
+  "sources": {
+    "Leonida_Keys_01.jpg": {
+      "file": "videosGTAVI\\GTAVI_Screenshots\\Places\\Leonida Keys\\Leonida_Keys_01.jpg",
+      "sha256": "90bb51136148ee7c4c44750e54fb77cf1cb9790c584e904e0c5839094769e2e1"
+    },
+    "Grassrivers_03.jpg": {
+      "file": "videosGTAVI\\GTAVI_Screenshots\\Places\\Grassrivers\\Grassrivers_03.jpg",
+      "sha256": "8120c16f300f27500fca1360d561c69c9185bd8a3611d9258bf7b7e90517b79d"
+    },
+    "Vice_City_06.jpg": {
+      "file": "videosGTAVI\\GTAVI_Screenshots\\Places\\Vice City\\Vice_City_06.jpg",
+      "sha256": "0e4e13aced093e699f7998afb560e8056e8808963a05eaeea706d0cf949479b0"
+    },
+    "Port_Gellhorn_01.jpg": {
+      "file": "videosGTAVI\\GTAVI_Screenshots\\Places\\Port Gellhorn\\Port_Gellhorn_01.jpg",
+      "sha256": "7775f041a852069d43e357d112d1715f471adc4c4346337e79aa33a7940a8425"
+    },
+    "Ambrosia_02.jpg": {
+      "file": "videosGTAVI\\GTAVI_Screenshots\\Places\\Ambrosia\\Ambrosia_02.jpg",
+      "sha256": "b1804c192c61277e083b57677fe9b7520e59dc30aaf86c3b77305e3bdde872c7"
+    },
+    "Mount_Kalaga_National_Park_04.jpg": {
+      "file": "videosGTAVI\\GTAVI_Screenshots\\Places\\Mount Kalaga National Park\\Mount_Kalaga_National_Park_04.jpg",
+      "sha256": "2b973cf17237cec6f6729ea939f15bc9b8f056eab12598be79b0bd5201187679"
+    },
+    "Leonida_Keys_05.jpg": {
+      "file": "videosGTAVI\\GTAVI_Screenshots\\Places\\Leonida Keys\\Leonida_Keys_05.jpg",
+      "sha256": "5f2226e90602403ac0b8feea520a501c2872015627456448c0be85768d5ef7ae"
+    },
+    "Grassrivers_02.jpg": {
+      "file": "videosGTAVI\\GTAVI_Screenshots\\Places\\Grassrivers\\Grassrivers_02.jpg",
+      "sha256": "89574ed17bfc0c6aaae59c25813644c2bcfad2b777739ecb855b23692b841858"
+    }
+  },
+  "assets": {
+    "L06_Carrossel_01.jpg": "41ac9e34879ab70fc46c11ad88f0c71ccaff9d4d92e9cc54b8a0c68ebb7baadb",
+    "L06_Carrossel_02.jpg": "d7f6b53ff85bf76258d0eeb0d96a15e5a5246cecc958b2895d237de5cc35933b",
+    "L06_Carrossel_03.jpg": "f7aa71b188b2375c0cd093a8e7d34fbe61ac55a06d671b939764dbd82b5cb05f",
+    "L06_Carrossel_04.jpg": "0d2dbe85fed3f20201dda7559ddc0420d2f48b3812bf2d5c3eec858b3fe86663",
+    "L06_Story_1080x1920.jpg": "529b2a9b4609e96fa33afb27fe0475a05c6ca30388056f5cc62d22a9f2fba10b"
+  }
+}

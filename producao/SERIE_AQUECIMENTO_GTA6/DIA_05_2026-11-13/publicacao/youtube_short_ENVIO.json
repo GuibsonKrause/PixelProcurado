@@ -1,0 +1,140 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-13T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Quem dirige a fuga é a Lucia. E a mensagem dela no minuto 23:50 do gameplay avisa de mais de dez caras na sala segura. Isso é cooperação de verdade no GTA 6. #GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "306de167-9a69-40c2-a5f0-11459f57ba7b",
+              "name": "c4ee6ccc16e4350bd85ac53ab5c103e110.mp4",
+              "originalName": null,
+              "path": "http://localhost:4007/uploads/2026/11/12/c4ee6ccc16e4350bd85ac53ab5c103e110.mp4",
+              "thumbnail": null,
+              "alt": null,
+              "status": "ready"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: Quem Dirige a Fuga É a Lucia #shorts",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "GTA 6 Jason e Lucia",
+            "label": "GTA 6 Jason e Lucia"
+          },
+          {
+            "value": "Jason e Lucia",
+            "label": "Jason e Lucia"
+          },
+          {
+            "value": "Lucia GTA 6",
+            "label": "Lucia GTA 6"
+          },
+          {
+            "value": "Jason GTA 6",
+            "label": "Jason GTA 6"
+          },
+          {
+            "value": "GTA 6 cooperação",
+            "label": "GTA 6 cooperação"
+          },
+          {
+            "value": "GTA 6 troca de personagem",
+            "label": "GTA 6 troca de personagem"
+          },
+          {
+            "value": "GTA 6 L2",
+            "label": "GTA 6 L2"
+          },
+          {
+            "value": "GTA 6 trailer",
+            "label": "GTA 6 trailer"
+          },
+          {
+            "value": "An Extended Look",
+            "label": "An Extended Look"
+          },
+          {
+            "value": "GTA 6 19 de novembro",
+            "label": "GTA 6 19 de novembro"
+          },
+          {
+            "value": "GTA 6 lançamento",
+            "label": "GTA 6 lançamento"
+          },
+          {
+            "value": "GTA V vs GTA 6",
+            "label": "GTA V vs GTA 6"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          },
+          {
+            "value": "GTA 6 Brasil",
+            "label": "GTA 6 Brasil"
+          },
+          {
+            "value": "GTA 6 dia 5",
+            "label": "GTA 6 dia 5"
+          },
+          {
+            "value": "GTA 6 sexta-feira 13",
+            "label": "GTA 6 sexta-feira 13"
+          },
+          {
+            "value": "GTA 6 character switch",
+            "label": "GTA 6 character switch"
+          },
+          {
+            "value": "GTA 6 Jason and Lucia gameplay",
+            "label": "GTA 6 Jason and Lucia gameplay"
+          }
+        ],
+        "thumbnail": {
+          "id": "3c149038-7b70-4e8e-94d1-96a3342121e5",
+          "name": "a95b6525ef21014f2aaaaebd2568d5b8a.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/12/a95b6525ef21014f2aaaaebd2568d5b8a.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

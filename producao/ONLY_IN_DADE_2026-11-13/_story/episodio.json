@@ -1,0 +1,75 @@
+{
+  "id": "ONLY_IN_DADE_2026-11-13_story",
+  "titulo": "GTA 6 usou Miami pra disfarçar Vice City",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "JAN": "ONLY_IN_DADE_2026-11/DfnFSzaOLO_.mp4"
+  },
+  "rotulos_obrigatorios": {},
+  "correcoes_legenda": {},
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_Only_In_Dade_Story_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/ONLY_IN_DADE_2026-11-13/_story/audio/narracao.wav",
+      "alinhamento": "producao/ONLY_IN_DADE_2026-11-13/_story/audio/palavras.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 0,
+          "tipo": "tag",
+          "corte": [
+            0,
+            5.87
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 2.7,
+          "tipo": "tag",
+          "corte": [
+            5.87,
+            9.33
+          ],
+          "sem_card": true,
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "ONLY IN DADE",
+          "detalhe": "Reel de 11/11",
+          "midia": "JAN",
+          "inicio": 6.3,
+          "tipo": "editorial",
+          "corte": [
+            9.33,
+            13.73
+          ],
+          "enquadramento": "conter"
+        },
+        {
+          "titulo": "VICE CITY",
+          "detalhe": "",
+          "midia": "JAN",
+          "inicio": 12.9,
+          "tipo": "tag",
+          "corte": [
+            13.73,
+            16.48
+          ],
+          "enquadramento": "conter"
+        }
+      ]
+    }
+  }
+}

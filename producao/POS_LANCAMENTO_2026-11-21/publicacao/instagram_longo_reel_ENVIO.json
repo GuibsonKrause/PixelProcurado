@@ -1,0 +1,31 @@
+{
+  "type": "now",
+  "creationMethod": "CLI",
+  "date": "2026-11-21T16:58:48.286988+00:00",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvzyw7vj0003pddwkgtivv8i"
+      },
+      "value": [
+        {
+          "content": "GTA 6 lançou: as teorias que acertamos e as que quebraram a cara. Placar completo da série de aquecimento com gameplay real pós-lançamento, os 30 fps, os bugs relatados e o recado para a concorrência. Você se impressionou ou esperava mais? 👇\n\nGameplay: lives de alanzoka e Cellbit (áudio original removido); trechos PRÉ-LANÇAMENTO: Rockstar Games. Narração com voz sintética.\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/b32385267c5e40c2a21091a3a132bdbe.mp4",
+              "thumbnail": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/bec4eaff2ec240b0b8b5349506a82723.jpg"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "instagram",
+        "post_type": "post"
+      }
+    }
+  ]
+}

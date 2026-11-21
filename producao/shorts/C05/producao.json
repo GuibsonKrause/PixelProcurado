@@ -1,0 +1,32 @@
+{
+  "id": "C05",
+  "formato": "short_1080x1920_30fps",
+  "roteiro_origem": "producao/cortes/C05_NARRACAO.txt",
+  "estado": "validado_pronto_para_publicacao_manual",
+  "etapa_atual": "concluido",
+  "publicacao_autorizada": false,
+  "prioridade_midia": "trechos de vídeo correspondentes à fala; imagens quando necessárias",
+  "executor": {
+    "reasoning_effort_solicitado": "medium",
+    "model_solicitado": "gpt-6.1-sol",
+    "agent_id": "/root/lote_c04_c08",
+    "modelo_efetivo": "desconhecido"
+  },
+  "artefatos": {
+    "timeline": "producao/shorts/C05/projeto/timeline.json",
+    "thumbnail": "producao/shorts/C05/publicacao/capa_youtube.jpg",
+    "srt": "producao/shorts/C05/exportacoes/C05_legendas.srt",
+    "qa": "producao/shorts/C05/projeto/qa/validacao_final.json",
+    "mp4": "producao/shorts/C05/exportacoes/Pixel_Procurado_C05_Short_1080x1920.mp4",
+    "descricao": "producao/shorts/C05/publicacao/02_DESCRICAO.txt"
+  },
+  "validacao_final": {
+    "upload_realizado": false,
+    "agendamento_realizado": false,
+    "revisao_independente": "PASS por amostragem",
+    "duracao": 83.66666666666667,
+    "frames": 2510,
+    "relatorio": "producao/shorts/REVISAO_INDEPENDENTE_C04_C12.md",
+    "sha256": "bae3805329a409badf26c3257ee145645c223e62fdecf12bebba36afb6249dd2"
+  }
+}

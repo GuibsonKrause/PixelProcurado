@@ -1,0 +1,14 @@
+fila 13/11 05:47:16
+[longo] render ini 05:47:16
+[longo] render rc=0 05:57:06
+[longo] validar rc=0 06:03:45
+[reel] render ini 06:03:46
+[reel] render rc=0 06:05:21
+[reel] validar rc=0 06:05:36
+[story] render ini 06:05:37
+[story] render rc=0 06:06:36
+[story] validar rc=0 06:06:42
+[vertical] render ini 06:06:43
+[vertical] render rc=0 06:19:00
+[vertical] validar rc=0 06:21:03
+FIM

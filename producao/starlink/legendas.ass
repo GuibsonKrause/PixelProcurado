@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,54,&H00FFFFFF,&H000000FF,&H0012161C,&H80000000,-1,0,0,0,100,100,0,0,1,5,3,2,60,60,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.32,Default,,0,0,0,,O preço da mensalidade da
+Dialogue: 0,0:00:01.32,0:00:02.76,Default,,0,0,0,,{\c&H3DD3FF&}Starlink{\c&HFFFFFF&} despencou galera,
+Dialogue: 0,0:00:03.66,0:00:05.06,Default,,0,0,0,,uma promoção de {\c&H3DD3FF&}30%{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.06,0:00:06.98,Default,,0,0,0,,de {\c&H3DD3FF&}desconto{\c&HFFFFFF&} Primeiro eu vou
+Dialogue: 0,0:00:06.98,0:00:09.12,Default,,0,0,0,,falar sobre os planos residenciais,
+Dialogue: 0,0:00:09.12,0:00:09.82,Default,,0,0,0,,se você usar no sua
+Dialogue: 0,0:00:09.82,0:00:12.59,Default,,0,0,0,,casa Aquele plano MAX que
+Dialogue: 0,0:00:12.59,0:00:14.85,Default,,0,0,0,,antes era {\c&H3DD3FF&}R$249{\c&HFFFFFF&},00,
+Dialogue: 0,0:00:14.85,0:00:18.19,Default,,0,0,0,,{\c&H3DD3FF&}agora{\c&HFFFFFF&} caiu para {\c&H3DD3FF&}R$174{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.19,0:00:18.37,Default,,0,0,0,,,00
+Dialogue: 0,0:00:18.37,0:00:21.17,Default,,0,0,0,,por mês E a {\c&H3DD3FF&}Starlink{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.17,0:00:22.45,Default,,0,0,0,,sai por {\c&H3DD3FF&}R$49{\c&HFFFFFF&},00,
+Dialogue: 0,0:00:22.65,0:00:24.59,Default,,0,0,0,,a {\c&H3DD3FF&}Starlink{\c&HFFFFFF&} Mini com um
+Dialogue: 0,0:00:24.59,0:00:27.53,Default,,0,0,0,,roteador que eles manda mais
+Dialogue: 0,0:00:27.67,0:00:28.75,Default,,0,0,0,,Aquele plano de R$100
+Dialogue: 0,0:00:28.75,0:00:29.01,Default,,0,0,0,,,00
+Dialogue: 0,0:00:29.01,0:00:30.31,Default,,0,0,0,,para usar em casa antes
+Dialogue: 0,0:00:30.31,0:00:31.57,Default,,0,0,0,,era {\c&H3DD3FF&}R$189{\c&HFFFFFF&},00
+Dialogue: 0,0:00:31.57,0:00:33.65,Default,,0,0,0,,e {\c&H3DD3FF&}agora{\c&HFFFFFF&} está {\c&H3DD3FF&}R$132{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.65,0:00:33.89,Default,,0,0,0,,,00
+Dialogue: 0,0:00:34.67,0:00:36.55,Default,,0,0,0,,Aí o equipamento sai a
+Dialogue: 0,0:00:36.55,0:00:37.83,Default,,0,0,0,,R$299,00
+Dialogue: 0,0:00:37.93,0:00:38.41,Default,,0,0,0,,Agora,
+Dialogue: 0,0:00:38.41,0:00:39.51,Default,,0,0,0,,para quem quer usar no
+Dialogue: 0,0:00:39.51,0:00:39.81,Default,,0,0,0,,carro,
+Dialogue: 0,0:00:39.99,0:00:42.11,Default,,0,0,0,,no plano Viagem Aquele plano
+Dialogue: 0,0:00:42.11,0:00:42.77,Default,,0,0,0,,de R$100,00
+Dialogue: 0,0:00:42.77,0:00:45.09,Default,,0,0,0,,que era {\c&H3DD3FF&}R$339{\c&HFFFFFF&},00
+Dialogue: 0,0:00:45.09,0:00:46.83,Default,,0,0,0,,{\c&H3DD3FF&}agora{\c&HFFFFFF&} teve uma redução e
+Dialogue: 0,0:00:46.83,0:00:48.41,Default,,0,0,0,,está {\c&H3DD3FF&}R$237,30{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.54,0:00:49.74,Default,,0,0,0,,O equipamento sai a R
+Dialogue: 0,0:00:49.74,0:00:51.10,Default,,0,0,0,,$299,00
+Dialogue: 0,0:00:51.10,0:00:52.24,Default,,0,0,0,,e o plano Inlimitado que
+Dialogue: 0,0:00:52.24,0:00:53.72,Default,,0,0,0,,antes era {\c&H3DD3FF&}R$619{\c&HFFFFFF&},00
+Dialogue: 0,0:00:54.26,0:00:55.66,Default,,0,0,0,,Agora teve uma redução que
+Dialogue: 0,0:00:55.66,0:00:58.36,Default,,0,0,0,,está {\c&H3DD3FF&}R$433,30{\c&HFFFFFF&}
+Dialogue: 0,0:00:59.14,0:01:00.32,Default,,0,0,0,,A antena sai a R
+Dialogue: 0,0:01:00.32,0:01:00.94,Default,,0,0,0,,$299,00
+Dialogue: 0,0:01:00.94,0:01:03.56,Default,,0,0,0,,também Então Então abaixou muito
+Dialogue: 0,0:01:03.56,0:01:03.84,Default,,0,0,0,,o preço,
+Dialogue: 0,0:01:04.36,0:01:10.72,Default,,0,0,0,,essa promoção para quem compara
+Dialogue: 0,0:01:10.72,0:01:13.04,Default,,0,0,0,,A partir {\c&H3DD3FF&}agora{\c&HFFFFFF&} não vale
+Dialogue: 0,0:01:13.04,0:01:15.12,Default,,0,0,0,,para quem já tem e
+Dialogue: 0,0:01:15.12,0:01:16.60,Default,,0,0,0,,é válida até 30 de
+Dialogue: 0,0:01:16.60,0:01:18.43,Default,,0,0,0,,novembro Se você comprar comigo,
+Dialogue: 0,0:01:18.69,0:01:21.69,Default,,0,0,0,,você ganha {\c&H3DD3FF&}R$200{\c&HFFFFFF&},00
+Dialogue: 0,0:01:21.69,0:01:24.43,Default,,0,0,0,,em crédito para descontar Entra
+Dialogue: 0,0:01:24.43,0:01:25.17,Default,,0,0,0,,em conta até {\c&H3DD3FF&}agora{\c&HFFFFFF&} mesmo

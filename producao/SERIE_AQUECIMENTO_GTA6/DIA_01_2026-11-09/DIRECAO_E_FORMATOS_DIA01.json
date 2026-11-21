@@ -1,0 +1,110 @@
+{
+  "status": "aguardando_validacao_do_seek_da_fonte",
+  "fonte": "videosGTAVI/GTAVI_An_Extended_Look.mp4",
+  "formato_master": {
+    "width": 3840,
+    "height": 2160,
+    "fps": 30,
+    "codec": "h264",
+    "audio": "aac 48kHz"
+  },
+  "formatos": [
+    {
+      "destino": "YouTube longo",
+      "proporcao": "16:9",
+      "resolucao": "3840x2160",
+      "conteudo": "episodio integral com legendas e cards compactos V2"
+    },
+    {
+      "destino": "Facebook video",
+      "proporcao": "16:9",
+      "resolucao": "3840x2160",
+      "conteudo": "master integral se aceito pelo canal/API; verificar limites antes upload"
+    },
+    {
+      "destino": "Instagram integral",
+      "proporcao": "9:16",
+      "resolucao": "1080x1920 ou maior se aceito",
+      "conteudo": "recomposicao por cena; preservar HUD inteiro em janela ajustada nos trechos de analise"
+    },
+    {
+      "destino": "YouTube Shorts / Instagram Reel / Facebook Reel",
+      "proporcao": "9:16",
+      "resolucao": "1080x1920 ou maior se aceito",
+      "conteudo": "um corte coerente sobre as opcoes do carro, apos alinhamento, sem duplicar upload A/B"
+    },
+    {
+      "destino": "Story",
+      "proporcao": "9:16",
+      "resolucao": "1080x1920",
+      "conteudo": "teaser curto com promessa e chamada ao episodio; verificar suporte API"
+    },
+    {
+      "destino": "Carrossel Instagram",
+      "proporcao": "4:5",
+      "resolucao": "1080x1350",
+      "conteudo": "detalhes do HUD e leitura das opcoes; somente frames validados e texto deterministico"
+    }
+  ],
+  "cenas": [
+    {
+      "assunto": "morador/elevador",
+      "fonte_segundos": 60,
+      "indice": "pagina_01.jpg",
+      "confirmacao": "visual_no_indice"
+    },
+    {
+      "assunto": "cachorro/corredor",
+      "fonte_segundos": 90,
+      "confirmacao": "pendente"
+    },
+    {
+      "assunto": "laboratorio/malote",
+      "fonte_segundos": 180,
+      "confirmacao": "pendente"
+    },
+    {
+      "assunto": "pistola/tiroteio",
+      "fonte_segundos": 260,
+      "confirmacao": "pendente"
+    },
+    {
+      "assunto": "recolher escopeta",
+      "fonte_segundos": 270,
+      "confirmacao": "pendente"
+    },
+    {
+      "assunto": "corredor/fumaca",
+      "fonte_segundos": 280,
+      "confirmacao": "pendente"
+    },
+    {
+      "assunto": "apartamento escuro",
+      "fonte_segundos": 340,
+      "confirmacao": "pendente"
+    },
+    {
+      "assunto": "carro/HUD escolhas",
+      "fonte_segundos": 370,
+      "indice": "pagina_04.jpg",
+      "confirmacao": "visual_no_indice_diverge_extracao_ffmpeg"
+    },
+    {
+      "assunto": "predio comercial",
+      "fonte_segundos": 1440,
+      "confirmacao": "pendente"
+    },
+    {
+      "assunto": "luta com guarda",
+      "fonte_segundos": 1530,
+      "confirmacao": "pendente"
+    }
+  ],
+  "regras": [
+    "Não repetir o mesmo trecho como preenchimento. Reprise da porta do carro permitida somente gancho/payoff com função distinta registrada.",
+    "Nenhuma cena é considerada validada apenas pelo nome do arquivo.",
+    "Hyperframes V2 para cards com entrada na ancora e saida completa; ASS somente legendas.",
+    "Cards horizontal720px e vertical780px; fonte de HUD deve continuar legivel.",
+    "Publicacao depende QA independente aprovado."
+  ]
+}

@@ -1,0 +1,1158 @@
+{
+  "schema_versao": 1,
+  "episodio": "DIA_04_2026-11-12",
+  "revisor": {
+    "modelo": "nao informado pelo runtime; revisao independente",
+    "agent_id": "/root/revisao"
+  },
+  "data": "2026-11-12T22:39:58",
+  "artefatos": [
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "sha256": "6dda436f91ea18b64bc811ee4be0b5e7f86fb6d355ec35ab1afb43af72e1e834"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.srt",
+      "sha256": "01da7c2e11884c0aff42e57c847e182af336379f4c57c6d430e5f38387377505"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "sha256": "275d2f161e0166fada31492fb1b5fa55bf855db48023a07caf695e53fa6a3da0"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.srt",
+      "sha256": "01da7c2e11884c0aff42e57c847e182af336379f4c57c6d430e5f38387377505"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "sha256": "2053b1251b189f63c2f077152920a54be979dcd6ed094f67d639fc734a23c3eb"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.srt",
+      "sha256": "01da7c2e11884c0aff42e57c847e182af336379f4c57c6d430e5f38387377505"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.mp4",
+      "sha256": "8d147d4b5afd0079fd12ed21481adb89599c1eb6dbedd852b615faa34b5dbbeb"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.srt",
+      "sha256": "2c7a6ba2fc163b23a0c7d526b6e4c65292aaf388a4720d467df4cb8ad3885be3"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_story/exportacoes/Pixel_Procurado_DIA04_Story_V2.mp4",
+      "sha256": "a94c0fa38f6864e2bc20b0e789097c22dab4fd74b2c859b153d15e9096927f27"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_story/exportacoes/Pixel_Procurado_DIA04_Story_V2.srt",
+      "sha256": "47c2b25bb6137cc01f5da97b4b173644edbb894f28ede99f9148635bbb29c8fc"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/thumbnail_A/capa_youtube.jpg",
+      "sha256": "db49baef4e9b640f27f094439776758a00380ff3d7f237902b2989692a0f2d91"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/thumbnail_B/capa_youtube.jpg",
+      "sha256": "964170aefb9c56bd8a86d6f2485fd74414ae40f3265dbee89e24524fd4f2c3de"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/thumbnail_vertical/capa_youtube.jpg",
+      "sha256": "f2a0d69f819f1ce297b5c0b3f1eeafa5dd49e78955d53bc2fca8fee0aaba8836"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/carrossel/01.jpg",
+      "sha256": "b44840fbd2f754686f092423d3bd3426f70ed6bd9a95390caa8d3573ea5ee2be"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/carrossel/02.jpg",
+      "sha256": "365e67835f2168891e985a31b7cc17c624cd958152c4c12f8a3a85fe0e2f8039"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/carrossel/03.jpg",
+      "sha256": "4900af1093325023938c6d6a979c4ee61326cf4b55413bf5c098095f3a27cbaf"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/carrossel/04.jpg",
+      "sha256": "49c777035179ddf1267e2c9b839ba9f7c999e69523f48921f20ed0c5f495b2c0"
+    }
+  ],
+  "audio_trechos_ouvidos": [],
+  "frames_inspecionados": [
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 0.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/000_0.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: gancho. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 2.6,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/001_2.600.jpg",
+      "observacao": "Inspecao visual em folha de contato: P1 FALTAM 7 DIAS. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 6.533,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/002_6.533.jpg",
+      "observacao": "Inspecao visual em folha de contato: P2 19 DE NOVEMBRO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/003_15.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 29.233,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/004_29.233.jpg",
+      "observacao": "Inspecao visual em folha de contato: P9 09:40. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 37.467,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/005_37.467.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P12 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 38.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/006_38.300.jpg",
+      "observacao": "Inspecao visual em folha de contato: P12 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 41.033,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/007_41.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P12 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 41.067,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/008_41.067.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P13 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 41.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/009_41.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: P13 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/010_45.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 45.967,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/011_45.967.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P13 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 46.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/012_46.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P14 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 46.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/013_46.800.jpg",
+      "observacao": "Inspecao visual em folha de contato: P14 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 50.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/014_50.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P14 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 50.933,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/015_50.933.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P15 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 51.733,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/016_51.733.jpg",
+      "observacao": "Inspecao visual em folha de contato: P15 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 55.833,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/017_55.833.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P15 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 58.7,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/018_58.700.jpg",
+      "observacao": "Inspecao visual em folha de contato: P17 09:00–09:35. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 66.4,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/019_66.400.jpg",
+      "observacao": "Inspecao visual em folha de contato: P19 09:00. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 72.433,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/020_72.433.jpg",
+      "observacao": "Inspecao visual em folha de contato: P21 09:20. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 75.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/021_75.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 80.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/022_80.800.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO luta. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 81.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/023_81.200.jpg",
+      "observacao": "Inspecao visual em folha de contato: P24 09:30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 105.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/024_105.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 122.1,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/025_122.100.jpg",
+      "observacao": "Inspecao visual em folha de contato: P34 TRAILER 1 • 00:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 125.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/026_125.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO Planet. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 135.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/027_135.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 165.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/028_165.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 187.233,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/029_187.233.jpg",
+      "observacao": "Inspecao visual em folha de contato: P51 07:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 191.167,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/030_191.167.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P52 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 191.933,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/031_191.933.jpg",
+      "observacao": "Inspecao visual em folha de contato: P52 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 195.033,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/032_195.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 197.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/033_197.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P52 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 198.7,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/034_198.700.jpg",
+      "observacao": "Inspecao visual em folha de contato: P53 CENÁRIO IMAGINADO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 216.333,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/035_216.333.jpg",
+      "observacao": "Inspecao visual em folha de contato: P59 10:10. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 225.033,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/036_225.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 232.733,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/037_232.733.jpg",
+      "observacao": "Inspecao visual em folha de contato: P64 09:40. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 236.633,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/038_236.633.jpg",
+      "observacao": "Inspecao visual em folha de contato: P65 09:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 245.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/039_245.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: P68 09:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 252.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/040_252.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: P70 REAÇÃO OU ATUAÇÃO?. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 255.033,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/041_255.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 261.933,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/042_261.933.jpg",
+      "observacao": "Inspecao visual em folha de contato: P72 01:00. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 266.533,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/043_266.533.jpg",
+      "observacao": "Inspecao visual em folha de contato: P74 02:00 • STUDY [R1]. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 266.933,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/044_266.933.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO R1. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 271.933,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/045_271.933.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO data. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 272.333,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/046_272.333.jpg",
+      "observacao": "Inspecao visual em folha de contato: P76 19 DE NOVEMBRO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 278.633,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/047_278.633.jpg",
+      "observacao": "Inspecao visual em folha de contato: P78 TESTE PROPOSTO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 285.033,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/048_285.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 303.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/049_303.200.jpg",
+      "observacao": "Inspecao visual em folha de contato: P85 AMANHÃ • 13 DE NOVEMBRO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 307.033,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/050_307.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: P86 LUCIA [L2]. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 315.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/051_315.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: final. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 315.033,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/master/052_315.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 0.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/000_0.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: gancho. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 2.6,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/001_2.600.jpg",
+      "observacao": "Inspecao visual em folha de contato: P1 FALTAM 7 DIAS. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 6.533,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/002_6.533.jpg",
+      "observacao": "Inspecao visual em folha de contato: P2 19 DE NOVEMBRO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/003_15.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 29.233,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/004_29.233.jpg",
+      "observacao": "Inspecao visual em folha de contato: P9 09:40. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 37.467,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/005_37.467.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P12 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 38.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/006_38.300.jpg",
+      "observacao": "Inspecao visual em folha de contato: P12 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 41.033,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/007_41.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P12 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 41.067,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/008_41.067.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P13 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 41.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/009_41.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: P13 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/010_45.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 45.967,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/011_45.967.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P13 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 46.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/012_46.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P14 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 46.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/013_46.800.jpg",
+      "observacao": "Inspecao visual em folha de contato: P14 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 50.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/014_50.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P14 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 50.933,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/015_50.933.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P15 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 51.733,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/016_51.733.jpg",
+      "observacao": "Inspecao visual em folha de contato: P15 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 55.833,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/017_55.833.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P15 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 58.7,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/018_58.700.jpg",
+      "observacao": "Inspecao visual em folha de contato: P17 09:00–09:35. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 66.4,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/019_66.400.jpg",
+      "observacao": "Inspecao visual em folha de contato: P19 09:00. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 72.433,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/020_72.433.jpg",
+      "observacao": "Inspecao visual em folha de contato: P21 09:20. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 75.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/021_75.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 80.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/022_80.800.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO luta. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 81.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/023_81.200.jpg",
+      "observacao": "Inspecao visual em folha de contato: P24 09:30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 105.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/024_105.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 122.1,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/025_122.100.jpg",
+      "observacao": "Inspecao visual em folha de contato: P34 TRAILER 1 • 00:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 125.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/026_125.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO Planet. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 135.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/027_135.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 165.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/028_165.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 187.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/029_187.200.jpg",
+      "observacao": "Inspecao visual em folha de contato: P51 07:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 191.133,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/030_191.133.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P52 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 191.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/031_191.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: P52 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 195.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/032_195.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 197.867,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/033_197.867.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P52 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 198.7,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/034_198.700.jpg",
+      "observacao": "Inspecao visual em folha de contato: P53 CENÁRIO IMAGINADO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 216.333,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/035_216.333.jpg",
+      "observacao": "Inspecao visual em folha de contato: P59 10:10. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 225.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/036_225.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 232.733,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/037_232.733.jpg",
+      "observacao": "Inspecao visual em folha de contato: P64 09:40. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 236.633,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/038_236.633.jpg",
+      "observacao": "Inspecao visual em folha de contato: P65 09:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 245.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/039_245.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: P68 09:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 252.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/040_252.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: P70 REAÇÃO OU ATUAÇÃO?. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 255.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/041_255.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 261.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/042_261.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: P72 01:00. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 266.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/043_266.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: P74 02:00 • STUDY [R1]. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 266.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/044_266.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO R1. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 271.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/045_271.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO data. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 272.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/046_272.300.jpg",
+      "observacao": "Inspecao visual em folha de contato: P76 19 DE NOVEMBRO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 278.633,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/047_278.633.jpg",
+      "observacao": "Inspecao visual em folha de contato: P78 TESTE PROPOSTO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 285.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/048_285.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 303.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/049_303.200.jpg",
+      "observacao": "Inspecao visual em folha de contato: P85 AMANHÃ • 13 DE NOVEMBRO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 307.033,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/050_307.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: P86 LUCIA [L2]. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/entrega_youtube/exportacoes/Pixel_Procurado_DIA04_Longo_V2.mp4",
+      "timecode": 315.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/youtube/051_315.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: final. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 0.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/000_0.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: gancho. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 2.6,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/001_2.600.jpg",
+      "observacao": "Inspecao visual em folha de contato: P1 FALTAM 7 DIAS. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 6.533,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/002_6.533.jpg",
+      "observacao": "Inspecao visual em folha de contato: P2 19 DE NOVEMBRO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/003_15.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 29.233,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/004_29.233.jpg",
+      "observacao": "Inspecao visual em folha de contato: P9 09:40. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 37.467,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/005_37.467.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P12 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 38.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/006_38.300.jpg",
+      "observacao": "Inspecao visual em folha de contato: P12 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 41.033,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/007_41.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P12 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 41.067,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/008_41.067.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P13 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 41.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/009_41.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: P13 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/010_45.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 45.967,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/011_45.967.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P13 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 46.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/012_46.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P14 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 46.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/013_46.800.jpg",
+      "observacao": "Inspecao visual em folha de contato: P14 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 50.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/014_50.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P14 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 50.933,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/015_50.933.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P15 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 51.733,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/016_51.733.jpg",
+      "observacao": "Inspecao visual em folha de contato: P15 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 55.833,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/017_55.833.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P15 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 58.7,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/018_58.700.jpg",
+      "observacao": "Inspecao visual em folha de contato: P17 09:00–09:35. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 66.4,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/019_66.400.jpg",
+      "observacao": "Inspecao visual em folha de contato: P19 09:00. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 72.433,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/020_72.433.jpg",
+      "observacao": "Inspecao visual em folha de contato: P21 09:20. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 75.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/021_75.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 80.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/022_80.800.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO luta. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 81.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/023_81.200.jpg",
+      "observacao": "Inspecao visual em folha de contato: P24 09:30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 105.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/024_105.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 122.1,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/025_122.100.jpg",
+      "observacao": "Inspecao visual em folha de contato: P34 TRAILER 1 • 00:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 125.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/026_125.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO Planet. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 135.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/027_135.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 165.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/028_165.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 187.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/029_187.200.jpg",
+      "observacao": "Inspecao visual em folha de contato: P51 07:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 191.133,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/030_191.133.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P52 primeiro. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 191.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/031_191.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: P52 GTA V. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 195.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/032_195.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 197.867,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/033_197.867.jpg",
+      "observacao": "Inspecao visual em folha de contato: GTAV P52 ultimo. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 198.7,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/034_198.700.jpg",
+      "observacao": "Inspecao visual em folha de contato: P53 CENÁRIO IMAGINADO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 216.333,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/035_216.333.jpg",
+      "observacao": "Inspecao visual em folha de contato: P59 10:10. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 225.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/036_225.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 232.73333333333332,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/037_232.733.jpg",
+      "observacao": "Inspecao visual em folha de contato: P64 09:40. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 236.63333333333333,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/038_236.633.jpg",
+      "observacao": "Inspecao visual em folha de contato: P65 09:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 245.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/039_245.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: P68 09:50. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 252.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/040_252.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: P70 REAÇÃO OU ATUAÇÃO?. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 255.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/041_255.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 261.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/042_261.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: P72 01:00. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 266.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/043_266.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: P74 02:00 • STUDY [R1]. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 266.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/044_266.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO R1. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 271.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/045_271.900.jpg",
+      "observacao": "Inspecao visual em folha de contato: CORRECAO data. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 272.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/046_272.300.jpg",
+      "observacao": "Inspecao visual em folha de contato: P76 19 DE NOVEMBRO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 278.6333333333333,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/047_278.633.jpg",
+      "observacao": "Inspecao visual em folha de contato: P78 TESTE PROPOSTO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 285.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/048_285.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 303.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/049_303.200.jpg",
+      "observacao": "Inspecao visual em folha de contato: P85 AMANHÃ • 13 DE NOVEMBRO. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 307.03333333333336,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/050_307.033.jpg",
+      "observacao": "Inspecao visual em folha de contato: P86 LUCIA [L2]. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_vertical/exportacoes/Pixel_Procurado_DIA04_Vertical_V2.mp4",
+      "timecode": 315.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/vertical/051_315.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: final. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.mp4",
+      "timecode": 0.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/reel/000_0.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: gancho. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.mp4",
+      "timecode": 4.633333333333334,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/reel/001_4.633.jpg",
+      "observacao": "Inspecao visual em folha de contato: P2 09:00–09:35. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.mp4",
+      "timecode": 12.366666666666667,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/reel/002_12.367.jpg",
+      "observacao": "Inspecao visual em folha de contato: P4 09:00. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/reel/003_15.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.mp4",
+      "timecode": 18.4,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/reel/004_18.400.jpg",
+      "observacao": "Inspecao visual em folha de contato: P6 09:20. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.mp4",
+      "timecode": 27.166666666666668,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/reel/005_27.167.jpg",
+      "observacao": "Inspecao visual em folha de contato: P9 09:30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.mp4",
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/reel/006_45.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_reel/exportacoes/Pixel_Procurado_DIA04_Reel_V2.mp4",
+      "timecode": 47.46666666666667,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/reel/007_47.467.jpg",
+      "observacao": "Inspecao visual em folha de contato: final. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_story/exportacoes/Pixel_Procurado_DIA04_Story_V2.mp4",
+      "timecode": 0.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/story/000_0.500.jpg",
+      "observacao": "Inspecao visual em folha de contato: gancho. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_story/exportacoes/Pixel_Procurado_DIA04_Story_V2.mp4",
+      "timecode": 2.6,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/story/001_2.600.jpg",
+      "observacao": "Inspecao visual em folha de contato: P1 09:00. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_story/exportacoes/Pixel_Procurado_DIA04_Story_V2.mp4",
+      "timecode": 8.633333333333333,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/story/002_8.633.jpg",
+      "observacao": "Inspecao visual em folha de contato: P3 09:20. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_story/exportacoes/Pixel_Procurado_DIA04_Story_V2.mp4",
+      "timecode": 14.866666666666667,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/story/003_14.867.jpg",
+      "observacao": "Inspecao visual em folha de contato: final. Texto e composicao conferidos; sem escuta."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/_story/exportacoes/Pixel_Procurado_DIA04_Story_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/story/004_15.000.jpg",
+      "observacao": "Inspecao visual em folha de contato: janela30. Texto e composicao conferidos; sem escuta."
+    }
+  ],
+  "legendas": {
+    "srt": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/exportacoes/Pixel_Procurado_DIA04_Longo_V2.srt",
+    "amostras": [
+      {
+        "timecode": 0.5,
+        "texto": "Você é normal perto de Leonida.",
+        "sincronizado": true,
+        "observacao": "Texto incorporado inspecionado no quadro e comparado ao SRT/alinhamento; nao houve escuta subjetiva."
+      },
+      {
+        "timecode": 75,
+        "texto": "um motel barato, tem uma senhora",
+        "sincronizado": true,
+        "observacao": "Texto incorporado inspecionado no quadro e comparado ao SRT/alinhamento; nao houve escuta subjetiva."
+      },
+      {
+        "timecode": 165,
+        "texto": "Dead e Redemption dois entra na",
+        "sincronizado": true,
+        "observacao": "Texto incorporado inspecionado no quadro e comparado ao SRT/alinhamento; nao houve escuta subjetiva."
+      },
+      {
+        "timecode": 225,
+        "texto": "fofoca. E isso traz a gente",
+        "sincronizado": true,
+        "observacao": "Texto incorporado inspecionado no quadro e comparado ao SRT/alinhamento; nao houve escuta subjetiva."
+      },
+      {
+        "timecode": 315,
+        "texto": "até amanhã.",
+        "sincronizado": true,
+        "observacao": "Texto incorporado inspecionado no quadro e comparado ao SRT/alinhamento; nao houve escuta subjetiva."
+      }
+    ]
+  },
+  "thumbnail": {
+    "arquivo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/publicacao/thumbnail_A/capa_youtube.jpg",
+    "preview_reduzido": "producao/SERIE_AQUECIMENTO_GTA6/DIA_04_2026-11-12/qa/final_independente/capa_A_reduzida.jpg",
+    "observacao": "A, B e vertical inspecionadas na prancha reduzida: textos legiveis, contraste branco/amarelo, marca e logotipo presentes; sem cortes indevidos. A recomendada como principal. Carrossel 01-04 tambem inspecionado."
+  },
+  "problemas": [
+    {
+      "severidade": "media",
+      "timecode": null,
+      "descricao": "Revisao auditiva obrigatoria pendente: o runtime nao disponibilizou audio audivel. Nenhum trecho foi marcado como ouvido. Nao foi identificado bloqueio visual nos 170 quadros, capas e carrossel inspecionados.",
+      "correcao": "Humano deve ouvir os trechos minimos indicados em REVISAO_FINAL.md e registrar observacoes reais, ou usuario deve autorizar explicitamente uma excecao sem escuta; uma excecao nao transforma este relatorio em escuta realizada.",
+      "status": "aberto"
+    }
+  ],
+  "resultado": "reprovado",
+  "resultado_visual": "aprovado_por_amostragem",
+  "limitacoes": [
+    "Sem escuta real de audio",
+    "Inspecao visual por amostragem, nao reproducao integral",
+    "QA tecnico existente consultado; nao reexecutado pelo revisor"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+ "id": "DIA_03_2026-11-11__story",
+ "titulo": "6 Estrelas Voltaram: A Polícia do GTA 6 Não Esquece",
+ "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+ "pasta_fontes": "videosGTAVI",
+ "midias": {
+  "EXT": "GTAVI_An_Extended_Look.mp4",
+  "T1": "GTAVI_Trailer_1.mp4",
+  "T2": "GTAVI_Trailer_2.mp4",
+  "LT": "GTAVI_Launch_Trailer.mp4",
+  "COVER": "GTAVI_Videos/GTAVI_Official_Cover_Art_Landscape.mp4",
+  "GTAV": "GTA-B02-001_P001 - 00-00-00 a 00-04-50 - 1280x720 [N-xHcvug3WI].mp4"
+ },
+ "rotulos_obrigatorios": {
+  "GTAV": "GTA V"
+ },
+ "correcoes_legenda": {},
+ "formatos": {
+  "short": {
+   "stem": "DIA03_Story",
+   "resolucao": [
+    1080,
+    1920
+   ],
+   "fps": 30,
+   "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/_story/audio/narracao.wav",
+   "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_03_2026-11-11/_story/audio/palavras.json",
+   "planos": [
+    {
+     "midia": "EXT",
+     "inicio": 706.0,
+     "corte": [
+      0.0,
+      2.3
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "EXT",
+     "inicio": 708.3,
+     "corte": [
+      2.3,
+      6.2
+     ],
+     "tipo": "data",
+     "titulo": "6 ESTRELAS",
+     "detalhe": "Medidor no topo direito • 11:50"
+    },
+    {
+     "midia": "EXT",
+     "inicio": 1088.5,
+     "corte": [
+      6.2,
+      10.9
+     ],
+     "tipo": "editorial",
+     "titulo": "",
+     "detalhe": "",
+     "sem_card": true
+    },
+    {
+     "midia": "GTAVI_Screenshots/Places/Grassrivers/Grassrivers_06.jpg",
+     "inicio": 0,
+     "corte": [
+      10.9,
+      15.05
+     ],
+     "tipo": "tag",
+     "titulo": "INSCREVA-SE",
+     "detalhe": "Episódio 4 amanhã"
+    }
+   ]
+  }
+ }
+}

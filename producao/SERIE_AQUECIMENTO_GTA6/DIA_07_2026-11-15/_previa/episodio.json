@@ -1,0 +1,1343 @@
+{
+  "id": "DIA_07_2026-11-15__previa",
+  "titulo": "GTA 6: 11 Detalhes do Gameplay Que Você Só Lê Pausando",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "CRporta0718": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_porta_0718.jpg",
+    "CRnuvemchuva": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_nuvem_chuva.jpg",
+    "CRretratoscoracao": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_retratos_coracao.jpg",
+    "CRholdcasal": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_hold_casal.jpg",
+    "CRholdprompt": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_hold_prompt.jpg",
+    "CRfridgeprompt": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_fridge_prompt.jpg",
+    "CRmenu": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_menu.jpg",
+    "CRmenuverde": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_menu_verde.jpg",
+    "CRporta": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_porta.jpg",
+    "CRcachorro": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_cachorro.jpg",
+    "CRpanfleto": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_panfleto.jpg",
+    "CRcervejas": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_cervejas.jpg",
+    "CRtenis": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_tenis.jpg",
+    "CRtorneira": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_torneira.jpg",
+    "CRbocal": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_bocal.jpg",
+    "CRtvsuco": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_tv_suco.jpg",
+    "CRbarra": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_barra.jpg",
+    "CRbanco": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_banco.jpg",
+    "CRdrink": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_drink.jpg",
+    "CReat": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_eat.jpg",
+    "CRhomem0904": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_homem_0904.jpg",
+    "CRfundo0904": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_fundo_0904.jpg",
+    "CRsmoke": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_smoke.jpg",
+    "CRzoomprompt": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_zoom_prompt.jpg",
+    "CRvrjanela": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_vr_janela.jpg",
+    "CRvrrosto": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_vr_rosto.jpg",
+    "CRvrmaos": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_vr_maos.jpg",
+    "CRover21": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_over21.jpg",
+    "CRletra": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_letra.jpg",
+    "CRseguranca": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_seguranca.jpg",
+    "CRretratos": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_retratos.jpg",
+    "CRcarinhas": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_carinhas.jpg",
+    "CRtrocaamplo": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_troca_amplo.jpg",
+    "CRsatelite": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_satelite.jpg",
+    "CRchaoconcreto": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CR_chao_concreto.jpg",
+    "EXT0643": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0643.jpg",
+    "EXT0715": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0715.jpg",
+    "EXT0716": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0716.jpg",
+    "EXT0719": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0719.jpg",
+    "EXT0720": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0720.jpg",
+    "EXT0723": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0723.jpg",
+    "EXT0725": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0725.jpg",
+    "EXT0732": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0732.jpg",
+    "EXT0904": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0904.jpg",
+    "EXT0950": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_0950.jpg",
+    "EXT1000": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_1000.jpg",
+    "EXT1220": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_1220.jpg",
+    "EXT1727": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_1727.jpg",
+    "EXT1734": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_1734.jpg",
+    "EXT1857": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/EXT_1857.jpg",
+    "CARTELAULTIMO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_ULTIMO.jpg",
+    "CARTELAICONES": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_ICONES.jpg",
+    "CARTELAALVO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_ALVO.jpg",
+    "CARTELATRIANGULO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_TRIANGULO.jpg",
+    "CARTELASEMTEXTO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_SEM_TEXTO.jpg",
+    "CARTELAHIPOTESE": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_HIPOTESE.jpg",
+    "CARTELASOBOTAO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_SO_BOTAO.jpg",
+    "CARTELAQUINTA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/CARTELA_QUINTA.jpg",
+    "COLAGEM11": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/COLAGEM_11.jpg",
+    "COLAGEMVICIOS": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/COLAGEM_VICIOS.jpg",
+    "DIVIDIDADRINKEAT": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/DIVIDIDA_DRINK_EAT.jpg",
+    "DIVIDIDABINOCULOHEADSET": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/DIVIDIDA_BINOCULO_HEADSET.jpg",
+    "MINIATURASTV": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/MINIATURAS_TV.jpg",
+    "DESFOQUE2527": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/montagem/referencias/DESFOQUE_2527.jpg"
+  },
+  "correcoes_legenda": {
+    "r": "R",
+    "hold": "HOLD",
+    "hands": "HANDS",
+    "fridge": "FRIDGE",
+    "drink": "DRINK",
+    "drop": "DROP",
+    "eat": "EAT",
+    "smoke": "SMOKE",
+    "zoom": "ZOOM",
+    "id": "ID",
+    "check": "Check",
+    "over": "OVER",
+    "only": "ONLY",
+    "logger": "Logger",
+    "lavazas": "Lavazas",
+    "blitz": "Blitz",
+    "berry": "Berry",
+    "green": "Green",
+    "smoothie": "Smoothie",
+    "beer": "Beer",
+    "fleeca": "Fleeca",
+    "lombank": "Lombank",
+    "frugality": "Frugality",
+    "fools": "Fools",
+    "leonida": "Leonida",
+    "rockstar": "Rockstar",
+    "gta": "GTA",
+    "ps": "PS"
+  },
+  "formatos": {
+    "longo": {
+      "stem": "Pixel_Procurado_DIA07_Previa_V2",
+      "resolucao": [
+        960,
+        540
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/audio/narracao_normalizada.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_07_2026-11-15/audio/palavras_alinhadas.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRholdcasal",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0.0,
+            2.96
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "PROMESSA DO DIA 6",
+          "detalhe": "mão dada + geladeira",
+          "midia": "EXT0950",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            2.96,
+            6.58
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRporta0718",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            6.58,
+            12.16
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "HOLD HANDS • R2",
+          "detalhe": "09:50 • casal no terraço",
+          "midia": "EXT",
+          "inicio": 591.0,
+          "tipo": "editorial",
+          "corte": [
+            12.16,
+            24.33
+          ]
+        },
+        {
+          "titulo": "R3 → R2",
+          "detalhe": "09:50 • minha anotação errou",
+          "midia": "CRholdprompt",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            24.33,
+            28.17
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 603.2,
+          "tipo": "editorial",
+          "corte": [
+            28.17,
+            30.97
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0715",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            30.97,
+            32.78
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 436.35,
+          "tipo": "editorial",
+          "corte": [
+            32.78,
+            34.18
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0716",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            34.18,
+            38.06
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "FRIDGE • △",
+          "detalhe": "07:16 • prompt no triângulo",
+          "midia": "CRfridgeprompt",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            38.06,
+            41.2
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 438.15,
+          "tipo": "editorial",
+          "corte": [
+            41.2,
+            43.02
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "MENU DA GELADEIRA",
+          "detalhe": "07:18 • Logger Beer, Lavazas Beer, Blitz Berry",
+          "midia": "CRmenu",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            43.02,
+            47.4
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "BLITZ GREEN: APAGADO",
+          "detalhe": "07:19 • último item do menu, esmaecido",
+          "midia": "CRmenuverde",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            47.4,
+            50.53
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRporta",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            50.53,
+            54.7
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRcachorro",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            54.7,
+            56.49
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRpanfleto",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            56.49,
+            60.74
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ECONOMIZAR É COISA DE TROUXA",
+          "detalhe": "tradução livre do panfleto",
+          "midia": "EXT0719",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            60.74,
+            64.52
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRcervejas",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            64.52,
+            68.54
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "DOM 15/11",
+          "detalhe": "faltam 4 dias",
+          "midia": "EXT",
+          "inicio": 389.64,
+          "tipo": "data",
+          "corte": [
+            68.54,
+            74.0
+          ]
+        },
+        {
+          "titulo": "11 DETALHES",
+          "detalhe": "minuto e segundo • hipótese avisada",
+          "midia": "EXT",
+          "inicio": 430.6,
+          "tipo": "editorial",
+          "corte": [
+            74.0,
+            78.3
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1727",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            78.3,
+            80.4
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1857",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            80.4,
+            82.04
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1220",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            82.04,
+            84.1
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1734",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            84.1,
+            86.59
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "DIA 2: TORNEIRA LIGADA",
+          "detalhe": "06:50 • o que eu disse no ar",
+          "midia": "EXT",
+          "inicio": 396.0,
+          "tipo": "editorial",
+          "corte": [
+            86.59,
+            91.68
+          ]
+        },
+        {
+          "titulo": "06:50 • SEM BANHEIRA",
+          "detalhe": "mulher com dois vestidos em cabide",
+          "midia": "EXT",
+          "inicio": 405.2,
+          "tipo": "editorial",
+          "corte": [
+            91.68,
+            97.24
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0643",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            97.24,
+            101.78
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "06:42 • TÊNIS NA BORDA",
+          "detalhe": "sola caramelo, mão no cadarço",
+          "midia": "CRtenis",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            101.78,
+            106.56
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "TORNEIRA: FECHADA",
+          "detalhe": "06:42 • cromada, sem uma gota",
+          "midia": "CRtorneira",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            106.56,
+            109.8
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "DIA 2: ERRADO",
+          "detalhe": "banheira seca, torneira fechada",
+          "midia": "CRbocal",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            109.8,
+            113.82
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 440.0,
+          "tipo": "editorial",
+          "corte": [
+            113.82,
+            116.92
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0723",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            116.92,
+            122.0
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "DRINK • R1 / DROP",
+          "detalhe": "07:23 • beber ou largar",
+          "midia": "CRdrink",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            122.0,
+            127.13
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0720",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            127.13,
+            129.84
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRbarra",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            129.84,
+            135.4
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "07:24 • SUCO NA TV",
+          "detalhe": "de longe, caixa de suco",
+          "midia": "CRtvsuco",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            135.4,
+            139.28
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 445.3,
+          "tipo": "editorial",
+          "corte": [
+            139.28,
+            143.88
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "07:25 • CÉREBRO NA TV",
+          "detalhe": "perninha, banco, dentes à mostra",
+          "midia": "CRbanco",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            143.88,
+            148.81
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRnuvemchuva",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            148.81,
+            151.21
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "07:32 • PÍLULA + JOINHA",
+          "detalhe": "pílula azul em voo, mão azul",
+          "midia": "EXT0732",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            151.21,
+            157.51
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "MINIATURASTV",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            157.51,
+            163.85
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0725",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            163.85,
+            169.56
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRdrink",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            169.56,
+            171.62
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0904",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            171.62,
+            176.44
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRhomem0904",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            176.44,
+            179.1
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 544.15,
+          "tipo": "editorial",
+          "corte": [
+            179.1,
+            181.3
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "EAT • R1 / DROP",
+          "detalhe": "09:04 • comer ou largar",
+          "midia": "CReat",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            181.3,
+            184.86
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "DIVIDIDADRINKEAT",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            184.86,
+            189.6
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRfundo0904",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            189.6,
+            195.39
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 735.2,
+          "tipo": "editorial",
+          "corte": [
+            195.39,
+            204.09
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 672.0,
+          "tipo": "editorial",
+          "corte": [
+            204.09,
+            207.3
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "SMOKE • R1",
+          "detalhe": "12:15 • não era R3, como na minha lista",
+          "midia": "CRsmoke",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            207.3,
+            211.14
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1220",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            211.14,
+            214.78
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "COLAGEMVICIOS",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            214.78,
+            221.65
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1727",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            221.65,
+            225.2
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1047.0,
+          "tipo": "editorial",
+          "corte": [
+            225.2,
+            227.0
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "17:27 • BINÓCULO",
+          "detalhe": "zoom no direcional",
+          "midia": "CRzoomprompt",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            227.0,
+            230.72
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRvrjanela",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            230.72,
+            233.22
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRvrrosto",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            233.22,
+            236.38
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRvrmaos",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            236.38,
+            238.95
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "DIVIDIDABINOCULOHEADSET",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            238.95,
+            243.92
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1727",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            243.92,
+            246.62
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1052.0,
+          "tipo": "editorial",
+          "corte": [
+            246.62,
+            250.92
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "OVER 21 ONLY",
+          "detalhe": "17:34 • adesivo amarelo na porta",
+          "midia": "CRover21",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            250.92,
+            255.72
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "LEI ESTADUAL",
+          "detalhe": "proíbe vender álcool a menor",
+          "midia": "CRletra",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            255.72,
+            260.0
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRseguranca",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            260.0,
+            262.24
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1080.2,
+          "tipo": "editorial",
+          "corte": [
+            262.24,
+            265.18
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1734",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            265.18,
+            267.03
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1133.0,
+          "tipo": "editorial",
+          "corte": [
+            267.03,
+            268.9
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "18:57 • PARAQUEDAS",
+          "detalhe": "descida, depois o HUD aparece",
+          "midia": "EXT",
+          "inicio": 1134.87,
+          "tipo": "editorial",
+          "corte": [
+            268.9,
+            271.5
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1857",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            271.5,
+            274.8
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "2 RETRATOS • ♥ • R1",
+          "detalhe": "18:57 • canto da tela",
+          "midia": "CRretratos",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            274.8,
+            281.64
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRcarinhas",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            281.64,
+            286.88
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1138.5,
+          "tipo": "editorial",
+          "corte": [
+            286.88,
+            289.98
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 1144.0,
+          "tipo": "editorial",
+          "corte": [
+            289.98,
+            292.27
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "FATO: 2 RETRATOS",
+          "detalhe": "1 coração • 2 caras de bravo",
+          "midia": "CRretratoscoracao",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            292.27,
+            297.1
+          ]
+        },
+        {
+          "titulo": "HIPÓTESE • MENU DE TROCA",
+          "detalhe": "leitura minha, não confirmada",
+          "midia": "EXT1857",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            297.1,
+            301.28
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRcarinhas",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            301.28,
+            305.88
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "HIPÓTESE • LEMBRA O GTA V",
+          "detalhe": "a subida pro satélite",
+          "midia": "EXT",
+          "inicio": 1141.6,
+          "tipo": "editorial",
+          "corte": [
+            305.88,
+            307.68
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRsatelite",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            307.68,
+            309.79
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CRretratos",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            309.79,
+            316.68
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CARTELAULTIMO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            316.68,
+            319.0
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "25:26 • LUTA NO CHÃO",
+          "detalhe": "quadro desfocado de propósito",
+          "midia": "DESFOQUE2527",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            319.0,
+            323.74
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "CHÃO: CONCRETO",
+          "detalhe": "não é tapete • 25:26",
+          "midia": "CRchaoconcreto",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            323.74,
+            327.14
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CARTELAICONES",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            327.14,
+            328.58
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CARTELAALVO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            328.58,
+            329.76
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CARTELATRIANGULO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            329.76,
+            332.17
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CARTELASEMTEXTO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            332.17,
+            337.48
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CARTELAHIPOTESE",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            337.48,
+            340.4
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CARTELASOBOTAO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            340.4,
+            344.59
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "COLAGEM11",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            344.59,
+            348.68
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0643",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            348.68,
+            353.3
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "CARTELAQUINTA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            353.3,
+            357.83
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "QUAL VOCÊ PROCURA?",
+          "detalhe": "comenta o seu primeiro detalhe",
+          "midia": "COLAGEM11",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            357.83,
+            361.95
+          ],
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT0719",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            361.95,
+            363.15
+          ],
+          "sem_card": true
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1000",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            363.15,
+            364.3
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "EXT1727",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            364.3,
+            367.56
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "AMANHÃ • 16/11",
+          "detalhe": "PS5 × PS5 Pro • sem torcida",
+          "midia": "EXT",
+          "inicio": 848.0,
+          "tipo": "data",
+          "corte": [
+            367.56,
+            372.2
+          ]
+        },
+        {
+          "titulo": "30 OU 60 FPS?",
+          "detalhe": "o que dá pra afirmar, sem torcida",
+          "midia": "EXT",
+          "inicio": 456.0,
+          "tipo": "editorial",
+          "corte": [
+            372.2,
+            381.79
+          ]
+        },
+        {
+          "titulo": "SE INSCREVE • ATÉ AMANHÃ",
+          "detalhe": "",
+          "midia": "EXT",
+          "inicio": 465.59,
+          "tipo": "tag",
+          "corte": [
+            381.79,
+            383.84
+          ]
+        }
+      ]
+    }
+  }
+}

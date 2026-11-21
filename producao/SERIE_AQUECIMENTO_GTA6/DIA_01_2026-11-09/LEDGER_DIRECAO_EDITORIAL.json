@@ -1,0 +1,715 @@
+{
+  "status": "timeline_final_aguarda_QA_master",
+  "duration": 372.2666666666667,
+  "freeze_seconds": 54.866666666666674,
+  "freeze_percent": 14.738538681948425,
+  "freeze_justification": "Pausas de leitura do HUD e detalhes; fonte continua identificada como análise. Movimentos2D discretos nas pausas, não parallax3D.",
+  "source_reconciliation": "Catálogo mostra keyframe anterior ao rótulo. HUDrotulado6:10 temPTS364.9. Narração usa referência aproximada; nãoexibir370exato comoPTSdoHUD.",
+  "shots": [
+    {
+      "paragraph": 0,
+      "start_frame": 0,
+      "end_frame": 72,
+      "anchor": "Esquece a bazuca na cueca.",
+      "parts": [
+        {
+          "source_start": 262,
+          "frames": 72,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "SEM BOLSO MÁGICO",
+        "Análise do gameplay oficial"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "Retorno pontual ao combate para analisar arma/equipamento/ângulos, sem loop automático",
+      "freeze_seconds": 0,
+      "duration_seconds": 2.4
+    },
+    {
+      "paragraph": 1,
+      "start_frame": 72,
+      "end_frame": 331,
+      "anchor": "Se você abrir o GTA seis no dia dezenove de novembro jogando no automático de dois mil e treze, você",
+      "parts": [
+        {
+          "source_start": 18,
+          "frames": 259,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "19 DE NOVEMBRO",
+        "Lançamento · Rockstar Games"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 8.633333333333333
+    },
+    {
+      "paragraph": 2,
+      "start_frame": 331,
+      "end_frame": 723,
+      "anchor": "O pré-load de duzentos e doze gigas começa hoje, dia dez. Só que enquanto metade da internet tá preo",
+      "parts": [
+        {
+          "source_start": 1561,
+          "frames": 210,
+          "freeze": false
+        },
+        {
+          "source_start": 1599,
+          "frames": 180,
+          "freeze": false
+        },
+        {
+          "source_start": 1604.9,
+          "frames": 2,
+          "freeze": true
+        }
+      ],
+      "card": [
+        "212 GB",
+        "Pré-load · 10 de novembro"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0.06666666666666667,
+      "duration_seconds": 13.066666666666666
+    },
+    {
+      "paragraph": 3,
+      "start_frame": 723,
+      "end_frame": 1211,
+      "anchor": "Repara nesse comando de duas linhas na porta desse carro vermelho no minuto seis e dez. Escolher o b",
+      "parts": [
+        {
+          "source_start": 363.6,
+          "frames": 39,
+          "freeze": false
+        },
+        {
+          "source_start": 364.9,
+          "frames": 141,
+          "freeze": true
+        },
+        {
+          "source_start": 264,
+          "frames": 300,
+          "freeze": false
+        },
+        {
+          "source_start": 273.9,
+          "frames": 8,
+          "freeze": true
+        }
+      ],
+      "card": [
+        "QUAL BOTÃO?",
+        "Fonte: aproximadamente 6 min"
+      ],
+      "reprise": "gancho/payoff do mesmo HUD",
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "gancho/payoff do mesmo HUD",
+      "freeze_seconds": 4.966666666666667,
+      "duration_seconds": 16.266666666666666
+    },
+    {
+      "paragraph": 4,
+      "start_frame": 1211,
+      "end_frame": 1642,
+      "anchor": "Vamos falar a real. Treze anos jogando GTA cinco deixaram todo mundo mal-acostumado. Você acostumou ",
+      "parts": [
+        {
+          "source_start": 28,
+          "frames": 431,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 14.366666666666667
+    },
+    {
+      "paragraph": 5,
+      "start_frame": 1642,
+      "end_frame": 1795,
+      "anchor": "Tenta fazer isso na primeira operação em Leonida pra você ver o tamanho do velório.",
+      "parts": [
+        {
+          "source_start": 276,
+          "frames": 153,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "Retorno pontual ao combate para analisar arma/equipamento/ângulos, sem loop automático",
+      "freeze_seconds": 0,
+      "duration_seconds": 5.1
+    },
+    {
+      "paragraph": 6,
+      "start_frame": 1795,
+      "end_frame": 2443,
+      "anchor": "Olha o primeiro minuto do vídeo de gameplay que a Rockstar soltou. Quando o Jason e a Lucia entram n",
+      "parts": [
+        {
+          "source_start": 52,
+          "frames": 648,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "LEIA O AMBIENTE",
+        "Interação com moradores"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 21.6
+    },
+    {
+      "paragraph": 7,
+      "start_frame": 2443,
+      "end_frame": 2709,
+      "anchor": "Trinta segundos depois, no corredor do segundo andar, tem até comando pra estudar ou fazer festa pro",
+      "parts": [
+        {
+          "source_start": 116,
+          "frames": 266,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "ATÉ O CACHORRO",
+        "Interações mostradas no gameplay"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 8.866666666666667
+    },
+    {
+      "paragraph": 8,
+      "start_frame": 2709,
+      "end_frame": 3199,
+      "anchor": "E quando você finalmente chega na porta do apartamento onde rola o esquema, nada de entrar dando voa",
+      "parts": [
+        {
+          "source_start": 135,
+          "frames": 490,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 16.333333333333332
+    },
+    {
+      "paragraph": 9,
+      "start_frame": 3199,
+      "end_frame": 3399,
+      "anchor": "No GTA cinco, o cenário era de papelão. Aqui, até o corredor do prédio tem porteiro armado.",
+      "parts": [
+        {
+          "source_start": 75,
+          "frames": 200,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 6.666666666666667
+    },
+    {
+      "paragraph": 10,
+      "start_frame": 3399,
+      "end_frame": 3521,
+      "anchor": "Mas a humilhação de verdade começa quando a conversa azeda lá dentro.",
+      "parts": [
+        {
+          "source_start": 230,
+          "frames": 122,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 4.066666666666666
+    },
+    {
+      "paragraph": 11,
+      "start_frame": 3521,
+      "end_frame": 3876,
+      "anchor": "Repara na cena do laboratório clandestino a partir do minuto três. Tem uma galera de luva amarela tr",
+      "parts": [
+        {
+          "source_start": 180,
+          "frames": 355,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "O MALOTE",
+        "Observe o equipamento levado"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 11.833333333333334
+    },
+    {
+      "paragraph": 12,
+      "start_frame": 3876,
+      "end_frame": 4272,
+      "anchor": "Quando o tiro come no minuto quatro e vinte, adivinha o que o seu cérebro viciado em dois mil e trez",
+      "parts": [
+        {
+          "source_start": 252,
+          "frames": 360,
+          "freeze": false
+        },
+        {
+          "source_start": 263.9,
+          "frames": 36,
+          "freeze": true
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "Retorno pontual ao combate para analisar arma/equipamento/ângulos, sem loop automático",
+      "freeze_seconds": 1.2,
+      "duration_seconds": 13.2
+    },
+    {
+      "paragraph": 13,
+      "start_frame": 4272,
+      "end_frame": 4342,
+      "anchor": "Esquece. Acabou o bolso de mágico.",
+      "parts": [
+        {
+          "source_start": 267,
+          "frames": 70,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "Retorno pontual ao combate para analisar arma/equipamento/ângulos, sem loop automático",
+      "freeze_seconds": 0,
+      "duration_seconds": 2.3333333333333335
+    },
+    {
+      "paragraph": 14,
+      "start_frame": 4342,
+      "end_frame": 4979,
+      "anchor": "Olha o topo direito da tela no minuto quatro e vinte. O Jason começa a briga só com uma pistola na m",
+      "parts": [
+        {
+          "source_start": 255,
+          "frames": 637,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "ARMA NO CHÃO",
+        "Moreland 850 · recolher arma"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "Retorno pontual ao combate para analisar arma/equipamento/ângulos, sem loop automático",
+      "freeze_seconds": 0,
+      "duration_seconds": 21.233333333333334
+    },
+    {
+      "paragraph": 15,
+      "start_frame": 4979,
+      "end_frame": 5302,
+      "anchor": "Se você não olhar pro chão e não gerenciar o que tá pendurado na bandoleira, você vai tentar trocar ",
+      "parts": [
+        {
+          "source_start": 280,
+          "frames": 323,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "Retorno pontual ao combate para analisar arma/equipamento/ângulos, sem loop automático",
+      "freeze_seconds": 0,
+      "duration_seconds": 10.766666666666667
+    },
+    {
+      "paragraph": 16,
+      "start_frame": 5302,
+      "end_frame": 5457,
+      "anchor": "E não acha que pegar a escopeta no chão resolve a sua vida se você continuar atirando igual um bonec",
+      "parts": [
+        {
+          "source_start": 296,
+          "frames": 155,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "Retorno pontual ao combate para analisar arma/equipamento/ângulos, sem loop automático",
+      "freeze_seconds": 0,
+      "duration_seconds": 5.166666666666667
+    },
+    {
+      "paragraph": 17,
+      "start_frame": 5457,
+      "end_frame": 5998,
+      "anchor": "Olha o que acontece entre o minuto quatro e quarenta e o minuto cinco e cinquenta desse mesmo vídeo.",
+      "parts": [
+        {
+          "source_start": 279,
+          "frames": 541,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "CORREDOR FECHADO",
+        "Fumaça, cobertura e ângulos"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "Retorno pontual ao combate para analisar arma/equipamento/ângulos, sem loop automático",
+      "freeze_seconds": 0,
+      "duration_seconds": 18.033333333333335
+    },
+    {
+      "paragraph": 18,
+      "start_frame": 5998,
+      "end_frame": 6372,
+      "anchor": "Se você sair andando reto no meio do corredor confiando naquela mira automática de preguiçoso que gr",
+      "parts": [
+        {
+          "source_start": 310,
+          "frames": 374,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "Retorno pontual ao combate para analisar arma/equipamento/ângulos, sem loop automático",
+      "freeze_seconds": 0,
+      "duration_seconds": 12.466666666666667
+    },
+    {
+      "paragraph": 19,
+      "start_frame": 6372,
+      "end_frame": 6943,
+      "anchor": "Repara no detalhe do minuto cinco e quarenta: você sai de um corredor estourado de lâmpada fluoresce",
+      "parts": [
+        {
+          "source_start": 330,
+          "frames": 571,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "CLARO → ESCURO",
+        "Análise da sequência exibida"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 19.033333333333335
+    },
+    {
+      "paragraph": 20,
+      "start_frame": 6943,
+      "end_frame": 7121,
+      "anchor": "E essa física pesada vale pro jogo inteiro, do barraco até a cobertura de milionário.",
+      "parts": [
+        {
+          "source_start": 1494,
+          "frames": 178,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 5.933333333333334
+    },
+    {
+      "paragraph": 21,
+      "start_frame": 7121,
+      "end_frame": 7787,
+      "anchor": "Mais pra frente no vídeo, lá no minuto vinte e quatro, o Jason invade um prédio comercial à noite de",
+      "parts": [
+        {
+          "source_start": 1435,
+          "frames": 270,
+          "freeze": false
+        },
+        {
+          "source_start": 1495,
+          "frames": 396,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "OUTRA ABORDAGEM",
+        "Prédio comercial · gameplay oficial"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 22.2
+    },
+    {
+      "paragraph": 22,
+      "start_frame": 7787,
+      "end_frame": 8045,
+      "anchor": "Tá entendendo por que o sujeito que já deixou o atestado médico falso engatilhado pro dia dezenove v",
+      "parts": [
+        {
+          "source_start": 1510,
+          "frames": 258,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 8.6
+    },
+    {
+      "paragraph": 23,
+      "start_frame": 8045,
+      "end_frame": 8332,
+      "anchor": "O jogo inteiro foi desenhado pra punir quem age sem ler o ambiente. E nenhum momento prova isso melh",
+      "parts": [
+        {
+          "source_start": 360,
+          "frames": 270,
+          "freeze": false
+        },
+        {
+          "source_start": 368.9,
+          "frames": 17,
+          "freeze": true
+        }
+      ],
+      "card": null,
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0.5666666666666667,
+      "duration_seconds": 9.566666666666666
+    },
+    {
+      "paragraph": 24,
+      "start_frame": 8332,
+      "end_frame": 8639,
+      "anchor": "Volta pro minuto seis e dez do gameplay. Você acabou de sobreviver ao tiroteio no prédio, tá com o m",
+      "parts": [
+        {
+          "source_start": 347,
+          "frames": 300,
+          "freeze": false
+        },
+        {
+          "source_start": 363.6,
+          "frames": 7,
+          "freeze": false
+        }
+      ],
+      "card": null,
+      "reprise": "gancho/payoff do mesmo HUD",
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "gancho/payoff do mesmo HUD",
+      "freeze_seconds": 0,
+      "duration_seconds": 10.233333333333333
+    },
+    {
+      "paragraph": 25,
+      "start_frame": 8639,
+      "end_frame": 9251,
+      "anchor": "Quando você encosta naquele carro vermelho estacionado, o jogo não quebra o vidro sozinho igual em d",
+      "parts": [
+        {
+          "source_start": 363.6,
+          "frames": 48,
+          "freeze": false
+        },
+        {
+          "source_start": 364.9,
+          "frames": 564,
+          "freeze": true
+        }
+      ],
+      "card": [
+        "CÍRCULO / TRIÂNGULO",
+        "Smash Window / Slim Jim"
+      ],
+      "reprise": "gancho/payoff do mesmo HUD",
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "gancho/payoff do mesmo HUD",
+      "freeze_seconds": 18.8,
+      "duration_seconds": 20.400000000000002
+    },
+    {
+      "paragraph": 26,
+      "start_frame": 9251,
+      "end_frame": 9724,
+      "anchor": "Pensou com a cabeça do GTA cinco e meteu a mão no círculo? Você estoura o vidro no meio de um estaci",
+      "parts": [
+        {
+          "source_start": 365.2,
+          "frames": 114,
+          "freeze": false
+        },
+        {
+          "source_start": 368.9,
+          "frames": 359,
+          "freeze": true
+        }
+      ],
+      "card": [
+        "CÍRCULO",
+        "Smash Window · consequência: análise editorial"
+      ],
+      "reprise": "gancho/payoff do mesmo HUD",
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "gancho/payoff do mesmo HUD",
+      "freeze_seconds": 11.966666666666667,
+      "duration_seconds": 15.766666666666666
+    },
+    {
+      "paragraph": 27,
+      "start_frame": 9724,
+      "end_frame": 10012,
+      "anchor": "Usou o Slim Jim no triângulo? Você perde três segundos na porta, mas sai do estacionamento inteiro, ",
+      "parts": [
+        {
+          "source_start": 363.6,
+          "frames": 48,
+          "freeze": false
+        },
+        {
+          "source_start": 364.9,
+          "frames": 240,
+          "freeze": true
+        }
+      ],
+      "card": [
+        "TRIÂNGULO",
+        "Slim Jim · consequência: análise editorial"
+      ],
+      "reprise": "gancho/payoff do mesmo HUD",
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "gancho/payoff do mesmo HUD",
+      "freeze_seconds": 8,
+      "duration_seconds": 9.6
+    },
+    {
+      "paragraph": 28,
+      "start_frame": 10012,
+      "end_frame": 10339,
+      "anchor": "No primeiro dia de jogo, gravar essa regra já salva a sua pele: círculo é pra quando a rua já tá peg",
+      "parts": [
+        {
+          "source_start": 363.6,
+          "frames": 48,
+          "freeze": false
+        },
+        {
+          "source_start": 364.9,
+          "frames": 279,
+          "freeze": true
+        }
+      ],
+      "card": [
+        "OBSERVE AS OPÇÕES",
+        "Leitura do HUD · sem teste jogável próprio"
+      ],
+      "reprise": "gancho/payoff do mesmo HUD",
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": "gancho/payoff do mesmo HUD",
+      "freeze_seconds": 9.3,
+      "duration_seconds": 10.9
+    },
+    {
+      "paragraph": 29,
+      "start_frame": 10339,
+      "end_frame": 10679,
+      "anchor": "E pra caber um mundo onde cada porta de apartamento, cada arma no chão e cada fechadura de carro fun",
+      "parts": [
+        {
+          "source_start": 1579,
+          "frames": 340,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "PRÉ-LOAD DISPONÍVEL",
+        "Consulte as orientações da sua plataforma"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 11.333333333333334
+    },
+    {
+      "paragraph": 30,
+      "start_frame": 10679,
+      "end_frame": 11168,
+      "anchor": "No próximo vídeo, no especial do pré-load, eu vou abrir a caixa-preta desses duzentos e doze gigas e",
+      "parts": [
+        {
+          "source_start": 1549,
+          "frames": 489,
+          "freeze": false
+        }
+      ],
+      "card": [
+        "PIXEL PROCURADO",
+        "Próximo vídeo: o tamanho de Leonida"
+      ],
+      "reprise": null,
+      "source_verified": "gameplay_4K_confirmado_por_grade_e_indices; conferir amostra final por trecho",
+      "reuse_purpose": null,
+      "freeze_seconds": 0,
+      "duration_seconds": 16.3
+    }
+  ]
+}

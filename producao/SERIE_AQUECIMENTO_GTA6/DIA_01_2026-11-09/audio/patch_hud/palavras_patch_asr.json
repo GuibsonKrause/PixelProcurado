@@ -1,0 +1,206 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.62,
+    "word": "Apertar",
+    "probability": 0.5778
+  },
+  {
+    "start": 0.62,
+    "end": 1.26,
+    "word": "Círculo",
+    "probability": 0.776
+  },
+  {
+    "start": 1.26,
+    "end": 1.54,
+    "word": "no",
+    "probability": 0.8098
+  },
+  {
+    "start": 1.54,
+    "end": 1.74,
+    "word": "Smash",
+    "probability": 0.6798
+  },
+  {
+    "start": 1.74,
+    "end": 2.2,
+    "word": "Windows",
+    "probability": 0.259
+  },
+  {
+    "start": 2.2,
+    "end": 2.88,
+    "word": "para",
+    "probability": 0.5403
+  },
+  {
+    "start": 2.88,
+    "end": 3.3,
+    "word": "estourar",
+    "probability": 0.7665
+  },
+  {
+    "start": 3.3,
+    "end": 3.36,
+    "word": "a",
+    "probability": 0.7832
+  },
+  {
+    "start": 3.36,
+    "end": 3.58,
+    "word": "janela",
+    "probability": 0.7651
+  },
+  {
+    "start": 3.58,
+    "end": 3.72,
+    "word": "no",
+    "probability": 0.9097
+  },
+  {
+    "start": 3.72,
+    "end": 4.16,
+    "word": "braço.",
+    "probability": 0.9948
+  },
+  {
+    "start": 5.06,
+    "end": 5.5,
+    "word": "Pensou",
+    "probability": 0.88
+  },
+  {
+    "start": 5.5,
+    "end": 5.6,
+    "word": "com",
+    "probability": 0.9844
+  },
+  {
+    "start": 5.6,
+    "end": 5.64,
+    "word": "a",
+    "probability": 0.9779
+  },
+  {
+    "start": 5.64,
+    "end": 5.9,
+    "word": "cabeça",
+    "probability": 0.9944
+  },
+  {
+    "start": 5.9,
+    "end": 6.04,
+    "word": "do",
+    "probability": 0.9052
+  },
+  {
+    "start": 6.04,
+    "end": 6.2,
+    "word": "GTA",
+    "probability": 0.982
+  },
+  {
+    "start": 6.2,
+    "end": 6.66,
+    "word": "V",
+    "probability": 0.5431
+  },
+  {
+    "start": 6.66,
+    "end": 6.84,
+    "word": "e",
+    "probability": 0.9893
+  },
+  {
+    "start": 6.84,
+    "end": 7.22,
+    "word": "meteu",
+    "probability": 0.9744
+  },
+  {
+    "start": 7.22,
+    "end": 7.26,
+    "word": "a",
+    "probability": 0.9478
+  },
+  {
+    "start": 7.26,
+    "end": 7.4,
+    "word": "mão",
+    "probability": 0.9991
+  },
+  {
+    "start": 7.4,
+    "end": 7.5,
+    "word": "no",
+    "probability": 0.9731
+  },
+  {
+    "start": 7.5,
+    "end": 7.86,
+    "word": "círculo.",
+    "probability": 0.7893
+  },
+  {
+    "start": 8.86,
+    "end": 9.3,
+    "word": "Círculo",
+    "probability": 0.9757
+  },
+  {
+    "start": 9.3,
+    "end": 9.54,
+    "word": "é",
+    "probability": 0.939
+  },
+  {
+    "start": 9.54,
+    "end": 9.7,
+    "word": "para",
+    "probability": 0.546
+  },
+  {
+    "start": 9.7,
+    "end": 9.88,
+    "word": "quando",
+    "probability": 0.9845
+  },
+  {
+    "start": 9.88,
+    "end": 10.02,
+    "word": "a",
+    "probability": 0.9924
+  },
+  {
+    "start": 10.02,
+    "end": 10.18,
+    "word": "rua",
+    "probability": 0.9877
+  },
+  {
+    "start": 10.18,
+    "end": 10.3,
+    "word": "já",
+    "probability": 0.6724
+  },
+  {
+    "start": 10.3,
+    "end": 10.4,
+    "word": "está",
+    "probability": 0.8724
+  },
+  {
+    "start": 10.4,
+    "end": 10.66,
+    "word": "pegando",
+    "probability": 0.9891
+  },
+  {
+    "start": 10.66,
+    "end": 11.04,
+    "word": "fogo.",
+    "probability": 0.9931
+  }
+]

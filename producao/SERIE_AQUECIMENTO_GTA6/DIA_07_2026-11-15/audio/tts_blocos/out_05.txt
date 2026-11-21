@@ -1,0 +1,12 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "voice_iagtq1gnk2br",
+  "language": "pt-BR (definido pela voz, pelo estilo e pelo texto)",
+  "style_file": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_07_2026-11-15\\04_ESTILO_GEMINI.txt",
+  "output_dir": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_07_2026-11-15\\audio\\tts_blocos",
+  "inputs": [
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_07_2026-11-15\\audio\\tts_blocos\\BLOCO_05_GEMINI.txt"
+  ]
+}
+[1/1] Gerando BLOCO_05_GEMINI.txt...
+Salvo: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\SERIE_AQUECIMENTO_GTA6\DIA_07_2026-11-15\audio\tts_blocos\BLOCO_05_narracao.wav | audio/wav | 24000 Hz | 1 canal(is) | 3701788 bytes

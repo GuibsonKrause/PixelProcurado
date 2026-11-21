@@ -1,0 +1,250 @@
+{
+  "checked_at": "2026-11-03T10:29:05.721536+00:00",
+  "integrations": [
+    {
+      "id": "cmvzyw7vj0003pddwkgtivv8i",
+      "name": "Pixel Procurado",
+      "identifier": "instagram",
+      "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/ba3ca7713da1063defe5d4ab2f1431681.jpg",
+      "disabled": false,
+      "profile": "pixelprocurado"
+    },
+    {
+      "id": "cmvzyur290001pddwolrt33em",
+      "name": "Pixel Procurado",
+      "identifier": "facebook",
+      "picture": "https://elephant-sprite-engulf.ngrok-free.dev/uploads/2026/11/03/52cc48164ccf7b3adc3c21bda27153b6.jpg",
+      "disabled": false,
+      "profile": "pixelprocurado"
+    },
+    {
+      "id": "cmvsctfgl0001jncj932ovibv",
+      "name": "Pixel Procurado",
+      "identifier": "youtube",
+      "picture": "http://localhost:4007/uploads/2026/10/28/acd1e9e11a8f57fca6196bf9254dc10fc.jpg",
+      "disabled": false,
+      "profile": "@pixelprocurado"
+    }
+  ],
+  "schemas": {
+    "youtube": {
+      "output": {
+        "rules": "YouTube must have on video attachment, it cannot be empty",
+        "maxLength": 5000,
+        "settings": {
+          "properties": {
+            "title": {
+              "not": {
+                "type": "null"
+              },
+              "maxLength": 100,
+              "type": "string",
+              "minLength": 2
+            },
+            "type": {
+              "not": {
+                "type": "null"
+              },
+              "type": "string",
+              "enum": [
+                "public",
+                "private",
+                "unlisted"
+              ]
+            },
+            "selfDeclaredMadeForKids": {
+              "type": "string",
+              "enum": [
+                "yes",
+                "no"
+              ]
+            },
+            "thumbnail": {
+              "properties": {
+                "id": {
+                  "not": {
+                    "type": "null"
+                  },
+                  "type": "string"
+                },
+                "path": {
+                  "type": "string",
+                  "not": {
+                    "type": "null"
+                  }
+                },
+                "alt": {
+                  "type": "string"
+                },
+                "thumbnail": {
+                  "format": "url",
+                  "type": "string"
+                }
+              },
+              "type": "object",
+              "required": [
+                "id",
+                "path"
+              ]
+            },
+            "tags": {
+              "$ref": "#/definitions/Array",
+              "items": {
+                "properties": {
+                  "value": {
+                    "type": "string"
+                  },
+                  "label": {
+                    "type": "string"
+                  }
+                },
+                "type": "object",
+                "required": [
+                  "value",
+                  "label"
+                ]
+              },
+              "type": "array"
+            }
+          },
+          "type": "object",
+          "required": [
+            "title",
+            "type"
+          ]
+        },
+        "tools": []
+      }
+    },
+    "facebook": {
+      "output": {
+        "rules": "Facebook posts can be text only, or include photos or a video. If it's a story, it must have at least one attachment (photo or video), and each media is published as a separate story. Video posts (not stories) can carry an optional title.",
+        "maxLength": 63206,
+        "settings": {
+          "properties": {
+            "url": {
+              "format": "url",
+              "type": "string"
+            },
+            "post_type": {
+              "type": "string",
+              "enum": [
+                "post",
+                "story"
+              ]
+            },
+            "text_format_preset_id": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string",
+              "description": "Title of the video, used only for video (non-story) posts"
+            }
+          },
+          "type": "object"
+        },
+        "tools": []
+      }
+    },
+    "instagram": {
+      "output": {
+        "rules": "Instagram should have at least one attachment, if it's a story, it can have only one picture",
+        "maxLength": 2200,
+        "settings": {
+          "properties": {
+            "post_type": {
+              "not": {
+                "type": "null"
+              },
+              "type": "string",
+              "enum": [
+                "post",
+                "story"
+              ]
+            },
+            "is_trial_reel": {},
+            "graduation_strategy": {
+              "type": "string",
+              "enum": [
+                "MANUAL",
+                "SS_PERFORMANCE"
+              ]
+            },
+            "collaborators": {
+              "items": {
+                "properties": {
+                  "label": {
+                    "type": "string",
+                    "not": {
+                      "type": "null"
+                    }
+                  }
+                },
+                "type": "object",
+                "required": [
+                  "label"
+                ]
+              },
+              "type": "array"
+            },
+            "audio": {
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "not": {
+                    "type": "null"
+                  }
+                },
+                "title": {
+                  "type": "string"
+                },
+                "artist": {
+                  "type": "string"
+                },
+                "image": {
+                  "type": "string"
+                },
+                "audio_volume": {
+                  "maximum": 100,
+                  "type": "number",
+                  "minimum": 0
+                },
+                "video_volume": {
+                  "maximum": 100,
+                  "type": "number",
+                  "minimum": 0
+                }
+              },
+              "type": "object",
+              "required": [
+                "id"
+              ]
+            }
+          },
+          "type": "object",
+          "required": [
+            "post_type"
+          ]
+        },
+        "tools": [
+          {
+            "methodName": "audioSearch",
+            "description": "Search audio (music or original sounds) to attach to a Reel via the \"audio\" setting, an empty query returns trending audio",
+            "dataSchema": [
+              {
+                "key": "q",
+                "type": "string",
+                "description": "Search query, leave empty for trending audio"
+              },
+              {
+                "key": "type",
+                "type": "string",
+                "description": "Either \"music\" or \"original_sound\", defaults to \"music\""
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

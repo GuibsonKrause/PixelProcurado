@@ -1,0 +1,702 @@
+{
+  "schema_versao": 1,
+  "episodio": "DIA_08_2026-11-16",
+  "revisor": {
+    "modelo": "claude-opus-5-5",
+    "agent_id": "subagente-revisor-final-DIA08 (Claude Code; não participou da montagem)"
+  },
+  "data": "2026-11-16",
+  "artefatos": [
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "sha256": "6c53bc0d83217d692bca525e909e9e1a81ad7a87227e6b1b00358db2686491ea"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.srt",
+      "sha256": "5da35413e3f95557ed48422d59c08ad204491e90039ef414c0252576531892d1"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "sha256": "baee033049e3b94a6e9e9a064c62583d04a333d6ceaa07169eb82f89ae87f9fb"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "sha256": "e219c045dd8cde80f60e4861852019c8085d20f84db703dd652fbc4efd7d2eab"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_story/exportacoes/Pixel_Procurado_DIA08_Story_V2.mp4",
+      "sha256": "9c84d24866059bbd73ec8514d56068f2ec7a5ac4d69e8e0cb853c7adf225da06"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/publicacao/capas/capa_longo_A.jpg",
+      "sha256": "c05530878fed3500922f597a3470e0bb7ed0e92515977ba07b59e03f1e5ac103"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/publicacao/capas/capa_longo_B.jpg",
+      "sha256": "2db166ab039de782cf3e435645a3fbdabd58c633bd0a19bb10acf0fba7505b5a"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/publicacao/capas/capa_vertical_A.jpg",
+      "sha256": "f3d56ec075ead220135626a9cd61a8c700b262a9d9cec78a44afec8d5c46124f"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/publicacao/capas/capa_vertical_B.jpg",
+      "sha256": "e33a3e60f660936f1da5deb353c5514f3224fd195081bfc4f651917fea39e592"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/publicacao/carrossel/01.jpg",
+      "sha256": "51e67876c68ca649c70072c48fbd2b3ada1533024c5bcec0437df16b5d9c3c5a"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/publicacao/carrossel/02.jpg",
+      "sha256": "2f88406795617ef47b6cf71fce13f8b04defbf43225527b15ec23b2025244257"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/publicacao/carrossel/03.jpg",
+      "sha256": "310756bef664919c61800e2aee693cfb8e12c8eb358691812de44588536a7022"
+    },
+    {
+      "caminho": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/publicacao/carrossel/04.jpg",
+      "sha256": "e695da61d7378111a804aba34c0768ac65e8c3d6016461070eb9e16d1e89d4dc"
+    }
+  ],
+  "audio_trechos_ouvidos": [
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "inicio": 0,
+      "fim": 10,
+      "observacao": "NÃO OUVIDO POR HUMANO: conferido por ASR faster-whisper small (pt) sobre o áudio extraído do MP4 final + ebur128. Gancho: voz no 1º quadro, \"Meta oficial: trinta quadros por segundo\" (0–3,3 s, 5 palavras), seguido de \"Ontem eu prometi PS cinco normal contra PS cinco Pro...\". Sem vinheta antes."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "inicio": 10,
+      "fim": 130,
+      "observacao": "NÃO OUVIDO POR HUMANO: conferido por ASR faster-whisper small (pt) sobre o áudio extraído do MP4 final + ebur128. Transcrição bate com 01_NARRACAO.txt (targeting/meta, PSSR com a descrição da Sony, não diz 60, primo). Sem cortes nem repetições."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "inicio": 130,
+      "fim": 250,
+      "observacao": "NÃO OUVIDO POR HUMANO: conferido por ASR faster-whisper small (pt) sobre o áudio extraído do MP4 final + ebur128. Olhar Estendido como ilustração, arquivo a 30 fps, PS5 normal, QSSR não confirmado, Xbox Series X/S. Bate com o roteiro."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "inicio": 250,
+      "fim": 370,
+      "observacao": "NÃO OUVIDO POR HUMANO: conferido por ASR faster-whisper small (pt) sobre o áudio extraído do MP4 final + ebur128. Nuvem, Remote Play, lista do não confirmado, conferir sozinho, sem conselho de compra. Bate com o roteiro."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "inicio": 370,
+      "fim": 404.1,
+      "observacao": "NÃO OUVIDO POR HUMANO: conferido por ASR faster-whisper small (pt) sobre o áudio extraído do MP4 final + ebur128. Pergunta do dia e chamada do Dia 9; termina em \"faltam só três dias\" (~403,5 s), sem corte. Longo: I -16,8 LUFS, LRA 3,1 LU, pico -1,1 dBFS."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "inicio": 0,
+      "fim": 404.1,
+      "observacao": "NÃO OUVIDO POR HUMANO: conferido por ASR faster-whisper small (pt) sobre o áudio extraído do MP4 final + ebur128. Vertical: transcrição idêntica à do longo (só diferenças de pontuação do ASR). I -16,8 LUFS, pico -1,1 dBFS."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "inicio": 0,
+      "fim": 62.3,
+      "observacao": "NÃO OUVIDO POR HUMANO: conferido por ASR faster-whisper small (pt) sobre o áudio extraído do MP4 final + ebur128. Reel: mesmo gancho do longo; termina em \"Esse só no Pro é palavra deles, não minha.\" sem o \"No mesmo...\" cortado (correção da 2ª revisão aplicada). I -16,8 LUFS, pico -1,4 dBFS."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_story/exportacoes/Pixel_Procurado_DIA08_Story_V2.mp4",
+      "inicio": 0,
+      "fim": 19.97,
+      "observacao": "NÃO OUVIDO POR HUMANO: conferido por ASR faster-whisper small (pt) sobre o áudio extraído do MP4 final + ebur128. Story: \"Amanhã, terça, dezessete de novembro...\" até \"faltam só três dias\" (~19,4 s). I -18,1 LUFS (1,3 LU abaixo das outras peças), pico -1,4 dBFS."
+    }
+  ],
+  "frames_inspecionados": [
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 1.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0001.5.jpg",
+      "observacao": "Cartela C01 com a citação \"targeting 30 frames per second\" (Newswire 10/11); legenda \"Meta oficial: trinta quadros por segundo.\" legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 4.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0004.2.jpg",
+      "observacao": "VC10 skyline com card ILUSTRAÇÃO / não mostra fps; legenda \"Ontem eu prometi PS cinco normal\"."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 12.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0012.0.jpg",
+      "observacao": "C01 volta; legenda \"Resposta curta: no dia dez de\"."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0015.0.jpg",
+      "observacao": "C01; legenda legível, sem rodapé sob a legenda."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 20.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0020.0.jpg",
+      "observacao": "C02 \"60 FPS? NÃO APARECE NO TEXTO / nem pro PS5 Pro\"; legenda bate com a fala."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 26.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0026.0.jpg",
+      "observacao": "C03 TARGETING = MIRAR / META ≠ PROMESSA ≠ MEDIÇÃO."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 35.6,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0035.6.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre VC11 (vista aérea com helicóptero); sem fps nem HUD de desempenho."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 40.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0040.2.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre EXT 772 (carro na via); minimapa oficial parcial no canto, sem número de fps."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 45.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0045.0.jpg",
+      "observacao": "EXT sem card (já saiu); legenda \"É sincera, mas ninguém mediu ainda.\""
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 63.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0063.0.jpg",
+      "observacao": "C05 BLOG PLAYSTATION 10/11, PSSR + sombras com ray tracing."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 70.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0070.0.jpg",
+      "observacao": "C06 PSSR = UPSCALER POR IA, \"pixel por pixel / aumenta a resolução com IA (descrição da Sony)\", dentro da área segura."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 75.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0075.0.jpg",
+      "observacao": "C06; legenda \"a imagem do jogo pixel por\"."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 80.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0080.5.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre S780."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 90.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0090.0.jpg",
+      "observacao": "C07 O TEXTO NÃO DIZ (Pro a 60, modos, resolução; blog PS também não)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 101.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0101.8.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre EXT 1200; personagem sem nome nem rótulo."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 105.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0105.0.jpg",
+      "observacao": "EXT 1200 interior de carro, sem rótulo de personagem."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 112.6,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0112.6.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre EXT 1207 (noite, aeroporto)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 123.4,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0123.4.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre S1203 (dois homens no carro, sem nome)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 135.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0135.0.jpg",
+      "observacao": "C09 LOJA PLAYSTATION (BR) \"capturada inteiramente...\" / QUAL MODELO? NÃO DIZ."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 137.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0137.8.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre S788."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 152.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0152.0.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre S763."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 165.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0165.0.jpg",
+      "observacao": "C11 frase riscada \"OLHA COMO O PRO É MAIS NÍTIDO\" / NÃO VOU DIZER ISSO."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 167.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0167.0.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre VC08 (noite)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 190.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0190.0.jpg",
+      "observacao": "C13 QSSR, Sony 01/10/2026, Wolverine e Ghost of Yōtei."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 195.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0195.0.jpg",
+      "observacao": "C13; linha de rodapé quase de borda a borda, mas sem corte."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 210.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0210.0.jpg",
+      "observacao": "C13B QSSR NO GTA VI: NÃO CONFIRMADO."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 216.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0216.8.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre VC11."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 222.7,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0222.7.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre EXT 1213 (aeroporto noturno)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 225.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0225.0.jpg",
+      "observacao": "EXT festa (mulher com celular), sem nome nem rótulo; sem HUD."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 229.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0229.8.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre EXT 980 (rua diurna, HUD de procurado no canto, sem fps)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 245.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0245.0.jpg",
+      "observacao": "C14 XBOX SERIES X|S, citações do Xbox Wire, FPS: nenhum número oficial."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 255.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0255.0.jpg",
+      "observacao": "C14; legenda \"vale pra geração inteira, sem separar\"."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 263.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0263.0.jpg",
+      "observacao": "C15 XBOX CLOUD GAMING \"Series S graphics settings\"."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 269.6,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0269.6.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre S1210."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 285.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0285.0.jpg",
+      "observacao": "C16 REMOTE PLAY: SUPORTE TOTAL."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 290.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0290.9.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre S1213."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 300.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0300.0.jpg",
+      "observacao": "C17 NÃO CONFIRMADO (lista revelada aos poucos); legenda muito próxima do último item."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 315.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0315.0.jpg",
+      "observacao": "C17 com 4 itens ativos; legenda \"mediu ainda. QSSR no GTA seis:\"."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 328.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0328.0.jpg",
+      "observacao": "C18 CHUTE BEM FORMATADO."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 333.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0333.0.jpg",
+      "observacao": "C18B 4 FRASES OFICIAIS + 1 BLOCO DE \"NÃO SEI\"."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 345.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0345.0.jpg",
+      "observacao": "C19 CONFIRA VOCÊ MESMO, passo 1."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 350.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0350.0.jpg",
+      "observacao": "C19, passo 2."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 362.1,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0362.1.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre VC10."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 366.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0366.9.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre S770."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 372.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0372.9.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre S763."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 375.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0375.0.jpg",
+      "observacao": "S763 sem card (já saiu); legenda legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 386.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0386.0.jpg",
+      "observacao": "C21 AMANHÃ 17/11, VIDA NOTURNA EM VICE CITY."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 390.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0390.8.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre VC08."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 399.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0399.9.jpg",
+      "observacao": "Card ILUSTRAÇÃO sobre S1203; legenda \"Se inscreve no canal e até\"."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.mp4",
+      "timecode": 403.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/longo_0403.5.jpg",
+      "observacao": "C22 QUINTA, 19/11, FALTAM 3 DIAS; legenda \"dias.\" no fim."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "timecode": 0.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/reel_000.5.jpg",
+      "observacao": "Reel: mesmo padrão do vertical; fundo desfocado sem verde, legenda inteira e legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "timecode": 4.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/reel_004.2.jpg",
+      "observacao": "Reel: mesmo padrão do vertical; fundo desfocado sem verde, legenda inteira e legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "timecode": 15.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/reel_015.0.jpg",
+      "observacao": "Reel: mesmo padrão do vertical; fundo desfocado sem verde, legenda inteira e legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "timecode": 20.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/reel_020.0.jpg",
+      "observacao": "Reel: mesmo padrão do vertical; fundo desfocado sem verde, legenda inteira e legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "timecode": 26.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/reel_026.0.jpg",
+      "observacao": "Reel: mesmo padrão do vertical; fundo desfocado sem verde, legenda inteira e legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "timecode": 35.6,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/reel_035.6.jpg",
+      "observacao": "Reel: mesmo padrão do vertical; fundo desfocado sem verde, legenda inteira e legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "timecode": 40.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/reel_040.2.jpg",
+      "observacao": "Reel: mesmo padrão do vertical; fundo desfocado sem verde, legenda inteira e legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "timecode": 50.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/reel_050.0.jpg",
+      "observacao": "Reel: mesmo padrão do vertical; fundo desfocado sem verde, legenda inteira e legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "timecode": 58.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/reel_058.0.jpg",
+      "observacao": "Reel: mesmo padrão do vertical; fundo desfocado sem verde, legenda inteira e legível."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_reel/exportacoes/Pixel_Procurado_DIA08_Reel_V2.mp4",
+      "timecode": 61.9,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/reel_061.9.jpg",
+      "observacao": "Reel: mesmo padrão do vertical; fundo desfocado sem verde, legenda inteira e legível, último quadro na C04 \"PS5 PRO, SEGUNDO A ROCKSTAR\" com a legenda \"deles, não minha.\""
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_story/exportacoes/Pixel_Procurado_DIA08_Story_V2.mp4",
+      "timecode": 0.3,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/story_000.3.jpg",
+      "observacao": "Story: C21/VC08/S1203/C22, fundo desfocado sem verde, legenda inteira; S1203 sem rótulo de personagem."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_story/exportacoes/Pixel_Procurado_DIA08_Story_V2.mp4",
+      "timecode": 3.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/story_003.0.jpg",
+      "observacao": "Story: C21/VC08/S1203/C22, fundo desfocado sem verde, legenda inteira; S1203 sem rótulo de personagem."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_story/exportacoes/Pixel_Procurado_DIA08_Story_V2.mp4",
+      "timecode": 6.6,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/story_006.6.jpg",
+      "observacao": "Story: C21/VC08/S1203/C22, fundo desfocado sem verde, legenda inteira; S1203 sem rótulo de personagem."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_story/exportacoes/Pixel_Procurado_DIA08_Story_V2.mp4",
+      "timecode": 12.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/story_012.0.jpg",
+      "observacao": "Story: C21/VC08/S1203/C22, fundo desfocado sem verde, legenda inteira; S1203 sem rótulo de personagem."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_story/exportacoes/Pixel_Procurado_DIA08_Story_V2.mp4",
+      "timecode": 15.7,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/story_015.7.jpg",
+      "observacao": "Story: C21/VC08/S1203/C22, fundo desfocado sem verde, legenda inteira; S1203 sem rótulo de personagem."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_story/exportacoes/Pixel_Procurado_DIA08_Story_V2.mp4",
+      "timecode": 19.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/story_019.5.jpg",
+      "observacao": "Story: C21/VC08/S1203/C22, fundo desfocado sem verde, legenda inteira; S1203 sem rótulo de personagem."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 1.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0001.5.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 4.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0004.2.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 26.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0026.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 40.2,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0040.2.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 70.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0070.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 101.8,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0101.8.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 135.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0135.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 152.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0152.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 195.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0195.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 222.7,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0222.7.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 245.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0245.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 269.6,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0269.6.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 285.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0285.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 300.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0300.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 324.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0324.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 350.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0350.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 386.0,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0386.0.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    },
+    {
+      "artefato": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/_vertical/exportacoes/Pixel_Procurado_DIA08_Vertical_V2.mp4",
+      "timecode": 403.5,
+      "arquivo_imagem": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/frames/vert_0403.5.jpg",
+      "observacao": "Vertical 1080x1920: quadro 16:9 central, fundo desfocado escuro sem verde, legenda em 2 linhas na faixa inferior sem corte; cards e cartelas inteiros (texto de apoio pequeno, mas legível)."
+    }
+  ],
+  "legendas": {
+    "srt": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/exportacoes/Pixel_Procurado_DIA08_Longo_V2.srt",
+    "amostras": [
+      {
+        "timecode": 4.2,
+        "texto": "Ontem eu prometi PS cinco normal",
+        "sincronizado": true,
+        "observacao": "texto queimado no quadro extraído = cue do SRT; o ASR confirma a fala no mesmo instante"
+      },
+      {
+        "timecode": 20.0,
+        "texto": "segundo. Sessenta não aparece no texto.",
+        "sincronizado": true,
+        "observacao": "texto queimado no quadro extraído = cue do SRT; o ASR confirma a fala no mesmo instante"
+      },
+      {
+        "timecode": 195.0,
+        "texto": "Sony anunciou o QSSR, um upscaling",
+        "sincronizado": true,
+        "observacao": "texto queimado no quadro extraído = cue do SRT; o ASR confirma a fala no mesmo instante"
+      },
+      {
+        "timecode": 210.0,
+        "texto": "Não confirmado. O post da Sony",
+        "sincronizado": true,
+        "observacao": "texto queimado no quadro extraído = cue do SRT; o ASR confirma a fala no mesmo instante"
+      },
+      {
+        "timecode": 324.0,
+        "texto": "Ray tracing além das sombras: nenhuma",
+        "sincronizado": true,
+        "observacao": "texto queimado no quadro extraído = cue do SRT; o ASR confirma a fala no mesmo instante"
+      },
+      {
+        "timecode": 386.0,
+        "texto": "Amanhã, terça, dezessete de novembro, a",
+        "sincronizado": true,
+        "observacao": "texto queimado no quadro extraído = cue do SRT; o ASR confirma a fala no mesmo instante"
+      },
+      {
+        "timecode": 399.9,
+        "texto": "Se inscreve no canal e até",
+        "sincronizado": true,
+        "observacao": "texto queimado no quadro extraído = cue do SRT; o ASR confirma a fala no mesmo instante"
+      }
+    ]
+  },
+  "thumbnail": {
+    "arquivo": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/publicacao/capas/capa_longo_A.jpg",
+    "preview_reduzido": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/revisao_final/capa_longo_A_320.jpg",
+    "observacao": "Capa A 1280x720 vista a 320 px: \"META: 30 FPS / E O PRO?\" legível, logo GTA VI inteira, selo PIXEL / PROCURADO. Capa B \"SEM FILTRO / SÓ O CONFIRMADO\" e verticais A/B (1080x1920) também legíveis na prancha 320 e nas prévias em revisao_final/. Carrossel 01–04 (1080x1350) conferido: textos fiéis a FONTES.md, sem conselho de compra."
+  },
+  "problemas": [
+    {
+      "severidade": "baixa",
+      "timecode": 320,
+      "descricao": "Longo/vertical, cartela C17 NÃO CONFIRMADO (299–327 s): a legenda fica colada (~25 px em 4K) abaixo do último item \"RAY TRACING ALÉM DAS SOMBRAS\". Legível, mas apertado.",
+      "correcao": "Opcional: subir a lista da C17 ~60 px ou reduzir o espaçamento entre os itens numa próxima versão.",
+      "status": "aceito"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": null,
+      "descricao": "Story com -18,1 LUFS, 1,3 LU abaixo das demais peças (-16,8).",
+      "correcao": "Opcional: normalizar o Story para -16,8 LUFS se for reexportado.",
+      "status": "aceito"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": 399.08,
+      "descricao": "P55 S1203 (dois homens no carro) entra ~3 s depois de a fala citar \"Boobie Ike\"; sem rótulo, risco baixo de leitura como identificação (já registrado na 2ª revisão).",
+      "correcao": "Opcional: trocar por um plano sem personagens.",
+      "status": "aceito"
+    },
+    {
+      "severidade": "baixa",
+      "timecode": 300,
+      "descricao": "Cue de legenda atravessa parágrafos (\"externo. Então, a lista honesta do\").",
+      "correcao": "Opcional: quebrar a cue no fim do parágrafo.",
+      "status": "aceito"
+    }
+  ],
+  "resultado": "aprovado"
+}

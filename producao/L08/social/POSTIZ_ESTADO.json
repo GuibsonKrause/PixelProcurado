@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "items": {
+    "youtube_long": {
+      "media": {
+        "id": "0a1a0337-3643-453e-8013-2a0a16a8d866",
+        "name": "8fa7ce2e9f5723e73fc36034a299a756.mp4",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/08/8fa7ce2e9f5723e73fc36034a299a756.mp4",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "post_id": null,
+      "scheduled": true,
+      "scheduled_at": "2026-11-08T21:00:00.000Z"
+    },
+    "youtube_short": {
+      "media": {
+        "id": "b905491c-53a2-4601-8541-7f53fa38a394",
+        "name": "e67d0f734fd1084e7e99024193eced72.mp4",
+        "originalName": null,
+        "path": "http://localhost:4007/uploads/2026/11/08/e67d0f734fd1084e7e99024193eced72.mp4",
+        "thumbnail": null,
+        "alt": null,
+        "status": "ready"
+      },
+      "post_id": null,
+      "scheduled": true,
+      "scheduled_at": "2026-11-08T21:00:00.000Z"
+    },
+    "instagram_reel": {
+      "r2_key": "publicacoes/0432cfe3d4c840b59463099c03f1664a.mp4",
+      "media": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/0432cfe3d4c840b59463099c03f1664a.mp4"
+      },
+      "post_id": null,
+      "scheduled": true,
+      "scheduled_at": "2026-11-08T21:00:00.000Z"
+    },
+    "instagram_story": {
+      "r2_key": "publicacoes/d80b6f89b50449ce86e19927fc01953a.png",
+      "media": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d80b6f89b50449ce86e19927fc01953a.png"
+      },
+      "post_id": null,
+      "scheduled": true,
+      "scheduled_at": "2026-11-08T21:00:00.000Z"
+    },
+    "facebook_video": {
+      "r2_key": "publicacoes/702404d26548477292de88efc268e8af.mp4",
+      "media": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/702404d26548477292de88efc268e8af.mp4"
+      },
+      "post_id": null,
+      "scheduled": true,
+      "scheduled_at": "2026-11-08T21:00:00.000Z"
+    },
+    "facebook_reel": {
+      "r2_key": "publicacoes/d9e43da8c4b74b008f3f7a2571103ec4.mp4",
+      "media": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d9e43da8c4b74b008f3f7a2571103ec4.mp4"
+      },
+      "post_id": null,
+      "scheduled": true,
+      "scheduled_at": "2026-11-08T21:00:00.000Z"
+    },
+    "facebook_story": {
+      "r2_key": "publicacoes/93e683bbc62e40b28a3cb511e8a1a71c.png",
+      "media": {
+        "id": "",
+        "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/93e683bbc62e40b28a3cb511e8a1a71c.png"
+      },
+      "post_id": null,
+      "scheduled": true,
+      "scheduled_at": "2026-11-08T21:00:00.000Z"
+    }
+  }
+}

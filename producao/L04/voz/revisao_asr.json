@@ -1,0 +1,662 @@
+[
+  {
+    "kind": "delete",
+    "start": 0.74,
+    "end": 0.78,
+    "asr": "a",
+    "script": "",
+    "asr_indices": [
+      3,
+      4
+    ],
+    "script_indices": [
+      3,
+      3
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 3.36,
+    "end": 3.74,
+    "asr": "2",
+    "script": "dois de",
+    "asr_indices": [
+      9,
+      10
+    ],
+    "script_indices": [
+      8,
+      10
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 4.06,
+    "end": 4.38,
+    "asr": "6",
+    "script": "seis",
+    "asr_indices": [
+      11,
+      12
+    ],
+    "script_indices": [
+      11,
+      12
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 6.22,
+    "end": 6.52,
+    "asr": "Oxstar",
+    "script": "Rockstar",
+    "asr_indices": [
+      16,
+      17
+    ],
+    "script_indices": [
+      16,
+      17
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 23.62,
+    "end": 23.78,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      71,
+      72
+    ],
+    "script_indices": [
+      71,
+      72
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 33.54,
+    "end": 33.82,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      97,
+      98
+    ],
+    "script_indices": [
+      97,
+      98
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 36.22,
+    "end": 36.42,
+    "asr": "ao",
+    "script": "usar o",
+    "asr_indices": [
+      102,
+      103
+    ],
+    "script_indices": [
+      102,
+      104
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 36.64,
+    "end": 36.96,
+    "asr": "2",
+    "script": "dois",
+    "asr_indices": [
+      104,
+      105
+    ],
+    "script_indices": [
+      105,
+      106
+    ]
+  },
+  {
+    "kind": "insert",
+    "start": 65.6,
+    "end": 66.26,
+    "asr": "",
+    "script": "a",
+    "asr_indices": [
+      183,
+      183
+    ],
+    "script_indices": [
+      184,
+      185
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 86.34,
+    "end": 86.56,
+    "asr": "tava",
+    "script": "estava",
+    "asr_indices": [
+      239,
+      240
+    ],
+    "script_indices": [
+      241,
+      242
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 90.38,
+    "end": 90.46,
+    "asr": "tá",
+    "script": "está",
+    "asr_indices": [
+      251,
+      252
+    ],
+    "script_indices": [
+      253,
+      254
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 90.86,
+    "end": 91.3,
+    "asr": "o comando",
+    "script": "comandos",
+    "asr_indices": [
+      253,
+      255
+    ],
+    "script_indices": [
+      255,
+      256
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 92.56,
+    "end": 92.82,
+    "asr": "Tá",
+    "script": "Está",
+    "asr_indices": [
+      257,
+      258
+    ],
+    "script_indices": [
+      258,
+      259
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 101.02,
+    "end": 101.42,
+    "asr": "2.",
+    "script": "dois.",
+    "asr_indices": [
+      281,
+      282
+    ],
+    "script_indices": [
+      282,
+      283
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 115.56,
+    "end": 115.82,
+    "asr": "2",
+    "script": "dois",
+    "asr_indices": [
+      321,
+      322
+    ],
+    "script_indices": [
+      322,
+      323
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 117.58,
+    "end": 117.8,
+    "asr": "no",
+    "script": "num",
+    "asr_indices": [
+      327,
+      328
+    ],
+    "script_indices": [
+      328,
+      329
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 118.02,
+    "end": 118.54,
+    "asr": "5.",
+    "script": "cinco.",
+    "asr_indices": [
+      329,
+      330
+    ],
+    "script_indices": [
+      330,
+      331
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 120.54,
+    "end": 120.96,
+    "asr": "6 o",
+    "script": "seis um",
+    "asr_indices": [
+      334,
+      336
+    ],
+    "script_indices": [
+      335,
+      337
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 128.6,
+    "end": 128.92,
+    "asr": "de",
+    "script": "diz",
+    "asr_indices": [
+      353,
+      354
+    ],
+    "script_indices": [
+      354,
+      355
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 133.5,
+    "end": 133.64,
+    "asr": "tá",
+    "script": "está",
+    "asr_indices": [
+      368,
+      369
+    ],
+    "script_indices": [
+      369,
+      370
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 137.4,
+    "end": 137.5,
+    "asr": "o",
+    "script": "um",
+    "asr_indices": [
+      378,
+      379
+    ],
+    "script_indices": [
+      379,
+      380
+    ]
+  },
+  {
+    "kind": "insert",
+    "start": 139.36,
+    "end": 140.4,
+    "asr": "",
+    "script": "em",
+    "asr_indices": [
+      384,
+      384
+    ],
+    "script_indices": [
+      385,
+      386
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 146.88,
+    "end": 147.72,
+    "asr": "da Uprestation",
+    "script": "dado ao PlayStation",
+    "asr_indices": [
+      402,
+      404
+    ],
+    "script_indices": [
+      404,
+      407
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 152.16,
+    "end": 152.34,
+    "asr": "Para",
+    "script": "Pra",
+    "asr_indices": [
+      416,
+      417
+    ],
+    "script_indices": [
+      419,
+      420
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 160.78,
+    "end": 160.88,
+    "asr": "ter",
+    "script": "tem",
+    "asr_indices": [
+      439,
+      440
+    ],
+    "script_indices": [
+      442,
+      443
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 165.04,
+    "end": 165.2,
+    "asr": "a",
+    "script": "",
+    "asr_indices": [
+      453,
+      454
+    ],
+    "script_indices": [
+      456,
+      456
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 165.9,
+    "end": 165.98,
+    "asr": "a",
+    "script": "",
+    "asr_indices": [
+      456,
+      457
+    ],
+    "script_indices": [
+      458,
+      458
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 172.12,
+    "end": 172.48,
+    "asr": "Aqui lê",
+    "script": "Aquilo é",
+    "asr_indices": [
+      475,
+      477
+    ],
+    "script_indices": [
+      476,
+      478
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 173.66,
+    "end": 174.38,
+    "asr": "coisa colhida,",
+    "script": "cor escolhida,",
+    "asr_indices": [
+      480,
+      482
+    ],
+    "script_indices": [
+      481,
+      483
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 176.74,
+    "end": 176.88,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      486,
+      487
+    ],
+    "script_indices": [
+      487,
+      488
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 177.6,
+    "end": 178.04,
+    "asr": "pústara",
+    "script": "pôster",
+    "asr_indices": [
+      490,
+      491
+    ],
+    "script_indices": [
+      491,
+      492
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 200.18,
+    "end": 200.66,
+    "asr": "post é para",
+    "script": "pôster pra",
+    "asr_indices": [
+      560,
+      563
+    ],
+    "script_indices": [
+      561,
+      563
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 205.2,
+    "end": 205.8,
+    "asr": "elogiava",
+    "script": "elogiar",
+    "asr_indices": [
+      578,
+      579
+    ],
+    "script_indices": [
+      578,
+      579
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 207.48,
+    "end": 207.64,
+    "asr": "certa",
+    "script": "seta",
+    "asr_indices": [
+      583,
+      584
+    ],
+    "script_indices": [
+      583,
+      584
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 211.2,
+    "end": 211.46,
+    "asr": "valeu",
+    "script": "vale o",
+    "asr_indices": [
+      591,
+      592
+    ],
+    "script_indices": [
+      591,
+      593
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 219.52,
+    "end": 220.36,
+    "asr": "Para",
+    "script": "Pra",
+    "asr_indices": [
+      617,
+      618
+    ],
+    "script_indices": [
+      618,
+      619
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 221.74,
+    "end": 221.84,
+    "asr": "o",
+    "script": "",
+    "asr_indices": [
+      623,
+      624
+    ],
+    "script_indices": [
+      624,
+      624
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 222.28,
+    "end": 222.5,
+    "asr": "mostra",
+    "script": "mostre",
+    "asr_indices": [
+      626,
+      627
+    ],
+    "script_indices": [
+      626,
+      627
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 229.52,
+    "end": 229.7,
+    "asr": "para",
+    "script": "pra",
+    "asr_indices": [
+      646,
+      647
+    ],
+    "script_indices": [
+      646,
+      647
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 231.5,
+    "end": 231.86,
+    "asr": "2,",
+    "script": "dois,",
+    "asr_indices": [
+      651,
+      652
+    ],
+    "script_indices": [
+      651,
+      652
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 245.52,
+    "end": 245.92,
+    "asr": "checagem",
+    "script": "checagens",
+    "asr_indices": [
+      686,
+      687
+    ],
+    "script_indices": [
+      686,
+      687
+    ]
+  },
+  {
+    "kind": "delete",
+    "start": 249.22,
+    "end": 249.32,
+    "asr": "o",
+    "script": "",
+    "asr_indices": [
+      694,
+      695
+    ],
+    "script_indices": [
+      694,
+      694
+    ]
+  },
+  {
+    "kind": "insert",
+    "start": 250.44,
+    "end": 250.8,
+    "asr": "",
+    "script": "você quer",
+    "asr_indices": [
+      699,
+      699
+    ],
+    "script_indices": [
+      698,
+      700
+    ]
+  },
+  {
+    "kind": "replace",
+    "start": 250.8,
+    "end": 251.62,
+    "asr": "queremos examinar",
+    "script": "a gente examine",
+    "asr_indices": [
+      700,
+      702
+    ],
+    "script_indices": [
+      701,
+      704
+    ]
+  }
+]

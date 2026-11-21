@@ -1,0 +1,2620 @@
+{
+  "id": "L07",
+  "status": "final-direction",
+  "contractVersion": "L06-1920-logical-v1",
+  "width": 3840,
+  "height": 2160,
+  "fps": 30,
+  "duration": 314.16,
+  "frames": 9425,
+  "voice": "producao/L07/voz/narracao_normalizada.wav",
+  "shots": [
+    {
+      "anchor": "GTA faz você",
+      "anchorWordIndex": 0,
+      "paragraph": 1,
+      "fromFrame": 0,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Launch_Trailer.mp4",
+      "offset": 2.0,
+      "speed": 0.75,
+      "graphic": "headline",
+      "presentation": "full",
+      "title": "O SOM DA CIDADE\nA ilusão do rádio em GTA",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Launch Trailer • trecho oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "O SOM DA CIDADE~A ilusão do rádio em GTA",
+      "animate": true,
+      "frames": 88,
+      "start": 0.0,
+      "end": 2.933333333333333,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "No GTA cinco de PC",
+      "anchorWordIndex": 6,
+      "paragraph": 1,
+      "fromFrame": 88,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "No GTA cinco de PC",
+      "animate": false,
+      "frames": 195,
+      "start": 2.933333333333333,
+      "end": 9.433333333333334,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Você monta a seleção",
+      "anchorWordIndex": 26,
+      "paragraph": 1,
+      "fromFrame": 283,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Launch_Trailer.mp4",
+      "offset": 14.5,
+      "speed": 0.65,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Launch Trailer • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Você monta a seleção",
+      "animate": false,
+      "frames": 254,
+      "start": 9.433333333333334,
+      "end": 17.9,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Esse detalhe ajuda a explicar",
+      "anchorWordIndex": 49,
+      "paragraph": 2,
+      "fromFrame": 537,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Esse detalhe ajuda a explicar",
+      "animate": false,
+      "frames": 132,
+      "start": 17.9,
+      "end": 22.3,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A música acompanha",
+      "anchorWordIndex": 64,
+      "paragraph": 2,
+      "fromFrame": 669,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 82.4,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "A música acompanha",
+      "animate": false,
+      "frames": 208,
+      "start": 22.3,
+      "end": 29.233333333333334,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Na Self Radio isso depende",
+      "anchorWordIndex": 84,
+      "paragraph": 3,
+      "fromFrame": 877,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Na Self Radio isso depende",
+      "animate": false,
+      "frames": 220,
+      "start": 29.233333333333334,
+      "end": 36.56666666666667,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "É diferente de simplesmente",
+      "anchorWordIndex": 103,
+      "paragraph": 3,
+      "fromFrame": 1097,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_1.mp4",
+      "offset": 19.9,
+      "speed": 0.65,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 1 • trecho oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "É diferente de simplesmente",
+      "animate": false,
+      "frames": 216,
+      "start": 36.56666666666667,
+      "end": 43.766666666666666,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Parece uma diferença pequena",
+      "anchorWordIndex": 124,
+      "paragraph": 4,
+      "fromFrame": 1313,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_04.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Parece uma diferença pequena",
+      "animate": false,
+      "frames": 204,
+      "start": 43.766666666666666,
+      "end": 50.56666666666667,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Com um locutor e uma propaganda",
+      "anchorWordIndex": 143,
+      "paragraph": 4,
+      "fromFrame": 1517,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Launch_Trailer.mp4",
+      "offset": 27.0,
+      "speed": 0.65,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Launch Trailer • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Com um locutor e uma propaganda",
+      "animate": false,
+      "frames": 189,
+      "start": 50.56666666666667,
+      "end": 56.86666666666667,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A graça é meio perversa",
+      "anchorWordIndex": 163,
+      "paragraph": 5,
+      "fromFrame": 1706,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "A graça é meio perversa",
+      "animate": false,
+      "frames": 302,
+      "start": 56.86666666666667,
+      "end": 66.93333333333334,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O brasileiro escapou do comercial",
+      "anchorWordIndex": 190,
+      "paragraph": 5,
+      "fromFrame": 2008,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 22.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "O brasileiro escapou do comercial",
+      "animate": false,
+      "frames": 136,
+      "start": 66.93333333333334,
+      "end": 71.46666666666667,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Isso funciona porque o anúncio",
+      "anchorWordIndex": 205,
+      "paragraph": 6,
+      "fromFrame": 2144,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Isso funciona porque o anúncio",
+      "animate": false,
+      "frames": 327,
+      "start": 71.46666666666667,
+      "end": 82.36666666666666,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Tem uma parte da sátira",
+      "anchorWordIndex": 236,
+      "paragraph": 6,
+      "fromFrame": 2471,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Launch_Trailer.mp4",
+      "offset": 45.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Launch Trailer • trecho oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Tem uma parte da sátira",
+      "animate": false,
+      "frames": 135,
+      "start": 82.36666666666666,
+      "end": 86.86666666666666,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Vamos imaginar um carro",
+      "anchorWordIndex": 250,
+      "paragraph": 7,
+      "fromFrame": 2606,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 10.0,
+      "speed": 0.7,
+      "graphic": "headline",
+      "presentation": "full",
+      "title": "A TRILHA DITA O RITMO\nCarro, orla e música",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "A TRILHA DITA O RITMO~Carro, orla e música",
+      "animate": true,
+      "frames": 197,
+      "start": 86.86666666666666,
+      "end": 93.43333333333334,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Dá vontade de seguir",
+      "anchorWordIndex": 272,
+      "paragraph": 7,
+      "fromFrame": 2803,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_01.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Dá vontade de seguir",
+      "animate": false,
+      "frames": 126,
+      "start": 93.43333333333334,
+      "end": 97.63333333333334,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Agora troca por uma faixa",
+      "anchorWordIndex": 286,
+      "paragraph": 8,
+      "fromFrame": 2929,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 55.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Agora troca por uma faixa",
+      "animate": false,
+      "frames": 63,
+      "start": 97.63333333333334,
+      "end": 99.73333333333333,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O cenário não mudou",
+      "anchorWordIndex": 292,
+      "paragraph": 8,
+      "fromFrame": 2992,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_07.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "O cenário não mudou",
+      "animate": false,
+      "frames": 337,
+      "start": 99.73333333333333,
+      "end": 110.96666666666667,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "É um exemplo pra mostrar",
+      "anchorWordIndex": 325,
+      "paragraph": 9,
+      "fromFrame": 3329,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "É um exemplo pra mostrar",
+      "animate": false,
+      "frames": 206,
+      "start": 110.96666666666667,
+      "end": 117.83333333333333,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Não é preciso colocar uma nova",
+      "anchorWordIndex": 347,
+      "paragraph": 9,
+      "fromFrame": 3535,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_1.mp4",
+      "offset": 35.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 1 • trecho oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Não é preciso colocar uma nova",
+      "animate": false,
+      "frames": 121,
+      "start": 117.83333333333333,
+      "end": 121.86666666666666,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "No Vice City clássico",
+      "anchorWordIndex": 360,
+      "paragraph": 10,
+      "fromFrame": 3656,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "headline",
+      "presentation": "full",
+      "title": "VICE CITY CLÁSSICO\nA marca da Flash FM",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "VICE CITY CLÁSSICO~A marca da Flash FM",
+      "animate": true,
+      "frames": 154,
+      "start": 121.86666666666666,
+      "end": 127.0,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "A Flash FM é uma das",
+      "anchorWordIndex": 377,
+      "paragraph": 10,
+      "fromFrame": 3810,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "A Flash FM é uma das",
+      "animate": false,
+      "frames": 260,
+      "start": 127.0,
+      "end": 135.66666666666666,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Nem toda lembrança precisa vir",
+      "anchorWordIndex": 402,
+      "paragraph": 11,
+      "fromFrame": 4070,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 40.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Nem toda lembrança precisa vir",
+      "animate": false,
+      "frames": 276,
+      "start": 135.66666666666666,
+      "end": 144.86666666666667,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O roteiro tinha um compromisso",
+      "anchorWordIndex": 433,
+      "paragraph": 11,
+      "fromFrame": 4346,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "O roteiro tinha um compromisso",
+      "animate": false,
+      "frames": 127,
+      "start": 144.86666666666667,
+      "end": 149.1,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "E tem outro tipo de música",
+      "anchorWordIndex": 445,
+      "paragraph": 12,
+      "fromFrame": 4473,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Launch_Trailer.mp4",
+      "offset": 60.0,
+      "speed": 0.7,
+      "graphic": "headline",
+      "presentation": "full",
+      "title": "TRILHA DINÂMICA\nMúsica de ação vs. Rádio",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Launch Trailer • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "TRILHA DINÂMICA~Música de ação vs. Rádio",
+      "animate": true,
+      "frames": 128,
+      "start": 149.1,
+      "end": 153.36666666666667,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "GTA cinco usa música dinâmica",
+      "anchorWordIndex": 458,
+      "paragraph": 12,
+      "fromFrame": 4601,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_12.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "GTA cinco usa música dinâmica",
+      "animate": false,
+      "frames": 326,
+      "start": 153.36666666666667,
+      "end": 164.23333333333332,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Uma reforça a tensão do momento",
+      "anchorWordIndex": 485,
+      "paragraph": 13,
+      "fromFrame": 4927,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 70.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Uma reforça a tensão do momento",
+      "animate": false,
+      "frames": 198,
+      "start": 164.23333333333332,
+      "end": 170.83333333333334,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Essa diferença abre uma oportunidade",
+      "anchorWordIndex": 504,
+      "paragraph": 13,
+      "fromFrame": 5125,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_01.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Essa diferença abre uma oportunidade",
+      "animate": false,
+      "frames": 110,
+      "start": 170.83333333333334,
+      "end": 174.5,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Imagina você com o carro destruído",
+      "anchorWordIndex": 512,
+      "paragraph": 14,
+      "fromFrame": 5235,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 80.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Imagina você com o carro destruído",
+      "animate": false,
+      "frames": 200,
+      "start": 174.5,
+      "end": 181.16666666666666,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O locutor não está preocupado",
+      "anchorWordIndex": 530,
+      "paragraph": 14,
+      "fromFrame": 5435,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_01.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "O locutor não está preocupado",
+      "animate": false,
+      "frames": 226,
+      "start": 181.16666666666666,
+      "end": 188.7,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Esse é um exemplo inventado",
+      "anchorWordIndex": 555,
+      "paragraph": 15,
+      "fromFrame": 5661,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_02.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Esse é um exemplo inventado",
+      "animate": false,
+      "frames": 218,
+      "start": 188.7,
+      "end": 195.96666666666667,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "A cena fica engraçada",
+      "anchorWordIndex": 577,
+      "paragraph": 15,
+      "fromFrame": 5879,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_1.mp4",
+      "offset": 50.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 1 • trecho oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "A cena fica engraçada",
+      "animate": false,
+      "frames": 136,
+      "start": 195.96666666666667,
+      "end": 200.5,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Também dá pra usar silêncio",
+      "anchorWordIndex": 591,
+      "paragraph": 16,
+      "fromFrame": 6015,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_01.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Também dá pra usar silêncio",
+      "animate": false,
+      "frames": 287,
+      "start": 200.5,
+      "end": 210.06666666666666,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Quando tudo é intenso",
+      "anchorWordIndex": 620,
+      "paragraph": 16,
+      "fromFrame": 6302,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 95.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Quando tudo é intenso",
+      "animate": false,
+      "frames": 161,
+      "start": 210.06666666666666,
+      "end": 215.43333333333334,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "E o que já dá pra olhar",
+      "anchorWordIndex": 635,
+      "paragraph": 17,
+      "fromFrame": 6463,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "headline",
+      "presentation": "full",
+      "title": "EMISSORAS CONFIRMADAS\nO som de GTA VI",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "EMISSORAS CONFIRMADAS~O som de GTA VI",
+      "animate": true,
+      "frames": 106,
+      "start": 215.43333333333334,
+      "end": 218.96666666666667,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "A página oficial de música",
+      "anchorWordIndex": 645,
+      "paragraph": 17,
+      "fromFrame": 6569,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_01.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "headline",
+      "presentation": "full",
+      "title": "Cocoteo • Back Country • Dirty South",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Cocoteo • Back Country • Dirty South",
+      "animate": true,
+      "frames": 390,
+      "start": 218.96666666666667,
+      "end": 231.96666666666667,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "A Flash FM também aparece",
+      "anchorWordIndex": 674,
+      "paragraph": 18,
+      "fromFrame": 6959,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "headline",
+      "presentation": "full",
+      "title": "FLASH FM EM GTA VI\nPop e nostalgia em Vice City",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "FLASH FM EM GTA VI~Pop e nostalgia em Vice City",
+      "animate": true,
+      "frames": 204,
+      "start": 231.96666666666667,
+      "end": 238.76666666666668,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "O nome cria uma ligação",
+      "anchorWordIndex": 689,
+      "paragraph": 18,
+      "fromFrame": 7163,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "O nome cria uma ligação",
+      "animate": false,
+      "frames": 235,
+      "start": 238.76666666666668,
+      "end": 246.6,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Essas diferenças me interessam",
+      "anchorWordIndex": 711,
+      "paragraph": 19,
+      "fromFrame": 7398,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Essas diferenças me interessam",
+      "animate": false,
+      "frames": 263,
+      "start": 246.6,
+      "end": 255.36666666666667,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Como isso vai funcionar",
+      "anchorWordIndex": 735,
+      "paragraph": 19,
+      "fromFrame": 7661,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 15.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Como isso vai funcionar",
+      "animate": false,
+      "frames": 176,
+      "start": 255.36666666666667,
+      "end": 261.23333333333335,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Não vou fingir que uma lista",
+      "anchorWordIndex": 751,
+      "paragraph": 20,
+      "fromFrame": 7837,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_04.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Não vou fingir que uma lista",
+      "animate": false,
+      "frames": 192,
+      "start": 261.23333333333335,
+      "end": 267.6333333333333,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Ela pode criar expectativa",
+      "anchorWordIndex": 768,
+      "paragraph": 20,
+      "fromFrame": 8029,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Launch_Trailer.mp4",
+      "offset": 10.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Launch Trailer • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Ela pode criar expectativa",
+      "animate": false,
+      "frames": 143,
+      "start": 267.6333333333333,
+      "end": 272.4,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Tem ainda a surpresa de encontrar",
+      "anchorWordIndex": 776,
+      "paragraph": 21,
+      "fromFrame": 8172,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Tem ainda a surpresa de encontrar",
+      "animate": false,
+      "frames": 128,
+      "start": 272.4,
+      "end": 276.6666666666667,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Você entrou no carro",
+      "anchorWordIndex": 788,
+      "paragraph": 21,
+      "fromFrame": 8300,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 30.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Você entrou no carro",
+      "animate": false,
+      "frames": 407,
+      "start": 276.6666666666667,
+      "end": 290.23333333333335,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "O rádio dá personalidade ao caminho",
+      "anchorWordIndex": 827,
+      "paragraph": 22,
+      "fromFrame": 8707,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "O rádio dá personalidade ao caminho",
+      "animate": false,
+      "frames": 205,
+      "start": 290.23333333333335,
+      "end": 297.06666666666666,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "E às vezes é o motivo",
+      "anchorWordIndex": 846,
+      "paragraph": 22,
+      "fromFrame": 8912,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Launch_Trailer.mp4",
+      "offset": 75.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Launch Trailer • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "E às vezes é o motivo",
+      "animate": false,
+      "frames": 188,
+      "start": 297.06666666666666,
+      "end": 303.3333333333333,
+      "animationFrames": 1
+    },
+    {
+      "anchor": "Qual rádio ou música de GTA",
+      "anchorWordIndex": 867,
+      "paragraph": 23,
+      "fromFrame": 9100,
+      "kind": "image",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Vice City/Vice_City_07.jpg",
+      "offset": 0.0,
+      "speed": 1.0,
+      "graphic": "headline",
+      "presentation": "full",
+      "title": "QUAL RÁDIO MARCOU VOCÊ?\nCompartilhe nos comentários",
+      "sub": "",
+      "label": "VICE CITY / LEONIDA",
+      "source": "Rockstar Games • captura oficial",
+      "zoom": [
+        1.035,
+        1.0
+      ],
+      "focus": [
+        0.35,
+        0.55
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "QUAL RÁDIO MARCOU VOCÊ?~Compartilhe nos comentários",
+      "animate": true,
+      "frames": 207,
+      "start": 303.3333333333333,
+      "end": 310.23333333333335,
+      "animationFrames": 20
+    },
+    {
+      "anchor": "Eu suspeito que muito compromisso",
+      "anchorWordIndex": 887,
+      "paragraph": 23,
+      "fromFrame": 9307,
+      "kind": "video",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "offset": 110.0,
+      "speed": 0.7,
+      "graphic": "",
+      "presentation": "full",
+      "title": "",
+      "sub": "",
+      "label": "GTA VI / VÍDEO OFICIAL",
+      "source": "Rockstar Games • Trailer 2 • trecho oficial",
+      "zoom": [
+        1.0,
+        1.045
+      ],
+      "focus": [
+        0.65,
+        0.45
+      ],
+      "layout": {
+        "side": "left",
+        "top": 235,
+        "width": 1600
+      },
+      "editorialPurpose": "Eu suspeito que muito compromisso",
+      "animate": false,
+      "frames": 118,
+      "start": 310.23333333333335,
+      "end": 314.1666666666667,
+      "animationFrames": 1
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "GTA faz você gostar de propaganda."
+    },
+    {
+      "start": 2.92,
+      "end": 4.08,
+      "text": "No GTA cinco de PC,"
+    },
+    {
+      "start": 4.5,
+      "end": 6.44,
+      "text": "a Self Radio consegue colocar locução"
+    },
+    {
+      "start": 6.44,
+      "end": 8.06,
+      "text": "e anúncios no meio das músicas"
+    },
+    {
+      "start": 8.06,
+      "end": 9.02,
+      "text": "que você escolheu."
+    },
+    {
+      "start": 9.44,
+      "end": 10.54,
+      "text": "Você monta a seleção."
+    },
+    {
+      "start": 11.02,
+      "end": 12.46,
+      "text": "O jogo devolve uma emissora."
+    },
+    {
+      "start": 13.3,
+      "end": 14.92,
+      "text": "Até o seu gosto musical precisa"
+    },
+    {
+      "start": 14.92,
+      "end": 16.52,
+      "text": "dividir espaço com alguém tentando vender"
+    },
+    {
+      "start": 16.52,
+      "end": 17.2,
+      "text": "alguma coisa."
+    },
+    {
+      "start": 17.9,
+      "end": 19.54,
+      "text": "Esse detalhe ajuda a explicar por"
+    },
+    {
+      "start": 19.54,
+      "end": 20.8,
+      "text": "que o rádio de GTA gruda"
+    },
+    {
+      "start": 20.8,
+      "end": 21.62,
+      "text": "tanto na memória."
+    },
+    {
+      "start": 22.3,
+      "end": 23.76,
+      "text": "A música acompanha a viagem,"
+    },
+    {
+      "start": 24.16,
+      "end": 25.72,
+      "text": "mas as vozes e os intervalos"
+    },
+    {
+      "start": 25.72,
+      "end": 27.52,
+      "text": "fazem parecer que existe uma cidade"
+    },
+    {
+      "start": 27.52,
+      "end": 28.32,
+      "text": "falando com você."
+    },
+    {
+      "start": 29.22,
+      "end": 30.02,
+      "text": "Na Self Radio,"
+    },
+    {
+      "start": 30.36,
+      "end": 31.66,
+      "text": "isso depende do modo escolhido."
+    },
+    {
+      "start": 32.2,
+      "end": 34.16,
+      "text": "O modo Radio mistura suas faixas"
+    },
+    {
+      "start": 34.16,
+      "end": 35.9,
+      "text": "com intervenções de uma estação."
+    },
+    {
+      "start": 36.56,
+      "end": 38.74,
+      "text": "É diferente de simplesmente deixar uma"
+    },
+    {
+      "start": 38.74,
+      "end": 40.04,
+      "text": "lista de músicas tocando por fora"
+    },
+    {
+      "start": 40.04,
+      "end": 40.42,
+      "text": "do jogo."
+    },
+    {
+      "start": 41.0,
+      "end": 42.66,
+      "text": "A playlist passa a participar da"
+    },
+    {
+      "start": 42.66,
+      "end": 43.06,
+      "text": "ficção."
+    },
+    {
+      "start": 43.78,
+      "end": 45.8,
+      "text": "Parece uma diferença pequena até você"
+    },
+    {
+      "start": 45.8,
+      "end": 46.58,
+      "text": "pensar no efeito."
+    },
+    {
+      "start": 47.18,
+      "end": 48.08,
+      "text": "Com uma lista pessoal,"
+    },
+    {
+      "start": 48.56,
+      "end": 49.94,
+      "text": "cada faixa foi escolhida pra você."
+    },
+    {
+      "start": 50.56,
+      "end": 51.72,
+      "text": "Com um locutor e uma propaganda"
+    },
+    {
+      "start": 51.72,
+      "end": 52.2,
+      "text": "no meio,"
+    },
+    {
+      "start": 52.54,
+      "end": 54.12,
+      "text": "surge a impressão de que outras"
+    },
+    {
+      "start": 54.12,
+      "end": 56.12,
+      "text": "pessoas também estão ouvindo aquela transmissão."
+    },
+    {
+      "start": 56.88,
+      "end": 58.9,
+      "text": "A graça é meio perversa."
+    },
+    {
+      "start": 59.4,
+      "end": 60.12,
+      "text": "Fora do jogo,"
+    },
+    {
+      "start": 60.36,
+      "end": 61.64,
+      "text": "a gente paga pra tirar anúncio."
+    },
+    {
+      "start": 62.32,
+      "end": 62.98,
+      "text": "Dentro de GTA,"
+    },
+    {
+      "start": 63.28,
+      "end": 64.98,
+      "text": "comemora quando ele aparece e deixa"
+    },
+    {
+      "start": 64.98,
+      "end": 66.0,
+      "text": "a cidade mais convincente."
+    },
+    {
+      "start": 66.94,
+      "end": 68.96,
+      "text": "O brasileiro escapou do comercial e"
+    },
+    {
+      "start": 68.96,
+      "end": 69.907,
+      "text": "deu a volta no quarteirão pra"
+    },
+    {
+      "start": 69.907,
+      "end": 70.38,
+      "text": "ouvir de novo."
+    },
+    {
+      "start": 71.46,
+      "end": 73.28,
+      "text": "Isso funciona porque o anúncio fictício"
+    },
+    {
+      "start": 73.28,
+      "end": 75.26,
+      "text": "pode contar algo sobre aquele mundo."
+    },
+    {
+      "start": 75.88,
+      "end": 77.0,
+      "text": "O que as pessoas querem comprar,"
+    },
+    {
+      "start": 77.52,
+      "end": 79.4,
+      "text": "como alguém tenta convencer o público,"
+    },
+    {
+      "start": 79.4,
+      "end": 81.56,
+      "text": "que promessa absurda parece normal por"
+    },
+    {
+      "start": 81.56,
+      "end": 81.8,
+      "text": "ali."
+    },
+    {
+      "start": 82.36,
+      "end": 83.72,
+      "text": "Tem uma parte da sátira que"
+    },
+    {
+      "start": 83.72,
+      "end": 85.46,
+      "text": "chega pelo ouvido enquanto você olha"
+    },
+    {
+      "start": 85.46,
+      "end": 85.74,
+      "text": "a rua."
+    },
+    {
+      "start": 86.88,
+      "end": 88.48,
+      "text": "Vamos imaginar um carro passando pela"
+    },
+    {
+      "start": 88.48,
+      "end": 88.86,
+      "text": "orla."
+    },
+    {
+      "start": 89.42,
+      "end": 90.12,
+      "text": "A rua é a mesma,"
+    },
+    {
+      "start": 90.44,
+      "end": 91.24,
+      "text": "a câmera é a mesma,"
+    },
+    {
+      "start": 91.74,
+      "end": 92.96,
+      "text": "mas toca uma música tranquila."
+    },
+    {
+      "start": 93.44,
+      "end": 94.56,
+      "text": "Dá vontade de seguir mais um"
+    },
+    {
+      "start": 94.56,
+      "end": 94.88,
+      "text": "pouco,"
+    },
+    {
+      "start": 95.12,
+      "end": 96.573,
+      "text": "olhar o mar e adiar o"
+    },
+    {
+      "start": 96.573,
+      "end": 96.8,
+      "text": "destino."
+    },
+    {
+      "start": 97.62,
+      "end": 99.24,
+      "text": "Agora troca por uma faixa agressiva."
+    },
+    {
+      "start": 99.72,
+      "end": 100.66,
+      "text": "O cenário não mudou,"
+    },
+    {
+      "start": 101.12,
+      "end": 102.66,
+      "text": "mas o mesmo motorista já se"
+    },
+    {
+      "start": 102.66,
+      "end": 104.34,
+      "text": "sente protagonista de uma operação que"
+    },
+    {
+      "start": 104.34,
+      "end": 105.58,
+      "text": "claramente não foi planejada."
+    },
+    {
+      "start": 106.2,
+      "end": 107.32,
+      "text": "Bastou mudar a música."
+    },
+    {
+      "start": 108.14,
+      "end": 109.46,
+      "text": "A competência pra fazer a curva"
+    },
+    {
+      "start": 109.46,
+      "end": 110.56,
+      "text": "continua exatamente igual."
+    },
+    {
+      "start": 110.98,
+      "end": 112.46,
+      "text": "É um exemplo pra mostrar como"
+    },
+    {
+      "start": 112.46,
+      "end": 113.76,
+      "text": "o som altera a leitura de"
+    },
+    {
+      "start": 113.76,
+      "end": 114.16,
+      "text": "uma ação."
+    },
+    {
+      "start": 114.98,
+      "end": 116.54,
+      "text": "A gente atribui intenção e clima"
+    },
+    {
+      "start": 116.54,
+      "end": 117.12,
+      "text": "ao passeio."
+    },
+    {
+      "start": 117.84,
+      "end": 119.06,
+      "text": "Não é preciso colocar uma nova"
+    },
+    {
+      "start": 119.06,
+      "end": 120.52,
+      "text": "missão na tela pra sentir uma"
+    },
+    {
+      "start": 120.52,
+      "end": 120.9,
+      "text": "mudança."
+    },
+    {
+      "start": 121.88,
+      "end": 122.96,
+      "text": "No Vice City clássico,"
+    },
+    {
+      "start": 123.16,
+      "end": 124.5,
+      "text": "as músicas e as emissoras fazem"
+    },
+    {
+      "start": 124.5,
+      "end": 126.0,
+      "text": "parte da relação com os anos"
+    },
+    {
+      "start": 126.0,
+      "end": 126.34,
+      "text": "oitenta."
+    },
+    {
+      "start": 127.0,
+      "end": 128.44,
+      "text": "A Flash FM é uma das"
+    },
+    {
+      "start": 128.44,
+      "end": 129.68,
+      "text": "referências dessa identidade."
+    },
+    {
+      "start": 130.58,
+      "end": 132.06,
+      "text": "Você pode lembrar de uma rua"
+    },
+    {
+      "start": 132.06,
+      "end": 134.04,
+      "text": "junto com o que estava ouvindo"
+    },
+    {
+      "start": 134.04,
+      "end": 134.8,
+      "text": "quando passou por ela."
+    },
+    {
+      "start": 135.68,
+      "end": 137.36,
+      "text": "Nem toda lembrança precisa vir de"
+    },
+    {
+      "start": 137.36,
+      "end": 138.54,
+      "text": "uma grande cena da história."
+    },
+    {
+      "start": 139.26,
+      "end": 140.28,
+      "text": "Às vezes é só a música"
+    },
+    {
+      "start": 140.28,
+      "end": 141.46,
+      "text": "que começou na hora em que"
+    },
+    {
+      "start": 141.46,
+      "end": 143.4,
+      "text": "você roubou um carro e resolveu"
+    },
+    {
+      "start": 143.4,
+      "end": 144.2,
+      "text": "seguir dirigindo."
+    },
+    {
+      "start": 144.88,
+      "end": 146.14,
+      "text": "O roteiro tinha um compromisso."
+    },
+    {
+      "start": 146.76,
+      "end": 147.92,
+      "text": "Você tinha mais dois minutos de"
+    },
+    {
+      "start": 147.92,
+      "end": 148.22,
+      "text": "refrão."
+    },
+    {
+      "start": 149.1,
+      "end": 150.46,
+      "text": "E tem outro tipo de música"
+    },
+    {
+      "start": 150.46,
+      "end": 150.8,
+      "text": "atuando:"
+    },
+    {
+      "start": 151.22,
+      "end": 152.6,
+      "text": "a trilha que acompanha a ação."
+    },
+    {
+      "start": 153.36,
+      "end": 155.38,
+      "text": "GTA cinco usa música dinâmica,"
+    },
+    {
+      "start": 155.66,
+      "end": 157.08,
+      "text": "capaz de mudar conforme o que"
+    },
+    {
+      "start": 157.08,
+      "end": 157.5,
+      "text": "acontece."
+    },
+    {
+      "start": 158.28,
+      "end": 159.92,
+      "text": "Isso exerce uma função diferente da"
+    },
+    {
+      "start": 159.92,
+      "end": 160.68,
+      "text": "transmissão do rádio,"
+    },
+    {
+      "start": 161.3,
+      "end": 163.16,
+      "text": "que parece existir dentro daquele mundo."
+    },
+    {
+      "start": 164.22,
+      "end": 165.68,
+      "text": "Uma reforça a tensão do momento."
+    },
+    {
+      "start": 166.38,
+      "end": 167.86,
+      "text": "A outra pode continuar com sua"
+    },
+    {
+      "start": 167.86,
+      "end": 169.727,
+      "text": "programação enquanto a vida do jogador"
+    },
+    {
+      "start": 169.727,
+      "end": 170.04,
+      "text": "desmorona."
+    },
+    {
+      "start": 170.84,
+      "end": 172.68,
+      "text": "Essa diferença abre uma oportunidade enorme"
+    },
+    {
+      "start": 172.68,
+      "end": 173.14,
+      "text": "pro humor."
+    },
+    {
+      "start": 174.5,
+      "end": 176.14,
+      "text": "Imagina você com o carro destruído,"
+    },
+    {
+      "start": 176.14,
+      "end": 178.04,
+      "text": "tentando escapar de uma situação horrível,"
+    },
+    {
+      "start": 178.04,
+      "end": 180.22,
+      "text": "e o rádio oferecendo férias tranquilas."
+    },
+    {
+      "start": 181.16,
+      "end": 182.38,
+      "text": "O locutor não está preocupado com"
+    },
+    {
+      "start": 182.38,
+      "end": 182.92,
+      "text": "a sua desgraça."
+    },
+    {
+      "start": 183.62,
+      "end": 184.7,
+      "text": "Tem uma promoção pra terminar."
+    },
+    {
+      "start": 185.52,
+      "end": 186.72,
+      "text": "É a única pessoa naquela fuga"
+    },
+    {
+      "start": 186.72,
+      "end": 187.82,
+      "text": "com o expediente em dia."
+    },
+    {
+      "start": 188.7,
+      "end": 189.8,
+      "text": "Esse é um exemplo inventado,"
+    },
+    {
+      "start": 189.8,
+      "end": 191.2,
+      "text": "mas o contraste é fácil de"
+    },
+    {
+      "start": 191.2,
+      "end": 191.68,
+      "text": "reconhecer:"
+    },
+    {
+      "start": 192.42,
+      "end": 194.14,
+      "text": "a música ou o anúncio pode"
+    },
+    {
+      "start": 194.14,
+      "end": 195.24,
+      "text": "discordar do que vemos."
+    },
+    {
+      "start": 195.98,
+      "end": 197.84,
+      "text": "A cena fica engraçada justamente porque"
+    },
+    {
+      "start": 197.84,
+      "end": 199.3,
+      "text": "o mundo não parou pra acompanhar"
+    },
+    {
+      "start": 199.3,
+      "end": 199.76,
+      "text": "nosso drama."
+    },
+    {
+      "start": 200.5,
+      "end": 202.22,
+      "text": "Também dá pra usar silêncio e"
+    },
+    {
+      "start": 202.22,
+      "end": 202.94,
+      "text": "troca de estação."
+    },
+    {
+      "start": 203.78,
+      "end": 204.98,
+      "text": "A entrada de uma voz,"
+    },
+    {
+      "start": 205.32,
+      "end": 206.96,
+      "text": "a ausência de música ou uma"
+    },
+    {
+      "start": 206.96,
+      "end": 208.74,
+      "text": "mudança de ritmo prepara o ouvido"
+    },
+    {
+      "start": 208.74,
+      "end": 209.36,
+      "text": "de outra forma."
+    },
+    {
+      "start": 210.08,
+      "end": 211.58,
+      "text": "Quando tudo é intenso o tempo"
+    },
+    {
+      "start": 211.58,
+      "end": 212.06,
+      "text": "inteiro,"
+    },
+    {
+      "start": 212.6,
+      "end": 214.3,
+      "text": "a intensidade começa a parecer barulho"
+    },
+    {
+      "start": 214.3,
+      "end": 214.74,
+      "text": "de fundo."
+    },
+    {
+      "start": 215.44,
+      "end": 216.62,
+      "text": "E o que já dá pra"
+    },
+    {
+      "start": 216.62,
+      "end": 218.0,
+      "text": "olhar em GTA seis?"
+    },
+    {
+      "start": 218.98,
+      "end": 221.16,
+      "text": "A página oficial de música apresenta"
+    },
+    {
+      "start": 221.16,
+      "end": 222.6,
+      "text": "emissoras com identidades diferentes:"
+    },
+    {
+      "start": 223.24,
+      "end": 225.4,
+      "text": "Cocoteo ligada à música latina atual,"
+    },
+    {
+      "start": 226.22,
+      "end": 228.82,
+      "text": "Back Country ao country e Dirty"
+    },
+    {
+      "start": 228.82,
+      "end": 230.94,
+      "text": "South Classics ao rap e hip-hop"
+    },
+    {
+      "start": 230.94,
+      "end": 231.32,
+      "text": "regional."
+    },
+    {
+      "start": 231.96,
+      "end": 233.9,
+      "text": "A Flash FM também aparece,"
+    },
+    {
+      "start": 234.24,
+      "end": 236.46,
+      "text": "apresentada como uma instituição de Vice"
+    },
+    {
+      "start": 236.46,
+      "end": 237.92,
+      "text": "City voltada ao pop."
+    },
+    {
+      "start": 238.76,
+      "end": 240.28,
+      "text": "O nome cria uma ligação com"
+    },
+    {
+      "start": 240.28,
+      "end": 241.24,
+      "text": "a memória da cidade."
+    },
+    {
+      "start": 241.9,
+      "end": 242.94,
+      "text": "Ele não significa,"
+    },
+    {
+      "start": 242.94,
+      "end": 243.5,
+      "text": "sozinho,"
+    },
+    {
+      "start": 243.5,
+      "end": 245.0,
+      "text": "que cada faixa do jogo antigo"
+    },
+    {
+      "start": 245.0,
+      "end": 245.48,
+      "text": "vai voltar."
+    },
+    {
+      "start": 246.6,
+      "end": 248.86,
+      "text": "Essas diferenças me interessam porque cada"
+    },
+    {
+      "start": 248.86,
+      "end": 250.16,
+      "text": "estação pode mudar o clima de"
+    },
+    {
+      "start": 250.16,
+      "end": 251.32,
+      "text": "um passeio pelo mesmo lugar."
+    },
+    {
+      "start": 252.3,
+      "end": 254.3,
+      "text": "A divulgação já oferece identidades pra"
+    },
+    {
+      "start": 254.3,
+      "end": 254.58,
+      "text": "ouvir."
+    },
+    {
+      "start": 255.38,
+      "end": 256.78,
+      "text": "Como isso vai funcionar na minha"
+    },
+    {
+      "start": 256.78,
+      "end": 258.58,
+      "text": "própria experiência de jogo é outra"
+    },
+    {
+      "start": 258.58,
+      "end": 259.18,
+      "text": "conversa,"
+    },
+    {
+      "start": 259.18,
+      "end": 260.3,
+      "text": "que exige jogar."
+    },
+    {
+      "start": 261.24,
+      "end": 262.74,
+      "text": "Não vou fingir que uma lista"
+    },
+    {
+      "start": 262.74,
+      "end": 265.62,
+      "text": "de nomes entregou aquela lembrança perfeita"
+    },
+    {
+      "start": 265.62,
+      "end": 266.28,
+      "text": "de madrugada,"
+    },
+    {
+      "start": 266.5,
+      "end": 267.1,
+      "text": "carro e música."
+    },
+    {
+      "start": 267.62,
+      "end": 269.2,
+      "text": "Ela pode criar expectativa."
+    },
+    {
+      "start": 269.96,
+      "end": 271.38,
+      "text": "A memória precisa acontecer."
+    },
+    {
+      "start": 272.4,
+      "end": 274.18,
+      "text": "Tem ainda a surpresa de encontrar"
+    },
+    {
+      "start": 274.18,
+      "end": 275.9,
+      "text": "uma faixa sem procurar por ela."
+    },
+    {
+      "start": 276.68,
+      "end": 277.96,
+      "text": "Você entrou no carro pra chegar"
+    },
+    {
+      "start": 277.96,
+      "end": 278.54,
+      "text": "a algum lugar,"
+    },
+    {
+      "start": 279.18,
+      "end": 280.9,
+      "text": "mexeu no rádio e ficou ouvindo."
+    },
+    {
+      "start": 281.74,
+      "end": 283.4,
+      "text": "Esse encontro faz parte do passeio."
+    },
+    {
+      "start": 284.12,
+      "end": 285.64,
+      "text": "A estação pode apresentar algo que"
+    },
+    {
+      "start": 285.64,
+      "end": 287.14,
+      "text": "uma seleção feita só com suas"
+    },
+    {
+      "start": 287.14,
+      "end": 289.3,
+      "text": "músicas favoritas nunca colocaria no caminho."
+    },
+    {
+      "start": 290.22,
+      "end": 292.02,
+      "text": "O rádio dá personalidade ao caminho."
+    },
+    {
+      "start": 292.62,
+      "end": 294.18,
+      "text": "Às vezes mantém a gente dirigindo."
+    },
+    {
+      "start": 294.86,
+      "end": 295.93,
+      "text": "Às vezes faz piada com o"
+    },
+    {
+      "start": 295.88,
+      "end": 296.4,
+      "text": "desastre."
+    },
+    {
+      "start": 297.08,
+      "end": 298.42,
+      "text": "E às vezes é o motivo"
+    },
+    {
+      "start": 298.42,
+      "end": 299.64,
+      "text": "pelo qual lembramos de um lugar"
+    },
+    {
+      "start": 299.64,
+      "end": 299.88,
+      "text": "que,"
+    },
+    {
+      "start": 299.88,
+      "end": 300.88,
+      "text": "sem aquela música,"
+    },
+    {
+      "start": 300.88,
+      "end": 302.38,
+      "text": "seria só mais uma rua."
+    },
+    {
+      "start": 303.32,
+      "end": 304.98,
+      "text": "Qual rádio ou música de GTA"
+    },
+    {
+      "start": 304.98,
+      "end": 306.76,
+      "text": "já fez você continuar no carro"
+    },
+    {
+      "start": 306.76,
+      "end": 307.98,
+      "text": "depois de chegar ao destino?"
+    },
+    {
+      "start": 308.76,
+      "end": 309.58,
+      "text": "Conta a lembrança."
+    },
+    {
+      "start": 310.24,
+      "end": 311.94,
+      "text": "Eu suspeito que muito compromisso naquele"
+    },
+    {
+      "start": 311.94,
+      "end": 313.4,
+      "text": "mapa foi adiado por um refrão."
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+ "duracao_final_s": 383.84,
+ "palavras_roteiro": 1071,
+ "palavras_asr": 1025,
+ "paragrafos": 18,
+ "divergencias": [
+  {
+   "tipo": "replace",
+   "roteiro": "Mão dada é no R dois.",
+   "asr": " Mondada  na  R2",
+   "start": 0.0
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "mão dada",
+   "asr": " mondada",
+   "start": 5.56
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "nove e cinquenta, num",
+   "asr": " 9 ,50  no",
+   "start": 12.66
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "um",
+   "asr": " O",
+   "start": 14.32
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "R dois.",
+   "asr": " R2",
+   "start": 22.68
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "anotação",
+   "asr": " notação",
+   "start": 24.54
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "R três.",
+   "asr": " R3",
+   "start": 25.22
+  },
+  {
+   "tipo": "insert",
+   "roteiro": "a",
+   "asr": "",
+   "start": 31.16
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "sete e dezesseis,",
+   "asr": " 7 ,16",
+   "start": 33.06
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "cor-de-rosa, um",
+   "asr": " cor  de  rosa  O",
+   "start": 34.96
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "oferece",
+   "asr": " frece",
+   "start": 38.76
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Abriu,",
+   "asr": " Abril",
+   "start": 40.38
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Logger",
+   "asr": " Lager",
+   "start": 42.42
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Lavazas",
+   "asr": " Lavasas",
+   "start": 43.58
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Blitz Berry Smoothie,",
+   "asr": " Blitzbeerl  smooty",
+   "start": 45.76
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Blitz Green Smoothie",
+   "asr": " Blitzgrinsmoot",
+   "start": 47.4
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "um ímã do Fleeca,",
+   "asr": " o  imandoflica",
+   "start": 51.0
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Lombank,",
+   "asr": " longbank",
+   "start": 53.3
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "panfleto",
+   "asr": " ponfleito",
+   "start": 56.48
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "diz: Frugality",
+   "asr": " deixe  Fugality",
+   "start": 57.36
+  },
+  {
+   "tipo": "delete",
+   "roteiro": "",
+   "asr": " E",
+   "start": 59.9
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Faz todo",
+   "asr": " Farsi",
+   "start": 65.92
+  },
+  {
+   "tipo": "delete",
+   "roteiro": "",
+   "asr": " Ó,",
+   "start": 66.9
+  },
+  {
+   "tipo": "insert",
+   "roteiro": "é",
+   "asr": "",
+   "start": 68.68
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "quinze",
+   "asr": " 15",
+   "start": 69.08
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "onze",
+   "asr": " 11",
+   "start": 73.42
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "dois",
+   "asr": " 2",
+   "start": 86.82
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "seis e cinquenta.",
+   "asr": " 6h50",
+   "start": 90.28
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "seis e cinquenta",
+   "asr": " 6h50",
+   "start": 92.96
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "uma",
+   "asr": " a",
+   "start": 95.26
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "seis e quarenta e dois,",
+   "asr": " 6h42",
+   "start": 99.62
+  },
+  {
+   "tipo": "delete",
+   "roteiro": "",
+   "asr": " O",
+   "start": 102.46
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "sola caramelo,",
+   "asr": " solo  a  caramela",
+   "start": 102.68
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "cadarço.",
+   "asr": " cadácio",
+   "start": 105.6
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "fui",
+   "asr": " foi",
+   "start": 111.76
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Sete e vinte e três:",
+   "asr": " 7 ,23",
+   "start": 115.04
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "R um,",
+   "asr": " R1",
+   "start": 123.02
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "na",
+   "asr": " A",
+   "start": 123.98
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Beber",
+   "asr": " bebê",
+   "start": 124.9
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "pole dance.",
+   "asr": " polidência",
+   "start": 131.14
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Sete e vinte e quatro,",
+   "asr": " 7 ,24",
+   "start": 135.4
+  },
+  {
+   "tipo": "delete",
+   "roteiro": "",
+   "asr": " A",
+   "start": 138.06
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Sete e vinte e cinco,",
+   "asr": " 7 ,25",
+   "start": 139.28
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "sentado",
+   "asr": " Sentada",
+   "start": 144.8
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "dentes à mostra",
+   "asr": " Dentas  amostra",
+   "start": 145.98
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "sete e trinta e dois,",
+   "asr": " 7 ,32",
+   "start": 152.16
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "pole dance.",
+   "asr": " polidência",
+   "start": 164.88
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Rockstar não",
+   "asr": " raul  que  está  no",
+   "start": 166.38
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "R um",
+   "asr": " R1",
+   "start": 170.22
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Minuto nove e quatro,",
+   "asr": " 9 ,04",
+   "start": 171.62
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "regata",
+   "asr": " recata",
+   "start": 177.82
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "eat, no R um,",
+   "asr": " itch,  o  R1",
+   "start": 181.86
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "quatro",
+   "asr": " 4",
+   "start": 189.6
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Doze e quinze,",
+   "asr": " 12 ,15",
+   "start": 195.1
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "havaiana",
+   "asr": " viana",
+   "start": 199.78
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "cigarro",
+   "asr": " Se  garra",
+   "start": 201.26
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "fumaça no ar,",
+   "asr": " fome  a  sanuar",
+   "start": 202.54
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "pra",
+   "asr": " para",
+   "start": 204.22
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "pra",
+   "asr": " para  a",
+   "start": 206.42
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "R um.",
+   "asr": " R1",
+   "start": 209.86
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "R um,",
+   "asr": " R1",
+   "start": 211.44
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "R três,",
+   "asr": " R3",
+   "start": 212.34
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "tava",
+   "asr": " estava",
+   "start": 213.28
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "R um",
+   "asr": " R1",
+   "start": 219.22
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "R um",
+   "asr": " R1",
+   "start": 222.04
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Dezessete e vinte e sete:",
+   "asr": " 17 ,27",
+   "start": 225.2
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "zoom no",
+   "asr": " O  zono",
+   "start": 228.48
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Pela",
+   "asr": " Pelo",
+   "start": 230.28
+  },
+  {
+   "tipo": "delete",
+   "roteiro": "",
+   "asr": " e",
+   "start": 233.84
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "tá",
+   "asr": " está",
+   "start": 242.14
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "pra",
+   "asr": " para",
+   "start": 242.44
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Adesivo amarelo:",
+   "asr": " Adesiva  amorela",
+   "start": 248.98
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "twenty one",
+   "asr": " 21",
+   "start": 251.12
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "ID Check,",
+   "asr": " e  de  cheque",
+   "start": 254.24
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "pra",
+   "asr": " para",
+   "start": 258.72
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Leonida",
+   "asr": " Leão  de  da",
+   "start": 261.88
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "joalheria,",
+   "asr": " a  joelheria",
+   "start": 263.4
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "pra",
+   "asr": " para",
+   "start": 264.68
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Dezoito e cinquenta e sete, descida",
+   "asr": " 18 ,57  Decida",
+   "start": 268.9
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "aparecem",
+   "asr": " Aparece  em",
+   "start": 274.24
+  },
+  {
+   "tipo": "insert",
+   "roteiro": "o R",
+   "asr": "",
+   "start": 280.14
+  },
+  {
+   "tipo": "delete",
+   "roteiro": "",
+   "asr": " R1",
+   "start": 280.26
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "pra",
+   "asr": " Para",
+   "start": 288.38
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "pra",
+   "asr": " para",
+   "start": 292.58
+  },
+  {
+   "tipo": "insert",
+   "roteiro": "é",
+   "asr": "",
+   "start": 293.14
+  },
+  {
+   "tipo": "delete",
+   "roteiro": "",
+   "asr": " o",
+   "start": 298.2
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "leitura",
+   "asr": " a  letra",
+   "start": 299.8
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "pro",
+   "asr": " para  o",
+   "start": 306.26
+  },
+  {
+   "tipo": "insert",
+   "roteiro": "a",
+   "asr": "",
+   "start": 307.2
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "cinco.",
+   "asr": " 5",
+   "start": 308.4
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "tão",
+   "asr": " estão",
+   "start": 311.32
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "ao",
+   "asr": " A",
+   "start": 312.58
+  },
+  {
+   "tipo": "insert",
+   "roteiro": "o",
+   "asr": "",
+   "start": 317.06
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Vinte",
+   "asr": " 25",
+   "start": 319.0
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "cinco e vinte e seis,",
+   "asr": " 26",
+   "start": 319.66
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "corpo",
+   "asr": " com",
+   "start": 321.24
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "corpo",
+   "asr": " cor  por  copo",
+   "start": 321.56
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "alvo",
+   "asr": " ovo",
+   "start": 328.58
+  },
+  {
+   "tipo": "insert",
+   "roteiro": "dentro de um círculo.",
+   "asr": "",
+   "start": 330.28
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "hipótese.",
+   "asr": " hipótesis",
+   "start": 337.48
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "fato",
+   "asr": " foto",
+   "start": 339.0
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "seis",
+   "asr": " 6",
+   "start": 340.94
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "Onze",
+   "asr": " Rons  de",
+   "start": 344.2
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "seis",
+   "asr": " 6",
+   "start": 349.98
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "amarra o cadarço",
+   "asr": " A  marroca  da  arço",
+   "start": 351.42
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "quinta-feira",
+   "asr": " quinta -feira",
+   "start": 354.58
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "onze",
+   "asr": " 11",
+   "start": 359.18
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "dezesseis",
+   "asr": " 16",
+   "start": 368.82
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "PS cinco",
+   "asr": " PS5",
+   "start": 370.08
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "PS cinco",
+   "asr": " a  PS5",
+   "start": 371.32
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "trinta",
+   "asr": " 30",
+   "start": 372.1
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "sessenta quadros",
+   "asr": " 64",
+   "start": 373.3
+  },
+  {
+   "tipo": "replace",
+   "roteiro": "prova.",
+   "asr": " prog",
+   "start": 380.64
+  }
+ ]
+}

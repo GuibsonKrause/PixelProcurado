@@ -1,0 +1,20 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "voice_iagtq1gnk2br",
+  "language": "pt-BR (definido pela voz, pelo estilo e pelo texto)",
+  "style_file": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\00_ESTILO_GEMINI_SHORTS.txt",
+  "output_dir": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\audio_gemini",
+  "inputs": [
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\C03_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\C04_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\C05_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\C06_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\C07_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\C08_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\C09_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\C10_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\C11_GEMINI.txt",
+    "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\cortes\\C12_GEMINI.txt"
+  ]
+}
+Validacao concluida; nenhuma chamada foi enviada a API.

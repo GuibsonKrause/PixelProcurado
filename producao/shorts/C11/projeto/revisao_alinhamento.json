@@ -1,0 +1,117 @@
+{
+  "corrections": [
+    {
+      "op": "insert",
+      "start": 77.34,
+      "end": 77.42,
+      "script": "",
+      "asr": "e",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "Brian oferece",
+      "script_index": 6,
+      "time": 3.7333333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "É o acordo",
+      "script_index": 17,
+      "time": 8.2,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O boleto desapareceu",
+      "script_index": 27,
+      "time": 12.866666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Ter um lugar",
+      "script_index": 36,
+      "time": 17.0,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Ao mesmo tempo",
+      "script_index": 45,
+      "time": 20.8,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A relação fica",
+      "script_index": 54,
+      "time": 24.7,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Imagina precisar",
+      "script_index": 71,
+      "time": 31.466666666666665,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A conversa começa",
+      "script_index": 83,
+      "time": 37.03333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Essa situação",
+      "script_index": 99,
+      "time": 43.43333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Também não prova",
+      "script_index": 112,
+      "time": 49.43333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "O que sabemos",
+      "script_index": 124,
+      "time": 53.333333333333336,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A tensão vem",
+      "script_index": 130,
+      "time": 55.7,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "É aquela oferta",
+      "script_index": 144,
+      "time": 61.93333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Por isso, o detalhe",
+      "script_index": 165,
+      "time": 68.83333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Quando alguém",
+      "script_index": 185,
+      "time": 75.93333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Principalmente",
+      "script_index": 198,
+      "time": 81.66666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Porque",
+      "script_index": 208,
+      "time": 84.66666666666667,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

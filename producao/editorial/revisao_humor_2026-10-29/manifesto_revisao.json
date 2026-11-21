@@ -1,0 +1,413 @@
+{
+  "data": "2026-10-29",
+  "modelo": "gemini-3.8-flash-tts",
+  "voz": "voice_iagtq1gnk2br",
+  "estado": "textos_validados_sem_geracao_de_audio",
+  "quantidade": 16,
+  "backup": "producao/historico/antes_humor_br_2026-10-29",
+  "arquivos_backup": 214,
+  "protegidos_conferidos": 385,
+  "tags_documentadas": [
+    "argh",
+    "breath",
+    "cackle",
+    "cheer",
+    "chuckle",
+    "chuckles",
+    "cough",
+    "cry",
+    "exhales",
+    "gasp",
+    "giggle",
+    "groan",
+    "growl",
+    "grr",
+    "grunt",
+    "heavy breath",
+    "hiss",
+    "laugh",
+    "laughter",
+    "long pause",
+    "moan",
+    "pant",
+    "pff",
+    "phew",
+    "scream",
+    "short pause",
+    "shout",
+    "shriek",
+    "sigh",
+    "sighs",
+    "sneeze",
+    "snicker",
+    "snort",
+    "sob",
+    "throat-clearing",
+    "tsk",
+    "whimper",
+    "whispering",
+    "whispers",
+    "yawn"
+  ],
+  "roteiros": [
+    {
+      "id": "L03",
+      "palavras": 834,
+      "paragrafos": 20,
+      "eventos": {
+        "short pause": 3,
+        "sigh": 1,
+        "breath": 1,
+        "chuckle": 1
+      },
+      "narracao": "producao/L03/01_NARRACAO.txt",
+      "gemini": "producao/L03/03_NARRACAO_GEMINI.txt",
+      "style": "producao/L03/04_ESTILO_GEMINI.txt",
+      "sha256_narracao": "37518aa26839903a871a9aa10ebfc8d42b7959d54efd96a716c3605a9cfa6d9f",
+      "sha256_gemini": "64c2d6bf5ac6052316285a2e3c2b87c9b9ca2ed06a2b5790ad4d15a7a81c2b7f",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "Vice City muda. A vaidade continua.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "L04",
+      "palavras": 730,
+      "paragrafos": 25,
+      "eventos": {
+        "short pause": 3,
+        "chuckle": 1,
+        "breath": 1,
+        "pff": 1
+      },
+      "narracao": "producao/L04/01_NARRACAO.txt",
+      "gemini": "producao/L04/03_NARRACAO_GEMINI.txt",
+      "style": "producao/L04/04_ESTILO_GEMINI.txt",
+      "sha256_narracao": "2c03aac1a6dc0d7337acd2c595d4b7aa2f9b2b1338e75a7cda3e530fdd85ce03",
+      "sha256_gemini": "7cc8eb43b0a801ed14283d86ffad9883d9b59ef669b820b6e69d67d2e2edfea1",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "Essa cena é gameplay ou cinema?",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "L05",
+      "palavras": 867,
+      "paragrafos": 22,
+      "eventos": {
+        "chuckle": 1,
+        "breath": 1,
+        "short pause": 2
+      },
+      "narracao": "producao/L05/01_NARRACAO.txt",
+      "gemini": "producao/L05/03_NARRACAO_GEMINI.txt",
+      "style": "producao/L05/04_ESTILO_GEMINI.txt",
+      "sha256_narracao": "5f90c52c9990311e4a1c81ed66feb40f0e1b813d63d918050f66ea0f0e83f70f",
+      "sha256_gemini": "b0d97179e83d4ecfde38cac1edf5b5dccfe67b3c5a1626e7600fb064f7722b96",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "O carro distrai. Olha a rua.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "L06",
+      "palavras": 834,
+      "paragrafos": 22,
+      "eventos": {
+        "short pause": 3,
+        "chuckle": 1,
+        "breath": 1,
+        "exhales": 1
+      },
+      "narracao": "producao/L06/01_NARRACAO.txt",
+      "gemini": "producao/L06/03_NARRACAO_GEMINI.txt",
+      "style": "producao/L06/04_ESTILO_GEMINI.txt",
+      "sha256_narracao": "09b18180127cd29defb907034d1e7d04ab11d343badf356617a94b6298a5ed68",
+      "sha256_gemini": "d9f06ea8bc778df9a744825e1f90b2afcb85acbaa81dca94cb38e8e4b456799b",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "Esse paraíso também sabe dar medo.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "L07",
+      "palavras": 899,
+      "paragrafos": 23,
+      "eventos": {
+        "short pause": 1,
+        "chuckle": 1,
+        "breath": 1
+      },
+      "narracao": "producao/L07/01_NARRACAO.txt",
+      "gemini": "producao/L07/03_NARRACAO_GEMINI.txt",
+      "style": "producao/L07/04_ESTILO_GEMINI.txt",
+      "sha256_narracao": "f77513ed40ed82fa1a830a21c4644c4028dc81024eb2cc6da2c3d3ff3da638fb",
+      "sha256_gemini": "306de7571b3b84a7f99869dafcd71b8f543b2eb0c666b8fe0ae7eeb43bddf07b",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "GTA faz você gostar de propaganda.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "L08",
+      "palavras": 900,
+      "paragrafos": 24,
+      "eventos": {
+        "short pause": 2,
+        "sigh": 1,
+        "breath": 1
+      },
+      "narracao": "producao/L08/01_NARRACAO.txt",
+      "gemini": "producao/L08/03_NARRACAO_GEMINI.txt",
+      "style": "producao/L08/04_ESTILO_GEMINI.txt",
+      "sha256_narracao": "dd808d8e0450ee7934d071bc08cd1e7c360da75bb6d60ee347a816ea9221a3a7",
+      "sha256_gemini": "28537da62edd68b53bf0fff34e2360727d12191408662eaba73955d6edcc9259",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "O aluguel grátis veio cobrar Jason.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "C03",
+      "palavras": 201,
+      "paragrafos": 6,
+      "eventos": {
+        "short pause": 1,
+        "chuckle": 1,
+        "breath": 1
+      },
+      "narracao": "producao/cortes/C03_NARRACAO.txt",
+      "gemini": "producao/cortes/C03_GEMINI.txt",
+      "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+      "sha256_narracao": "5207ba88a17bae342f4a7b0e6817a757811669409ea5c67b279e7d468e8aa1a9",
+      "sha256_gemini": "0b8cf34933c4165a5e07dbc3ba1cc63ea811d61e7005e709dd7f6c21d319e41d",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "Esse abraço tem polícia no fundo.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "C04",
+      "palavras": 206,
+      "paragrafos": 6,
+      "eventos": {
+        "sigh": 1,
+        "short pause": 1
+      },
+      "narracao": "producao/cortes/C04_NARRACAO.txt",
+      "gemini": "producao/cortes/C04_GEMINI.txt",
+      "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+      "sha256_narracao": "6d90b58cb8eb7eb9276b642adcccc0a58b45f6d5439eec09a9605e1bbdbc3145",
+      "sha256_gemini": "7b5c1ffed78652755270db31033521bdd3a4c986d2e0a43851dcb551fd93cafa",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "Sua nostalgia de GTA tem truque.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "C05",
+      "palavras": 212,
+      "paragrafos": 6,
+      "eventos": {
+        "short pause": 1,
+        "chuckle": 1
+      },
+      "narracao": "producao/cortes/C05_NARRACAO.txt",
+      "gemini": "producao/cortes/C05_GEMINI.txt",
+      "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+      "sha256_narracao": "645a10e027a436ee2306e5df067355e5d0df688a1c797f8695ea77b2ecfc2f0d",
+      "sha256_gemini": "1232614335eeb8d3106361fa149c4114c4495713c84e3473c5f51fbc19ab3d44",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "Gameplay confirmado. Mas qual dessas cenas?",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "C06",
+      "palavras": 201,
+      "paragrafos": 6,
+      "eventos": {
+        "short pause": 2
+      },
+      "narracao": "producao/cortes/C06_NARRACAO.txt",
+      "gemini": "producao/cortes/C06_GEMINI.txt",
+      "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+      "sha256_narracao": "c7d962d85ad8cb951d590158ac20b03d6549d93093f82dae686135f635e08e58",
+      "sha256_gemini": "c2d8ccb1442e04e63eec9ffacf81f524485ed797617e04d54d962e0c28ed11ff",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "Estão avaliando gráficos no pôster.",
+      "palavras_gancho": 5,
+      "segundos_gancho_sem_pausas": [
+        1.94,
+        2.14
+      ]
+    },
+    {
+      "id": "C07",
+      "palavras": 202,
+      "paragrafos": 6,
+      "eventos": {
+        "short pause": 1,
+        "breath": 1
+      },
+      "narracao": "producao/cortes/C07_NARRACAO.txt",
+      "gemini": "producao/cortes/C07_GEMINI.txt",
+      "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+      "sha256_narracao": "b03d01eb3d77aa9719b7974a6664ba18e6e5aaa3f611c404da37b58c89f14a54",
+      "sha256_gemini": "88e0afc3ef0139eba1ae1d73f20afc2e4f008273f2fc95d4b3b070a5e43cf046",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "O detalhe está fora do carro.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "C08",
+      "palavras": 206,
+      "paragrafos": 6,
+      "eventos": {
+        "short pause": 1,
+        "chuckle": 1
+      },
+      "narracao": "producao/cortes/C08_NARRACAO.txt",
+      "gemini": "producao/cortes/C08_GEMINI.txt",
+      "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+      "sha256_narracao": "2d3fe66cb99e4a7c31366ab6478e69648deff2613e7b6cf09992efdd86ec0a1d",
+      "sha256_gemini": "513bf1d409ac6d3f5c59487b9e8bc662930f0e4248cf750b315a8dbab44f276a",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "A iguana já virou síndica daqui.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "C09",
+      "palavras": 197,
+      "paragrafos": 6,
+      "eventos": {
+        "short pause": 1,
+        "breath": 1
+      },
+      "narracao": "producao/cortes/C09_NARRACAO.txt",
+      "gemini": "producao/cortes/C09_GEMINI.txt",
+      "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+      "sha256_narracao": "96c2713c9d69d550e7b4366e43f4119bcb466ab85d7baddbaed87e6ea9d7abc3",
+      "sha256_gemini": "d8a762daae561f484c7c6cacadbf7b4e1dda39946d06ed77e85952e26d56635d",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "Mesma água. Outro nível de desconfiança.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "C10",
+      "palavras": 200,
+      "paragrafos": 6,
+      "eventos": {
+        "chuckle": 1,
+        "short pause": 1
+      },
+      "narracao": "producao/cortes/C10_NARRACAO.txt",
+      "gemini": "producao/cortes/C10_GEMINI.txt",
+      "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+      "sha256_narracao": "2e03a231dbd226a01eeefcc584a0c73a9f777b9f60d758fc5848c849138a9e38",
+      "sha256_gemini": "6f14b4282ab8ef740e382e587808d3a141de9bd10694e88a47f57bdb83871af2",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "GTA colocou propaganda na sua playlist.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "C11",
+      "palavras": 209,
+      "paragrafos": 6,
+      "eventos": {
+        "short pause": 1,
+        "sigh": 1
+      },
+      "narracao": "producao/cortes/C11_NARRACAO.txt",
+      "gemini": "producao/cortes/C11_GEMINI.txt",
+      "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+      "sha256_narracao": "301bdf3609811b04b6dcacdc0c11dbfe0412f47d542dad46327089b98851164a",
+      "sha256_gemini": "25cc17ef4488c84632a691b40a99f84e6caf3a54d2cd2188b05b2c565190cc5d",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "Jason mora grátis. Mas tem cobrança.",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    },
+    {
+      "id": "C12",
+      "palavras": 195,
+      "paragrafos": 6,
+      "eventos": {
+        "short pause": 1
+      },
+      "narracao": "producao/cortes/C12_NARRACAO.txt",
+      "gemini": "producao/cortes/C12_GEMINI.txt",
+      "style": "producao/cortes/00_ESTILO_GEMINI_SHORTS.txt",
+      "sha256_narracao": "f475218edfeb1b26935ca88a5eeb3b04def7183c60adf53d02454136e853bcad",
+      "sha256_gemini": "4225a6fb06cf3c435ce3557e1439d5e1679886830862aa3543aae658849a07e0",
+      "estado": "texto_revisado_audio_novo_nao_gerado",
+      "gancho": "Raul sabe roubar. Mas sabe parar?",
+      "palavras_gancho": 6,
+      "segundos_gancho_sem_pausas": [
+        2.32,
+        2.57
+      ]
+    }
+  ],
+  "ganchos_3s": true,
+  "dry_runs": [
+    {
+      "formato": "L",
+      "quantidade": 6,
+      "exit_code": 0,
+      "api_chamada": false
+    },
+    {
+      "formato": "C",
+      "quantidade": 10,
+      "exit_code": 0,
+      "api_chamada": false
+    }
+  ]
+}

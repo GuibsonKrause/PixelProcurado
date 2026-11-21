@@ -1,0 +1,163 @@
+{
+  "type": "schedule",
+  "creationMethod": "CLI",
+  "date": "2026-11-14T21:00:00.000Z",
+  "shortLink": false,
+  "tags": [],
+  "posts": [
+    {
+      "integration": {
+        "id": "cmvsctfgl0001jncj932ovibv"
+      },
+      "value": [
+        {
+          "content": "Tem um streamer no porta-malas do GTA 6, e não é arma nem malote. No Dia 6 do aquecimento (sábado 14/11, faltando 5 dias para 19 de novembro), a gente abre o porta-malas do minuto 18 do gameplay e mostra o que o carro virou: um ícone pequeno, dois tipos de corrida e uma oficina que por enquanto só existe em foto.\n\nNo caminho: o ícone do carro que some embaixo das estrelas de procurado quando a Lucia larga o sedã, o Pay and Spray dos GTA antigos, a placa do Sentinel que aparece em duas cenas, a roda de itens com lenço e cabide, circuito contra corrida de rua com progresso em porcentagem e os bônus da Ultimate Edition (Rideout Customs, Ganado Retro Build e coleção Wyman).\n\n00:00 Tem um streamer nesse porta-malas\n00:30 King of trunk: a live de 51 mil\n00:50 Hoje: o que o carro virou no GTA 6\n01:12 O ícone embaixo das estrelas\n01:30 Garagem, molotov e van: o ícone do carro some\n02:06 Fato ou hipótese? O que dá pra afirmar\n02:25 Pay and Spray: o álibi mais barato\n02:42 O carro como camarim: lenço e cabide\n03:14 Sentinel: a placa que aparece em duas cenas\n03:44 Slim Jim ou quebrar o vidro?\n03:57 Rachas: circuito, rua e moto de trilha\n04:35 Oficinas: só existem em foto\n05:16 Bônus de edição não prova o jogo base\n05:33 3 hábitos para o dia 19\n06:01 Amanhã: 11 detalhes doentios\n\nO que dá pra afirmar: o ícone do carro some quando a Lucia larga o sedã e não volta na van. O que é hipótese: que cada ícone seja uma pista que a polícia tem de você, e que a mesma placa em duas cenas indique carro pessoal. O que ainda não dá pra afirmar: como a customização funciona no jogo base e se dá pra trocar a cor do carro para despistar a polícia. Isso só no lançamento.\n\nE você, no dia 19, larga o carro marcado ou foge com ele até o fim? Conta nos comentários.\n\nAmanhã (domingo, 15/11): 11 detalhes doentios que passam rápido demais, incluindo o que está colado na geladeira da Lucia.\n\nImagens de GTA VI: Rockstar Games. Trechos de An Extended Look, Trailer 1, Trailer 2, Launch Trailer, capturas oficiais e imagens da Ultimate Edition, usados em análise e comentário.\n\n#GTA6 #GTAVI #PixelProcurado",
+          "image": [
+            {
+              "id": "",
+              "path": "https://pixel-procurado-midia.ame-lay.workers.dev/publicacoes/d9b14bea620140078c8fa4d4d3f94f01.mp4"
+            }
+          ],
+          "delay": 0
+        }
+      ],
+      "settings": {
+        "__type": "youtube",
+        "title": "GTA 6: O Que Tem no Porta-Malas (Não É Arma)",
+        "type": "public",
+        "selfDeclaredMadeForKids": "no",
+        "tags": [
+          {
+            "value": "GTA 6",
+            "label": "GTA 6"
+          },
+          {
+            "value": "GTA VI",
+            "label": "GTA VI"
+          },
+          {
+            "value": "Grand Theft Auto VI",
+            "label": "Grand Theft Auto VI"
+          },
+          {
+            "value": "GTA 6 gameplay",
+            "label": "GTA 6 gameplay"
+          },
+          {
+            "value": "GTA 6 porta-malas",
+            "label": "GTA 6 porta-malas"
+          },
+          {
+            "value": "GTA 6 carros",
+            "label": "GTA 6 carros"
+          },
+          {
+            "value": "GTA 6 polícia",
+            "label": "GTA 6 polícia"
+          },
+          {
+            "value": "GTA 6 estrelas de procurado",
+            "label": "GTA 6 estrelas de procurado"
+          },
+          {
+            "value": "GTA 6 ícone",
+            "label": "GTA 6 ícone"
+          },
+          {
+            "value": "GTA 6 corrida de rua",
+            "label": "GTA 6 corrida de rua"
+          },
+          {
+            "value": "GTA 6 racha",
+            "label": "GTA 6 racha"
+          },
+          {
+            "value": "GTA 6 oficina",
+            "label": "GTA 6 oficina"
+          },
+          {
+            "value": "GTA 6 Ultimate Edition",
+            "label": "GTA 6 Ultimate Edition"
+          },
+          {
+            "value": "GTA 6 Rideout Customs",
+            "label": "GTA 6 Rideout Customs"
+          },
+          {
+            "value": "Lucia GTA 6",
+            "label": "Lucia GTA 6"
+          },
+          {
+            "value": "Jason GTA 6",
+            "label": "Jason GTA 6"
+          },
+          {
+            "value": "Jason e Lucia",
+            "label": "Jason e Lucia"
+          },
+          {
+            "value": "Leonida",
+            "label": "Leonida"
+          },
+          {
+            "value": "Vice City",
+            "label": "Vice City"
+          },
+          {
+            "value": "GTA 6 Vice City",
+            "label": "GTA 6 Vice City"
+          },
+          {
+            "value": "Rockstar Games",
+            "label": "Rockstar Games"
+          },
+          {
+            "value": "An Extended Look",
+            "label": "An Extended Look"
+          },
+          {
+            "value": "GTA 6 19 de novembro",
+            "label": "GTA 6 19 de novembro"
+          },
+          {
+            "value": "GTA 6 lançamento",
+            "label": "GTA 6 lançamento"
+          },
+          {
+            "value": "GTA 6 dia 6",
+            "label": "GTA 6 dia 6"
+          },
+          {
+            "value": "Pay and Spray",
+            "label": "Pay and Spray"
+          },
+          {
+            "value": "GTA 6 streamer",
+            "label": "GTA 6 streamer"
+          },
+          {
+            "value": "GTA 6 trailer",
+            "label": "GTA 6 trailer"
+          },
+          {
+            "value": "Pixel Procurado",
+            "label": "Pixel Procurado"
+          },
+          {
+            "value": "GTA 6 Brasil",
+            "label": "GTA 6 Brasil"
+          }
+        ],
+        "thumbnail": {
+          "id": "fa96214d-6d71-4b2f-a47c-406cab01c531",
+          "name": "a375c71310171076bc3ab45bea23582dd.jpg",
+          "originalName": null,
+          "path": "http://localhost:4007/uploads/2026/11/13/a375c71310171076bc3ab45bea23582dd.jpg",
+          "thumbnail": null,
+          "alt": null,
+          "status": "ready"
+        }
+      }
+    }
+  ]
+}

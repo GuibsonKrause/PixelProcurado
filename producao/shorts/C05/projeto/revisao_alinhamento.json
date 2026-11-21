@@ -1,0 +1,245 @@
+{
+  "corrections": [
+    {
+      "op": "replace",
+      "start": 6.12,
+      "end": 6.46,
+      "script": "dois",
+      "asr": "2",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 6.98,
+      "end": 7.52,
+      "script": "seis como",
+      "asr": "6 com",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 18.56,
+      "end": 18.68,
+      "script": "o",
+      "asr": "um",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 27.86,
+      "end": 28.96,
+      "script": "",
+      "asr": "A",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 34.84,
+      "end": 35.44,
+      "script": "pra",
+      "asr": "para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 37.26,
+      "end": 37.58,
+      "script": "pra",
+      "asr": "para a",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 39.0,
+      "end": 39.36,
+      "script": "enquadramento",
+      "asr": "encodramento",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 41.72,
+      "end": 42.06,
+      "script": "Imagina",
+      "asr": "Imagine",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 43.28,
+      "end": 43.56,
+      "script": "num",
+      "asr": "em um",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 44.64,
+      "end": 44.94,
+      "script": "Ver",
+      "asr": "Ve",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 46.18,
+      "end": 46.4,
+      "script": "",
+      "asr": "e",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 51.68,
+      "end": 52.06,
+      "script": "serve pra",
+      "asr": "Sair para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 52.7,
+      "end": 52.84,
+      "script": "",
+      "asr": "a",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 58.82,
+      "end": 59.06,
+      "script": "Pra",
+      "asr": "Para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 63.88,
+      "end": 64.0,
+      "script": "pra",
+      "asr": "para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 70.74,
+      "end": 71.38,
+      "script": "Empolgação",
+      "asr": "Embolgação",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 78.28,
+      "end": 78.48,
+      "script": "",
+      "asr": "o",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "A Rockstar descreve",
+      "script_index": 6,
+      "time": 4.7,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Isso confirma",
+      "script_index": 22,
+      "time": 10.8,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Uma câmera atrás",
+      "script_index": 34,
+      "time": 16.266666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Só que uma sequência",
+      "script_index": 44,
+      "time": 19.866666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A posição da câmera",
+      "script_index": 54,
+      "time": 23.666666666666668,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Anúncio de apartamento",
+      "script_index": 70,
+      "time": 28.966666666666665,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Você visita",
+      "script_index": 82,
+      "time": 33.46666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Imagina uma cena",
+      "script_index": 104,
+      "time": 41.733333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Ver a porta",
+      "script_index": 112,
+      "time": 44.63333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Esse exemplo",
+      "script_index": 131,
+      "time": 49.86666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A declaração oficial",
+      "script_index": 143,
+      "time": 54.7,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Pra classificar",
+      "script_index": 150,
+      "time": 58.833333333333336,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Não dá pra distribuir",
+      "script_index": 161,
+      "time": 63.53333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "nem chamar tudo",
+      "script_index": 172,
+      "time": 67.26666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Empolgação é permitida",
+      "script_index": 181,
+      "time": 70.73333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A resposta geral",
+      "script_index": 199,
+      "time": 77.33333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Então",
+      "script_index": 211,
+      "time": 81.76666666666667,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

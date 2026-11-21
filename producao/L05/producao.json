@@ -1,0 +1,40 @@
+{
+  "id": "L05",
+  "formato": "longo_4k_16_9_30fps",
+  "roteiro_origem": "producao/L05/01_NARRACAO.txt",
+  "estado": "validado_e_agendado",
+  "etapa_atual": "concluido",
+  "executor": {
+    "agent_id": "/root/produzir_l05",
+    "model_solicitado": "gpt-6.1-sol",
+    "reasoning_effort_solicitado": "medium",
+    "modelo_efetivo": "desconhecido"
+  },
+  "distribuicao": {
+    "agent_id": "/root/distribuir_l05",
+    "model_solicitado": "gpt-6.1-sol",
+    "reasoning_effort_solicitado": "medium",
+    "modelo_efetivo": "desconhecido",
+    "data": "2026-11-03T12:00:00-03:00",
+    "canais": [
+      "youtube",
+      "facebook",
+      "instagram"
+    ],
+    "stories": [
+      "facebook",
+      "instagram"
+    ],
+    "autorizado_pelo_usuario": true,
+    "estado": "QUEUE_cinco_destinos_sem_erros",
+    "recibo": "producao/L05/AGENDAMENTOS_CONFIRMADOS.md"
+  },
+  "revisao_final": {
+    "resultado": "PASS",
+    "modelo_efetivo": "desconhecido",
+    "model_solicitado": "gpt-6-astra",
+    "relatorio": "producao/L05/REVISAO_INDEPENDENTE.md",
+    "reasoning_effort_solicitado": "high",
+    "agent_id": "/root/qa_l05_multicanal"
+  }
+}

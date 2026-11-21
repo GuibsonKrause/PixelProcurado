@@ -1,0 +1,88 @@
+{
+  "schema_versao": 1,
+  "id": "ONLY_IN_DADE_2026_11_13",
+  "formato": "longo",
+  "roteiro_origem": "producao/ONLY_IN_DADE_2026-11-13/01_NARRACAO.txt",
+  "etapa_atual": "distribuicao",
+  "status": "em_andamento",
+  "data_criacao": "2026-11-13T22:45:36-03:00",
+  "etapas": {
+    "narracao": {
+      "status": "validado",
+      "executor": {
+        "agent_id": "/root/audio",
+        "model_solicitado": "gpt-6.1-sol",
+        "reasoning_effort_solicitado": "low"
+      },
+      "atualizado_em": "2026-11-13T23:29:43-03:00",
+      "artefatos": {
+        "wav": "producao/ONLY_IN_DADE_2026-11-13/audio/narracao_normalizada_editada.wav"
+      },
+      "medicoes": {
+        "duracao_segundos": 196.98
+      }
+    },
+    "alinhamento": {
+      "status": "validado",
+      "artefatos": {
+        "palavras": "producao/ONLY_IN_DADE_2026-11-13/audio/palavras_alinhadas.json"
+      },
+      "medicoes": {
+        "marcas": 545
+      },
+      "atualizado_em": "2026-11-13T23:29:44-03:00"
+    },
+    "montagem": {
+      "status": "validado",
+      "executor": {
+        "agent_id": "/root/acervo"
+      },
+      "atualizado_em": "2026-11-14T07:01:18-03:00",
+      "artefatos": {
+        "revisao_previa": "producao/ONLY_IN_DADE_2026-11-13/REVISAO_PREVIA.md"
+      }
+    },
+    "render": {
+      "status": "validado",
+      "executor": {
+        "agent_id": "/root/render"
+      },
+      "atualizado_em": "2026-11-14T19:34:36-03:00",
+      "medicoes": {
+        "qa_aprovados": 4
+      },
+      "artefatos": {
+        "master": "producao/ONLY_IN_DADE_2026-11-13/exportacoes/Pixel_Procurado_Only_In_Dade_Longo_V2.mp4"
+      }
+    },
+    "thumbnail": {
+      "status": "validado",
+      "artefatos": {
+        "capa": "producao/ONLY_IN_DADE_2026-11-13/publicacao/thumbnail_A/capa_youtube.jpg"
+      },
+      "atualizado_em": "2026-11-14T19:34:36-03:00"
+    },
+    "publicacao_pacote": {
+      "status": "validado",
+      "artefatos": {
+        "plano": "producao/ONLY_IN_DADE_2026-11-13/PLANO_POSTIZ_LOG.txt"
+      },
+      "atualizado_em": "2026-11-14T19:34:37-03:00"
+    },
+    "distribuicao": {
+      "status": "bloqueado",
+      "artefatos": {
+        "estado": "producao/ONLY_IN_DADE_2026-11-13/publicacao/POSTIZ_ESTADO.json"
+      },
+      "medicoes": {
+        "postiz_error": 11,
+        "publicadas": 0
+      },
+      "atualizado_em": "2026-11-14T21:08:41-03:00"
+    },
+    "revisao_final": {
+      "status": "pendente"
+    }
+  },
+  "atualizado_em": "2026-11-14T21:08:41-03:00"
+}

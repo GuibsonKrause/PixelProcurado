@@ -1,0 +1,308 @@
+[
+  {
+    "word": "A",
+    "paragraph": 1,
+    "start": 0,
+    "end": 0.38,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "meia-noite",
+    "paragraph": 1,
+    "start": 0.38,
+    "end": 0.74,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "não",
+    "paragraph": 1,
+    "start": 0.74,
+    "end": 0.86,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "chega",
+    "paragraph": 1,
+    "start": 0.86,
+    "end": 1.1,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "junto.",
+    "paragraph": 1,
+    "start": 1.1,
+    "end": 1.74,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Amanhã",
+    "paragraph": 1,
+    "start": 2.04,
+    "end": 2.28,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "é",
+    "paragraph": 1,
+    "start": 2.28,
+    "end": 2.36,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "o",
+    "paragraph": 1,
+    "start": 2.36,
+    "end": 2.38,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "lançamento",
+    "paragraph": 1,
+    "start": 2.38,
+    "end": 2.78,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 1,
+    "start": 2.78,
+    "end": 2.96,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "GTA",
+    "paragraph": 1,
+    "start": 2.96,
+    "end": 3.2,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "seis,",
+    "paragraph": 1,
+    "start": 3.2,
+    "end": 3.7,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "mas",
+    "paragraph": 1,
+    "start": 4.04,
+    "end": 4.12,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "o",
+    "paragraph": 1,
+    "start": 4.12,
+    "end": 4.3,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_anchored_interpolation",
+    "estimated": true
+  },
+  {
+    "word": "relógio",
+    "paragraph": 1,
+    "start": 4.3,
+    "end": 4.58,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "de",
+    "paragraph": 1,
+    "start": 4.58,
+    "end": 4.72,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "outro",
+    "paragraph": 1,
+    "start": 4.72,
+    "end": 4.86,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "país",
+    "paragraph": 1,
+    "start": 4.86,
+    "end": 5.16,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "pode",
+    "paragraph": 1,
+    "start": 5.16,
+    "end": 5.38,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "colocar",
+    "paragraph": 1,
+    "start": 5.38,
+    "end": 5.7,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "spoilers",
+    "paragraph": 1,
+    "start": 5.7,
+    "end": 6.18,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "no",
+    "paragraph": 1,
+    "start": 6.18,
+    "end": 6.4,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "seu",
+    "paragraph": 1,
+    "start": 6.4,
+    "end": 6.56,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "caminho",
+    "paragraph": 1,
+    "start": 6.56,
+    "end": 6.84,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "antes",
+    "paragraph": 1,
+    "start": 6.84,
+    "end": 7.18,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "da",
+    "paragraph": 1,
+    "start": 7.18,
+    "end": 7.4,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "sua",
+    "paragraph": 1,
+    "start": 7.4,
+    "end": 7.54,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "primeira",
+    "paragraph": 1,
+    "start": 7.54,
+    "end": 7.76,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "partida.",
+    "paragraph": 1,
+    "start": 7.76,
+    "end": 8.2,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "Então",
+    "paragraph": 1,
+    "start": 9.54,
+    "end": 10.02,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "vamos",
+    "paragraph": 1,
+    "start": 10.64,
+    "end": 10.78,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "preparar",
+    "paragraph": 1,
+    "start": 10.78,
+    "end": 11.14,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "a",
+    "paragraph": 1,
+    "start": 11.14,
+    "end": 11.28,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  },
+  {
+    "word": "largada.",
+    "paragraph": 1,
+    "start": 11.28,
+    "end": 11.92,
+    "source": "roteiro_alinhado",
+    "timing_source": "ASR_medium_anchor",
+    "estimated": false
+  }
+]

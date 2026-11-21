@@ -1,0 +1,4 @@
+Montagem editorial 16:9 (longo). Arte-base gerada por IA (gemini-3-pro-image via automacao/gerar_arte_thumbnail.ps1, uma imagem, sem texto/logo), com texto, selo do canal e logo oficial GTA VI aplicados por compose_thumbnail.py.
+Frase: 8H DA / MANHÃ?
+Direcao: Opcao A do roteiro (dois relogios: sala brasileira a noite x manha neozelandesa). Prompt completo em thumbnail_base_prompt.txt; prompt efetivamente enviado em thumbnail_base_gerada.png.prompt.txt.
+Observacao: ilustracao gerada, nao e captura de jogo. O relogio de mesa mostra digitos na arte-base.

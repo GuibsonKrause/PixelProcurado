@@ -1,0 +1,44 @@
+{
+  "source": "11_Banco de vídeos GTA.mp4",
+  "model": "small",
+  "language": "pt",
+  "duration": 129.9626875,
+  "duration_after_vad": 129.8986875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 28.96,
+      "text": " Fala pessoal, seja bem-vindos a essa aula e hoje eu vim só mostrar pra vocês uma bibliotaica que eu preparei, se por acaso você estiver buscando takes de GTA para você ilustrar os seus jogos de GTA ou se você não quer gravar ou não quiser comprar o GTA ou seu computador de repente não aguenta ali você rodar GTA, então o que você pode fazer? Eu deixei esse link aqui, vai ficar aqui abaixo da descrição e aqui eu fiz o upload de alguns vídeos no meu Drive Mes para vocês realizarem download.",
+      "avg_logprob": -0.16529264835019905,
+      "no_speech_prob": 0.07187744230031967
+    },
+    {
+      "start": 28.96,
+      "end": 56.83,
+      "text": " e utilizar para ilustrar o vídeo de vocês. Vários desses vídeos aqui eu baixei de bancos gratuitos, só reunir em um local aqui fácil para você não ficar pesquisando na internet. Só tá tudo aqui de maneira gratuita para qualquer pessoa, se você quiser procurar por conta própria. Mas você ir no YouTube e procurar Gameplays, tem muita gente que disponibiliza Gameplays de maneira gratuita e cop-free, principalmente porque é um jogo, quem detém os direitos é a Rockstar e não...",
+      "avg_logprob": -0.15257277319916582,
+      "no_speech_prob": 0.22003184258937836
+    },
+    {
+      "start": 56.83,
+      "end": 86.8,
+      "text": " de repente o YouTube não sei o que, ele coloca alguma coisa por cima, né? Mas eu só reuni tudo isso, separei bonitinho e deixei aqui disponível pra vocês visualizarem o que vocês querem utilizar no vídeo de vocês e vocês fizeram da Lodio utilizar no vídeo de vocês. Tudo aqui é brain rude, né? Só pra você pegar e ilustrar, enquanto tá passando aqui um vídeo satisfatório, aleatório, você tá falando de outro assunto, utilizando uma voz de inteligência artificial, qualquer outra coisa do gênero, pra você ilustrar e criar o seu vídeo. E aí você pode tocar aqui, você vai baixar,",
+      "avg_logprob": -0.18193189969798862,
+      "no_speech_prob": 0.18328040838241577
+    },
+    {
+      "start": 86.8,
+      "end": 115.57,
+      "text": " Vai abrir no Drive, já vai cair no link certinho, você faz o download e vai ter ali bonitinho o vídeo para vocês utilizarem. Não dá o play aqui porque eu subi tudo no Drive, para ficar fácil de você já baixar diretamente. Alguns são pesados, 1 GB, quase 2 GB, porque eles estão aqui em 4K. Esporadicamente eu vou vir aqui e adicionar mais vídeos. Aqui tem vários trailers, alguns brain routes para você utilizar e pelo menos já ter o material inicial.",
+      "avg_logprob": -0.21256008612371124,
+      "no_speech_prob": 0.10828164964914322
+    },
+    {
+      "start": 115.57,
+      "end": 129.96,
+      "text": " para você produzir os seus vídeos. Então pessoal, essa aula é bem rapidinha, só para mostrar essa galeria que eu achei interessante trazer aqui para vocês. Se vocês quiserem que eu alimente mais ou de alguma forma, se isso daqui ajudou, comenta aqui abaixo dessa aula. Fechou? Tá isso. Até a próxima. Valeu.",
+      "avg_logprob": -0.15074667295852265,
+      "no_speech_prob": 0.1527700275182724
+    }
+  ]
+}

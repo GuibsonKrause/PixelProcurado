@@ -1,0 +1,563 @@
+{
+  "id": "C08",
+  "title": "A dona da rua em GTA 6 é uma iguana",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 72.12,
+  "frames": 2164,
+  "voice": "producao/shorts/C08/voz/narracao.wav",
+  "shots": [
+    {
+      "anchor": null,
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "A IGUANA\nVIROU SÍNDICA.",
+      "label": "LEONIDA KEYS • SCREENSHOT",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "crop": [
+        0.05,
+        0.65,
+        0.38,
+        0.35
+      ],
+      "from": 0,
+      "frames": 86,
+      "part": 0,
+      "index": 0,
+      "start": 0.0,
+      "end": 2.8666666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Pelo menos",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "A DONA DA RUA.",
+      "label": "LEONIDA KEYS • SCREENSHOT",
+      "mode": "panel",
+      "offset": 0,
+      "ring": [
+        0.07,
+        0.71,
+        0.31,
+        0.18
+      ],
+      "from": 86,
+      "frames": 107,
+      "part": 0,
+      "index": 1,
+      "start": 2.8666666666666667,
+      "end": 6.433333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "ela está no asfalto",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "NO ASFALTO. SEM PRESSA.",
+      "label": "DETALHE DA MESMA IMAGEM",
+      "mode": "panel",
+      "offset": 0,
+      "crop": [
+        0.05,
+        0.65,
+        0.38,
+        0.35
+      ],
+      "from": 193,
+      "frames": 185,
+      "part": 0,
+      "index": 2,
+      "start": 6.433333333333334,
+      "end": 12.6,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A gente chega",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "ADMINISTRAÇÃO LOCAL.",
+      "label": "LEONIDA KEYS • QUADRO INTEIRO",
+      "mode": "panel",
+      "offset": 0,
+      "from": 378,
+      "frames": 144,
+      "part": 0,
+      "index": 3,
+      "start": 12.6,
+      "end": 17.4,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Falta só pedir",
+      "file": "",
+      "title": "QUAL O NÚMERO DA RESERVA?",
+      "label": "PIADA • SITUAÇÃO IMAGINADA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "O HORÁRIO DE VISITA ACABOU"
+      ],
+      "from": 522,
+      "frames": 130,
+      "part": 0,
+      "index": 4,
+      "start": 17.4,
+      "end": 21.733333333333334,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "O detalhe funciona",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "UM DETALHE. UMA SITUAÇÃO.",
+      "label": "ANÁLISE VISUAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 652,
+      "frames": 111,
+      "part": 0,
+      "index": 5,
+      "start": 21.733333333333334,
+      "end": 25.433333333333334,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Você não vê",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "A RUA GANHA PERSONAGEM.",
+      "label": "LEONIDA KEYS • MESMA IMAGEM",
+      "mode": "panel",
+      "offset": 0,
+      "from": 763,
+      "frames": 48,
+      "part": 0,
+      "index": 6,
+      "start": 25.433333333333334,
+      "end": 27.033333333333335,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Encontra um animal",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "NO CAMINHO DAS PESSOAS.",
+      "label": "DETALHE DO MESMO QUADRO",
+      "mode": "panel",
+      "offset": 0,
+      "ring": [
+        0.07,
+        0.71,
+        0.31,
+        0.18
+      ],
+      "from": 811,
+      "frames": 184,
+      "part": 0,
+      "index": 7,
+      "start": 27.033333333333335,
+      "end": 33.166666666666664,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Agora imagina",
+      "file": "",
+      "title": "IMAGINE O MESMO QUADRO",
+      "label": "EXERCÍCIO NOSSO • NÃO É OUTRA CAPTURA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "RUA E PESSOAS",
+        "SEM A IGUANA"
+      ],
+      "from": 995,
+      "frames": 99,
+      "part": 0,
+      "index": 8,
+      "start": 33.166666666666664,
+      "end": 36.46666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "É um exercício",
+      "file": "",
+      "title": "EXERCÍCIO, NÃO NOVA CAPTURA",
+      "label": "HIPÓTESE EDITORIAL",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "AUSÊNCIA IMAGINADA"
+      ],
+      "from": 1094,
+      "frames": 108,
+      "part": 0,
+      "index": 9,
+      "start": 36.46666666666667,
+      "end": 40.06666666666667,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "A rua continuaria",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "O PERSONAGEM MUDA O OLHAR.",
+      "label": "RETORNO À IMAGEM ORIGINAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1202,
+      "frames": 171,
+      "part": 0,
+      "index": 10,
+      "start": 40.06666666666667,
+      "end": 45.766666666666666,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Isso não confirma",
+      "file": "",
+      "title": "A FOTO NÃO CONFIRMA",
+      "label": "LIMITES DA EVIDÊNCIA",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "BLOQUEIO DE CARROS",
+        "REAÇÃO AO JOGADOR",
+        "PARTICIPAÇÃO EM MISSÃO"
+      ],
+      "from": 1373,
+      "frames": 151,
+      "part": 0,
+      "index": 11,
+      "start": 45.766666666666666,
+      "end": 50.8,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "A foto mostra",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "PRESENÇA CONFIRMADA.",
+      "label": "LEONIDA KEYS • SCREENSHOT",
+      "mode": "panel",
+      "offset": 0,
+      "ring": [
+        0.07,
+        0.71,
+        0.31,
+        0.18
+      ],
+      "from": 1524,
+      "frames": 68,
+      "part": 0,
+      "index": 12,
+      "start": 50.8,
+      "end": 53.06666666666667,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "O comportamento",
+      "file": "",
+      "title": "COMPORTAMENTO PEDE OUTRA PROVA",
+      "label": "CRITÉRIO DE ANÁLISE",
+      "mode": "graphic",
+      "offset": 0,
+      "items": [
+        "PRESENÇA ≠ MECÂNICA"
+      ],
+      "from": 1592,
+      "frames": 53,
+      "part": 0,
+      "index": 13,
+      "start": 53.06666666666667,
+      "end": 54.833333333333336,
+      "animationFrames": 36
+    },
+    {
+      "anchor": "por mais convincente",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "POSE DE PROPRIETÁRIO.",
+      "label": "DETALHE DA MESMA IMAGEM",
+      "mode": "panel",
+      "offset": 0,
+      "crop": [
+        0.05,
+        0.65,
+        0.38,
+        0.35
+      ],
+      "from": 1645,
+      "frames": 129,
+      "part": 0,
+      "index": 14,
+      "start": 54.833333333333336,
+      "end": 59.13333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "A graça está",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "PEQUENA PARTICIPAÇÃO. GRANDE EFEITO.",
+      "label": "ANÁLISE VISUAL",
+      "mode": "panel",
+      "offset": 0,
+      "from": 1774,
+      "frames": 186,
+      "part": 0,
+      "index": 15,
+      "start": 59.13333333333333,
+      "end": 65.33333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Entre tanta água",
+      "file": "videosGTAVI/GTAVI_Trailer_2.mp4",
+      "title": "ÁGUA. HORIZONTE. KEYS.",
+      "label": "GTA VI • PAISAGEM NO TRAILER 2",
+      "mode": "panel",
+      "offset": 83.0,
+      "motion": 2.0,
+      "from": 1960,
+      "frames": 60,
+      "part": 0,
+      "index": 16,
+      "start": 65.33333333333333,
+      "end": 67.33333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "foi o sujeito",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "QUEM COMANDA O QUADRO?",
+      "label": "LEONIDA KEYS • QUADRO INTEIRO",
+      "mode": "panel",
+      "offset": 0,
+      "ring": [
+        0.07,
+        0.71,
+        0.31,
+        0.18
+      ],
+      "from": 2020,
+      "frames": 117,
+      "part": 0,
+      "index": 17,
+      "start": 67.33333333333333,
+      "end": 71.23333333333333,
+      "animationFrames": 18
+    },
+    {
+      "anchor": "Afinal",
+      "file": "videosGTAVI/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+      "title": "A IGUANA\nVIROU SÍNDICA.",
+      "label": "LEONIDA KEYS • SCREENSHOT",
+      "mode": "panel",
+      "offset": 0,
+      "hook": true,
+      "crop": [
+        0.05,
+        0.65,
+        0.38,
+        0.35
+      ],
+      "from": 2137,
+      "frames": 27,
+      "part": 0,
+      "index": 18,
+      "start": 71.23333333333333,
+      "end": 72.13333333333334,
+      "animationFrames": 18
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 2.45,
+      "text": "A iguana já virou síndica daqui."
+    },
+    {
+      "start": 2.86,
+      "end": 4.76,
+      "text": "Pelo menos é a impressão dessa imagem"
+    },
+    {
+      "start": 4.76,
+      "end": 5.95,
+      "text": "das Leonida Keys:"
+    },
+    {
+      "start": 6.44,
+      "end": 8.46,
+      "text": "ela está no asfalto, com pessoas ao"
+    },
+    {
+      "start": 8.46,
+      "end": 10.9,
+      "text": "redor, tranquila como quem comprou o lote"
+    },
+    {
+      "start": 10.9,
+      "end": 11.75,
+      "text": "antes de todo mundo."
+    },
+    {
+      "start": 12.6,
+      "end": 14.18,
+      "text": "A gente chega olhando a paisagem e"
+    },
+    {
+      "start": 14.18,
+      "end": 16.67,
+      "text": "encontra a administração local tomando sol."
+    },
+    {
+      "start": 17.4,
+      "end": 19.04,
+      "text": "Falta só pedir o número da reserva"
+    },
+    {
+      "start": 19.04,
+      "end": 20.2,
+      "text": "e informar que o horário de visita"
+    },
+    {
+      "start": 20.2,
+      "end": 21.05,
+      "text": "acabou."
+    },
+    {
+      "start": 21.72,
+      "end": 24.18,
+      "text": "O detalhe funciona porque dá uma situação"
+    },
+    {
+      "start": 24.18,
+      "end": 25.03,
+      "text": "pra imaginar."
+    },
+    {
+      "start": 25.44,
+      "end": 27.02,
+      "text": "Você não vê apenas uma rua bonita."
+    },
+    {
+      "start": 27.02,
+      "end": 29.0,
+      "text": "Encontra um animal no lugar por onde"
+    },
+    {
+      "start": 29.0,
+      "end": 31.14,
+      "text": "as pessoas passam, e olhar quer saber"
+    },
+    {
+      "start": 31.14,
+      "end": 32.27,
+      "text": "como aquela cena continua."
+    },
+    {
+      "start": 33.16,
+      "end": 35.46,
+      "text": "Agora imagina o mesmo quadro sem a"
+    },
+    {
+      "start": 35.46,
+      "end": 36.31,
+      "text": "iguana."
+    },
+    {
+      "start": 36.46,
+      "end": 37.49,
+      "text": "É um exercício nosso,"
+    },
+    {
+      "start": 37.8,
+      "end": 38.97,
+      "text": "não outra captura do jogo."
+    },
+    {
+      "start": 40.06,
+      "end": 41.01,
+      "text": "A rua continuaria lá,"
+    },
+    {
+      "start": 41.46,
+      "end": 43.26,
+      "text": "mas perderia o personagem que faz a"
+    },
+    {
+      "start": 43.26,
+      "end": 44.76,
+      "text": "gente prestar atenção no espaço de outro"
+    },
+    {
+      "start": 44.76,
+      "end": 45.61,
+      "text": "jeito."
+    },
+    {
+      "start": 45.78,
+      "end": 47.28,
+      "text": "Isso não confirma que o bicho bloqueia"
+    },
+    {
+      "start": 47.28,
+      "end": 49.86,
+      "text": "carros, reage ao jogador ou participa de"
+    },
+    {
+      "start": 49.86,
+      "end": 50.71,
+      "text": "uma missão."
+    },
+    {
+      "start": 50.8,
+      "end": 52.43,
+      "text": "A foto mostra a presença dele."
+    },
+    {
+      "start": 53.06,
+      "end": 54.84,
+      "text": "O comportamento precisa de outra evidência,"
+    },
+    {
+      "start": 54.84,
+      "end": 57.08,
+      "text": "por mais convincente que esteja essa pose"
+    },
+    {
+      "start": 57.08,
+      "end": 58.59,
+      "text": "de proprietário."
+    },
+    {
+      "start": 59.14,
+      "end": 61.29,
+      "text": "A graça está no tamanho da participação:"
+    },
+    {
+      "start": 61.86,
+      "end": 63.76,
+      "text": "um animal pequeno dá personalidade a uma"
+    },
+    {
+      "start": 63.76,
+      "end": 64.63,
+      "text": "imagem inteira."
+    },
+    {
+      "start": 65.32,
+      "end": 67.1,
+      "text": "Entre tanta água e tanto horizonte nas"
+    },
+    {
+      "start": 67.1,
+      "end": 69.14,
+      "text": "Keys, foi o sujeito deitado no asfalto"
+    },
+    {
+      "start": 69.14,
+      "end": 70.49,
+      "text": "que conseguiu comandar o quadro."
+    },
+    {
+      "start": 71.24,
+      "end": 72.12,
+      "text": "Afinal..."
+    }
+  ]
+}

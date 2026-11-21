@@ -1,0 +1,16 @@
+Validando longo: Pixel_Procurado_DIA04_Previa_V2.mp4...
+{
+  "arquivo": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_04_2026-11-12\\_previa_revisada\\exportacoes\\Pixel_Procurado_DIA04_Previa_V2.mp4",
+  "dimensoes": "960x540",
+  "fps": 30.00000316957244,
+  "quadros": 9465,
+  "quadros_esperados": 9465,
+  "video_s": 315.499967,
+  "audio_s": 315.46,
+  "lufs": -16.8,
+  "peak_dbfs": -1.3,
+  "intervalos_pretos": 0,
+  "folha_contato": "C:\\Users\\guibson.krause\\Documents\\ChatGPT\\GamePlay\\producao\\SERIE_AQUECIMENTO_GTA6\\DIA_04_2026-11-12\\_previa_revisada\\montagem\\long_v2_qa.jpg"
+}
+Validação concluída com sucesso.
+QA_EXIT=0

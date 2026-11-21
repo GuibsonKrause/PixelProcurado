@@ -1,0 +1,5 @@
+[longo] 960x540 @30fps, 90 planos (315.46s); renderizar 90: planos 1..90
+Iniciando renderização de 90 planos (9465 frames)...
+Plano 49 concluído (188 frames)
+Render concluído: C:\Users\guibson.krause\Documents\ChatGPT\GamePlay\producao\SERIE_AQUECIMENTO_GTA6\DIA_04_2026-11-12\_previa\exportacoes\Pixel_Procurado_DIA04_Previa_V2.mp4
+RENDER_EXIT=0

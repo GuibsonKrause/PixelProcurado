@@ -1,0 +1,766 @@
+{
+  "id": "DIA_08_2026-11-16",
+  "titulo": "GTA 6 no PS5 vs PS5 Pro: a Meta Oficial é 30 FPS (e o Resto?)",
+  "kicker": "PIXEL PROCURADO <b> / </b> GTA VI",
+  "pasta_fontes": "videosGTAVI",
+  "gsap": "producao/L08/montagem/hyperframes_long/gsap.min.js",
+  "midias": {
+    "EXT": "GTAVI_An_Extended_Look.mp4",
+    "VC08": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/VC_08_orig.jpg",
+    "VC10": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/VC_10_orig.jpg",
+    "VC11": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/VC_11_orig.jpg",
+    "S763": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_763_4k.jpg",
+    "S770": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_770_4k.jpg",
+    "S780": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_780_4k.jpg",
+    "S788": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_788_4k.jpg",
+    "S1203": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_1203_4k.jpg",
+    "S1210": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_1210_4k.jpg",
+    "S1213": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/EXT_1213_4k.jpg",
+    "C01_META": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C01_META.jpg",
+    "C02_SEM60": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C02_SEM60.jpg",
+    "C03_TRAD": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C03_TRAD.jpg",
+    "C04_PRO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C04_PRO.jpg",
+    "C05_BLOG": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C05_BLOG.jpg",
+    "C06_PSSR": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C06_PSSR.jpg",
+    "C07_CHECK": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C07_CHECK.jpg",
+    "C08_FONTE": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C08_FONTE.jpg",
+    "C08B_PRIMO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C08B_PRIMO.jpg",
+    "C09_LOJA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C09_LOJA.jpg",
+    "C10_ARQUIVO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C10_ARQUIVO.jpg",
+    "C11_RISCADO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C11_RISCADO.jpg",
+    "C12_PS5GERAL": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C12_PS5GERAL.jpg",
+    "C12B_JOGAMELHOR": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C12B_JOGAMELHOR.jpg",
+    "C13_QSSR": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C13_QSSR.jpg",
+    "C13B_QSSR_GTA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C13B_QSSR_GTA.jpg",
+    "C14_XBOX": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C14_XBOX.jpg",
+    "C15_NUVEM": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C15_NUVEM.jpg",
+    "C16_REMOTE": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C16_REMOTE.jpg",
+    "C17_NAOCONF_0": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_0.jpg",
+    "C17_NAOCONF_1": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_1.jpg",
+    "C17_NAOCONF_2": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_2.jpg",
+    "C17_NAOCONF_3": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_3.jpg",
+    "C17_NAOCONF_4": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_4.jpg",
+    "C17_NAOCONF_5": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_5.jpg",
+    "C17_NAOCONF_6": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C17_NAOCONF_6.jpg",
+    "C18_TABELA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C18_TABELA.jpg",
+    "C18B_QUATRO": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C18B_QUATRO.jpg",
+    "C19_PASSOS_0": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C19_PASSOS_0.jpg",
+    "C19_PASSOS_1": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C19_PASSOS_1.jpg",
+    "C19_PASSOS_2": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C19_PASSOS_2.jpg",
+    "C19_PASSOS_3": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C19_PASSOS_3.jpg",
+    "C21_AMANHA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C21_AMANHA.jpg",
+    "C22_QUINTA": "../producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/montagem/referencias/C22_QUINTA.jpg"
+  },
+  "correcoes_legenda": {
+    "rockstar": "Rockstar",
+    "gta": "GTA",
+    "ps": "PS",
+    "pssr": "PSSR",
+    "qssr": "QSSR",
+    "xbox": "Xbox"
+  },
+  "formatos": {
+    "short": {
+      "stem": "Pixel_Procurado_DIA08_Vertical_V2",
+      "resolucao": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "voz": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/audio/narracao_normalizada.wav",
+      "alinhamento": "producao/SERIE_AQUECIMENTO_GTA6/DIA_08_2026-11-16/audio/palavras_alinhadas.json",
+      "planos": [
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C01_META",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            0.0,
+            3.08
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "VC10",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            3.08,
+            9.64
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C01_META",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            9.64,
+            18.66
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C02_SEM60",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            18.66,
+            21.68
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C03_TRAD",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            21.68,
+            34.9
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "VC11",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            34.9,
+            39.18
+          ]
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "EXT",
+          "inicio": 772.0,
+          "tipo": "editorial",
+          "corte": [
+            39.18,
+            46.12
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C04_PRO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            46.12,
+            62.18
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C05_BLOG",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            62.18,
+            65.96
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C06_PSSR",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            65.96,
+            79.51
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "S780",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            79.51,
+            86.69
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C07_CHECK",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            86.69,
+            100.96
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "EXT",
+          "inicio": 1200.0,
+          "tipo": "editorial",
+          "corte": [
+            100.96,
+            105.11
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C08_FONTE",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            105.11,
+            111.8
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "EXT",
+          "inicio": 1207.0,
+          "tipo": "editorial",
+          "corte": [
+            111.8,
+            115.18
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C08B_PRIMO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            115.18,
+            122.57
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "S1203",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            122.57,
+            130.85
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C09_LOJA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            130.85,
+            136.88
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "S788",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            136.88,
+            142.61
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C10_ARQUIVO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            142.61,
+            151.23
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "S763",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            151.23,
+            156.97
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C11_RISCADO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            156.97,
+            166.13
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "VC08",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            166.13,
+            171.98
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C12_PS5GERAL",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            171.98,
+            179.26
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C12B_JOGAMELHOR",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            179.26,
+            187.09
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C13_QSSR",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            187.09,
+            207.22
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C13B_QSSR_GTA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            207.22,
+            216.01
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "VC11",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            216.01,
+            221.88
+          ]
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "EXT",
+          "inicio": 1213.0,
+          "tipo": "editorial",
+          "corte": [
+            221.88,
+            229.01
+          ]
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "EXT",
+          "inicio": 980.0,
+          "tipo": "editorial",
+          "corte": [
+            229.01,
+            237.26
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C14_XBOX",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            237.26,
+            259.0
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C15_NUVEM",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            259.0,
+            268.83
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "S1210",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            268.83,
+            282.3
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C16_REMOTE",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            282.3,
+            290.09
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "S1213",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            290.09,
+            299.2
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C17_NAOCONF_0",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            299.2,
+            302.48
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C17_NAOCONF_1",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            302.48,
+            306.92
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C17_NAOCONF_2",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            306.92,
+            309.92
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C17_NAOCONF_3",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            309.92,
+            314.6
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C17_NAOCONF_4",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            314.6,
+            318.73
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C17_NAOCONF_5",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            318.73,
+            322.17
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C17_NAOCONF_6",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            322.17,
+            326.7
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C18_TABELA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            326.7,
+            331.61
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C18B_QUATRO",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            331.61,
+            339.0
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C19_PASSOS_0",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            339.0,
+            343.11
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C19_PASSOS_1",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            343.11,
+            347.14
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C19_PASSOS_2",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            347.14,
+            354.49
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C19_PASSOS_3",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            354.49,
+            361.32
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "VC10",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            361.32,
+            366.04
+          ]
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "S770",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            366.04,
+            372.15
+          ]
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "S763",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            372.15,
+            383.54
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C21_AMANHA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            383.54,
+            389.95
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "VC08",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            389.95,
+            395.125
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C21_AMANHA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            395.125,
+            399.08
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        },
+        {
+          "titulo": "ILUSTRAÇÃO",
+          "detalhe": "não mostra fps",
+          "midia": "S1203",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            399.08,
+            402.1
+          ]
+        },
+        {
+          "titulo": "",
+          "detalhe": "",
+          "midia": "C22_QUINTA",
+          "inicio": 0,
+          "tipo": "editorial",
+          "corte": [
+            402.1,
+            404.09
+          ],
+          "sem_card": true,
+          "movimento": "fixo"
+        }
+      ],
+      "limite_mb": 300,
+      "black_pix_th": 0.04
+    }
+  }
+}

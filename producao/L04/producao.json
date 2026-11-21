@@ -1,0 +1,45 @@
+{
+  "id": "L04",
+  "formato": "longo_3840x2160_30fps",
+  "roteiro_origem": "producao/L04/01_NARRACAO.txt",
+  "estado": "validado_e_agendado",
+  "etapa_atual": "concluido",
+  "medicoes": {
+    "duracao_voz": 260.36,
+    "gancho_segundos": 2.12,
+    "planos": 44,
+    "legendas": 109,
+    "loudness_wav_lufs": -16.81,
+    "pico_wav_dbtp": -1.49,
+    "amostra": "validada por QA e inspeção visual"
+  },
+  "executor": {
+    "agent_id": "/root/produzir_l04",
+    "model_solicitado": "gpt-6.1-sol",
+    "reasoning_effort_solicitado": "medium",
+    "modelo_efetivo": "desconhecido"
+  },
+  "agendamento": {
+    "ferramenta": "Postiz",
+    "data_local": "2026-11-01T12:00:00-03:00",
+    "visibilidade": "public",
+    "autorizado_pelo_usuario": true,
+    "estado": "QUEUE",
+    "post_id": "cmvxw2ul70004nsdv0lt1qqy7"
+  },
+  "artefatos": {
+    "mp4": "producao/L04/exportacoes/Pixel_Procurado_L04_4K.mp4",
+    "thumbnail": "producao/L04/publicacao/capa_youtube.jpg",
+    "qa": "producao/L04/projeto/render4k/qa/validacao_final.json",
+    "srt": "producao/L04/exportacoes/Pixel_Procurado_L04_4K.srt"
+  },
+  "revisao_final": {
+    "reasoning_effort_solicitado": "high",
+    "relatorio": "producao/L04/REVISAO_INDEPENDENTE.md",
+    "model_solicitado": "gpt-6-astra",
+    "modelo_efetivo": "desconhecido",
+    "resultado": "PASS",
+    "agent_id": "/root/rechecar_l04"
+  },
+  "sha256_mp4": "a2f40e2ece43fb1fe7679d959b9746f1e3709d24b5bcfa9a3dc158af4fe9fcef"
+}

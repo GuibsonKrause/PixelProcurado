@@ -1,0 +1,293 @@
+{
+  "corrections": [
+    {
+      "op": "replace",
+      "start": 3.84,
+      "end": 4.08,
+      "script": "Keys,",
+      "asr": "quis,",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 5.92,
+      "end": 6.06,
+      "script": "e",
+      "asr": "de",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "delete",
+      "start": 6.8,
+      "end": 6.8,
+      "script": "o",
+      "asr": "",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 7.0,
+      "end": 7.18,
+      "script": "ir",
+      "asr": "e",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 8.62,
+      "end": 9.08,
+      "script": "Grassrivers,",
+      "asr": "Grass Rivers,",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 11.24,
+      "end": 11.34,
+      "script": "num",
+      "asr": "no",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 13.5,
+      "end": 13.8,
+      "script": "Num",
+      "asr": "No",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 15.78,
+      "end": 15.96,
+      "script": "pra",
+      "asr": "para",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 16.16,
+      "end": 16.36,
+      "script": "",
+      "asr": "para",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 16.42,
+      "end": 16.7,
+      "script": "paisagem.",
+      "asr": "isagem.",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 18.42,
+      "end": 18.56,
+      "script": "presto",
+      "asr": "presta",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "delete",
+      "start": 24.94,
+      "end": 24.94,
+      "script": "é",
+      "asr": "",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 30.98,
+      "end": 31.18,
+      "script": "Keys",
+      "asr": "quis",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 32.54,
+      "end": 32.76,
+      "script": "e",
+      "asr": "de",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 34.18,
+      "end": 34.64,
+      "script": "Grassrivers",
+      "asr": "Grass Rivers",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 38.1,
+      "end": 38.22,
+      "script": "",
+      "asr": "a",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 47.32,
+      "end": 47.46,
+      "script": "uma",
+      "asr": "a",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 48.74,
+      "end": 49.16,
+      "script": "precaução.",
+      "asr": "qual são?",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "insert",
+      "start": 57.98,
+      "end": 58.1,
+      "script": "",
+      "asr": "a",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "insert",
+      "start": 68.04,
+      "end": 68.14,
+      "script": "",
+      "asr": "o",
+      "decision": "ASR-only words retained; unrecognized script words not forced into subtitles"
+    },
+    {
+      "op": "replace",
+      "start": 72.06,
+      "end": 72.22,
+      "script": "da",
+      "asr": "na",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 76.34,
+      "end": 77.46,
+      "script": "Keys, procuro o",
+      "asr": "quis, procura",
+      "decision": "short orthographic/contextual correction"
+    },
+    {
+      "op": "replace",
+      "start": 78.68,
+      "end": 80.02,
+      "script": "Grassrivers, examino",
+      "asr": "Grass Rivers e examina",
+      "decision": "short orthographic/contextual correction"
+    }
+  ],
+  "anchors": [
+    {
+      "phrase": "Nas Keys o mar",
+      "script_index": 6,
+      "time": 3.533333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Em Grassrivers o barco",
+      "script_index": 21,
+      "time": 8.233333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Num lugar",
+      "script_index": 34,
+      "time": 13.5,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "No outro",
+      "script_index": 45,
+      "time": 17.466666666666665,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A viagem continua",
+      "script_index": 57,
+      "time": 21.933333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "É a sensação",
+      "script_index": 71,
+      "time": 27.066666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A foto das Keys",
+      "script_index": 78,
+      "time": 30.333333333333332,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A de Grassrivers",
+      "script_index": 86,
+      "time": 33.96666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A abertura do cenário",
+      "script_index": 93,
+      "time": 36.733333333333334,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Parece a diferença",
+      "script_index": 107,
+      "time": 42.03333333333333,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A segunda pode",
+      "script_index": 126,
+      "time": 50.266666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Isso não confirma",
+      "script_index": 142,
+      "time": 56.333333333333336,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "A análise é das imagens",
+      "script_index": 151,
+      "time": 62.1,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "As duas regiões",
+      "script_index": 170,
+      "time": 69.66666666666667,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Nas Keys, procuro",
+      "script_index": 185,
+      "time": 76.1,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Em Grassrivers, examino",
+      "script_index": 190,
+      "time": 78.06666666666666,
+      "reason": "unique phrase"
+    },
+    {
+      "phrase": "Porque",
+      "script_index": 196,
+      "time": 81.4,
+      "reason": "unique phrase"
+    }
+  ],
+  "method": "Whisper small word timestamps; contextual spelling corrections; unmatched script words not forced"
+}

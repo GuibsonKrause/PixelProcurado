@@ -1,0 +1,301 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 3840
+PlayResY: 2160
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Arial,80,&H00FFFFFF,&H00FFFFFF,&H30120C08,&H30120C08,-1,0,0,0,100,100,0,0,3,14,0,2,300,300,160,1
+Style: Source,Arial,34,&H00ECDBCE,&H00FFFFFF,&H0020100A,&H0020100A,-1,0,0,0,100,100,0,0,1,3,0,7,192,192,70,1
+Style: Tag,Arial,46,&H003DD3FF,&H00FFFFFF,&H0020100A,&H0020100A,-1,0,0,0,100,100,3,0,1,4,0,7,192,192,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.06,Main,,0,0,0,,GTA faz você gostar de propaganda.
+Dialogue: 0,0:00:02.92,0:00:04.08,Main,,0,0,0,,No GTA cinco de PC,
+Dialogue: 0,0:00:04.50,0:00:06.44,Main,,0,0,0,,a Self Radio consegue colocar locução
+Dialogue: 0,0:00:06.44,0:00:08.06,Main,,0,0,0,,e anúncios no meio das músicas
+Dialogue: 0,0:00:08.06,0:00:09.02,Main,,0,0,0,,que você escolheu.
+Dialogue: 0,0:00:09.44,0:00:10.54,Main,,0,0,0,,Você monta a seleção.
+Dialogue: 0,0:00:11.02,0:00:12.46,Main,,0,0,0,,O jogo devolve uma emissora.
+Dialogue: 0,0:00:13.30,0:00:14.92,Main,,0,0,0,,Até o seu gosto musical precisa
+Dialogue: 0,0:00:14.92,0:00:16.52,Main,,0,0,0,,dividir espaço com alguém tentando vender
+Dialogue: 0,0:00:16.52,0:00:17.20,Main,,0,0,0,,alguma coisa.
+Dialogue: 0,0:00:17.90,0:00:19.54,Main,,0,0,0,,Esse detalhe ajuda a explicar por
+Dialogue: 0,0:00:19.54,0:00:20.80,Main,,0,0,0,,que o rádio de GTA gruda
+Dialogue: 0,0:00:20.80,0:00:21.62,Main,,0,0,0,,tanto na memória.
+Dialogue: 0,0:00:22.30,0:00:23.76,Main,,0,0,0,,A música acompanha a viagem,
+Dialogue: 0,0:00:24.16,0:00:25.72,Main,,0,0,0,,mas as vozes e os intervalos
+Dialogue: 0,0:00:25.72,0:00:27.52,Main,,0,0,0,,fazem parecer que existe uma cidade
+Dialogue: 0,0:00:27.52,0:00:28.32,Main,,0,0,0,,falando com você.
+Dialogue: 0,0:00:29.22,0:00:30.02,Main,,0,0,0,,Na Self Radio,
+Dialogue: 0,0:00:30.36,0:00:31.66,Main,,0,0,0,,isso depende do modo escolhido.
+Dialogue: 0,0:00:32.20,0:00:34.16,Main,,0,0,0,,O modo Radio mistura suas faixas
+Dialogue: 0,0:00:34.16,0:00:35.90,Main,,0,0,0,,com intervenções de uma estação.
+Dialogue: 0,0:00:36.56,0:00:38.74,Main,,0,0,0,,É diferente de simplesmente deixar uma
+Dialogue: 0,0:00:38.74,0:00:40.04,Main,,0,0,0,,lista de músicas tocando por fora
+Dialogue: 0,0:00:40.04,0:00:40.42,Main,,0,0,0,,do jogo.
+Dialogue: 0,0:00:41.00,0:00:42.66,Main,,0,0,0,,A playlist passa a participar da
+Dialogue: 0,0:00:42.66,0:00:43.06,Main,,0,0,0,,ficção.
+Dialogue: 0,0:00:43.78,0:00:45.80,Main,,0,0,0,,Parece uma diferença pequena até você
+Dialogue: 0,0:00:45.80,0:00:46.58,Main,,0,0,0,,pensar no efeito.
+Dialogue: 0,0:00:47.18,0:00:48.08,Main,,0,0,0,,Com uma lista pessoal,
+Dialogue: 0,0:00:48.56,0:00:49.94,Main,,0,0,0,,cada faixa foi escolhida pra você.
+Dialogue: 0,0:00:50.56,0:00:51.72,Main,,0,0,0,,Com um locutor e uma propaganda
+Dialogue: 0,0:00:51.72,0:00:52.20,Main,,0,0,0,,no meio,
+Dialogue: 0,0:00:52.54,0:00:54.12,Main,,0,0,0,,surge a impressão de que outras
+Dialogue: 0,0:00:54.12,0:00:56.12,Main,,0,0,0,,pessoas também estão ouvindo aquela transmissão.
+Dialogue: 0,0:00:56.88,0:00:58.90,Main,,0,0,0,,A graça é meio perversa.
+Dialogue: 0,0:00:59.40,0:01:00.12,Main,,0,0,0,,Fora do jogo,
+Dialogue: 0,0:01:00.36,0:01:01.64,Main,,0,0,0,,a gente paga pra tirar anúncio.
+Dialogue: 0,0:01:02.32,0:01:02.98,Main,,0,0,0,,Dentro de GTA,
+Dialogue: 0,0:01:03.28,0:01:04.98,Main,,0,0,0,,comemora quando ele aparece e deixa
+Dialogue: 0,0:01:04.98,0:01:06.00,Main,,0,0,0,,a cidade mais convincente.
+Dialogue: 0,0:01:06.94,0:01:08.96,Main,,0,0,0,,O brasileiro escapou do comercial e
+Dialogue: 0,0:01:08.96,0:01:09.91,Main,,0,0,0,,deu a volta no quarteirão pra
+Dialogue: 0,0:01:09.91,0:01:10.38,Main,,0,0,0,,ouvir de novo.
+Dialogue: 0,0:01:11.46,0:01:13.28,Main,,0,0,0,,Isso funciona porque o anúncio fictício
+Dialogue: 0,0:01:13.28,0:01:15.26,Main,,0,0,0,,pode contar algo sobre aquele mundo.
+Dialogue: 0,0:01:15.88,0:01:17.00,Main,,0,0,0,,O que as pessoas querem comprar,
+Dialogue: 0,0:01:17.52,0:01:19.40,Main,,0,0,0,,como alguém tenta convencer o público,
+Dialogue: 0,0:01:19.40,0:01:21.56,Main,,0,0,0,,que promessa absurda parece normal por
+Dialogue: 0,0:01:21.56,0:01:21.80,Main,,0,0,0,,ali.
+Dialogue: 0,0:01:22.36,0:01:23.72,Main,,0,0,0,,Tem uma parte da sátira que
+Dialogue: 0,0:01:23.72,0:01:25.46,Main,,0,0,0,,chega pelo ouvido enquanto você olha
+Dialogue: 0,0:01:25.46,0:01:25.74,Main,,0,0,0,,a rua.
+Dialogue: 0,0:01:26.88,0:01:28.48,Main,,0,0,0,,Vamos imaginar um carro passando pela
+Dialogue: 0,0:01:28.48,0:01:28.86,Main,,0,0,0,,orla.
+Dialogue: 0,0:01:29.42,0:01:30.12,Main,,0,0,0,,A rua é a mesma,
+Dialogue: 0,0:01:30.44,0:01:31.24,Main,,0,0,0,,a câmera é a mesma,
+Dialogue: 0,0:01:31.74,0:01:32.96,Main,,0,0,0,,mas toca uma música tranquila.
+Dialogue: 0,0:01:33.44,0:01:34.56,Main,,0,0,0,,Dá vontade de seguir mais um
+Dialogue: 0,0:01:34.56,0:01:34.88,Main,,0,0,0,,pouco,
+Dialogue: 0,0:01:35.12,0:01:36.57,Main,,0,0,0,,olhar o mar e adiar o
+Dialogue: 0,0:01:36.57,0:01:36.80,Main,,0,0,0,,destino.
+Dialogue: 0,0:01:37.62,0:01:39.24,Main,,0,0,0,,Agora troca por uma faixa agressiva.
+Dialogue: 0,0:01:39.72,0:01:40.66,Main,,0,0,0,,O cenário não mudou,
+Dialogue: 0,0:01:41.12,0:01:42.66,Main,,0,0,0,,mas o mesmo motorista já se
+Dialogue: 0,0:01:42.66,0:01:44.34,Main,,0,0,0,,sente protagonista de uma operação que
+Dialogue: 0,0:01:44.34,0:01:45.58,Main,,0,0,0,,claramente não foi planejada.
+Dialogue: 0,0:01:46.20,0:01:47.32,Main,,0,0,0,,Bastou mudar a música.
+Dialogue: 0,0:01:48.14,0:01:49.46,Main,,0,0,0,,A competência pra fazer a curva
+Dialogue: 0,0:01:49.46,0:01:50.56,Main,,0,0,0,,continua exatamente igual.
+Dialogue: 0,0:01:50.98,0:01:52.46,Main,,0,0,0,,É um exemplo pra mostrar como
+Dialogue: 0,0:01:52.46,0:01:53.76,Main,,0,0,0,,o som altera a leitura de
+Dialogue: 0,0:01:53.76,0:01:54.16,Main,,0,0,0,,uma ação.
+Dialogue: 0,0:01:54.98,0:01:56.54,Main,,0,0,0,,A gente atribui intenção e clima
+Dialogue: 0,0:01:56.54,0:01:57.12,Main,,0,0,0,,ao passeio.
+Dialogue: 0,0:01:57.84,0:01:59.06,Main,,0,0,0,,Não é preciso colocar uma nova
+Dialogue: 0,0:01:59.06,0:02:00.52,Main,,0,0,0,,missão na tela pra sentir uma
+Dialogue: 0,0:02:00.52,0:02:00.90,Main,,0,0,0,,mudança.
+Dialogue: 0,0:02:01.88,0:02:02.96,Main,,0,0,0,,No Vice City clássico,
+Dialogue: 0,0:02:03.16,0:02:04.50,Main,,0,0,0,,as músicas e as emissoras fazem
+Dialogue: 0,0:02:04.50,0:02:06.00,Main,,0,0,0,,parte da relação com os anos
+Dialogue: 0,0:02:06.00,0:02:06.34,Main,,0,0,0,,oitenta.
+Dialogue: 0,0:02:07.00,0:02:08.44,Main,,0,0,0,,A Flash FM é uma das
+Dialogue: 0,0:02:08.44,0:02:09.68,Main,,0,0,0,,referências dessa identidade.
+Dialogue: 0,0:02:10.58,0:02:12.06,Main,,0,0,0,,Você pode lembrar de uma rua
+Dialogue: 0,0:02:12.06,0:02:14.04,Main,,0,0,0,,junto com o que estava ouvindo
+Dialogue: 0,0:02:14.04,0:02:14.80,Main,,0,0,0,,quando passou por ela.
+Dialogue: 0,0:02:15.68,0:02:17.36,Main,,0,0,0,,Nem toda lembrança precisa vir de
+Dialogue: 0,0:02:17.36,0:02:18.54,Main,,0,0,0,,uma grande cena da história.
+Dialogue: 0,0:02:19.26,0:02:20.28,Main,,0,0,0,,Às vezes é só a música
+Dialogue: 0,0:02:20.28,0:02:21.46,Main,,0,0,0,,que começou na hora em que
+Dialogue: 0,0:02:21.46,0:02:23.40,Main,,0,0,0,,você roubou um carro e resolveu
+Dialogue: 0,0:02:23.40,0:02:24.20,Main,,0,0,0,,seguir dirigindo.
+Dialogue: 0,0:02:24.88,0:02:26.14,Main,,0,0,0,,O roteiro tinha um compromisso.
+Dialogue: 0,0:02:26.76,0:02:27.92,Main,,0,0,0,,Você tinha mais dois minutos de
+Dialogue: 0,0:02:27.92,0:02:28.22,Main,,0,0,0,,refrão.
+Dialogue: 0,0:02:29.10,0:02:30.46,Main,,0,0,0,,E tem outro tipo de música
+Dialogue: 0,0:02:30.46,0:02:30.80,Main,,0,0,0,,atuando:
+Dialogue: 0,0:02:31.22,0:02:32.60,Main,,0,0,0,,a trilha que acompanha a ação.
+Dialogue: 0,0:02:33.36,0:02:35.38,Main,,0,0,0,,GTA cinco usa música dinâmica,
+Dialogue: 0,0:02:35.66,0:02:37.08,Main,,0,0,0,,capaz de mudar conforme o que
+Dialogue: 0,0:02:37.08,0:02:37.50,Main,,0,0,0,,acontece.
+Dialogue: 0,0:02:38.28,0:02:39.92,Main,,0,0,0,,Isso exerce uma função diferente da
+Dialogue: 0,0:02:39.92,0:02:40.68,Main,,0,0,0,,transmissão do rádio,
+Dialogue: 0,0:02:41.30,0:02:43.16,Main,,0,0,0,,que parece existir dentro daquele mundo.
+Dialogue: 0,0:02:44.22,0:02:45.68,Main,,0,0,0,,Uma reforça a tensão do momento.
+Dialogue: 0,0:02:46.38,0:02:47.86,Main,,0,0,0,,A outra pode continuar com sua
+Dialogue: 0,0:02:47.86,0:02:49.73,Main,,0,0,0,,programação enquanto a vida do jogador
+Dialogue: 0,0:02:49.73,0:02:50.04,Main,,0,0,0,,desmorona.
+Dialogue: 0,0:02:50.84,0:02:52.68,Main,,0,0,0,,Essa diferença abre uma oportunidade enorme
+Dialogue: 0,0:02:52.68,0:02:53.14,Main,,0,0,0,,pro humor.
+Dialogue: 0,0:02:54.50,0:02:56.14,Main,,0,0,0,,Imagina você com o carro destruído,
+Dialogue: 0,0:02:56.14,0:02:58.04,Main,,0,0,0,,tentando escapar de uma situação horrível,
+Dialogue: 0,0:02:58.04,0:03:00.22,Main,,0,0,0,,e o rádio oferecendo férias tranquilas.
+Dialogue: 0,0:03:01.16,0:03:02.38,Main,,0,0,0,,O locutor não está preocupado com
+Dialogue: 0,0:03:02.38,0:03:02.92,Main,,0,0,0,,a sua desgraça.
+Dialogue: 0,0:03:03.62,0:03:04.70,Main,,0,0,0,,Tem uma promoção pra terminar.
+Dialogue: 0,0:03:05.52,0:03:06.72,Main,,0,0,0,,É a única pessoa naquela fuga
+Dialogue: 0,0:03:06.72,0:03:07.82,Main,,0,0,0,,com o expediente em dia.
+Dialogue: 0,0:03:08.70,0:03:09.80,Main,,0,0,0,,Esse é um exemplo inventado,
+Dialogue: 0,0:03:09.80,0:03:11.20,Main,,0,0,0,,mas o contraste é fácil de
+Dialogue: 0,0:03:11.20,0:03:11.68,Main,,0,0,0,,reconhecer:
+Dialogue: 0,0:03:12.42,0:03:14.14,Main,,0,0,0,,a música ou o anúncio pode
+Dialogue: 0,0:03:14.14,0:03:15.24,Main,,0,0,0,,discordar do que vemos.
+Dialogue: 0,0:03:15.98,0:03:17.84,Main,,0,0,0,,A cena fica engraçada justamente porque
+Dialogue: 0,0:03:17.84,0:03:19.30,Main,,0,0,0,,o mundo não parou pra acompanhar
+Dialogue: 0,0:03:19.30,0:03:19.76,Main,,0,0,0,,nosso drama.
+Dialogue: 0,0:03:20.50,0:03:22.22,Main,,0,0,0,,Também dá pra usar silêncio e
+Dialogue: 0,0:03:22.22,0:03:22.94,Main,,0,0,0,,troca de estação.
+Dialogue: 0,0:03:23.78,0:03:24.98,Main,,0,0,0,,A entrada de uma voz,
+Dialogue: 0,0:03:25.32,0:03:26.96,Main,,0,0,0,,a ausência de música ou uma
+Dialogue: 0,0:03:26.96,0:03:28.74,Main,,0,0,0,,mudança de ritmo prepara o ouvido
+Dialogue: 0,0:03:28.74,0:03:29.36,Main,,0,0,0,,de outra forma.
+Dialogue: 0,0:03:30.08,0:03:31.58,Main,,0,0,0,,Quando tudo é intenso o tempo
+Dialogue: 0,0:03:31.58,0:03:32.06,Main,,0,0,0,,inteiro,
+Dialogue: 0,0:03:32.60,0:03:34.30,Main,,0,0,0,,a intensidade começa a parecer barulho
+Dialogue: 0,0:03:34.30,0:03:34.74,Main,,0,0,0,,de fundo.
+Dialogue: 0,0:03:35.44,0:03:36.62,Main,,0,0,0,,E o que já dá pra
+Dialogue: 0,0:03:36.62,0:03:38.00,Main,,0,0,0,,olhar em GTA seis?
+Dialogue: 0,0:03:38.98,0:03:41.16,Main,,0,0,0,,A página oficial de música apresenta
+Dialogue: 0,0:03:41.16,0:03:42.60,Main,,0,0,0,,emissoras com identidades diferentes:
+Dialogue: 0,0:03:43.24,0:03:45.40,Main,,0,0,0,,Cocoteo ligada à música latina atual,
+Dialogue: 0,0:03:46.22,0:03:48.82,Main,,0,0,0,,Back Country ao country e Dirty
+Dialogue: 0,0:03:48.82,0:03:50.94,Main,,0,0,0,,South Classics ao rap e hip-hop
+Dialogue: 0,0:03:50.94,0:03:51.32,Main,,0,0,0,,regional.
+Dialogue: 0,0:03:51.96,0:03:53.90,Main,,0,0,0,,A Flash FM também aparece,
+Dialogue: 0,0:03:54.24,0:03:56.46,Main,,0,0,0,,apresentada como uma instituição de Vice
+Dialogue: 0,0:03:56.46,0:03:57.92,Main,,0,0,0,,City voltada ao pop.
+Dialogue: 0,0:03:58.76,0:04:00.28,Main,,0,0,0,,O nome cria uma ligação com
+Dialogue: 0,0:04:00.28,0:04:01.24,Main,,0,0,0,,a memória da cidade.
+Dialogue: 0,0:04:01.90,0:04:02.94,Main,,0,0,0,,Ele não significa,
+Dialogue: 0,0:04:02.94,0:04:03.50,Main,,0,0,0,,sozinho,
+Dialogue: 0,0:04:03.50,0:04:05.00,Main,,0,0,0,,que cada faixa do jogo antigo
+Dialogue: 0,0:04:05.00,0:04:05.48,Main,,0,0,0,,vai voltar.
+Dialogue: 0,0:04:06.60,0:04:08.86,Main,,0,0,0,,Essas diferenças me interessam porque cada
+Dialogue: 0,0:04:08.86,0:04:10.16,Main,,0,0,0,,estação pode mudar o clima de
+Dialogue: 0,0:04:10.16,0:04:11.32,Main,,0,0,0,,um passeio pelo mesmo lugar.
+Dialogue: 0,0:04:12.30,0:04:14.30,Main,,0,0,0,,A divulgação já oferece identidades pra
+Dialogue: 0,0:04:14.30,0:04:14.58,Main,,0,0,0,,ouvir.
+Dialogue: 0,0:04:15.38,0:04:16.78,Main,,0,0,0,,Como isso vai funcionar na minha
+Dialogue: 0,0:04:16.78,0:04:18.58,Main,,0,0,0,,própria experiência de jogo é outra
+Dialogue: 0,0:04:18.58,0:04:19.18,Main,,0,0,0,,conversa,
+Dialogue: 0,0:04:19.18,0:04:20.30,Main,,0,0,0,,que exige jogar.
+Dialogue: 0,0:04:21.24,0:04:22.74,Main,,0,0,0,,Não vou fingir que uma lista
+Dialogue: 0,0:04:22.74,0:04:25.62,Main,,0,0,0,,de nomes entregou aquela lembrança perfeita
+Dialogue: 0,0:04:25.62,0:04:26.28,Main,,0,0,0,,de madrugada,
+Dialogue: 0,0:04:26.50,0:04:27.10,Main,,0,0,0,,carro e música.
+Dialogue: 0,0:04:27.62,0:04:29.20,Main,,0,0,0,,Ela pode criar expectativa.
+Dialogue: 0,0:04:29.96,0:04:31.38,Main,,0,0,0,,A memória precisa acontecer.
+Dialogue: 0,0:04:32.40,0:04:34.18,Main,,0,0,0,,Tem ainda a surpresa de encontrar
+Dialogue: 0,0:04:34.18,0:04:35.90,Main,,0,0,0,,uma faixa sem procurar por ela.
+Dialogue: 0,0:04:36.68,0:04:37.96,Main,,0,0,0,,Você entrou no carro pra chegar
+Dialogue: 0,0:04:37.96,0:04:38.54,Main,,0,0,0,,a algum lugar,
+Dialogue: 0,0:04:39.18,0:04:40.90,Main,,0,0,0,,mexeu no rádio e ficou ouvindo.
+Dialogue: 0,0:04:41.74,0:04:43.40,Main,,0,0,0,,Esse encontro faz parte do passeio.
+Dialogue: 0,0:04:44.12,0:04:45.64,Main,,0,0,0,,A estação pode apresentar algo que
+Dialogue: 0,0:04:45.64,0:04:47.14,Main,,0,0,0,,uma seleção feita só com suas
+Dialogue: 0,0:04:47.14,0:04:49.30,Main,,0,0,0,,músicas favoritas nunca colocaria no caminho.
+Dialogue: 0,0:04:50.22,0:04:52.02,Main,,0,0,0,,O rádio dá personalidade ao caminho.
+Dialogue: 0,0:04:52.62,0:04:54.18,Main,,0,0,0,,Às vezes mantém a gente dirigindo.
+Dialogue: 0,0:04:54.86,0:04:55.93,Main,,0,0,0,,Às vezes faz piada com o
+Dialogue: 0,0:04:55.88,0:04:56.40,Main,,0,0,0,,desastre.
+Dialogue: 0,0:04:57.08,0:04:58.42,Main,,0,0,0,,E às vezes é o motivo
+Dialogue: 0,0:04:58.42,0:04:59.64,Main,,0,0,0,,pelo qual lembramos de um lugar
+Dialogue: 0,0:04:59.64,0:04:59.88,Main,,0,0,0,,que,
+Dialogue: 0,0:04:59.88,0:05:00.88,Main,,0,0,0,,sem aquela música,
+Dialogue: 0,0:05:00.88,0:05:02.38,Main,,0,0,0,,seria só mais uma rua.
+Dialogue: 0,0:05:03.32,0:05:04.98,Main,,0,0,0,,Qual rádio ou música de GTA
+Dialogue: 0,0:05:04.98,0:05:06.76,Main,,0,0,0,,já fez você continuar no carro
+Dialogue: 0,0:05:06.76,0:05:07.98,Main,,0,0,0,,depois de chegar ao destino?
+Dialogue: 0,0:05:08.76,0:05:09.58,Main,,0,0,0,,Conta a lembrança.
+Dialogue: 0,0:05:10.24,0:05:11.94,Main,,0,0,0,,Eu suspeito que muito compromisso naquele
+Dialogue: 0,0:05:11.94,0:05:13.40,Main,,0,0,0,,mapa foi adiado por um refrão.
+Dialogue: 1,0:00:00.00,0:00:02.93,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:00:00.00,0:00:02.93,Source,,0,0,0,,Rockstar Games • Launch Trailer • trecho oficial
+Dialogue: 1,0:00:02.93,0:00:09.43,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:00:02.93,0:00:09.43,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:00:09.43,0:00:17.90,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:00:09.43,0:00:17.90,Source,,0,0,0,,Rockstar Games • Launch Trailer • trecho oficial
+Dialogue: 1,0:00:17.90,0:00:22.30,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:00:17.90,0:00:22.30,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:00:22.30,0:00:29.23,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:00:22.30,0:00:29.23,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
+Dialogue: 1,0:00:29.23,0:00:36.57,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:00:29.23,0:00:36.57,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:00:36.57,0:00:43.77,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:00:36.57,0:00:43.77,Source,,0,0,0,,Rockstar Games • Trailer 1 • trecho oficial
+Dialogue: 1,0:00:43.77,0:00:50.57,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:00:43.77,0:00:50.57,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:00:50.57,0:00:56.87,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:00:50.57,0:00:56.87,Source,,0,0,0,,Rockstar Games • Launch Trailer • trecho oficial
+Dialogue: 1,0:00:56.87,0:01:06.93,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:00:56.87,0:01:06.93,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:01:06.93,0:01:11.47,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:01:06.93,0:01:11.47,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
+Dialogue: 1,0:01:11.47,0:01:22.37,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:01:11.47,0:01:22.37,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:01:22.37,0:01:26.87,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:01:22.37,0:01:26.87,Source,,0,0,0,,Rockstar Games • Launch Trailer • trecho oficial
+Dialogue: 1,0:01:26.87,0:01:33.43,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:01:26.87,0:01:33.43,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
+Dialogue: 1,0:01:33.43,0:01:37.63,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:01:33.43,0:01:37.63,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:01:37.63,0:01:39.73,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:01:37.63,0:01:39.73,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
+Dialogue: 1,0:01:39.73,0:01:50.97,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:01:39.73,0:01:50.97,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:01:50.97,0:01:57.83,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:01:50.97,0:01:57.83,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:01:57.83,0:02:01.87,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:01:57.83,0:02:01.87,Source,,0,0,0,,Rockstar Games • Trailer 1 • trecho oficial
+Dialogue: 1,0:02:01.87,0:02:07.00,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:02:01.87,0:02:07.00,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:02:07.00,0:02:15.67,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:02:07.00,0:02:15.67,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:02:15.67,0:02:24.87,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:02:15.67,0:02:24.87,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
+Dialogue: 1,0:02:24.87,0:02:29.10,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:02:24.87,0:02:29.10,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:02:29.10,0:02:33.37,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:02:29.10,0:02:33.37,Source,,0,0,0,,Rockstar Games • Launch Trailer • trecho oficial
+Dialogue: 1,0:02:33.37,0:02:44.23,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:02:33.37,0:02:44.23,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:02:44.23,0:02:50.83,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:02:44.23,0:02:50.83,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
+Dialogue: 1,0:02:50.83,0:02:54.50,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:02:50.83,0:02:54.50,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:02:54.50,0:03:01.17,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:02:54.50,0:03:01.17,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
+Dialogue: 1,0:03:01.17,0:03:08.70,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:03:01.17,0:03:08.70,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:03:08.70,0:03:15.97,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:03:08.70,0:03:15.97,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:03:15.97,0:03:20.50,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:03:15.97,0:03:20.50,Source,,0,0,0,,Rockstar Games • Trailer 1 • trecho oficial
+Dialogue: 1,0:03:20.50,0:03:30.07,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:03:20.50,0:03:30.07,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:03:30.07,0:03:35.43,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:03:30.07,0:03:35.43,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
+Dialogue: 1,0:03:35.43,0:03:38.97,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:03:35.43,0:03:38.97,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:03:38.97,0:03:51.97,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:03:38.97,0:03:51.97,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:03:51.97,0:03:58.77,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:03:51.97,0:03:58.77,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:03:58.77,0:04:06.60,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:03:58.77,0:04:06.60,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:04:06.60,0:04:15.37,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:04:06.60,0:04:15.37,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:04:15.37,0:04:21.23,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:04:15.37,0:04:21.23,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
+Dialogue: 1,0:04:21.23,0:04:27.63,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:04:21.23,0:04:27.63,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:04:27.63,0:04:32.40,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:04:27.63,0:04:32.40,Source,,0,0,0,,Rockstar Games • Launch Trailer • trecho oficial
+Dialogue: 1,0:04:32.40,0:04:36.67,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:04:32.40,0:04:36.67,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:04:36.67,0:04:50.23,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:04:36.67,0:04:50.23,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
+Dialogue: 1,0:04:50.23,0:04:57.07,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:04:50.23,0:04:57.07,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:04:57.07,0:05:03.33,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:04:57.07,0:05:03.33,Source,,0,0,0,,Rockstar Games • Launch Trailer • trecho oficial
+Dialogue: 1,0:05:03.33,0:05:10.23,Tag,,0,0,0,,VICE CITY / LEONIDA
+Dialogue: 1,0:05:03.33,0:05:10.23,Source,,0,0,0,,Rockstar Games • captura oficial
+Dialogue: 1,0:05:10.23,0:05:14.17,Tag,,0,0,0,,GTA VI / VÍDEO OFICIAL
+Dialogue: 1,0:05:10.23,0:05:14.17,Source,,0,0,0,,Rockstar Games • Trailer 2 • trecho oficial
