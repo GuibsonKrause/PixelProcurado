@@ -111,7 +111,7 @@ Execute as etapas abaixo seguindo os perfis e dependencias definidos acima e pro
 
 A midia pesada mora no Google Drive (montagem `P:` via rclone; no projeto ficam links simbolicos com os mesmos caminhos). O usuario autorizou de forma permanente arquivar no Drive e aplicar as cotas da ferramenta.
 
-1. `py -3.12 automacao/armazenamento.py status`: a montagem precisa estar OK (senao `.utomacao\montar_drive.ps1`). Registre o espaco livre no `PROGRESSO.md`.
+1. `py -3.12 automacao/armazenamento.py status`: a montagem precisa estar OK (senao `.\automacao\montar_drive.ps1`). Registre o espaco livre no `PROGRESSO.md`.
 2. Atualize o estado de cada episodio anterior ainda nao confirmado: `py -3.12 automacao/pipeline/distribuir_postiz.py --episodio <pasta> --status` (sem `--limpar` se for so conferir; o `--limpar` tambem remove do R2 as midias ja PUBLISHED).
 3. Simule: `py -3.12 automacao/armazenamento.py automatico --excluir <pasta do episodio em producao>` e confira a lista.
 4. Aplique: repita com `--executar`. Arquiva no Drive (md5 conferido antes de trocar por link) lives de dias anteriores e episodios sem midia alterada ha 48 h; remove intermediarios de publicados ha 7 dias; aplica as cotas do Drive (lives 400 GB, publicados 500 GB) apagando o menor valor/GB primeiro. Nunca toca no episodio em `--excluir`, em pecas nao `PUBLISHED` nem em clipes pendentes de aprovacao.

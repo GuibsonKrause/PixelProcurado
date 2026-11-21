@@ -308,6 +308,18 @@ def cmd_automatico(a):
         print("\n(simulacao; use --executar para aplicar)")
 
 
+def outra_execucao():
+    """True se outro processo python roda armazenamento.py com --executar (duas copias criariam duplicatas no Drive)."""
+    ps = ("Get-CimInstance Win32_Process -Filter \"Name='python.exe' OR Name='py.exe'\" | "
+          f"Where-Object {{ $_.ProcessId -ne {os.getpid()} -and $_.ProcessId -ne {os.getppid()} -and "
+          "$_.CommandLine -match 'armazenamento\\.py' -and $_.CommandLine -match '--executar' } | "
+          "Select-Object -ExpandProperty ProcessId")
+    r = subprocess.run(["powershell", "-NoProfile", "-Command", ps], capture_output=True, text=True)
+    outros = [int(x) for x in r.stdout.split() if x.isdigit()]
+    # o py.exe lancador e o python.exe filho aparecem juntos; ignora o par desta execucao
+    return any(pid not in (os.getpid(), os.getppid()) for pid in outros)
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sp = ap.add_subparsers(dest="cmd", required=True)
@@ -320,6 +332,8 @@ def main():
     x.add_argument("--excluir", nargs="*", default=[])
     x.add_argument("--executar", action="store_true")
     a = ap.parse_args()
+    if a.cmd != "status" and getattr(a, "executar", False) and outra_execucao():
+        sys.exit("outra execucao de armazenamento.py esta rodando; tente mais tarde (evita envio duplicado no Drive)")
     if a.cmd == "status":
         cmd_status(a)
     elif a.cmd == "arquivar":
