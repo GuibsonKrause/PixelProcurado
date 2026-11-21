@@ -68,18 +68,22 @@ def narrar(pasta, meta, modelo="gemini-3.8-flash"):
 def misturar(pasta):
     """Mixa narracao_narracao.wav sobre o audio do clipe (sem TTS). Voz bem acima do jogo: narracao a -12 LUFS; som do
     video a -20 LUFS e abaixado ~10 dB enquanto a voz fala (volta ao normal quando ela para). apad: a voz e completada
-    com silencio ate o fim do clipe; sem isso o sidechain termina junto com a voz e o som do video some depois dela."""
-    filtro = ("[0:a]loudnorm=I=-20:TP=-2:LRA=11[v];"
+    com silencio ate o fim do clipe; sem isso o sidechain termina junto com a voz e o som do video some depois dela.
+    O apad depois do loudnorm do jogo e obrigatorio: o sidechaincompress descarta os ~3 s que o loudnorm devolve so no
+    fim (lookahead), e o audio narrado ficava 3 s mais curto que o video (o longo acumulava a diferenca)."""
+    filtro = ("[0:a]loudnorm=I=-20:TP=-2:LRA=11,apad=whole_dur={dv:.3f}[v];"
               "[1:a]loudnorm=I=-12:TP=-1.5:LRA=7,adelay=800:all=1,apad=whole_dur={d:.3f},asplit[n1][n2];"
               "[v][n1]sidechaincompress=threshold=0.05:ratio=4:attack=10:release=500:makeup=1[duck];"
-              "[duck][n2]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]")
+              "[duck][n2]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95,atrim=end={dv:.3f}[a]")
     for origem, destino in (("vertical.mp4", "vertical_narrado.mp4"), ("clip.mp4", "clip_narrado.mp4")):
+        dv, _ = cl.duracoes_av(pasta / origem)
         subprocess.run([cl.ffbin(), "-y", "-loglevel", "error", "-i", origem, "-i", "narracao_narracao.wav",
-                        "-filter_complex", filtro.format(d=dur(pasta / origem) + 1), "-map", "0:v", "-map", "[a]",
+                        "-filter_complex", filtro.format(d=dv + 1, dv=dv), "-map", "0:v", "-map", "[a]",
                         "-c:v", "copy", "-c:a", "aac",
                         "-b:a", "192k", "-movflags", "+faststart", destino], cwd=pasta, check=True)
-        if abs(dur(pasta / destino) - dur(pasta / origem)) > 1.0:
-            raise RuntimeError(f"{destino}: duracao divergente")
+        v, a = cl.duracoes_av(pasta / destino)
+        if abs(v - a) > 0.05:
+            raise RuntimeError(f"{destino}: audio {a:.2f}s x video {v:.2f}s (dessincronizado)")
 
 
 def main():

@@ -263,6 +263,21 @@ def marcar_agora(out):
 
 
 # ------------------------------------------------------------------ indice persistente
+def duracoes_av(f):
+    """(video_s, audio_s) pelas faixas, nao pelo container (que mostra a maior das duas). 0.0 se a faixa nao existe."""
+    r = subprocess.run([shutil.which("ffprobe") or "ffprobe", "-v", "error", "-show_entries", "stream=codec_type,duration",
+                        "-of", "csv=p=0", str(f)], capture_output=True, text=True, check=True).stdout
+    d = {}
+    for linha in r.split():
+        tipo, _, val = linha.partition(",")
+        if tipo in ("video", "audio") and tipo not in d:
+            try:
+                d[tipo] = float(val.split(",")[0])
+            except ValueError:
+                pass
+    return d.get("video", 0.0), d.get("audio", 0.0)
+
+
 def ffprobe_dur(f):
     r = subprocess.run([shutil.which("ffprobe") or "ffprobe", "-v", "error", "-show_entries",
                         "format=duration", "-of", "csv=p=0", str(f)], capture_output=True, text=True)
@@ -872,7 +887,8 @@ def auto(a):
                     # so publica o longo se o usuario autorizou no chat: o agente cria <live>/LONGO_AUTORIZADO
                     extra = ["--publicar", "--aprovar"] if (a.publicar and (out / "LONGO_AUTORIZADO").exists()) else []
                     subprocess.run([sys.executable, str(ROOT / "automacao" / "live_longo.py"),
-                                    "--id", f"LONGO_{out.name}", "--imagem", a.imagem] + extra, cwd=ROOT)
+                                    "--id", f"LONGO_{out.name}", "--live", out.name, "--imagem", a.imagem] + extra,
+                                   cwd=ROOT)
                     avisar("Video longo montado", f"LONGO_{out.name}: " + ("publicacao enviada" if extra else
                            "revise em videosGTAVI/_live/_longos (nao publicado)"), "acao")
                 break

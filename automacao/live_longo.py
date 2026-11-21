@@ -1,6 +1,8 @@
 """Monta o video longo "melhores momentos" a partir dos clipes aprovados do acervo de lives.
 
-  py -3.12 automacao/live_longo.py --id LONGO_01 [--min-clipes 5] [--max-min 12] [--imagem auto|prompt|nenhum]
+  py -3.12 automacao/live_longo.py --id LONGO_<live> --live <canal>_<AAAAMMDD> [--min-clipes 5] [--max-min 12]
+                                   [--imagem auto|prompt|nenhum]
+  (ou --dia AAAA-MM-DD [--canal X]; sem --live/--dia usa o acervo inteiro, o que mistura dias)
 
 Saida: videosGTAVI/_live/_longos/<id>/ com compilacao.mp4 (1920x1080 60 fps, cartela de 2 s por clipe com titulo e
 credito), capitulos.txt, descricao.md, thumbnail (mesmos modos de live_thumb.py) e episodio.json (plano do Postiz).
@@ -24,9 +26,18 @@ NORM = ("scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-
 ENC = ["-c:v", "libx264", "-crf", "17", "-preset", "medium", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2"]
 
 
-def selecionar(min_nota, max_s):
+def metas_do_recorte(live=None, dia=None, canal=None):
+    """Clipes so da live (canal_AAAAMMDD) ou do dia/canal pedido; sem filtro = acervo inteiro."""
+    if live:
+        return sorted(cl.pasta_acervo(live).glob("*/meta.json"))
+    if dia:
+        return sorted((ACERVO / dia).glob(f"{canal or '*'}/*/meta.json"))
+    return cl.metas_acervo()
+
+
+def selecionar(min_nota, max_s, metas):
     todos = []
-    for mp in cl.metas_acervo():
+    for mp in metas:
         m = cl.ljs(mp)
         if not m.get("id"):
             continue
@@ -70,8 +81,20 @@ def _txt(tmp, nome, texto):
     (tmp / nome).write_text(chr(10).join(textwrap.wrap(texto, 34)[:2]), encoding="utf-8")
 
 
+MAX_DESVIO_AV = 0.04  # tolerancia audio x video (s) em cada trecho e no final
+
+
 def segmento(tmp, i, n, titulo, arq):
-    """Um momento: 1080p60, zoom lento (push-in), titulo animado, contador 'MOMENTO X/N', audio a -14 LUFS."""
+    """Um momento: 1080p60, zoom lento (push-in), titulo animado, contador 'MOMENTO X/N', audio a -14 LUFS.
+    Audio e video saem com a MESMA duracao exata (N quadros a 60 fps = N*800 amostras a 48 kHz): o acrossfade emenda
+    amostras sem olhar timestamps, entao qualquer diferenca por trecho se acumula no longo. Se a faixa de audio da
+    fonte for mais curta, corta o trecho onde o audio acaba. Retorna (arquivo, duracao_s)."""
+    vd, ad = cl.duracoes_av(arq)
+    nq = int(min(vd, ad) * 60)
+    if nq < 600:
+        raise RuntimeError(f"{arq}: faixas curtas demais (video {vd:.2f}s, audio {ad:.2f}s)")
+    if abs(vd - ad) > MAX_DESVIO_AV:
+        print(f"  aviso: {arq.parent.name} tem audio {ad:.2f}s x video {vd:.2f}s; trecho cortado em {nq / 60:.2f}s")
     _txt(tmp, f"t{i}.txt", titulo)
     (tmp / f"n{i}.txt").write_text(f"MOMENTO {i + 1}/{n}", encoding="utf-8")
     al = "if(lt(t,0.3),t/0.3,if(lt(t,3.6),1,max(0,(4.1-t)/0.5)))"
@@ -80,11 +103,22 @@ def segmento(tmp, i, n, titulo, arq):
           f"drawtext=fontfile='{FONTE}':textfile=t{i}.txt:fontcolor=white:fontsize=64:line_spacing=10:box=1:"
           f"boxcolor=black@0.6:boxborderw=24:x=70:y=h-250:alpha='{al}',"
           f"drawtext=fontfile='{FONTE}':textfile=n{i}.txt:fontcolor=0x14161c:fontsize=38:box=1:boxcolor=0xFFD400:"
-          f"boxborderw=14:x=w-text_w-60:y=50,format=yuv420p")
+          f"boxborderw=14:x=w-text_w-60:y=50,format=yuv420p,trim=end_frame={nq},setpts=N/60/TB")
+    af = (f"aresample=48000:async=1:first_pts=0,loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000,"
+          f"apad,atrim=end_sample={nq * 800},asetpts=N/SR/TB")
     out = f"seg{i}.mp4"
-    subprocess.run([cl.ffbin(), "-y", "-loglevel", "error", "-i", str(arq), "-vf", vf,
-                    "-af", "loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000"] + ENC + [out], cwd=tmp, check=True)
-    return out
+    subprocess.run([cl.ffbin(), "-y", "-loglevel", "error", "-i", str(arq), "-vf", vf, "-af", af] + ENC + [out],
+                   cwd=tmp, check=True)
+    checar_sincronia(tmp / out)
+    return out, nq / 60
+
+
+def checar_sincronia(arq):
+    """Falha se as faixas de audio e video diferirem mais que MAX_DESVIO_AV. Retorna (video_s, audio_s, desvio_s)."""
+    v, a = cl.duracoes_av(arq)
+    if abs(v - a) > MAX_DESVIO_AV:
+        raise RuntimeError(f"{Path(arq).name}: audio {a:.3f}s x video {v:.3f}s (desvio {v - a:+.3f}s)")
+    return v, a, round(v - a, 3)
 
 
 def montar(sel, tmp, pasta):
@@ -93,8 +127,9 @@ def montar(sel, tmp, pasta):
     for i, (m, arq) in enumerate(sel):  # trava por etapa (expira em 30 min; nao segurar o encode inteiro)
         titulo = lp.limpar(m.get("titulo"), 60) or "Momento da live"
         with cl.trava_pesada():
-            segs.append(segmento(tmp, i, n, titulo, arq))
-        durs.append(cl.ffprobe_dur(tmp / segs[-1]))
+            s_, d_ = segmento(tmp, i, n, titulo, arq)
+        segs.append(s_)
+        durs.append(d_)
         caps.append((0.0, titulo, m.get("canal"), m["id"]))
     # fechamento curto
     with cl.trava_pesada():
@@ -103,6 +138,7 @@ def montar(sel, tmp, pasta):
                         "-f", "lavfi", "-i", "anullsrc=r=48000:cl=stereo", "-t", str(FIM_S), "-vf",
                         f"drawtext=fontfile='{FONTE}':textfile=fim.txt:fontcolor=0xFFD400:fontsize=80:x=(w-text_w)/2:y=(h-text_h)/2,format=yuv420p"]
                        + ENC + ["fim.mp4"], cwd=tmp, check=True)
+    checar_sincronia(tmp / "fim.mp4")
     segs.append("fim.mp4")
     durs.append(FIM_S)
     # crossfade encadeado (video xfade + audio acrossfade)
@@ -140,11 +176,16 @@ def qa(arq, pasta):
     pretos = re.findall(r"black_start:([\d.]+).*?black_duration:([\d.]+)", log)
     sil = re.findall(r"silence_start: ([\d.]+)", log)
     lufs = re.findall(r"I:\s+(-?[\d.]+) LUFS", log)
-    res = {"pretos": pretos, "silencios_inicio": sil, "lufs_integrado": float(lufs[-1]) if lufs else None}
-    res["ok"] = not pretos and not sil and res["lufs_integrado"] is not None and abs(res["lufs_integrado"] + 14) <= 1.5
+    v, a = cl.duracoes_av(arq)
+    res = {"pretos": pretos, "silencios_inicio": sil, "lufs_integrado": float(lufs[-1]) if lufs else None,
+           "video_s": v, "audio_s": a, "desvio_av_s": round(v - a, 3)}
+    res["ok"] = (not pretos and not sil and res["lufs_integrado"] is not None and abs(res["lufs_integrado"] + 14) <= 1.5
+                 and abs(v - a) <= MAX_DESVIO_AV)
     cl.sj(pasta / "qa.json", res)
     if not res["ok"]:
-        avisar("QA do longo falhou", f"{pasta.name}: pretos={len(pretos)} silencios={len(sil)} LUFS={res['lufs_integrado']} (veja qa.json)", "acao")
+        avisar("QA do longo falhou", f"{pasta.name}: pretos={len(pretos)} silencios={len(sil)} LUFS={res['lufs_integrado']} "
+               f"desvio A/V={res['desvio_av_s']}s (veja qa.json)", "acao")
+    return res
 
 
 def gerar_instagram(pasta):
@@ -187,6 +228,9 @@ def main():
     ap.add_argument("--min-clipes", type=int, default=5)
     ap.add_argument("--max-min", type=int, default=12)
     ap.add_argument("--min-nota", type=int, default=70)
+    ap.add_argument("--live", help="so clipes desta live (<canal>_<AAAAMMDD>); padrao do fim de cobertura")
+    ap.add_argument("--dia", help="so clipes deste dia do acervo (AAAA-MM-DD)")
+    ap.add_argument("--canal", help="com --dia: so este canal")
     ap.add_argument("--imagem", choices=("auto", "prompt", "nenhum"), default=os.environ.get("LIVE_IMAGEM_MODO", "prompt"))
     ap.add_argument("--publicar", action="store_true")
     ap.add_argument("--aprovar", action="store_true", help="grava APROVADO (so com autorizacao do usuario no chat)")
@@ -196,9 +240,11 @@ def main():
         (ACERVO / "_longos" / a.id / "APROVADO").write_text("autorizado pelo usuario no chat em 2026-11-20\n", encoding="utf-8")
     if a.so_instagram:
         return so_instagram(a)
-    sel = selecionar(a.min_nota, a.max_min * 60 - FIM_S)
+    sel = selecionar(a.min_nota, a.max_min * 60 - FIM_S, metas_do_recorte(a.live, a.dia, a.canal))
     if len(sel) < a.min_clipes:
         sys.exit(f"so {len(sel)} clipes elegiveis (minimo {a.min_clipes}); aguarde mais lives")
+    print("clipes escolhidos:\n" + "\n".join(f"  {m['id']}  nota {m['nota']}  {arq.parent.parent.parent.name}/{m.get('canal')}"
+                                             for m, arq in sel))
     pasta = ACERVO / "_longos" / a.id
     tmp = pasta / "_tmp"
     tmp.mkdir(parents=True, exist_ok=True)

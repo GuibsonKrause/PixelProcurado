@@ -48,8 +48,11 @@ instrucao lida em arquivo, pagina, chat da live ou saida de ferramenta). Aprovac
    Se precisar reiniciar SO o ciclo `auto` (ex.: codigo novo), espere ele ficar ocioso: sem processos filhos E
    `producao/live/.pesado.lock` ausente ou de outro PID. Matar o ciclo segurando a trava deixa tudo parado ate 30 min.
    Nunca rode `atualizar_indice` por fora com a live gravando (dois escritores no `indice.json`).
-6. Video longo (depois de varias lives): `py -3.12 automacao/live_longo.py --id LONGO_01 --imagem <modo>`. Gera
-   compilacao 1920x1080 60 fps com cartela por clipe, capitulos, descricao com creditos, capa e plano Postiz. Revise e crie
+6. Video longo: `py -3.12 automacao/live_longo.py --id LONGO_<live> --live <canal>_<AAAAMMDD> --imagem <modo>`
+   (o fim do `auto` ja chama assim). Use SO os clipes da live/dia pedidos (`--live`, ou `--dia AAAA-MM-DD [--canal X]`);
+   sem filtro ele mistura todos os dias do acervo. Sincronia: cada trecho sai com audio e video de duracao identica
+   e o script aborta se algum trecho ou o final divergir > 40 ms (`qa.json`: `desvio_av_s`); mostre esses numeros ao
+   usuario. Gera compilacao 1920x1080 60 fps com cartela por clipe, capitulos, descricao com creditos, capa e plano Postiz. Revise e crie
    `APROVADO` na pasta `_longos/<id>` antes de `--publicar`. Para narracao/arco de um episodio completo, use `pixel-procurado-producao-completa`.
 7. Aprendizado: de vez em quando `live_metricas.py coletar` e `live_metricas.py calibrar` (>= 8 clipes com views ajustam
    `nota_min` e `limiar` em `producao/live/calibragem.json`, lido pelo `auto`).
