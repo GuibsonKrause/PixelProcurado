@@ -3,7 +3,7 @@
   "montagem": "P:",
   "cache_local_gb": 40,
   "disco_livre_min_gb": 15,
-  "extensoes_midia": [".mp4", ".mov", ".mkv", ".webm", ".ts", ".wav", ".mp3", ".m4a", ".f32", ".mbtree"],
+  "extensoes_midia": [".mp4", ".mov", ".mkv", ".webm", ".wav", ".mp3", ".m4a", ".f32", ".mbtree"],
   "arquivar_acima_mb": 20,
   "pastas": ["producao", "videosGTAVI/_live", "_curso"],
   "inativo_horas": 48,

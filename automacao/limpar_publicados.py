@@ -37,10 +37,14 @@ def publicado(estado_path):
     return True, "todas PUBLISHED"
 
 
-def alvos(pasta):
+def alvos(pasta, incluir_links=False):
+    """Videos regeneraveis. Links simbolicos (midia arquivada no Drive) so entram com incluir_links=True:
+    apagar o link nao apaga o arquivo no Drive; isso e feito por armazenamento.py."""
     vistos, out = set(), []
     for p in pasta.rglob("*"):
-        if not p.is_file() or p.suffix.lower() not in EXT:
+        if p.is_symlink() and not incluir_links:
+            continue
+        if not (p.is_file() or p.is_symlink()) or p.suffix.lower() not in EXT:
             continue
         partes = [x.lower() for x in p.relative_to(pasta).parts]
         if "referencias" in partes or "publicacao" in partes:
@@ -69,7 +73,7 @@ def main():
         if not ok:
             print(f"[pulado] {pasta.relative_to(RAIZ)}: {motivo}")
             continue
-        lista = [(str(p.relative_to(pasta)).replace("\\", "/"), p.stat().st_size) for p in alvos(pasta)]
+        lista = [(str(p.relative_to(pasta)).replace("\\", "/"), p.stat().st_size) for p in alvos(pasta)]  # sem links do Drive
         mb = sum(b for _, b in lista) / 1e6
         print(f"[{'APAGA' if a.apagar else 'simula'}] {pasta.relative_to(RAIZ)}: {len(lista)} arquivos, {mb:,.0f} MB")
         if a.apagar and lista:

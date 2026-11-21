@@ -1,6 +1,0 @@
-interface:
-  display_name: "Pixel Procurado — Edição de vídeo"
-  short_description: "Edição narrada com acervo, legendas e cards breves"
-  default_prompt: "Use $pixel-procurado-video para editar e renderizar o próximo episódio a partir da narração completa e do acervo disponível."
-policy:
-  allow_implicit_invocation: true

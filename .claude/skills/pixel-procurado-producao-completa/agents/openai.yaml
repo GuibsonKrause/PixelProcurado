@@ -1,4 +1,0 @@
-interface:
-  display_name: "Pixel Procurado - Producao completa"
-  short_description: "Transforma roteiro existente em video pronto"
-  default_prompt: "Use $pixel-procurado-producao-completa para produzir o video a partir do roteiro que eu indicar."

@@ -158,7 +158,7 @@ def idade_dias(iso_ou_ts):
 
 
 def itens_lives(remoto):
-    """Um item por clipe e por compilacao, com o que ocupa no Drive."""
+    """Um item por clipe e por compilacao (_longos), com o que ocupa no Drive."""
     longos = {}
     for mp in (LIVE / "_longos").glob("*/meta.json"):
         m = json.loads(mp.read_text(encoding="utf-8"))
@@ -190,6 +190,19 @@ def itens_lives(remoto):
         deriv = [k for k in arqs if Path(k).name in CFG["derivados_live"]]
         out.append({"cat": "lives", "id": rel(d), "valor": valor, "protegido": prot,
                     "fases": [(0.2, deriv), (0.8, [k for k in arqs if k not in deriv])], "arqs": arqs})
+    # compilacoes (_longos/<id>): protegidas ate publicar; depois valem 0,6 com a mesma meia-vida
+    for d in (LIVE / "_longos").glob("*"):
+        r_ = rel(d) + "/"
+        arqs = {k: v for k, v in remoto.items() if k.startswith(r_)}
+        if not d.is_dir() or not arqs:
+            continue
+        est = d / "POSTIZ_ESTADO.json"
+        m = json.loads((d / "meta.json").read_text(encoding="utf-8")) if (d / "meta.json").exists() else {}
+        pub = m.get("status") == "publicado" or (est.exists() and publicado(est)[0])
+        valor = 0.6 * 0.5 ** (idade_dias(d.stat().st_mtime) / CFG["meia_vida_dias"]["lives"])
+        deriv = [k for k in arqs if Path(k).name in CFG["derivados_live"] or "/_v2/" in k]
+        out.append({"cat": "lives", "id": rel(d), "valor": valor, "protegido": not pub,
+                    "fases": [(0.2, deriv), (0.8, [k for k in arqs if k not in deriv])], "arqs": arqs})
     return out
 
 
@@ -203,7 +216,7 @@ def itens_publicados(remoto):
             continue
         ok, _ = publicado(est)
         valor = 0.5 ** (idade_dias(est.stat().st_mtime) / CFG["meia_vida_dias"]["publicados"])
-        inter = {rel(p) for p in intermediarios(d)} & set(arqs)
+        inter = {rel(p) for p in intermediarios(d, incluir_links=True)} & set(arqs)
         final = [k for k in arqs if k not in inter and "/publicacao/" not in k]
         out.append({"cat": "publicados", "id": rel(d), "valor": valor, "protegido": not ok,
                     "fases": [(0.1, sorted(inter)), (0.9, final)], "arqs": arqs, "estado": est})

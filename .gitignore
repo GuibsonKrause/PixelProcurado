@@ -22,6 +22,7 @@ node_modules/
 __pycache__/
 *.pyc
 graphify-out/
+.claude/skills/
 _armazenamento/
 *.baixando
 
@@ -30,7 +31,8 @@ _armazenamento/
 *.mov
 *.mkv
 *.webm
-*.ts
+seg_*.ts
+**/segmentos/
 *.wav
 *.mp3
 *.m4a

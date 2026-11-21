@@ -9,7 +9,7 @@ rel=$(git ls-files -s | sed 's/^[0-9]* \([0-9a-f]*\) [0-9]*\t/\1 /' \
   | git cat-file --batch-check='%(objectsize) %(rest)' \
   | awk -v la="$LIMITE_ARQ" -v lr="$LIMITE_REPO" '
       { tam = $1; caminho = substr($0, index($0, " ") + 1); total += tam; low = tolower(caminho) }
-      low ~ /\.(mp4|mov|mkv|webm|ts|wav|mp3|m4a|f32|mbtree|zip|7z|pdf)$/ { print "BLOQUEADO (midia -> Drive): " caminho; ruim = 1 }
+      low ~ /\.(mp4|mov|mkv|webm|wav|mp3|m4a|f32|mbtree|zip|7z|pdf)$/ { print "BLOQUEADO (midia -> Drive): " caminho; ruim = 1 }
       tam > la { printf "BLOQUEADO (> 5 MB: %.1f MB): %s\n", tam / 1048576, caminho; ruim = 1 }
       END { if (total > lr) { printf "BLOQUEADO: versionados somam %.0f MB (limite 100 MB)\n", total / 1048576; ruim = 1 }
             if (ruim) print "FALHA" }')

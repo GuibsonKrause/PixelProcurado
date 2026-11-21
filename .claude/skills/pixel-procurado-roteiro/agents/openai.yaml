@@ -1,4 +1,0 @@
-interface:
-  display_name: "Pixel Procurado — Roteiros"
-  short_description: "Roteiros narrados com pesquisa e direção visual"
-  default_prompt: "Use $pixel-procurado-roteiro para escrever um roteiro com gancho curto, humor brasileiro e direção visual baseada no acervo."
